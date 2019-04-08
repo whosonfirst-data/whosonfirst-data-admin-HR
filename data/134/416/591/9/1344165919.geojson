@@ -1,0 +1,73 @@
+{
+  "id": 1344165919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.67417,45.13611,17.67417,45.13611",
+    "geom:latitude":45.13611,
+    "geom:longitude":17.67417,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049501.0",
+    "gn:asciiname":"Pricac",
+    "gn:country_code":"HR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192444,
+    "gn:latitude":45.13611,
+    "gn:longitude":17.67417,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Pri\u010dac",
+    "gn:population":103,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pri\u010dac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192444,
+        "wk:page":"Pri%C4%8Dac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0d97923158f6f4643bc7145f0e7de3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344165919,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1344165919,
+    "wof:lastmodified":1537625843,
+    "wof:name":"Pricac",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.67417,
+    45.13611,
+    17.67417,
+    45.13611
+],
+  "geometry": {"coordinates":[17.67417,45.13611],"type":"Point"}
+}

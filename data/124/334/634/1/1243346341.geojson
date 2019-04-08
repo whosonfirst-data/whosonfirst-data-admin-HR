@@ -1,0 +1,65 @@
+{
+  "id": 1243346341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.20667,43.45917,17.20667,43.45917",
+    "geom:latitude":43.45917,
+    "geom:longitude":17.20667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Jazici",
+    "gn:country_code":"HR",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282230,
+    "gn:latitude":43.45917,
+    "gn:longitude":17.20667,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Ja\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282230
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b2e67ca343607904ef01335e98ad1b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243346341,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1243346341,
+    "wof:lastmodified":1536950198,
+    "wof:name":"Jazici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.20667000000001,
+    43.45917,
+    17.20667000000001,
+    43.45917
+],
+  "geometry": {"coordinates":[17.20667000000001,43.45917],"type":"Point"}
+}

@@ -1,0 +1,130 @@
+{
+  "id": 1126003371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50479,44.51729,14.50479,44.51729",
+    "geom:latitude":44.51729,
+    "geom:longitude":14.50479,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":917,
+    "gn:population":901,
+    "iso:country":"HR",
+    "lbl:latitude":44.51729,
+    "lbl:longitude":14.50479,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Veli Lo\u0161inj"
+    ],
+    "name:dut_x_preferred":[
+        "Veli Lo\u0161inj"
+    ],
+    "name:eng_x_preferred":[
+        "Veli Losinj"
+    ],
+    "name:fre_x_preferred":[
+        "Veli Lo\u0161inj"
+    ],
+    "name:ger_x_preferred":[
+        "Veli Lo\u0161inj"
+    ],
+    "name:hrv_x_preferred":[
+        "Veli Lo\u0161inj"
+    ],
+    "name:hun_x_preferred":[
+        "Veli Lo\u0161inj"
+    ],
+    "name:ita_x_preferred":[
+        "Lussingrande"
+    ],
+    "name:lat_x_preferred":[
+        "Lussinum Maius"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438 \u041b\u043e\u0448\u0438\u043d\u044c"
+    ],
+    "name:slv_x_preferred":[
+        "Veli Lo\u0161inj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438 \u041b\u043e\u0448\u0438\u045a"
+    ],
+    "name:unk_x_variant":[
+        "Lussingrande"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3187915,
+    "qs_pg:gn_pop":917,
+    "qs_pg:name":"Veli Lo\u00b5inj",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Primorsko-Goranska",
+    "qs_pg:photos":517,
+    "qs_pg:photos_1k":105,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":517,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":278485,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850824,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Primorsko-Goranska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187915,
+        "gp:id":850824,
+        "qs_pg:id":278485,
+        "wd:id":"Q2001915"
+    },
+    "wof:country":"HR",
+    "wof:created":1497299785,
+    "wof:geomhash":"2843c773dc94cdd344262ad3d6e17246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126003371,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1126003371,
+    "wof:lastmodified":1514447675,
+    "wof:name":"Veli Lo\u00b5inj",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":901,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50479,
+    44.51729,
+    14.50479,
+    44.51729
+],
+  "geometry": {"coordinates":[14.50479,44.51729],"type":"Point"}
+}

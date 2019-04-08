@@ -1,0 +1,69 @@
+{
+  "id": 1242956573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55768,45.25707,16.55768,45.25707",
+    "geom:latitude":45.25707,
+    "geom:longitude":16.55768,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"11049230.0",
+    "gn:asciiname":"Kostrici",
+    "gn:country_code":"HR",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278422,
+    "gn:latitude":45.25707,
+    "gn:longitude":16.55768,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Kostri\u0107i",
+    "gn:population":3,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278422
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ebef6635e4b5aa9b11c07d06e95b7489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242956573,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1242956573,
+    "wof:lastmodified":1537014159,
+    "wof:name":"Kostrici",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55768,
+    45.25707,
+    16.55768,
+    45.25707
+],
+  "geometry": {"coordinates":[16.55768,45.25707],"type":"Point"}
+}

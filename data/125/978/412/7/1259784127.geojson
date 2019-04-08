@@ -1,0 +1,75 @@
+{
+  "id": 1259784127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99083,44.93944,13.99083,44.93944",
+    "geom:latitude":44.93944,
+    "geom:longitude":13.99083,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054808.0",
+    "gn:asciiname":"Veliki Vareski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187978,
+    "gn:latitude":44.93944,
+    "gn:longitude":13.99083,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Veliki Vare\u0161ki",
+    "gn:population":25,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vareschi",
+        "Vareschi Grande",
+        "Veliki Vare\u0161ki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187978
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"901cd185cd4ea1279a9780e36ed7c27c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259784127,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1259784127,
+    "wof:lastmodified":1537625812,
+    "wof:name":"Veliki Vareski",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99083,
+    44.93944000000001,
+    13.99083,
+    44.93944000000001
+],
+  "geometry": {"coordinates":[13.99083,44.93944000000001],"type":"Point"}
+}

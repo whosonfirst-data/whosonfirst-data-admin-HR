@@ -1,0 +1,65 @@
+{
+  "id": 1209587113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.00278,45.64972,18.00278,45.64972",
+    "geom:latitude":45.64972,
+    "geom:longitude":18.00278,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049455.0",
+    "gn:asciiname":"Mali Rastovac",
+    "gn:country_code":"HR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195628,
+    "gn:latitude":45.64972,
+    "gn:longitude":18.00278,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Mali Rastovac",
+    "gn:population":54,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195628
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"03212f7ed56cb0c51d8d1cb82d2582f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209587113
+        }
+    ],
+    "wof:id":1209587113,
+    "wof:lastmodified":1536282599,
+    "wof:name":"Mali Rastovac",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.002779999999994,
+    45.64972,
+    18.002779999999994,
+    45.64972
+],
+  "geometry": {"coordinates":[18.00277999999999,45.64972],"type":"Point"}
+}

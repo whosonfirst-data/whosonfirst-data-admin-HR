@@ -1,0 +1,65 @@
+{
+  "id": 1293774715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.315,44.63611,15.315,44.63611",
+    "geom:latitude":44.63611,
+    "geom:longitude":15.315,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Balenija",
+    "gn:country_code":"HR",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217590,
+    "gn:latitude":44.63611,
+    "gn:longitude":15.315,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Balenija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217590
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"53a487c5c3ac803c9c95bf1c4fe5003c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293774715,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1293774715,
+    "wof:lastmodified":1536868955,
+    "wof:name":"Balenija",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.315,
+    44.63611,
+    15.315,
+    44.63611
+],
+  "geometry": {"coordinates":[15.315,44.63611],"type":"Point"}
+}

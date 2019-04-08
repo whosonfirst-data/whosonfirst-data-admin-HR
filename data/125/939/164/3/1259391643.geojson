@@ -1,0 +1,71 @@
+{
+  "id": 1259391643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.205,45.24111,17.205,45.24111",
+    "geom:latitude":45.24111,
+    "geom:longitude":17.205,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"11049495.0",
+    "gn:asciiname":"Dubovac Okucanski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214798,
+    "gn:latitude":45.24111,
+    "gn:longitude":17.205,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Dubovac Oku\u010danski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dubovac",
+        "Dubovac Oku\u010danski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214798
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"06494f517d0bb059b583a1108e1f4782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259391643,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1259391643,
+    "wof:lastmodified":1537625947,
+    "wof:name":"Dubovac Okucanski",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.205,
+    45.24111,
+    17.205,
+    45.24111
+],
+  "geometry": {"coordinates":[17.205,45.24111],"type":"Point"}
+}

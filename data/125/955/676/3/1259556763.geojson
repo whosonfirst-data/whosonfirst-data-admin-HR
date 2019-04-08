@@ -1,0 +1,65 @@
+{
+  "id": 1259556763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50444,43.88056,16.50444,43.88056",
+    "geom:latitude":43.88056,
+    "geom:longitude":16.50444,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Perusi",
+    "gn:country_code":"HR",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278592,
+    "gn:latitude":43.88056,
+    "gn:longitude":16.50444,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Peru\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278592
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"659f1d3ce77a5c719555b1ac0f9ccb62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259556763,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1259556763,
+    "wof:lastmodified":1536753433,
+    "wof:name":"Perusi",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50444,
+    43.88056,
+    16.50444,
+    43.88056
+],
+  "geometry": {"coordinates":[16.50444,43.88056],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1125991807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31833,44.35167,15.31833,44.35167",
+    "geom:latitude":44.35167,
+    "geom:longitude":15.31833,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"HR",
+    "lbl:latitude":44.35167,
+    "lbl:longitude":15.31833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Tribanj"
+    ],
+    "name:dut_x_preferred":[
+        "Tribanj"
+    ],
+    "name:eng_x_preferred":[
+        "Tribanj"
+    ],
+    "name:hrv_x_preferred":[
+        "Tribanj"
+    ],
+    "name:hun_x_preferred":[
+        "Tribanj"
+    ],
+    "name:slv_x_preferred":[
+        "Tribanj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0438\u0431\u0430\u045a"
+    ],
+    "name:unk_x_variant":[
+        "Tribanj"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3188842,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tribanj-Kru\u0161\u0107ica",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Zadarsko-Kninska",
+    "qs_pg:photos":46,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":46,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":894633,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850699,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Zadarsko-Kninska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188842,
+        "gp:id":850699,
+        "qs_pg:id":894633,
+        "wd:id":"Q3437436"
+    },
+    "wof:country":"HR",
+    "wof:created":1497299097,
+    "wof:geomhash":"16eec83e9f80ebebd624e463eff114b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125991807,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1125991807,
+    "wof:lastmodified":1514447663,
+    "wof:name":"Tribanj-Kru\u0161\u0107ica",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31833,
+    44.35167,
+    15.31833,
+    44.35167
+],
+  "geometry": {"coordinates":[15.31833,44.35167],"type":"Point"}
+}

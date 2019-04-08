@@ -1,0 +1,71 @@
+{
+  "id": 1343236539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36667,45.88333,16.36667,45.88333",
+    "geom:latitude":45.88333,
+    "geom:longitude":16.36667,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"3187264.0",
+    "gn:asciiname":"Pirakovec Vrbovecki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193343,
+    "gn:latitude":45.88333,
+    "gn:longitude":16.36667,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Pirakovec Vrbove\u010dki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pirakovec",
+        "Pirakovec Vrbove\u010dki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193343
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"175b2db71b01398f20ab06210681b646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343236539,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1343236539,
+    "wof:lastmodified":1537625849,
+    "wof:name":"Pirakovec Vrbovecki",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36667000000001,
+    45.88333,
+    16.36667000000001,
+    45.88333
+],
+  "geometry": {"coordinates":[16.36667000000001,45.88333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310311235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99306,45.34861,13.99306,45.34861",
+    "geom:latitude":45.34861,
+    "geom:longitude":13.99306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"3202941.0",
+    "gn:asciiname":"Racicki Brijeg",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343496,
+    "gn:latitude":45.34861,
+    "gn:longitude":13.99306,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Ra\u010di\u010dki Brijeg",
+    "gn:population":51,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u010di\u010dki Breg",
+        "Ra\u010di\u010dki Brijeg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343496
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e0ee127a2347dee464b5798fcacc2387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310311235,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1310311235,
+    "wof:lastmodified":1537625966,
+    "wof:name":"Racicki Brijeg",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99306,
+    45.34861,
+    13.99306,
+    45.34861
+],
+  "geometry": {"coordinates":[13.99306,45.34861],"type":"Point"}
+}

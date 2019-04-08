@@ -1,0 +1,80 @@
+{
+  "id": 1125825247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.861412,44.70673,14.861412,44.70673",
+    "geom:latitude":44.70673,
+    "geom:longitude":14.861412,
+    "gn:gn_country":"HR",
+    "iso:country":"HR",
+    "lbl:latitude":44.70673,
+    "lbl:longitude":14.861412,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:name":"Pudarica",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Primorsko-Goranska",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1088140,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":849898,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Primorsko-Goranska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":849898,
+        "qs_pg:id":1088140
+    },
+    "wof:country":"HR",
+    "wof:created":1497292246,
+    "wof:geomhash":"c3a2bb760d32ec0b1902fd2b20b652c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125825247,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1125825247,
+    "wof:lastmodified":1509394362,
+    "wof:name":"Pudarica",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.861412,
+    44.70673,
+    14.861412,
+    44.70673
+],
+  "geometry": {"coordinates":[14.861412,44.70673],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226317241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7,45.88333,15.7,45.88333",
+    "geom:latitude":45.88333,
+    "geom:longitude":15.7,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11048982.0",
+    "gn:asciiname":"Harmica",
+    "gn:country_code":"HR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199410,
+    "gn:latitude":45.88333,
+    "gn:longitude":15.7,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Harmica",
+    "gn:population":284,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199410,
+        "wk:page":"Harmica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7545c9b14f396d41372e93930d7ed9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226317241,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1226317241,
+    "wof:lastmodified":1537563299,
+    "wof:name":"Harmica",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":284,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7,
+    45.88333,
+    15.7,
+    45.88333
+],
+  "geometry": {"coordinates":[15.7,45.88333],"type":"Point"}
+}

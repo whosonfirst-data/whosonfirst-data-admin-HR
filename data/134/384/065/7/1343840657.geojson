@@ -1,0 +1,65 @@
+{
+  "id": 1343840657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61806,43.76806,16.61806,43.76806",
+    "geom:latitude":43.76806,
+    "geom:longitude":16.61806,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bosnjaci",
+    "gn:country_code":"HR",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277162,
+    "gn:latitude":43.76806,
+    "gn:longitude":16.61806,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Bo\u0161njaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277162
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"220b2b5ef98953384ae7333ea1743bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343840657,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1343840657,
+    "wof:lastmodified":1536695415,
+    "wof:name":"Bosnjaci",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61806,
+    43.76806,
+    16.61806,
+    43.76806
+],
+  "geometry": {"coordinates":[16.61806,43.76806],"type":"Point"}
+}

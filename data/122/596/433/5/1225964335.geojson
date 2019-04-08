@@ -1,0 +1,71 @@
+{
+  "id": 1225964335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14972,44.78028,15.14972,44.78028",
+    "geom:latitude":44.78028,
+    "geom:longitude":15.14972,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049291.0",
+    "gn:asciiname":"Klobucari",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217848,
+    "gn:latitude":44.78028,
+    "gn:longitude":15.14972,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Klobu\u010dari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klobu\u010dare",
+        "Klobu\u010dari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217848
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"01858b4437244fa84bf8c0fcdb79aa1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225964335,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1225964335,
+    "wof:lastmodified":1537625957,
+    "wof:name":"Klobucari",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14972,
+    44.78028,
+    15.14972,
+    44.78028
+],
+  "geometry": {"coordinates":[15.14972,44.78028],"type":"Point"}
+}

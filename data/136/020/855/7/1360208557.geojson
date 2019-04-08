@@ -1,0 +1,73 @@
+{
+  "id": 1360208557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86139,45.2225,13.86139,45.2225",
+    "geom:latitude":45.2225,
+    "geom:longitude":13.86139,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"3193560.0",
+    "gn:asciiname":"Veli Jezenj",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188282,
+    "gn:latitude":45.2225,
+    "gn:longitude":13.86139,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Veli Je\u017eenj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jezenj",
+        "Ieseni Grande",
+        "Veli Je\u017eenj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188282,
+        "wk:page":"Je%C5%BEenj"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2972ee0dbcb922ae295cb5f406db0760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360208557,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1360208557,
+    "wof:lastmodified":1537625814,
+    "wof:name":"Veli Jezenj",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86139,
+    45.2225,
+    13.86139,
+    45.2225
+],
+  "geometry": {"coordinates":[13.86139,45.2225],"type":"Point"}
+}

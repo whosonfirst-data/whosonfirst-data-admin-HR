@@ -1,0 +1,75 @@
+{
+  "id": 1360284729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89953,45.50346,15.89953,45.50346",
+    "geom:latitude":45.50346,
+    "geom:longitude":15.89953,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049275.0",
+    "gn:asciiname":"Desni Stefanki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202063,
+    "gn:latitude":45.50346,
+    "gn:longitude":15.89953,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Desni \u0160tefanki",
+    "gn:population":265,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160tefanski Desni",
+        "\u0160tefanki Desni",
+        "Desni \u0160tefanki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202063
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ab33a254dcf6e0a198a5914b19b10557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360284729,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1360284729,
+    "wof:lastmodified":1537625920,
+    "wof:name":"Desni Stefanki",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":265,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89953,
+    45.50346,
+    15.89953,
+    45.50346
+],
+  "geometry": {"coordinates":[15.89953,45.50346],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1310425743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38639,44.60417,15.38639,44.60417",
+    "geom:latitude":44.60417,
+    "geom:longitude":15.38639,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Progon",
+    "gn:country_code":"HR",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271476,
+    "gn:latitude":44.60417,
+    "gn:longitude":15.38639,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Progon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271476
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4d6940741d371b30e29bc8d8e60a4344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310425743,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1310425743,
+    "wof:lastmodified":1537030757,
+    "wof:name":"Progon",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38639,
+    44.60417,
+    15.38639,
+    44.60417
+],
+  "geometry": {"coordinates":[15.38639,44.60417],"type":"Point"}
+}

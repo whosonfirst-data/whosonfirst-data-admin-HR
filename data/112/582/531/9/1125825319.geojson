@@ -1,0 +1,102 @@
+{
+  "id": 1125825319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.948808,45.898797,15.948808,45.898797",
+    "geom:latitude":45.898797,
+    "geom:longitude":15.948808,
+    "gn:gn_country":null,
+    "iso:country":"HR",
+    "lbl:latitude":45.898797,
+    "lbl:longitude":15.948808,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Sljeme"
+    ],
+    "name:dut_x_preferred":[
+        "Sljeme"
+    ],
+    "name:eng_x_preferred":[
+        "Sljeme"
+    ],
+    "name:hrv_x_preferred":[
+        "Sljeme"
+    ],
+    "name:hun_x_preferred":[
+        "Sljeme"
+    ],
+    "name:slv_x_preferred":[
+        "Sljeme"
+    ],
+    "name:spa_x_preferred":[
+        "Sljeme"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sljeme",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Krapinsko-Zagorska",
+    "qs_pg:photos":226,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":226,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1088241,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850295,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Krapinsko-Zagorska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":850295,
+        "qs_pg:id":1088241,
+        "wd:id":"Q628984"
+    },
+    "wof:country":"HR",
+    "wof:created":1497292249,
+    "wof:geomhash":"4d4065ccf28b0267f8de9d16b9534168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125825319,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1125825319,
+    "wof:lastmodified":1514447633,
+    "wof:name":"Sljeme",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.948808,
+    45.898797,
+    15.948808,
+    45.898797
+],
+  "geometry": {"coordinates":[15.948808,45.898797],"type":"Point"}
+}

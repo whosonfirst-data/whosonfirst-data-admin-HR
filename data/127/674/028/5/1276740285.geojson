@@ -1,0 +1,72 @@
+{
+  "id": 1276740285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71028,44.79222,14.71028,44.79222",
+    "geom:latitude":44.79222,
+    "geom:longitude":14.71028,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampor",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198356,
+    "gn:latitude":44.79222,
+    "gn:longitude":14.71028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kampor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matrda",
+        "Kampora",
+        "Kampor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198356,
+        "wk:page":"Kampor"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a7fbc92890a7cd0d24ec816f5fc52fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276740285,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1276740285,
+    "wof:lastmodified":1537625889,
+    "wof:name":"Kampor",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71028,
+    44.79222,
+    14.71028,
+    44.79222
+],
+  "geometry": {"coordinates":[14.71028,44.79222],"type":"Point"}
+}

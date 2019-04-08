@@ -1,0 +1,109 @@
+{
+  "id": 101844771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:bbox":"18.0743365838,45.1371266319,18.0826583784,45.1491551358",
+    "geom:latitude":45.143184,
+    "geom:longitude":18.078988,
+    "iso:country":"HR",
+    "lbl:latitude":45.143264,
+    "lbl:longitude":18.078294,
+    "mps:latitude":45.143264,
+    "mps:longitude":18.078294,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Klakar"
+    ],
+    "name:deu_x_preferred":[
+        "Klakar"
+    ],
+    "name:fra_x_preferred":[
+        "Klakar"
+    ],
+    "name:hbs_x_preferred":[
+        "Klakar"
+    ],
+    "name:hrv_x_preferred":[
+        "Klakar"
+    ],
+    "name:ita_x_preferred":[
+        "Klakar"
+    ],
+    "name:nld_x_preferred":[
+        "Klakar"
+    ],
+    "name:pol_x_preferred":[
+        "Klakar"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Klakar"
+    ],
+    "name:slv_x_preferred":[
+        "Klakar"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u0430\u043a\u0430\u0440"
+    ],
+    "name:war_x_preferred":[
+        "Klakar"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Brodsko-posavska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Klakar",
+    "qs:la_lc":"*HR1201856",
+    "qs:level":"locality",
+    "qs:loc":"Ru\u0161\u0107ica",
+    "qs:loc_alt":"Ruscica",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191402,
+        "gp:id":850288,
+        "qs:id":5,
+        "wd:id":"Q1269866"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"abbe771c1d677517c50b145ff4ef8a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844771,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":101844771,
+    "wof:lastmodified":1527642624,
+    "wof:name":"Ru\u0161\u0107ica",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0743365838448,
+    45.13712663188932,
+    18.08265837844931,
+    45.14915513578745
+],
+  "geometry": {"coordinates":[[[18.08170157261526,45.14896024040104],[18.0814398113443,45.147169679885],[18.08017608379856,45.14726713152891],[18.0792602335809,45.14100013216358],[18.08052382080223,45.14090269325175],[18.08039298708928,45.14000740629393],[18.08165655028046,45.13990995402509],[18.08139485932816,45.1381193813815],[18.08265837844931,45.13802191757526],[18.08252752121155,45.13712663188932],[18.08000051906248,45.1373215406893],[18.08026215889549,45.13911211854759],[18.07773506063722,45.13930697392135],[18.07812744151681,45.14199284570589],[18.0743365838448,45.14228503131017],[18.07446732837002,45.14318032578228],[18.07573097162515,45.14308294393965],[18.07586174171269,45.14397823580623],[18.07712540102835,45.14388083696895],[18.07751780453646,45.14656670238634],[18.07878152000916,45.14646928291688],[18.07917403333499,45.14915513578745],[18.08170157261526,45.14896024040104]]],"type":"Polygon"}
+}

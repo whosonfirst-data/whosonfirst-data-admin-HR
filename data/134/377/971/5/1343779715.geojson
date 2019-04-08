@@ -1,0 +1,70 @@
+{
+  "id": 1343779715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25222,45.67222,17.25222,45.67222",
+    "geom:latitude":45.67222,
+    "geom:longitude":17.25222,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"3199514.0",
+    "gn:asciiname":"Ivanovo Selo",
+    "gn:country_code":"HR",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199043,
+    "gn:latitude":45.67222,
+    "gn:longitude":17.25222,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Ivanovo Selo",
+    "gn:population":264,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199043,
+        "wk:page":"Ivanovo_Selo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5c7cdf0b7f29447e49e16f5d13649c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343779715,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1343779715,
+    "wof:lastmodified":1537563298,
+    "wof:name":"Ivanovo Selo",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25222,
+    45.67222,
+    17.25222,
+    45.67222
+],
+  "geometry": {"coordinates":[17.25222,45.67222],"type":"Point"}
+}

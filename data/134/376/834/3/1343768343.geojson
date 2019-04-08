@@ -1,0 +1,74 @@
+{
+  "id": 1343768343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70583,45.26806,13.70583,45.26806",
+    "geom:latitude":45.26806,
+    "geom:longitude":13.70583,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11129785.0",
+    "gn:asciiname":"Milanezi",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195147,
+    "gn:latitude":45.26806,
+    "gn:longitude":13.70583,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Milanezi",
+    "gn:population":14,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milanesi",
+        "Milanezi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195147
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"26dcbbd4e8b9695f12c39cfb28915a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343768343,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1343768343,
+    "wof:lastmodified":1537625862,
+    "wof:name":"Milanezi",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70583,
+    45.26806,
+    13.70583,
+    45.26806
+],
+  "geometry": {"coordinates":[13.70583,45.26806],"type":"Point"}
+}

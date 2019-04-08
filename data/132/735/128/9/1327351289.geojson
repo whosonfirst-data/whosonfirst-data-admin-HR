@@ -1,0 +1,69 @@
+{
+  "id": 1327351289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.22667,45.78083,17.22667,45.78083",
+    "geom:latitude":45.78083,
+    "geom:longitude":17.22667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049424.0",
+    "gn:asciiname":"Topolovica",
+    "gn:country_code":"HR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188974,
+    "gn:latitude":45.78083,
+    "gn:longitude":17.22667,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Topolovica",
+    "gn:population":15,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188974
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6ff5faea7700d78a5c75b6470a7d73ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327351289,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1327351289,
+    "wof:lastmodified":1536798078,
+    "wof:name":"Topolovica",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.22667,
+    45.78083,
+    17.22667,
+    45.78083
+],
+  "geometry": {"coordinates":[17.22667,45.78083],"type":"Point"}
+}

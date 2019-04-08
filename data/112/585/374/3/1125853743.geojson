@@ -1,0 +1,123 @@
+{
+  "id": 1125853743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.60972,45.27556,18.60972,45.27556",
+    "geom:latitude":45.27556,
+    "geom:longitude":18.60972,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2123,
+    "gn:population":2123,
+    "iso:country":"HR",
+    "lbl:latitude":45.27556,
+    "lbl:longitude":18.60972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Vo\u0111inci"
+    ],
+    "name:dut_x_preferred":[
+        "Vo\u0111inci"
+    ],
+    "name:eng_x_preferred":[
+        "Vo\u0111inci"
+    ],
+    "name:fre_x_preferred":[
+        "Vo\u0111inci"
+    ],
+    "name:hrv_x_preferred":[
+        "Vo\u0111inci"
+    ],
+    "name:ita_x_preferred":[
+        "Vo\u0111inci"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Vo\u0111inci"
+    ],
+    "name:spa_x_preferred":[
+        "Vo\u0111inci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u0452\u0438\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vo\u0111inci"
+    ],
+    "name:unk_x_variant":[
+        "Vodjinci"
+    ],
+    "name:war_x_preferred":[
+        "Vo\u0111inci"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3187482,
+    "qs_pg:gn_pop":2123,
+    "qs_pg:name":"Vo\u00f0inci",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Vukovarsko-Srijemska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1275710,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850985,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Vukovarsko-Srijemska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187482,
+        "gp:id":850985,
+        "qs_pg:id":1275710,
+        "wd:id":"Q1293864"
+    },
+    "wof:country":"HR",
+    "wof:created":1497293523,
+    "wof:geomhash":"c9a63ff7f0ca262038eeabd582909dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125853743,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":1125853743,
+    "wof:lastmodified":1514447689,
+    "wof:name":"Vo\u00f0inci",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":2123,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.60972,
+    45.27556,
+    18.60972,
+    45.27556
+],
+  "geometry": {"coordinates":[18.60972,45.27556],"type":"Point"}
+}

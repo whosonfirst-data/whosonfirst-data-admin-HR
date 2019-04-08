@@ -1,0 +1,70 @@
+{
+  "id": 1293079971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35,45.6,16.35,45.6",
+    "geom:latitude":45.6,
+    "geom:longitude":16.35,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Luka Desna",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196086,
+    "gn:latitude":45.6,
+    "gn:longitude":16.35,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Luka Desna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Desna Luka",
+        "Luka Desna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196086
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"530d39d9f4fd4c3aca2243020d40b9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293079971,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1293079971,
+    "wof:lastmodified":1537625871,
+    "wof:name":"Luka Desna",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35,
+    45.6,
+    16.35,
+    45.6
+],
+  "geometry": {"coordinates":[16.35,45.6],"type":"Point"}
+}

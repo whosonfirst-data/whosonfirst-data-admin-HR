@@ -1,0 +1,70 @@
+{
+  "id": 1209588717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.29472,43.52722,16.29472,43.52722",
+    "geom:latitude":43.52722,
+    "geom:longitude":16.29472,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"3188762.0",
+    "gn:asciiname":"Divulje",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202004,
+    "gn:latitude":43.52722,
+    "gn:longitude":16.29472,
+    "gn:modification_date":"2017-01-02",
+    "gn:name":"Divulje",
+    "gn:population":26,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djvulje",
+        "Divulje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202004
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a81f33b30739fb9140e09b564d7d70c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209588717
+        }
+    ],
+    "wof:id":1209588717,
+    "wof:lastmodified":1537625919,
+    "wof:name":"Divulje",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.29472,
+    43.52722,
+    16.29472,
+    43.52722
+],
+  "geometry": {"coordinates":[16.29472,43.52722],"type":"Point"}
+}

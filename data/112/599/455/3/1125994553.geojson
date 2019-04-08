@@ -1,0 +1,123 @@
+{
+  "id": 1125994553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50559,45.50009,13.50559,45.50009",
+    "geom:latitude":45.50009,
+    "geom:longitude":13.50559,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"HR",
+    "lbl:latitude":45.50009,
+    "lbl:longitude":13.50559,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Savudrija"
+    ],
+    "name:dut_x_preferred":[
+        "Savudrija"
+    ],
+    "name:eng_x_preferred":[
+        "Savudrija"
+    ],
+    "name:fre_x_preferred":[
+        "Savudrija"
+    ],
+    "name:ger_x_preferred":[
+        "Savudrija"
+    ],
+    "name:hrv_x_preferred":[
+        "Savudrija"
+    ],
+    "name:hun_x_preferred":[
+        "Savudrija"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f4\u30c9\u30ea\u30a2"
+    ],
+    "name:slv_x_preferred":[
+        "Savudrija"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0432\u0443\u0434\u0440\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Savudrija"
+    ],
+    "name:unk_x_variant":[
+        "Mjesto Savudrija"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3191219,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Savudrija",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Istarska",
+    "qs_pg:photos":390,
+    "qs_pg:photos_1k":79,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":390,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":898545,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850124,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Istarska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191219,
+        "gp:id":850124,
+        "qs_pg:id":898545,
+        "wd:id":"Q741419"
+    },
+    "wof:country":"HR",
+    "wof:created":1497299234,
+    "wof:geomhash":"0087ec401696147a1e919c59807fa2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125994553,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1125994553,
+    "wof:lastmodified":1514447620,
+    "wof:name":"Savudrija",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50559,
+    45.50009,
+    13.50559,
+    45.50009
+],
+  "geometry": {"coordinates":[13.50559,45.50009],"type":"Point"}
+}

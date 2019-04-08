@@ -1,0 +1,74 @@
+{
+  "id": 1225845337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90667,45.04417,13.90667,45.04417",
+    "geom:latitude":45.04417,
+    "geom:longitude":13.90667,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054820.0",
+    "gn:asciiname":"Rezanci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191702,
+    "gn:latitude":45.04417,
+    "gn:longitude":13.90667,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Re\u017eanci",
+    "gn:population":219,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Resansi",
+        "Re\u017eanci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191702
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8d3f0346cb93b2846a727ad18754a4f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225845337,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1225845337,
+    "wof:lastmodified":1537625838,
+    "wof:name":"Rezanci",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":219,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90667,
+    45.04417,
+    13.90667,
+    45.04417
+],
+  "geometry": {"coordinates":[13.90667,45.04417],"type":"Point"}
+}

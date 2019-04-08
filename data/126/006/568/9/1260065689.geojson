@@ -1,0 +1,70 @@
+{
+  "id": 1260065689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38528,44.50333,15.38528,44.50333",
+    "geom:latitude":44.50333,
+    "geom:longitude":15.38528,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Poljari",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3217239,
+    "gn:latitude":44.50333,
+    "gn:longitude":15.38528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Poljari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Polje Curini",
+        "Poljari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217239
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fe93708f86ac9b506e35c69c80de3228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260065689,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1260065689,
+    "wof:lastmodified":1537625953,
+    "wof:name":"Poljari",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38528,
+    44.50333,
+    15.38528,
+    44.50333
+],
+  "geometry": {"coordinates":[15.38528,44.50333],"type":"Point"}
+}

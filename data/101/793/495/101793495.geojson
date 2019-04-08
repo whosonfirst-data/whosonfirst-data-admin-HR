@@ -1,0 +1,158 @@
+{
+  "id": 101793495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000224,
+    "geom:area_square_m":1955701.438754,
+    "geom:bbox":"19.1406985328,45.1583644339,19.1634960744,45.1737648335",
+    "geom:latitude":45.165933,
+    "geom:longitude":19.152369,
+    "gn:population":2337,
+    "iso:country":"HR",
+    "lbl:latitude":45.165979,
+    "lbl:longitude":19.152369,
+    "mps:latitude":45.165979,
+    "mps:longitude":19.152369,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:ces_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:cze_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:deu_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:dut_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:eng_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:fra_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:fre_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:ger_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:hbs_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:hrv_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151t\u00e1rnok"
+    ],
+    "name:ile_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:ita_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30f4\u30a1\u30eb\u30cb\u30af"
+    ],
+    "name:nld_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Tovarnik"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Tovarnik"
+    ],
+    "name:slv_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:spa_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0432\u0430\u0440\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:und_x_preferred":[
+        "Tovarnik"
+    ],
+    "name:war_x_preferred":[
+        "Tovarnik"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vukovarsko-srijemska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Tovarnik",
+    "qs:la_lc":"*HR1604596",
+    "qs:level":"locality",
+    "qs:loc":"Tovarnik",
+    "qs:loc_alt":"Tovarnik",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":709,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115d2e2a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3188946,
+        "gp:id":850681,
+        "qs:id":967175,
+        "qs_pg:id":967175,
+        "wd:id":"Q1277958",
+        "wk:page":"Tovarnik"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ca4d15648215e7b3fc516af54885115f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793495,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":101793495,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527689281,
+    "wof:name":"Tovarnik",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":2337,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.14069853278386,
+    45.15836443394193,
+    19.16349607438644,
+    45.17376483349949
+],
+  "geometry": {"coordinates":[[[19.15606873890147,45.17109505744168],[19.16111928126838,45.17065337786539],[19.16097087014532,45.16975982939317],[19.16349607438644,45.16953890286811],[19.16319919122463,45.16775181160097],[19.16193663119907,45.1678622783146],[19.16104625126587,45.16250097164982],[19.16230869180322,45.16239051729451],[19.16201190867451,45.16060341235612],[19.15822469298644,45.16093471764674],[19.1579280543192,45.15914759693646],[19.15666567988274,45.15925799763698],[19.15651738982928,45.15836443394193],[19.1527302991754,45.15869553903337],[19.15287852949871,45.1595891089014],[19.14782893250162,45.16003037863135],[19.14797708942086,45.16092395587248],[19.1441897845915,45.16125475536751],[19.14433788801045,45.16214833792299],[19.14181295575798,45.16236879932751],[19.14196102558572,45.16326238514034],[19.14069853278386,45.16337259518605],[19.1408465889325,45.16426618220089],[19.1421091016507,45.16415597009996],[19.14270146829443,45.16773030140769],[19.14396405617845,45.1676200659432],[19.14455660233921,45.17119437537951],[19.14581926539989,45.1710841165476],[19.14626380032911,45.17376483349949],[19.15005194175689,45.17343394762986],[19.14990369743089,45.17254038233682],[19.15621707659295,45.17198861329712],[19.15606873890147,45.17109505744168]]],"type":"Polygon"}
+}

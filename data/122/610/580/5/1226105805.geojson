@@ -1,0 +1,65 @@
+{
+  "id": 1226105805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63333,45.85,17.63333,45.85",
+    "geom:latitude":45.85,
+    "geom:longitude":17.63333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Novi Budakovac",
+    "gn:country_code":"HR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194390,
+    "gn:latitude":45.85,
+    "gn:longitude":17.63333,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Novi Budakovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194390
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fae56ac9f952aeb98ca9dec4cd506c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226105805,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1226105805,
+    "wof:lastmodified":1536637426,
+    "wof:name":"Novi Budakovac",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63332999999999,
+    45.85,
+    17.63332999999999,
+    45.85
+],
+  "geometry": {"coordinates":[17.63332999999999,45.85],"type":"Point"}
+}

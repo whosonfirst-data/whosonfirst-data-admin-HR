@@ -1,0 +1,71 @@
+{
+  "id": 1327495903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66861,44.07333,15.66861,44.07333",
+    "geom:latitude":44.07333,
+    "geom:longitude":15.66861,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11049512.0",
+    "gn:asciiname":"Popovic",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192717,
+    "gn:latitude":44.07333,
+    "gn:longitude":15.66861,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Popovi\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Popovici",
+        "Popovi\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192717
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f8382c23709529301c9fcc598aa0bea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327495903,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1327495903,
+    "wof:lastmodified":1537625844,
+    "wof:name":"Popovic",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66861,
+    44.07333,
+    15.66861,
+    44.07333
+],
+  "geometry": {"coordinates":[15.66861,44.07333],"type":"Point"}
+}

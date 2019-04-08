@@ -1,0 +1,74 @@
+{
+  "id": 1293763747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58722,45.05167,14.58722,45.05167",
+    "geom:latitude":45.05167,
+    "geom:longitude":14.58722,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"3197207.0",
+    "gn:asciiname":"Lakmartin",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196796,
+    "gn:latitude":45.05167,
+    "gn:longitude":14.58722,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Lakmartin",
+    "gn:population":24,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lacmartin",
+        "Lakmartin"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196796
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"052d7676f627dc9061db8ca07b34aada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293763747,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1293763747,
+    "wof:lastmodified":1537625876,
+    "wof:name":"Lakmartin",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58722,
+    45.05167,
+    14.58722,
+    45.05167
+],
+  "geometry": {"coordinates":[14.58722,45.05167],"type":"Point"}
+}

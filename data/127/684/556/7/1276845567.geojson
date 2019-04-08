@@ -1,0 +1,65 @@
+{
+  "id": 1276845567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57472,44.17111,15.57472,44.17111",
+    "geom:latitude":44.17111,
+    "geom:longitude":15.57472,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ostric",
+    "gn:country_code":"HR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216122,
+    "gn:latitude":44.17111,
+    "gn:longitude":15.57472,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"O\u0161tri\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216122
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"df9f329e18e88cd635db9b57f0e3da40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276845567,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1276845567,
+    "wof:lastmodified":1537083937,
+    "wof:name":"Ostric",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57472,
+    44.17111,
+    15.57472,
+    44.17111
+],
+  "geometry": {"coordinates":[15.57472,44.17111],"type":"Point"}
+}

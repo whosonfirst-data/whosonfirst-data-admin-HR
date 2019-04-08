@@ -1,0 +1,65 @@
+{
+  "id": 1209734143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25642,46.20419,16.25642,46.20419",
+    "geom:latitude":46.20419,
+    "geom:longitude":16.25642,
+    "gn:asciiname":"Pusta Bela",
+    "gn:country_code":"HR",
+    "gn:dem":311,
+    "gn:elevation":"375.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8873363,
+    "gn:latitude":46.20419,
+    "gn:longitude":16.25642,
+    "gn:modification_date":"2014-04-11",
+    "gn:name":"Pusta Bela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8873363
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ee3e7436580c22f5bcda6d0233833dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209734143,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1209734143,
+    "wof:lastmodified":1536375513,
+    "wof:name":"Pusta Bela",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25642,
+    46.20419,
+    16.25642,
+    46.20419
+],
+  "geometry": {"coordinates":[16.25642,46.20419],"type":"Point"}
+}

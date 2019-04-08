@@ -1,0 +1,74 @@
+{
+  "id": 1226140549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.86083,46.11944,16.86083,46.11944",
+    "geom:latitude":46.11944,
+    "geom:longitude":16.86083,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3197726.0",
+    "gn:asciiname":"Bakovcica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204597,
+    "gn:latitude":46.11944,
+    "gn:longitude":16.86083,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Bakov\u010dica",
+    "gn:population":321,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornja Bakov\u010dica",
+        "Bakov\u010dica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204597
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2927960a991837ef77b29d2230284e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226140549,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1226140549,
+    "wof:lastmodified":1537625938,
+    "wof:name":"Bakovcica",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":321,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.86083,
+    46.11944,
+    16.86083,
+    46.11944
+],
+  "geometry": {"coordinates":[16.86083,46.11944],"type":"Point"}
+}

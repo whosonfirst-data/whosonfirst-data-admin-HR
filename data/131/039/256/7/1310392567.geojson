@@ -1,0 +1,69 @@
+{
+  "id": 1310392567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08333,45.46667,15.08333,45.46667",
+    "geom:latitude":45.46667,
+    "geom:longitude":15.08333,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"3187256.0",
+    "gn:asciiname":"Plemenitas",
+    "gn:country_code":"HR",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193211,
+    "gn:latitude":45.46667,
+    "gn:longitude":15.08333,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Plemenita\u0161",
+    "gn:population":38,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193211
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2a31fd82bd81f936d15c927d54a00bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310392567,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1310392567,
+    "wof:lastmodified":1537076804,
+    "wof:name":"Plemenitas",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":38,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08333,
+    45.46667,
+    15.08333,
+    45.46667
+],
+  "geometry": {"coordinates":[15.08333,45.46667],"type":"Point"}
+}

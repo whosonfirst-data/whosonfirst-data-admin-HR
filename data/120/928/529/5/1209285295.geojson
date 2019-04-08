@@ -1,0 +1,71 @@
+{
+  "id": 1209285295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.69583,45.51278,16.69583,45.51278",
+    "geom:latitude":45.51278,
+    "geom:longitude":16.69583,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"11049232.0",
+    "gn:asciiname":"Gornja Gracenica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200258,
+    "gn:latitude":45.51278,
+    "gn:longitude":16.69583,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Gornja Gra\u010denica",
+    "gn:population":954,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gra\u010denica",
+        "Gornja Gra\u010denica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200258,
+        "wk:page":"Gornja_Gra%C4%8Denica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d5b8f944859d0a5d428918dc9f998e8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209285295
+        }
+    ],
+    "wof:id":1209285295,
+    "wof:lastmodified":1537625904,
+    "wof:name":"Gornja Gracenica",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":954,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.69582999999999,
+    45.51278,
+    16.69582999999999,
+    45.51278
+],
+  "geometry": {"coordinates":[16.69582999999999,45.51278],"type":"Point"}
+}

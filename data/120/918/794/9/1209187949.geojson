@@ -1,0 +1,66 @@
+{
+  "id": 1209187949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.87333,45.24583,16.87333,45.24583",
+    "geom:latitude":45.24583,
+    "geom:longitude":16.87333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"11049227.0",
+    "gn:asciiname":"Tanac",
+    "gn:country_code":"HR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214751,
+    "gn:latitude":45.24583,
+    "gn:longitude":16.87333,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Tanac",
+    "gn:population":129,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214751,
+        "wk:page":"Tanac%2C_Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"37f213d46957be165078c1bf0cee3fff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209187949
+        }
+    ],
+    "wof:id":1209187949,
+    "wof:lastmodified":1537563314,
+    "wof:name":"Tanac",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":129,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87333,
+    45.24583,
+    16.87333,
+    45.24583
+],
+  "geometry": {"coordinates":[16.87333,45.24583],"type":"Point"}
+}

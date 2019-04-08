@@ -1,0 +1,69 @@
+{
+  "id": 1259972239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.69115,45.97406,16.69115,45.97406",
+    "geom:latitude":45.97406,
+    "geom:longitude":16.69115,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049393.0",
+    "gn:asciiname":"Cepidlak",
+    "gn:country_code":"HR",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202745,
+    "gn:latitude":45.97406,
+    "gn:longitude":16.69115,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Cepidlak",
+    "gn:population":155,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202745
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d675a39710e2bf954f795f81e097779b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259972239,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1259972239,
+    "wof:lastmodified":1536651172,
+    "wof:name":"Cepidlak",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":155,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.69115,
+    45.97406,
+    16.69115,
+    45.97406
+],
+  "geometry": {"coordinates":[16.69115,45.97406],"type":"Point"}
+}

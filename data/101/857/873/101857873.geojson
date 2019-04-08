@@ -1,0 +1,128 @@
+{
+  "id": 101857873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15637,46.097118,17.15637,46.097118",
+    "geom:latitude":46.097118,
+    "geom:longitude":17.15637,
+    "iso:country":"HR",
+    "lbl:latitude":46.097118,
+    "lbl:longitude":17.15637,
+    "mps:latitude":46.097118,
+    "mps:longitude":17.15637,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Novo Virje"
+    ],
+    "name:dut_x_preferred":[
+        "Novo Virje"
+    ],
+    "name:eng_x_preferred":[
+        "Novo Virje"
+    ],
+    "name:fra_x_preferred":[
+        "Novo Virje"
+    ],
+    "name:fre_x_preferred":[
+        "Novo Virje"
+    ],
+    "name:hbs_x_preferred":[
+        "Novo Virje"
+    ],
+    "name:hrv_x_preferred":[
+        "Novo Virje"
+    ],
+    "name:hun_x_preferred":[
+        "Novo Virje"
+    ],
+    "name:ita_x_preferred":[
+        "Novo Virje"
+    ],
+    "name:nld_x_preferred":[
+        "Novo Virje"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Novo Virje"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Novo Virje"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u0412\u0438\u0440\u044c\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Novo Virje"
+    ],
+    "name:spa_x_preferred":[
+        "Novo Virje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0412\u0438\u0440\u0458\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Novo Virje"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Koprivnicko-kri\u017eevacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Novo Virje",
+    "qs:loc_alt":"Novo Virje",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":75,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8505064,
+        "gp:id":15000168,
+        "qs:id":2,
+        "wd:id":"Q1088590",
+        "wk:page":"Novo Virje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d2d15ad572087101f4bf64ac74608463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101857873,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":101857873,
+    "wof:lastmodified":1544744121,
+    "wof:name":"Novo Virje",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15637,
+    46.097118,
+    17.15637,
+    46.097118
+],
+  "geometry": {"coordinates":[17.15637,46.097118],"type":"Point"}
+}

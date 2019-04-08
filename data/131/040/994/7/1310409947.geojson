@@ -1,0 +1,70 @@
+{
+  "id": 1310409947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53333,45.73333,16.53333,45.73333",
+    "geom:latitude":45.73333,
+    "geom:longitude":16.53333,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"3202819.0",
+    "gn:asciiname":"Sovari",
+    "gn:country_code":"HR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190304,
+    "gn:latitude":45.73333,
+    "gn:longitude":16.53333,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Sovari",
+    "gn:population":97,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190304,
+        "wk:page":"Sovari"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9f0a8acff5f657df1f9c67bab02f2639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310409947,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1310409947,
+    "wof:lastmodified":1537563280,
+    "wof:name":"Sovari",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53333,
+    45.73333,
+    16.53333,
+    45.73333
+],
+  "geometry": {"coordinates":[16.53333,45.73333],"type":"Point"}
+}

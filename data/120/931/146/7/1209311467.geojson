@@ -1,0 +1,67 @@
+{
+  "id": 1209311467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36972,44.89028,15.36972,44.89028",
+    "geom:latitude":44.89028,
+    "geom:longitude":15.36972,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gornji Doljani",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200134,
+    "gn:latitude":44.89028,
+    "gn:longitude":15.36972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gornji Doljani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doljani",
+        "Gornje Doljane",
+        "Gornji Doljani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200134
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"31869eae88939c36ee0d1cb5c5972b67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209311467
+        }
+    ],
+    "wof:id":1209311467,
+    "wof:lastmodified":1537625902,
+    "wof:name":"Gornji Doljani",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36972,
+    44.89028,
+    15.36972,
+    44.89028
+],
+  "geometry": {"coordinates":[15.36972,44.89028],"type":"Point"}
+}

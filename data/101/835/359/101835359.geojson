@@ -1,0 +1,101 @@
+{
+  "id": 101835359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":716413.23772,
+    "geom:bbox":"15.7371007583,45.85949798,15.7589188107,45.875108541",
+    "geom:latitude":45.866305,
+    "geom:longitude":15.750834,
+    "iso:country":"HR",
+    "lbl:latitude":45.863271,
+    "lbl:longitude":15.751909,
+    "mps:latitude":45.863271,
+    "mps:longitude":15.751909,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Zdenci Brdove\u010dki"
+    ],
+    "name:dut_x_preferred":[
+        "Zdenci Brdove\u010dki"
+    ],
+    "name:eng_x_preferred":[
+        "Zdenci Brdove\u010dki"
+    ],
+    "name:hrv_x_preferred":[
+        "Zdenci Brdove\u010dki"
+    ],
+    "name:hun_x_preferred":[
+        "Zdenci Brdove\u010dki"
+    ],
+    "name:slv_x_preferred":[
+        "Zdenci Brdove\u010dki"
+    ],
+    "name:spa_x_preferred":[
+        "Zdenci Brdove\u010dki"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0434\u0435\u043d\u0446\u0438 \u0411\u0440\u0434\u043e\u0432\u0435\u0447\u043a\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Brdove\u010dki Zdenci"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zagrebacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Zapre\u0161i\u0107",
+    "qs:la_lc":"*HR0105436",
+    "qs:level":"locality",
+    "qs:loc":"Zdenci Brdove\u010dki",
+    "qs:loc_alt":"Zdenci Brdovecki",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186670,
+        "gp:id":851191,
+        "qs:id":407836,
+        "wd:id":"Q265972"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b45be44211a8a72304881a6fc1c554d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101835359,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":101835359,
+    "wof:lastmodified":1527642776,
+    "wof:name":"Zdenci Brdove\u010dki",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7371007582887,
+    45.85949797996909,
+    15.7589188106935,
+    45.87510854100117
+],
+  "geometry": {"coordinates":[[[15.75401970253984,45.87489474475558],[15.75496907786697,45.8725684754271],[15.75463755716419,45.86944347376595],[15.7562808003251,45.86935434121233],[15.7589188106935,45.8628903828253],[15.75525409954065,45.86308922677335],[15.75487322292361,45.85949797996909],[15.75359022027959,45.85956755468357],[15.75368541229761,45.86046536865842],[15.75240238568125,45.86053492922105],[15.75249756077523,45.86143274389434],[15.74993145663427,45.86157182123384],[15.7501217350316,45.86336745400325],[15.74498932311764,45.86364543352761],[15.7448942659239,45.86274761214861],[15.7410449889403,45.86295593025409],[15.74094999885943,45.86205810426702],[15.7371007582887,45.86226627906143],[15.73719568533397,45.86316410902435],[15.73847878949306,45.86309473158275],[15.73857374162441,45.86399255959168],[15.7398568638398,45.86392316534278],[15.73995184105951,45.86482099139715],[15.7463675128231,45.86447378129185],[15.74646259918836,45.86537160008504],[15.74902888919769,45.86523260501343],[15.74912402167166,45.86613042052244],[15.75169034185825,45.86599136086568],[15.75159516735636,45.86509354801285],[15.7567276881029,45.86481524822659],[15.75701347603012,45.86750866894914],[15.75444709550334,45.86764785778183],[15.75454232429036,45.86854566608883],[15.75069266821055,45.86875433720178],[15.75116855816714,45.87324338922627],[15.7498852284491,45.87331292193863],[15.75007557098144,45.87510854100117],[15.75401970253984,45.87489474475558]]],"type":"Polygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1360082751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18861,44.81861,15.18861,44.81861",
+    "geom:latitude":44.81861,
+    "geom:longitude":15.18861,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sporcici",
+    "gn:country_code":"HR",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218083,
+    "gn:latitude":44.81861,
+    "gn:longitude":15.18861,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Spor\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218083
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"84df4ed09ad9ab80e762e60a12dc6faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360082751,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1360082751,
+    "wof:lastmodified":1536949363,
+    "wof:name":"Sporcici",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18861,
+    44.81861,
+    15.18861,
+    44.81861
+],
+  "geometry": {"coordinates":[15.18861,44.81861],"type":"Point"}
+}

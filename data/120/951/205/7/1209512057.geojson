@@ -1,0 +1,66 @@
+{
+  "id": 1209512057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06361,44.96972,15.06361,44.96972",
+    "geom:latitude":44.96972,
+    "geom:longitude":15.06361,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049284.0",
+    "gn:asciiname":"Zuta Lokva",
+    "gn:country_code":"HR",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186276,
+    "gn:latitude":44.96972,
+    "gn:longitude":15.06361,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"\u017duta Lokva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017duta Lokva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186276,
+        "wk:page":"%C5%BDuta_Lokva"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"debe4fc5b1539943775eb3ef3a82616a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209512057
+        }
+    ],
+    "wof:id":1209512057,
+    "wof:lastmodified":1537625801,
+    "wof:name":"Zuta Lokva",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06361,
+    44.96972,
+    15.06361,
+    44.96972
+],
+  "geometry": {"coordinates":[15.06361,44.96972],"type":"Point"}
+}

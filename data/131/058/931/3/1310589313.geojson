@@ -1,0 +1,72 @@
+{
+  "id": 1310589313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.51833,45.37361,17.51833,45.37361",
+    "geom:latitude":45.37361,
+    "geom:longitude":17.51833,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dezevci",
+    "gn:country_code":"HR",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202045,
+    "gn:latitude":45.37361,
+    "gn:longitude":17.51833,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"De\u017eevci",
+    "gn:population":157,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De\u017eevci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202045,
+        "wk:page":"De%C5%BEevci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8d2e65a0cc42e0ddcc5cd4915b6426c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310589313,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1310589313,
+    "wof:lastmodified":1537625920,
+    "wof:name":"Dezevci",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":157,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.51833,
+    45.37361,
+    17.51833,
+    45.37361
+],
+  "geometry": {"coordinates":[17.51833,45.37361],"type":"Point"}
+}

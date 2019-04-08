@@ -1,0 +1,77 @@
+{
+  "id": 1209887661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.68583,45.61917,17.68583,45.61917",
+    "geom:latitude":45.61917,
+    "geom:longitude":17.68583,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049470.0",
+    "gn:asciiname":"Ceralije",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202733,
+    "gn:latitude":45.61917,
+    "gn:longitude":17.68583,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"\u0106eralije",
+    "gn:population":623,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coralije",
+        "Cherallye",
+        "Cseralje",
+        "\u0106eralije"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202733,
+        "wk:page":"%C4%86eralije"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d119c3de2579419fce064721adcf2c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209887661,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1209887661,
+    "wof:lastmodified":1537625925,
+    "wof:name":"Ceralije",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":623,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.68583,
+    45.61917,
+    17.68583,
+    45.61917
+],
+  "geometry": {"coordinates":[17.68583,45.61917],"type":"Point"}
+}

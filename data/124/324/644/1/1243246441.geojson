@@ -1,0 +1,74 @@
+{
+  "id": 1243246441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.435,43.74417,16.435,43.74417",
+    "geom:latitude":43.74417,
+    "geom:longitude":16.435,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"11054614.0",
+    "gn:asciiname":"Donje Ogorje",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201553,
+    "gn:latitude":43.74417,
+    "gn:longitude":16.435,
+    "gn:modification_date":"2017-01-01",
+    "gn:name":"Donje Ogorje",
+    "gn:population":116,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ogorje Donje",
+        "Donje Ogorje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201553
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7255a84eaa0c94be7e2200382219d89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243246441,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1243246441,
+    "wof:lastmodified":1537625916,
+    "wof:name":"Donje Ogorje",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.435,
+    43.74417,
+    16.435,
+    43.74417
+],
+  "geometry": {"coordinates":[16.435,43.74417],"type":"Point"}
+}

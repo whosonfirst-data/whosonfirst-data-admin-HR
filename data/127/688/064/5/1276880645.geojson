@@ -1,0 +1,68 @@
+{
+  "id": 1276880645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.02417,42.72306,18.02417,42.72306",
+    "geom:latitude":42.72306,
+    "geom:longitude":18.02417,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ljubac",
+    "gn:country_code":"HR",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196389,
+    "gn:latitude":42.72306,
+    "gn:longitude":18.02417,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Ljuba\u010d",
+    "gn:population":69,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196389
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"962755532e86690401b2e715555524a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276880645,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1276880645,
+    "wof:lastmodified":1537038387,
+    "wof:name":"Ljubac",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:population":69,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.02417,
+    42.72306,
+    18.02417,
+    42.72306
+],
+  "geometry": {"coordinates":[18.02417,42.72306],"type":"Point"}
+}

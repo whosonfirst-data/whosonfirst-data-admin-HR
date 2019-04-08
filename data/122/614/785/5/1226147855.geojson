@@ -1,0 +1,69 @@
+{
+  "id": 1226147855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41444,45.26139,15.41444,45.26139",
+    "geom:latitude":45.26139,
+    "geom:longitude":15.41444,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"11049266.0",
+    "gn:asciiname":"Mreznica",
+    "gn:country_code":"HR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214952,
+    "gn:latitude":45.26139,
+    "gn:longitude":15.41444,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Mre\u017enica",
+    "gn:population":4,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214952
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a681e0d14595781305b774d4ee0c4a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226147855,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1226147855,
+    "wof:lastmodified":1537071553,
+    "wof:name":"Mreznica",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41444,
+    45.26139000000001,
+    15.41444,
+    45.26139000000001
+],
+  "geometry": {"coordinates":[15.41444,45.26139000000001],"type":"Point"}
+}

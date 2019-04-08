@@ -1,0 +1,72 @@
+{
+  "id": 1243478595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.77194,45.15694,13.77194,45.15694",
+    "geom:latitude":45.15694,
+    "geom:longitude":13.77194,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054818.0",
+    "gn:asciiname":"Selina",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191120,
+    "gn:latitude":45.15694,
+    "gn:longitude":13.77194,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Selina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nova Vas",
+        "Villanova",
+        "Selina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191120
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5b757879e842b76f6babfd7209107747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243478595,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1243478595,
+    "wof:lastmodified":1537625835,
+    "wof:name":"Selina",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.77194,
+    45.15694000000001,
+    13.77194,
+    45.15694000000001
+],
+  "geometry": {"coordinates":[13.77194,45.15694000000001],"type":"Point"}
+}

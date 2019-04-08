@@ -1,0 +1,65 @@
+{
+  "id": 1209401817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72795,44.97294,14.72795,44.97294",
+    "geom:latitude":44.97294,
+    "geom:longitude":14.72795,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"11049430.0",
+    "gn:asciiname":"Batomalj",
+    "gn:country_code":"HR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218474,
+    "gn:latitude":44.97294,
+    "gn:longitude":14.72795,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Batomalj",
+    "gn:population":141,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218474
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fb98530c566f3589eabd2988ea7a7de5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209401817
+        }
+    ],
+    "wof:id":1209401817,
+    "wof:lastmodified":1536288121,
+    "wof:name":"Batomalj",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72795,
+    44.97294,
+    14.72795,
+    44.97294
+],
+  "geometry": {"coordinates":[14.72795,44.97294],"type":"Point"}
+}

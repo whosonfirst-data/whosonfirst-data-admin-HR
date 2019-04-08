@@ -1,0 +1,65 @@
+{
+  "id": 1309868227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50028,44.03417,15.50028,44.03417",
+    "geom:latitude":44.03417,
+    "geom:longitude":15.50028,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Pertenjaca",
+    "gn:country_code":"HR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215251,
+    "gn:latitude":44.03417,
+    "gn:longitude":15.50028,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Pertenja\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215251
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7a4bd29e7f7d78dae3a47c32648a3d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309868227,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1309868227,
+    "wof:lastmodified":1536840245,
+    "wof:name":"Pertenjaca",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50028,
+    44.03417,
+    15.50028,
+    44.03417
+],
+  "geometry": {"coordinates":[15.50028,44.03417],"type":"Point"}
+}

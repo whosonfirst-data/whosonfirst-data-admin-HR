@@ -1,0 +1,73 @@
+{
+  "id": 1242641067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.66333,45.815,17.66333,45.815",
+    "geom:latitude":45.815,
+    "geom:longitude":17.66333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049467.0",
+    "gn:asciiname":"Vaska",
+    "gn:country_code":"HR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188346,
+    "gn:latitude":45.815,
+    "gn:longitude":17.66333,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Va\u0161ka",
+    "gn:population":315,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Va\u0161ka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188346,
+        "wk:page":"Va%C5%A1ka"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d2abb0db89a094d17ce82bf49db3524d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242641067,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1242641067,
+    "wof:lastmodified":1537625815,
+    "wof:name":"Vaska",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":315,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.66333,
+    45.815,
+    17.66333,
+    45.815
+],
+  "geometry": {"coordinates":[17.66333,45.815],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293797707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.30694,45.75472,17.30694,45.75472",
+    "geom:latitude":45.75472,
+    "geom:longitude":17.30694,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Loncarica",
+    "gn:country_code":"HR",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196227,
+    "gn:latitude":45.75472,
+    "gn:longitude":17.30694,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Lon\u010darica",
+    "gn:population":79,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lon\u010darica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196227,
+        "wk:page":"Lon%C4%8Darica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7ad40ccd0420db036196f099c50433af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293797707,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1293797707,
+    "wof:lastmodified":1537625872,
+    "wof:name":"Loncarica",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":79,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.30694,
+    45.75472,
+    17.30694,
+    45.75472
+],
+  "geometry": {"coordinates":[17.30694,45.75472],"type":"Point"}
+}

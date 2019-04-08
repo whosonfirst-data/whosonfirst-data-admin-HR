@@ -1,0 +1,143 @@
+{
+  "id": 101791273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":608540.963234,
+    "geom:bbox":"17.1068357773,46.0149842328,17.1226455013,46.0368701242",
+    "geom:latitude":46.024717,
+    "geom:longitude":17.114856,
+    "gn:population":1581,
+    "iso:country":"HR",
+    "lbl:latitude":46.022699,
+    "lbl:longitude":17.112999,
+    "mps:latitude":46.022699,
+    "mps:longitude":17.112999,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Kalinovac"
+    ],
+    "name:dut_x_preferred":[
+        "Kalinovac"
+    ],
+    "name:eng_x_preferred":[
+        "Kalinovac"
+    ],
+    "name:fra_x_preferred":[
+        "Kalinovac"
+    ],
+    "name:fre_x_preferred":[
+        "Kalinovac"
+    ],
+    "name:hbs_x_preferred":[
+        "Kalinovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Kalinovac"
+    ],
+    "name:hun_x_preferred":[
+        "Kalin\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Kalinovac"
+    ],
+    "name:nld_x_preferred":[
+        "Kalinovac"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Kalinovac"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Kalinovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Kalinovac"
+    ],
+    "name:spa_x_preferred":[
+        "Kalinovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Kalinovac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0456\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:und_x_preferred":[
+        "Kalinovac"
+    ],
+    "name:war_x_preferred":[
+        "Kalinovac"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Koprivnicko-kri\u017eevacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Kalinovac",
+    "qs:la_lc":"*HR0605592",
+    "qs:level":"locality",
+    "qs:loc":"Kalinovac",
+    "qs:loc_alt":"Kalinovac",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":93,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115c07fc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3198450,
+        "gp:id":848381,
+        "qs:id":1275139,
+        "wd:id":"Q1103518",
+        "wk:page":"Kalinovac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"96c5449d614956172bc9f78d48db365d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791273,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":101791273,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815505,
+    "wof:name":"Kalinovac",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":1581,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10683577733386,
+    46.01498423282288,
+    17.12264550125269,
+    46.03687012416793
+],
+  "geometry": {"coordinates":[[[17.12264550125269,46.03678399568548],[17.12181668992184,46.03051146538286],[17.12053124535043,46.03059758231348],[17.11993949502272,46.02611717470415],[17.11608345455414,46.02637540778881],[17.11584691616719,46.02458323004964],[17.11456160400968,46.02466927346063],[17.11397045207787,46.02018880887033],[17.11268524133982,46.02027482854902],[17.11233067419141,46.01758653662125],[17.11490096586761,46.01741449165826],[17.11466452909201,46.01562230019977],[17.11080921214312,46.01588033452344],[17.11069106441863,46.01498423282288],[17.10683577733386,46.0152421227948],[17.10695386201121,46.0161382294342],[17.1095240991188,46.01596631498404],[17.10999665670988,46.0195507215135],[17.11128185380511,46.01946473446526],[17.11199096862282,46.02484131380345],[17.10942031847833,46.0250132921733],[17.10953848000582,46.0259093896247],[17.1082531283754,46.02599535721663],[17.10848942460967,46.02778755335697],[17.10977481829451,46.02770158247108],[17.10965664661103,46.02680548639051],[17.11479810034672,46.02646145449637],[17.11491635613726,46.02735754398589],[17.11620173137089,46.02727149562935],[17.11632001327058,46.02816758278459],[17.11760540583896,46.02808151728573],[17.11796034512315,46.03076976969055],[17.11924579708381,46.03068368374954],[17.11960084522457,46.03337192503562],[17.12088635658381,46.03328581865031],[17.12135990945467,46.03687012416793],[17.12264550125269,46.03678399568548]]],"type":"Polygon"}
+}

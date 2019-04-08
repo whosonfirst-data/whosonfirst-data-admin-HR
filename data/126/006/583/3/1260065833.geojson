@@ -1,0 +1,66 @@
+{
+  "id": 1260065833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10389,44.50806,16.10389,44.50806",
+    "geom:latitude":44.50806,
+    "geom:longitude":16.10389,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049285.0",
+    "gn:asciiname":"Krnete",
+    "gn:country_code":"HR",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269323,
+    "gn:latitude":44.50806,
+    "gn:longitude":16.10389,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Krnete",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269323
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"19e16236268ad9990fe9ad0223ca7e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260065833,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1260065833,
+    "wof:lastmodified":1537012779,
+    "wof:name":"Krnete",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10389,
+    44.50806,
+    16.10389,
+    44.50806
+],
+  "geometry": {"coordinates":[16.10389,44.50806],"type":"Point"}
+}

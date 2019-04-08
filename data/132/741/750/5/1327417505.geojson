@@ -1,0 +1,74 @@
+{
+  "id": 1327417505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.00472,45.52,18.00472,45.52",
+    "geom:latitude":45.52,
+    "geom:longitude":18.00472,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"11054465.0",
+    "gn:asciiname":"Vucjak Fericanacki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318767,
+    "gn:latitude":45.52,
+    "gn:longitude":18.00472,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Vu\u010djak Feri\u010dana\u010dki",
+    "gn:population":270,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vu\u010djak Feri\u010danski",
+        "Vu\u010djak Feri\u010dana\u010dki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318767
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b901bb704ac974f94d0d08d6c74a136a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327417505,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1327417505,
+    "wof:lastmodified":1537625965,
+    "wof:name":"Vucjak Fericanacki",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":270,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.00472000000001,
+    45.52,
+    18.00472000000001,
+    45.52
+],
+  "geometry": {"coordinates":[18.00472000000001,45.52],"type":"Point"}
+}

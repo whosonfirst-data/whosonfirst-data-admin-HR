@@ -1,0 +1,113 @@
+{
+  "id": 101874237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.422522,46.422657,16.422522,46.422657",
+    "geom:latitude":46.422657,
+    "geom:longitude":16.422522,
+    "gn:population":1366,
+    "iso:country":"HR",
+    "lbl:latitude":46.422657,
+    "lbl:longitude":16.422522,
+    "mps:latitude":46.422657,
+    "mps:longitude":16.422522,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ma\u010dkovec"
+    ],
+    "name:dut_x_preferred":[
+        "Ma\u010dkovec"
+    ],
+    "name:eng_x_preferred":[
+        "Ma\u010dkovec"
+    ],
+    "name:epo_x_preferred":[
+        "Ma\u010dkovec"
+    ],
+    "name:hbs_x_preferred":[
+        "Ma\u010dkovec"
+    ],
+    "name:hrv_x_preferred":[
+        "Ma\u010dkovec"
+    ],
+    "name:hun_x_preferred":[
+        "Ny\u00edrv\u00f6lgy"
+    ],
+    "name:slv_x_preferred":[
+        "Ma\u010dkovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0447\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0686\u06a9\u0648\u0648\u06cc\u06a9\u060c \u06a9\u0631\u0648\u0627\u0679\u06cc\u0627"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Medimurska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ma\u010dkovec",
+    "qs:loc_alt":"Mackovec",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195971,
+        "gp:id":848934,
+        "qs:id":1275257,
+        "qs_pg:id":1275257,
+        "wd:id":"Q843762",
+        "wk:page":"Ma\u010dkovec, Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f949ada9f5dc113cd8e2b4e3ac216434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101874237,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":101874237,
+    "wof:lastmodified":1544751614,
+    "wof:name":"Ma\u010dkovec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":1366,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.422522,
+    46.422657,
+    16.422522,
+    46.422657
+],
+  "geometry": {"coordinates":[16.422522,46.422657],"type":"Point"}
+}

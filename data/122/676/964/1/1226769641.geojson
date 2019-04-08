@@ -1,0 +1,65 @@
+{
+  "id": 1226769641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.315,44.87611,15.315,44.87611",
+    "geom:latitude":44.87611,
+    "geom:longitude":15.315,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Diklici",
+    "gn:country_code":"HR",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273038,
+    "gn:latitude":44.87611,
+    "gn:longitude":15.315,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Dikli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273038
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cc19242d81c0082f891f579f586f93f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226769641,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1226769641,
+    "wof:lastmodified":1536681155,
+    "wof:name":"Diklici",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.315,
+    44.87611,
+    15.315,
+    44.87611
+],
+  "geometry": {"coordinates":[15.315,44.87611],"type":"Point"}
+}

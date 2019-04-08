@@ -1,0 +1,74 @@
+{
+  "id": 1225868905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0725,45.42861,14.0725,45.42861",
+    "geom:latitude":45.42861,
+    "geom:longitude":14.0725,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11129787.0",
+    "gn:asciiname":"Prapoce",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192598,
+    "gn:latitude":45.42861,
+    "gn:longitude":14.0725,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Prapo\u0107e",
+    "gn:population":28,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prapro\u010de",
+        "Prapo\u0107e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192598
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"63614bd6b53545631a00ecb5a87bf52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225868905,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1225868905,
+    "wof:lastmodified":1537625844,
+    "wof:name":"Prapoce",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0725,
+    45.42861,
+    14.0725,
+    45.42861
+],
+  "geometry": {"coordinates":[14.0725,45.42861],"type":"Point"}
+}

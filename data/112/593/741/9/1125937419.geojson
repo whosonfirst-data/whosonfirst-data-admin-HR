@@ -1,0 +1,132 @@
+{
+  "id": 1125937419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.02111,45.90556,17.02111,45.90556",
+    "geom:latitude":45.90556,
+    "geom:longitude":17.02111,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":855,
+    "gn:population":855,
+    "iso:country":"HR",
+    "lbl:latitude":45.90556,
+    "lbl:longitude":17.02111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "\u0160androvac"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160androvac"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160androvac"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160androvac"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160androvac"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160androvac"
+    ],
+    "name:pol_x_preferred":[
+        "\u0160androvac"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna \u0160androvac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043d\u0434\u0440\u043e\u0432\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160androvac"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160androvac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u043d\u0434\u0440\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160androvac"
+    ],
+    "name:unk_x_variant":[
+        "\u0160andorovac"
+    ],
+    "name:war_x_preferred":[
+        "\u0160androvac"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3191304,
+    "qs_pg:gn_pop":855,
+    "qs_pg:name":"\u00c5 Androvac",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Bjelovarsko-Bilogorska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1275504,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850104,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Bjelovarsko-Bilogorska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191304,
+        "gp:id":850104,
+        "qs_pg:id":1275504,
+        "wd:id":"Q1284823"
+    },
+    "wof:country":"HR",
+    "wof:created":1497297010,
+    "wof:geomhash":"83f0dd8fb6b1f4dfb7c914dd252694b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125937419,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1125937419,
+    "wof:lastmodified":1514447744,
+    "wof:name":"\u00c5 Androvac",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":855,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.02111,
+    45.90556,
+    17.02111,
+    45.90556
+],
+  "geometry": {"coordinates":[17.02111,45.90556],"type":"Point"}
+}

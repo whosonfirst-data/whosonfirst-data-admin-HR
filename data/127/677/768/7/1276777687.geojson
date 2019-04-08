@@ -1,0 +1,73 @@
+{
+  "id": 1276777687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.57389,45.74222,16.57389,45.74222",
+    "geom:latitude":45.74222,
+    "geom:longitude":16.57389,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"3202819.0",
+    "gn:asciiname":"Bosiljevo Cesmansko",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203638,
+    "gn:latitude":45.74222,
+    "gn:longitude":16.57389,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Bosiljevo \u010cesmansko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cesmansko Bosiljevo",
+        "Bosiljevo \u010cazmansko",
+        "Bosiljevo",
+        "Bosiljevo \u010cesmansko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203638
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bc2fce1541a194d6e558cf09af622fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276777687,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1276777687,
+    "wof:lastmodified":1537625933,
+    "wof:name":"Bosiljevo Cesmansko",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.57389,
+    45.74222,
+    16.57389,
+    45.74222
+],
+  "geometry": {"coordinates":[16.57389,45.74222],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259876589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27556,44.53278,15.27556,44.53278",
+    "geom:latitude":44.53278,
+    "geom:longitude":15.27556,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Rukavine",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217261,
+    "gn:latitude":44.53278,
+    "gn:longitude":15.27556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rukavine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rukavina",
+        "Rukavine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217261
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b10136e3359d82e13ee825dcae8bc293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259876589,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1259876589,
+    "wof:lastmodified":1537625953,
+    "wof:name":"Rukavine",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27556,
+    44.53278,
+    15.27556,
+    44.53278
+],
+  "geometry": {"coordinates":[15.27556,44.53278],"type":"Point"}
+}

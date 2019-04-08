@@ -1,0 +1,65 @@
+{
+  "id": 1243416757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23,44.135,15.23,44.135",
+    "geom:latitude":44.135,
+    "geom:longitude":15.23,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Grgomicic",
+    "gn:country_code":"HR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215765,
+    "gn:latitude":44.135,
+    "gn:longitude":15.23,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Grgomi\u010di\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215765
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"68716aa31ac48ca1994ad7af06faa9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243416757,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1243416757,
+    "wof:lastmodified":1536847304,
+    "wof:name":"Grgomicic",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23,
+    44.135,
+    15.23,
+    44.135
+],
+  "geometry": {"coordinates":[15.23,44.135],"type":"Point"}
+}

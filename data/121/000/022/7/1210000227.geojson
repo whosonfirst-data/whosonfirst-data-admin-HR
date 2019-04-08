@@ -1,0 +1,71 @@
+{
+  "id": 1210000227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.18361,45.31556,18.18361,45.31556",
+    "geom:latitude":45.31556,
+    "geom:longitude":18.18361,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054471.0",
+    "gn:asciiname":"Levanjska Varos",
+    "gn:country_code":"HR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3196621,
+    "gn:latitude":45.31556,
+    "gn:longitude":18.18361,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Levanjska Varo\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Levacka Varo\u0161",
+        "Levanjska Varo\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196621,
+        "wk:page":"Levanjska_Varo%C5%A1"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b9077263c9627c4ad121bf1e39430f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1210000227,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1210000227,
+    "wof:lastmodified":1537625874,
+    "wof:name":"Levanjska Varos",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.18361,
+    45.31556,
+    18.18361,
+    45.31556
+],
+  "geometry": {"coordinates":[18.18361,45.31556],"type":"Point"}
+}

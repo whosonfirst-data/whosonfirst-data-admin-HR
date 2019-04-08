@@ -1,0 +1,112 @@
+{
+  "id": 101792387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":508812.451819,
+    "geom:bbox":"16.0470840188,45.7481129383,16.0632446971,45.7558981228",
+    "geom:latitude":45.752103,
+    "geom:longitude":16.055061,
+    "gn:population":1260,
+    "iso:country":"HR",
+    "lbl:latitude":45.752435,
+    "lbl:longitude":16.05855,
+    "mps:latitude":45.752435,
+    "mps:longitude":16.05855,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Mi\u010devec"
+    ],
+    "name:dut_x_preferred":[
+        "Mi\u010devec"
+    ],
+    "name:eng_x_preferred":[
+        "Mi\u010devec"
+    ],
+    "name:hbs_x_preferred":[
+        "Mi\u010devec"
+    ],
+    "name:hrv_x_preferred":[
+        "Mi\u010devec"
+    ],
+    "name:hun_x_preferred":[
+        "Mi\u010devec"
+    ],
+    "name:nld_x_preferred":[
+        "Mi\u010devec"
+    ],
+    "name:slv_x_preferred":[
+        "Mi\u010devec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0447\u0435\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Mi\u010devec"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zagrebacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Velika Gorica",
+    "qs:la_lc":"*HR0105410",
+    "qs:level":"locality",
+    "qs:loc":"Mi\u010devec",
+    "qs:loc_alt":"Micevec",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195199,
+        "gp:id":849141,
+        "qs:id":57646,
+        "qs_pg:id":57646,
+        "wd:id":"Q379329",
+        "wk:page":"Mi\u010devec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f957950663382d2c326ef341579e621d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101792387,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":101792387,
+    "wof:lastmodified":1527714640,
+    "wof:name":"Mi\u010devec",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":1260,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.04708401883835,
+    45.74811293832579,
+    16.06324469710239,
+    45.75589812282948
+],
+  "geometry": {"coordinates":[[[16.06324469710239,45.75470756724394],[16.06314470094685,45.75381002965872],[16.06186450284878,45.75388330468849],[16.06146464450092,45.75029314227277],[16.05634415500003,45.75058606571685],[16.05644402969472,45.75148361287063],[16.05260356740854,45.75170314755104],[16.05220434469288,45.74811293832579],[16.04708401883835,45.74840541285113],[16.04728345470971,45.75020052989549],[16.04856358255398,45.75012743163558],[16.04906235128556,45.75461520592944],[16.0503425803887,45.75454208527452],[16.05024279723011,45.75364453310573],[16.05536359917153,45.75335190167942],[16.05546346581946,45.75424944827807],[16.05802388993607,45.75410303715432],[16.05822371954849,45.75589812282948],[16.06206445769573,45.75567838199839],[16.06196447813244,45.75478084366819],[16.06324469710239,45.75470756724394]]],"type":"Polygon"}
+}

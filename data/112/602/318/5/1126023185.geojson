@@ -1,0 +1,211 @@
+{
+  "id": 1126023185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46861,44.53056,14.46861,44.53056",
+    "geom:latitude":44.53056,
+    "geom:longitude":14.46861,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3400,
+    "gn:population":3400,
+    "iso:country":"HR",
+    "lbl:latitude":44.53056,
+    "lbl:longitude":14.46861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0644\u064a \u0644\u0648\u0633\u064a\u0646\u064a"
+    ],
+    "name:bos_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:chi_x_preferred":[
+        "\u5c0f\u6d1b\u5e0c\u5c3c"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0645\u0627\u0644\u06cc \u0644\u06c6\u0634\u06cc\u0646\u06cc"
+    ],
+    "name:cze_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:deu_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:dut_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:eng_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:epo_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u06cc \u0644\u0634\u06cc\u0646\u06cc"
+    ],
+    "name:fre_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:ger_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:hbs_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:hrv_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:hun_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:ita_x_preferred":[
+        "Lussinpiccolo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ea\u30fb\u30ed\u30b7\u30cb"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9d0\ub9ac\ub85c\uc2e0"
+    ],
+    "name:lat_x_preferred":[
+        "Lussinum Minus"
+    ],
+    "name:lit_x_preferred":[
+        "Mali Lo\u0161in\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:nob_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u0644\u06cc \u0644\u0634\u06cc\u0646\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:ron_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:rum_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u041b\u043e\u0448\u0438\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u043b\u0438-\u041b\u043e\u0448\u0438\u043d\u044c"
+    ],
+    "name:slo_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:slv_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u041b\u043e\u0448\u0438\u045a"
+    ],
+    "name:srp_x_variant":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:swe_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u043b\u0438-\u041b\u043e\u0448\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0456-\u041b\u043e\u0448\u0438\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Lusinpikolo"
+    ],
+    "name:vec_x_preferred":[
+        "\u0141usinpico\u0142o"
+    ],
+    "name:war_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u6d1b\u5e0c\u5c3c"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3195674,
+    "qs_pg:gn_pop":3400,
+    "qs_pg:name":"Mali Lo\u00b5inj",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Primorsko-Goranska",
+    "qs_pg:photos":1419,
+    "qs_pg:photos_1k":288,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1419,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":313932,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":849012,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Primorsko-Goranska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195674,
+        "gp:id":849012,
+        "qs_pg:id":313932,
+        "wd:id":"Q397720"
+    },
+    "wof:country":"HR",
+    "wof:created":1497300957,
+    "wof:geomhash":"c65b113eb6618ecfc465ebda41160e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126023185,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1126023185,
+    "wof:lastmodified":1514447527,
+    "wof:name":"Mali Lo\u00b5inj",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":3400,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46861,
+    44.53056,
+    14.46861,
+    44.53056
+],
+  "geometry": {"coordinates":[14.46861,44.53056],"type":"Point"}
+}

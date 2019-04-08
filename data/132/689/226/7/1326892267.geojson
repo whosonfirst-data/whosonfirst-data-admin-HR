@@ -1,0 +1,74 @@
+{
+  "id": 1326892267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26539,45.76231,16.26539,45.76231",
+    "geom:latitude":45.76231,
+    "geom:longitude":16.26539,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Crnec Rugvicki",
+    "gn:country_code":"HR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202441,
+    "gn:latitude":45.76231,
+    "gn:longitude":16.26539,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"\u010crnec Rugvi\u010dki",
+    "gn:population":96,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rugvi\u010dki \u010crnec",
+        "\u010crnec",
+        "\u010crnec Rugovi\u010dki",
+        "\u010crnec Rugvi\u010dki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202441
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e0bfc8e99ca561473a400910628e72cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326892267,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1326892267,
+    "wof:lastmodified":1537625923,
+    "wof:name":"Crnec Rugvicki",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":96,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26539,
+    45.76231,
+    16.26539,
+    45.76231
+],
+  "geometry": {"coordinates":[16.26539,45.76231],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1344031035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.07583,43.5125,17.07583,43.5125",
+    "geom:latitude":43.5125,
+    "geom:longitude":17.07583,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lazete",
+    "gn:country_code":"HR",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284841,
+    "gn:latitude":43.5125,
+    "gn:longitude":17.07583,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"La\u017eete",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284841
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1775af276e58eb30628e00675a8b09d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344031035,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1344031035,
+    "wof:lastmodified":1536918772,
+    "wof:name":"Lazete",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07583,
+    43.5125,
+    17.07583,
+    43.5125
+],
+  "geometry": {"coordinates":[17.07583,43.5125],"type":"Point"}
+}

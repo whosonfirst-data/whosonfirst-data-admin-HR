@@ -1,0 +1,65 @@
+{
+  "id": 1293277767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44528,44.72528,15.44528,44.72528",
+    "geom:latitude":44.72528,
+    "geom:longitude":15.44528,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ivcevic Kosa",
+    "gn:country_code":"HR",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3272501,
+    "gn:latitude":44.72528,
+    "gn:longitude":15.44528,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Iv\u010devi\u0107 Kosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3272501
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"38e40eb98715fb7ec3a506bc3460945f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293277767,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1293277767,
+    "wof:lastmodified":1537086216,
+    "wof:name":"Ivcevic Kosa",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44528,
+    44.72528,
+    15.44528,
+    44.72528
+],
+  "geometry": {"coordinates":[15.44528,44.72528],"type":"Point"}
+}

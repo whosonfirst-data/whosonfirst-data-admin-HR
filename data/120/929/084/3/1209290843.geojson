@@ -1,0 +1,67 @@
+{
+  "id": 1209290843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.8,45.56667,17.8,45.56667",
+    "geom:latitude":45.56667,
+    "geom:longitude":17.8,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049456.0",
+    "gn:asciiname":"Krajina",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197415,
+    "gn:latitude":45.56667,
+    "gn:longitude":17.8,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Krajina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krajna",
+        "Krajina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197415
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ce3e9c8960e51de3f2635ae1dd2dfa14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209290843
+        }
+    ],
+    "wof:id":1209290843,
+    "wof:lastmodified":1537625882,
+    "wof:name":"Krajina",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.8,
+    45.56667,
+    17.8,
+    45.56667
+],
+  "geometry": {"coordinates":[17.8,45.56667],"type":"Point"}
+}

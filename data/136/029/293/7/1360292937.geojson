@@ -1,0 +1,65 @@
+{
+  "id": 1360292937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.44333,43.10306,17.44333,43.10306",
+    "geom:latitude":43.10306,
+    "geom:longitude":17.44333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Druzijanici",
+    "gn:country_code":"HR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288273,
+    "gn:latitude":43.10306,
+    "gn:longitude":17.44333,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Dru\u017eijani\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288273
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5dbff01f9730105d8e0666a9e1733e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360292937,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1360292937,
+    "wof:lastmodified":1536645154,
+    "wof:name":"Druzijanici",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.44333,
+    43.10306,
+    17.44333,
+    43.10306
+],
+  "geometry": {"coordinates":[17.44333,43.10306],"type":"Point"}
+}

@@ -1,0 +1,154 @@
+{
+  "id": 101795761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000186,
+    "geom:area_square_m":1646741.517942,
+    "geom:bbox":"15.4597851766,44.209434276,15.5032264152,44.2210803402",
+    "geom:latitude":44.215232,
+    "geom:longitude":15.478725,
+    "gn:population":1292,
+    "iso:country":"HR",
+    "lbl:latitude":44.216115,
+    "lbl:longitude":15.473824,
+    "mps:latitude":44.216115,
+    "mps:longitude":15.473824,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Posedarje"
+    ],
+    "name:deu_x_preferred":[
+        "Posedarje"
+    ],
+    "name:dut_x_preferred":[
+        "Posedarje"
+    ],
+    "name:eng_x_preferred":[
+        "Posedarje"
+    ],
+    "name:fra_x_preferred":[
+        "Posedarje"
+    ],
+    "name:fre_x_preferred":[
+        "Posedarje"
+    ],
+    "name:ger_x_preferred":[
+        "Posedarje"
+    ],
+    "name:hbs_x_preferred":[
+        "Posedarje"
+    ],
+    "name:hrv_x_preferred":[
+        "Posedarje"
+    ],
+    "name:hun_x_preferred":[
+        "Posedarje"
+    ],
+    "name:ita_x_preferred":[
+        "Possedaria"
+    ],
+    "name:nld_x_preferred":[
+        "Posedarje"
+    ],
+    "name:por_x_preferred":[
+        "Posedarje"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Posedarje"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Posedarje"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0435\u0434\u0430\u0440\u044c\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Posedarje"
+    ],
+    "name:slo_x_preferred":[
+        "Posedarje"
+    ],
+    "name:slv_x_preferred":[
+        "Posedarje"
+    ],
+    "name:spa_x_preferred":[
+        "Posedarje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0441\u0435\u0434\u0430\u0440\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Posedarje"
+    ],
+    "name:unk_x_variant":[
+        "Posedarija"
+    ],
+    "name:war_x_preferred":[
+        "Posedarje"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zadarska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Posedarje",
+    "qs:la_lc":"*HR1303492",
+    "qs:level":"locality",
+    "qs:loc":"Posedarje",
+    "qs:loc_alt":"Posedarje",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192679,
+        "gp:id":849780,
+        "qs:id":1043983,
+        "qs_pg:id":1043983,
+        "wd:id":"Q1269841",
+        "wk:page":"Posedarje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7e71db52a4da1e14d02480b454811857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101795761,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":101795761,
+    "wof:lastmodified":1527714609,
+    "wof:name":"Posedarje",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":1292,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4597851765559,
+    44.20943427598399,
+    15.50322641522547,
+    44.22108034017947
+],
+  "geometry": {"coordinates":[[[15.47001343019286,44.22075134039386],[15.4699271378571,44.21985217752524],[15.47615811594932,44.2195228094493],[15.47607172982407,44.21862365187587],[15.47981022727453,44.21842585498126],[15.47972378631948,44.21752670030168],[15.4884467202719,44.21706465865918],[15.48853329754309,44.21796380490821],[15.49351785221256,44.21769944693767],[15.49343119704969,44.21680030551238],[15.49093896383789,44.21693251202652],[15.49067913680727,44.21423507621796],[15.49192519629412,44.2141689840638],[15.49183857502112,44.21326983856795],[15.49682270920084,44.21300532508235],[15.49690940835075,44.21390446575253],[15.5006475401907,44.21370591984078],[15.50073430135609,44.21460505617199],[15.50322641522547,44.21447261496877],[15.50305281863041,44.21267434642243],[15.49806873627045,44.21293915928828],[15.49798202125942,44.21204001910905],[15.4954900034657,44.21217233331436],[15.49540333099685,44.21127319000487],[15.49041934220543,44.21153763396472],[15.49050593680306,44.21243678209868],[15.48676785963363,44.21263496151249],[15.48668132344085,44.21173580976301],[15.48543531201346,44.21180183842466],[15.48534879888882,44.21090268475473],[15.48285680721534,44.21103469476282],[15.48277033662413,44.21013553796848],[15.47903238813956,44.21033343710445],[15.47894597954655,44.20943427598399],[15.47645403991379,44.20956613149269],[15.47654040957224,44.21046529501859],[15.47280242236604,44.21066296962397],[15.47288873721254,44.2115621360403],[15.47039669390711,44.21169384666905],[15.47074183343796,44.21529051479217],[15.46824962404992,44.21542217515179],[15.4683358789614,44.21632134279645],[15.46584362031535,44.21645294567566],[15.46592983986721,44.21735211500663],[15.46343753196493,44.21748366040254],[15.46352371615308,44.21838283141892],[15.4597851765559,44.21858004082719],[15.4599574388277,44.22037838791306],[15.46369609528807,44.22018117130733],[15.46378229023543,44.22108034017947],[15.47001343019286,44.22075134039386]],[[15.4768859241417,44.21406194196527],[15.4843622961107,44.21366615971829],[15.48462182026805,44.21636361575048],[15.47714509780644,44.21675941966174],[15.4768859241417,44.21406194196527]]],"type":"Polygon"}
+}

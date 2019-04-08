@@ -1,0 +1,70 @@
+{
+  "id": 1243075121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2125,42.62278,18.2125,42.62278",
+    "geom:latitude":42.62278,
+    "geom:longitude":18.2125,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"11054957.0",
+    "gn:asciiname":"Zavrelje",
+    "gn:country_code":"HR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263776,
+    "gn:latitude":42.62278,
+    "gn:longitude":18.2125,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Zavrelje",
+    "gn:population":171,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263776,
+        "wk:page":"Zavrelje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d309bd1f0254039d201605dbaf19190b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243075121,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1243075121,
+    "wof:lastmodified":1537563317,
+    "wof:name":"Zavrelje",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:population":171,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2125,
+    42.62278,
+    18.2125,
+    42.62278
+],
+  "geometry": {"coordinates":[18.2125,42.62278],"type":"Point"}
+}

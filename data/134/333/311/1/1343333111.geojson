@@ -1,0 +1,72 @@
+{
+  "id": 1343333111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.93333,45.66667,17.93333,45.66667",
+    "geom:latitude":45.66667,
+    "geom:longitude":17.93333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049455.0",
+    "gn:asciiname":"Krivaja",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197264,
+    "gn:latitude":45.66667,
+    "gn:longitude":17.93333,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Krivaja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krivaja Pustara",
+        "Krivaja Major",
+        "Krivaja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197264
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ddf00e27cabd84a89c2f162051be1883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343333111,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1343333111,
+    "wof:lastmodified":1537625880,
+    "wof:name":"Krivaja",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93332999999999,
+    45.66667,
+    17.93332999999999,
+    45.66667
+],
+  "geometry": {"coordinates":[17.93332999999999,45.66667],"type":"Point"}
+}

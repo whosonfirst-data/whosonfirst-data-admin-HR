@@ -1,0 +1,69 @@
+{
+  "id": 1310202015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66389,44.59194,15.66389,44.59194",
+    "geom:latitude":44.59194,
+    "geom:longitude":15.66389,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049294.0",
+    "gn:asciiname":"Tolic",
+    "gn:country_code":"HR",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189043,
+    "gn:latitude":44.59194,
+    "gn:longitude":15.66389,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Toli\u0107",
+    "gn:population":9,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189043
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b30bb4c5a321400e28abd50e9c29cc51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310202015,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1310202015,
+    "wof:lastmodified":1536856128,
+    "wof:name":"Tolic",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66389,
+    44.59194,
+    15.66389,
+    44.59194
+],
+  "geometry": {"coordinates":[15.66389,44.59194],"type":"Point"}
+}

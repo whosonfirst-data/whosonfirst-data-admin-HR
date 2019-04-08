@@ -1,0 +1,70 @@
+{
+  "id": 1310590967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.59583,46.39722,16.59583,46.39722",
+    "geom:latitude":46.39722,
+    "geom:longitude":16.59583,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"11054836.0",
+    "gn:asciiname":"Palinovec",
+    "gn:country_code":"HR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193676,
+    "gn:latitude":46.39722,
+    "gn:longitude":16.59583,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Palinovec",
+    "gn:population":712,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193676,
+        "wk:page":"Palinovec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4e10c14682997f30e7627577784afc50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310590967,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":1310590967,
+    "wof:lastmodified":1537563286,
+    "wof:name":"Palinovec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":712,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.59583,
+    46.39722,
+    16.59583,
+    46.39722
+],
+  "geometry": {"coordinates":[16.59583,46.39722],"type":"Point"}
+}

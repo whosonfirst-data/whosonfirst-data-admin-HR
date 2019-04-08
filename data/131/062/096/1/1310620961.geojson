@@ -1,0 +1,73 @@
+{
+  "id": 1310620961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41167,44.765,15.41167,44.765",
+    "geom:latitude":44.765,
+    "geom:longitude":15.41167,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ramljani",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191977,
+    "gn:latitude":44.765,
+    "gn:longitude":15.41167,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Ramljani",
+    "gn:population":167,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ramljane",
+        "Ramljani"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191977
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e8409e3e3f888cbb47b44b63eb819451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310620961,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1310620961,
+    "wof:lastmodified":1537625840,
+    "wof:name":"Ramljani",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":167,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41167,
+    44.765,
+    15.41167,
+    44.765
+],
+  "geometry": {"coordinates":[15.41167,44.765],"type":"Point"}
+}

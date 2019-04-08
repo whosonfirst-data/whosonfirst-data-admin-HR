@@ -1,0 +1,65 @@
+{
+  "id": 1260278899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98083,44.63778,14.98083,44.63778",
+    "geom:latitude":44.63778,
+    "geom:longitude":14.98083,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Marama",
+    "gn:country_code":"HR",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217664,
+    "gn:latitude":44.63778,
+    "gn:longitude":14.98083,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Marama",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217664
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fc3088d7b9c2b5249360ab642d791604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260278899,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1260278899,
+    "wof:lastmodified":1536718474,
+    "wof:name":"Marama",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98083,
+    44.63778,
+    14.98083,
+    44.63778
+],
+  "geometry": {"coordinates":[14.98083,44.63778],"type":"Point"}
+}

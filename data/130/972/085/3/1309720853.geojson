@@ -1,0 +1,65 @@
+{
+  "id": 1309720853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.31028,45.15444,18.31028,45.15444",
+    "geom:latitude":45.15444,
+    "geom:longitude":18.31028,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Celinjaca",
+    "gn:country_code":"HR",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3294714,
+    "gn:latitude":45.15444,
+    "gn:longitude":18.31028,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"\u010celinja\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294714
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c35dbe7104a91deb678284d49e17cda3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309720853,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1309720853,
+    "wof:lastmodified":1537051316,
+    "wof:name":"Celinjaca",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.31028,
+    45.15444,
+    18.31028,
+    45.15444
+],
+  "geometry": {"coordinates":[18.31028,45.15444],"type":"Point"}
+}

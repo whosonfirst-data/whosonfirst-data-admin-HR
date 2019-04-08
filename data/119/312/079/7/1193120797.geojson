@@ -1,0 +1,71 @@
+{
+  "id": 1193120797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.59222,45.36611,16.59222,45.36611",
+    "geom:latitude":45.36611,
+    "geom:longitude":16.59222,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"11049233.0",
+    "gn:asciiname":"Krivaj Sunjski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215425,
+    "gn:latitude":45.36611,
+    "gn:longitude":16.59222,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Krivaj Sunjski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krivaj",
+        "Krivaj Sunjski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215425
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7c0b683b5573464ff1ee874f3018f77a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193120797,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1193120797,
+    "wof:lastmodified":1537625949,
+    "wof:name":"Krivaj Sunjski",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.59222,
+    45.36611,
+    16.59222,
+    45.36611
+],
+  "geometry": {"coordinates":[16.59222,45.36611],"type":"Point"}
+}

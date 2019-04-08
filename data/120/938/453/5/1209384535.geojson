@@ -1,0 +1,63 @@
+{
+  "id": 1209384535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2462,46.168,16.2462,46.168",
+    "geom:latitude":46.168,
+    "geom:longitude":16.2462,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"3194366.0",
+    "gn:asciiname":"Podrute",
+    "gn:country_code":"HR",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192924,
+    "gn:latitude":46.168,
+    "gn:longitude":16.2462,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Podrute",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192924,
+        "wk:page":"Podrute"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b9f9249fa5bdf5d4afaf656bd2fdf1fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209384535
+        }
+    ],
+    "wof:id":1209384535,
+    "wof:lastmodified":1537563285,
+    "wof:name":"Podrute",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2462,
+    46.168,
+    16.2462,
+    46.168
+],
+  "geometry": {"coordinates":[16.2462,46.168],"type":"Point"}
+}

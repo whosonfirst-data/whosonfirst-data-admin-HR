@@ -1,0 +1,69 @@
+{
+  "id": 1276951845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.72222,45.365,16.72222,45.365",
+    "geom:latitude":45.365,
+    "geom:longitude":16.72222,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3190812.0",
+    "gn:asciiname":"Lonja",
+    "gn:country_code":"HR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196217,
+    "gn:latitude":45.365,
+    "gn:longitude":16.72222,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Lonja",
+    "gn:population":111,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196217
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3e4306f7bd69b2af5c9488eccd1e6c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276951845,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1276951845,
+    "wof:lastmodified":1536945368,
+    "wof:name":"Lonja",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.72222,
+    45.365,
+    16.72222,
+    45.365
+],
+  "geometry": {"coordinates":[16.72222,45.365],"type":"Point"}
+}

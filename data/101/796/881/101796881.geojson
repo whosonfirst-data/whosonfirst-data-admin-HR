@@ -1,0 +1,190 @@
+{
+  "id": 101796881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000123,
+    "geom:area_square_m":1108031.627212,
+    "geom:bbox":"16.6409056803,43.2577714543,16.667133981,43.2657787882",
+    "geom:latitude":43.262208,
+    "geom:longitude":16.653269,
+    "gn:population":1655,
+    "iso:country":"HR",
+    "lbl:latitude":43.262841,
+    "lbl:longitude":16.652375,
+    "mps:latitude":43.262841,
+    "mps:longitude":16.652375,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Bol"
+    ],
+    "name:cat_x_preferred":[
+        "Bol"
+    ],
+    "name:ces_x_preferred":[
+        "Bol"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e73\u539f"
+    ],
+    "name:cze_x_preferred":[
+        "Bol"
+    ],
+    "name:deu_x_preferred":[
+        "Bol"
+    ],
+    "name:dut_x_preferred":[
+        "Bol"
+    ],
+    "name:eng_x_preferred":[
+        "Bol"
+    ],
+    "name:fin_x_preferred":[
+        "Bol"
+    ],
+    "name:fra_x_preferred":[
+        "Bol"
+    ],
+    "name:fre_x_preferred":[
+        "Bol"
+    ],
+    "name:ger_x_preferred":[
+        "Bol"
+    ],
+    "name:hbs_x_preferred":[
+        "Bol"
+    ],
+    "name:hrv_x_preferred":[
+        "Bol"
+    ],
+    "name:hun_x_preferred":[
+        "Bol"
+    ],
+    "name:ita_x_preferred":[
+        "Bol"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30eb"
+    ],
+    "name:lat_x_preferred":[
+        "Vallum Brattiae"
+    ],
+    "name:nld_x_preferred":[
+        "Bol"
+    ],
+    "name:nob_x_preferred":[
+        "Bol"
+    ],
+    "name:nor_x_preferred":[
+        "Bol"
+    ],
+    "name:pol_x_preferred":[
+        "Bol"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Bol"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Bol"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b"
+    ],
+    "name:slk_x_preferred":[
+        "Bol"
+    ],
+    "name:slo_x_preferred":[
+        "Bol"
+    ],
+    "name:slv_x_preferred":[
+        "Bol"
+    ],
+    "name:spa_x_preferred":[
+        "Bol"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Bol"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043b"
+    ],
+    "name:und_x_preferred":[
+        "Bol"
+    ],
+    "name:war_x_preferred":[
+        "Bol"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Bol",
+    "qs:la_lc":"*HR1700272",
+    "qs:level":"locality",
+    "qs:loc":"Bol",
+    "qs:loc_alt":"Bol",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":43.261944,
+    "wd:longitude":16.655,
+    "wd:wordcount":201,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115b5adc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3203765,
+        "gp:id":846888,
+        "qs:id":1044071,
+        "qs_pg:id":1044071,
+        "wd:id":"Q833865",
+        "wk:page":"Bol, Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c6f2785a0f3a4faaa7e67fc08ca83c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101796881,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101796881,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815510,
+    "wof:name":"Bol",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":1655,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64090568025915,
+    43.25777145431329,
+    16.66713398095561,
+    43.26577878819387
+],
+  "geometry": {"coordinates":[[[16.64896768511255,43.26577878819387],[16.66488920179751,43.2647401617424],[16.66478691665486,43.26384161536714],[16.66601160931447,43.26376161982841],[16.66590930981351,43.26286307405229],[16.66713398095561,43.26278306527507],[16.66682705191914,43.26008742728118],[16.66192857188048,43.26040735739952],[16.66203080324448,43.26130590989789],[16.65835685632425,43.26154570783353],[16.65825468056448,43.26064715107844],[16.65458076244647,43.26088681283289],[16.65447864646308,43.25998825100282],[16.65202938990535,43.26014794937873],[16.65192731516095,43.25924938389329],[16.6494780837715,43.25940902080214],[16.64937605026421,43.25851045166252],[16.6469268440477,43.25867002710618],[16.64682485177474,43.25777145431329],[16.64437567073543,43.25793096829346],[16.64447762594062,43.25882954391767],[16.64202839594719,43.25898900209677],[16.64213031824698,43.2598875797313],[16.64090568025915,43.25996728824828],[16.64121141652782,43.26266302047645],[16.64243611012625,43.26258330771418],[16.64253804907969,43.2634818820685],[16.64621216765795,43.26324265157973],[16.64631416639133,43.26414122086697],[16.64753888517708,43.26406144663588],[16.64764090661606,43.26496001368668],[16.64886564096662,43.26488022337935],[16.64896768511255,43.26577878819387]]],"type":"Polygon"}
+}

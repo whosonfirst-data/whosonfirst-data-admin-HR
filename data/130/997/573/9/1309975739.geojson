@@ -1,0 +1,67 @@
+{
+  "id": 1309975739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36319,46.10603,16.36319,46.10603",
+    "geom:latitude":46.10603,
+    "geom:longitude":16.36319,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"3194366.0",
+    "gn:asciiname":"Sudovec",
+    "gn:country_code":"HR",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189581,
+    "gn:latitude":46.10603,
+    "gn:longitude":16.36319,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Sudovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189581,
+        "wk:page":"Sudovec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1eaee636fd5a924a650ea38bf31942a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309975739,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1309975739,
+    "wof:lastmodified":1537563278,
+    "wof:name":"Sudovec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36319,
+    46.10603,
+    16.36319,
+    46.10603
+],
+  "geometry": {"coordinates":[16.36319,46.10603],"type":"Point"}
+}

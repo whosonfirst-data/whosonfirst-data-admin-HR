@@ -1,0 +1,66 @@
+{
+  "id": 1242871943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.18917,46.09472,17.18917,46.09472",
+    "geom:latitude":46.09472,
+    "geom:longitude":17.18917,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049380.0",
+    "gn:asciiname":"Karas",
+    "gn:country_code":"HR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198277,
+    "gn:latitude":46.09472,
+    "gn:longitude":17.18917,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Kara\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198277
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ae0c5b42b42b66f4db2e5467d2f6eb69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242871943,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1242871943,
+    "wof:lastmodified":1536638715,
+    "wof:name":"Karas",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.18917,
+    46.09472,
+    17.18917,
+    46.09472
+],
+  "geometry": {"coordinates":[17.18917,46.09472],"type":"Point"}
+}

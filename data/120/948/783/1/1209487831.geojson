@@ -1,0 +1,65 @@
+{
+  "id": 1209487831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03306,46.24528,16.03306,46.24528",
+    "geom:latitude":46.24528,
+    "geom:longitude":16.03306,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"11049308.0",
+    "gn:asciiname":"Kamenica",
+    "gn:country_code":"HR",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215714,
+    "gn:latitude":46.24528,
+    "gn:longitude":16.03306,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Kamenica",
+    "gn:population":141,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215714
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6ef7dfcbe83c11e493c74bfcde5f684b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209487831
+        }
+    ],
+    "wof:id":1209487831,
+    "wof:lastmodified":1536285580,
+    "wof:name":"Kamenica",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03306,
+    46.24528,
+    16.03306,
+    46.24528
+],
+  "geometry": {"coordinates":[16.03306,46.24528],"type":"Point"}
+}

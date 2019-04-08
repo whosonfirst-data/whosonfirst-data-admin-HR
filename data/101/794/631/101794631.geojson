@@ -1,0 +1,144 @@
+{
+  "id": 101794631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000222,
+    "geom:area_square_m":1935802.06012,
+    "geom:bbox":"18.3744795578,45.1476891891,18.4401780789,45.1634915246",
+    "geom:latitude":45.15498,
+    "geom:longitude":18.40309,
+    "gn:population":4,
+    "iso:country":"HR",
+    "lbl:latitude":45.156574,
+    "lbl:longitude":18.397117,
+    "mps:latitude":45.156574,
+    "mps:longitude":18.397117,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Velika Kopanica"
+    ],
+    "name:deu_x_preferred":[
+        "Velika Kopanica"
+    ],
+    "name:dut_x_preferred":[
+        "Velika Kopanica"
+    ],
+    "name:eng_x_preferred":[
+        "Velica Kopanica"
+    ],
+    "name:fra_x_preferred":[
+        "Velika Kopanica"
+    ],
+    "name:fre_x_preferred":[
+        "Velika Kopanica"
+    ],
+    "name:ger_x_preferred":[
+        "Velika Kopanica"
+    ],
+    "name:hbs_x_preferred":[
+        "Velika Kopanica"
+    ],
+    "name:hrv_x_preferred":[
+        "Velika Kopanica"
+    ],
+    "name:ita_x_preferred":[
+        "Velika Kopanica"
+    ],
+    "name:nld_x_preferred":[
+        "Velika Kopanica"
+    ],
+    "name:pol_x_preferred":[
+        "Velika Kopanica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Velika Kopanica"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Velika Kopanica"
+    ],
+    "name:spa_x_preferred":[
+        "Velika Kopanica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041a\u043e\u043f\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Velika Kopanica"
+    ],
+    "name:unk_x_variant":[
+        "Velica Kopanica"
+    ],
+    "name:war_x_preferred":[
+        "Velika Kopanica"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Brodsko-posavska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Velika Kopanica",
+    "qs:la_lc":"*HR1204766",
+    "qs:level":"locality",
+    "qs:loc":"Velika Kopanica",
+    "qs:loc_alt":"Velika Kopanica",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115d466c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3188222,
+        "gp:id":850849,
+        "qs:id":262138,
+        "qs_pg:id":262138,
+        "wd:id":"Q569016",
+        "wk:page":"Velika Kopanica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"09f01805bd56cddd8cf3da4ca1b4b0fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101794631,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":101794631,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527689323,
+    "wof:name":"Velika Kopanica",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.37447955782784,
+    45.14768918909863,
+    18.44017807886797,
+    45.16349152458497
+],
+  "geometry": {"coordinates":[[[18.40476513756914,45.16339017882012],[18.40462897737723,45.16249539980907],[18.4058925810462,45.16239404076578],[18.40575640657772,45.16149926284027],[18.40322923513065,45.16170196197294],[18.40295698349786,45.15991239613504],[18.40169343158925,45.16001371916354],[18.40142124295511,45.15822414631737],[18.40015772693442,45.15832545039399],[18.39974954707634,45.15564107940327],[18.41617415117696,45.15432301702685],[18.41603784253988,45.15342824968167],[18.43246148464272,45.15210764864742],[18.43259805339454,45.15300239134814],[18.43765142036119,45.15259552931877],[18.43778807490207,45.15349026361855],[18.43905142624379,45.15338850829687],[18.43891475169676,45.152493775896],[18.44017807886797,45.15239200730707],[18.44004139007808,45.15149727599618],[18.43877808291256,45.15159904268597],[18.43864141989104,45.15070430866683],[18.43737812856671,45.15080605829229],[18.43724149131231,45.14991132156547],[18.41323854605264,45.15184164688014],[18.41337480317571,45.15273641962796],[18.40326769126386,45.15354756533503],[18.40299550292622,45.1517579887585],[18.40173213529351,45.15185930993641],[18.40118790751671,45.14828013953689],[18.39739801986036,45.14858398938566],[18.39726203728048,45.14768918909863],[18.39599875311683,45.1477904401595],[18.39667862331237,45.15226444297411],[18.39541523495768,45.15236568831477],[18.39555120618735,45.1532604883472],[18.39428779367745,45.15336172040941],[18.39442375062822,45.15425652152476],[18.3931603139622,45.154357740308],[18.39329625663191,45.15525254250599],[18.37813445353999,45.15646600739655],[18.37827016173912,45.15736083143662],[18.37447955782784,45.15766386200477],[18.37461521169126,45.15855869089575],[18.37587877048293,45.15845769399141],[18.37601445008897,45.15935252019227],[18.38865001070366,45.15834169792709],[18.38905768449223,45.16102611509456],[18.39411203306196,45.16062133876477],[18.39397605598759,45.15972654140342],[18.39903025817944,45.15932152990922],[18.39916631533026,45.16021631971057],[18.40042987553284,45.16011502702202],[18.40070204708906,45.16190460042458],[18.40196564318387,45.16180328878386],[18.4021017575925,45.1626980723845],[18.40336536955937,45.16259674368212],[18.40350150972995,45.16349152458497],[18.40476513756914,45.16339017882012]]],"type":"Polygon"}
+}

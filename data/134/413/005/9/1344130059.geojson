@@ -1,0 +1,65 @@
+{
+  "id": 1344130059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.51167,43.81778,16.51167,43.81778",
+    "geom:latitude":43.81778,
+    "geom:longitude":16.51167,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gornji Bilandzici",
+    "gn:country_code":"HR",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277133,
+    "gn:latitude":43.81778,
+    "gn:longitude":16.51167,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Gornji Biland\u017ei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277133
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3663b713a1fd53aa41066742b066808d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344130059,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1344130059,
+    "wof:lastmodified":1536775873,
+    "wof:name":"Gornji Bilandzici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.51167,
+    43.81778,
+    16.51167,
+    43.81778
+],
+  "geometry": {"coordinates":[16.51167,43.81778],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293560021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01008,45.33616,16.01008,45.33616",
+    "geom:latitude":45.33616,
+    "geom:longitude":16.01008,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3200597.0",
+    "gn:asciiname":"Satornja",
+    "gn:country_code":"HR",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191245,
+    "gn:latitude":45.33616,
+    "gn:longitude":16.01008,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"\u0160atornja",
+    "gn:population":176,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160atornja"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191245,
+        "wk:page":"%C5%A0atornja"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1bc6773fa6caa7712f58bed2b63a2c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293560021,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1293560021,
+    "wof:lastmodified":1537625836,
+    "wof:name":"Satornja",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":176,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01008,
+    45.33616,
+    16.01008,
+    45.33616
+],
+  "geometry": {"coordinates":[16.01008,45.33616],"type":"Point"}
+}

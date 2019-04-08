@@ -1,0 +1,98 @@
+{
+  "id": 101793477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":848128.319156,
+    "geom:bbox":"18.3383603682,45.2094007919,18.3539004604,45.224814281",
+    "geom:latitude":45.218523,
+    "geom:longitude":18.347428,
+    "iso:country":"HR",
+    "lbl:latitude":45.218819,
+    "lbl:longitude":18.34731,
+    "mps:latitude":45.218819,
+    "mps:longitude":18.34731,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Stari Perkovci"
+    ],
+    "name:deu_x_preferred":[
+        "NK Slavonac Stari Perkovci"
+    ],
+    "name:dut_x_preferred":[
+        "Stari Perkovci"
+    ],
+    "name:eng_x_preferred":[
+        "Stari Perkovci"
+    ],
+    "name:hrv_x_preferred":[
+        "NK Slavonac Stari Perkovci"
+    ],
+    "name:slv_x_preferred":[
+        "Stari Perkovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u041f\u0435\u0440\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Perkovci Stari"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Brodsko-posavska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Vrpolje",
+    "qs:la_lc":"*HR1205142",
+    "qs:level":"locality",
+    "qs:loc":"Stari Perkovci",
+    "qs:loc_alt":"Stari Perkovci",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189945,
+        "gp:id":850437,
+        "qs:id":407664,
+        "wd:id":"Q2019133"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6c79c10378b1a3173ac0815b3586405c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793477,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":101793477,
+    "wof:lastmodified":1527689276,
+    "wof:name":"Stari Perkovci",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33836036823396,
+    45.20940079193093,
+    18.35390046039817,
+    45.22481428100713
+],
+  "geometry": {"coordinates":[[[18.35390046039817,45.22451207302669],[18.35308707243547,45.21914315817054],[18.35055713736477,45.21934462274498],[18.34960872626027,45.21308082596573],[18.35087355531761,45.21298011445498],[18.35033165166357,45.20940079193093],[18.3490669029008,45.20950149591152],[18.34920235016199,45.21039632962589],[18.34793757719387,45.2104970203012],[18.34834389306957,45.21318152228815],[18.3470790557451,45.21328220342218],[18.34734992143677,45.21507187117606],[18.34229037019867,45.21547445887825],[18.34215501480423,45.21457961787485],[18.33836036823396,45.2148813935209],[18.33863096426467,45.21667108601218],[18.34242573130877,45.2163692990818],[18.34283184893536,45.21905381489341],[18.3390369011621,45.2193556187521],[18.33917222488981,45.2202504613997],[18.34423222732107,45.21984801834896],[18.3446384738034,45.22253251891885],[18.34590352433082,45.22243186453289],[18.34603897134781,45.22332669457461],[18.34730403782623,45.22322602311482],[18.34743951064888,45.22412085047421],[18.34996967136982,45.22391945821363],[18.35010519008642,45.22481428100713],[18.35390046039817,45.22451207302669]]],"type":"Polygon"}
+}

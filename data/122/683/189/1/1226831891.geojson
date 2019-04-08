@@ -1,0 +1,65 @@
+{
+  "id": 1226831891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71917,43.76972,16.71917,43.76972",
+    "geom:latitude":43.76972,
+    "geom:longitude":16.71917,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Raseljke",
+    "gn:country_code":"HR",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277435,
+    "gn:latitude":43.76972,
+    "gn:longitude":16.71917,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Ra\u0161eljke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277435
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4c861b85355f0af333f41eb7deac9356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226831891,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1226831891,
+    "wof:lastmodified":1537085121,
+    "wof:name":"Raseljke",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71917,
+    43.76972,
+    16.71917,
+    43.76972
+],
+  "geometry": {"coordinates":[16.71917,43.76972],"type":"Point"}
+}

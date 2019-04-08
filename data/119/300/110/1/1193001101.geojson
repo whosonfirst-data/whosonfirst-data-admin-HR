@@ -1,0 +1,65 @@
+{
+  "id": 1193001101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7725,43.68528,16.7725,43.68528",
+    "geom:latitude":43.68528,
+    "geom:longitude":16.7725,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bitunjac",
+    "gn:country_code":"HR",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278108,
+    "gn:latitude":43.68528,
+    "gn:longitude":16.7725,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Bitunjac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278108
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"43c8c0f27dfe679bc1cfff01ff2e64a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193001101,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1193001101,
+    "wof:lastmodified":1536370541,
+    "wof:name":"Bitunjac",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7725,
+    43.68528,
+    16.7725,
+    43.68528
+],
+  "geometry": {"coordinates":[16.7725,43.68528],"type":"Point"}
+}

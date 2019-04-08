@@ -1,0 +1,67 @@
+{
+  "id": 1209476843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41667,45.9,16.41667,45.9",
+    "geom:latitude":45.9,
+    "geom:longitude":16.41667,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"3187264.0",
+    "gn:asciiname":"Cerje Vrbovecko",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202714,
+    "gn:latitude":45.9,
+    "gn:longitude":16.41667,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Cerje Vrbove\u010dko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerje",
+        "Cerje Vrbove\u010dko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202714
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f6c4a36182689064dd4041f50498ab1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209476843
+        }
+    ],
+    "wof:id":1209476843,
+    "wof:lastmodified":1537625924,
+    "wof:name":"Cerje Vrbovecko",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41667,
+    45.9,
+    16.41667,
+    45.9
+],
+  "geometry": {"coordinates":[16.41667,45.9],"type":"Point"}
+}

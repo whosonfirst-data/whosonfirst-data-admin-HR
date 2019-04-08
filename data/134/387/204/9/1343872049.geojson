@@ -1,0 +1,76 @@
+{
+  "id": 1343872049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.92389,45.73556,16.92389,45.73556",
+    "geom:latitude":45.73556,
+    "geom:longitude":16.92389,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049422.0",
+    "gn:asciiname":"Nova Ploscica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194417,
+    "gn:latitude":45.73556,
+    "gn:longitude":16.92389,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Nova Plo\u0161\u010dica",
+    "gn:population":345,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ploschicza",
+        "Nova Ploschicza",
+        "Polosnica",
+        "Nova Plo\u0161\u010dica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194417
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0d8734ed5b8c3765fe3afc4e2203a6d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343872049,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1343872049,
+    "wof:lastmodified":1537625856,
+    "wof:name":"Nova Ploscica",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":345,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.92389,
+    45.73556,
+    16.92389,
+    45.73556
+],
+  "geometry": {"coordinates":[16.92389,45.73556],"type":"Point"}
+}

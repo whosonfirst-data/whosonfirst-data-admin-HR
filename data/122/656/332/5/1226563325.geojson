@@ -1,0 +1,68 @@
+{
+  "id": 1226563325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.07028,46.01639,16.07028,46.01639",
+    "geom:latitude":46.01639,
+    "geom:longitude":16.07028,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Brezovec",
+    "gn:country_code":"HR",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215780,
+    "gn:latitude":46.01639,
+    "gn:longitude":16.07028,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Brezovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brestovec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215780
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f4d2a2cc7f071dde36530fde036010aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226563325,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1226563325,
+    "wof:lastmodified":1537625950,
+    "wof:name":"Brezovec",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.07028,
+    46.01639,
+    16.07028,
+    46.01639
+],
+  "geometry": {"coordinates":[16.07028,46.01639],"type":"Point"}
+}

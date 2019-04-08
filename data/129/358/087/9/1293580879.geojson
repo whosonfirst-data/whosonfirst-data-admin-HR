@@ -1,0 +1,67 @@
+{
+  "id": 1293580879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.635,46.09694,15.635,46.09694",
+    "geom:latitude":46.09694,
+    "geom:longitude":15.635,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"11049220.0",
+    "gn:asciiname":"Zagorska Sela",
+    "gn:country_code":"HR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3213523,
+    "gn:latitude":46.09694,
+    "gn:longitude":15.635,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Zagorska Sela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213523,
+        "wk:page":"Zagorska_Sela"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"426ea69de54b1731fe7068b1c0f94b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293580879,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1293580879,
+    "wof:lastmodified":1537563313,
+    "wof:name":"Zagorska Sela",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.635,
+    46.09694,
+    15.635,
+    46.09694
+],
+  "geometry": {"coordinates":[15.635,46.09694],"type":"Point"}
+}

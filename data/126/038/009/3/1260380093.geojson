@@ -1,0 +1,75 @@
+{
+  "id": 1260380093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.03167,45.58806,18.03167,45.58806",
+    "geom:latitude":45.58806,
+    "geom:longitude":18.03167,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"11055020.0",
+    "gn:asciiname":"Boksic",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203767,
+    "gn:latitude":45.58806,
+    "gn:longitude":18.03167,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Bok\u0161i\u0107",
+    "gn:population":433,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boksich",
+        "Bok\u0161i\u0107i",
+        "Bok\u0161i\u0107"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203767
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"90a211411ca21007f53d2d7d8f541320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260380093,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1260380093,
+    "wof:lastmodified":1537625933,
+    "wof:name":"Boksic",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":433,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.03167,
+    45.58806,
+    18.03167,
+    45.58806
+],
+  "geometry": {"coordinates":[18.03167,45.58806],"type":"Point"}
+}

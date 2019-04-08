@@ -1,0 +1,132 @@
+{
+  "id": 1125922049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70972,44.74389,15.70972,44.74389",
+    "geom:latitude":44.74389,
+    "geom:longitude":15.70972,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"HR",
+    "lbl:latitude":44.74389,
+    "lbl:longitude":15.70972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Korenica"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Korenica"
+    ],
+    "name:eng_x_preferred":[
+        "Korenica"
+    ],
+    "name:epo_x_preferred":[
+        "Korenica"
+    ],
+    "name:ger_x_preferred":[
+        "Korenica"
+    ],
+    "name:hrv_x_preferred":[
+        "Korenica"
+    ],
+    "name:hun_x_preferred":[
+        "Korenica"
+    ],
+    "name:ita_x_preferred":[
+        "Korenica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30ec\u30cb\u30c4\u30a1"
+    ],
+    "name:pol_x_preferred":[
+        "Korenica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Korenica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Korenica"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3189076,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Titova Korenica",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Li\u010dko-senjska",
+    "qs_pg:photos":45,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":45,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":983679,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850646,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Li\u010dko-senjska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189076,
+        "gp:id":850646,
+        "qs_pg:id":983679,
+        "wd:id":"Q1269156"
+    },
+    "wof:country":"HR",
+    "wof:created":1497296514,
+    "wof:geomhash":"6077c96924cb8c95223739cc9654cb50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125922049,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1125922049,
+    "wof:lastmodified":1553816631,
+    "wof:name":"Titova Korenica",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70972,
+    44.74389,
+    15.70972,
+    44.74389
+],
+  "geometry": {"coordinates":[15.70972,44.74389],"type":"Point"}
+}

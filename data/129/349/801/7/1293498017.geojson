@@ -1,0 +1,68 @@
+{
+  "id": 1293498017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72568,45.51353,15.72568,45.51353",
+    "geom:latitude":45.51353,
+    "geom:longitude":15.72568,
+    "gn:asciiname":"Blatnica Pokupska",
+    "gn:country_code":"HR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7732830,
+    "gn:latitude":45.51353,
+    "gn:longitude":15.72568,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Blatnica Pokupska",
+    "gn:population":31,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732830,
+        "wk:page":"Blatnica_Pokupska"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6606282f0f73663dc590d396ff6379e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293498017,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1293498017,
+    "wof:lastmodified":1537563319,
+    "wof:name":"Blatnica Pokupska",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72568,
+    45.51353,
+    15.72568,
+    45.51353
+],
+  "geometry": {"coordinates":[15.72568,45.51353],"type":"Point"}
+}

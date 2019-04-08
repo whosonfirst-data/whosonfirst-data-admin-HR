@@ -1,0 +1,121 @@
+{
+  "id": 101790167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000093,
+    "geom:area_square_m":798022.798599,
+    "geom:bbox":"16.4959982293,46.3266346885,16.5137782633,46.3359164368",
+    "geom:latitude":46.331865,
+    "geom:longitude":16.505365,
+    "gn:population":1667,
+    "iso:country":"HR",
+    "lbl:latitude":46.332308,
+    "lbl:longitude":16.50597,
+    "mps:latitude":46.332308,
+    "mps:longitude":16.50597,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Orehovica"
+    ],
+    "name:deu_x_preferred":[
+        "Orehovica"
+    ],
+    "name:epo_x_preferred":[
+        "Orehovica"
+    ],
+    "name:fra_x_preferred":[
+        "Orehovica"
+    ],
+    "name:hbs_x_preferred":[
+        "Orehovica"
+    ],
+    "name:hrv_x_preferred":[
+        "Orehovica"
+    ],
+    "name:hun_x_preferred":[
+        "Dr\u00e1vadi\u00f3s"
+    ],
+    "name:ita_x_preferred":[
+        "Orehovica"
+    ],
+    "name:nld_x_preferred":[
+        "Orehovica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Orehovica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u0435\u0445\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Orehovica"
+    ],
+    "name:war_x_preferred":[
+        "Orehovica"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Medimurska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Orehovica",
+    "qs:la_lc":"*HR2006050",
+    "qs:level":"locality",
+    "qs:loc":"Orehovica",
+    "qs:loc_alt":"Orehovica",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":180,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194020,
+        "gp:id":849454,
+        "qs:id":407442,
+        "qs_pg:id":407442,
+        "wd:id":"Q910218",
+        "wk:page":"Orehovica, Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"44dcdde62d5c74f240a23b0f3c5a0110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101790167,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":101790167,
+    "wof:lastmodified":1527641595,
+    "wof:name":"Orehovica",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":1667,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.49599822927593,
+    46.32663468852707,
+    16.51377826327411,
+    46.33591643683297
+],
+  "geometry": {"coordinates":[[[16.51055348253442,46.33528642591256],[16.51033505844157,46.33349306964499],[16.51162847961513,46.33341425105777],[16.51119160250016,46.32982753696905],[16.51377826327411,46.3296698651468],[16.51355976745089,46.32787651037398],[16.50709330377492,46.3282705575877],[16.50698416996801,46.32737387162558],[16.504397603249,46.32753137817241],[16.50428851696978,46.32663468852707],[16.50299524986161,46.32671341685864],[16.50343153767818,46.33030017770466],[16.49825809243225,46.33061495924682],[16.49858510094714,46.33330504145232],[16.49599822927593,46.33346234766327],[16.49610719872521,46.33435904350029],[16.49740065768793,46.33428039668144],[16.49750965326456,46.33517709036079],[16.50009660371592,46.33501974683338],[16.50020564683393,46.33591643683297],[16.51055348253442,46.33528642591256]]],"type":"Polygon"}
+}

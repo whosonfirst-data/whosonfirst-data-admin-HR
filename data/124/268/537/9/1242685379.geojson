@@ -1,0 +1,66 @@
+{
+  "id": 1242685379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.245,42.59806,18.245,42.59806",
+    "geom:latitude":42.59806,
+    "geom:longitude":18.245,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"11054972.0",
+    "gn:asciiname":"Velji Do",
+    "gn:country_code":"HR",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3264901,
+    "gn:latitude":42.59806,
+    "gn:longitude":18.245,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Velji Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3264901
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b03ea194dc07bc2b1f5f682b328175db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242685379,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1242685379,
+    "wof:lastmodified":1536908793,
+    "wof:name":"Velji Do",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.245,
+    42.59806,
+    18.245,
+    42.59806
+],
+  "geometry": {"coordinates":[18.245,42.59806],"type":"Point"}
+}

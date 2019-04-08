@@ -1,0 +1,75 @@
+{
+  "id": 1326805619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.00111,44.15222,15.00111,44.15222",
+    "geom:latitude":44.15222,
+    "geom:longitude":15.00111,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11054374.0",
+    "gn:asciiname":"Sestrunj",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190970,
+    "gn:latitude":44.15222,
+    "gn:longitude":15.00111,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Sestrunj",
+    "gn:population":48,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sestrugno",
+        "Sestrunj"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190970,
+        "wk:page":"Sestrunj"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1e06f792b6616c3865b71d828417f53f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326805619,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1326805619,
+    "wof:lastmodified":1537625834,
+    "wof:name":"Sestrunj",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.00111,
+    44.15222,
+    15.00111,
+    44.15222
+],
+  "geometry": {"coordinates":[15.00111,44.15222],"type":"Point"}
+}

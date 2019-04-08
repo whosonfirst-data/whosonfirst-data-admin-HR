@@ -1,0 +1,115 @@
+{
+  "id": 1125962827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67028,42.93306,16.67028,42.93306",
+    "geom:latitude":42.93306,
+    "geom:longitude":16.67028,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":23,
+    "iso:country":"HR",
+    "lbl:latitude":42.93306,
+    "lbl:longitude":16.67028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Potirna"
+    ],
+    "name:dut_x_preferred":[
+        "Potirna"
+    ],
+    "name:eng_x_preferred":[
+        "Potirna"
+    ],
+    "name:epo_x_preferred":[
+        "Potirna"
+    ],
+    "name:hrv_x_preferred":[
+        "Potirna"
+    ],
+    "name:hun_x_preferred":[
+        "Potirna"
+    ],
+    "name:slv_x_preferred":[
+        "Potirna"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0442\u0438\u0440\u043d\u0430"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3214638,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Potirna",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Dubrova\u010dko-neretvanska",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":989364,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":15000159,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Dubrova\u010dko-neretvanska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214638,
+        "gp:id":15000159,
+        "qs_pg:id":989364,
+        "wd:id":"Q2846111"
+    },
+    "wof:country":"HR",
+    "wof:created":1497297865,
+    "wof:geomhash":"782961a199a3fca6748c37c757b78bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125962827,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1125962827,
+    "wof:lastmodified":1514447579,
+    "wof:name":"Potirna",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67028,
+    42.93306,
+    16.67028,
+    42.93306
+],
+  "geometry": {"coordinates":[16.67028,42.93306],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1344230255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78333,43.695,16.78333,43.695",
+    "geom:latitude":43.695,
+    "geom:longitude":16.78333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Otok Staje",
+    "gn:country_code":"HR",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3278074,
+    "gn:latitude":43.695,
+    "gn:longitude":16.78333,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Otok Staje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278074
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"df94e3dc99a92f6d6b4e0362538b7a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344230255,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1344230255,
+    "wof:lastmodified":1536628961,
+    "wof:name":"Otok Staje",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78333,
+    43.695,
+    16.78333,
+    43.695
+],
+  "geometry": {"coordinates":[16.78333,43.695],"type":"Point"}
+}

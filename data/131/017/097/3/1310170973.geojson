@@ -1,0 +1,70 @@
+{
+  "id": 1310170973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30361,44.29252,15.30361,44.29252",
+    "geom:latitude":44.29252,
+    "geom:longitude":15.30361,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11054376.0",
+    "gn:asciiname":"Rtina",
+    "gn:country_code":"HR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191491,
+    "gn:latitude":44.29252,
+    "gn:longitude":15.30361,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Rtina",
+    "gn:population":452,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191491,
+        "wk:page":"Rtina"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"eb47430b7db7684caf32c1be9fcbbb68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310170973,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1310170973,
+    "wof:lastmodified":1537563283,
+    "wof:name":"Rtina",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":452,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30361,
+    44.29252,
+    15.30361,
+    44.29252
+],
+  "geometry": {"coordinates":[15.30361,44.29252],"type":"Point"}
+}

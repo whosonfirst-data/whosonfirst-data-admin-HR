@@ -1,0 +1,80 @@
+{
+  "id": 1126001293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.602401,43.351271,16.602401,43.351271",
+    "geom:latitude":43.351271,
+    "geom:longitude":16.602401,
+    "gn:gn_country":null,
+    "iso:country":"HR",
+    "lbl:latitude":43.351271,
+    "lbl:longitude":16.602401,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\u00c5 Krip",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Splitsko-Dalmatinska",
+    "qs_pg:photos":218,
+    "qs_pg:photos_1k":44,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":218,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":242622,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850263,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Splitsko-Dalmatinska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":850263,
+        "qs_pg:id":242622
+    },
+    "wof:country":"HR",
+    "wof:created":1497299661,
+    "wof:geomhash":"d0f97261ae2c24390490939cd5302e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126001293,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1126001293,
+    "wof:lastmodified":1509406157,
+    "wof:name":"\u00c5 Krip",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.602401,
+    43.351271,
+    16.602401,
+    43.351271
+],
+  "geometry": {"coordinates":[16.602401,43.351271],"type":"Point"}
+}

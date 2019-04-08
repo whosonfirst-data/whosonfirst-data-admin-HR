@@ -1,0 +1,80 @@
+{
+  "id": 1293772819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95056,45.52889,18.95056,45.52889",
+    "geom:latitude":45.52889,
+    "geom:longitude":18.95056,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"11054461.0",
+    "gn:asciiname":"Aljmas",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204829,
+    "gn:latitude":45.52889,
+    "gn:longitude":18.95056,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Aljma\u0161",
+    "gn:population":605,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jabuka",
+        "Apfeldorf",
+        "Hossz\u00fa-Hagym\u00e1s",
+        "Alma\u0161",
+        "Hagym\u00e1s",
+        "Almasch",
+        "Aljma\u0161"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204829,
+        "wk:page":"Aljma%C5%A1%2C_Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3f6a830495643dc10e5fa34e8fb660bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293772819,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1293772819,
+    "wof:lastmodified":1537625940,
+    "wof:name":"Aljmas",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":605,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95056,
+    45.52889,
+    18.95056,
+    45.52889
+],
+  "geometry": {"coordinates":[18.95056,45.52889],"type":"Point"}
+}

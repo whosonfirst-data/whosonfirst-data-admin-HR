@@ -1,0 +1,102 @@
+{
+  "id": 1125817487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1975,45.27139,14.1975,45.27139",
+    "geom:latitude":45.27139,
+    "geom:longitude":14.1975,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"HR",
+    "lbl:latitude":45.27139,
+    "lbl:longitude":14.1975,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Mala U\u010dka"
+    ],
+    "name:eng_x_preferred":[
+        "Mala U\u010dka"
+    ],
+    "name:hrv_x_preferred":[
+        "Mala U\u010dka"
+    ],
+    "name:slv_x_preferred":[
+        "Mala U\u010dka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u0423\u0447\u043a\u0430"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3195781,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mala U\u010dka",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Primorsko-Goranska",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167419,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":848992,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Primorsko-Goranska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195781,
+        "gp:id":848992,
+        "qs_pg:id":1167419,
+        "wd:id":"Q17204120"
+    },
+    "wof:country":"HR",
+    "wof:created":1497291905,
+    "wof:geomhash":"4169fbe8198640b04f2c94528966c951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125817487,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1125817487,
+    "wof:lastmodified":1553816552,
+    "wof:name":"Mala U\u010dka",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1975,
+    45.27139,
+    14.1975,
+    45.27139
+],
+  "geometry": {"coordinates":[14.1975,45.27139],"type":"Point"}
+}

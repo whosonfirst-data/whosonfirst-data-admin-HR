@@ -1,0 +1,68 @@
+{
+  "id": 1209123843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.73333,45.96667,16.73333,45.96667",
+    "geom:latitude":45.96667,
+    "geom:longitude":16.73333,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049416.0",
+    "gn:asciiname":"Kraljevac Krizevacki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197401,
+    "gn:latitude":45.96667,
+    "gn:longitude":16.73333,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Kraljevac Kri\u017eeva\u010dki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kri\u017eeva\u010di Kraljevac",
+        "Kraljevac",
+        "Kraljevac Kri\u017eeva\u010dki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197401
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c9e1f645f50442122a5077b2c5d1dc3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209123843
+        }
+    ],
+    "wof:id":1209123843,
+    "wof:lastmodified":1537625882,
+    "wof:name":"Kraljevac Krizevacki",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.73333,
+    45.96667,
+    16.73333,
+    45.96667
+],
+  "geometry": {"coordinates":[16.73333,45.96667],"type":"Point"}
+}

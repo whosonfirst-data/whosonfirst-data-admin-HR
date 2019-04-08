@@ -1,0 +1,120 @@
+{
+  "id": 101793489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":349215.22129,
+    "geom:bbox":"18.8996983889,45.358817517,18.9250854851,45.3661431151",
+    "geom:latitude":45.362097,
+    "geom:longitude":18.911192,
+    "gn:population":1521,
+    "iso:country":"HR",
+    "lbl:latitude":45.361744,
+    "lbl:longitude":18.910326,
+    "mps:latitude":45.361744,
+    "mps:longitude":18.910326,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Br\u0161adin"
+    ],
+    "name:dut_x_preferred":[
+        "Br\u0161adin"
+    ],
+    "name:eng_x_preferred":[
+        "Br\u0161adin"
+    ],
+    "name:fra_x_preferred":[
+        "Br\u0161adin"
+    ],
+    "name:fre_x_preferred":[
+        "Br\u0161adin"
+    ],
+    "name:hbs_x_preferred":[
+        "Br\u0161adin"
+    ],
+    "name:hrv_x_preferred":[
+        "Br\u0161adin"
+    ],
+    "name:nld_x_preferred":[
+        "Br\u0161adin"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u0440\u0448\u0430\u0434\u0438\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Br\u0161adin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0448\u0430\u0434\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Br\u0161adin"
+    ],
+    "name:tur_x_preferred":[
+        "Br\u0161adin"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vukovarsko-srijemska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Trpinja",
+    "qs:la_lc":"*HR1604642",
+    "qs:level":"locality",
+    "qs:loc":"Br\u0161adin",
+    "qs:loc_alt":"Brsadin",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":367,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203221,
+        "qs:id":581775,
+        "qs_pg:id":581775,
+        "wd:id":"Q2488905",
+        "wk:page":"Br\u0161adin"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"233b2664dab587ab14ee844a1338d70c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793489,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":101793489,
+    "wof:lastmodified":1527689280,
+    "wof:name":"Br\u0161adin",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":1521,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.89969838889704,
+    45.35881751703909,
+    18.92508548514837,
+    45.3661431151217
+],
+  "geometry": {"coordinates":[[[18.92508548514837,45.36592780228],[18.92494006293634,45.36503398983837],[18.92367265144736,45.36514165184656],[18.92352725552394,45.36424783655684],[18.92225985972283,45.36435548133244],[18.92211449008721,45.36346166319527],[18.91957972541388,45.36367690306901],[18.9194344022003,45.36278308006638],[18.91816703332933,45.36289067516526],[18.91802173639928,45.36199684931614],[18.91548702559146,45.36221198983969],[18.91534177507884,45.36131815912734],[18.91153973594055,45.36164074976472],[18.91139455197884,45.36074691217391],[18.90759253326405,45.36106935984765],[18.9074474158503,45.36017551538146],[18.90618008753245,45.36028296549853],[18.90603499639246,45.35938911818931],[18.90223304520924,45.35971137121959],[18.90208802061176,45.35881751703909],[18.90082071480975,45.35892490227667],[18.90096571927154,45.35981875847125],[18.89969838889704,45.3599261305103],[18.89984337935596,45.36081998789166],[18.90111072986741,45.36071261383876],[18.90125574659743,45.36160646837897],[18.90379047458191,45.36139167060583],[18.90393553772242,45.36228552029007],[18.90773765681666,45.36196320348643],[18.90788278650842,45.36285704629773],[18.91421966351982,45.36231953728196],[18.9143649000402,45.3632133691836],[18.91689966001189,45.36299825505102],[18.91704494295135,45.36389208208993],[18.91831233640607,45.363784500186],[18.91845764562942,45.36467832437876],[18.92099245947304,45.36446311089458],[18.92113781512074,45.36535693022228],[18.92240523550856,45.36524929864112],[18.92255061744402,45.3661431151217],[18.92508548514837,45.36592780228]]],"type":"Polygon"}
+}

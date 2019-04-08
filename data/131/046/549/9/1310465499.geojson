@@ -1,0 +1,69 @@
+{
+  "id": 1310465499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.55066,45.75483,17.55066,45.75483",
+    "geom:latitude":45.75483,
+    "geom:longitude":17.55066,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049468.0",
+    "gn:asciiname":"Budanica",
+    "gn:country_code":"HR",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203142,
+    "gn:latitude":45.75483,
+    "gn:longitude":17.55066,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Budanica",
+    "gn:population":107,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203142
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"42cbbf19e61cb562d1c58921f3a31a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310465499,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1310465499,
+    "wof:lastmodified":1536974266,
+    "wof:name":"Budanica",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":107,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.55066,
+    45.75483,
+    17.55066,
+    45.75483
+],
+  "geometry": {"coordinates":[17.55066,45.75483],"type":"Point"}
+}

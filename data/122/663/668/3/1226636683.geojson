@@ -1,0 +1,65 @@
+{
+  "id": 1226636683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91278,44.90111,14.91278,44.90111",
+    "geom:latitude":44.90111,
+    "geom:longitude":14.91278,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zerovnica",
+    "gn:country_code":"HR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218440,
+    "gn:latitude":44.90111,
+    "gn:longitude":14.91278,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"\u017derovnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218440
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"279cfe66a831df40f3ae0fc7fddcf100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226636683,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1226636683,
+    "wof:lastmodified":1536871460,
+    "wof:name":"Zerovnica",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91278,
+    44.90111,
+    14.91278,
+    44.90111
+],
+  "geometry": {"coordinates":[14.91278,44.90111],"type":"Point"}
+}

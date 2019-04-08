@@ -1,0 +1,74 @@
+{
+  "id": 1209510381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48833,45.73806,18.48833,45.73806",
+    "geom:latitude":45.73806,
+    "geom:longitude":18.48833,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054468.0",
+    "gn:asciiname":"Majske Mege",
+    "gn:country_code":"HR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195905,
+    "gn:latitude":45.73806,
+    "gn:longitude":18.48833,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Maj\u0161ke Me\u0111e",
+    "gn:population":82,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160tiljanovi\u0107evo",
+        "Maji\u0161ke Meate",
+        "Maji\u0161ke Medje",
+        "Maj\u0161ka Me\u0111a",
+        "Maji\u0161ke Me\u0111e",
+        "Maj\u0161ke Me\u0111e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195905,
+        "wk:page":"Maj%C5%A1ke_Me%C4%91e"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d3cb6104c86fcd574fdc45a54211494e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209510381
+        }
+    ],
+    "wof:id":1209510381,
+    "wof:lastmodified":1537625869,
+    "wof:name":"Majske Mege",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":82,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48833,
+    45.73806,
+    18.48833,
+    45.73806
+],
+  "geometry": {"coordinates":[18.48833,45.73806],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276333373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60722,45.47556,15.60722,45.47556",
+    "geom:latitude":45.47556,
+    "geom:longitude":15.60722,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gornje Mekusje",
+    "gn:country_code":"HR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215101,
+    "gn:latitude":45.47556,
+    "gn:longitude":15.60722,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Gornje Meku\u0161je",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215101
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7d79302e4567c5ee1303db9aecd70019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276333373,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1276333373,
+    "wof:lastmodified":1536778999,
+    "wof:name":"Gornje Mekusje",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60722,
+    45.47556,
+    15.60722,
+    45.47556
+],
+  "geometry": {"coordinates":[15.60722,45.47556],"type":"Point"}
+}

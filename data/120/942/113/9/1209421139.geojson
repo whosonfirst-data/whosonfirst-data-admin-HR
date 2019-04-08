@@ -1,0 +1,66 @@
+{
+  "id": 1209421139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60667,45.39222,13.60667,45.39222",
+    "geom:latitude":45.39222,
+    "geom:longitude":13.60667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Buroli",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202973,
+    "gn:latitude":45.39222,
+    "gn:longitude":13.60667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Buroli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burol\u00e9",
+        "Buroli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202973
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"319cc895e542eeaeff280448b5536e2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209421139
+        }
+    ],
+    "wof:id":1209421139,
+    "wof:lastmodified":1537625927,
+    "wof:name":"Buroli",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60667,
+    45.39222,
+    13.60667,
+    45.39222
+],
+  "geometry": {"coordinates":[13.60667,45.39222],"type":"Point"}
+}

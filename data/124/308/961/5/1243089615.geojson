@@ -1,0 +1,77 @@
+{
+  "id": 1243089615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5675,45.99056,16.5675,45.99056",
+    "geom:latitude":45.99056,
+    "geom:longitude":16.5675,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"3197228.0",
+    "gn:asciiname":"Bukovje Krizevacko",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203030,
+    "gn:latitude":45.99056,
+    "gn:longitude":16.5675,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Bukovje Kri\u017eeva\u010dko",
+    "gn:population":316,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kri\u017eeva\u010dko Bukovje",
+        "Bukovie",
+        "Bukovje",
+        "Bukovje Kri\u017eeva\u010dko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203030,
+        "wk:page":"Bukovje_Kri%C5%BEeva%C4%8Dko"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2f0dc9de09480a9f478826cc4fa3bbde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243089615,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1243089615,
+    "wof:lastmodified":1537625927,
+    "wof:name":"Bukovje Krizevacko",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":316,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5675,
+    45.99056,
+    16.5675,
+    45.99056
+],
+  "geometry": {"coordinates":[16.5675,45.99056],"type":"Point"}
+}

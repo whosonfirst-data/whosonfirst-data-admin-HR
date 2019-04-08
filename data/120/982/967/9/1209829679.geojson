@@ -1,0 +1,75 @@
+{
+  "id": 1209829679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3,45.71667,17.3,45.71667",
+    "geom:latitude":45.71667,
+    "geom:longitude":17.3,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"3199514.0",
+    "gn:asciiname":"Mala Dapcevica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195862,
+    "gn:latitude":45.71667,
+    "gn:longitude":17.3,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Mala Dap\u010devica",
+    "gn:population":3,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dap\u010devica",
+        "Dapchevicza",
+        "Mala Dap\u010devica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195862
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fb045bf84abae8beac40a1074d3dea60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209829679,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1209829679,
+    "wof:lastmodified":1537625868,
+    "wof:name":"Mala Dapcevica",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3,
+    45.71667,
+    17.3,
+    45.71667
+],
+  "geometry": {"coordinates":[17.3,45.71667],"type":"Point"}
+}

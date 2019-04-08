@@ -1,0 +1,70 @@
+{
+  "id": 1293119795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71444,46.33528,16.71444,46.33528",
+    "geom:latitude":46.33528,
+    "geom:longitude":16.71444,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"11054880.0",
+    "gn:asciiname":"Donji Mihaljevec",
+    "gn:country_code":"HR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201434,
+    "gn:latitude":46.33528,
+    "gn:longitude":16.71444,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Donji Mihaljevec",
+    "gn:population":723,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201434,
+        "wk:page":"Donji_Mihaljevec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a6f870c95cf26040322b73fc2eb4bfdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293119795,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":1293119795,
+    "wof:lastmodified":1537563304,
+    "wof:name":"Donji Mihaljevec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":723,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71444,
+    46.33528,
+    16.71444,
+    46.33528
+],
+  "geometry": {"coordinates":[16.71444,46.33528],"type":"Point"}
+}

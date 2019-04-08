@@ -1,0 +1,136 @@
+{
+  "id": 101791277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":927767.752627,
+    "geom:bbox":"17.1982773307,45.9912065599,17.2204755004,46.0080557462",
+    "geom:latitude":46.000873,
+    "geom:longitude":17.21139,
+    "iso:country":"HR",
+    "lbl:latitude":46.003193,
+    "lbl:longitude":17.213408,
+    "mps:latitude":46.003193,
+    "mps:longitude":17.213408,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Podravske Sesvete"
+    ],
+    "name:dut_x_preferred":[
+        "Podravske Sesvete"
+    ],
+    "name:eng_x_preferred":[
+        "Podravske Sesvete"
+    ],
+    "name:fra_x_preferred":[
+        "Podravske Sesvete"
+    ],
+    "name:fre_x_preferred":[
+        "Podravske Sesvete"
+    ],
+    "name:hbs_x_preferred":[
+        "Podravske Sesvete"
+    ],
+    "name:hrv_x_preferred":[
+        "Podravske Sesvete"
+    ],
+    "name:hun_x_preferred":[
+        "Podravske Sesvete"
+    ],
+    "name:ita_x_preferred":[
+        "Podravske Sesvete"
+    ],
+    "name:nld_x_preferred":[
+        "Podravske Sesvete"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Podravske Sesvete"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Podravske Sesvete"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0440\u0430\u0432\u0441\u043a\u0435-\u0421\u0435\u0441\u0432\u0435\u0442\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Podravske Sesvete"
+    ],
+    "name:spa_x_preferred":[
+        "Podravske Sesvete"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0440\u0430\u0432\u0441\u043a\u0435 \u0421\u0435\u0441\u0432\u0435\u0442\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Podravske Sesvete"
+    ],
+    "name:vep_x_preferred":[
+        "Podravske Sesvete"
+    ],
+    "name:war_x_preferred":[
+        "Podravske Sesvete"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Koprivnicko-kri\u017eevacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Podravske Sesvete",
+    "qs:la_lc":"*HR0606165",
+    "qs:level":"locality",
+    "qs:loc":"Podravske Sesvete",
+    "qs:loc_alt":"Podravske Sesvete",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115cb0e4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3192930,
+        "gp:id":849701,
+        "qs:id":884426,
+        "wd:id":"Q957371",
+        "wk:page":"Podravske Sesvete"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"48e240cf72cc6f5aa342100d72ce753d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791277,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":101791277,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527641956,
+    "wof:name":"Podravske Sesvete",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19827733069263,
+    45.99120655987281,
+    17.22047550039184,
+    46.00805574621126
+],
+  "geometry": {"coordinates":[[[17.21605600421179,46.00788126418365],[17.21569642460588,46.00519336297589],[17.21698114545291,46.00510610374761],[17.21674140947056,46.00331416948887],[17.21802608459649,46.00322689811901],[17.21790620333707,46.00233093162154],[17.22047550039184,46.00215634577643],[17.22011576157638,45.99946845215442],[17.21754659044723,45.99964302797434],[17.21742672977865,45.99874705870684],[17.21614215959261,45.9988343217243],[17.21578267142075,45.99614640475477],[17.21449816045077,45.99623364728154],[17.21461796371199,45.9971296219673],[17.21333342802205,45.99721685068346],[17.2136928057173,45.99990477559385],[17.20983898735989,46.00016638387928],[17.20864187121748,45.99120655987281],[17.20607305998107,45.99138085462585],[17.20738945436034,46.00123669392394],[17.20353551702698,46.00149807498474],[17.20341588208237,46.00060208805155],[17.19827733069263,46.00095037271115],[17.198516437796,46.00274235922006],[17.21007847228174,46.00195834037288],[17.21079705047924,46.00733419324467],[17.21336660231259,46.00715977649361],[17.21348642533962,46.00805574621126],[17.21605600421179,46.00788126418365]]],"type":"Polygon"}
+}

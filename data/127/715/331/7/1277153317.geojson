@@ -1,0 +1,69 @@
+{
+  "id": 1277153317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.65928,45.57656,17.65928,45.57656",
+    "geom:latitude":45.57656,
+    "geom:longitude":17.65928,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049470.0",
+    "gn:asciiname":"Gornji Meljani",
+    "gn:country_code":"HR",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199965,
+    "gn:latitude":45.57656,
+    "gn:longitude":17.65928,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Gornji Meljani",
+    "gn:population":15,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199965
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b7249af5d49a775d3ce704cb61d0776a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277153317,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1277153317,
+    "wof:lastmodified":1536666013,
+    "wof:name":"Gornji Meljani",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.65928,
+    45.57656,
+    17.65928,
+    45.57656
+],
+  "geometry": {"coordinates":[17.65928,45.57656],"type":"Point"}
+}

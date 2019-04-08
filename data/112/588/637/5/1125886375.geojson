@@ -1,0 +1,122 @@
+{
+  "id": 1125886375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33333,43.49944,16.33333,43.49944",
+    "geom:latitude":43.49944,
+    "geom:longitude":16.33333,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1000,
+    "gn:population":1106,
+    "iso:country":"HR",
+    "lbl:latitude":43.49944,
+    "lbl:longitude":16.33333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Slatine"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u0430\u0442\u0438\u043d\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Slatine"
+    ],
+    "name:dut_x_preferred":[
+        "Slatine"
+    ],
+    "name:eng_x_preferred":[
+        "Slatine"
+    ],
+    "name:fra_x_preferred":[
+        "Slatine"
+    ],
+    "name:fre_x_preferred":[
+        "Slatine"
+    ],
+    "name:ger_x_preferred":[
+        "Slatine"
+    ],
+    "name:hrv_x_preferred":[
+        "Slatine"
+    ],
+    "name:hun_x_preferred":[
+        "Slatine"
+    ],
+    "name:ita_x_preferred":[
+        "Bagno di Bua"
+    ],
+    "name:pol_x_preferred":[
+        "Slatine"
+    ],
+    "name:slv_x_preferred":[
+        "Slatine"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0430\u0442\u0438\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Slatine"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3190610,
+    "qs_pg:gn_pop":1000,
+    "qs_pg:name":"Slatine",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581609,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190610,
+        "qs_pg:id":581609,
+        "wd:id":"Q1012789"
+    },
+    "wof:country":"HR",
+    "wof:created":1497295101,
+    "wof:geomhash":"62e27ae7cb3ab7344c92e42de9ce7d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125886375,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1125886375,
+    "wof:lastmodified":1553816602,
+    "wof:name":"Slatine",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":1106,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33333,
+    43.49944,
+    16.33333,
+    43.49944
+],
+  "geometry": {"coordinates":[16.33333,43.49944],"type":"Point"}
+}

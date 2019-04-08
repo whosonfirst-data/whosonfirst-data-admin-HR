@@ -1,0 +1,65 @@
+{
+  "id": 1343362395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.59583,45.22472,17.59583,45.22472",
+    "geom:latitude":45.22472,
+    "geom:longitude":17.59583,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Seocina",
+    "gn:country_code":"HR",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3240696,
+    "gn:latitude":45.22472,
+    "gn:longitude":17.59583,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Seo\u010dina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3240696
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e51c8401b752f0aa6dd4737ab50e4953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343362395,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1343362395,
+    "wof:lastmodified":1536887226,
+    "wof:name":"Seocina",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.59583,
+    45.22472,
+    17.59583,
+    45.22472
+],
+  "geometry": {"coordinates":[17.59583,45.22472],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1126081343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.21139,45.58556,16.21139,45.58556",
+    "geom:latitude":45.58556,
+    "geom:longitude":16.21139,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1866,
+    "gn:population":1866,
+    "iso:country":"HR",
+    "lbl:latitude":45.58556,
+    "lbl:longitude":16.21139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Erdetski Lekenik"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3196697,
+    "qs_pg:gn_pop":1866,
+    "qs_pg:name":"Lekenik Turopoljski",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Sisa\u010dko-moslava\u010dka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":147191,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":848773,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Sisa\u010dko-moslava\u010dka",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101793523,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196697,
+        "gp:id":848773,
+        "qs_pg:id":147191
+    },
+    "wof:country":"HR",
+    "wof:created":1497311975,
+    "wof:geomhash":"aefb21c562d2821cba9acb83f0338ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793523,
+            "neighbourhood_id":1126081343,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1126081343,
+    "wof:lastmodified":1509411178,
+    "wof:name":"Lekenik Turopoljski",
+    "wof:parent_id":101793523,
+    "wof:placetype":"neighbourhood",
+    "wof:population":1866,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21139,
+    45.58556,
+    16.21139,
+    45.58556
+],
+  "geometry": {"coordinates":[16.21139,45.58556],"type":"Point"}
+}

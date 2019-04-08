@@ -1,0 +1,152 @@
+{
+  "id": 101844785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":778277.711404,
+    "geom:bbox":"19.1631958129,45.2191335751,19.1787331289,45.2320759421",
+    "geom:latitude":45.226278,
+    "geom:longitude":19.170666,
+    "gn:population":1173,
+    "iso:country":"HR",
+    "lbl:latitude":45.226269,
+    "lbl:longitude":19.170137,
+    "mps:latitude":45.226269,
+    "mps:longitude":19.170137,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Lovas"
+    ],
+    "name:chi_x_preferred":[
+        "\u6d1b\u6c83\u4ec0"
+    ],
+    "name:dut_x_preferred":[
+        "Lovas"
+    ],
+    "name:eng_x_preferred":[
+        "Lovas"
+    ],
+    "name:fin_x_preferred":[
+        "Lovas"
+    ],
+    "name:fra_x_preferred":[
+        "Lovas"
+    ],
+    "name:fre_x_preferred":[
+        "Lovas"
+    ],
+    "name:hbs_x_preferred":[
+        "Lovas"
+    ],
+    "name:hrv_x_preferred":[
+        "Lovas"
+    ],
+    "name:hun_x_preferred":[
+        "Hossz\u00falov\u00e1sz"
+    ],
+    "name:ita_x_preferred":[
+        "Lovas"
+    ],
+    "name:nld_x_preferred":[
+        "Lovas"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Lovas"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Lovas"
+    ],
+    "name:slv_x_preferred":[
+        "Lovas"
+    ],
+    "name:spa_x_preferred":[
+        "Lovas"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0432\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Lovas"
+    ],
+    "name:und_x_preferred":[
+        "Lovas"
+    ],
+    "name:unk_x_variant":[
+        "Lov\u00e1sz"
+    ],
+    "name:war_x_preferred":[
+        "Lovas"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u6c83\u4ec0"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vukovarsko-srijemska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Lovas",
+    "qs:la_lc":"*HR1602399",
+    "qs:level":"locality",
+    "qs:loc":"Lovas",
+    "qs:loc_alt":"Lovas",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":644,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115c48a2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3196189,
+        "gp:id":848868,
+        "qs:id":1275246,
+        "qs_pg:id":1275246,
+        "wd:id":"Q512717",
+        "wk:page":"Lovas, Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a2106b4b58e776eb400d1a1bdcd1e128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844785,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":101844785,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642624,
+    "wof:name":"Lovas",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":1173,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.16319581293391,
+    45.21913357513893,
+    19.1787331289313,
+    45.23207594212022
+],
+  "geometry": {"coordinates":[[[19.1787331289313,45.22259685285917],[19.17828638649536,45.21991639925022],[19.17702267262632,45.22002706344699],[19.17687379100266,45.21913357513893],[19.17561009255957,45.21924422211174],[19.17575895421942,45.22013771248606],[19.17449523127573,45.2202483463675],[19.17479293349822,45.22203532869122],[19.17226539414054,45.22225655924422],[19.17241421473386,45.2231500532593],[19.16735900172336,45.22359234072377],[19.16750774871923,45.22448584214754],[19.16624391416173,45.22459637818082],[19.16639264746061,45.22548988081752],[19.1651287883995,45.22560040375572],[19.16542623387323,45.22738741060328],[19.16416233033499,45.22749792251011],[19.16445976095252,45.22928493008078],[19.16319581293391,45.22939543095538],[19.16364194597787,45.23207594212022],[19.16996194035369,45.23152325516696],[19.16981312318694,45.23062976262105],[19.17107708847846,45.23051918181147],[19.17092825761438,45.22962569047974],[19.1721921983945,45.2295150965752],[19.172043353834,45.22862160645758],[19.17330727010415,45.22851099945848],[19.17315841184882,45.22761751055515],[19.1744223036095,45.227506890462],[19.17427343166133,45.22661340277278],[19.17553729891307,45.22650276958626],[19.17538841327325,45.22560928311162],[19.17665225601678,45.2254986368319],[19.17635446363687,45.22371166545929],[19.17761826190593,45.22360100815411],[19.17746935516743,45.22270752325591],[19.1787331289313,45.22259685285917]]],"type":"Polygon"}
+}

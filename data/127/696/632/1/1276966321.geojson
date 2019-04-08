@@ -1,0 +1,65 @@
+{
+  "id": 1276966321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.37833,44.68333,14.37833,44.68333",
+    "geom:latitude":44.68333,
+    "geom:longitude":14.37833,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tarzio",
+    "gn:country_code":"HR",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217701,
+    "gn:latitude":44.68333,
+    "gn:longitude":14.37833,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Tar\u017eio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217701
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7417bd3867d46325c1e18c7ad1297704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276966321,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1276966321,
+    "wof:lastmodified":1536926172,
+    "wof:name":"Tarzio",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.37833,
+    44.68333,
+    14.37833,
+    44.68333
+],
+  "geometry": {"coordinates":[14.37833,44.68333],"type":"Point"}
+}

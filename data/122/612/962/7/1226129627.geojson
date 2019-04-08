@@ -1,0 +1,71 @@
+{
+  "id": 1226129627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38194,44.79083,14.38194,44.79083",
+    "geom:latitude":44.79083,
+    "geom:longitude":14.38194,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Stivan",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189852,
+    "gn:latitude":44.79083,
+    "gn:longitude":14.38194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0160tivan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Giovanni",
+        "San Giovanni di Cherso",
+        "\u0160tivan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189852
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7c6b43733144ce39d761d5d30007c7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226129627,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1226129627,
+    "wof:lastmodified":1537625826,
+    "wof:name":"Stivan",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38194,
+    44.79083,
+    14.38194,
+    44.79083
+],
+  "geometry": {"coordinates":[14.38194,44.79083],"type":"Point"}
+}

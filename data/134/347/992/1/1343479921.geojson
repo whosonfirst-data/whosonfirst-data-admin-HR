@@ -1,0 +1,75 @@
+{
+  "id": 1343479921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6125,46.37972,16.6125,46.37972",
+    "geom:latitude":46.37972,
+    "geom:longitude":16.6125,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"11054836.0",
+    "gn:asciiname":"Sveti Juraj u Trnju",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189327,
+    "gn:latitude":46.37972,
+    "gn:longitude":16.6125,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Sveti Juraj u Trnju",
+    "gn:population":300,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sveti Juraj",
+        "Sveti Juraj u Trnju"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189327,
+        "wk:page":"Sveti_Juraj_u_Trnju"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"81da1087d5f321c9609a8bc18a4e0d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343479921,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":1343479921,
+    "wof:lastmodified":1537625822,
+    "wof:name":"Sveti Juraj u Trnju",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6125,
+    46.37972,
+    16.6125,
+    46.37972
+],
+  "geometry": {"coordinates":[16.6125,46.37972],"type":"Point"}
+}

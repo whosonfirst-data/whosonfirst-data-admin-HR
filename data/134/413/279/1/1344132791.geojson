@@ -1,0 +1,70 @@
+{
+  "id": 1344132791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.21611,45.25139,19.21611,45.25139",
+    "geom:latitude":45.25139,
+    "geom:longitude":19.21611,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"11054537.0",
+    "gn:asciiname":"Mohovo",
+    "gn:country_code":"HR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194930,
+    "gn:latitude":45.25139,
+    "gn:longitude":19.21611,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Mohovo",
+    "gn:population":239,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194930,
+        "wk:page":"Mohovo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7e6d7df6b7cca8d2f76624aea8453556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344132791,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":1344132791,
+    "wof:lastmodified":1537563289,
+    "wof:name":"Mohovo",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":239,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.21611,
+    45.25139,
+    19.21611,
+    45.25139
+],
+  "geometry": {"coordinates":[19.21611,45.25139],"type":"Point"}
+}

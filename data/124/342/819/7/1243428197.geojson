@@ -1,0 +1,70 @@
+{
+  "id": 1243428197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31667,45.38333,16.31667,45.38333",
+    "geom:latitude":45.38333,
+    "geom:longitude":16.31667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gornja Budicina",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200274,
+    "gn:latitude":45.38333,
+    "gn:longitude":16.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gornja Budi\u010dina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Budi\u010dina Gornja",
+        "Gornja Budi\u010dina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200274
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1133f1029951f70c6180c8da2b5a4aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243428197,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1243428197,
+    "wof:lastmodified":1537625904,
+    "wof:name":"Gornja Budicina",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31667,
+    45.38333,
+    16.31667,
+    45.38333
+],
+  "geometry": {"coordinates":[16.31667,45.38333],"type":"Point"}
+}

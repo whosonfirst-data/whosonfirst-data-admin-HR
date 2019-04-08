@@ -1,0 +1,160 @@
+{
+  "id": 101795729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":808503.706743,
+    "geom:bbox":"16.7204132644,43.6795491434,16.742428023,43.6927786001",
+    "geom:latitude":43.685599,
+    "geom:longitude":16.732704,
+    "gn:population":3153,
+    "iso:country":"HR",
+    "lbl:latitude":43.686656,
+    "lbl:longitude":16.733455,
+    "mps:latitude":43.686656,
+    "mps:longitude":16.733455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Otok"
+    ],
+    "name:cat_x_preferred":[
+        "Otok"
+    ],
+    "name:cze_x_preferred":[
+        "Otok Dalmatinski"
+    ],
+    "name:deu_x_preferred":[
+        "Otok"
+    ],
+    "name:dut_x_preferred":[
+        "Otok"
+    ],
+    "name:eng_x_preferred":[
+        "Isola"
+    ],
+    "name:fra_x_preferred":[
+        "Otok"
+    ],
+    "name:fre_x_preferred":[
+        "Otok"
+    ],
+    "name:hbs_x_preferred":[
+        "Otok"
+    ],
+    "name:hrv_x_preferred":[
+        "Otok"
+    ],
+    "name:hun_x_preferred":[
+        "Otok"
+    ],
+    "name:ita_x_preferred":[
+        "Otok"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30c8\u30af"
+    ],
+    "name:nld_x_preferred":[
+        "Otok"
+    ],
+    "name:pol_x_preferred":[
+        "Otok"
+    ],
+    "name:ron_x_preferred":[
+        "Otok"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Otok"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u043e\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Otok"
+    ],
+    "name:spa_x_preferred":[
+        "Otok"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0442\u043e\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0442\u043e\u043a"
+    ],
+    "name:und_x_preferred":[
+        "Otok"
+    ],
+    "name:unk_x_variant":[
+        "Isola"
+    ],
+    "name:war_x_preferred":[
+        "Otok"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Otok",
+    "qs:la_lc":"*HR1703140",
+    "qs:level":"locality",
+    "qs:loc":"Otok",
+    "qs:loc_alt":"Otok",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":112,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115c985c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3193782,
+        "gp:id":849496,
+        "qs:id":262112,
+        "qs_pg:id":262112,
+        "wd:id":"Q786883"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d65f1b6e632d7fcd01972df224662f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101795729,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101795729,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527714613,
+    "wof:name":"Otok",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":3153,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.72041326441968,
+    43.67954914338719,
+    16.74242802299983,
+    43.69277860013011
+],
+  "geometry": {"coordinates":[[[16.73893672737444,43.69253575373182],[16.73883203991858,43.6916376233749],[16.74129919160794,43.69147565477869],[16.74119447067415,43.69057752653117],[16.74242802299983,43.69049652151654],[16.7421138293808,43.68780213633971],[16.74088033372834,43.68788313698997],[16.7410897540496,43.68967939748393],[16.73615558947881,43.69000326391892],[16.73563244879,43.6855125776051],[16.73686590010516,43.68543164043524],[16.73655201069079,43.68273722340979],[16.73901879075487,43.68257531345444],[16.73891413178933,43.68167717575335],[16.7339806348798,43.68200093073636],[16.73387605576005,43.68110278642189],[16.73140932659675,43.68126457233865],[16.73130478954909,43.6803664243194],[16.73007143923439,43.68044729365835],[16.72996692537231,43.67954914338719],[16.7250335688833,43.67987246715779],[16.72513800720691,43.68077062323425],[16.72267127273864,43.68093219935298],[16.72277567758749,43.68183035753117],[16.72154228685537,43.68191112487335],[16.72164667711326,43.68280928370262],[16.72041326441968,43.68289003771622],[16.72051764008512,43.68378819719618],[16.72421792560556,43.68354588646787],[16.72411349327683,43.6826477313391],[16.73151386794581,43.68216271955816],[16.73182751780354,43.68485715641827],[16.72936062523138,43.68501889483878],[16.72956967109076,43.68681518788964],[16.73080315669489,43.68673432316461],[16.73101225754124,43.68853061011311],[16.73224577784811,43.68844972770319],[16.73245493368921,43.69024600854885],[16.73368848870024,43.69016510845279],[16.73389769954389,43.69196138319489],[16.73513128926066,43.69188046541149],[16.7352359200342,43.69277860013011],[16.73893672737444,43.69253575373182]]],"type":"Polygon"}
+}

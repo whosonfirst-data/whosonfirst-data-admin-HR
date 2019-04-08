@@ -1,0 +1,66 @@
+{
+  "id": 1276897175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6,45.09861,15.6,45.09861",
+    "geom:latitude":45.09861,
+    "geom:longitude":15.6,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"3190522.0",
+    "gn:asciiname":"Lumbardenik",
+    "gn:country_code":"HR",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3281614,
+    "gn:latitude":45.09861,
+    "gn:longitude":15.6,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Lumbardenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281614
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3b64fd898886263331e3339a0dee3983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276897175,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1276897175,
+    "wof:lastmodified":1537017283,
+    "wof:name":"Lumbardenik",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6,
+    45.09861,
+    15.6,
+    45.09861
+],
+  "geometry": {"coordinates":[15.6,45.09861],"type":"Point"}
+}

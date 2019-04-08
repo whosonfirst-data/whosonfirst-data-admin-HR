@@ -1,0 +1,67 @@
+{
+  "id": 1243327075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9278,45.52102,17.9278,45.52102",
+    "geom:latitude":45.52102,
+    "geom:longitude":17.9278,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"3194063.0",
+    "gn:asciiname":"Crkvari",
+    "gn:country_code":"HR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202501,
+    "gn:latitude":45.52102,
+    "gn:longitude":17.9278,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Crkvari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202501,
+        "wk:page":"Crkvari"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"25c1c5a093db6b431fc731749974959c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243327075,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1243327075,
+    "wof:lastmodified":1537563307,
+    "wof:name":"Crkvari",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9278,
+    45.52102,
+    17.9278,
+    45.52102
+],
+  "geometry": {"coordinates":[17.9278,45.52102],"type":"Point"}
+}

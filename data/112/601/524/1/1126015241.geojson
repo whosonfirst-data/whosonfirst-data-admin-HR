@@ -1,0 +1,79 @@
+{
+  "id": 1126015241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8,45.81667,15.8,45.81667",
+    "geom:latitude":45.81667,
+    "geom:longitude":15.8,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4,
+    "gn:population":4,
+    "iso:country":"HR",
+    "lbl:latitude":45.81667,
+    "lbl:longitude":15.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Strmec"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3189712,
+    "qs_pg:gn_pop":4,
+    "qs_pg:name":"Strmec Samoborski",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":581588,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189712,
+        "qs_pg:id":581588
+    },
+    "wof:country":"HR",
+    "wof:created":1497300508,
+    "wof:geomhash":"853b5ee6976192e9b78b82368386d23e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126015241,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1126015241,
+    "wof:lastmodified":1509406885,
+    "wof:name":"Strmec Samoborski",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8,
+    45.81667,
+    15.8,
+    45.81667
+],
+  "geometry": {"coordinates":[15.8,45.81667],"type":"Point"}
+}

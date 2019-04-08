@@ -1,0 +1,65 @@
+{
+  "id": 1276850089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91028,44.11361,15.91028,44.11361",
+    "geom:latitude":44.11361,
+    "geom:longitude":15.91028,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Vuckovici",
+    "gn:country_code":"HR",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215077,
+    "gn:latitude":44.11361,
+    "gn:longitude":15.91028,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Vu\u010dkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215077
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"63f868700c160528079a66c9c7a39df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276850089,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1276850089,
+    "wof:lastmodified":1537077936,
+    "wof:name":"Vuckovici",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91028,
+    44.11361,
+    15.91028,
+    44.11361
+],
+  "geometry": {"coordinates":[15.91028,44.11361],"type":"Point"}
+}

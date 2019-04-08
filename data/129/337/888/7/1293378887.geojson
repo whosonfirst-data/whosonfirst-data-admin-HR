@@ -1,0 +1,70 @@
+{
+  "id": 1293378887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.62389,45.44306,18.62389,45.44306",
+    "geom:latitude":45.44306,
+    "geom:longitude":18.62389,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"11054482.0",
+    "gn:asciiname":"Paulin Dvor",
+    "gn:country_code":"HR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3242202,
+    "gn:latitude":45.44306,
+    "gn:longitude":18.62389,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Paulin Dvor",
+    "gn:population":76,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3242202,
+        "wk:page":"Paulin_Dvor"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b17d5ac2976895a97d502757a4db5f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293378887,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1293378887,
+    "wof:lastmodified":1537563317,
+    "wof:name":"Paulin Dvor",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":76,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.62389,
+    45.44306,
+    18.62389,
+    45.44306
+],
+  "geometry": {"coordinates":[18.62389,45.44306],"type":"Point"}
+}

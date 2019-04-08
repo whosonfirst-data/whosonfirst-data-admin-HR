@@ -1,0 +1,66 @@
+{
+  "id": 1226521225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8543,45.27072,15.8543,45.27072",
+    "geom:latitude":45.27072,
+    "geom:longitude":15.8543,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"11049234.0",
+    "gn:asciiname":"Pecka",
+    "gn:country_code":"HR",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193537,
+    "gn:latitude":45.27072,
+    "gn:longitude":15.8543,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Pecka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193537
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7ffaf8f1ce37822ee0dff8544d5e86a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226521225,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1226521225,
+    "wof:lastmodified":1537032048,
+    "wof:name":"Pecka",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8543,
+    45.27072,
+    15.8543,
+    45.27072
+],
+  "geometry": {"coordinates":[15.8543,45.27072],"type":"Point"}
+}

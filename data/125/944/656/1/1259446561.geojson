@@ -1,0 +1,75 @@
+{
+  "id": 1259446561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75194,45.73556,17.75194,45.73556",
+    "geom:latitude":45.73556,
+    "geom:longitude":17.75194,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"3192931.0",
+    "gn:asciiname":"Medinci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195322,
+    "gn:latitude":45.73556,
+    "gn:longitude":17.75194,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Medinci",
+    "gn:population":200,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Medincze",
+        "Medinci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195322,
+        "wk:page":"Medinci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4874f8fa8af63b4fb0edef10116d4864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259446561,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1259446561,
+    "wof:lastmodified":1537625863,
+    "wof:name":"Medinci",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75194,
+    45.73556,
+    17.75194,
+    45.73556
+],
+  "geometry": {"coordinates":[17.75194,45.73556],"type":"Point"}
+}

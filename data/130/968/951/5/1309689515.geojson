@@ -1,0 +1,65 @@
+{
+  "id": 1309689515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46056,45.48417,14.46056,45.48417",
+    "geom:latitude":45.48417,
+    "geom:longitude":14.46056,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Trstenik",
+    "gn:country_code":"HR",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214503,
+    "gn:latitude":45.48417,
+    "gn:longitude":14.46056,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Trstenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214503
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e1e76ad7d6f77fd87597a4fb971e5115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309689515,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1309689515,
+    "wof:lastmodified":1537095577,
+    "wof:name":"Trstenik",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46056,
+    45.48417,
+    14.46056,
+    45.48417
+],
+  "geometry": {"coordinates":[14.46056,45.48417],"type":"Point"}
+}

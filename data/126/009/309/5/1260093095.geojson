@@ -1,0 +1,69 @@
+{
+  "id": 1260093095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.54944,45.24667,17.54944,45.24667",
+    "geom:latitude":45.24667,
+    "geom:longitude":17.54944,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"11049508.0",
+    "gn:asciiname":"Starci",
+    "gn:country_code":"HR",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3240681,
+    "gn:latitude":45.24667,
+    "gn:longitude":17.54944,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Starci",
+    "gn:population":4,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3240681
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a35f4b33f7e0aabbb7c7a12499528674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260093095,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1260093095,
+    "wof:lastmodified":1536973698,
+    "wof:name":"Starci",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.54944,
+    45.24667,
+    17.54944,
+    45.24667
+],
+  "geometry": {"coordinates":[17.54944,45.24667],"type":"Point"}
+}

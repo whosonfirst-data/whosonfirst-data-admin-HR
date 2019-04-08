@@ -1,0 +1,71 @@
+{
+  "id": 1277158399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53306,45.36556,17.53306,45.36556",
+    "geom:latitude":45.36556,
+    "geom:longitude":17.53306,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Pavlovci Pozeski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193569,
+    "gn:latitude":45.36556,
+    "gn:longitude":17.53306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pavlovci Po\u017ee\u0161ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Po\u017ee\u0161ki Pavlovac",
+        "Pavlovci",
+        "Pavlovci Po\u017ee\u0161ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193569
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f449f0c74a3aeafe81ee6b0c89e483c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277158399,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1277158399,
+    "wof:lastmodified":1537625851,
+    "wof:name":"Pavlovci Pozeski",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53306,
+    45.36556,
+    17.53306,
+    45.36556
+],
+  "geometry": {"coordinates":[17.53306,45.36556],"type":"Point"}
+}

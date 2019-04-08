@@ -1,0 +1,70 @@
+{
+  "id": 1310463635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23333,45.95,16.23333,45.95",
+    "geom:latitude":45.95,
+    "geom:longitude":16.23333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"3186602.0",
+    "gn:asciiname":"Gornje Psarjevo",
+    "gn:country_code":"HR",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200087,
+    "gn:latitude":45.95,
+    "gn:longitude":16.23333,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Gornje Psarjevo",
+    "gn:population":467,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200087,
+        "wk:page":"Gornje_Psarjevo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c281b9914e842342f43b932e9eb9fd9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310463635,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1310463635,
+    "wof:lastmodified":1537563301,
+    "wof:name":"Gornje Psarjevo",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":467,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23333,
+    45.95,
+    16.23333,
+    45.95
+],
+  "geometry": {"coordinates":[16.23333,45.95],"type":"Point"}
+}

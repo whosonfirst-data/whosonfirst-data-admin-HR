@@ -1,0 +1,65 @@
+{
+  "id": 1209788845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67639,43.57611,16.67639,43.57611",
+    "geom:latitude":43.57611,
+    "geom:longitude":16.67639,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Strikici",
+    "gn:country_code":"HR",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281708,
+    "gn:latitude":43.57611,
+    "gn:longitude":16.67639,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Striki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281708
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"454dd06af53cadeecd675a4f3b39d146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209788845,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1209788845,
+    "wof:lastmodified":1536395941,
+    "wof:name":"Strikici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67639,
+    43.57611,
+    16.67639,
+    43.57611
+],
+  "geometry": {"coordinates":[16.67639,43.57611],"type":"Point"}
+}

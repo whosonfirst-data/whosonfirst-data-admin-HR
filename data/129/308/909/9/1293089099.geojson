@@ -1,0 +1,75 @@
+{
+  "id": 1293089099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53278,45.49139,17.53278,45.49139",
+    "geom:latitude":45.49139,
+    "geom:longitude":17.53278,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049472.0",
+    "gn:asciiname":"Kamenski Vucjak",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187086,
+    "gn:latitude":45.49139,
+    "gn:longitude":17.53278,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Kamenski Vu\u010djak",
+    "gn:population":6,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vu\u010djak Kamenski",
+        "Kamenski Vu\u010djak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187086,
+        "wk:page":"Kamenski_Vu%C4%8Djak"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"39473b39e3bd93af066fb136a8d855fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293089099,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1293089099,
+    "wof:lastmodified":1537625807,
+    "wof:name":"Kamenski Vucjak",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53278,
+    45.49139,
+    17.53278,
+    45.49139
+],
+  "geometry": {"coordinates":[17.53278,45.49139],"type":"Point"}
+}

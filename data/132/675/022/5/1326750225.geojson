@@ -1,0 +1,65 @@
+{
+  "id": 1326750225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35556,44.80417,15.35556,44.80417",
+    "geom:latitude":44.80417,
+    "geom:longitude":15.35556,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Laskarini",
+    "gn:country_code":"HR",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271158,
+    "gn:latitude":44.80417,
+    "gn:longitude":15.35556,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"La\u0161karini",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271158
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e1a645712ce3ea1820c0c3ec3657bfb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326750225,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1326750225,
+    "wof:lastmodified":1536669770,
+    "wof:name":"Laskarini",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35556,
+    44.80417,
+    15.35556,
+    44.80417
+],
+  "geometry": {"coordinates":[15.35556,44.80417],"type":"Point"}
+}

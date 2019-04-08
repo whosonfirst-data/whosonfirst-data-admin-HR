@@ -1,0 +1,65 @@
+{
+  "id": 1293568621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32861,43.865,15.32861,43.865",
+    "geom:latitude":43.865,
+    "geom:longitude":15.32861,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pristanisce",
+    "gn:country_code":"HR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213305,
+    "gn:latitude":43.865,
+    "gn:longitude":15.32861,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Pristani\u0161\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213305
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5ba0ad5ad932769a1f293129ee935b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293568621,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1293568621,
+    "wof:lastmodified":1536670145,
+    "wof:name":"Pristanisce",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32861,
+    43.865,
+    15.32861,
+    43.865
+],
+  "geometry": {"coordinates":[15.32861,43.865],"type":"Point"}
+}

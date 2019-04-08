@@ -1,0 +1,65 @@
+{
+  "id": 1360207463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73889,45.00417,15.73889,45.00417",
+    "geom:latitude":45.00417,
+    "geom:longitude":15.73889,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Milica Selo",
+    "gn:country_code":"HR",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301713,
+    "gn:latitude":45.00417,
+    "gn:longitude":15.73889,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Mili\u0107a Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301713
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4b3bc3f0a6a15c0d08b77e75ca99767a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360207463,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1360207463,
+    "wof:lastmodified":1536769677,
+    "wof:name":"Milica Selo",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73889,
+    45.00417,
+    15.73889,
+    45.00417
+],
+  "geometry": {"coordinates":[15.73889,45.00417],"type":"Point"}
+}

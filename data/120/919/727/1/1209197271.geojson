@@ -1,0 +1,61 @@
+{
+  "id": 1209197271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56667,43.46667,16.56667,43.46667",
+    "geom:latitude":43.46667,
+    "geom:longitude":16.56667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sveti Martin",
+    "gn:country_code":"HR",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189314,
+    "gn:latitude":43.46667,
+    "gn:longitude":16.56667,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Sveti Martin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189314
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f78a30ffa05cd19d76b3dd08d6fa121e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209197271
+        }
+    ],
+    "wof:id":1209197271,
+    "wof:lastmodified":1536294729,
+    "wof:name":"Sveti Martin",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.566670000000002,
+    43.46667,
+    16.566670000000002,
+    43.46667
+],
+  "geometry": {"coordinates":[16.56667,43.46667],"type":"Point"}
+}

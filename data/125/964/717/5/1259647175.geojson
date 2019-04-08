@@ -1,0 +1,74 @@
+{
+  "id": 1259647175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63333,45.68333,17.63333,45.68333",
+    "geom:latitude":45.68333,
+    "geom:longitude":17.63333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"3192931.0",
+    "gn:asciiname":"Lukavac",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196078,
+    "gn:latitude":45.68333,
+    "gn:longitude":17.63333,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Lukavac",
+    "gn:population":99,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lukovac",
+        "Lukavac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196078
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3836c2efb47a4f09b3bd61ad440417cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259647175,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1259647175,
+    "wof:lastmodified":1537625870,
+    "wof:name":"Lukavac",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":99,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63332999999999,
+    45.68333,
+    17.63332999999999,
+    45.68333
+],
+  "geometry": {"coordinates":[17.63332999999999,45.68333],"type":"Point"}
+}

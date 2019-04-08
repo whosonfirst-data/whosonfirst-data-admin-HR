@@ -1,0 +1,70 @@
+{
+  "id": 1344078085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92611,46.02444,15.92611,46.02444",
+    "geom:latitude":46.02444,
+    "geom:longitude":15.92611,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hum-Zabocki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3222255,
+    "gn:latitude":46.02444,
+    "gn:longitude":15.92611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hum-Zabo\u010dki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hum",
+        "Hum-Zabo\u010dki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3222255
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e5751a1c0d6ea5b44d42d751db874569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344078085,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1344078085,
+    "wof:lastmodified":1537625959,
+    "wof:name":"Hum-Zabocki",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92611,
+    46.02444000000001,
+    15.92611,
+    46.02444000000001
+],
+  "geometry": {"coordinates":[15.92611,46.02444000000001],"type":"Point"}
+}

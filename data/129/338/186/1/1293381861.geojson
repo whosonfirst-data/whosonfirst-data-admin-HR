@@ -1,0 +1,72 @@
+{
+  "id": 1293381861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08333,46.11667,16.08333,46.11667",
+    "geom:latitude":46.11667,
+    "geom:longitude":16.08333,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"3186405.0",
+    "gn:asciiname":"Ratkovec Zlatarski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191881,
+    "gn:latitude":46.11667,
+    "gn:longitude":16.08333,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Ratkovec Zlatarski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zlatarski Ratkovec",
+        "Ratkovec",
+        "Ratkovec Zlatarski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191881
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"df59fe7e69cccbe75724bc591ad59c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293381861,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1293381861,
+    "wof:lastmodified":1537625839,
+    "wof:name":"Ratkovec Zlatarski",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08333,
+    46.11667,
+    16.08333,
+    46.11667
+],
+  "geometry": {"coordinates":[16.08333,46.11667],"type":"Point"}
+}

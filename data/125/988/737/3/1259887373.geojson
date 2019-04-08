@@ -1,0 +1,75 @@
+{
+  "id": 1259887373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49917,42.88778,17.49917,42.88778",
+    "geom:latitude":42.88778,
+    "geom:longitude":17.49917,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"11054961.0",
+    "gn:asciiname":"Dubrava",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201070,
+    "gn:latitude":42.88778,
+    "gn:longitude":17.49917,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Dubrava",
+    "gn:population":133,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donja Dubrava",
+        "Dubrava"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201070,
+        "wk:page":"Dubrava%2C_Dubrovnik-Neretva_County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e4d076c93f0715861274c2b449e3236c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259887373,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1259887373,
+    "wof:lastmodified":1537625910,
+    "wof:name":"Dubrava",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:population":133,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49917,
+    42.88778,
+    17.49917,
+    42.88778
+],
+  "geometry": {"coordinates":[17.49917,42.88778],"type":"Point"}
+}

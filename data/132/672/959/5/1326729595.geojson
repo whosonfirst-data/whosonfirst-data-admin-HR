@@ -1,0 +1,65 @@
+{
+  "id": 1326729595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63139,45.15417,15.63139,45.15417",
+    "geom:latitude":45.15417,
+    "geom:longitude":15.63139,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Klizavac",
+    "gn:country_code":"HR",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3281992,
+    "gn:latitude":45.15417,
+    "gn:longitude":15.63139,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Klizavac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281992
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f25b48b180bf764fce019ed1af8636cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326729595,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1326729595,
+    "wof:lastmodified":1536699841,
+    "wof:name":"Klizavac",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63139,
+    45.15417,
+    15.63139,
+    45.15417
+],
+  "geometry": {"coordinates":[15.63139,45.15417],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327110991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.945,44.0025,15.945,44.0025",
+    "geom:latitude":44.0025,
+    "geom:longitude":15.945,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Rudele u Polju",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191469,
+    "gn:latitude":44.0025,
+    "gn:longitude":15.945,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rudele u Polju",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rudele",
+        "Rudele u Polju"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191469
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a4f324b70f5ec40e3a0bec2b50d0ad30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327110991,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1327110991,
+    "wof:lastmodified":1537625838,
+    "wof:name":"Rudele u Polju",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.945,
+    44.0025,
+    15.945,
+    44.0025
+],
+  "geometry": {"coordinates":[15.945,44.0025],"type":"Point"}
+}

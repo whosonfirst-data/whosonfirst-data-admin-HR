@@ -1,0 +1,71 @@
+{
+  "id": 1226115529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48378,43.69071,16.48378,43.69071",
+    "geom:latitude":43.69071,
+    "geom:longitude":16.48378,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"11054614.0",
+    "gn:asciiname":"Gornji Muc",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3199957,
+    "gn:latitude":43.69071,
+    "gn:longitude":16.48378,
+    "gn:modification_date":"2017-01-01",
+    "gn:name":"Gornji Mu\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mu\u0107 Gornji",
+        "Gornji Mu\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199957
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8dd7105a1a4029adfb61959df26a6bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226115529,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1226115529,
+    "wof:lastmodified":1537625900,
+    "wof:name":"Gornji Muc",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48378,
+    43.69071,
+    16.48378,
+    43.69071
+],
+  "geometry": {"coordinates":[16.48378,43.69071],"type":"Point"}
+}

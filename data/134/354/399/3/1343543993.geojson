@@ -1,0 +1,72 @@
+{
+  "id": 1343543993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17611,43.63083,16.17611,43.63083",
+    "geom:latitude":43.63083,
+    "geom:longitude":16.17611,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"11054622.0",
+    "gn:asciiname":"Primorski Dolac",
+    "gn:country_code":"HR",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3192386,
+    "gn:latitude":43.63083,
+    "gn:longitude":16.17611,
+    "gn:modification_date":"2017-01-01",
+    "gn:name":"Primorski Dolac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suhi Dolac",
+        "Donji Dolac",
+        "Primorski Dolac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192386,
+        "wk:page":"Primorski_Dolac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"663c00abf65494217a43ba5f8eef8113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343543993,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1343543993,
+    "wof:lastmodified":1537625842,
+    "wof:name":"Primorski Dolac",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17611,
+    43.63083,
+    16.17611,
+    43.63083
+],
+  "geometry": {"coordinates":[16.17611,43.63083],"type":"Point"}
+}

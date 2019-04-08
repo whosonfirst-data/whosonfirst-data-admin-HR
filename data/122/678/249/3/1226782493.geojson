@@ -1,0 +1,75 @@
+{
+  "id": 1226782493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70306,45.2775,13.70306,45.2775",
+    "geom:latitude":45.2775,
+    "geom:longitude":13.70306,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kolumbera",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197879,
+    "gn:latitude":45.2775,
+    "gn:longitude":13.70306,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Kolumbera",
+    "gn:population":29,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cotombera",
+        "Kolombera",
+        "Colombera",
+        "Kolumbera"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197879
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bfa4fbdd32db244ca40b0f4bc84401c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226782493,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1226782493,
+    "wof:lastmodified":1537625885,
+    "wof:name":"Kolumbera",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70306,
+    45.2775,
+    13.70306,
+    45.2775
+],
+  "geometry": {"coordinates":[13.70306,45.2775],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344256215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46667,45.21667,15.46667,45.21667",
+    "geom:latitude":45.21667,
+    "geom:longitude":15.46667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"3190522.0",
+    "gn:asciiname":"Trzic Primisljanski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188686,
+    "gn:latitude":45.21667,
+    "gn:longitude":15.46667,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Tr\u017ei\u0107 Primi\u0161ljanski",
+    "gn:population":20,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Primi\u0161ljanski-Tr\u017ei\u010d",
+        "Tr\u017ei\u0107 Primi\u0161ljanski"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188686
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"01d45327a8030f5f64a98c59660ea88b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344256215,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1344256215,
+    "wof:lastmodified":1537625817,
+    "wof:name":"Trzic Primisljanski",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46667,
+    45.21667,
+    15.46667,
+    45.21667
+],
+  "geometry": {"coordinates":[15.46667,45.21667],"type":"Point"}
+}

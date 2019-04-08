@@ -1,0 +1,136 @@
+{
+  "id": 101791257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000184,
+    "geom:area_square_m":1576199.452802,
+    "geom:bbox":"16.9401377676,46.0674293445,16.9614060018,46.0891921022",
+    "geom:latitude":46.077853,
+    "geom:longitude":16.951323,
+    "iso:country":"HR",
+    "lbl:latitude":46.075414,
+    "lbl:longitude":16.951704,
+    "mps:latitude":46.075414,
+    "mps:longitude":16.951704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Novigrad Podravski"
+    ],
+    "name:dut_x_preferred":[
+        "Novigrad Podravski"
+    ],
+    "name:eng_x_preferred":[
+        "Novigrad Podravski"
+    ],
+    "name:fra_x_preferred":[
+        "Novigrad Podravski"
+    ],
+    "name:fre_x_preferred":[
+        "Novigrad Podravski"
+    ],
+    "name:hbs_x_preferred":[
+        "Novigrad Podravski"
+    ],
+    "name:hrv_x_preferred":[
+        "Novigrad Podravski"
+    ],
+    "name:hun_x_preferred":[
+        "Kamarcsa"
+    ],
+    "name:ita_x_preferred":[
+        "Novigrad Podravski"
+    ],
+    "name:nld_x_preferred":[
+        "Novigrad Podravski"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Novigrad Podravski"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Novigrad Podravski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u0433\u0440\u0430\u0434-\u041f\u043e\u0434\u0440\u0430\u0432\u0441\u043a\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Novigrad Podravski"
+    ],
+    "name:spa_x_preferred":[
+        "Novigrad Podravski"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u0433\u0440\u0430\u0434 \u041f\u043e\u0434\u0440\u0430\u0432\u0441\u043a\u0438"
+    ],
+    "name:und_x_preferred":[
+        "Podravski Novi Grad"
+    ],
+    "name:unk_x_variant":[
+        "Podravski Novi Grad"
+    ],
+    "name:war_x_preferred":[
+        "Novigrad Podravski"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Koprivnicko-kri\u017eevacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Novigrad Podravski",
+    "qs:la_lc":"*HR0602925",
+    "qs:level":"locality",
+    "qs:loc":"Novigrad Podravski",
+    "qs:loc_alt":"Novigrad Podravski",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":99,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115a92fa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3194374,
+        "gp:id":849702,
+        "qs:id":1275398,
+        "wd:id":"Q927041",
+        "wk:page":"Novigrad Podravski"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c8861c020d23898bb64de11a4b704d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791257,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":101791257,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527641954,
+    "wof:name":"Novigrad Podravski",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.94013776760801,
+    46.06742934446072,
+    16.96140600177205,
+    46.08919210218994
+],
+  "geometry": {"coordinates":[[[16.94654119348695,46.08910808696032],[16.94642552122002,46.0882118137543],[16.94899957957045,46.08804373996225],[16.94888387006608,46.08714746930917],[16.95274486713055,46.08689524706716],[16.95286063995621,46.08779151287877],[16.95414765284499,46.0877074061458],[16.95403185891269,46.08681114194854],[16.95789281253138,46.08655873347982],[16.95766111298576,46.08476621275298],[16.9589480480721,46.08468204879023],[16.95883218467355,46.08378578903103],[16.96140600177205,46.08361741778344],[16.96129010115527,46.08272116058129],[16.96000321551935,46.08280535234809],[16.95988734099058,46.08190909285588],[16.95860047283259,46.08199326748985],[16.95825294245634,46.07930448012058],[16.95696613397456,46.07938863439222],[16.95627133435192,46.07401103175368],[16.95884469455063,46.07384272707236],[16.9587288698653,46.07294646083426],[16.95486888741448,46.07319888974098],[16.95463737953708,46.07140634555361],[16.95077749106974,46.07165862515029],[16.95031478813314,46.06807350931956],[16.94645512019787,46.06832562994174],[16.94633952016557,46.06742934446072],[16.94376643231789,46.06759734408752],[16.94399755300066,46.06938992082115],[16.94013776760801,46.06964181357989],[16.94036878163087,46.07143439728185],[16.94165542255513,46.07135044532123],[16.94211759461024,46.07493559819483],[16.94597774883266,46.07468362989084],[16.94620899126375,46.07647619261417],[16.94749574430102,46.07639216892466],[16.94772704882536,46.0781847257274],[16.94901384044169,46.07810068329678],[16.94912952126663,46.07899695907429],[16.95041633036448,46.07891289951476],[16.95087918784162,46.08249798943217],[16.94959229434215,46.08258205544496],[16.94993942642253,46.08527087064766],[16.94865246599403,46.08535492598241],[16.94876816554068,46.08625119798285],[16.94748118038825,46.08633523941216],[16.94759686380701,46.08723151235176],[16.94373582332821,46.08748354836405],[16.94385144840095,46.08837982546834],[16.94513848661882,46.08829582737116],[16.94525413777677,46.08919210218994],[16.94654119348695,46.08910808696032]],[[16.94317317813926,46.07305905240906],[16.94282650818911,46.07037018955418],[16.94668633518063,46.07011819888021],[16.9470331949571,46.07280704723036],[16.94317317813926,46.07305905240906]]],"type":"Polygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226721009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38028,45.09028,16.38028,45.09028",
+    "geom:latitude":45.09028,
+    "geom:longitude":16.38028,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3200915.0",
+    "gn:asciiname":"Zamlaca",
+    "gn:country_code":"HR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186809,
+    "gn:latitude":45.09028,
+    "gn:longitude":16.38028,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Zamla\u010da",
+    "gn:population":144,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zamla\u010da"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186809,
+        "wk:page":"Zamla%C4%8Da%2C_Sisak-Moslavina_County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"be32af9f905f56d7b5d9fbe4f77105d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226721009,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1226721009,
+    "wof:lastmodified":1537625805,
+    "wof:name":"Zamlaca",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":144,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38028,
+    45.09028,
+    16.38028,
+    45.09028
+],
+  "geometry": {"coordinates":[16.38028,45.09028],"type":"Point"}
+}

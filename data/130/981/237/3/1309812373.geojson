@@ -1,0 +1,71 @@
+{
+  "id": 1309812373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41917,45.1875,17.41917,45.1875",
+    "geom:latitude":45.1875,
+    "geom:longitude":17.41917,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049510.0",
+    "gn:asciiname":"Vrbje",
+    "gn:country_code":"HR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3187282,
+    "gn:latitude":45.1875,
+    "gn:longitude":17.41917,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Vrbje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrblje",
+        "Vrbje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187282,
+        "wk:page":"Vrbje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d8f583e3f2adbf99e1452badf5fc171b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309812373,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1309812373,
+    "wof:lastmodified":1537625808,
+    "wof:name":"Vrbje",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41917,
+    45.1875,
+    17.41917,
+    45.1875
+],
+  "geometry": {"coordinates":[17.41917,45.1875],"type":"Point"}
+}

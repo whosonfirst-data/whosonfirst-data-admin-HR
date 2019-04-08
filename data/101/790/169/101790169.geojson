@@ -1,0 +1,121 @@
+{
+  "id": 101790169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":628421.359313,
+    "geom:bbox":"16.460654465,46.4904366131,16.4781747743,46.5002212474",
+    "geom:latitude":46.495618,
+    "geom:longitude":16.469199,
+    "gn:population":1354,
+    "iso:country":"HR",
+    "lbl:latitude":46.495735,
+    "lbl:longitude":16.470526,
+    "mps:latitude":46.495735,
+    "mps:longitude":16.470526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Peklenica"
+    ],
+    "name:deu_x_preferred":[
+        "Peklenica"
+    ],
+    "name:dut_x_preferred":[
+        "Peklenica"
+    ],
+    "name:eng_x_preferred":[
+        "Peklenica"
+    ],
+    "name:epo_x_preferred":[
+        "Peklenica"
+    ],
+    "name:ger_x_preferred":[
+        "Peklenica"
+    ],
+    "name:hbs_x_preferred":[
+        "Peklenica"
+    ],
+    "name:hrv_x_preferred":[
+        "Peklenica"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1nyav\u00e1r"
+    ],
+    "name:slv_x_preferred":[
+        "Peklenica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u043a\u043b\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Peklenica"
+    ],
+    "name:unk_x_variant":[
+        "Peklenicza"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Medimurska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Mursko Sredi\u0161\u0107e",
+    "qs:la_lc":"*HR2002763",
+    "qs:level":"locality",
+    "qs:loc":"Peklenica",
+    "qs:loc_alt":"Peklenica",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193522,
+        "gp:id":849565,
+        "qs:id":1275371,
+        "qs_pg:id":1275371,
+        "wd:id":"Q842783",
+        "wk:page":"Peklenica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2982d0ee45cee7aa0ed116528468d9df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101790169,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":101790169,
+    "wof:lastmodified":1527641596,
+    "wof:name":"Peklenica",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":1354,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46065446498733,
+    46.49043661305461,
+    16.47817477433233,
+    46.50022124735312
+],
+  "geometry": {"coordinates":[[[16.47320326227396,46.50014285539635],[16.4729850266753,46.49834959247244],[16.47817477433233,46.49803588011662],[16.47806557730581,46.49713925381076],[16.47547075354674,46.4972961382831],[16.47525246004028,46.4955028776958],[16.47395508614699,46.49558129337828],[16.47373685475191,46.49378802723828],[16.47243952056851,46.49386642420382],[16.47211227373214,46.49117651572578],[16.46951772448841,46.49133325351175],[16.469408694832,46.49043661305461],[16.46681417495324,46.49059328511993],[16.46692316145572,46.49148992862092],[16.46822044469531,46.49141159890098],[16.4685474973258,46.49410152108055],[16.4646554430571,46.49433647692535],[16.46454648552162,46.49343983226055],[16.46065446498733,46.4936746425098],[16.46098115754887,46.49636458831333],[16.46487337231804,46.4961297643772],[16.4652003016887,46.49881969086056],[16.47039013214123,46.49850635462184],[16.47049920440247,46.49940298944296],[16.47179667497932,46.49932461468103],[16.47190577356139,46.50022124735312],[16.47320326227396,46.50014285539635]]],"type":"Polygon"}
+}

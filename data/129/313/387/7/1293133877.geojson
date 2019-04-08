@@ -1,0 +1,76 @@
+{
+  "id": 1293133877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90194,45.36167,13.90194,45.36167",
+    "geom:latitude":45.36167,
+    "geom:longitude":13.90194,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"3202941.0",
+    "gn:asciiname":"Sovinjska Brda",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203512,
+    "gn:latitude":45.36167,
+    "gn:longitude":13.90194,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Sovinjska Brda",
+    "gn:population":23,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brda",
+        "Sovinjski Brijeg",
+        "Berda",
+        "Sovinjska Brda"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203512
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"88a6a10a38cc6ca902926b7a823e4cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293133877,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1293133877,
+    "wof:lastmodified":1537625932,
+    "wof:name":"Sovinjska Brda",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90194,
+    45.36167,
+    13.90194,
+    45.36167
+],
+  "geometry": {"coordinates":[13.90194,45.36167],"type":"Point"}
+}

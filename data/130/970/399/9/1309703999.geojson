@@ -1,0 +1,69 @@
+{
+  "id": 1309703999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92657,46.06412,15.92657,46.06412",
+    "geom:latitude":46.06412,
+    "geom:longitude":15.92657,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mirkovec",
+    "gn:country_code":"HR",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195045,
+    "gn:latitude":46.06412,
+    "gn:longitude":15.92657,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Mirkovec",
+    "gn:population":476,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195045,
+        "wk:page":"Mirkovec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9bbe1fce98f53d946f6175e6d7b37e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309703999,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1309703999,
+    "wof:lastmodified":1537563289,
+    "wof:name":"Mirkovec",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:population":476,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92657,
+    46.06412,
+    15.92657,
+    46.06412
+],
+  "geometry": {"coordinates":[15.92657,46.06412],"type":"Point"}
+}

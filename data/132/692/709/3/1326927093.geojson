@@ -1,0 +1,74 @@
+{
+  "id": 1326927093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9,46.13333,15.9,46.13333",
+    "geom:latitude":46.13333,
+    "geom:longitude":15.9,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11049212.0",
+    "gn:asciiname":"Bregi Radobojski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203470,
+    "gn:latitude":46.13333,
+    "gn:longitude":15.9,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Bregi Radobojski",
+    "gn:population":445,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Radobojski Bregi",
+        "Bregi Radobojski"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203470
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"df4633681ea2fad4a59472824c67882d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326927093,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1326927093,
+    "wof:lastmodified":1537625931,
+    "wof:name":"Bregi Radobojski",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:population":445,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9,
+    46.13333,
+    15.9,
+    46.13333
+],
+  "geometry": {"coordinates":[15.9,46.13333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343840671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.97333,43.55889,16.97333,43.55889",
+    "geom:latitude":43.55889,
+    "geom:longitude":16.97333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Marketici",
+    "gn:country_code":"HR",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284239,
+    "gn:latitude":43.55889,
+    "gn:longitude":16.97333,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Marketi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284239
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f0c8b60b917f8cc553ef3637cd6028ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343840671,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1343840671,
+    "wof:lastmodified":1536695395,
+    "wof:name":"Marketici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.97332999999999,
+    43.55889000000001,
+    16.97332999999999,
+    43.55889000000001
+],
+  "geometry": {"coordinates":[16.97332999999999,43.55889000000001],"type":"Point"}
+}

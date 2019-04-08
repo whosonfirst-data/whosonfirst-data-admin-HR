@@ -1,0 +1,77 @@
+{
+  "id": 1209908897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6,45.93333,16.6,45.93333",
+    "geom:latitude":45.93333,
+    "geom:longitude":16.6,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049393.0",
+    "gn:asciiname":"Predavec Krizevacki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192561,
+    "gn:latitude":45.93333,
+    "gn:longitude":16.6,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Predavec Kri\u017eeva\u010dki",
+    "gn:population":111,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kri\u017eeva\u010dki Predavac",
+        "Donji-Predavec",
+        "Predavec",
+        "Predavac Kri\u017eevacki",
+        "Predavec Kri\u017eeva\u010dki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192561
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0319fca306407eaf3118c2da117289a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209908897,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1209908897,
+    "wof:lastmodified":1537625843,
+    "wof:name":"Predavec Krizevacki",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6,
+    45.93333,
+    16.6,
+    45.93333
+],
+  "geometry": {"coordinates":[16.6,45.93333],"type":"Point"}
+}

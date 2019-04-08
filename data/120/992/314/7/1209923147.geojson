@@ -1,0 +1,74 @@
+{
+  "id": 1209923147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.21889,45.35944,17.21889,45.35944",
+    "geom:latitude":45.35944,
+    "geom:longitude":17.21889,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049499.0",
+    "gn:asciiname":"Donji Rogolji",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201402,
+    "gn:latitude":45.35944,
+    "gn:longitude":17.21889,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Donji Rogolji",
+    "gn:population":40,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donje Rogolje",
+        "Donji Rogolji"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201402
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"aa5450903c7e3be936758806329fb33c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209923147,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1209923147,
+    "wof:lastmodified":1537625913,
+    "wof:name":"Donji Rogolji",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.21889,
+    45.35944,
+    17.21889,
+    45.35944
+],
+  "geometry": {"coordinates":[17.21889,45.35944],"type":"Point"}
+}

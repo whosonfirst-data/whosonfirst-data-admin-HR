@@ -1,0 +1,65 @@
+{
+  "id": 1343763889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.62722,42.94722,17.62722,42.94722",
+    "geom:latitude":42.94722,
+    "geom:longitude":17.62722,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Brestica",
+    "gn:country_code":"HR",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203441,
+    "gn:latitude":42.94722,
+    "gn:longitude":17.62722,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Brestica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203441
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3be4264a1fb9352ea264f1ff24f7c152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343763889,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1343763889,
+    "wof:lastmodified":1536805815,
+    "wof:name":"Brestica",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.62722,
+    42.94722,
+    17.62722,
+    42.94722
+],
+  "geometry": {"coordinates":[17.62722,42.94722],"type":"Point"}
+}

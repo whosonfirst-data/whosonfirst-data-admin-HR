@@ -1,0 +1,66 @@
+{
+  "id": 1243465987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.43417,42.94861,17.43417,42.94861",
+    "geom:latitude":42.94861,
+    "geom:longitude":17.43417,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"11054973.0",
+    "gn:asciiname":"Brijeg",
+    "gn:country_code":"HR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3286899,
+    "gn:latitude":42.94861,
+    "gn:longitude":17.43417,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Brijeg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3286899
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3133a132cc893a54803c85f0bc251269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243465987,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1243465987,
+    "wof:lastmodified":1536777850,
+    "wof:name":"Brijeg",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.43417,
+    42.94861,
+    17.43417,
+    42.94861
+],
+  "geometry": {"coordinates":[17.43417,42.94861],"type":"Point"}
+}

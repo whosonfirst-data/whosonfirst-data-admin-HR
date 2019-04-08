@@ -1,0 +1,65 @@
+{
+  "id": 1343247625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13056,44.94139,15.13056,44.94139",
+    "geom:latitude":44.94139,
+    "geom:longitude":15.13056,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sevrlje",
+    "gn:country_code":"HR",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3274228,
+    "gn:latitude":44.94139,
+    "gn:longitude":15.13056,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"\u0160evrlje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3274228
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"164e8cd92b3ea3ddf58017cba7496f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343247625,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1343247625,
+    "wof:lastmodified":1537051336,
+    "wof:name":"Sevrlje",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13056,
+    44.94139000000001,
+    15.13056,
+    44.94139000000001
+],
+  "geometry": {"coordinates":[15.13056,44.94139000000001],"type":"Point"}
+}

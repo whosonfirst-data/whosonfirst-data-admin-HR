@@ -1,0 +1,68 @@
+{
+  "id": 1226265589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66389,45.03028,15.66389,45.03028",
+    "geom:latitude":45.03028,
+    "geom:longitude":15.66389,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rendulici",
+    "gn:country_code":"HR",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277152,
+    "gn:latitude":45.03028,
+    "gn:longitude":15.66389,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Renduli\u0107i",
+    "gn:population":10,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277152
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"da8c53fff7ae62eb2e96c1f0c68b99a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226265589,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1226265589,
+    "wof:lastmodified":1536905228,
+    "wof:name":"Rendulici",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66389,
+    45.03028,
+    15.66389,
+    45.03028
+],
+  "geometry": {"coordinates":[15.66389,45.03028],"type":"Point"}
+}

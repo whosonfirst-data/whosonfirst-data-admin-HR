@@ -1,0 +1,70 @@
+{
+  "id": 1243249071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35861,44.51722,15.35861,44.51722",
+    "geom:latitude":44.51722,
+    "geom:longitude":15.35861,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Vedro Polje",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217241,
+    "gn:latitude":44.51722,
+    "gn:longitude":15.35861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Vedro Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Divoselako Vedro",
+        "Vedro Polje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217241
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2f1119f4148377b5caf112a811629bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243249071,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1243249071,
+    "wof:lastmodified":1537625953,
+    "wof:name":"Vedro Polje",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35861,
+    44.51722,
+    15.35861,
+    44.51722
+],
+  "geometry": {"coordinates":[15.35861,44.51722],"type":"Point"}
+}

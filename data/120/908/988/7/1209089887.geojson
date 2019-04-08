@@ -1,0 +1,69 @@
+{
+  "id": 1209089887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.54722,45.28111,16.54722,45.28111",
+    "geom:latitude":45.28111,
+    "geom:longitude":16.54722,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"11049230.0",
+    "gn:asciiname":"Grabostani",
+    "gn:country_code":"HR",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3339283,
+    "gn:latitude":45.28111,
+    "gn:longitude":16.54722,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Grabo\u0161tani",
+    "gn:population":134,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grabo\u0161tani"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339283,
+        "wk:page":"Grabo%C5%A1tani"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"12de4d1859ea847b5159b7090c9c5662",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209089887
+        }
+    ],
+    "wof:id":1209089887,
+    "wof:lastmodified":1537625965,
+    "wof:name":"Grabostani",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":134,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.54722000000001,
+    45.28111,
+    16.54722000000001,
+    45.28111
+],
+  "geometry": {"coordinates":[16.54722000000001,45.28111],"type":"Point"}
+}

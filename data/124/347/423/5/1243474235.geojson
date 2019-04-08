@@ -1,0 +1,66 @@
+{
+  "id": 1243474235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24139,44.41778,15.24139,44.41778",
+    "geom:latitude":44.41778,
+    "geom:longitude":15.24139,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049287.0",
+    "gn:asciiname":"Sugarje",
+    "gn:country_code":"HR",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216867,
+    "gn:latitude":44.41778,
+    "gn:longitude":15.24139,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"\u0160ugarje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216867
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"91f3c771d16fc468d29e152080e3c5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243474235,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1243474235,
+    "wof:lastmodified":1536765915,
+    "wof:name":"Sugarje",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24139,
+    44.41778,
+    15.24139,
+    44.41778
+],
+  "geometry": {"coordinates":[15.24139,44.41778],"type":"Point"}
+}

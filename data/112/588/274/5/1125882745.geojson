@@ -1,0 +1,105 @@
+{
+  "id": 1125882745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.21824,45.73485,17.21824,45.73485",
+    "geom:latitude":45.73485,
+    "geom:longitude":17.21824,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":30,
+    "gn:population":30,
+    "iso:country":"HR",
+    "lbl:latitude":45.73485,
+    "lbl:longitude":17.21824,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Mala Barna"
+    ],
+    "name:dut_x_preferred":[
+        "Mala Barna"
+    ],
+    "name:eng_x_preferred":[
+        "Mala Barna"
+    ],
+    "name:hrv_x_preferred":[
+        "Mala Barna"
+    ],
+    "name:slv_x_preferred":[
+        "Mala Barna"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u0411\u0430\u0440\u043d\u0430"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3195876,
+    "qs_pg:gn_pop":30,
+    "qs_pg:name":"Mala Barna",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Bjelovarsko-Bilogorska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":407263,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":848960,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Bjelovarsko-Bilogorska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195876,
+        "gp:id":848960,
+        "qs_pg:id":407263,
+        "wd:id":"Q2048335"
+    },
+    "wof:country":"HR",
+    "wof:created":1497294899,
+    "wof:geomhash":"2562242a24e7424d78c39636402d2f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125882745,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1125882745,
+    "wof:lastmodified":1514447527,
+    "wof:name":"Mala Barna",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.21824,
+    45.73485,
+    17.21824,
+    45.73485
+],
+  "geometry": {"coordinates":[17.21824,45.73485],"type":"Point"}
+}

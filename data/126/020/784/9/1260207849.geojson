@@ -1,0 +1,76 @@
+{
+  "id": 1260207849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95222,45.38361,13.95222,45.38361",
+    "geom:latitude":45.38361,
+    "geom:longitude":13.95222,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"3202941.0",
+    "gn:asciiname":"Sveti Donat",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189359,
+    "gn:latitude":45.38361,
+    "gn:longitude":13.95222,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Sveti Donat",
+    "gn:population":83,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casa San Donato",
+        "Sveti Donat-Bregi",
+        "Donat",
+        "Sveti Donat"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189359
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8593165fbf0988c2eabc439908c2a9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260207849,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1260207849,
+    "wof:lastmodified":1537625822,
+    "wof:name":"Sveti Donat",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":83,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95222,
+    45.38361,
+    13.95222,
+    45.38361
+],
+  "geometry": {"coordinates":[13.95222,45.38361],"type":"Point"}
+}

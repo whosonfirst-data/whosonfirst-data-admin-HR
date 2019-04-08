@@ -1,0 +1,68 @@
+{
+  "id": 1327495173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16694,45.77911,16.16694,45.77911",
+    "geom:latitude":45.77911,
+    "geom:longitude":16.16694,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Svibje",
+    "gn:country_code":"HR",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8741102,
+    "gn:latitude":45.77911,
+    "gn:longitude":16.16694,
+    "gn:modification_date":"2017-01-03",
+    "gn:name":"Svibje",
+    "gn:population":498,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8741102
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3d0d41d7122dbf5a59df8d828bbafa70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327495173,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1327495173,
+    "wof:lastmodified":1537084856,
+    "wof:name":"Svibje",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":498,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16694,
+    45.77911,
+    16.16694,
+    45.77911
+],
+  "geometry": {"coordinates":[16.16694,45.77911],"type":"Point"}
+}

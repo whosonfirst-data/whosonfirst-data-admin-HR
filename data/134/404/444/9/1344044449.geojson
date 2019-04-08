@@ -1,0 +1,76 @@
+{
+  "id": 1344044449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63278,45.14028,14.63278,45.14028",
+    "geom:latitude":45.14028,
+    "geom:longitude":14.63278,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11049433.0",
+    "gn:asciiname":"Zupanje",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186292,
+    "gn:latitude":45.14028,
+    "gn:longitude":14.63278,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"\u017dupanje",
+    "gn:population":27,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zuppagne",
+        "\u017dupanjac",
+        "\u017dupanic",
+        "\u017dupanje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186292
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b943d4733631ae550ad3fff819bc58a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344044449,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1344044449,
+    "wof:lastmodified":1537625802,
+    "wof:name":"Zupanje",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63278,
+    45.14028,
+    14.63278,
+    45.14028
+],
+  "geometry": {"coordinates":[14.63278,45.14028],"type":"Point"}
+}

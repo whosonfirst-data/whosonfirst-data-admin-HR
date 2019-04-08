@@ -1,0 +1,65 @@
+{
+  "id": 1209206419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82855,45.99666,15.82855,45.99666",
+    "geom:latitude":45.99666,
+    "geom:longitude":15.82855,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11049219.0",
+    "gn:asciiname":"Domahovo",
+    "gn:country_code":"HR",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201741,
+    "gn:latitude":45.99666,
+    "gn:longitude":15.82855,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Domahovo",
+    "gn:population":385,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201741
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"09818750c880446bc633e1bdc039cbdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209206419
+        }
+    ],
+    "wof:id":1209206419,
+    "wof:lastmodified":1536294440,
+    "wof:name":"Domahovo",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":385,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82855,
+    45.99666,
+    15.82855,
+    45.99666
+],
+  "geometry": {"coordinates":[15.82855,45.99666],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226141999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25,45.45,15.25,45.45",
+    "geom:latitude":45.45,
+    "geom:longitude":15.25,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049267.0",
+    "gn:asciiname":"Pribanjci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192461,
+    "gn:latitude":45.45,
+    "gn:longitude":15.25,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Pribanjci",
+    "gn:population":126,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pribanci",
+        "Pribanjci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192461,
+        "wk:page":"Pribanjci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cd2085133e3810c7aeb4a6fffdf02c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226141999,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1226141999,
+    "wof:lastmodified":1537625843,
+    "wof:name":"Pribanjci",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":126,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25,
+    45.45,
+    15.25,
+    45.45
+],
+  "geometry": {"coordinates":[15.25,45.45],"type":"Point"}
+}

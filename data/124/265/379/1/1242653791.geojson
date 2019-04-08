@@ -1,0 +1,72 @@
+{
+  "id": 1242653791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.81667,45.63333,17.81667,45.63333",
+    "geom:latitude":45.63333,
+    "geom:longitude":17.81667,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049464.0",
+    "gn:asciiname":"Petrovac Mikleuski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193409,
+    "gn:latitude":45.63333,
+    "gn:longitude":17.81667,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Petrovac Mikleu\u0161ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mikleu\u0161ki Petrovac",
+        "Petrovac",
+        "Petrovac Mikleu\u0161ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193409
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"89d3bb01069d3dfacf7f50d51e03b75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242653791,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1242653791,
+    "wof:lastmodified":1537625849,
+    "wof:name":"Petrovac Mikleuski",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.81667000000001,
+    45.63333,
+    17.81667000000001,
+    45.63333
+],
+  "geometry": {"coordinates":[17.81667000000001,45.63333],"type":"Point"}
+}

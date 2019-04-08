@@ -1,0 +1,76 @@
+{
+  "id": 1276439621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78222,46.29528,16.78222,46.29528",
+    "geom:latitude":46.29528,
+    "geom:longitude":16.78222,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049376.0",
+    "gn:asciiname":"Selnica Podravska",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191093,
+    "gn:latitude":46.29528,
+    "gn:longitude":16.78222,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Selnica Podravska",
+    "gn:population":301,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podravska Selnica",
+        "Selnica",
+        "Selnica Podravska"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191093,
+        "wk:page":"Selnica_Podravska"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2299bc831d8f1d8665e954058779fd98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276439621,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1276439621,
+    "wof:lastmodified":1537625835,
+    "wof:name":"Selnica Podravska",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":301,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78222,
+    46.29528,
+    16.78222,
+    46.29528
+],
+  "geometry": {"coordinates":[16.78222,46.29528],"type":"Point"}
+}

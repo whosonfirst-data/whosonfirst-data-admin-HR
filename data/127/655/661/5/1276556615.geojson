@@ -1,0 +1,69 @@
+{
+  "id": 1276556615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.21667,45.31667,17.21667,45.31667",
+    "geom:latitude":45.31667,
+    "geom:longitude":17.21667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049499.0",
+    "gn:asciiname":"Caprginci",
+    "gn:country_code":"HR",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202869,
+    "gn:latitude":45.31667,
+    "gn:longitude":17.21667,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"\u010caprginci",
+    "gn:population":3,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202869
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2ddd9f5b5d0f0ad2c6ea615b4e8670b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276556615,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1276556615,
+    "wof:lastmodified":1536976259,
+    "wof:name":"Caprginci",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.21667,
+    45.31667,
+    17.21667,
+    45.31667
+],
+  "geometry": {"coordinates":[17.21667,45.31667],"type":"Point"}
+}

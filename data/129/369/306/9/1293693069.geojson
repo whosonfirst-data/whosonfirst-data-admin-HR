@@ -1,0 +1,72 @@
+{
+  "id": 1293693069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0,45.10694,14.0,45.10694",
+    "geom:latitude":45.10694,
+    "geom:longitude":14.0,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054746.0",
+    "gn:asciiname":"Juricev Kal",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198551,
+    "gn:latitude":45.10694,
+    "gn:longitude":14.0,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Juri\u0107ev Kal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Golzana",
+        "Jurivikal",
+        "Juri\u0107ev Kal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198551
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b5c9e5d1a0ec13953ad5f9e62cf4fa0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293693069,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1293693069,
+    "wof:lastmodified":1537625890,
+    "wof:name":"Juricev Kal",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0,
+    45.10694,
+    14.0,
+    45.10694
+],
+  "geometry": {"coordinates":[14.0,45.10694],"type":"Point"}
+}

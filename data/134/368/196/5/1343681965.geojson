@@ -1,0 +1,66 @@
+{
+  "id": 1343681965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61139,44.57472,15.61139,44.57472",
+    "geom:latitude":44.57472,
+    "geom:longitude":15.61139,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049294.0",
+    "gn:asciiname":"Zrnica Poljana",
+    "gn:country_code":"HR",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275397,
+    "gn:latitude":44.57472,
+    "gn:longitude":15.61139,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Zrni\u0107a Poljana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275397
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"80b3913c29c21b500cfaca993bcf03a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343681965,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1343681965,
+    "wof:lastmodified":1536924786,
+    "wof:name":"Zrnica Poljana",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61139,
+    44.57472,
+    15.61139,
+    44.57472
+],
+  "geometry": {"coordinates":[15.61139,44.57472],"type":"Point"}
+}

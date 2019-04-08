@@ -1,0 +1,66 @@
+{
+  "id": 1209904293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36667,45.43333,17.36667,45.43333",
+    "geom:latitude":45.43333,
+    "geom:longitude":17.36667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3193705.0",
+    "gn:asciiname":"Bjelajci",
+    "gn:country_code":"HR",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204016,
+    "gn:latitude":45.43333,
+    "gn:longitude":17.36667,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Bjelajci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204016
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d3e2147cf852fc65d63f90992b6182d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209904293,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1209904293,
+    "wof:lastmodified":1536385019,
+    "wof:name":"Bjelajci",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36667000000001,
+    45.43333,
+    17.36667000000001,
+    45.43333
+],
+  "geometry": {"coordinates":[17.36667000000001,45.43333],"type":"Point"}
+}

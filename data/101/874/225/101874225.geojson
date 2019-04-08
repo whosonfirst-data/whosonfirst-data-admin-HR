@@ -1,0 +1,144 @@
+{
+  "id": 101874225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.664752,43.434739,16.664752,43.434739",
+    "geom:latitude":43.434739,
+    "geom:longitude":16.664752,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1648,
+    "gn:population":1648,
+    "iso:country":"HR",
+    "lbl:latitude":43.434739,
+    "lbl:longitude":16.664752,
+    "mps:latitude":43.434739,
+    "mps:longitude":16.664752,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Du\u0107e"
+    ],
+    "name:cat_x_preferred":[
+        "Du\u0107e"
+    ],
+    "name:dut_x_preferred":[
+        "Du\u0107e"
+    ],
+    "name:eng_x_preferred":[
+        "Du\u0107e"
+    ],
+    "name:fin_x_preferred":[
+        "Du\u0107e"
+    ],
+    "name:hbs_x_preferred":[
+        "Du\u0107e"
+    ],
+    "name:hrv_x_preferred":[
+        "Du\u0107e"
+    ],
+    "name:hun_x_preferred":[
+        "Du\u0107e"
+    ],
+    "name:nld_x_preferred":[
+        "Du\u0107e"
+    ],
+    "name:slv_x_preferred":[
+        "Du\u0107e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u045b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Du\u0107e"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Du\u0107e",
+    "qs:loc_alt":"Duce",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3201045,
+    "qs_pg:gn_pop":1648,
+    "qs_pg:name":"Du\u0107e",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Splitsko-Dalmatinska",
+    "qs_pg:photos":50,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":50,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1044051,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":847613,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":199,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201045,
+        "gp:id":847613,
+        "qs:id":1044051,
+        "qs_pg:id":1044051,
+        "wd:id":"Q2324006",
+        "wk:page":"Du\u0107e"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b0b1056afea7643367e471eb7c4e0ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101874225,
+            "region_id":85684785
+        }
+    ],
+    "wof:id":101874225,
+    "wof:lastmodified":1544751608,
+    "wof:name":"Du\u0107e",
+    "wof:parent_id":85684785,
+    "wof:placetype":"locality",
+    "wof:population":1648,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125935121
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.664752,
+    43.434739,
+    16.664752,
+    43.434739
+],
+  "geometry": {"coordinates":[16.664752,43.434739],"type":"Point"}
+}

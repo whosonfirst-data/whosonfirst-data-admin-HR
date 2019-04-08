@@ -1,0 +1,71 @@
+{
+  "id": 1327355853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64667,44.67639,15.64667,44.67639",
+    "geom:latitude":44.67639,
+    "geom:longitude":15.64667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049294.0",
+    "gn:asciiname":"Brdo Dragasevo",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217492,
+    "gn:latitude":44.67639,
+    "gn:longitude":15.64667,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Brdo Draga\u0161evo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Draga\u0161evo Brdo",
+        "Brdo Draga\u0161evo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217492
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a809ae77bb80774b23f0cdae7b925314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327355853,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1327355853,
+    "wof:lastmodified":1537625954,
+    "wof:name":"Brdo Dragasevo",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64667,
+    44.67639000000001,
+    15.64667,
+    44.67639000000001
+],
+  "geometry": {"coordinates":[15.64667,44.67639000000001],"type":"Point"}
+}

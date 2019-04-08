@@ -1,0 +1,73 @@
+{
+  "id": 1277156051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23861,45.53806,16.23861,45.53806",
+    "geom:latitude":45.53806,
+    "geom:longitude":16.23861,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"11049228.0",
+    "gn:asciiname":"Duzica",
+    "gn:country_code":"HR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200923,
+    "gn:latitude":45.53806,
+    "gn:longitude":16.23861,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Du\u017eica",
+    "gn:population":353,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Du\u017eica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200923,
+        "wk:page":"Du%C5%BEica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c2cba7618978fa298a9322e28af31aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277156051,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1277156051,
+    "wof:lastmodified":1537625909,
+    "wof:name":"Duzica",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":353,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23861,
+    45.53806,
+    16.23861,
+    45.53806
+],
+  "geometry": {"coordinates":[16.23861,45.53806],"type":"Point"}
+}

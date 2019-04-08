@@ -1,0 +1,155 @@
+{
+  "id": 101844797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":927773.044965,
+    "geom:bbox":"15.8427290314,45.9322152126,15.8702894392,45.9520345771",
+    "geom:latitude":45.939672,
+    "geom:longitude":15.851391,
+    "gn:population":2635,
+    "iso:country":"HR",
+    "lbl:latitude":45.936585,
+    "lbl:longitude":15.847946,
+    "mps:latitude":45.936585,
+    "mps:longitude":15.847946,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:bos_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:dut_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:eng_x_preferred":[
+        "Jakovje"
+    ],
+    "name:fra_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:fre_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:hbs_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:hrv_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:hun_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:ita_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:nld_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:por_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Jakovlje"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Jakovlje"
+    ],
+    "name:slv_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:spa_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:sqi_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u043a\u043e\u0432\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:und_x_preferred":[
+        "Jakovlje"
+    ],
+    "name:unk_x_variant":[
+        "Jakovje"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06a9\u0648\u0648\u0644\u062c\u06d2"
+    ],
+    "name:war_x_preferred":[
+        "Jakovlje"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zagrebacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Jakovlje",
+    "qs:la_lc":"*HR0101635",
+    "qs:level":"locality",
+    "qs:loc":"Jakovlje",
+    "qs:loc_alt":"Jakovlje",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":110,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115bfba4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3198924,
+        "gp:id":848218,
+        "qs:id":967072,
+        "qs_pg:id":967072,
+        "wd:id":"Q947769",
+        "wk:page":"Jakovlje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"da7058203a93c008cf3c33cca2c85e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844797,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":101844797,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642617,
+    "wof:name":"Jakovlje",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":2635,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84272903136417,
+    45.93221521255538,
+    15.87028943916954,
+    45.95203457711455
+],
+  "geometry": {"coordinates":[[[15.84871643259874,45.95189313922913],[15.84823136004684,45.94740484242448],[15.85080130251293,45.94726335605077],[15.85051018249953,45.94457037854522],[15.8466554540239,45.94478257266053],[15.84597676261149,45.93849890802812],[15.84983104839802,45.9382867423401],[15.84973404591483,45.93738907750713],[15.8638659621526,45.93660995780806],[15.86396319646599,45.93750760773082],[15.86653263852492,45.93736574535421],[15.86672720398735,45.93916103787916],[15.8680119626157,45.93909008072097],[15.86791465671865,45.93819243613177],[15.86919939123601,45.93812146482861],[15.86900474983634,45.93632617647489],[15.87028943916954,45.93625519238572],[15.87009477234983,45.93445990422651],[15.86881012516085,45.93453088559892],[15.86871281909436,45.93363323921523],[15.86742818994105,45.93370420372804],[15.8676227641119,45.93549949858112],[15.86119936212094,45.93585410219356],[15.86110217830776,45.9349564482967],[15.85981750988509,45.93502732115633],[15.859914672625,45.93592497640918],[15.85349117969508,45.93627911495116],[15.85339412232355,45.93538145292126],[15.85210943572588,45.93545223276743],[15.8520124035976,45.93455456875341],[15.84558903058917,45.93490822867818],[15.84529827529911,45.93221521255538],[15.84272903136417,45.93235655989423],[15.84389177157959,45.94312862285727],[15.84517664798199,45.9430579407084],[15.84556444564197,45.94664860281739],[15.84427948490287,45.94671929037827],[15.84437642364759,45.94761695568639],[15.84566140547304,45.94754626677229],[15.84614626713727,45.95203457711455],[15.84871643259874,45.95189313922913]]],"type":"Polygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276518369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8675,45.46083,16.8675,45.46083",
+    "geom:latitude":45.46083,
+    "geom:longitude":16.8675,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tavani",
+    "gn:country_code":"HR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3287108,
+    "gn:latitude":45.46083,
+    "gn:longitude":16.8675,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Tavani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3287108
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3b107a035f82beaf25c69dbc048d484f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276518369,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1276518369,
+    "wof:lastmodified":1537027005,
+    "wof:name":"Tavani",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8675,
+    45.46083,
+    16.8675,
+    45.46083
+],
+  "geometry": {"coordinates":[16.8675,45.46083],"type":"Point"}
+}

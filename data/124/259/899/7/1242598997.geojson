@@ -1,0 +1,68 @@
+{
+  "id": 1242598997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66247,46.11287,15.66247,46.11287",
+    "geom:latitude":46.11287,
+    "geom:longitude":15.66247,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gornji Skrnik",
+    "gn:country_code":"HR",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199924,
+    "gn:latitude":46.11287,
+    "gn:longitude":15.66247,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Gornji \u0160krnik",
+    "gn:population":55,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199924
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e30860bac743a66c0d9594160d2aa5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242598997,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1242598997,
+    "wof:lastmodified":1537031524,
+    "wof:name":"Gornji Skrnik",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66247,
+    46.11287,
+    15.66247,
+    46.11287
+],
+  "geometry": {"coordinates":[15.66247,46.11287],"type":"Point"}
+}

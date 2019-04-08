@@ -1,0 +1,71 @@
+{
+  "id": 1209919107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41667,45.01667,15.41667,45.01667",
+    "geom:latitude":45.01667,
+    "geom:longitude":15.41667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"11049280.0",
+    "gn:asciiname":"Begovac Plascanski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204371,
+    "gn:latitude":45.01667,
+    "gn:longitude":15.41667,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Begovac Pla\u0161\u010danski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Begovac",
+        "Begovac Pla\u0161\u010danski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204371
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"49759cdf92e55277d5df5dd20935b677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209919107,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1209919107,
+    "wof:lastmodified":1537625936,
+    "wof:name":"Begovac Plascanski",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41667,
+    45.01667,
+    15.41667,
+    45.01667
+],
+  "geometry": {"coordinates":[15.41667,45.01667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259842061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03083,44.28694,16.03083,44.28694",
+    "geom:latitude":44.28694,
+    "geom:longitude":16.03083,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11054319.0",
+    "gn:asciiname":"Velika Popina",
+    "gn:country_code":"HR",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188180,
+    "gn:latitude":44.28694,
+    "gn:longitude":16.03083,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Velika Popina",
+    "gn:population":71,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188180,
+        "wk:page":"Velika_Popina"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0a3fa82fab888b867d4a35e52b91d7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259842061,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1259842061,
+    "wof:lastmodified":1537563276,
+    "wof:name":"Velika Popina",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03083,
+    44.28694,
+    16.03083,
+    44.28694
+],
+  "geometry": {"coordinates":[16.03083,44.28694],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226827277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3,45.46667,17.3,45.46667",
+    "geom:latitude":45.46667,
+    "geom:longitude":17.3,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Novo Selo",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194329,
+    "gn:latitude":45.46667,
+    "gn:longitude":17.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Novo Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160panovica",
+        "Novo Selo-\u0160panovica",
+        "Novo Selo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194329,
+        "wk:page":"%C5%A0panovica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"45b4ec3e4880c14a0b74104d02ce458a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226827277,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1226827277,
+    "wof:lastmodified":1537625855,
+    "wof:name":"Novo Selo",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3,
+    45.46667,
+    17.3,
+    45.46667
+],
+  "geometry": {"coordinates":[17.3,45.46667],"type":"Point"}
+}

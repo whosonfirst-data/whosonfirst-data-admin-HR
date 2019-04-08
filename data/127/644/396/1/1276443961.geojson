@@ -1,0 +1,65 @@
+{
+  "id": 1276443961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41917,43.07139,17.41917,43.07139",
+    "geom:latitude":43.07139,
+    "geom:longitude":17.41917,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bara",
+    "gn:country_code":"HR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288283,
+    "gn:latitude":43.07139,
+    "gn:longitude":17.41917,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Bara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288283
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1e4fc59354646cd1b55b3d992a3a24d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276443961,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1276443961,
+    "wof:lastmodified":1536628648,
+    "wof:name":"Bara",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41917,
+    43.07139,
+    17.41917,
+    43.07139
+],
+  "geometry": {"coordinates":[17.41917,43.07139],"type":"Point"}
+}

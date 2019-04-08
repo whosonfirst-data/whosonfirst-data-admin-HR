@@ -1,0 +1,73 @@
+{
+  "id": 1344260949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19778,45.56889,17.19778,45.56889",
+    "geom:latitude":45.56889,
+    "geom:longitude":17.19778,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049418.0",
+    "gn:asciiname":"Sibovac",
+    "gn:country_code":"HR",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190931,
+    "gn:latitude":45.56889,
+    "gn:longitude":17.19778,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"\u0160ibovac",
+    "gn:population":214,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ibovac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190931,
+        "wk:page":"%C5%A0ibovac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d69183e91cd9febba0a8af6ab5905564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344260949,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1344260949,
+    "wof:lastmodified":1537625833,
+    "wof:name":"Sibovac",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":214,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19778,
+    45.56889,
+    17.19778,
+    45.56889
+],
+  "geometry": {"coordinates":[17.19778,45.56889],"type":"Point"}
+}

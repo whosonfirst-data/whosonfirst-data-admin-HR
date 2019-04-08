@@ -1,0 +1,78 @@
+{
+  "id": 1344057333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91222,45.35083,13.91222,45.35083",
+    "geom:latitude":45.35083,
+    "geom:longitude":13.91222,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"3202941.0",
+    "gn:asciiname":"Senj",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191054,
+    "gn:latitude":45.35083,
+    "gn:longitude":13.91222,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Senj",
+    "gn:population":24,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Senj"
+    ],
+    "name:und_x_variant":[
+        "Senjak",
+        "Segnacco",
+        "Senj"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191054
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"13325d9a44ae08e0600f0da8197dda23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344057333,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1344057333,
+    "wof:lastmodified":1537625834,
+    "wof:name":"Senj",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":24,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91222,
+    45.35083,
+    13.91222,
+    45.35083
+],
+  "geometry": {"coordinates":[13.91222,45.35083],"type":"Point"}
+}

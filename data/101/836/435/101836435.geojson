@@ -1,0 +1,157 @@
+{
+  "id": 101836435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000197,
+    "geom:area_square_m":1749301.415626,
+    "geom:bbox":"15.4180140117,43.9548949366,15.4386797399,43.9729888198",
+    "geom:latitude":43.964197,
+    "geom:longitude":15.429721,
+    "gn:population":1635,
+    "iso:country":"HR",
+    "lbl:latitude":43.963381,
+    "lbl:longitude":15.430738,
+    "mps:latitude":43.963381,
+    "mps:longitude":15.430738,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:ces_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:cze_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:deu_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:dut_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:eng_x_preferred":[
+        "Sv. Filipi i Jakov"
+    ],
+    "name:fra_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:fre_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:ger_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:hbs_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:hrv_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:hun_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:ita_x_preferred":[
+        "Santi Filippo e Giacomo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30f4\u30a7\u30c6\u30a3\u30fb\u30d5\u30a3\u30ea\u30d7\u30fb\u30a4\u30fb\u30e4\u30b3\u30f4"
+    ],
+    "name:nld_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:pol_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:por_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Sveti Filip i Jakov"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Sveti Filip i Jakov"
+    ],
+    "name:slv_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:spa_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u0424\u0438\u043b\u0438\u043f \u0438 \u0408\u0430\u043a\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "name:unk_x_variant":[
+        "Santi Filippo e Giacomo"
+    ],
+    "name:war_x_preferred":[
+        "Sveti Filip i Jakov"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zadarska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Sveti Filip i Jakov",
+    "qs:la_lc":"*HR1304286",
+    "qs:level":"locality",
+    "qs:loc":"Sveti Filip i Jakov",
+    "qs:loc_alt":"Sveti Filip i Jakov",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":162,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200845,
+        "gp:id":850580,
+        "qs:id":314080,
+        "qs_pg:id":314080,
+        "wd:id":"Q1014083",
+        "wk:page":"Sveti Filip i Jakov"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c13dbd357a128c2b8b80350b6b529528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101836435,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":101836435,
+    "wof:lastmodified":1527715158,
+    "wof:name":"Sveti Filip i Jakov",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":1635,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41801401165787,
+    43.95489493658778,
+    15.43867973991223,
+    43.97298881978236
+],
+  "geometry": {"coordinates":[[[15.41802223419324,43.9632871032228],[15.42093551362461,43.97298881978236],[15.42142933950561,43.97296287265362],[15.42134441903937,43.97206348614117],[15.4225853058993,43.97199827127281],[15.42216066004289,43.96750133370188],[15.42836457505075,43.96717506545014],[15.4284495934649,43.96807444850759],[15.42969038814829,43.96800914898324],[15.43011562933702,43.97250604742942],[15.43259740369939,43.97237539185039],[15.43251230989733,43.97147601598562],[15.43499403563072,43.97134530318255],[15.43490890683796,43.97044592895838],[15.43863141869815,43.97024975157473],[15.43837588017414,43.96755163519708],[15.43713510318418,43.96761703900017],[15.43679451155549,43.96401953555358],[15.43555380904871,43.96408491972011],[15.43529846010637,43.96138678092859],[15.43653910486182,43.96132140031602],[15.43619861196487,43.95772387645911],[15.43867973991223,43.95759308002852],[15.43842429178522,43.95489493658778],[15.43346225671723,43.95515645566013],[15.43354732559078,43.95605584227417],[15.43230679126304,43.95612118599308],[15.43239184441444,43.95702057306187],[15.42991072969238,43.95715121818608],[15.4299957478737,43.95805060689253],[15.42875516747898,43.95811590829703],[15.42884016993457,43.95901529745765],[15.42759956776814,43.95908058515113],[15.42768455449584,43.95997997476547],[15.4252033040957,43.96011050783358],[15.42528825584481,43.96100989908427],[15.42280695685452,43.96114037493737],[15.42289187362144,43.96203976782357],[15.42165120109286,43.9621049845889],[15.42173610212552,43.96300437792843],[15.41801401165787,43.96319994239491],[15.41802223419324,43.9632871032228]]],"type":"Polygon"}
+}

@@ -1,0 +1,148 @@
+{
+  "id": 1125851243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62028,44.8825,15.62028,44.8825",
+    "geom:latitude":44.8825,
+    "geom:longitude":15.62028,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4668,
+    "gn:population":246,
+    "iso:country":"HR",
+    "lbl:latitude":44.8825,
+    "lbl:longitude":15.62028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
+    "name:dut_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
+    "name:eng_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
+    "name:fre_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
+    "name:ger_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
+    "name:hrv_x_preferred":[
+        "Plitvi\u010dka jezera"
+    ],
+    "name:hun_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
+    "name:ita_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ea\u30c8\u30f4\u30a3\u30c4\u30a7\u6e56\u7fa4\u5e02"
+    ],
+    "name:pol_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
+    "name:por_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0438\u0442\u0432\u0438\u0446\u043a\u0438\u0435 \u041e\u0437\u0451\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
+    "name:slo_x_preferred":[
+        "Plitvi\u010dka jezera"
+    ],
+    "name:spa_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u043b\u0438\u0442\u0432\u0438\u0447\u043a\u0430 \u0408\u0435\u0437\u0435\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
+    "name:unk_x_variant":[
+        "Plitvice Seen"
+    ],
+    "name:war_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3193171,
+    "qs_pg:gn_pop":4668,
+    "qs_pg:name":"Plitvi\u010dka Jezera",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Li\u010dko-senjska",
+    "qs_pg:photos":4971,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":4971,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":907985,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":849647,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Li\u010dko-senjska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193171,
+        "gp:id":849647,
+        "qs_pg:id":907985,
+        "wd:id":"Q1277540"
+    },
+    "wof:country":"HR",
+    "wof:created":1497293415,
+    "wof:geomhash":"b43829e7dd14c44a748edf916cc758f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125851243,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1125851243,
+    "wof:lastmodified":1514447570,
+    "wof:name":"Plitvi\u010dka Jezera",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62028,
+    44.8825,
+    15.62028,
+    44.8825
+],
+  "geometry": {"coordinates":[15.62028,44.8825],"type":"Point"}
+}

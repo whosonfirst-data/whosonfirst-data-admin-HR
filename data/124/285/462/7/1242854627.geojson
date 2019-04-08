@@ -1,0 +1,73 @@
+{
+  "id": 1242854627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60722,45.26889,14.60722,45.26889",
+    "geom:latitude":45.26889,
+    "geom:longitude":14.60722,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11054903.0",
+    "gn:asciiname":"Krizisce",
+    "gn:country_code":"HR",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197217,
+    "gn:latitude":45.26889,
+    "gn:longitude":14.60722,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Kri\u017ei\u0161\u0107e",
+    "gn:population":85,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kri\u017ei\u0161\u0107e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197217,
+        "wk:page":"Kri%C5%BEi%C5%A1%C4%87e"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"41c5c3547659ffedb4e050e7db8ccbc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242854627,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1242854627,
+    "wof:lastmodified":1537625880,
+    "wof:name":"Krizisce",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60722,
+    45.26889,
+    14.60722,
+    45.26889
+],
+  "geometry": {"coordinates":[14.60722,45.26889],"type":"Point"}
+}

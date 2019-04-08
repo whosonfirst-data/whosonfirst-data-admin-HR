@@ -1,0 +1,73 @@
+{
+  "id": 1292962691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11833,45.76444,16.11833,45.76444",
+    "geom:latitude":45.76444,
+    "geom:longitude":16.11833,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"3188243.0",
+    "gn:asciiname":"Scitarjevo",
+    "gn:country_code":"HR",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191200,
+    "gn:latitude":45.76444,
+    "gn:longitude":16.11833,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"\u0160\u0107itarjevo",
+    "gn:population":442,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u010ditarjevo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191200,
+        "wk:page":"%C5%A0%C4%87itarjevo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"432caceb5dec15bede156f9b2f5c25ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1292962691,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1292962691,
+    "wof:lastmodified":1537625836,
+    "wof:name":"Scitarjevo",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":442,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11833,
+    45.76444,
+    16.11833,
+    45.76444
+],
+  "geometry": {"coordinates":[16.11833,45.76444],"type":"Point"}
+}

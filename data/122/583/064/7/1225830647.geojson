@@ -1,0 +1,65 @@
+{
+  "id": 1225830647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34167,44.61222,15.34167,44.61222",
+    "geom:latitude":44.61222,
+    "geom:longitude":15.34167,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mali Zitnik",
+    "gn:country_code":"HR",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217598,
+    "gn:latitude":44.61222,
+    "gn:longitude":15.34167,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Mali \u017ditnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217598
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d1f090a07c6515283c369b5f437b9fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225830647,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1225830647,
+    "wof:lastmodified":1537033986,
+    "wof:name":"Mali Zitnik",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34167,
+    44.61222,
+    15.34167,
+    44.61222
+],
+  "geometry": {"coordinates":[15.34167,44.61222],"type":"Point"}
+}

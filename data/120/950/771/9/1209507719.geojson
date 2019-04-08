@@ -1,0 +1,72 @@
+{
+  "id": 1209507719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.69106,45.95014,16.69106,45.95014",
+    "geom:latitude":45.95014,
+    "geom:longitude":16.69106,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049393.0",
+    "gn:asciiname":"Markovac Krizevacki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195463,
+    "gn:latitude":45.95014,
+    "gn:longitude":16.69106,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Markovac Kri\u017eeva\u010dki",
+    "gn:population":147,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kri\u017eeva\u010dki Markovac",
+        "Markovac",
+        "Markovac Kri\u017eeva\u010dki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195463,
+        "wk:page":"Markovac_Kri%C5%BEeva%C4%8Dki"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5048d543cb47dc01d3932664ef38c2bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209507719
+        }
+    ],
+    "wof:id":1209507719,
+    "wof:lastmodified":1537625865,
+    "wof:name":"Markovac Krizevacki",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.69106,
+    45.95014000000001,
+    16.69106,
+    45.95014000000001
+],
+  "geometry": {"coordinates":[16.69106,45.95014000000001],"type":"Point"}
+}

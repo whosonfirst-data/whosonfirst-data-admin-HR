@@ -1,0 +1,70 @@
+{
+  "id": 1293280315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.82833,45.26139,17.82833,45.26139",
+    "geom:latitude":45.26139,
+    "geom:longitude":17.82833,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049478.0",
+    "gn:asciiname":"Kadanovci",
+    "gn:country_code":"HR",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198504,
+    "gn:latitude":45.26139,
+    "gn:longitude":17.82833,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Kadanovci",
+    "gn:population":213,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198504,
+        "wk:page":"Kadanovci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"63fe173ad50aec67a887411e295a693a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293280315,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1293280315,
+    "wof:lastmodified":1537563297,
+    "wof:name":"Kadanovci",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.82832999999999,
+    45.26139000000001,
+    17.82832999999999,
+    45.26139000000001
+],
+  "geometry": {"coordinates":[17.82832999999999,45.26139000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310382623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82611,45.17444,14.82611,45.17444",
+    "geom:latitude":45.17444,
+    "geom:longitude":14.82611,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Pluznice",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193127,
+    "gn:latitude":45.17444,
+    "gn:longitude":14.82611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Plu\u017enice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plu\u017enica",
+        "Plu\u017enice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193127
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f3bbab17836e29919ce63d98646b567a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310382623,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1310382623,
+    "wof:lastmodified":1537625848,
+    "wof:name":"Pluznice",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82611,
+    45.17444,
+    14.82611,
+    45.17444
+],
+  "geometry": {"coordinates":[14.82611,45.17444],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1326595403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28389,44.08389,15.28389,44.08389",
+    "geom:latitude":44.08389,
+    "geom:longitude":15.28389,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Lonici",
+    "gn:country_code":"HR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215621,
+    "gn:latitude":44.08389,
+    "gn:longitude":15.28389,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Lonici",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215621
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a9e9644e8471237ff9e6912a8156c8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326595403,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1326595403,
+    "wof:lastmodified":1536892759,
+    "wof:name":"Lonici",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28389,
+    44.08389,
+    15.28389,
+    44.08389
+],
+  "geometry": {"coordinates":[15.28389,44.08389],"type":"Point"}
+}

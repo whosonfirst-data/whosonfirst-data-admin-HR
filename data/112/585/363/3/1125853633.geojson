@@ -1,0 +1,108 @@
+{
+  "id": 1125853633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0,45.73333,16.0,45.73333",
+    "geom:latitude":45.73333,
+    "geom:longitude":16.0,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1494,
+    "gn:population":1494,
+    "iso:country":"HR",
+    "lbl:latitude":45.73333,
+    "lbl:longitude":16.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Odra"
+    ],
+    "name:dut_x_preferred":[
+        "Odra"
+    ],
+    "name:eng_x_preferred":[
+        "Odra"
+    ],
+    "name:hrv_x_preferred":[
+        "Odra"
+    ],
+    "name:slv_x_preferred":[
+        "Odra"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0434\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Odra"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3194216,
+    "qs_pg:gn_pop":1494,
+    "qs_pg:name":"Odra",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Grad Zagreb",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1275342,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":849410,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Grad Zagreb",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194216,
+        "gp:id":849410,
+        "qs_pg:id":1275342,
+        "wd:id":"Q2564347"
+    },
+    "wof:country":"HR",
+    "wof:created":1497293517,
+    "wof:geomhash":"776dddc9d07381b25d2d947c3a4a5433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125853633,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1125853633,
+    "wof:lastmodified":1553816574,
+    "wof:name":"Odra",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:population":1494,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0,
+    45.73333,
+    16.0,
+    45.73333
+],
+  "geometry": {"coordinates":[16.0,45.73333],"type":"Point"}
+}

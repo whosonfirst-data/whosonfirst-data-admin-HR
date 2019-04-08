@@ -1,0 +1,70 @@
+{
+  "id": 1243437077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.70694,43.55972,16.70694,43.55972",
+    "geom:latitude":43.55972,
+    "geom:longitude":16.70694,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Donja Rosca",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214827,
+    "gn:latitude":43.55972,
+    "gn:longitude":16.70694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Donja Ro\u0161ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doija Ro\u0161ca",
+        "Donja Ro\u0161ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214827
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"890670eb2ea24f6803c66e980321012c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243437077,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1243437077,
+    "wof:lastmodified":1537625947,
+    "wof:name":"Donja Rosca",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.70694,
+    43.55972,
+    16.70694,
+    43.55972
+],
+  "geometry": {"coordinates":[16.70694,43.55972],"type":"Point"}
+}

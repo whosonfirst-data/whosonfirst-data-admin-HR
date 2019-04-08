@@ -1,0 +1,70 @@
+{
+  "id": 1327343181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89333,45.57528,16.89333,45.57528",
+    "geom:latitude":45.57528,
+    "geom:longitude":16.89333,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"3200709.0",
+    "gn:asciiname":"Kapelica",
+    "gn:country_code":"HR",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198314,
+    "gn:latitude":45.57528,
+    "gn:longitude":16.89333,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Kapelica",
+    "gn:population":546,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198314,
+        "wk:page":"Kapelica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"28c6daa9134c2b96187366973d56e6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327343181,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1327343181,
+    "wof:lastmodified":1537563297,
+    "wof:name":"Kapelica",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":546,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89333,
+    45.57528,
+    16.89333,
+    45.57528
+],
+  "geometry": {"coordinates":[16.89333,45.57528],"type":"Point"}
+}

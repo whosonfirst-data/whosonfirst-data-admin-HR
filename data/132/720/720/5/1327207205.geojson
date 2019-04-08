@@ -1,0 +1,65 @@
+{
+  "id": 1327207205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.37278,43.19639,17.37278,43.19639",
+    "geom:latitude":43.19639,
+    "geom:longitude":17.37278,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Plana",
+    "gn:country_code":"HR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282470,
+    "gn:latitude":43.19639,
+    "gn:longitude":17.37278,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Plana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282470
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"492b07982f4e9a38a7153bb92535b81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327207205,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1327207205,
+    "wof:lastmodified":1537005368,
+    "wof:name":"Plana",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.37278,
+    43.19639,
+    17.37278,
+    43.19639
+],
+  "geometry": {"coordinates":[17.37278,43.19639],"type":"Point"}
+}

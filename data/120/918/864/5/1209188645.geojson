@@ -1,0 +1,62 @@
+{
+  "id": 1209188645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53333,45.61667,16.53333,45.61667",
+    "geom:latitude":45.61667,
+    "geom:longitude":16.53333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11048994.0",
+    "gn:asciiname":"Vezisce",
+    "gn:country_code":"HR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187820,
+    "gn:latitude":45.61667,
+    "gn:longitude":16.53333,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Vezi\u0161\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187820
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"daac6d67969c8da61c00361bccccbb45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209188645
+        }
+    ],
+    "wof:id":1209188645,
+    "wof:lastmodified":1536295012,
+    "wof:name":"Vezisce",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53333,
+    45.61667,
+    16.53333,
+    45.61667
+],
+  "geometry": {"coordinates":[16.53333,45.61667],"type":"Point"}
+}

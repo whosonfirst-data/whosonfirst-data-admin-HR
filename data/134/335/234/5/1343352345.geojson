@@ -1,0 +1,65 @@
+{
+  "id": 1343352345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41028,44.77222,15.41028,44.77222",
+    "geom:latitude":44.77222,
+    "geom:longitude":15.41028,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Grahovcevo Selo",
+    "gn:country_code":"HR",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271213,
+    "gn:latitude":44.77222,
+    "gn:longitude":15.41028,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Grahov\u010devo Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271213
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d33ddd270b67c845e997f44cb03df71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343352345,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1343352345,
+    "wof:lastmodified":1536902383,
+    "wof:name":"Grahovcevo Selo",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41028,
+    44.77222,
+    15.41028,
+    44.77222
+],
+  "geometry": {"coordinates":[15.41028,44.77222],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226616897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35083,45.36611,16.35083,45.36611",
+    "geom:latitude":45.36611,
+    "geom:longitude":16.35083,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3193419.0",
+    "gn:asciiname":"Mostanica",
+    "gn:country_code":"HR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194831,
+    "gn:latitude":45.36611,
+    "gn:longitude":16.35083,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Mo\u0161tanica",
+    "gn:population":93,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mo\u0161tanica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194831,
+        "wk:page":"Mo%C5%A1tanica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"560285af35deed4b6316fb18fac36dfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226616897,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1226616897,
+    "wof:lastmodified":1537625860,
+    "wof:name":"Mostanica",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35083,
+    45.36611,
+    16.35083,
+    45.36611
+],
+  "geometry": {"coordinates":[16.35083,45.36611],"type":"Point"}
+}

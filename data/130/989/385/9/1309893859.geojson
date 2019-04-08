@@ -1,0 +1,69 @@
+{
+  "id": 1309893859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56333,45.39611,17.56333,45.39611",
+    "geom:latitude":45.39611,
+    "geom:longitude":17.56333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"11049472.0",
+    "gn:asciiname":"Perenci",
+    "gn:country_code":"HR",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3235877,
+    "gn:latitude":45.39611,
+    "gn:longitude":17.56333,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Perenci",
+    "gn:population":42,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3235877
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7c0a9cb3061a34eef73e8fada60d0707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309893859,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1309893859,
+    "wof:lastmodified":1536804061,
+    "wof:name":"Perenci",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":42,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56333,
+    45.39611,
+    17.56333,
+    45.39611
+],
+  "geometry": {"coordinates":[17.56333,45.39611],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243255159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72727,46.00084,15.72727,46.00084",
+    "geom:latitude":46.00084,
+    "geom:longitude":15.72727,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lukavec Klanjecki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3222271,
+    "gn:latitude":46.00084,
+    "gn:longitude":15.72727,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Lukavec Klanje\u010dki",
+    "gn:population":63,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lukavec",
+        "Lukavec Klanje\u010dki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3222271
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4fda32b71166b0ab666804143afc4378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243255159,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1243255159,
+    "wof:lastmodified":1537625959,
+    "wof:name":"Lukavec Klanjecki",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72727,
+    46.00084,
+    15.72727,
+    46.00084
+],
+  "geometry": {"coordinates":[15.72727,46.00084],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243426855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6925,46.25139,16.6925,46.25139",
+    "geom:latitude":46.25139,
+    "geom:longitude":16.6925,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"11049309.0",
+    "gn:asciiname":"Sveti Petar Ludbreski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189286,
+    "gn:latitude":46.25139,
+    "gn:longitude":16.6925,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Sveti Petar Ludbre\u0161ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sveti Petar",
+        "Sveti Petar Ludbre\u0161ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189286
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"16da66abb1036ad4c28937323b13b0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243426855,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1243426855,
+    "wof:lastmodified":1537625821,
+    "wof:name":"Sveti Petar Ludbreski",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6925,
+    46.25139,
+    16.6925,
+    46.25139
+],
+  "geometry": {"coordinates":[16.6925,46.25139],"type":"Point"}
+}

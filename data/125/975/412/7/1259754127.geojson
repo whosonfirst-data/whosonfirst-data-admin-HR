@@ -1,0 +1,74 @@
+{
+  "id": 1259754127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56722,45.46667,16.56722,45.46667",
+    "geom:latitude":45.46667,
+    "geom:longitude":16.56722,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3190812.0",
+    "gn:asciiname":"Veliko Svinjicko",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187924,
+    "gn:latitude":45.46667,
+    "gn:longitude":16.56722,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Veliko Svinji\u010dko",
+    "gn:population":275,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veliko Svini\u0107ka",
+        "Veliko Svinji\u010dko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187924
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f6bf9635772f4843fde2270c5a57369d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259754127,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1259754127,
+    "wof:lastmodified":1537625811,
+    "wof:name":"Veliko Svinjicko",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":275,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56722,
+    45.46667,
+    16.56722,
+    45.46667
+],
+  "geometry": {"coordinates":[16.56722,45.46667],"type":"Point"}
+}

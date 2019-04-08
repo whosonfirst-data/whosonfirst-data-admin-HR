@@ -1,0 +1,73 @@
+{
+  "id": 1226337467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17667,45.63861,18.17667,45.63861",
+    "geom:latitude":45.63861,
+    "geom:longitude":18.17667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"11054472.0",
+    "gn:asciiname":"Benicanci",
+    "gn:country_code":"HR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204295,
+    "gn:latitude":45.63861,
+    "gn:longitude":18.17667,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Beni\u010danci",
+    "gn:population":520,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni\u010danci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204295,
+        "wk:page":"Beni%C4%8Danci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8949f33edac5049f2bd96efd5e1241f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226337467,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1226337467,
+    "wof:lastmodified":1537625936,
+    "wof:name":"Benicanci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":520,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17667,
+    45.63861,
+    18.17667,
+    45.63861
+],
+  "geometry": {"coordinates":[18.17667,45.63861],"type":"Point"}
+}

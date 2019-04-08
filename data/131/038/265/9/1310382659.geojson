@@ -1,0 +1,70 @@
+{
+  "id": 1310382659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58139,45.61611,14.58139,45.61611",
+    "geom:latitude":45.61611,
+    "geom:longitude":14.58139,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tajcari",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189217,
+    "gn:latitude":45.61611,
+    "gn:longitude":14.58139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taj\u010dari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taj\u010darji",
+        "Taj\u010dari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189217
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ce531aa1c3311b94baa76c77e177db67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310382659,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1310382659,
+    "wof:lastmodified":1537625821,
+    "wof:name":"Tajcari",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58139,
+    45.61611,
+    14.58139,
+    45.61611
+],
+  "geometry": {"coordinates":[14.58139,45.61611],"type":"Point"}
+}

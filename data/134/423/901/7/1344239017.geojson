@@ -1,0 +1,75 @@
+{
+  "id": 1344239017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31806,46.27028,16.31806,46.27028",
+    "geom:latitude":46.27028,
+    "geom:longitude":16.31806,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"3188382.0",
+    "gn:asciiname":"Poljana Biskupecka",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192825,
+    "gn:latitude":46.27028,
+    "gn:longitude":16.31806,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Poljana Bi\u0161kupe\u010dka",
+    "gn:population":452,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bi\u0161kupe\u010dka Poljana",
+        "Poljana",
+        "Poljana Bi\u0161kupe\u010dka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192825
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e6d3aaa890ac57b112b9096119c399f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344239017,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1344239017,
+    "wof:lastmodified":1537625846,
+    "wof:name":"Poljana Biskupecka",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":452,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31806,
+    46.27028,
+    16.31806,
+    46.27028
+],
+  "geometry": {"coordinates":[16.31806,46.27028],"type":"Point"}
+}

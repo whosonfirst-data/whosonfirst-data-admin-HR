@@ -1,0 +1,66 @@
+{
+  "id": 1209186671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.29427,46.32494,16.29427,46.32494",
+    "geom:latitude":46.32494,
+    "geom:longitude":16.29427,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"3188382.0",
+    "gn:asciiname":"Hrascica",
+    "gn:country_code":"HR",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8741097,
+    "gn:latitude":46.32494,
+    "gn:longitude":16.29427,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Hra\u0161\u0107ica",
+    "gn:population":1283,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8741097,
+        "wk:page":"Hra%C5%A1%C4%87ica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5cf4a8ca5706629fa9427ce0cdc5bd3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209186671
+        }
+    ],
+    "wof:id":1209186671,
+    "wof:lastmodified":1537563320,
+    "wof:name":"Hrascica",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":1283,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.29427,
+    46.32494000000001,
+    16.29427,
+    46.32494000000001
+],
+  "geometry": {"coordinates":[16.29427,46.32494000000001],"type":"Point"}
+}

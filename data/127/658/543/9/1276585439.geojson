@@ -1,0 +1,75 @@
+{
+  "id": 1276585439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94306,45.03194,13.94306,45.03194",
+    "geom:latitude":45.03194,
+    "geom:longitude":13.94306,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054746.0",
+    "gn:asciiname":"Sajini",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191351,
+    "gn:latitude":45.03194,
+    "gn:longitude":13.94306,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"\u0160ajini",
+    "gn:population":190,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saini",
+        "\u0160ajini"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191351,
+        "wk:page":"%C5%A0ajini"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5efe38effe9ca68d4edc64accd7988a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276585439,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1276585439,
+    "wof:lastmodified":1537625837,
+    "wof:name":"Sajini",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":190,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94306,
+    45.03194000000001,
+    13.94306,
+    45.03194000000001
+],
+  "geometry": {"coordinates":[13.94306,45.03194000000001],"type":"Point"}
+}

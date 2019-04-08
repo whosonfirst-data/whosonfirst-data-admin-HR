@@ -1,0 +1,66 @@
+{
+  "id": 1209412255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73028,44.91306,15.73028,44.91306",
+    "geom:latitude":44.91306,
+    "geom:longitude":15.73028,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049292.0",
+    "gn:asciiname":"Donji Vaganac",
+    "gn:country_code":"HR",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201377,
+    "gn:latitude":44.91306,
+    "gn:longitude":15.73028,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Donji Vaganac",
+    "gn:population":61,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201377,
+        "wk:page":"Donji_Vaganac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6531dacec846e87387308b8a9f0f1f4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209412255
+        }
+    ],
+    "wof:id":1209412255,
+    "wof:lastmodified":1537563304,
+    "wof:name":"Donji Vaganac",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73028,
+    44.91306,
+    15.73028,
+    44.91306
+],
+  "geometry": {"coordinates":[15.73028,44.91306],"type":"Point"}
+}

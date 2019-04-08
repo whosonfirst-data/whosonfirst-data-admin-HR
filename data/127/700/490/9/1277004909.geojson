@@ -1,0 +1,69 @@
+{
+  "id": 1277004909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,45.46667,15.55,45.46667",
+    "geom:latitude":45.46667,
+    "geom:longitude":15.55,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mala Svarca",
+    "gn:country_code":"HR",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195784,
+    "gn:latitude":45.46667,
+    "gn:longitude":15.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mala \u0160var\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mala \u0160var\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195784,
+        "wk:page":"Mala_%C5%A0var%C4%8Da"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0b930be7a724e020772b082b9d682bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277004909,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1277004909,
+    "wof:lastmodified":1537625867,
+    "wof:name":"Mala Svarca",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    45.46667,
+    15.55,
+    45.46667
+],
+  "geometry": {"coordinates":[15.55,45.46667],"type":"Point"}
+}

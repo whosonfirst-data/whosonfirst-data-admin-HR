@@ -1,0 +1,65 @@
+{
+  "id": 1225846725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89806,42.70722,17.89806,42.70722",
+    "geom:latitude":42.70722,
+    "geom:longitude":17.89806,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bjelonovo",
+    "gn:country_code":"HR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3207249,
+    "gn:latitude":42.70722,
+    "gn:longitude":17.89806,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Bjelonovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3207249
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"89524fe9f2fe61e34b5069039a9438a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225846725,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1225846725,
+    "wof:lastmodified":1537011528,
+    "wof:name":"Bjelonovo",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89806,
+    42.70722,
+    17.89806,
+    42.70722
+],
+  "geometry": {"coordinates":[17.89806,42.70722],"type":"Point"}
+}

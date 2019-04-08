@@ -1,0 +1,65 @@
+{
+  "id": 1276736459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34806,45.12167,16.34806,45.12167",
+    "geom:latitude":45.12167,
+    "geom:longitude":16.34806,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Korizme",
+    "gn:country_code":"HR",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281953,
+    "gn:latitude":45.12167,
+    "gn:longitude":16.34806,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Korizme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281953
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"eaed7fba2430fb316977b6fbd6cbf25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276736459,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1276736459,
+    "wof:lastmodified":1536735839,
+    "wof:name":"Korizme",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34806,
+    45.12167,
+    16.34806,
+    45.12167
+],
+  "geometry": {"coordinates":[16.34806,45.12167],"type":"Point"}
+}

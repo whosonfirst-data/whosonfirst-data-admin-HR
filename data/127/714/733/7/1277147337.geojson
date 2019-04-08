@@ -1,0 +1,65 @@
+{
+  "id": 1277147337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.09806,43.52833,17.09806,43.52833",
+    "geom:latitude":43.52833,
+    "geom:longitude":17.09806,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Cera Pusica",
+    "gn:country_code":"HR",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284852,
+    "gn:latitude":43.52833,
+    "gn:longitude":17.09806,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Cera Pu\u0161i\u0107a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284852
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4c0bb9792e0017e26dc317089f94a2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277147337,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1277147337,
+    "wof:lastmodified":1536674591,
+    "wof:name":"Cera Pusica",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.09806,
+    43.52833,
+    17.09806,
+    43.52833
+],
+  "geometry": {"coordinates":[17.09806,43.52833],"type":"Point"}
+}

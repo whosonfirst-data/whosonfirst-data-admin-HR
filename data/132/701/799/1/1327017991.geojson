@@ -1,0 +1,70 @@
+{
+  "id": 1327017991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.70306,45.28583,17.70306,45.28583",
+    "geom:latitude":45.28583,
+    "geom:longitude":17.70306,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"3190588.0",
+    "gn:asciiname":"Laze Prnjavor",
+    "gn:country_code":"HR",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196724,
+    "gn:latitude":45.28583,
+    "gn:longitude":17.70306,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Laze Prnjavor",
+    "gn:population":10,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196724,
+        "wk:page":"Laze_Prnjavor"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"135d6a2d60d61f7ac8ad43dad63707bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327017991,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1327017991,
+    "wof:lastmodified":1537563293,
+    "wof:name":"Laze Prnjavor",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.70306,
+    45.28583,
+    17.70306,
+    45.28583
+],
+  "geometry": {"coordinates":[17.70306,45.28583],"type":"Point"}
+}

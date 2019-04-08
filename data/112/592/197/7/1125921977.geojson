@@ -1,0 +1,93 @@
+{
+  "id": 1125921977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.32972,44.91806,14.32972,44.91806",
+    "geom:latitude":44.91806,
+    "geom:longitude":14.32972,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":8,
+    "iso:country":"HR",
+    "lbl:latitude":44.91806,
+    "lbl:longitude":14.32972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Pernata"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3193492,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pernat",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Primorsko-Goranska",
+    "qs_pg:photos":82,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":82,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":983665,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":849572,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Primorsko-Goranska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193492,
+        "gp:id":849572,
+        "qs_pg:id":983665
+    },
+    "wof:country":"HR",
+    "wof:created":1497296511,
+    "wof:geomhash":"a6f5641069016d2bc5523d1bb31b534f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125921977,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1125921977,
+    "wof:lastmodified":1509400861,
+    "wof:name":"Pernat",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":8,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.32972,
+    44.91806,
+    14.32972,
+    44.91806
+],
+  "geometry": {"coordinates":[14.32972,44.91806],"type":"Point"}
+}

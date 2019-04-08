@@ -1,0 +1,71 @@
+{
+  "id": 1293174013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11351,43.06782,16.11351,43.06782",
+    "geom:latitude":43.06782,
+    "geom:longitude":16.11351,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"11054608.0",
+    "gn:asciiname":"Okljucna",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194167,
+    "gn:latitude":43.06782,
+    "gn:longitude":16.11351,
+    "gn:modification_date":"2017-01-02",
+    "gn:name":"Oklju\u010dna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oklju\u010dina",
+        "Oklju\u010dna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194167
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c79d14ba52c4548c3daaeba1454f8e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293174013,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1293174013,
+    "wof:lastmodified":1537625853,
+    "wof:name":"Okljucna",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11351,
+    43.06782000000001,
+    16.11351,
+    43.06782000000001
+],
+  "geometry": {"coordinates":[16.11351,43.06782000000001],"type":"Point"}
+}

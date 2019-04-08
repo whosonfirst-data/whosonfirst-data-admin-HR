@@ -1,0 +1,70 @@
+{
+  "id": 1243090375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73833,45.43028,15.73833,45.43028",
+    "geom:latitude":45.43028,
+    "geom:longitude":15.73833,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Udbinja",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188553,
+    "gn:latitude":45.43028,
+    "gn:longitude":15.73833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Udbinja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Udbina",
+        "Udbinja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188553
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5398d6632b5ab9f12f8b82d67e22aecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243090375,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1243090375,
+    "wof:lastmodified":1537625817,
+    "wof:name":"Udbinja",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73833,
+    45.43028,
+    15.73833,
+    45.43028
+],
+  "geometry": {"coordinates":[15.73833,45.43028],"type":"Point"}
+}

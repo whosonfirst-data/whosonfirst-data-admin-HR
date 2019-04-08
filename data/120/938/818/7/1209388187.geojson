@@ -1,0 +1,61 @@
+{
+  "id": 1209388187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.20417,43.42556,17.20417,43.42556",
+    "geom:latitude":43.42556,
+    "geom:longitude":17.20417,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Buljubasici",
+    "gn:country_code":"HR",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281566,
+    "gn:latitude":43.42556,
+    "gn:longitude":17.20417,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Buljuba\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281566
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5346c306d8ef83e3c2c4b3fe446c5a5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209388187
+        }
+    ],
+    "wof:id":1209388187,
+    "wof:lastmodified":1536288552,
+    "wof:name":"Buljubasici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.20417,
+    43.42556,
+    17.20417,
+    43.42556
+],
+  "geometry": {"coordinates":[17.20417,43.42556],"type":"Point"}
+}

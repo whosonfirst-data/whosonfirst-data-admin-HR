@@ -1,0 +1,65 @@
+{
+  "id": 1292937625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12639,45.23278,15.12639,45.23278",
+    "geom:latitude":45.23278,
+    "geom:longitude":15.12639,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Znidovac",
+    "gn:country_code":"HR",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213672,
+    "gn:latitude":45.23278,
+    "gn:longitude":15.12639,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Znidovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213672
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ee67719e3e2219126be62afbb999adbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1292937625,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1292937625,
+    "wof:lastmodified":1537079722,
+    "wof:name":"Znidovac",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12639,
+    45.23278,
+    15.12639,
+    45.23278
+],
+  "geometry": {"coordinates":[15.12639,45.23278],"type":"Point"}
+}

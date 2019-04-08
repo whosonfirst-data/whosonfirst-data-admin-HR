@@ -1,0 +1,72 @@
+{
+  "id": 1276546103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66333,45.51194,15.66333,45.51194",
+    "geom:latitude":45.51194,
+    "geom:longitude":15.66333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Recica",
+    "gn:country_code":"HR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191759,
+    "gn:latitude":45.51194,
+    "gn:longitude":15.66333,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Re\u010dica",
+    "gn:population":538,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Re\u010dica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191759,
+        "wk:page":"Re%C4%8Dica%2C_Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c4fc0d6842c81be1b1d542a0ab0b6bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276546103,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1276546103,
+    "wof:lastmodified":1537625839,
+    "wof:name":"Recica",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":538,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66333,
+    45.51194,
+    15.66333,
+    45.51194
+],
+  "geometry": {"coordinates":[15.66333,45.51194],"type":"Point"}
+}

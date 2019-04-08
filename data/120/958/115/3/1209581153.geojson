@@ -1,0 +1,61 @@
+{
+  "id": 1209581153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01222,44.26167,16.01222,44.26167",
+    "geom:latitude":44.26167,
+    "geom:longitude":16.01222,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Grubisici",
+    "gn:country_code":"HR",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277061,
+    "gn:latitude":44.26167,
+    "gn:longitude":16.01222,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Grubi\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277061
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f739e91548452b9f4a0a9ec8a41146cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209581153
+        }
+    ],
+    "wof:id":1209581153,
+    "wof:lastmodified":1536282784,
+    "wof:name":"Grubisici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.012220000000006,
+    44.26167,
+    16.012220000000006,
+    44.26167
+],
+  "geometry": {"coordinates":[16.01222000000001,44.26167],"type":"Point"}
+}

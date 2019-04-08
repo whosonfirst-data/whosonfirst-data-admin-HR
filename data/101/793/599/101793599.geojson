@@ -1,0 +1,149 @@
+{
+  "id": 101793599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000093,
+    "geom:area_square_m":808170.729085,
+    "geom:bbox":"18.6527841521,45.4379650457,18.6708357285,45.4574167958",
+    "geom:latitude":45.447671,
+    "geom:longitude":18.66168,
+    "gn:population":1148,
+    "iso:country":"HR",
+    "lbl:latitude":45.450731,
+    "lbl:longitude":18.658534,
+    "mps:latitude":45.450731,
+    "mps:longitude":18.658534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ernestinovo"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u0440\u043d\u0435\u0441\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Ernestinovo"
+    ],
+    "name:eng_x_preferred":[
+        "Ernestinovo"
+    ],
+    "name:fra_x_preferred":[
+        "Ernestinovo"
+    ],
+    "name:fre_x_preferred":[
+        "Ernestinovo"
+    ],
+    "name:hbs_x_preferred":[
+        "Ernestinovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Ernestinovo"
+    ],
+    "name:hun_x_preferred":[
+        "Ernestinovo"
+    ],
+    "name:ita_x_preferred":[
+        "Ernestinovo"
+    ],
+    "name:nld_x_preferred":[
+        "Ernestinovo"
+    ],
+    "name:pol_x_preferred":[
+        "Ernestinovo"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Ernestinovo"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Ernestinovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440\u043d\u0435\u0441\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Ernestinovo"
+    ],
+    "name:spa_x_preferred":[
+        "Ernestinovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u0440\u043d\u0435\u0441\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Ernestinovo"
+    ],
+    "name:und_x_preferred":[
+        "Ernestinovo"
+    ],
+    "name:war_x_preferred":[
+        "Ernestinovo"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Ernestinovo",
+    "qs:la_lc":"*HR1401112",
+    "qs:level":"locality",
+    "qs:loc":"Ernestinovo",
+    "qs:loc_alt":"Ernestinovo",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":142,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115bb644-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3200881,
+        "gp:id":847656,
+        "qs:id":262070,
+        "qs_pg:id":262070,
+        "wd:id":"Q978701",
+        "wk:page":"Ernestinovo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"668244a0c7a7414948f2db9db2324148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793599,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101793599,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527689279,
+    "wof:name":"Ernestinovo",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":1148,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.65278415212316,
+    45.43796504574868,
+    18.67083572852931,
+    45.45741679582568
+],
+  "geometry": {"coordinates":[[[18.65560678480972,45.45731234699781],[18.65546536540728,45.45641815632678],[18.65673527909973,45.45631369421085],[18.65659384542977,45.45541950469891],[18.65786373451897,45.45531502929543],[18.65758084464443,45.45352665178268],[18.66139036429951,45.45321314585249],[18.66096589212901,45.45053059122574],[18.66223566255599,45.4504260646442],[18.66195267058583,45.44863769479019],[18.66322239615943,45.44853315689045],[18.66308088891651,45.44763897271895],[18.66435058989339,45.44753442153558],[18.66420906839562,45.44664023852317],[18.66801808451254,45.44632649937381],[18.66787650825671,45.44543232145509],[18.66914615135778,45.44532771320701],[18.6685798253431,45.44175100132315],[18.66984938310281,45.44164638569606],[18.6695662156057,45.43985802884112],[18.67083572852931,45.4397534019015],[18.67055254454425,45.43796504574868],[18.6692830721102,45.43806966875388],[18.66942464085804,45.43896384920146],[18.66815514383694,45.43906845892661],[18.6682966983393,45.43996264053339],[18.66702717673019,45.44006723697834],[18.66716871698583,45.44096141974404],[18.66589917078824,45.4410660029082],[18.66604069679494,45.4419601868326],[18.660962387604,45.44237837487435],[18.66110383861241,45.44327256585569],[18.65983423021515,45.44337707671059],[18.65997566696848,45.44427126885012],[18.66124529561694,45.44416675602969],[18.66166970260718,45.4468493217077],[18.66040001320187,45.44695384042529],[18.66054147393851,45.44784802933611],[18.65673231891986,45.44816149988503],[18.65687372488645,45.44905569388493],[18.65560397761311,45.4491601555319],[18.65574536931729,45.45005435068981],[18.65447559744848,45.45015879905088],[18.65518254458897,45.45462977256585],[18.65391266708235,45.45473421549895],[18.65405405423127,45.45562840974736],[18.65278415212316,45.4557328393924],[18.65292552500318,45.45662703479934],[18.65419544737489,45.45652260318968],[18.65433684651333,45.45741679582568],[18.65560678480972,45.45731234699781]]],"type":"Polygon"}
+}

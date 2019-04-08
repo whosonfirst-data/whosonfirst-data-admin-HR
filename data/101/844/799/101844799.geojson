@@ -1,0 +1,112 @@
+{
+  "id": 101844799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":778186.974377,
+    "geom:bbox":"15.7943893782,45.7731934079,15.8184425959,45.785566957",
+    "geom:latitude":45.780013,
+    "geom:longitude":15.808309,
+    "gn:population":1205,
+    "iso:country":"HR",
+    "lbl:latitude":45.776212,
+    "lbl:longitude":15.813137,
+    "mps:latitude":45.776212,
+    "mps:longitude":15.813137,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Kerestinec"
+    ],
+    "name:dut_x_preferred":[
+        "Kerestinec"
+    ],
+    "name:eng_x_preferred":[
+        "Kerestinec"
+    ],
+    "name:hbs_x_preferred":[
+        "Kerestinec"
+    ],
+    "name:hrv_x_preferred":[
+        "Kerestinec"
+    ],
+    "name:hun_x_preferred":[
+        "Kerestinec"
+    ],
+    "name:nld_x_preferred":[
+        "Kerestinec"
+    ],
+    "name:slv_x_preferred":[
+        "Kerestinec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0435\u0440\u0435\u0441\u0442\u0438\u043d\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Kerestinec"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zagrebacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Sveta Nedjelja",
+    "qs:la_lc":"*HR0104367",
+    "qs:level":"locality",
+    "qs:loc":"Kerestinec",
+    "qs:loc_alt":"Kerestinec",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":298,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198172,
+        "gp:id":848392,
+        "qs:id":407113,
+        "qs_pg:id":407113,
+        "wd:id":"Q368046",
+        "wk:page":"Kerestinec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2909584bebadf538e572edc10da88c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844799,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":101844799,
+    "wof:lastmodified":1527642618,
+    "wof:name":"Kerestinec",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":1205,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.79438937818946,
+    45.77319340789882,
+    15.81844259589741,
+    45.78556695704373
+],
+  "geometry": {"coordinates":[[[15.80374057040456,45.78549680704754],[15.80364476238185,45.78459900238636],[15.80620714251535,45.78445865870407],[15.80611129674332,45.78356085608073],[15.81123593755672,45.78327998861687],[15.81114001218776,45.78238219070863],[15.81242114401556,45.78231193654705],[15.81232520183158,45.78141413934031],[15.81360630975394,45.78134387106417],[15.81331844509452,45.7786504796382],[15.81844259589741,45.77836926807714],[15.81796248529668,45.77388029640628],[15.81411969043978,45.7740912081639],[15.81402374340371,45.77319340789882],[15.81146190709205,45.7733339358067],[15.8115578122962,45.77423173874871],[15.81027686875439,45.774301980865],[15.81094817377789,45.78058659298142],[15.80710488595849,45.78079725471764],[15.80720074033786,45.78169505791374],[15.79438937818946,45.78239627260376],[15.79467633816404,45.78508971845787],[15.80236356784917,45.78466915104605],[15.80245935494315,45.78556695704373],[15.80374057040456,45.78549680704754]]],"type":"Polygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1259503571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39056,44.65528,15.39056,44.65528",
+    "geom:latitude":44.65528,
+    "geom:longitude":15.39056,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sokolici",
+    "gn:country_code":"HR",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217548,
+    "gn:latitude":44.65528,
+    "gn:longitude":15.39056,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Sokoli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217548
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e5634116886b8aa741aa99e6b5421072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259503571,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1259503571,
+    "wof:lastmodified":1536829009,
+    "wof:name":"Sokolici",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39056,
+    44.65528,
+    15.39056,
+    44.65528
+],
+  "geometry": {"coordinates":[15.39056,44.65528],"type":"Point"}
+}

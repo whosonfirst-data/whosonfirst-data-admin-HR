@@ -1,0 +1,143 @@
+{
+  "id": 1125853577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78361,45.04056,13.78361,45.04056",
+    "geom:latitude":45.04056,
+    "geom:longitude":13.78361,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":890,
+    "gn:population":890,
+    "iso:country":"HR",
+    "lbl:latitude":45.04056,
+    "lbl:longitude":13.78361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Bale"
+    ],
+    "name:cat_x_preferred":[
+        "Bale"
+    ],
+    "name:chi_x_preferred":[
+        "\u8d1d\u5c14"
+    ],
+    "name:dut_x_preferred":[
+        "Bale"
+    ],
+    "name:eng_x_preferred":[
+        "Bale"
+    ],
+    "name:fre_x_preferred":[
+        "Bale"
+    ],
+    "name:ger_x_preferred":[
+        "Bale"
+    ],
+    "name:glg_x_preferred":[
+        "Bale"
+    ],
+    "name:hrv_x_preferred":[
+        "Bale"
+    ],
+    "name:hun_x_preferred":[
+        "Bale"
+    ],
+    "name:ita_x_preferred":[
+        "Valle"
+    ],
+    "name:lat_x_preferred":[
+        "Castrum Vallis"
+    ],
+    "name:pol_x_preferred":[
+        "Bale - Valle"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Bale"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Bale"
+    ],
+    "name:slv_x_preferred":[
+        "Bale"
+    ],
+    "name:spa_x_preferred":[
+        "Bale"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bale"
+    ],
+    "name:unk_x_variant":[
+        "Valle"
+    ],
+    "name:war_x_preferred":[
+        "Bale"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3204586,
+    "qs_pg:gn_pop":890,
+    "qs_pg:name":"Bale",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581790,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204586,
+        "qs_pg:id":581790,
+        "wd:id":"Q519226"
+    },
+    "wof:country":"HR",
+    "wof:created":1497293515,
+    "wof:geomhash":"4690eef0b74506a917c283d838718aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125853577,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1125853577,
+    "wof:lastmodified":1553816573,
+    "wof:name":"Bale",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":890,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78361,
+    45.04056,
+    13.78361,
+    45.04056
+],
+  "geometry": {"coordinates":[13.78361,45.04056],"type":"Point"}
+}

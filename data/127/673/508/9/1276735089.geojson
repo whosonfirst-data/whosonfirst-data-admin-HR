@@ -1,0 +1,72 @@
+{
+  "id": 1276735089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.27667,46.10722,16.27667,46.10722",
+    "geom:latitude":46.10722,
+    "geom:longitude":16.27667,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"11049299.0",
+    "gn:asciiname":"Breznicki Hum",
+    "gn:country_code":"HR",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3199202,
+    "gn:latitude":46.10722,
+    "gn:longitude":16.27667,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Brezni\u010dki Hum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brezni\u010dki Hum",
+        "Hum",
+        "Hum Brezni\u010dki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199202,
+        "wk:page":"Brezni%C4%8Dki_Hum"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"af02d1ac9c34c99cf86c7e0e7c0a6a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276735089,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1276735089,
+    "wof:lastmodified":1537625894,
+    "wof:name":"Breznicki Hum",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27667000000001,
+    46.10722,
+    16.27667000000001,
+    46.10722
+],
+  "geometry": {"coordinates":[16.27667000000001,46.10722],"type":"Point"}
+}

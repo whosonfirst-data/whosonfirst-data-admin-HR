@@ -1,0 +1,66 @@
+{
+  "id": 1326836075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63972,45.45028,13.63972,45.45028",
+    "geom:latitude":45.45028,
+    "geom:longitude":13.63972,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Plovanija",
+    "gn:country_code":"HR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343483,
+    "gn:latitude":45.45028,
+    "gn:longitude":13.63972,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Plovanija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343483,
+        "wk:page":"Plovanija"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0658bff6c8c15b8dde090be3a4809772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326836075,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1326836075,
+    "wof:lastmodified":1537563319,
+    "wof:name":"Plovanija",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63972,
+    45.45028,
+    13.63972,
+    45.45028
+],
+  "geometry": {"coordinates":[13.63972,45.45028],"type":"Point"}
+}

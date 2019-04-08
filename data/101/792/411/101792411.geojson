@@ -1,0 +1,143 @@
+{
+  "id": 101792411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:area_square_m":1197242.378087,
+    "geom:bbox":"18.4406727404,45.5839750657,18.4712082286,45.6011732166",
+    "geom:latitude":45.591292,
+    "geom:longitude":18.454681,
+    "gn:population":2285,
+    "iso:country":"HR",
+    "lbl:latitude":45.589123,
+    "lbl:longitude":18.454449,
+    "mps:latitude":45.589123,
+    "mps:longitude":18.454449,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Bizovac"
+    ],
+    "name:dut_x_preferred":[
+        "Bizovac"
+    ],
+    "name:eng_x_preferred":[
+        "Bizovac"
+    ],
+    "name:fra_x_preferred":[
+        "Bizovac"
+    ],
+    "name:fre_x_preferred":[
+        "Bizovac"
+    ],
+    "name:hbs_x_preferred":[
+        "Bizovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Bizovac"
+    ],
+    "name:ita_x_preferred":[
+        "Bizovac"
+    ],
+    "name:nld_x_preferred":[
+        "Bizovac"
+    ],
+    "name:pol_x_preferred":[
+        "Bizovac"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Bizovac"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Bizovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0437\u043e\u0432\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Bizovac"
+    ],
+    "name:spa_x_preferred":[
+        "Bizovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0437\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Bizovac"
+    ],
+    "name:und_x_preferred":[
+        "Bizovac"
+    ],
+    "name:war_x_preferred":[
+        "Bizovac"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Valpovo",
+    "qs:la_lc":"*HR1404715",
+    "qs:level":"locality",
+    "qs:loc":"Bizovac",
+    "qs:loc_alt":"Bizovac",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115b556e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3204022,
+        "gp:id":846836,
+        "qs:id":255666,
+        "qs_pg:id":255666,
+        "wd:id":"Q1293830",
+        "wk:page":"Bizovac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"50297eaddbc02775778e8cf95ab25fc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101792411,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101792411,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527714638,
+    "wof:name":"Bizovac",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":2285,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.44067274042396,
+    45.58397506571879,
+    18.47120822857107,
+    45.60117321655963
+],
+  "geometry": {"coordinates":[[[18.45960873130417,45.59550038209244],[18.46342894420752,45.59519390168373],[18.46356779573176,45.5960883073721],[18.47120822857107,45.59547492173823],[18.47106925450487,45.59458052763796],[18.46979588015472,45.59468279490693],[18.46965693242032,45.59378839808721],[18.4658368449571,45.59409510227295],[18.46569796439633,45.59320069887201],[18.46315125887253,45.59340508794605],[18.46301242506087,45.59251067989692],[18.46173908630556,45.59261284954744],[18.46160027881848,45.59171843878119],[18.46032695620846,45.59182059119786],[18.45991063041862,45.58913734838802],[18.46118389176917,45.58903520176],[18.46104510788859,45.58814078784548],[18.45849862175038,45.58834506193983],[18.45835988460561,45.58745064337984],[18.45708665554366,45.58755275554387],[18.45653184761272,45.58397506571879],[18.45525869594258,45.58407715486715],[18.45567473179796,45.58676042920121],[18.4467621218048,45.58747466525995],[18.4466235802131,45.58658022777854],[18.44407712263654,45.58678415364602],[18.44393862777173,45.58588971152653],[18.44139219396817,45.58609357233178],[18.44194604540331,45.58967135149697],[18.44067274042396,45.58977326664564],[18.44094966062312,45.59156215536331],[18.45113630773932,45.5907463748498],[18.45127494005561,45.59164080261917],[18.45509492354392,45.59133462662635],[18.45523362302231,45.5922290478253],[18.45650696272975,45.59212695662455],[18.45706190132245,45.59570462583986],[18.45578847991925,45.59580672475568],[18.45662094225298,45.60117321655963],[18.4578944862248,45.60107110606873],[18.4574781672178,45.59838786949291],[18.46002511975854,45.59818361416876],[18.45960873130417,45.59550038209244]]],"type":"Polygon"}
+}

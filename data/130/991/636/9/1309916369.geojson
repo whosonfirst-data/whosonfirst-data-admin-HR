@@ -1,0 +1,68 @@
+{
+  "id": 1309916369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67121,45.2202,13.67121,45.2202",
+    "geom:latitude":45.2202,
+    "geom:longitude":13.67121,
+    "gn:asciiname":"Filipini",
+    "gn:country_code":"HR",
+    "gn:dem":120,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11064893,
+    "gn:latitude":45.2202,
+    "gn:longitude":13.67121,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Filipini",
+    "gn:population":43,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11064893
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d4e4070c69532607cab11c445424c9ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309916369,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1309916369,
+    "wof:lastmodified":1536772197,
+    "wof:name":"Filipini",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67121,
+    45.2202,
+    13.67121,
+    45.2202
+],
+  "geometry": {"coordinates":[13.67121,45.2202],"type":"Point"}
+}

@@ -1,0 +1,152 @@
+{
+  "id": 101844787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":768329.372136,
+    "geom:bbox":"16.3676513854,45.0664706368,16.3846015454,45.0771648384",
+    "geom:latitude":45.070818,
+    "geom:longitude":16.376334,
+    "gn:population":1319,
+    "iso:country":"HR",
+    "lbl:latitude":45.069844,
+    "lbl:longitude":16.376334,
+    "mps:latitude":45.069844,
+    "mps:longitude":16.376334,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Dvor"
+    ],
+    "name:cat_x_preferred":[
+        "Dvor"
+    ],
+    "name:dut_x_preferred":[
+        "Dvor"
+    ],
+    "name:eng_x_preferred":[
+        "Dvor"
+    ],
+    "name:epo_x_preferred":[
+        "Dvor"
+    ],
+    "name:fre_x_preferred":[
+        "Dvor"
+    ],
+    "name:ger_x_preferred":[
+        "Dvor"
+    ],
+    "name:hrv_x_preferred":[
+        "Dvor"
+    ],
+    "name:hun_x_preferred":[
+        "Dvor"
+    ],
+    "name:ita_x_preferred":[
+        "Dvor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30f4\u30a9\u30eb"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Dvor"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Dvor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0432\u043e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Dvor"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u0432\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Dvor"
+    ],
+    "name:und_x_preferred":[
+        "Dvor"
+    ],
+    "name:unk_x_variant":[
+        "Stepinac Grad"
+    ],
+    "name:war_x_preferred":[
+        "Dvor"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Sisacko-moslavacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Dvor",
+    "qs:la_lc":"*HR0301023",
+    "qs:level":"locality",
+    "qs:loc":"Dvor",
+    "qs:loc_alt":"Dvor",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85669253,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115bb4dc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3200917,
+        "gp:id":847645,
+        "qs:id":218873,
+        "qs_pg:id":218873,
+        "wd:id":"Q1018619",
+        "wk:page":"Dvor, Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e259d730e9e5b8d7b37747a6fd167f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844787,
+            "region_id":85669253
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844787,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":101844787,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1514447436,
+    "wof:name":"Dvor",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":1319,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36765138540272,
+    45.06647063681112,
+    16.38460154538302,
+    45.07716483835588
+],
+  "geometry": {"coordinates":[[[16.38460154538302,45.07521565354318],[16.38439510893215,45.07342046962452],[16.38313090560985,45.07349747333387],[16.38302771410122,45.07259987888182],[16.38176352780988,45.07267686594349],[16.38145403995998,45.0699840740541],[16.38271816572069,45.06990709130361],[16.38251182191851,45.06811189606634],[16.38124773650725,45.06818887594289],[16.38114459131458,45.06729127583168],[16.3798805229315,45.06736823906266],[16.37977740226694,45.06647063681112],[16.3721930469905,45.06693208819877],[16.37229604661354,45.06782969906334],[16.37103195623007,45.06790655583211],[16.37123792817431,45.06970177832068],[16.36997379429869,45.06977862274891],[16.37007676661733,45.07067623437285],[16.36881260942454,45.07075306502566],[16.36891556591377,45.07165067738077],[16.36765138540272,45.07172749425717],[16.36785727106678,45.07352271972661],[16.36912149193699,45.07344589998206],[16.36922446147105,45.07434351022812],[16.37175293414992,45.07418982223692],[16.37164992425494,45.07329221485986],[16.37797095005936,45.07290773586629],[16.37807406085307,45.07380533606562],[16.3818666991404,45.073574461833],[16.38227942803519,45.07716483835588],[16.38354371522729,45.07708784410738],[16.38333730170154,45.07529266012762],[16.38460154538302,45.07521565354318]]],"type":"Polygon"}
+}

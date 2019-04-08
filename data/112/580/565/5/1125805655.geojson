@@ -1,0 +1,108 @@
+{
+  "id": 1125805655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.64667,45.19889,18.64667,45.19889",
+    "geom:latitude":45.19889,
+    "geom:longitude":18.64667,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":845,
+    "gn:population":804,
+    "iso:country":"HR",
+    "lbl:latitude":45.19889,
+    "lbl:longitude":18.64667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "\u0160i\u0161kovci"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160i\u0161kovci"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160i\u0161kovci"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160i\u0161kovci"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160i\u0161kovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0438\u0448\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160i\u0161kovci"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3190803,
+    "qs_pg:gn_pop":845,
+    "qs_pg:name":"\u0160i\u0161kovci",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Vukovarsko-Srijemska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1275527,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850238,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Vukovarsko-Srijemska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190803,
+        "gp:id":850238,
+        "qs_pg:id":1275527,
+        "wd:id":"Q1981548"
+    },
+    "wof:country":"HR",
+    "wof:created":1497291452,
+    "wof:geomhash":"725eb643b7e3b5207e1634529ad57454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125805655,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":1125805655,
+    "wof:lastmodified":1514447760,
+    "wof:name":"\u0160i\u0161kovci",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":804,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64667,
+    45.19889,
+    18.64667,
+    45.19889
+],
+  "geometry": {"coordinates":[18.64667,45.19889],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260283045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46667,45.26667,15.46667,45.26667",
+    "geom:latitude":45.26667,
+    "geom:longitude":15.46667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049266.0",
+    "gn:asciiname":"Gornji Poloj",
+    "gn:country_code":"HR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199945,
+    "gn:latitude":45.26667,
+    "gn:longitude":15.46667,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Gornji Poloj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199945,
+        "wk:page":"Gornji_Poloj"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2c30406812598f4a997f7640771c4da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260283045,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1260283045,
+    "wof:lastmodified":1537563300,
+    "wof:name":"Gornji Poloj",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46667,
+    45.26667,
+    15.46667,
+    45.26667
+],
+  "geometry": {"coordinates":[15.46667,45.26667],"type":"Point"}
+}

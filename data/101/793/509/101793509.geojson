@@ -1,0 +1,131 @@
+{
+  "id": 101793509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000242,
+    "geom:area_square_m":2105295.819558,
+    "geom:bbox":"18.7134259092,45.3058514465,18.7428433519,45.3273650023",
+    "geom:latitude":45.316429,
+    "geom:longitude":18.731646,
+    "gn:population":2640,
+    "iso:country":"HR",
+    "lbl:latitude":45.316497,
+    "lbl:longitude":18.731646,
+    "mps:latitude":45.316497,
+    "mps:longitude":18.731646,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Jarmina"
+    ],
+    "name:bos_x_preferred":[
+        "Jarmina"
+    ],
+    "name:dut_x_preferred":[
+        "Jarmina"
+    ],
+    "name:eng_x_preferred":[
+        "Jarmina"
+    ],
+    "name:fre_x_preferred":[
+        "Jarmina"
+    ],
+    "name:ger_x_preferred":[
+        "Jarmina"
+    ],
+    "name:hrv_x_preferred":[
+        "Jarmina"
+    ],
+    "name:ita_x_preferred":[
+        "Jarmina"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Jarmina"
+    ],
+    "name:slv_x_preferred":[
+        "Jarmina"
+    ],
+    "name:spa_x_preferred":[
+        "Jarmina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0440\u043c\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Jarmina"
+    ],
+    "name:und_x_preferred":[
+        "Jarmina"
+    ],
+    "name:war_x_preferred":[
+        "Jarmina"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vukovarsko-srijemska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Jarmina",
+    "qs:la_lc":"*HR1601660",
+    "qs:level":"locality",
+    "qs:loc":"Jarmina",
+    "qs:loc_alt":"Jarmina",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":135,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115bfd3e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3198852,
+        "gp:id":848237,
+        "qs:id":147238,
+        "qs_pg:id":147238,
+        "wd:id":"Q1277225",
+        "wk:page":"Jarmina"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"259f2751cd7d569dbc820aafd9fb4dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793509,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":101793509,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527689279,
+    "wof:name":"Jarmina",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":2640,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.71342590922649,
+    45.30585144648683,
+    18.74284335188577,
+    45.32736500225354
+],
+  "geometry": {"coordinates":[[[18.73158551537227,45.32057938878029],[18.73918562613665,45.3199471330509],[18.7390434155655,45.31905298693698],[18.74284335188577,45.31873665970818],[18.74156318411235,45.31068936116532],[18.7428296398059,45.31058390612787],[18.74254518399431,45.30879561250021],[18.74127876852424,45.30890106358663],[18.7411365697472,45.30800691356791],[18.73607094484754,45.30842855798221],[18.73578672620533,45.30664023968859],[18.73452034933939,45.30674560883631],[18.73437826913812,45.30585144648683],[18.73311190803855,45.3059567984584],[18.73339603422676,45.3077451262854],[18.73212962856411,45.30785046700095],[18.73283994856973,45.312321282102],[18.72650735227796,45.31284780694972],[18.72664933371362,45.31374197737841],[18.7253827813127,45.31384723870553],[18.72566672195472,45.31563558105228],[18.7180670749849,45.31626685335641],[18.7182089335837,45.31716103513145],[18.71567564297675,45.31737134152331],[18.71581746732755,45.31826552642167],[18.71455079539595,45.31837065877733],[18.71469260561906,45.31926484482858],[18.71342590922649,45.31936996394694],[18.71356770532083,45.3202641511507],[18.72370131600013,45.31942275663096],[18.72384327909083,45.32031692724922],[18.72637667861034,45.32010642260099],[18.72708678537288,45.32457724369851],[18.72581998715384,45.32468251349013],[18.72624606289349,45.32736500225354],[18.73131347125133,45.32694380815224],[18.73074506021965,45.32336718640857],[18.73201182093322,45.32326185775685],[18.73158551537227,45.32057938878029]]],"type":"Polygon"}
+}

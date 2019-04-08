@@ -1,0 +1,125 @@
+{
+  "id": 101790183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000136,
+    "geom:bbox":"16.6379824008,46.3569119045,16.6560982487,46.3730488428",
+    "geom:latitude":46.366263,
+    "geom:longitude":16.647366,
+    "iso:country":"HR",
+    "lbl:latitude":46.366566,
+    "lbl:longitude":16.64812,
+    "mps:latitude":46.366566,
+    "mps:longitude":16.64812,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donji Kraljevec"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043d\u0438 \u041a\u0440\u0430\u043b\u0435\u0432\u0435\u0446"
+    ],
+    "name:ces_x_preferred":[
+        "Donji Kraljevec"
+    ],
+    "name:deu_x_preferred":[
+        "Donji Kraljevec"
+    ],
+    "name:epo_x_preferred":[
+        "Donji Kraljevec"
+    ],
+    "name:fra_x_preferred":[
+        "Donji Kraljevec"
+    ],
+    "name:hbs_x_preferred":[
+        "Donji Kraljevec"
+    ],
+    "name:hrv_x_preferred":[
+        "Donji Kraljevec"
+    ],
+    "name:hun_x_preferred":[
+        "Murakir\u00e1ly"
+    ],
+    "name:ita_x_preferred":[
+        "Donji Kraljevec"
+    ],
+    "name:nld_x_preferred":[
+        "Donji Kraljevec"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Donji Kraljevec"
+    ],
+    "name:slv_x_preferred":[
+        "Donji Kraljevec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0438 \u041a\u0440\u0430\u0459\u0435\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Donji Kraljevec"
+    ],
+    "name:unk_x_variant":[
+        "Donji Kraljevoc"
+    ],
+    "name:war_x_preferred":[
+        "Donji Kraljevec"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Medimurska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Prelog",
+    "qs:la_lc":"*HR2003557",
+    "qs:level":"locality",
+    "qs:loc":"Donji Kraljevec",
+    "qs:loc_alt":"Donji Kraljevec",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":212,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201454,
+        "gp:id":847479,
+        "qs:id":916085,
+        "wd:id":"Q746303",
+        "wk:page":"Donji Kraljevec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7d20c662c39519516cfd08d3638df255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101790183,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":101790183,
+    "wof:lastmodified":1527641603,
+    "wof:name":"Donji Kraljevec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.63798240079763,
+    46.3569119044613,
+    16.65609824865589,
+    46.37304884280434
+],
+  "geometry": {"coordinates":[[[16.64804498231092,46.3719914147847],[16.64793334393272,46.37109492614155],[16.65181580979743,46.37085340828486],[16.65203921998341,46.37264637557826],[16.65462759869035,46.37248527932206],[16.65418062621126,46.3688993546383],[16.65547472455864,46.36881878931302],[16.65525122448616,46.3670258262344],[16.65266310998283,46.36718693502633],[16.6522163392865,46.36360098868505],[16.65609824865589,46.36335932077355],[16.6559865037986,46.36246283725825],[16.65339861058493,46.36262396170162],[16.65328691340898,46.36172747442504],[16.64681722591587,46.36213000438892],[16.64648248471008,46.35944051533505],[16.64518860092755,46.35952096979662],[16.6449655071093,46.3577279707672],[16.64367166265197,46.35780840649636],[16.64356014440273,46.3569119044613],[16.64226631785107,46.35699232301556],[16.64260082282038,46.35968183186162],[16.64130692849733,46.35976223946466],[16.64141841838455,46.36065874268422],[16.64400624636096,46.36049790874625],[16.64445242556195,46.36408390275074],[16.63798240079763,46.36448590156294],[16.63809385053719,46.36538240623804],[16.63938788394245,46.36530203616269],[16.6394993599344,46.36619853864045],[16.64079341125472,46.36611815138747],[16.64135097075854,46.37060064636768],[16.6426451257156,46.37052023571158],[16.64275667353246,46.37141673122551],[16.64534501576566,46.37125585993016],[16.64556821162245,46.37304884280434],[16.64686242033139,46.37296838060672],[16.6467507985534,46.37207189104822],[16.64804498231092,46.3719914147847]]],"type":"Polygon"}
+}

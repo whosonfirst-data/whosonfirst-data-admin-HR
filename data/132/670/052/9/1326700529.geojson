@@ -1,0 +1,65 @@
+{
+  "id": 1326700529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.57139,43.57194,16.57139,43.57194",
+    "geom:latitude":43.57194,
+    "geom:longitude":16.57139,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kursani",
+    "gn:country_code":"HR",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281457,
+    "gn:latitude":43.57194,
+    "gn:longitude":16.57139,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Kursani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281457
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5735813f704f4f0438283f976dc03ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326700529,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1326700529,
+    "wof:lastmodified":1536741340,
+    "wof:name":"Kursani",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.57139,
+    43.57194000000001,
+    16.57139,
+    43.57194000000001
+],
+  "geometry": {"coordinates":[16.57139,43.57194000000001],"type":"Point"}
+}

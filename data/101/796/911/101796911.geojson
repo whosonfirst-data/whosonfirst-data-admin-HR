@@ -1,0 +1,231 @@
+{
+  "id": 101796911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000157,
+    "geom:area_square_m":1417520.630335,
+    "geom:bbox":"16.5835353089,43.1789346645,16.604531928,43.1894527826",
+    "geom:latitude":43.184898,
+    "geom:longitude":16.594239,
+    "gn:population":2817,
+    "iso:country":"HR",
+    "lbl:latitude":43.184322,
+    "lbl:longitude":16.592989,
+    "mps:latitude":43.184322,
+    "mps:longitude":16.592989,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0442\u0430\u0440\u044b \u0413\u0440\u0430\u0434"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0442\u0430\u0440\u044b \u0413\u0440\u0430\u0434"
+    ],
+    "name:bos_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:ces_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:chi_x_preferred":[
+        "\u65af\u5854\u91cc\u683c\u52d2"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u06cc \u06af\u0631\u0627\u062f"
+    ],
+    "name:cze_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:deu_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:dut_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:eng_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u06cc \u06af\u0631\u0627\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:fra_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:fre_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:ger_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:hbs_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05d0\u05e8\u05d9 \u05d2\u05e8\u05d0\u05d3"
+    ],
+    "name:hrv_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:hrv_x_variant":[
+        "Starigrad"
+    ],
+    "name:hun_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:ita_x_preferred":[
+        "Cittavecchia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30bf\u30ea\u30fc\u30fb\u30b0\u30e9\u30fc\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud0c0\ub9ac\uadf8\ub77c\ub4dc"
+    ],
+    "name:lat_x_preferred":[
+        "Civitas Vetus"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0413\u0440\u0430\u0434"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0413\u0440\u0430\u0434"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434"
+    ],
+    "name:nld_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u06cc \u06af\u0631\u0627\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:ron_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:rum_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u0433\u0440\u0430\u0434"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0413\u0440\u0430\u0434"
+    ],
+    "name:slk_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:slo_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:slv_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:spa_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0413\u0440\u0430\u0434"
+    ],
+    "name:srp_x_variant":[
+        "Stari Grad"
+    ],
+    "name:swe_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438-\u0413\u0440\u0430\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u0439 \u0413\u0440\u0430\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Cittavecchia"
+    ],
+    "name:vie_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:war_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5854\u91cc\u683c\u52d2"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Stari Grad",
+    "qs:la_lc":"*HR1704138",
+    "qs:level":"locality",
+    "qs:loc":"Stari Grad",
+    "qs:loc_alt":"Stari Grad",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":43.183333,
+    "wd:longitude":16.583333,
+    "wd:wordcount":2107,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216885,
+        "gp:id":850441,
+        "qs:id":147117,
+        "qs_pg:id":1044098,
+        "wd:id":"Q220383",
+        "wk:page":"Stari Grad, Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b6572dd3d34f30cc1672860df2d76878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101796911,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101796911,
+    "wof:lastmodified":1527642038,
+    "wof:name":"Stari Grad",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":2817,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.58353530887973,
+    43.17893466450818,
+    16.60453192801748,
+    43.18945278264641
+],
+  "geometry": {"coordinates":[[[16.58363613300565,43.18945278264641],[16.59831479947752,43.18850373072132],[16.59841584949419,43.18940241573222],[16.60453192801748,43.18900634823871],[16.60382401774467,43.18271558500766],[16.60260093726475,43.18279481795855],[16.6024998422007,43.18189613280236],[16.60127677725433,43.18197534971239],[16.60117570478747,43.18107666233027],[16.59628348949843,43.18139337798613],[16.59618249504814,43.18049468417075],[16.5949594523529,43.18057382508965],[16.59485848049553,43.17967512904977],[16.59241242324015,43.17983336417359],[16.59231149244698,43.17893466450818],[16.58986546039256,43.17909283828249],[16.58996635424,43.17999154074977],[16.58752027349902,43.18014965877762],[16.58762113451314,43.18104836322323],[16.58639807126673,43.18112740168152],[16.58649891792021,43.18202610670517],[16.5852758332648,43.18210513192582],[16.58578003585666,43.18659865171264],[16.58455685587836,43.18667766929462],[16.5847585287525,43.18847507425608],[16.58353530887973,43.18855407999843],[16.58363613300565,43.18945278264641]]],"type":"Polygon"}
+}

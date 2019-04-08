@@ -1,0 +1,67 @@
+{
+  "id": 1276625509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05278,45.355,16.05278,45.355",
+    "geom:latitude":45.355,
+    "geom:longitude":16.05278,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3200597.0",
+    "gn:asciiname":"Gornji Vidusevac",
+    "gn:country_code":"HR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3339275,
+    "gn:latitude":45.355,
+    "gn:longitude":16.05278,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Gornji Vidusevac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3339275,
+        "wk:page":"Gornji_Vidu%C5%A1evac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1f84efdaf20d4cef0244010cac457004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276625509,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1276625509,
+    "wof:lastmodified":1537563319,
+    "wof:name":"Gornji Vidusevac",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05278,
+    45.355,
+    16.05278,
+    45.355
+],
+  "geometry": {"coordinates":[16.05278,45.355],"type":"Point"}
+}

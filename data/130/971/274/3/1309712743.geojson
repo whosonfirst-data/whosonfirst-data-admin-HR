@@ -1,0 +1,74 @@
+{
+  "id": 1309712743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92361,45.17389,13.92361,45.17389",
+    "geom:latitude":45.17389,
+    "geom:longitude":13.92361,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Katun Lindarski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198195,
+    "gn:latitude":45.17389,
+    "gn:longitude":13.92361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Katun Lindarski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lindarski Katun",
+        "Katun",
+        "Cattuni",
+        "Katuni",
+        "Katun Limdarski",
+        "Katun Lindarski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198195
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fa9994afe56dc964a9a95e17e7124c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309712743,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1309712743,
+    "wof:lastmodified":1537625887,
+    "wof:name":"Katun Lindarski",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92361,
+    45.17389,
+    13.92361,
+    45.17389
+],
+  "geometry": {"coordinates":[13.92361,45.17389],"type":"Point"}
+}

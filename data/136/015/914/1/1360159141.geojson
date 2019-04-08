@@ -1,0 +1,74 @@
+{
+  "id": 1360159141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56077,45.81265,16.56077,45.81265",
+    "geom:latitude":45.81265,
+    "geom:longitude":16.56077,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Baginec",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204640,
+    "gn:latitude":45.81265,
+    "gn:longitude":16.56077,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Ba\u0111inec",
+    "gn:population":174,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badjinec",
+        "Ba\u0111inec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204640,
+        "wk:page":"Ba%C4%91inec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"26ec99b3dc6b4ba408742d3d6b2a1a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360159141,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1360159141,
+    "wof:lastmodified":1537625939,
+    "wof:name":"Baginec",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":174,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56077,
+    45.81265,
+    16.56077,
+    45.81265
+],
+  "geometry": {"coordinates":[16.56077,45.81265],"type":"Point"}
+}

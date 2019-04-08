@@ -1,0 +1,113 @@
+{
+  "id": 1125909347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.295,45.7075,18.295,45.7075",
+    "geom:latitude":45.7075,
+    "geom:longitude":18.295,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":893,
+    "gn:population":810,
+    "iso:country":"HR",
+    "lbl:latitude":45.7075,
+    "lbl:longitude":18.295,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "\u010crnkovci"
+    ],
+    "name:dut_x_preferred":[
+        "\u010crnkovci"
+    ],
+    "name:eng_x_preferred":[
+        "\u010crnkovci"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010crnkovci"
+    ],
+    "name:hun_x_preferred":[
+        "\u010crnkovci"
+    ],
+    "name:slv_x_preferred":[
+        "\u010crnkovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0440\u043d\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "\u010crnkovci"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3202344,
+    "qs_pg:gn_pop":893,
+    "qs_pg:name":"\u010crnkovci",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Osje\u010dko-baranjska",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":180193,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":847221,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Osje\u010dko-baranjska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202344,
+        "gp:id":847221,
+        "qs_pg:id":180193,
+        "wd:id":"Q3505302"
+    },
+    "wof:country":"HR",
+    "wof:created":1497296090,
+    "wof:geomhash":"c9b684a6202ebe7274fec1134df5619d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125909347,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1125909347,
+    "wof:lastmodified":1514447748,
+    "wof:name":"\u010crnkovci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":810,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.295,
+    45.7075,
+    18.295,
+    45.7075
+],
+  "geometry": {"coordinates":[18.295,45.7075],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1360187889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88028,45.15417,17.88028,45.15417",
+    "geom:latitude":45.15417,
+    "geom:longitude":17.88028,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"11049504.0",
+    "gn:asciiname":"Jelik",
+    "gn:country_code":"HR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3240517,
+    "gn:latitude":45.15417,
+    "gn:longitude":17.88028,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Jelik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3240517
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e0e0ed2655f86660bde96e93c0b0354c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360187889,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1360187889,
+    "wof:lastmodified":1536797473,
+    "wof:name":"Jelik",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88028,
+    45.15417,
+    17.88028,
+    45.15417
+],
+  "geometry": {"coordinates":[17.88028,45.15417],"type":"Point"}
+}

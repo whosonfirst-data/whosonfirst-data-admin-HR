@@ -1,0 +1,168 @@
+{
+  "id": 101857821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.577739,43.486264,16.577739,43.486264",
+    "geom:latitude":43.486264,
+    "geom:longitude":16.577739,
+    "gn:population":7377,
+    "iso:country":"HR",
+    "lbl:latitude":43.486264,
+    "lbl:longitude":16.577739,
+    "mps:latitude":43.486264,
+    "mps:longitude":16.577739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Podstrana"
+    ],
+    "name:bos_x_preferred":[
+        "Podstrana"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0434\u0441\u0442\u0440\u0430\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Podstrana"
+    ],
+    "name:ces_x_preferred":[
+        "Podstrana"
+    ],
+    "name:cze_x_preferred":[
+        "Podstrana"
+    ],
+    "name:deu_x_preferred":[
+        "Podstrana"
+    ],
+    "name:dut_x_preferred":[
+        "Podstrana"
+    ],
+    "name:eng_x_preferred":[
+        "Postrana"
+    ],
+    "name:fra_x_preferred":[
+        "Podstrana"
+    ],
+    "name:fre_x_preferred":[
+        "Podstrana"
+    ],
+    "name:ger_x_preferred":[
+        "Podstrana"
+    ],
+    "name:hbs_x_preferred":[
+        "Podstrana"
+    ],
+    "name:hrv_x_preferred":[
+        "Podstrana"
+    ],
+    "name:hun_x_preferred":[
+        "Podstrana"
+    ],
+    "name:ita_x_preferred":[
+        "Podstrana"
+    ],
+    "name:nld_x_preferred":[
+        "Podstrana"
+    ],
+    "name:pol_x_preferred":[
+        "Podstrana"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Podstrana"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Podstrana"
+    ],
+    "name:spa_x_preferred":[
+        "Podstrana"
+    ],
+    "name:sqi_x_preferred":[
+        "Podstrana"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0441\u0442\u0440\u0430\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Podstrana"
+    ],
+    "name:und_x_preferred":[
+        "Podstrana"
+    ],
+    "name:unk_x_variant":[
+        "Postrana"
+    ],
+    "name:war_x_preferred":[
+        "Podstrana"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Podstrana",
+    "qs:loc_alt":"Podstrana",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":202,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115cb1b6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3192910,
+        "gp:id":849708,
+        "qs:id":147145,
+        "qs_pg:id":147145,
+        "wd:id":"Q941734",
+        "wk:page":"Podstrana"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ec820caeff1a0913267fefa287053ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101857821,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101857821,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744095,
+    "wof:name":"Podstrana",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":7377,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.577739,
+    43.486264,
+    16.577739,
+    43.486264
+],
+  "geometry": {"coordinates":[16.577739,43.486264],"type":"Point"}
+}

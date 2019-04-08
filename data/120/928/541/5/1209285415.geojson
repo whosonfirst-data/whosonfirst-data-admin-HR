@@ -1,0 +1,71 @@
+{
+  "id": 1209285415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.21968,45.26873,16.21968,45.26873",
+    "geom:latitude":45.26873,
+    "geom:longitude":16.21968,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3200597.0",
+    "gn:asciiname":"Mali Gradac",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195711,
+    "gn:latitude":45.26873,
+    "gn:longitude":16.21968,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Mali Gradac",
+    "gn:population":143,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradac Mali",
+        "Mali Gradac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195711,
+        "wk:page":"Mali_Gradac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9f821d735642646d055758e75b33d877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209285415
+        }
+    ],
+    "wof:id":1209285415,
+    "wof:lastmodified":1537625867,
+    "wof:name":"Mali Gradac",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":143,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21968,
+    45.26873,
+    16.21968,
+    45.26873
+],
+  "geometry": {"coordinates":[16.21968,45.26873],"type":"Point"}
+}

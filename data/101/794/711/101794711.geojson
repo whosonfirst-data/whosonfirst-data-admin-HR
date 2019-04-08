@@ -1,0 +1,252 @@
+{
+  "id": 101794711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":1047751.147406,
+    "geom:bbox":"18.8234804399,44.9325669328,18.8361856589,44.9676122194",
+    "geom:latitude":44.9501,
+    "geom:longitude":18.830602,
+    "iso:country":"HR",
+    "lbl:latitude":44.947774,
+    "lbl:longitude":18.831036,
+    "mps:latitude":44.947774,
+    "mps:longitude":18.831036,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:alb_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:arg_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:ast_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:baq_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:bar_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:bos_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:bre_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:cat_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:cos_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:cze_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:dan_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:dut_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:eng_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:epo_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:est_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:fin_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:fre_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:fur_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:ger_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:gla_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:gle_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:glg_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:gsw_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:hbs_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:hrv_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:hun_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:ice_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:ita_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:lij_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:lim_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:lit_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:lmo_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:ltz_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:nap_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:nds_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:nld_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:nno_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:nob_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:pcd_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:pms_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:pol_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:por_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:roh_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:rum_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:scn_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:sco_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:slo_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:slv_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:spa_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:srd_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0441\u0430\u0432\u0441\u043a\u0438 \u041f\u043e\u0434\u0433\u0430\u0458\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:tur_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:unk_x_variant":[
+        "Podgajci Posavski"
+    ],
+    "name:vec_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:vls_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:wel_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "name:wln_x_preferred":[
+        "Posavski Podgajci"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vukovarsko-srijemska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Drenovci",
+    "qs:la_lc":"*HR1600922",
+    "qs:level":"locality",
+    "qs:loc":"Posavski Podgajci",
+    "qs:loc_alt":"Posavski Podgajci",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193066,
+        "gp:id":849670,
+        "qs:id":8,
+        "wd:id":"Q1277184",
+        "wk:page":"Posavski Podgajci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3b96050ebe2c456b102371ba25e840c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101794711,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":101794711,
+    "wof:lastmodified":1527689324,
+    "wof:name":"Posavski Podgajci",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.82348043988179,
+    44.93256693282098,
+    18.83618565887087,
+    44.96761221943586
+],
+  "geometry": {"coordinates":[[[18.83618565887087,44.95660510342145],[18.83590111574472,44.95481663639436],[18.8333845262394,44.95502955864646],[18.83253127737191,44.94966411360832],[18.83378945568955,44.94955767187201],[18.8327941319431,44.9432979613884],[18.83405216763703,44.94319151838147],[18.83263058623993,44.93424902275729],[18.83137274807206,44.93435544603261],[18.83108854287525,44.93256693282098],[18.82983073990096,44.93267333706848],[18.83096754582806,44.93982738541405],[18.82970958054585,44.93993379035794],[18.83027804763935,44.94351080214494],[18.82901999903078,44.94361719989439],[18.82930422885408,44.94540570466609],[18.82804613642458,44.94551209127474],[18.82847246662135,44.94819484801735],[18.82721431060531,44.94830122545704],[18.82749852103973,44.95008972967645],[18.8287567165811,44.94998334829131],[18.83003613678568,44.95803155774291],[18.82877776333919,44.95813795688696],[18.8290621050545,44.95992644254079],[18.82780368775684,44.96003283054119],[18.8279458477956,44.96092707407627],[18.82668740641748,44.96103344895886],[18.82682955265147,44.96192769362364],[18.8255710871918,44.96203405538802],[18.82585535801434,44.96382254613377],[18.82459684869679,44.96392889675201],[18.82473897328339,44.96482314283332],[18.82348043988179,44.96492948033193],[18.82390679011496,44.96761221943586],[18.82516538285398,44.96750587601804],[18.8250232403617,44.96661163246614],[18.82628180901349,44.96650527592834],[18.82599750237853,44.96471679024188],[18.82725602716619,44.96461042255777],[18.82711386302549,44.96371618042303],[18.82837236372859,44.96360979962003],[18.82823018578131,44.96271555861557],[18.82948866240093,44.96260916469436],[18.82934647064872,44.96171492482],[18.83060492318555,44.96160851778109],[18.83046271762959,44.96071427903689],[18.83172114608436,44.96060785888045],[18.83115230447982,44.95703090336343],[18.83618565887087,44.95660510342145]]],"type":"Polygon"}
+}

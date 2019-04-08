@@ -1,0 +1,127 @@
+{
+  "id": 101791241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":458897.384464,
+    "geom:bbox":"16.0776493952,46.042549461,16.0870635194,46.055185828",
+    "geom:latitude":46.047435,
+    "geom:longitude":16.082912,
+    "iso:country":"HR",
+    "lbl:latitude":46.045856,
+    "lbl:longitude":16.082984,
+    "mps:latitude":46.045856,
+    "mps:longitude":16.082984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Zlatar-Bistrica"
+    ],
+    "name:dut_x_preferred":[
+        "Zlatar-Bistrica"
+    ],
+    "name:eng_x_preferred":[
+        "Zlatar Bistrica"
+    ],
+    "name:fra_x_preferred":[
+        "Zlatar-Bistrica"
+    ],
+    "name:fre_x_preferred":[
+        "Zlatar-Bistrica"
+    ],
+    "name:hbs_x_preferred":[
+        "Zlatar Bistrica"
+    ],
+    "name:hrv_x_preferred":[
+        "Zlatar Bistrica"
+    ],
+    "name:hun_x_preferred":[
+        "Zlatar Bistrica"
+    ],
+    "name:ita_x_preferred":[
+        "Zlatar-Bistrica"
+    ],
+    "name:nld_x_preferred":[
+        "Zlatar-Bistrica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Zlatar Bistrica"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Zlatar Bistrica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u0430\u0440-\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Zlatar-Bistrica"
+    ],
+    "name:spa_x_preferred":[
+        "Zlatar Bistrica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u0430\u0440-\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Grad Zlatar"
+    ],
+    "name:war_x_preferred":[
+        "Zlatar Bistrica"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Krapinsko-zagorska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Zlatar-Bistrica",
+    "qs:la_lc":"*HR0205274",
+    "qs:level":"locality",
+    "qs:loc":"Zlatar-Bistrica",
+    "qs:loc_alt":"Zlatar-Bistrica",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":299,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":851230,
+        "qs:id":2,
+        "wd:id":"Q1194688"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"08dc6606e436fe542d1f69ecc24f0917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791241,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":101791241,
+    "wof:lastmodified":1527641956,
+    "wof:name":"Zlatar-Bistrica",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.07764939519024,
+    46.04254946096347,
+    16.08706351937496,
+    46.05518582801415
+],
+  "geometry": {"coordinates":[[[16.08529920630582,46.05511222208088],[16.08479300160633,46.0506255359374],[16.08608016082997,46.05055192153429],[16.08577642681269,46.04785990648503],[16.08706351937496,46.04778628078748],[16.08696226225584,46.04688894258339],[16.08567519085688,46.04696256686782],[16.08527029060753,46.04337320206065],[16.08398330068633,46.04344680516243],[16.08388210767521,46.04254946096347],[16.08002118240415,46.04277017284409],[16.08012231193754,46.04366752127839],[16.07883530936226,46.04374106225384],[16.07893642208847,46.04463841146583],[16.07764939519024,46.04471193832063],[16.07775049110728,46.04560928831],[16.07903753916725,46.04553576004417],[16.0792397863832,46.04733045530025],[16.08052687360578,46.04725690867917],[16.08062802490787,46.04815425394554],[16.08191513013116,46.04808069038],[16.0822186736612,46.0507727181423],[16.08093150494096,46.05084628594375],[16.08103267366238,46.05174362867649],[16.08231986355003,46.05167005946282],[16.08242105779522,46.05256740015011],[16.08370826568569,46.05249381398983],[16.0840119380718,46.05518582801415],[16.08529920630582,46.05511222208088]]],"type":"Polygon"}
+}

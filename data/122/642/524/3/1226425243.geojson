@@ -1,0 +1,70 @@
+{
+  "id": 1226425243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.18556,43.32556,17.18556,43.32556",
+    "geom:latitude":43.32556,
+    "geom:longitude":17.18556,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Gornje Rascane",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3200086,
+    "gn:latitude":43.32556,
+    "gn:longitude":17.18556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gornje Ra\u0161\u0107ane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u0161\u0107ane Gornje",
+        "Gornje Ra\u0161\u0107ane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200086
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ef5ae6e04c884011066bb7d737d3b9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226425243,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1226425243,
+    "wof:lastmodified":1537625902,
+    "wof:name":"Gornje Rascane",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.18556,
+    43.32556,
+    17.18556,
+    43.32556
+],
+  "geometry": {"coordinates":[17.18556,43.32556],"type":"Point"}
+}

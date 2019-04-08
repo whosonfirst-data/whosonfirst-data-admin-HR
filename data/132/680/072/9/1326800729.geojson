@@ -1,0 +1,70 @@
+{
+  "id": 1326800729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34954,43.64191,16.34954,43.64191",
+    "geom:latitude":43.64191,
+    "geom:longitude":16.34954,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"11054609.0",
+    "gn:asciiname":"Lecevica",
+    "gn:country_code":"HR",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3196715,
+    "gn:latitude":43.64191,
+    "gn:longitude":16.34954,
+    "gn:modification_date":"2017-01-01",
+    "gn:name":"Le\u0107evica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le\u0107evica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196715,
+        "wk:page":"Le%C4%87evica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7849ecedc2707a0afae363472a9926c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326800729,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1326800729,
+    "wof:lastmodified":1537625875,
+    "wof:name":"Lecevica",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34954,
+    43.64191,
+    16.34954,
+    43.64191
+],
+  "geometry": {"coordinates":[16.34954,43.64191],"type":"Point"}
+}

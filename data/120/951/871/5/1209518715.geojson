@@ -1,0 +1,66 @@
+{
+  "id": 1209518715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42028,45.11583,18.42028,45.11583",
+    "geom:latitude":45.11583,
+    "geom:longitude":18.42028,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049505.0",
+    "gn:asciiname":"Jaruge",
+    "gn:country_code":"HR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198846,
+    "gn:latitude":45.11583,
+    "gn:longitude":18.42028,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Jaruge",
+    "gn:population":695,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198846,
+        "wk:page":"Jaruge"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4a556fc5ac4c2d689667c6b8a061eb61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209518715
+        }
+    ],
+    "wof:id":1209518715,
+    "wof:lastmodified":1537563298,
+    "wof:name":"Jaruge",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":695,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42028,
+    45.11583,
+    18.42028,
+    45.11583
+],
+  "geometry": {"coordinates":[18.42028,45.11583],"type":"Point"}
+}

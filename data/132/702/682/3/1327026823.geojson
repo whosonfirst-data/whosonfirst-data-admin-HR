@@ -1,0 +1,94 @@
+{
+  "id": 1327026823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67556,46.0775,15.67556,46.0775",
+    "geom:latitude":46.0775,
+    "geom:longitude":15.67556,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11049190.0",
+    "gn:asciiname":"Kumrovec",
+    "gn:country_code":"HR",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3196954,
+    "gn:latitude":46.0775,
+    "gn:longitude":15.67556,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Kumrovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kumrovec"
+    ],
+    "name:eng_x_preferred":[
+        "Kumrovec"
+    ],
+    "name:epo_x_preferred":[
+        "Kumrovec"
+    ],
+    "name:hrv_x_preferred":[
+        "Kumrovec"
+    ],
+    "name:hun_x_preferred":[
+        "Kumrovec"
+    ],
+    "name:nno_x_preferred":[
+        "Kumrovec"
+    ],
+    "name:nor_x_preferred":[
+        "Kumrovec"
+    ],
+    "name:slv_x_preferred":[
+        "Kumrovec"
+    ],
+    "name:spa_x_preferred":[
+        "Kumrovec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196954,
+        "wk:page":"Kumrovec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2da20319ad9a6e586462b5421fe1155c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327026823,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1327026823,
+    "wof:lastmodified":1537625877,
+    "wof:name":"Kumrovec",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67556,
+    46.0775,
+    15.67556,
+    46.0775
+],
+  "geometry": {"coordinates":[15.67556,46.0775],"type":"Point"}
+}

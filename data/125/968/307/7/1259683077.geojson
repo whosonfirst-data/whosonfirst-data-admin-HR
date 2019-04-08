@@ -1,0 +1,68 @@
+{
+  "id": 1259683077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.635,45.12306,15.635,45.12306",
+    "geom:latitude":45.12306,
+    "geom:longitude":15.635,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Perici",
+    "gn:country_code":"HR",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281848,
+    "gn:latitude":45.12306,
+    "gn:longitude":15.635,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Peri\u0107i",
+    "gn:population":22,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281848
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5f6d86a89ece15f03433e6a24463db7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259683077,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1259683077,
+    "wof:lastmodified":1537064754,
+    "wof:name":"Perici",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":22,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.635,
+    45.12306,
+    15.635,
+    45.12306
+],
+  "geometry": {"coordinates":[15.635,45.12306],"type":"Point"}
+}

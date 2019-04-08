@@ -1,0 +1,65 @@
+{
+  "id": 1259807543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93028,45.3375,13.93028,45.3375",
+    "geom:latitude":45.3375,
+    "geom:longitude":13.93028,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sculci",
+    "gn:country_code":"HR",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343498,
+    "gn:latitude":45.3375,
+    "gn:longitude":13.93028,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"\u0160\u0107ulci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343498
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"29169088b91244294a72ac13ebc16803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259807543,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1259807543,
+    "wof:lastmodified":1536888175,
+    "wof:name":"Sculci",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93028,
+    45.3375,
+    13.93028,
+    45.3375
+],
+  "geometry": {"coordinates":[13.93028,45.3375],"type":"Point"}
+}

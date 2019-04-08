@@ -1,0 +1,68 @@
+{
+  "id": 1293691659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41667,45.66667,15.41667,45.66667",
+    "geom:latitude":45.66667,
+    "geom:longitude":15.41667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Donji Lovic",
+    "gn:country_code":"HR",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201447,
+    "gn:latitude":45.66667,
+    "gn:longitude":15.41667,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Donji Lovi\u0107",
+    "gn:population":20,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201447
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"035f03759d16879baaa8f203b45e171f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293691659,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1293691659,
+    "wof:lastmodified":1536989109,
+    "wof:name":"Donji Lovic",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41667,
+    45.66667,
+    15.41667,
+    45.66667
+],
+  "geometry": {"coordinates":[15.41667,45.66667],"type":"Point"}
+}

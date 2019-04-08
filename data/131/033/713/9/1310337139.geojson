@@ -1,0 +1,66 @@
+{
+  "id": 1310337139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46944,44.98139,15.46944,44.98139",
+    "geom:latitude":44.98139,
+    "geom:longitude":15.46944,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"11049280.0",
+    "gn:asciiname":"Varos",
+    "gn:country_code":"HR",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3272768,
+    "gn:latitude":44.98139,
+    "gn:longitude":15.46944,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Varo\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3272768
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"20fb5b1896e83868af115efb211b48ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310337139,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1310337139,
+    "wof:lastmodified":1536662409,
+    "wof:name":"Varos",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46944,
+    44.98139000000001,
+    15.46944,
+    44.98139000000001
+],
+  "geometry": {"coordinates":[15.46944,44.98139000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276368699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.52833,45.24861,15.52833,45.24861",
+    "geom:latitude":45.24861,
+    "geom:longitude":15.52833,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"3190522.0",
+    "gn:asciiname":"Bukovac Perjasicki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203073,
+    "gn:latitude":45.24861,
+    "gn:longitude":15.52833,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Bukovac Perjasi\u010dki",
+    "gn:population":3,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakovac",
+        "Bucovazzo",
+        "Bukovac",
+        "Bukovac Perjasi\u010dki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203073
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"49a535ed4d3a09e33daf45c1773a17bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276368699,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1276368699,
+    "wof:lastmodified":1537625927,
+    "wof:name":"Bukovac Perjasicki",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52833,
+    45.24861,
+    15.52833,
+    45.24861
+],
+  "geometry": {"coordinates":[15.52833,45.24861],"type":"Point"}
+}

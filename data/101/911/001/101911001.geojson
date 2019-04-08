@@ -1,0 +1,110 @@
+{
+  "id": 101911001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:bbox":"15.3774681909,43.9495988523,15.3899583382,43.9595574067",
+    "geom:latitude":43.955514,
+    "geom:longitude":15.384279,
+    "iso:country":"HR",
+    "lbl:latitude":43.955456,
+    "lbl:longitude":15.38688,
+    "mps:latitude":43.955456,
+    "mps:longitude":15.38688,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:ces_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:deu_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03c3\u03bc\u03b1\u03bd"
+    ],
+    "name:fin_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:fra_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:hrv_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:hsb_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:ita_x_preferred":[
+        "Pasman"
+    ],
+    "name:spa_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:unk_x_variant":[
+        "Pa\u0161man"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zadarska \u017eupanija",
+    "qs:a1r":"1",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Pa\u0161man",
+    "qs:la_lc":"*HR1303204",
+    "qs:level":"locality",
+    "qs:loc":"Pa\u00b5man",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":210,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193599,
+        "gp:id":849541,
+        "qs:id":1088028,
+        "qs_pg:id":1088028,
+        "wd:id":"Q579274",
+        "wk:page":"Pa\u0161man"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0a1da7e8da1d8f82bc8734bfac08c9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101911001,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":101911001,
+    "wof:lastmodified":1527715545,
+    "wof:name":"Pa\u00b5man",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3774681908543,
+    43.9495988522595,
+    15.38995833815221,
+    43.95955740668842
+],
+  "geometry": {"coordinates":[[[15.38524894224537,43.95949264267705],[15.38516462052866,43.95859321082128],[15.38640525043093,43.95852843308785],[15.38632091295597,43.9576290016787],[15.38880212674542,43.95749940387424],[15.38871775426469,43.95659997408541],[15.38995833815221,43.95653515401523],[15.38970518393143,43.95383686380745],[15.38846465778687,43.95390168035476],[15.38838029928144,43.95300224765595],[15.38713978987818,43.95306704813561],[15.38705545411204,43.95216761353538],[15.38581496144985,43.95223239794808],[15.3856463388833,43.95043352421703],[15.38440588220652,43.95049829138964],[15.38432159540343,43.9495988522595],[15.38184071302976,43.94972833958047],[15.38200921315024,43.95152722180444],[15.38324969407643,43.95146248324488],[15.38333396861526,43.95236192209273],[15.38457446628394,43.95229716746707],[15.38482736858231,43.95499547612621],[15.38358681317351,43.9550602342714],[15.38367110167428,43.95595967020938],[15.3774681908543,43.95628324338156],[15.37772078854766,43.95898156441928],[15.38392398812209,43.95865797365957],[15.38400829058753,43.95955740668842],[15.38524894224537,43.95949264267705]]],"type":"Polygon"}
+}

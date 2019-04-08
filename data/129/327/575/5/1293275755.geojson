@@ -1,0 +1,72 @@
+{
+  "id": 1293275755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15,45.55,16.15,45.55",
+    "geom:latitude":45.55,
+    "geom:longitude":16.15,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"11049228.0",
+    "gn:asciiname":"Cerje Letovanicko",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202716,
+    "gn:latitude":45.55,
+    "gn:longitude":16.15,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Cerje Letovani\u010dko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Letovani\u0107ko Cerje",
+        "Cerje",
+        "Cerje Letovani\u010dko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202716
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3474e6b12d2060d4cd55bec9319c1fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293275755,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1293275755,
+    "wof:lastmodified":1537625924,
+    "wof:name":"Cerje Letovanicko",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15,
+    45.55,
+    16.15,
+    45.55
+],
+  "geometry": {"coordinates":[16.15,45.55],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310632519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.695,45.18944,15.695,45.18944",
+    "geom:latitude":45.18944,
+    "geom:longitude":15.695,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gornja Zrvnica",
+    "gn:country_code":"HR",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281245,
+    "gn:latitude":45.18944,
+    "gn:longitude":15.695,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Gornja \u017drvnica",
+    "gn:population":2,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281245
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4e157d9ab431708b6960ea9ebeaab8ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310632519,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1310632519,
+    "wof:lastmodified":1536733928,
+    "wof:name":"Gornja Zrvnica",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.695,
+    45.18944000000001,
+    15.695,
+    45.18944000000001
+],
+  "geometry": {"coordinates":[15.695,45.18944000000001],"type":"Point"}
+}

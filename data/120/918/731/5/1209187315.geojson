@@ -1,0 +1,61 @@
+{
+  "id": 1209187315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.74028,43.54861,16.74028,43.54861",
+    "geom:latitude":43.54861,
+    "geom:longitude":16.74028,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Din",
+    "gn:country_code":"HR",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281875,
+    "gn:latitude":43.54861,
+    "gn:longitude":16.74028,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Din",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281875
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9e0b57fbbfa6350a205eca2a78136532",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209187315
+        }
+    ],
+    "wof:id":1209187315,
+    "wof:lastmodified":1536295055,
+    "wof:name":"Din",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.74028,
+    43.54861,
+    16.74028,
+    43.54861
+],
+  "geometry": {"coordinates":[16.74028,43.54861],"type":"Point"}
+}

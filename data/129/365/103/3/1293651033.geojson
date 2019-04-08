@@ -1,0 +1,71 @@
+{
+  "id": 1293651033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17702,45.77647,16.17702,45.77647",
+    "geom:latitude":45.77647,
+    "geom:longitude":16.17702,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11049004.0",
+    "gn:asciiname":"Trstenik Nartski",
+    "gn:country_code":"HR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188710,
+    "gn:latitude":45.77647,
+    "gn:longitude":16.17702,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Trstenik Nartski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nartski Trstenik",
+        "Trstenik",
+        "Trstenik Nartski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188710
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"717184c7eb3321d76a563f8ca8802bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293651033,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1293651033,
+    "wof:lastmodified":1537625818,
+    "wof:name":"Trstenik Nartski",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17702,
+    45.77647,
+    16.17702,
+    45.77647
+],
+  "geometry": {"coordinates":[16.17702,45.77647],"type":"Point"}
+}

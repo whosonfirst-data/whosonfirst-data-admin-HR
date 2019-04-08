@@ -1,0 +1,73 @@
+{
+  "id": 1243431555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.60734,45.14824,14.60734,45.14824",
+    "geom:latitude":45.14824,
+    "geom:longitude":14.60734,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11049433.0",
+    "gn:asciiname":"Soline",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190354,
+    "gn:latitude":45.14824,
+    "gn:longitude":14.60734,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Soline",
+    "gn:population":47,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Solini"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190354
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0c083ac51920e965c508041b2322976f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243431555,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1243431555,
+    "wof:lastmodified":1537625829,
+    "wof:name":"Soline",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.60734,
+    45.14824,
+    14.60734,
+    45.14824
+],
+  "geometry": {"coordinates":[14.60734,45.14824],"type":"Point"}
+}

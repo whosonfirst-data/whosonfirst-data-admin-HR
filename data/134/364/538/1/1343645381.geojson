@@ -1,0 +1,74 @@
+{
+  "id": 1343645381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.44944,45.54417,18.44944,45.54417",
+    "geom:latitude":45.54417,
+    "geom:longitude":18.44944,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054393.0",
+    "gn:asciiname":"Broganci",
+    "gn:country_code":"HR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203241,
+    "gn:latitude":45.54417,
+    "gn:longitude":18.44944,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Bro\u0111anci",
+    "gn:population":547,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brodjanci",
+        "Bro\u0111anci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203241,
+        "wk:page":"Bro%C4%91anci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"984414b56997d7152ecf51acd7a0c7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343645381,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1343645381,
+    "wof:lastmodified":1537625929,
+    "wof:name":"Broganci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":547,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.44944,
+    45.54417,
+    18.44944,
+    45.54417
+],
+  "geometry": {"coordinates":[18.44944,45.54417],"type":"Point"}
+}

@@ -1,0 +1,139 @@
+{
+  "id": 101835329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":820852.140459,
+    "geom:bbox":"18.7293341264,45.2173777376,18.7456270363,45.2310016621",
+    "geom:latitude":45.224503,
+    "geom:longitude":18.735904,
+    "gn:population":2176,
+    "iso:country":"HR",
+    "lbl:latitude":45.225276,
+    "lbl:longitude":18.73467,
+    "mps:latitude":45.225276,
+    "mps:longitude":18.73467,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "name:dut_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "name:eng_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "name:fra_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "name:fre_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "name:ger_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "name:hbs_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "name:hrv_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "name:ita_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "name:nld_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "name:por_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Andrija\u0161evci"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Andrija\u0161evci"
+    ],
+    "name:sco_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "name:slv_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "name:spa_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u0438\u0458\u0430\u0448\u0435\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "name:unk_x_variant":[
+        "Andriaschevce"
+    ],
+    "name:war_x_preferred":[
+        "Andrija\u0161evci"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vukovarsko-srijemska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Andrija\u0161evci",
+    "qs:la_lc":"*HR1600019",
+    "qs:level":"locality",
+    "qs:loc":"Andrija\u0161evci",
+    "qs:loc_alt":"Andrijasevci",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204817,
+        "gp:id":846634,
+        "qs:id":1274807,
+        "wd:id":"Q1277314",
+        "wk:page":"Andrija\u0161evci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4c7f33f7920a247182ca8fa188c93367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101835329,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":101835329,
+    "wof:lastmodified":1527642779,
+    "wof:name":"Andrija\u0161evci",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":2176,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.7293341264168,
+    45.21737773757008,
+    18.74562703630369,
+    45.23100166212498
+],
+  "geometry": {"coordinates":[[[18.73511824770276,45.22968559858379],[18.73628040400121,45.2289774632203],[18.73609249811449,45.22779240528018],[18.73856314877435,45.22758652096775],[18.74562703630369,45.22328229048725],[18.74549940128412,45.22247807256832],[18.74423494886082,45.22258353366402],[18.74380929761895,45.21990092381611],[18.74128049995841,45.22011178865762],[18.7415641813534,45.22190020392861],[18.74029973597709,45.22200561752595],[18.74044156562417,45.22289982589518],[18.73664814344971,45.22321598154014],[18.73650637389329,45.22232176726254],[18.73524191121595,45.22242712015554],[18.73510016767193,45.22153290308518],[18.73383572070134,45.22163823883329],[18.73355229161632,45.21984979828386],[18.73228788038125,45.21995511491963],[18.73200451527265,45.21816666713903],[18.73074013977129,45.2182719646637],[18.73059848621165,45.21737773757008],[18.7293341264168,45.21748301795219],[18.73018401727461,45.2228483799646],[18.73144849724349,45.22274308777719],[18.7320152908527,45.22631997144379],[18.73075073075142,45.22642527150316],[18.73103412336997,45.22821371233272],[18.72976951887438,45.22831900115034],[18.73019459254607,45.23100166212498],[18.73272391744035,45.23079105750162],[18.73258218015832,45.22989684193658],[18.73511824770276,45.22968559858379]]],"type":"Polygon"}
+}

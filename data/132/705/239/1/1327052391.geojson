@@ -1,0 +1,66 @@
+{
+  "id": 1327052391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88167,44.64,15.88167,44.64",
+    "geom:latitude":44.64,
+    "geom:longitude":15.88167,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049285.0",
+    "gn:asciiname":"Veliko Kamensko",
+    "gn:country_code":"HR",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3276575,
+    "gn:latitude":44.64,
+    "gn:longitude":15.88167,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Veliko Kamensko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276575
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fd343af977e89f6be381bd5b03c9faea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327052391,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1327052391,
+    "wof:lastmodified":1536731869,
+    "wof:name":"Veliko Kamensko",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88167,
+    44.64,
+    15.88167,
+    44.64
+],
+  "geometry": {"coordinates":[15.88167,44.64],"type":"Point"}
+}

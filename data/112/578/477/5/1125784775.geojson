@@ -1,0 +1,137 @@
+{
+  "id": 1125784775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.97583,45.40528,18.97583,45.40528",
+    "geom:latitude":45.40528,
+    "geom:longitude":18.97583,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4,
+    "gn:population":4,
+    "iso:country":"HR",
+    "lbl:latitude":45.40528,
+    "lbl:longitude":18.97583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Borovo"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0641\u0648"
+    ],
+    "name:bos_x_preferred":[
+        "Borovo"
+    ],
+    "name:dut_x_preferred":[
+        "Borovo"
+    ],
+    "name:eng_x_preferred":[
+        "Borovo"
+    ],
+    "name:fin_x_preferred":[
+        "Borovo Selo"
+    ],
+    "name:fre_x_preferred":[
+        "Borovo"
+    ],
+    "name:ger_x_preferred":[
+        "Borovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Borovo"
+    ],
+    "name:ita_x_preferred":[
+        "Borovo"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:rum_x_preferred":[
+        "Borovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Borovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Borovo"
+    ],
+    "name:tur_x_preferred":[
+        "Borovo"
+    ],
+    "name:unk_x_variant":[
+        "Borovo"
+    ],
+    "name:war_x_preferred":[
+        "Borovo"
+    ],
+    "name:wel_x_preferred":[
+        "Borovo"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3244782,
+    "qs_pg:gn_pop":4,
+    "qs_pg:name":"Borovo Selo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":582205,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3244782,
+        "qs_pg:id":582205,
+        "wd:id":"Q894114"
+    },
+    "wof:country":"HR",
+    "wof:created":1497290630,
+    "wof:geomhash":"b3ac3e74e878371dbed84ae3a35fe2f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125784775,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":1125784775,
+    "wof:lastmodified":1553816532,
+    "wof:name":"Borovo Selo",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.97583,
+    45.40528,
+    18.97583,
+    45.40528
+],
+  "geometry": {"coordinates":[18.97583,45.40528],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226557741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1,45.73333,17.1,45.73333",
+    "geom:latitude":45.73333,
+    "geom:longitude":17.1,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"3199514.0",
+    "gn:asciiname":"Velika Jasenovaca",
+    "gn:country_code":"HR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188230,
+    "gn:latitude":45.73333,
+    "gn:longitude":17.1,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Velika Jasenova\u010da",
+    "gn:population":58,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188230
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"97538aec29198d7ec5e680acbb266c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226557741,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1226557741,
+    "wof:lastmodified":1536980114,
+    "wof:name":"Velika Jasenovaca",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1,
+    45.73333,
+    17.1,
+    45.73333
+],
+  "geometry": {"coordinates":[17.1,45.73333],"type":"Point"}
+}

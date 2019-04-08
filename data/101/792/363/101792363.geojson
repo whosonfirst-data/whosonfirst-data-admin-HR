@@ -1,0 +1,129 @@
+{
+  "id": 101792363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:bbox":"15.8415926772,45.9017428106,15.8581886043,45.9111443399",
+    "geom:latitude":45.906911,
+    "geom:longitude":15.85228,
+    "iso:country":"HR",
+    "lbl:latitude":45.905709,
+    "lbl:longitude":15.853789,
+    "mps:latitude":45.905709,
+    "mps:longitude":15.853789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bistra"
+    ],
+    "name:eng_x_preferred":[
+        "Bistra Donja"
+    ],
+    "name:eng_x_variant":[
+        "Bistra"
+    ],
+    "name:fra_x_preferred":[
+        "Bistra"
+    ],
+    "name:hbs_x_preferred":[
+        "Bistra"
+    ],
+    "name:hrv_x_preferred":[
+        "Bistra"
+    ],
+    "name:hun_x_preferred":[
+        "Bistra"
+    ],
+    "name:ita_x_preferred":[
+        "Bistra"
+    ],
+    "name:nld_x_preferred":[
+        "Bistra"
+    ],
+    "name:por_x_preferred":[
+        "Bistra"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Bistra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Bistra"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Donja Bistra"
+    ],
+    "name:unk_x_variant":[
+        "Bistra"
+    ],
+    "name:war_x_preferred":[
+        "Bistra"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zagrebacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Bistra",
+    "qs:la_lc":"*HR0105479",
+    "qs:level":"locality",
+    "qs:loc":"Donja Bistra",
+    "qs:loc_alt":"Donja Bistra",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":96,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115b90ec-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3201716,
+        "gp:id":847352,
+        "qs:id":967003,
+        "wd:id":"Q804058",
+        "wk:page":"Bistra, Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4fbb66628c7e85218ccb8e08842bd438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101792363,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":101792363,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527714634,
+    "wof:name":"Donja Bistra",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84159267719269,
+    45.90174281063787,
+    15.85818860428913,
+    45.91114433985842
+],
+  "geometry": {"coordinates":[[[15.85462748434901,45.91093201699783],[15.85443348080332,45.90913666511642],[15.85571754454475,45.90906586254869],[15.85562052797326,45.90816818701478],[15.85818860428913,45.90802653810675],[15.85799449946336,45.90623119056056],[15.85671050490771,45.90630202005252],[15.85641944205088,45.90360898993202],[15.85770337347856,45.90353816450272],[15.85750931032118,45.90174281063787],[15.85365763321164,45.90195523232774],[15.85375459958652,45.90285291363728],[15.84990283215581,45.90306519996301],[15.85009665114296,45.90486056880434],[15.85138061872607,45.9047898194824],[15.85186534425014,45.90927822377046],[15.84801311675403,45.90949044554753],[15.84791622646571,45.90859276189474],[15.84277996504636,45.90887550194088],[15.8428767711423,45.90977319100034],[15.84159267719269,45.90984383862798],[15.84168946639602,45.91074152840741],[15.85067820798582,45.91024666017319],[15.85077514869516,45.91114433985842],[15.85462748434901,45.91093201699783]]],"type":"Polygon"}
+}

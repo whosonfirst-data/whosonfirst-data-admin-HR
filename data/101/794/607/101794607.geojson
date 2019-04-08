@@ -1,0 +1,151 @@
+{
+  "id": 101794607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":488934.114902,
+    "geom:bbox":"14.0768947232,45.0737662516,14.0943499802,45.0868691116",
+    "geom:latitude":45.080896,
+    "geom:longitude":14.08497,
+    "gn:population":1661,
+    "iso:country":"HR",
+    "lbl:latitude":45.081338,
+    "lbl:longitude":14.086292,
+    "mps:latitude":45.081338,
+    "mps:longitude":14.086292,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ra\u0161a"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u6c99"
+    ],
+    "name:deu_x_preferred":[
+        "Ra\u0161a"
+    ],
+    "name:dut_x_preferred":[
+        "Ra\u0161a"
+    ],
+    "name:eng_x_preferred":[
+        "Ra\u0161a"
+    ],
+    "name:fra_x_preferred":[
+        "Ra\u0161a"
+    ],
+    "name:fre_x_preferred":[
+        "Ra\u0161a"
+    ],
+    "name:ger_x_preferred":[
+        "Ra\u0161a"
+    ],
+    "name:hrv_x_preferred":[
+        "Ra\u0161a"
+    ],
+    "name:hun_x_preferred":[
+        "Ra\u0161a"
+    ],
+    "name:ita_x_preferred":[
+        "Arsia"
+    ],
+    "name:lat_x_preferred":[
+        "Arsia"
+    ],
+    "name:nld_x_preferred":[
+        "Ra\u0161a"
+    ],
+    "name:pol_x_preferred":[
+        "Ra\u0161a"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Ra\u0161a"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Ra\u0161a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0448\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ra\u0161a"
+    ],
+    "name:spa_x_preferred":[
+        "Ra\u0161a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0448\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ra\u0161a"
+    ],
+    "name:unk_x_variant":[
+        "Arsia"
+    ],
+    "name:war_x_preferred":[
+        "Ra\u0161a"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Istarska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Labin",
+    "qs:la_lc":"*HR1802224",
+    "qs:level":"locality",
+    "qs:loc":"Ra\u0161a",
+    "qs:loc_alt":"Rasa",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":329,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191963,
+        "gp:id":849969,
+        "qs:id":1043958,
+        "qs_pg:id":1043958,
+        "wd:id":"Q1111760",
+        "wk:page":"Ra\u0161a, Istria County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b45e7e4825426ae5c72e3f5021c3f8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101794607,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":101794607,
+    "wof:lastmodified":1553815508,
+    "wof:name":"Ra\u0161a",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":1661,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07689472315928,
+    45.07376625156024,
+    14.09434998016832,
+    45.08686911161249
+],
+  "geometry": {"coordinates":[[[14.09434998016832,45.08667159066158],[14.09428373751234,45.08577179478021],[14.09175058734434,45.0858705839459],[14.09168438826254,45.08497078559981],[14.08915127076597,45.0850695118416],[14.08908511525505,45.08416971103225],[14.087818573856,45.08421905032634],[14.08755406134884,45.0806198372336],[14.09135343489169,45.08047178462664],[14.09122107315841,45.07867217992265],[14.08868824100352,45.07877089323409],[14.08875437971159,45.07967069774128],[14.08495505517516,45.07981865597537],[14.08488897760543,45.07891884869974],[14.08235612523634,45.07901740934193],[14.08222406000186,45.07721778925412],[14.08095767154504,45.07726704483133],[14.08082565824554,45.07546742043513],[14.07955930852427,45.07551665890355],[14.07949332644137,45.07461684485986],[14.07822699507858,45.07466606714138],[14.07816103616381,45.07376625156024],[14.07689472315928,45.07381545765543],[14.07709254715257,45.0765149053114],[14.07835892128486,45.07646569645436],[14.07849085866161,45.07826532330222],[14.07975727153308,45.07821609733708],[14.07988926084056,45.08001571987819],[14.08115571245315,45.07996647680352],[14.0812217316788,45.08086628622851],[14.08248820165335,45.08081702696467],[14.08255424405547,45.08171683485187],[14.08508721870754,45.08161826867712],[14.08541767650416,45.0861172896503],[14.08921742907791,45.08596931203522],[14.08928359019109,45.08686911161249],[14.09434998016832,45.08667159066158]]],"type":"Polygon"}
+}

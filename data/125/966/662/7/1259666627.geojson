@@ -1,0 +1,74 @@
+{
+  "id": 1259666627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9,43.15,16.9,43.15",
+    "geom:latitude":43.15,
+    "geom:longitude":16.9,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Selca kod Bogomolja",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191132,
+    "gn:latitude":43.15,
+    "gn:longitude":16.9,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Selca kod Bogomolja",
+    "gn:population":6,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Selce",
+        "Selca",
+        "Selca kod Bogomolja"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191132
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"44224629924f7cc8a17035d89f5a6f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259666627,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1259666627,
+    "wof:lastmodified":1537625836,
+    "wof:name":"Selca kod Bogomolja",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9,
+    43.15,
+    16.9,
+    43.15
+],
+  "geometry": {"coordinates":[16.9,43.15],"type":"Point"}
+}

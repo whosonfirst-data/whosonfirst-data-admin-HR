@@ -1,0 +1,71 @@
+{
+  "id": 1277096341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44528,44.67583,15.44528,44.67583",
+    "geom:latitude":44.67583,
+    "geom:longitude":15.44528,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049291.0",
+    "gn:asciiname":"Alivojvodici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217551,
+    "gn:latitude":44.67583,
+    "gn:longitude":15.44528,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Alivojvodi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alivojvodi\u0107",
+        "Alivojvodi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217551
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a37a9dcfe8c55de9337ddbca598b18d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277096341,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1277096341,
+    "wof:lastmodified":1537625955,
+    "wof:name":"Alivojvodici",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44528,
+    44.67583,
+    15.44528,
+    44.67583
+],
+  "geometry": {"coordinates":[15.44528,44.67583],"type":"Point"}
+}

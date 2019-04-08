@@ -1,0 +1,148 @@
+{
+  "id": 101794609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":977869.164511,
+    "geom:bbox":"14.144676829,45.0768333857,14.1626757127,45.0879815467",
+    "geom:latitude":45.082132,
+    "geom:longitude":14.154789,
+    "gn:population":1479,
+    "iso:country":"HR",
+    "lbl:latitude":45.080701,
+    "lbl:longitude":14.158675,
+    "mps:latitude":45.080701,
+    "mps:longitude":14.158675,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Rabac"
+    ],
+    "name:ces_x_preferred":[
+        "Rabac"
+    ],
+    "name:cze_x_preferred":[
+        "Rabac"
+    ],
+    "name:deu_x_preferred":[
+        "Rabac"
+    ],
+    "name:dut_x_preferred":[
+        "Rabac"
+    ],
+    "name:eng_x_preferred":[
+        "Rabac"
+    ],
+    "name:fra_x_preferred":[
+        "Rabac"
+    ],
+    "name:fre_x_preferred":[
+        "Rabac"
+    ],
+    "name:ger_x_preferred":[
+        "Rabac"
+    ],
+    "name:hbs_x_preferred":[
+        "Rabac"
+    ],
+    "name:hrv_x_preferred":[
+        "Rabac"
+    ],
+    "name:hun_x_preferred":[
+        "Rabac"
+    ],
+    "name:ita_x_preferred":[
+        "Porto Albona"
+    ],
+    "name:nld_x_preferred":[
+        "Rabac"
+    ],
+    "name:nob_x_preferred":[
+        "Rabac"
+    ],
+    "name:nor_x_preferred":[
+        "Rabac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0431\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Rabac"
+    ],
+    "name:spa_x_preferred":[
+        "Rabac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0431\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Rabac"
+    ],
+    "name:unk_x_variant":[
+        "Rabaz"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Istarska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Labin",
+    "qs:la_lc":"*HR1802224",
+    "qs:level":"locality",
+    "qs:loc":"Rabac",
+    "qs:loc_alt":"Rabac",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":191,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192174,
+        "gp:id":849921,
+        "qs:id":1043964,
+        "qs_pg:id":1043964,
+        "wd:id":"Q1018677",
+        "wk:page":"Rabac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"771d39221f702651dbe914597c7e124b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101794609,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":101794609,
+    "wof:lastmodified":1527689323,
+    "wof:name":"Rabac",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":1479,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1446768290474,
+    45.07683338566744,
+    14.16267571267394,
+    45.08798154670779
+],
+  "geometry": {"coordinates":[[[14.16267571267394,45.08308140163587],[14.16227171287301,45.07768291542567],[14.16100537133775,45.07773313647374],[14.16093806838592,45.07683338566744],[14.15967174516504,45.0768835905111],[14.15973902774437,45.07778334225657],[14.15593998462322,45.07793386801376],[14.15600720893008,45.07883362195696],[14.15220808618852,45.07898401313946],[14.15207376266216,45.07718449900761],[14.15080742505421,45.07723459699582],[14.15087456502249,45.07813435530829],[14.14960820498857,45.07818443896815],[14.14967532742452,45.07908419759934],[14.14587617388702,45.07923435979507],[14.14594323803766,45.08013412061734],[14.1446768290474,45.08018414508672],[14.14474387566099,45.08108390622681],[14.1472767323441,45.08098384014977],[14.14747801148627,45.08368311424556],[14.14621152303528,45.08373315772639],[14.14647985346994,45.0873321849495],[14.14774642344577,45.08728213772287],[14.14767931619429,45.08638238278013],[14.14894586373543,45.08633232122202],[14.14881161699338,45.08453281135684],[14.1500781217195,45.08448273640431],[14.14994384558622,45.08268322594171],[14.15627613461749,45.08243263154577],[14.15647785877093,45.08513188224538],[14.15267830810291,45.08528229312662],[14.15287987444412,45.08798154670779],[14.15794618246929,45.08778095707027],[14.15787890931409,45.08688121024818],[14.16041201021983,45.08678082569736],[14.16021008556078,45.08408158715747],[14.16147657178527,45.08403137479877],[14.16140924888606,45.08313162832201],[14.16267571267394,45.08308140163587]]],"type":"Polygon"}
+}

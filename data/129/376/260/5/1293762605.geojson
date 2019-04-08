@@ -1,0 +1,69 @@
+{
+  "id": 1293762605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26222,45.13,16.26222,45.13",
+    "geom:latitude":45.13,
+    "geom:longitude":16.26222,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3200915.0",
+    "gn:asciiname":"Rujevac",
+    "gn:country_code":"HR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191440,
+    "gn:latitude":45.13,
+    "gn:longitude":16.26222,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Rujevac",
+    "gn:population":254,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191440
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f6cdc428766a51a701d6933a23ab752d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293762605,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1293762605,
+    "wof:lastmodified":1536887099,
+    "wof:name":"Rujevac",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":254,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26222000000001,
+    45.13,
+    16.26222000000001,
+    45.13
+],
+  "geometry": {"coordinates":[16.26222000000001,45.13],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226507309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28311,45.78201,16.28311,45.78201",
+    "geom:latitude":45.78201,
+    "geom:longitude":16.28311,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"3201007.0",
+    "gn:asciiname":"Mala Ostrna",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195815,
+    "gn:latitude":45.78201,
+    "gn:longitude":16.28311,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Mala Ostrna",
+    "gn:population":325,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ostrna Mala",
+        "Mala Ostrna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195815
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c08fec83dee2696e73d0de9bac4f955c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226507309,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1226507309,
+    "wof:lastmodified":1537625868,
+    "wof:name":"Mala Ostrna",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":325,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28311,
+    45.78201,
+    16.28311,
+    45.78201
+],
+  "geometry": {"coordinates":[16.28311,45.78201],"type":"Point"}
+}

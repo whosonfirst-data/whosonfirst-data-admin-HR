@@ -1,0 +1,118 @@
+{
+  "id": 101844815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000143,
+    "geom:area_square_m":1216976.620418,
+    "geom:bbox":"16.4620650258,46.3594000596,16.4849377842,46.3741389772",
+    "geom:latitude":46.367269,
+    "geom:longitude":16.47257,
+    "gn:population":2206,
+    "iso:country":"HR",
+    "lbl:latitude":46.3681,
+    "lbl:longitude":16.475973,
+    "mps:latitude":46.3681,
+    "mps:longitude":16.475973,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ivanovec"
+    ],
+    "name:dut_x_preferred":[
+        "Ivanovec"
+    ],
+    "name:eng_x_preferred":[
+        "Ivanovec"
+    ],
+    "name:epo_x_preferred":[
+        "Ivanovec"
+    ],
+    "name:hbs_x_preferred":[
+        "Ivanovec"
+    ],
+    "name:hrv_x_preferred":[
+        "Ivanovec"
+    ],
+    "name:hun_x_preferred":[
+        "Dr\u00e1vaszentiv\u00e1n"
+    ],
+    "name:nld_x_preferred":[
+        "Ivanovec"
+    ],
+    "name:slv_x_preferred":[
+        "Ivanovec"
+    ],
+    "name:spa_x_preferred":[
+        "Ivanovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Ivanovec"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Medimurska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"\u010cakovec",
+    "qs:la_lc":"*HR2000604",
+    "qs:level":"locality",
+    "qs:loc":"Ivanovec",
+    "qs:loc_alt":"Ivanovec",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":102,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199044,
+        "gp:id":848191,
+        "qs:id":1275112,
+        "qs_pg:id":1275112,
+        "wd:id":"Q908872",
+        "wk:page":"Ivanovec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c9b71def020ffff93136faf3a19b42a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844815,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":101844815,
+    "wof:lastmodified":1527642628,
+    "wof:name":"Ivanovec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":2206,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46206502580748,
+    46.35940005961214,
+    16.48493778419277,
+    46.37413897717772
+],
+  "geometry": {"coordinates":[[[16.46832808408641,46.37398238399396],[16.46821945266151,46.37308567685892],[16.46951387608152,46.37300735833855],[16.46940522790624,46.37211065208669],[16.47846594574344,46.37156199544586],[16.47835715210658,46.37066529918286],[16.48353454392407,46.37035144334573],[16.48364342336515,46.37124813353233],[16.48493778419277,46.37116962898267],[16.48439332688577,46.36668617930786],[16.47921629196787,46.36700007335048],[16.47888993150173,46.36430997770719],[16.47371309907965,46.36462360350185],[16.47360440745501,46.36372689761527],[16.47231021222956,46.36380526348086],[16.4719842299196,46.36111513746721],[16.47069009559954,46.36119348315714],[16.47047284046266,46.35940005961214],[16.46788464731964,46.35955669805219],[16.46810181669065,46.36135012766039],[16.46551352409443,46.3615067096614],[16.4658391847463,46.36419685841315],[16.4632507497999,46.36435338700022],[16.4633592698579,46.36525010501384],[16.46206502580748,46.36532834738182],[16.46217352911657,46.36622506627668],[16.46346779461436,46.36614682239406],[16.4643361618588,46.37332053864225],[16.46563059554916,46.37324226701077],[16.46573918406369,46.37413897717772],[16.46832808408641,46.37398238399396]],[[16.46745916438402,46.36680870918389],[16.47263623688343,46.36649538379015],[16.47296230388901,46.36918549839606],[16.47166797655353,46.36926385773603],[16.47177665351768,46.37016056285455],[16.47048230130594,46.37023890808319],[16.47059096152418,46.37113561408506],[16.46541343262703,46.371448844778],[16.46508772350569,46.36875870668047],[16.46638204650964,46.36868042699729],[16.46627346475452,46.36778371454704],[16.46756776288646,46.36770542075163],[16.46745916438402,46.36680870918389]]],"type":"Polygon"}
+}

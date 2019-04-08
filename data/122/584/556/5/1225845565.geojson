@@ -1,0 +1,75 @@
+{
+  "id": 1225845565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01746,44.97272,14.01746,44.97272",
+    "geom:latitude":44.97272,
+    "geom:longitude":14.01746,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054808.0",
+    "gn:asciiname":"Krnica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197181,
+    "gn:latitude":44.97272,
+    "gn:longitude":14.01746,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Krnica",
+    "gn:population":286,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carnizza",
+        "Carnizza d\u2019Arsa",
+        "Krnica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197181
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f757265be3f263e7daea3eb876717dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225845565,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1225845565,
+    "wof:lastmodified":1537625879,
+    "wof:name":"Krnica",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":286,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.01746,
+    44.97272,
+    14.01746,
+    44.97272
+],
+  "geometry": {"coordinates":[14.01746,44.97272],"type":"Point"}
+}

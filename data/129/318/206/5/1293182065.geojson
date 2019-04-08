@@ -1,0 +1,75 @@
+{
+  "id": 1293182065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.62694,45.35389,17.62694,45.35389",
+    "geom:latitude":45.35389,
+    "geom:longitude":17.62694,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3190588.0",
+    "gn:asciiname":"Emovacki Lug",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3235802,
+    "gn:latitude":45.35389,
+    "gn:longitude":17.62694,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Emova\u010dki Lug",
+    "gn:population":32,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaguplije Emova\u010dki Lug",
+        "Emova\u010dki Lug"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3235802,
+        "wk:page":"Emova%C4%8Dki_Lug"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1fca5ca15339d92ccd52e97763b231bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293182065,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1293182065,
+    "wof:lastmodified":1537625959,
+    "wof:name":"Emovacki Lug",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.62694,
+    45.35389,
+    17.62694,
+    45.35389
+],
+  "geometry": {"coordinates":[17.62694,45.35389],"type":"Point"}
+}

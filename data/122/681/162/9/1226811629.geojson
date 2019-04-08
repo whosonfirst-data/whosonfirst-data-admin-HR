@@ -1,0 +1,73 @@
+{
+  "id": 1226811629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11056,44.41194,16.11056,44.41194",
+    "geom:latitude":44.41194,
+    "geom:longitude":16.11056,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Donja Suvaja",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201617,
+    "gn:latitude":44.41194,
+    "gn:longitude":16.11056,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Donja Suvaja",
+    "gn:population":53,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donja Savaja",
+        "Donja Suvaja"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201617
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0276243ed3e16a3e079129b320824b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226811629,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1226811629,
+    "wof:lastmodified":1537625917,
+    "wof:name":"Donja Suvaja",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11056,
+    44.41194,
+    16.11056,
+    44.41194
+],
+  "geometry": {"coordinates":[16.11056,44.41194],"type":"Point"}
+}

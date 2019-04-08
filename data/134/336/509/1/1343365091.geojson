@@ -1,0 +1,65 @@
+{
+  "id": 1343365091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.53878,45.3973,13.53878,45.3973",
+    "geom:latitude":45.3973,
+    "geom:longitude":13.53878,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pelegrin",
+    "gn:country_code":"HR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343462,
+    "gn:latitude":45.3973,
+    "gn:longitude":13.53878,
+    "gn:modification_date":"2013-11-20",
+    "gn:name":"Pelegrin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343462
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"592d38574487ce42519be612797f2483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343365091,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1343365091,
+    "wof:lastmodified":1536883148,
+    "wof:name":"Pelegrin",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.53878,
+    45.3973,
+    13.53878,
+    45.3973
+],
+  "geometry": {"coordinates":[13.53878,45.3973],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1242946171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.26944,43.29306,17.26944,43.29306",
+    "geom:latitude":43.29306,
+    "geom:longitude":17.26944,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Arambasici",
+    "gn:country_code":"HR",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283350,
+    "gn:latitude":43.29306,
+    "gn:longitude":17.26944,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Aramba\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283350
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2008d6f8ef35af4dde705b421ba90dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242946171,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1242946171,
+    "wof:lastmodified":1537028712,
+    "wof:name":"Arambasici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.26944,
+    43.29306,
+    17.26944,
+    43.29306
+],
+  "geometry": {"coordinates":[17.26944,43.29306],"type":"Point"}
+}

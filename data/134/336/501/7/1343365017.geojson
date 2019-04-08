@@ -1,0 +1,67 @@
+{
+  "id": 1343365017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78152,45.17892,13.78152,45.17892",
+    "geom:latitude":45.17892,
+    "geom:longitude":13.78152,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"11054818.0",
+    "gn:asciiname":"Zgrabljici",
+    "gn:country_code":"HR",
+    "gn:dem":254,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11071352,
+    "gn:latitude":45.17892,
+    "gn:longitude":13.78152,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Zgrabljici",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11071352
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"05c2816c488040d5f4ee9e19887274d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343365017,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1343365017,
+    "wof:lastmodified":1536883256,
+    "wof:name":"Zgrabljici",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78152,
+    45.17892,
+    13.78152,
+    45.17892
+],
+  "geometry": {"coordinates":[13.78152,45.17892],"type":"Point"}
+}

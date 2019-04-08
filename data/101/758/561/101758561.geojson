@@ -1,0 +1,136 @@
+{
+  "id": 101758561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000178,
+    "geom:area_square_m":1591392.660995,
+    "geom:bbox":"16.3515839176,43.549595843,16.3703477911,43.5642184011",
+    "geom:latitude":43.555849,
+    "geom:longitude":16.360687,
+    "iso:country":"HR",
+    "lbl:latitude":43.555995,
+    "lbl:longitude":16.360509,
+    "mps:latitude":43.555995,
+    "mps:longitude":16.360509,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:bos_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:cat_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:dut_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:eng_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:fre_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:ger_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:hbs_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:hun_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:ita_x_preferred":[
+        "Castel Vitturi"
+    ],
+    "name:por_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:sco_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:spa_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:sqi_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b \u041b\u0443\u043a\u0448\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Ka\u0161tel Luk\u0161i\u0107"
+    ],
+    "name:unk_x_variant":[
+        "Luk\u0161i\u0107"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Klis",
+    "qs:la_lc":"*HR1701929",
+    "qs:level":"locality",
+    "qs:loc":"Ka\u0161tel Luk\u0161i\u0107",
+    "qs:loc_alt":"Kastel Luksic",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":184,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198215,
+        "gp:id":848372,
+        "qs:id":235330,
+        "qs_pg:id":235330,
+        "wd:id":"Q2449031",
+        "wk:page":"Ka\u0161tel Luk\u0161i\u0107"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6928f618a096390a56f011c1fdbb0d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101758561,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101758561,
+    "wof:lastmodified":1527689302,
+    "wof:name":"Ka\u0161tel Luk\u0161i\u0107",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3515839175551,
+    43.54959584301889,
+    16.37034779109149,
+    43.56421840106452
+],
+  "geometry": {"coordinates":[[[16.37034779109149,43.55682533316531],[16.37020320128863,43.54959584301889],[16.36780559000488,43.54974492247572],[16.3679041215924,43.55064360207189],[16.36421110071927,43.55087300457956],[16.36411262555737,43.54997432087754],[16.36041963508467,43.5502035865286],[16.36051805381953,43.5511022743342],[16.35559395082521,43.55140776083306],[16.35549560732937,43.55050906755969],[16.35282614445993,43.55067449991105],[16.3515839175551,43.55798983612834],[16.35258896575266,43.55792758029941],[16.35268728511903,43.55882627134969],[16.35514966074243,43.55867362424726],[16.35554312914303,43.5622683696173],[16.35308060297251,43.56242102765191],[16.35327728613578,43.56421840106452],[16.35697118398082,43.56398938368062],[16.35677438789401,43.56219201846909],[16.3641618796849,43.5617336017512],[16.36406337479286,43.56083492616801],[16.36529459448241,43.56075847311291],[16.36499904763286,43.55806244572739],[16.3674613654328,43.55790950357226],[16.36736282027982,43.55701082893393],[16.37034779109149,43.55682533316531]]],"type":"Polygon"}
+}

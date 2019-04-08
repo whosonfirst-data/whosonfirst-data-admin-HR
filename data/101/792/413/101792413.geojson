@@ -1,0 +1,149 @@
+{
+  "id": 101792413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00015,
+    "geom:area_square_m":1297016.566901,
+    "geom:bbox":"18.5250774816,45.6061986506,18.5518231743,45.6199564104",
+    "geom:latitude":45.612464,
+    "geom:longitude":18.537236,
+    "gn:population":2451,
+    "iso:country":"HR",
+    "lbl:latitude":45.61311,
+    "lbl:longitude":18.535209,
+    "mps:latitude":45.61311,
+    "mps:longitude":18.535209,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:bos_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:dut_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:eng_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:fra_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:fre_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:hbs_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:hrv_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:ita_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:nld_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:pol_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Petrijevci"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Petrijevci"
+    ],
+    "name:slv_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:spa_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:sqi_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0438\u0458\u0435\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:und_x_preferred":[
+        "Petrijevci"
+    ],
+    "name:unk_x_variant":[
+        "Petrievcze"
+    ],
+    "name:war_x_preferred":[
+        "Petrijevci"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Petrijevci",
+    "qs:la_lc":"*HR1403271",
+    "qs:level":"locality",
+    "qs:loc":"Petrijevci",
+    "qs:loc_alt":"Petrijevci",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115ca446-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3193424,
+        "gp:id":849591,
+        "qs:id":147148,
+        "qs_pg:id":147148,
+        "wd:id":"Q1280634",
+        "wk:page":"Petrijevci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0c9753cd3a543c29d3f0d580380dd3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101792413,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101792413,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527714634,
+    "wof:name":"Petrijevci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":2451,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52507748164584,
+    45.60619865064024,
+    18.55182317427057,
+    45.61995641039141
+],
+  "geometry": {"coordinates":[[[18.53949566732342,45.61985331179403],[18.53935547585769,45.61895904075692],[18.54062930502658,45.61885592879884],[18.53992833497142,45.6143845715016],[18.54120205764985,45.61428145397997],[18.5410618610963,45.61338718209765],[18.54488294191322,45.61307774353452],[18.54474269003305,45.6121834767095],[18.54601635456584,45.61208030185702],[18.54587608822226,45.6111860361907],[18.54714972800434,45.61108284798144],[18.54700944719906,45.61018858347416],[18.54828306223112,45.61008538190845],[18.54814276696595,45.60919111855992],[18.55068994320834,45.60898467341167],[18.55054961305979,45.60809041317282],[18.55182317427057,45.60798716959096],[18.5515424910302,45.60619865064024],[18.54899544597851,45.60640511469552],[18.54913574376843,45.60729937846827],[18.54786219433487,45.6074025894888],[18.54800247766701,45.60829685442008],[18.54672890348667,45.60840005208524],[18.54686917236018,45.60929431817539],[18.54050113450847,45.60981008665999],[18.54022080698496,45.6080215341953],[18.5364000549996,45.60833079992017],[18.53611987387063,45.60654223260366],[18.53102564086652,45.60695435704116],[18.53144567637725,45.60963723019449],[18.52507748164584,45.61015207054425],[18.52521740324516,45.61104636974443],[18.53031204937605,45.61063452029498],[18.53073209506016,45.61331738980391],[18.52945837870448,45.61342038096637],[18.53015847179483,45.61789182407938],[18.53270610453302,45.61768580697736],[18.53284618189321,45.61858008933592],[18.53539383823511,45.61837400710141],[18.53553396242825,45.61926828477448],[18.53808164236779,45.61906213740565],[18.53822181339672,45.61995641039141],[18.53949566732342,45.61985331179403]]],"type":"Polygon"}
+}

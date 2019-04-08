@@ -1,0 +1,70 @@
+{
+  "id": 1310466739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.80589,45.92918,15.80589,45.92918",
+    "geom:latitude":45.92918,
+    "geom:longitude":15.80589,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"3186780.0",
+    "gn:asciiname":"Kupljenovo",
+    "gn:country_code":"HR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196917,
+    "gn:latitude":45.92918,
+    "gn:longitude":15.80589,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Kupljenovo",
+    "gn:population":704,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196917,
+        "wk:page":"Kupljenovo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"574e7027910bc0988c59ac8e060e613f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310466739,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1310466739,
+    "wof:lastmodified":1537563294,
+    "wof:name":"Kupljenovo",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":704,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.80589,
+    45.92918,
+    15.80589,
+    45.92918
+],
+  "geometry": {"coordinates":[15.80589,45.92918],"type":"Point"}
+}

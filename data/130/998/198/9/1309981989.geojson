@@ -1,0 +1,66 @@
+{
+  "id": 1309981989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58444,45.14889,18.58444,45.14889",
+    "geom:latitude":45.14889,
+    "geom:longitude":18.58444,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"11054527.0",
+    "gn:asciiname":"Nozice",
+    "gn:country_code":"HR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3241322,
+    "gn:latitude":45.14889,
+    "gn:longitude":18.58444,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"No\u017eice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3241322
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"acafac5af7b88067d6c6e6d59f848fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309981989,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":1309981989,
+    "wof:lastmodified":1536677256,
+    "wof:name":"Nozice",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58444,
+    45.14889,
+    18.58444,
+    45.14889
+],
+  "geometry": {"coordinates":[18.58444,45.14889],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259372027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47028,45.75556,18.47028,45.75556",
+    "geom:latitude":45.75556,
+    "geom:longitude":18.47028,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"11054474.0",
+    "gn:asciiname":"Baranjsko Petrovo Selo",
+    "gn:country_code":"HR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204504,
+    "gn:latitude":45.75556,
+    "gn:longitude":18.47028,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Baranjsko Petrovo Selo",
+    "gn:population":525,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204504,
+        "wk:page":"Baranjsko_Petrovo_Selo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b69dc1e596cb527e640a211d4d5ece85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259372027,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1259372027,
+    "wof:lastmodified":1537563311,
+    "wof:name":"Baranjsko Petrovo Selo",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":525,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47028,
+    45.75556,
+    18.47028,
+    45.75556
+],
+  "geometry": {"coordinates":[18.47028,45.75556],"type":"Point"}
+}

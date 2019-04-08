@@ -1,0 +1,71 @@
+{
+  "id": 1243385913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75889,44.57639,15.75889,44.57639",
+    "geom:latitude":44.57639,
+    "geom:longitude":15.75889,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049294.0",
+    "gn:asciiname":"Gornji Josan",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284351,
+    "gn:latitude":44.57639,
+    "gn:longitude":15.75889,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Gornji Jo\u0161an",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornji Jo\u0161ane",
+        "Gornji Jo\u0161an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284351
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7629e11c6e8df9d40f2182fe72679ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243385913,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1243385913,
+    "wof:lastmodified":1537625964,
+    "wof:name":"Gornji Josan",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75889,
+    44.57639,
+    15.75889,
+    44.57639
+],
+  "geometry": {"coordinates":[15.75889,44.57639],"type":"Point"}
+}

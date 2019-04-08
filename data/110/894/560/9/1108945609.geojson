@@ -1,0 +1,61 @@
+{
+  "id": 1108945609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0033791962,45.7671494901,16.0033791962,45.7671494901",
+    "geom:latitude":45.767149,
+    "geom:longitude":16.003379,
+    "iso:country":"HR",
+    "lbl:latitude":45.767149,
+    "lbl:longitude":16.003379,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751659,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"HR",
+    "wof:created":1491365180,
+    "wof:geomhash":"6367d5497a5dc229f3f795832657b2a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101751659,
+            "neighbourhood_id":1108945609,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1108945609,
+    "wof:lastmodified":1492123774,
+    "wof:name":"Novi Zagreb-istok",
+    "wof:parent_id":101751659,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00337919620009,
+    45.76714949010027,
+    16.00337919620009,
+    45.76714949010027
+],
+  "geometry": {"coordinates":[16.00337919620009,45.76714949010027],"type":"Point"}
+}

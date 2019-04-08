@@ -1,0 +1,124 @@
+{
+  "id": 101795801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:area_square_m":1057733.969322,
+    "geom:bbox":"13.8616951916,44.9184956749,13.8753854662,44.939863741",
+    "geom:latitude":44.929441,
+    "geom:longitude":13.867627,
+    "gn:population":1356,
+    "iso:country":"HR",
+    "lbl:latitude":44.931927,
+    "lbl:longitude":13.868301,
+    "mps:latitude":44.931927,
+    "mps:longitude":13.868301,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Gali\u017eana"
+    ],
+    "name:dut_x_preferred":[
+        "Gali\u017eana"
+    ],
+    "name:eng_x_preferred":[
+        "Gali\u017eana"
+    ],
+    "name:fra_x_preferred":[
+        "Gali\u017eana"
+    ],
+    "name:fre_x_preferred":[
+        "Gali\u017eana"
+    ],
+    "name:hbs_x_preferred":[
+        "Gali\u017eana"
+    ],
+    "name:hrv_x_preferred":[
+        "Gali\u017eana"
+    ],
+    "name:hun_x_preferred":[
+        "Gali\u017eana"
+    ],
+    "name:ita_x_preferred":[
+        "Gallesano"
+    ],
+    "name:nld_x_preferred":[
+        "Gali\u017eana"
+    ],
+    "name:slv_x_preferred":[
+        "Gali\u017eana"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u043b\u0438\u0436\u0430\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gali\u017eana"
+    ],
+    "name:unk_x_variant":[
+        "Gale\u017ean"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Istarska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Vodnjan",
+    "qs:la_lc":"*HR1805029",
+    "qs:level":"locality",
+    "qs:loc":"Gali\u017eana",
+    "qs:loc_alt":"Galizana",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200734,
+        "gp:id":847696,
+        "qs:id":208431,
+        "qs_pg:id":208431,
+        "wd:id":"Q763761",
+        "wk:page":"Gali\u017eana"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3cbcfe3af2244c77c2e47ea76ce27f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101795801,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":101795801,
+    "wof:lastmodified":1527714612,
+    "wof:name":"Gali\u017eana",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":1356,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86169519157244,
+    44.91849567493955,
+    13.87538546617031,
+    44.93986374104259
+],
+  "geometry": {"coordinates":[[[13.87455908258369,44.93981700825378],[13.87443424208237,44.93801690717896],[13.87190747538409,44.93811035404576],[13.8715956228192,44.93361008181944],[13.87538546617031,44.93346990174336],[13.87532304279699,44.93256984805362],[13.87405978383521,44.93261658909967],[13.87381019770424,44.92901636466394],[13.87128383608905,44.92910979411727],[13.87122148664167,44.92820973471891],[13.86869515792654,44.92830310153789],[13.86863285160928,44.92740303978047],[13.86736970465302,44.92744969948541],[13.86680924835849,44.91934910796977],[13.86554628170865,44.91939574463055],[13.86548404217177,44.91849567493955],[13.86169519157244,44.91863549099361],[13.86213049840234,44.92493598405281],[13.86465668410631,44.9248427764158],[13.86490565061808,44.92844303759068],[13.86364247772093,44.92848965249459],[13.86414037488231,44.93569015207788],[13.86793037395762,44.93555024083793],[13.86799268370095,44.93645029789332],[13.86925603318571,44.93640362949208],[13.86938070108198,44.93820374000711],[13.87064408918332,44.93815705463953],[13.8707064473391,44.93905710809889],[13.8732332583578,44.93896368994336],[13.87329565966701,44.93986374104259],[13.87455908258369,44.93981700825378]]],"type":"Polygon"}
+}

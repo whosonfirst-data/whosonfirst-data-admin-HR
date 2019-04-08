@@ -1,0 +1,135 @@
+{
+  "id": 1125876827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88361,45.08806,13.88361,45.08806",
+    "geom:latitude":45.08806,
+    "geom:longitude":13.88361,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"HR",
+    "lbl:latitude":45.08806,
+    "lbl:longitude":13.88361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Svetvin\u010denat"
+    ],
+    "name:dut_x_preferred":[
+        "Svetvin\u010denat"
+    ],
+    "name:eng_x_preferred":[
+        "Svetvin\u010denat"
+    ],
+    "name:fre_x_preferred":[
+        "Svetvin\u010denat"
+    ],
+    "name:ger_x_preferred":[
+        "Svetvin\u010denat"
+    ],
+    "name:hrv_x_preferred":[
+        "Svetvin\u010denat"
+    ],
+    "name:hun_x_preferred":[
+        "Svetvin\u010denat"
+    ],
+    "name:ita_x_preferred":[
+        "Sanvincenti"
+    ],
+    "name:lat_x_preferred":[
+        "Fanum Sancti Vincentii"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Svetvin\u010denat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0432\u0438\u043d\u0447\u0435\u043d\u0430\u0442"
+    ],
+    "name:slv_x_preferred":[
+        "Svetvin\u010denat"
+    ],
+    "name:spa_x_preferred":[
+        "Svetvin\u010denat"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0432\u0438\u043d\u0447\u0435\u043d\u0430\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Sanvincenti"
+    ],
+    "name:war_x_preferred":[
+        "Svetvin\u010denat"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3189267,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Svetvin\u010denat",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Istarska",
+    "qs_pg:photos":687,
+    "qs_pg:photos_1k":139,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":687,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":898554,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850611,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Istarska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189267,
+        "gp:id":850611,
+        "qs_pg:id":898554,
+        "wd:id":"Q568984"
+    },
+    "wof:country":"HR",
+    "wof:created":1497294583,
+    "wof:geomhash":"e5d71a5a3ff0244f882f0e5f3ad378e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125876827,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1125876827,
+    "wof:lastmodified":1514447661,
+    "wof:name":"Svetvin\u010denat",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88361,
+    45.08806,
+    13.88361,
+    45.08806
+],
+  "geometry": {"coordinates":[13.88361,45.08806],"type":"Point"}
+}

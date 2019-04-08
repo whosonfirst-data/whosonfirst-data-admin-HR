@@ -1,0 +1,155 @@
+{
+  "id": 101791259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000122,
+    "geom:area_square_m":1047455.442676,
+    "geom:bbox":"16.9569837804,46.1422097925,16.9750339986,46.1647836112",
+    "geom:latitude":46.153874,
+    "geom:longitude":16.965835,
+    "gn:population":1297,
+    "iso:country":"HR",
+    "lbl:latitude":46.157253,
+    "lbl:longitude":16.963715,
+    "mps:latitude":46.157253,
+    "mps:longitude":16.963715,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0425\u043b\u0435\u0431\u0456\u043d\u044d"
+    ],
+    "name:bos_x_preferred":[
+        "Hlebine"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043b\u0435\u0431\u0438\u043d\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Hlebine"
+    ],
+    "name:dut_x_preferred":[
+        "Hlebine"
+    ],
+    "name:eng_x_preferred":[
+        "Hlebine"
+    ],
+    "name:fra_x_preferred":[
+        "Hlebine"
+    ],
+    "name:fre_x_preferred":[
+        "Hlebine"
+    ],
+    "name:ger_x_preferred":[
+        "Hlebine"
+    ],
+    "name:hbs_x_preferred":[
+        "Hlebine"
+    ],
+    "name:hrv_x_preferred":[
+        "Hlebine"
+    ],
+    "name:hun_x_preferred":[
+        "Hlebine"
+    ],
+    "name:ita_x_preferred":[
+        "Hlebine"
+    ],
+    "name:nld_x_preferred":[
+        "Hlebine"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Hlebine"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Hlebine"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043b\u0435\u0431\u0438\u043d\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Hlebine"
+    ],
+    "name:spa_x_preferred":[
+        "Hlebine"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043b\u0435\u0431\u0438\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hlebine"
+    ],
+    "name:und_x_preferred":[
+        "Hlebine"
+    ],
+    "name:war_x_preferred":[
+        "Hlebine"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Koprivnicko-kri\u017eevacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Hlebine",
+    "qs:la_lc":"*HR0601457",
+    "qs:level":"locality",
+    "qs:loc":"Hlebine",
+    "qs:loc_alt":"Hlebine",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":159,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115bebe6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3199376,
+        "gp:id":848090,
+        "qs:id":1285641,
+        "qs_pg:id":1285641,
+        "wd:id":"Q257842",
+        "wk:page":"Hlebine"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fa1a7857f21c95f6c693f9958c22250b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791259,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":101791259,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527641954,
+    "wof:name":"Hlebine",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":1297,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.95698378036025,
+    46.14220979245465,
+    16.97503399861114,
+    46.16478361123916
+],
+  "geometry": {"coordinates":[[[16.96541343240222,46.16469934985639],[16.96494848340842,46.16111452665848],[16.96623722279475,46.16103025621561],[16.96612097688939,46.16013405036153],[16.96740969145486,46.1600497659968],[16.96694467321674,46.15646494236097],[16.96823329943294,46.15638064893881],[16.96788452482963,46.15369202903412],[16.9704616392965,46.15352340529444],[16.97034534877105,46.15262720056057],[16.97292240632561,46.15245851790337],[16.97280607847085,46.15156231574235],[16.97409458061315,46.15147795272605],[16.97374556361547,46.14878934708196],[16.97503399861114,46.14870497339348],[16.97480130334225,46.14691256951858],[16.97222451436943,46.14708129486871],[16.97245712497647,46.14887370523195],[16.96859178720609,46.14912668644888],[16.9682430693025,46.14643805530523],[16.9695314553698,46.14635374863462],[16.96929895947812,46.1445613277578],[16.96801061573819,46.14464563118656],[16.96789439646608,46.14374941812054],[16.96531774039323,46.14391797512496],[16.96520156845168,46.14302175814697],[16.96391325612018,46.14310601172372],[16.96379711034416,46.14220979245465],[16.96122051709324,46.14237824975783],[16.96133662054632,46.14327447226526],[16.96262494015127,46.14319024976305],[16.96274106976864,46.14408646998021],[16.96402940689984,46.14400223032118],[16.96414556268314,46.14489844824794],[16.96672226835847,46.14472991907792],[16.9670708927232,46.14741855911046],[16.96578247821088,46.1475028363252],[16.96624729612449,46.15108768678931],[16.96495879330126,46.15117195494656],[16.96530739579765,46.153860590612],[16.96015309405863,46.15419752727985],[16.96038535136734,46.15598996066331],[16.95909672448818,46.15607415921681],[16.95932895946112,46.15786659315802],[16.95804028659188,46.157950779408],[16.95827249922394,46.15974321390712],[16.95698378036025,46.15982738785283],[16.95709987300148,46.16072360571644],[16.96225481134616,46.1603868101995],[16.9626033734661,46.16307544033651],[16.96389216249679,46.1629911977389],[16.96412460464694,46.16478361123916],[16.96541343240222,46.16469934985639]]],"type":"Polygon"}
+}

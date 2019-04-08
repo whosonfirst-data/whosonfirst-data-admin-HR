@@ -1,0 +1,71 @@
+{
+  "id": 1242743533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.77417,43.96861,15.77417,43.96861",
+    "geom:latitude":43.96861,
+    "geom:longitude":15.77417,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11054326.0",
+    "gn:asciiname":"Lisane Ostrovicke",
+    "gn:country_code":"HR",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3196464,
+    "gn:latitude":43.96861,
+    "gn:longitude":15.77417,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Li\u0161ane Ostrovi\u010dke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ostrovi\u010dke-Li\u0161ane",
+        "Li\u0161ane Ostrovi\u010dke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196464,
+        "wk:page":"Li%C5%A1ane_Ostrovi%C4%8Dke"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b3eeef03ce98c82a3dd968510a27132d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242743533,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1242743533,
+    "wof:lastmodified":1537625872,
+    "wof:name":"Lisane Ostrovicke",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77417,
+    43.96861,
+    15.77417,
+    43.96861
+],
+  "geometry": {"coordinates":[15.77417,43.96861],"type":"Point"}
+}

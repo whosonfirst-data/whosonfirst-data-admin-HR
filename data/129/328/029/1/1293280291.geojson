@@ -1,0 +1,66 @@
+{
+  "id": 1293280291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.52861,45.39528,17.52861,45.39528",
+    "geom:latitude":45.39528,
+    "geom:longitude":17.52861,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049472.0",
+    "gn:asciiname":"Slobostina",
+    "gn:country_code":"HR",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3190543,
+    "gn:latitude":45.39528,
+    "gn:longitude":17.52861,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Slobo\u0161tina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190543
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1dae7db8dc28787e423c4bd6b6b7ffa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293280291,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1293280291,
+    "wof:lastmodified":1537082574,
+    "wof:name":"Slobostina",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52861,
+    45.39528,
+    17.52861,
+    45.39528
+],
+  "geometry": {"coordinates":[17.52861,45.39528],"type":"Point"}
+}

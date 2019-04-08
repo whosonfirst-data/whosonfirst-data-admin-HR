@@ -1,0 +1,109 @@
+{
+  "id": 1125922709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.64028,43.13,16.64028,43.13",
+    "geom:latitude":43.13,
+    "geom:longitude":16.64028,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":39,
+    "iso:country":"HR",
+    "lbl:latitude":43.13,
+    "lbl:longitude":16.64028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Ivan Dolac"
+    ],
+    "name:eng_x_preferred":[
+        "Ivan Dolac"
+    ],
+    "name:hrv_x_preferred":[
+        "Ivan Dolac"
+    ],
+    "name:hun_x_preferred":[
+        "Ivan Dolac"
+    ],
+    "name:slv_x_preferred":[
+        "Ivan Dolac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0432\u0430\u043d \u0414\u043e\u043b\u0430\u0446"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3215784,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ivan Dolac",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Splitsko-Dalmatinska",
+    "qs_pg:photos":70,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":70,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":484240,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":55852675,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Splitsko-Dalmatinska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215784,
+        "gp:id":55852675,
+        "qs_pg:id":484240,
+        "wd:id":"Q14699291"
+    },
+    "wof:country":"HR",
+    "wof:created":1497296537,
+    "wof:geomhash":"13bd413bced55971f79e7230f80040f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125922709,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1125922709,
+    "wof:lastmodified":1514447464,
+    "wof:name":"Ivan Dolac",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64028,
+    43.13,
+    16.64028,
+    43.13
+],
+  "geometry": {"coordinates":[16.64028,43.13],"type":"Point"}
+}

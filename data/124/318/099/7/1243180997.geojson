@@ -1,0 +1,69 @@
+{
+  "id": 1243180997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.85306,45.22361,17.85306,45.22361",
+    "geom:latitude":45.22361,
+    "geom:longitude":17.85306,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049504.0",
+    "gn:asciiname":"Grizici",
+    "gn:country_code":"HR",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199556,
+    "gn:latitude":45.22361,
+    "gn:longitude":17.85306,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Gri\u017ei\u0107i",
+    "gn:population":120,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199556
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"00bc3809cf7f65fa03b31bf6034b74e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243180997,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1243180997,
+    "wof:lastmodified":1536691319,
+    "wof:name":"Grizici",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":120,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.85306,
+    45.22361,
+    17.85306,
+    45.22361
+],
+  "geometry": {"coordinates":[17.85306,45.22361],"type":"Point"}
+}

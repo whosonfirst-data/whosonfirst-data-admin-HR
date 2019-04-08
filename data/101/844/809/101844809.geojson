@@ -1,0 +1,99 @@
+{
+  "id": 101844809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000134,
+    "geom:area_square_m":1157356.573847,
+    "geom:bbox":"18.6665087034,45.5156993574,18.6816296592,45.5346852199",
+    "geom:latitude":45.523395,
+    "geom:longitude":18.674059,
+    "gn:population":1254,
+    "iso:country":"HR",
+    "lbl:latitude":45.521013,
+    "lbl:longitude":18.674803,
+    "mps:latitude":45.521013,
+    "mps:longitude":18.674803,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brijest"
+    ],
+    "name:fra_x_preferred":[
+        "Brijest"
+    ],
+    "name:hbs_x_preferred":[
+        "Brijest"
+    ],
+    "name:hrv_x_preferred":[
+        "Brijest"
+    ],
+    "name:slv_x_preferred":[
+        "Brijest"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0438\u0458\u0435\u0441\u0442"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Osijek",
+    "qs:la_lc":"*HR1403123",
+    "qs:level":"locality",
+    "qs:loc":"Brijest",
+    "qs:loc_alt":"Brijest",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315388,
+        "gp:id":55854262,
+        "qs:id":466671,
+        "qs_pg:id":466671,
+        "wd:id":"Q772586"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e14b87d450e96b01b46c4421ce21d262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844809,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101844809,
+    "wof:lastmodified":1527642630,
+    "wof:name":"Brijest",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":1254,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66650870337918,
+    45.51569935742839,
+    18.68162965923125,
+    45.53468521985332
+],
+  "geometry": {"coordinates":[[[18.67556339988147,45.53447581156513],[18.67527927710194,45.53268759310947],[18.67655091034135,45.53258286999858],[18.67555652826815,45.52632409390776],[18.67682801482613,45.52621936934099],[18.6765439192817,45.52443114431406],[18.68162965923125,45.52401210910114],[18.68091911942594,45.51954157194984],[18.67837646141362,45.51975110035727],[18.67795033182637,45.51706875656572],[18.675407778269,45.51727821204162],[18.67526578776767,45.51638409188843],[18.67272325739157,45.51659348233193],[18.67258131355266,45.51569935742839],[18.66749628172806,45.51611794716814],[18.66778001287668,45.51790621194812],[18.66650870337918,45.51801082514709],[18.66693428430136,45.52069322220325],[18.67074838260731,45.52037931904215],[18.67202599943408,45.52842641356142],[18.67075445475473,45.52853108097588],[18.67160634854883,45.53389578633352],[18.6728780152248,45.53379110707891],[18.67302003895998,45.53468521985332],[18.67556339988147,45.53447581156513]]],"type":"Polygon"}
+}

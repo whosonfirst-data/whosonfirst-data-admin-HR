@@ -1,0 +1,180 @@
+{
+  "id": 101791313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:area_square_m":937711.970799,
+    "geom:bbox":"16.4148642985,46.2032048314,16.4383098015,46.2172015725",
+    "geom:latitude":46.210124,
+    "geom:longitude":16.424799,
+    "iso:country":"HR",
+    "lbl:latitude":46.209421,
+    "lbl:longitude":16.424,
+    "mps:latitude":46.209421,
+    "mps:longitude":16.424,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:ces_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:chi_x_preferred":[
+        "\u74e6\u62c9\u65e5\u4e01\u6258\u666e\u5229\u91c7"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a4\u0627\u0631\u0627\u0698\u062f\u06cc\u0646\u0633\u06a9\u06ce \u062a\u06c6\u067e\u0644\u06cc\u062a\u0633\u06ce"
+    ],
+    "name:cze_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:deu_x_preferred":[
+        "Vara\u017edinske toplice"
+    ],
+    "name:dut_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:eng_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:epo_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0631\u0627\u0698\u062f\u06cc\u0646\u0633\u06a9\u0647 \u062a\u067e\u0644\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:fre_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:ger_x_preferred":[
+        "Vara\u017edinske toplice"
+    ],
+    "name:hrv_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:hun_x_preferred":[
+        "Varasdf\u00fcrd\u0151"
+    ],
+    "name:ita_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30e9\u30ba\u30c7\u30a3\u30f3\u30b9\u30b1\u30fb\u30c8\u30d7\u30ea\u30c4\u30a7"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0627\u0631\u0627\u0698\u062f\u06cc\u0646\u0633\u06a9\u0647 \u062a\u067e\u0644\u06cc\u062a\u0633\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:rum_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0430\u0436\u0434\u0438\u043d\u0441\u043a\u0435-\u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:slo_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:slv_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0440\u0430\u0436\u0434\u0438\u043d\u0441\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:srp_x_variant":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:swe_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u0440\u0430\u0436\u0434\u0438\u043d\u0441\u043a\u0435-\u0422\u043e\u043f\u043b\u0438\u0442\u0441\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0440\u0430\u0436\u0434\u0438\u043d\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:und_x_colloquial":[
+        "Varazdinske Toplice"
+    ],
+    "name:und_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:unk_x_variant":[
+        "Aquae Lasae"
+    ],
+    "name:war_x_preferred":[
+        "Vara\u017edinske Toplice"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u62c9\u65e5\u4e01\u6258\u666e\u5229\u91c7"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vara\u017edinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Vara\u017edinske Toplice",
+    "qs:la_lc":"*HR0504731",
+    "qs:level":"locality",
+    "qs:loc":"Vara\u017edinske Toplice",
+    "qs:loc_alt":"Varazdinske Toplice",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":46.208056,
+    "wd:longitude":16.421389,
+    "wd:wordcount":406,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115d3ffa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3188380,
+        "gp:id":850804,
+        "qs:id":234529,
+        "wd:id":"Q326962",
+        "wk:page":"Vara\u017edinske Toplice"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bae662d4c32fa35e97fb5656112153de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791313,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":101791313,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527641955,
+    "wof:name":"Vara\u017edinske Toplice",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41486429848862,
+    46.20320483141467,
+    16.4383098014805,
+    46.21720157248308
+],
+  "geometry": {"coordinates":[[[16.42163926444931,46.21330341651526],[16.42142459412514,46.21150970788653],[16.42529639803445,46.21127651148782],[16.42551119612574,46.21307021112693],[16.42809246705218,46.21291466298032],[16.42798502309927,46.21201781647909],[16.43185684030709,46.21178438192896],[16.4320718606167,46.21357806529244],[16.43336250219164,46.21350021962121],[16.43325496842203,46.21260337976014],[16.43583619885499,46.21244764468747],[16.43572862714097,46.21155080718756],[16.4383098014805,46.21139501280982],[16.43809458681767,46.20960134189312],[16.43164183856055,46.20999069600367],[16.43131937074168,46.20730016231045],[16.42486685748094,46.20768910452648],[16.42433003607209,46.20320483141467],[16.42174922004631,46.20336028429244],[16.42217849760738,46.2069477160461],[16.42088799939171,46.20702542511333],[16.42099530907353,46.20792228294829],[16.41712373034943,46.20815532118712],[16.41723098078995,46.20905218287317],[16.41594042652298,46.20912983263059],[16.4161548987077,46.21092355707617],[16.41486429848862,46.21100119424966],[16.4150787466009,46.21279491912867],[16.41636938941002,46.21271727896237],[16.41690569719486,46.21720157248308],[16.4181964431267,46.21712390925416],[16.41787458066756,46.21443333955165],[16.41916525933476,46.21435566523564],[16.41905795981472,46.21345880888606],[16.42163926444931,46.21330341651526]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1344178529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9125,46.20639,15.9125,46.20639",
+    "geom:latitude":46.20639,
+    "geom:longitude":15.9125,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11049013.0",
+    "gn:asciiname":"Gornje Jesenje",
+    "gn:country_code":"HR",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3200124,
+    "gn:latitude":46.20639,
+    "gn:longitude":15.9125,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Gornje Jesenje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200124
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"59b0cffa25c004b40b081a45f3504822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344178529,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1344178529,
+    "wof:lastmodified":1536705550,
+    "wof:name":"Gornje Jesenje",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9125,
+    46.20639,
+    15.9125,
+    46.20639
+],
+  "geometry": {"coordinates":[15.9125,46.20639],"type":"Point"}
+}

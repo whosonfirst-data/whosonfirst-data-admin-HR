@@ -1,0 +1,65 @@
+{
+  "id": 1276844639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88583,45.9425,15.88583,45.9425",
+    "geom:latitude":45.9425,
+    "geom:longitude":15.88583,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sevet",
+    "gn:country_code":"HR",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217898,
+    "gn:latitude":45.9425,
+    "gn:longitude":15.88583,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Sevet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217898
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8eac8660b25d753df9b1008802af9e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276844639,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1276844639,
+    "wof:lastmodified":1537085189,
+    "wof:name":"Sevet",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88583,
+    45.9425,
+    15.88583,
+    45.9425
+],
+  "geometry": {"coordinates":[15.88583,45.9425],"type":"Point"}
+}

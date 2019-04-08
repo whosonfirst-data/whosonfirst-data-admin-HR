@@ -1,0 +1,75 @@
+{
+  "id": 1309986391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7625,44.77111,14.7625,44.77111",
+    "geom:latitude":44.77111,
+    "geom:longitude":14.7625,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11049450.0",
+    "gn:asciiname":"Mundanije",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194662,
+    "gn:latitude":44.77111,
+    "gn:longitude":14.7625,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Mundanije",
+    "gn:population":520,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mundanija",
+        "Mundanije"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194662,
+        "wk:page":"Mundanije"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9c5a8d131cc8d920f0dcbab142d0faed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309986391,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1309986391,
+    "wof:lastmodified":1537625859,
+    "wof:name":"Mundanije",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":520,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7625,
+    44.77111,
+    14.7625,
+    44.77111
+],
+  "geometry": {"coordinates":[14.7625,44.77111],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293133967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97694,45.04806,13.97694,45.04806",
+    "geom:latitude":45.04806,
+    "geom:longitude":13.97694,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054746.0",
+    "gn:asciiname":"Zeliski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186594,
+    "gn:latitude":45.04806,
+    "gn:longitude":13.97694,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"\u017deliski",
+    "gn:population":171,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017deleski",
+        "\u017deliski"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186594
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e862acd91265a9a9c00dbbf8f437a0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293133967,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1293133967,
+    "wof:lastmodified":1537625803,
+    "wof:name":"Zeliski",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":171,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97694,
+    45.04806,
+    13.97694,
+    45.04806
+],
+  "geometry": {"coordinates":[13.97694,45.04806],"type":"Point"}
+}

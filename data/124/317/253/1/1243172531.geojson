@@ -1,0 +1,66 @@
+{
+  "id": 1243172531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.07278,44.97833,14.07278,44.97833",
+    "geom:latitude":44.97833,
+    "geom:longitude":14.07278,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"11054808.0",
+    "gn:asciiname":"Sveta Agneza",
+    "gn:country_code":"HR",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218497,
+    "gn:latitude":44.97833,
+    "gn:longitude":14.07278,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Sveta Agneza",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218497
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"132f559c4e787b1976b4fbb47ef5e495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243172531,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1243172531,
+    "wof:lastmodified":1536703752,
+    "wof:name":"Sveta Agneza",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07278,
+    44.97833,
+    14.07278,
+    44.97833
+],
+  "geometry": {"coordinates":[14.07278,44.97833],"type":"Point"}
+}

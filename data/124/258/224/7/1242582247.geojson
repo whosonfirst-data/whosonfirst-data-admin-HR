@@ -1,0 +1,74 @@
+{
+  "id": 1242582247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61361,45.32667,15.61361,45.32667",
+    "geom:latitude":45.32667,
+    "geom:longitude":15.61361,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049273.0",
+    "gn:asciiname":"Budacka Rijeka",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203147,
+    "gn:latitude":45.32667,
+    "gn:longitude":15.61361,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Buda\u010dka Rijeka",
+    "gn:population":245,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rijeka",
+        "Buda\u010dka Rijeka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203147
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7c470d601dd34ec0d507b734497d7d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242582247,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1242582247,
+    "wof:lastmodified":1537625928,
+    "wof:name":"Budacka Rijeka",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":245,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61361,
+    45.32667,
+    15.61361,
+    45.32667
+],
+  "geometry": {"coordinates":[15.61361,45.32667],"type":"Point"}
+}

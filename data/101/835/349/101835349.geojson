@@ -1,0 +1,104 @@
+{
+  "id": 101835349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":754349.896027,
+    "geom:bbox":"16.1048382655,45.8739031321,16.1207530512,45.8890617722",
+    "geom:latitude":45.880525,
+    "geom:longitude":16.112204,
+    "iso:country":"HR",
+    "lbl:latitude":45.880057,
+    "lbl:longitude":16.112324,
+    "mps:latitude":45.880057,
+    "mps:longitude":16.112324,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ka\u0161ina"
+    ],
+    "name:dut_x_preferred":[
+        "Ka\u0161ina"
+    ],
+    "name:eng_x_preferred":[
+        "Ka\u0161ina"
+    ],
+    "name:hbs_x_preferred":[
+        "Ka\u0161ina"
+    ],
+    "name:hrv_x_preferred":[
+        "Ka\u0161ina"
+    ],
+    "name:slv_x_preferred":[
+        "Ka\u0161ina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0448\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ka\u0161ina"
+    ],
+    "name:unk_x_variant":[
+        "Gornja Ka\u0161ina"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Grad Zagreb",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Grad Zagreb",
+    "qs:la_lc":"*HR2101333",
+    "qs:level":"locality",
+    "qs:loc":"Ka\u0161ina",
+    "qs:loc_alt":"Kasina",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":108,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198236,
+        "gp:id":55854557,
+        "qs:id":7,
+        "qs_pg:id":1044039,
+        "wd:id":"Q3444750"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1f3b614cabeedabed9e16fab71e029e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101835349,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":101835349,
+    "wof:lastmodified":1527642775,
+    "wof:name":"Ka\u0161ina",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10483826551109,
+    45.87390313205822,
+    16.1207530511528,
+    45.88906177221355
+],
+  "geometry": {"coordinates":[[[16.1207530511528,45.8787615313139],[16.11013594625905,45.87390313205822],[16.11024276491361,45.87485108031228],[16.10895978081135,45.87492494938033],[16.10936424565057,45.87851460090178],[16.10808117444429,45.87858846013694],[16.1081822805088,45.87948587281642],[16.10689918516255,45.87955971798516],[16.10720246640534,45.8822519563891],[16.10591930493138,45.88232579031205],[16.10612147212458,45.88412061551395],[16.10483826551109,45.8841944367793],[16.10514148583871,45.88688667398264],[16.10642475544643,45.88681284848633],[16.10622256222746,45.8850180271487],[16.10750578668961,45.8849441889945],[16.10730356882851,45.88314936790164],[16.11115309734168,45.88292776903336],[16.11125426708981,45.88382517566856],[16.11382064567005,45.88367736287631],[16.11442800731032,45.88906177221355],[16.11571131786025,45.88898783412554],[16.11530630873074,45.88539823612825],[16.11658953213202,45.88532428821179],[16.11588078644377,45.87904247679074],[16.1207530511528,45.8787615313139]]],"type":"Polygon"}
+}

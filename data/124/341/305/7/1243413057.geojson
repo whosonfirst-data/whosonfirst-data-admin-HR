@@ -1,0 +1,72 @@
+{
+  "id": 1243413057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0,45.73333,16.0,45.73333",
+    "geom:latitude":45.73333,
+    "geom:longitude":16.0,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Hrasce Turopoljsko",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199320,
+    "gn:latitude":45.73333,
+    "gn:longitude":16.0,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hra\u0161\u0107e Turopoljsko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turopoljsko Hra\u0161\u0107e",
+        "Hra\u0161\u0107e",
+        "Hra\u0161\u0107e Turopoljsko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199320,
+        "wk:page":"Hra%C5%A1%C4%87e_Turopoljsko"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"776dddc9d07381b25d2d947c3a4a5433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243413057,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1243413057,
+    "wof:lastmodified":1537625895,
+    "wof:name":"Hrasce Turopoljsko",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0,
+    45.73333,
+    16.0,
+    45.73333
+],
+  "geometry": {"coordinates":[16.0,45.73333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209197235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68222,43.76444,16.68222,43.76444",
+    "geom:latitude":43.76444,
+    "geom:longitude":16.68222,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Cacijin Dolac",
+    "gn:country_code":"HR",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215015,
+    "gn:latitude":43.76444,
+    "gn:longitude":16.68222,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"\u010ca\u010dijin Dolac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215015
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"dd3623d1e8caf1ebed1e077305d9d094",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209197235
+        }
+    ],
+    "wof:id":1209197235,
+    "wof:lastmodified":1536294730,
+    "wof:name":"Cacijin Dolac",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68222,
+    43.76444,
+    16.68222,
+    43.76444
+],
+  "geometry": {"coordinates":[16.68222,43.76444],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343675569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78611,45.83278,16.78611,45.83278",
+    "geom:latitude":45.83278,
+    "geom:longitude":16.78611,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049420.0",
+    "gn:asciiname":"Narta",
+    "gn:country_code":"HR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194583,
+    "gn:latitude":45.83278,
+    "gn:longitude":16.78611,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Narta",
+    "gn:population":677,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194583,
+        "wk:page":"Narta%2C_Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f5b7886d0f4715922db3c7e0c04a8270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343675569,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1343675569,
+    "wof:lastmodified":1537563288,
+    "wof:name":"Narta",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":677,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78611,
+    45.83278,
+    16.78611,
+    45.83278
+],
+  "geometry": {"coordinates":[16.78611,45.83278],"type":"Point"}
+}

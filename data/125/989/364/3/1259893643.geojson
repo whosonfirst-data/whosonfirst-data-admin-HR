@@ -1,0 +1,65 @@
+{
+  "id": 1259893643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.16667,45.85,17.16667,45.85",
+    "geom:latitude":45.85,
+    "geom:longitude":17.16667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Brzaja",
+    "gn:country_code":"HR",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203178,
+    "gn:latitude":45.85,
+    "gn:longitude":17.16667,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Brzaja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203178
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fdfead4e878b82e8a06ae942a072b2a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259893643,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1259893643,
+    "wof:lastmodified":1536764791,
+    "wof:name":"Brzaja",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16667,
+    45.85,
+    17.16667,
+    45.85
+],
+  "geometry": {"coordinates":[17.16667,45.85],"type":"Point"}
+}

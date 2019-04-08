@@ -1,0 +1,65 @@
+{
+  "id": 1293171195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.87389,43.5375,16.87389,43.5375",
+    "geom:latitude":43.5375,
+    "geom:longitude":16.87389,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Coso",
+    "gn:country_code":"HR",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283904,
+    "gn:latitude":43.5375,
+    "gn:longitude":16.87389,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"\u0106oso",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283904
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"59af9e1bcea9b20c30d22541ccec55a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293171195,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1293171195,
+    "wof:lastmodified":1536745930,
+    "wof:name":"Coso",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87389,
+    43.5375,
+    16.87389,
+    43.5375
+],
+  "geometry": {"coordinates":[16.87389,43.5375],"type":"Point"}
+}

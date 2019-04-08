@@ -1,0 +1,65 @@
+{
+  "id": 1259546657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.0375,45.20917,19.0375,45.20917",
+    "geom:latitude":45.20917,
+    "geom:longitude":19.0375,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Novi Cakovci",
+    "gn:country_code":"HR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3318755,
+    "gn:latitude":45.20917,
+    "gn:longitude":19.0375,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Novi \u010cakovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3318755
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2cdea33480fa0433fa0b2019e4032ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259546657,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":1259546657,
+    "wof:lastmodified":1536768500,
+    "wof:name":"Novi Cakovci",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.0375,
+    45.20917,
+    19.0375,
+    45.20917
+],
+  "geometry": {"coordinates":[19.0375,45.20917],"type":"Point"}
+}

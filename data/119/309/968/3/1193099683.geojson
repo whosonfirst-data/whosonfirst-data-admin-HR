@@ -1,0 +1,69 @@
+{
+  "id": 1193099683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74556,43.92944,15.74556,43.92944",
+    "geom:latitude":43.92944,
+    "geom:longitude":15.74556,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11049512.0",
+    "gn:asciiname":"Provic",
+    "gn:country_code":"HR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192283,
+    "gn:latitude":43.92944,
+    "gn:longitude":15.74556,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Provi\u0107",
+    "gn:population":93,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192283
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4c8987dc35ab380dd48e5e04dec7773c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193099683,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1193099683,
+    "wof:lastmodified":1536384666,
+    "wof:name":"Provic",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":93,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74556,
+    43.92944,
+    15.74556,
+    43.92944
+],
+  "geometry": {"coordinates":[15.74556,43.92944],"type":"Point"}
+}

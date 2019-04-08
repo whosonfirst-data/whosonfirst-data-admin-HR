@@ -1,0 +1,72 @@
+{
+  "id": 1276767509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63011,44.94682,15.63011,44.94682",
+    "geom:latitude":44.94682,
+    "geom:longitude":15.63011,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Seliste",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3191106,
+    "gn:latitude":44.94682,
+    "gn:longitude":15.63011,
+    "gn:modification_date":"2008-09-02",
+    "gn:name":"Seli\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seli\u0161\u0107e Dre\u017eni\u010dko",
+        "Seli\u0161\u0107e",
+        "Seli\u0161te Dre\u017eni\u010dko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191106,
+        "wk:page":"Seli%C5%A1te_Dre%C5%BEni%C4%8Dko"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"24781888b7f04c0ebe5a62cc6bb473ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276767509,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1276767509,
+    "wof:lastmodified":1537625835,
+    "wof:name":"Seliste",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63011,
+    44.94682,
+    15.63011,
+    44.94682
+],
+  "geometry": {"coordinates":[15.63011,44.94682],"type":"Point"}
+}

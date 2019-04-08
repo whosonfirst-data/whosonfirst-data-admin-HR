@@ -1,0 +1,74 @@
+{
+  "id": 1226622307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23222,45.87778,17.23222,45.87778",
+    "geom:latitude":45.87778,
+    "geom:longitude":17.23222,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049469.0",
+    "gn:asciiname":"Vukosavljevica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187056,
+    "gn:latitude":45.87778,
+    "gn:longitude":17.23222,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Vukosavljevica",
+    "gn:population":679,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vukoszavlyevicza",
+        "Vukosavljevica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187056
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8fcc8723b2322e4bc6131aa6ab160a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226622307,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1226622307,
+    "wof:lastmodified":1537625806,
+    "wof:name":"Vukosavljevica",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":679,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23222,
+    45.87778,
+    17.23222,
+    45.87778
+],
+  "geometry": {"coordinates":[17.23222,45.87778],"type":"Point"}
+}

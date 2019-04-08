@@ -1,0 +1,71 @@
+{
+  "id": 1276632609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58778,45.29111,14.58778,45.29111",
+    "geom:latitude":45.29111,
+    "geom:longitude":14.58778,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Meja Gaj",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195275,
+    "gn:latitude":45.29111,
+    "gn:longitude":14.58778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Meja Gaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meja",
+        "Meja Gaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195275,
+        "wk:page":"Meja_Gaj"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d8069d709acca172ed017c8d721159a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276632609,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1276632609,
+    "wof:lastmodified":1537625863,
+    "wof:name":"Meja Gaj",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58778,
+    45.29111,
+    14.58778,
+    45.29111
+],
+  "geometry": {"coordinates":[14.58778,45.29111],"type":"Point"}
+}

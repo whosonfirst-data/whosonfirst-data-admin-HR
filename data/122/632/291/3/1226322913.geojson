@@ -1,0 +1,73 @@
+{
+  "id": 1226322913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81889,45.41778,14.81889,45.41778",
+    "geom:latitude":45.41778,
+    "geom:longitude":14.81889,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"3202102.0",
+    "gn:asciiname":"Marija Trost",
+    "gn:country_code":"HR",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195494,
+    "gn:latitude":45.41778,
+    "gn:longitude":14.81889,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Marija Tro\u0161t",
+    "gn:population":46,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marija Tro\u0161t"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195494,
+        "wk:page":"Marija_Tro%C5%A1t"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f59d8e462ea00386cbea1482db4acfd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226322913,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1226322913,
+    "wof:lastmodified":1537625865,
+    "wof:name":"Marija Trost",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81889,
+    45.41778,
+    14.81889,
+    45.41778
+],
+  "geometry": {"coordinates":[14.81889,45.41778],"type":"Point"}
+}

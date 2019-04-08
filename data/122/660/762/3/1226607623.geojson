@@ -1,0 +1,65 @@
+{
+  "id": 1226607623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46639,44.22833,15.46639,44.22833",
+    "geom:latitude":44.22833,
+    "geom:longitude":15.46639,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Zunic",
+    "gn:country_code":"HR",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216308,
+    "gn:latitude":44.22833,
+    "gn:longitude":15.46639,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"\u017duni\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216308
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a16c6ce061f50726fa0824b891aaf503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226607623,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1226607623,
+    "wof:lastmodified":1536913606,
+    "wof:name":"Zunic",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46639,
+    44.22833,
+    15.46639,
+    44.22833
+],
+  "geometry": {"coordinates":[15.46639,44.22833],"type":"Point"}
+}

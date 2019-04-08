@@ -1,0 +1,70 @@
+{
+  "id": 1327297375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.66979,45.62028,17.66979,45.62028",
+    "geom:latitude":45.62028,
+    "geom:longitude":17.66979,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"11049470.0",
+    "gn:asciiname":"Bokane",
+    "gn:country_code":"HR",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203779,
+    "gn:latitude":45.62028,
+    "gn:longitude":17.66979,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Bokane",
+    "gn:population":215,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203779,
+        "wk:page":"Bokane"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"50521c29868a069704703b9dc01b4b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327297375,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1327297375,
+    "wof:lastmodified":1537563310,
+    "wof:name":"Bokane",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":215,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.66979,
+    45.62028,
+    17.66979,
+    45.62028
+],
+  "geometry": {"coordinates":[17.66979,45.62028],"type":"Point"}
+}

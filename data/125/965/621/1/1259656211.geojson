@@ -1,0 +1,73 @@
+{
+  "id": 1259656211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09677,46.33697,16.09677,46.33697",
+    "geom:latitude":46.33697,
+    "geom:longitude":16.09677,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Krizance",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197236,
+    "gn:latitude":46.33697,
+    "gn:longitude":16.09677,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Kri\u017ean\u010de",
+    "gn:population":126,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kri\u017eanci",
+        "Kri\u017ean\u010de"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197236
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"899995bb31638af4ef04e9638856095d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259656211,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1259656211,
+    "wof:lastmodified":1537625880,
+    "wof:name":"Krizance",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":126,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09677000000001,
+    46.33697,
+    16.09677000000001,
+    46.33697
+],
+  "geometry": {"coordinates":[16.09677000000001,46.33697],"type":"Point"}
+}

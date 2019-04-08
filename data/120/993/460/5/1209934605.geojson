@@ -1,0 +1,75 @@
+{
+  "id": 1209934605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.32889,45.64056,18.32889,45.64056",
+    "geom:latitude":45.64056,
+    "geom:longitude":18.32889,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Brezovica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203345,
+    "gn:latitude":45.64056,
+    "gn:longitude":18.32889,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Brezovica",
+    "gn:population":53,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miholja\u010dka Brezovica",
+        "Brezovica Pustara",
+        "Brezovica Miholja\u010dka",
+        "Brezovica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203345
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ebfa2a735ab8d167215c149b56aa5762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209934605,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1209934605,
+    "wof:lastmodified":1537625930,
+    "wof:name":"Brezovica",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.32889,
+    45.64056,
+    18.32889,
+    45.64056
+],
+  "geometry": {"coordinates":[18.32889,45.64056],"type":"Point"}
+}

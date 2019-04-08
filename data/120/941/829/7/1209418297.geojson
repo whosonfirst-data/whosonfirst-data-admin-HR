@@ -1,0 +1,71 @@
+{
+  "id": 1209418297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.81472,45.12139,17.81472,45.12139",
+    "geom:latitude":45.12139,
+    "geom:longitude":17.81472,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"11049480.0",
+    "gn:asciiname":"Stupnicki Kuti",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215037,
+    "gn:latitude":45.12139,
+    "gn:longitude":17.81472,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Stupni\u010dki Kuti",
+    "gn:population":384,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuti",
+        "Stupni\u010dki Kuti",
+        "Kuti Stupni\u010dki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215037
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ee315db3cb87800e430646c863d727f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209418297
+        }
+    ],
+    "wof:id":1209418297,
+    "wof:lastmodified":1537625948,
+    "wof:name":"Stupnicki Kuti",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":384,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.81472,
+    45.12139000000001,
+    17.81472,
+    45.12139000000001
+],
+  "geometry": {"coordinates":[17.81472,45.12139000000001],"type":"Point"}
+}

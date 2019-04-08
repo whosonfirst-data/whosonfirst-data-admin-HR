@@ -1,0 +1,65 @@
+{
+  "id": 1276724491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69556,44.01889,15.69556,44.01889",
+    "geom:latitude":44.01889,
+    "geom:longitude":15.69556,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Budanovi",
+    "gn:country_code":"HR",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215214,
+    "gn:latitude":44.01889,
+    "gn:longitude":15.69556,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Budanovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215214
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9e8a23147e15c8e5ebb93cb50c469194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276724491,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1276724491,
+    "wof:lastmodified":1536751792,
+    "wof:name":"Budanovi",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69556,
+    44.01889,
+    15.69556,
+    44.01889
+],
+  "geometry": {"coordinates":[15.69556,44.01889],"type":"Point"}
+}

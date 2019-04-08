@@ -1,0 +1,138 @@
+{
+  "id": 101794615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":917978.061724,
+    "geom:bbox":"13.8509658163,45.1791983934,13.8750765736,45.1913167205",
+    "geom:latitude":45.184718,
+    "geom:longitude":13.862326,
+    "iso:country":"HR",
+    "lbl:latitude":45.186251,
+    "lbl:longitude":13.859312,
+    "mps:latitude":45.186251,
+    "mps:longitude":13.859312,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:deu_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:dut_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:eng_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:fra_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:fre_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:ger_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:hbs_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:hrv_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:hun_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:ita_x_preferred":[
+        "San Pietro in Selve"
+    ],
+    "name:lat_x_preferred":[
+        "Fanum Sancti Petri in Silvis"
+    ],
+    "name:nld_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Sveti Petar u \u0160umi"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Sveti Petar u \u0160umi"
+    ],
+    "name:slo_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:slv_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:spa_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u041f\u0435\u0442\u0430\u0440 \u0443 \u0428\u0443\u043c\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Petar u \u0160umi"
+    ],
+    "name:war_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Istarska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Sveti Petar u \u0160umi",
+    "qs:la_lc":"*HR1804332",
+    "qs:level":"locality",
+    "qs:loc":"Sveti Petar u \u0160umi",
+    "qs:loc_alt":"Sveti Petar u Sumi",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":184,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189285,
+        "gp:id":850604,
+        "qs:id":478197,
+        "wd:id":"Q737437",
+        "wk:page":"Sveti Petar u \u0160umi"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7ada5edf68c9cfc4d7093438b0ac66e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101794615,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":101794615,
+    "wof:lastmodified":1527689321,
+    "wof:name":"Sveti Petar u \u0160umi",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85096581634878,
+    45.17919839335059,
+    13.8750765736097,
+    45.19131672046751
+],
+  "geometry": {"coordinates":[[[13.85901815121986,45.19122357883248],[13.85883027674015,45.18852386774807],[13.86136842479203,45.18843067013438],[13.86130576428275,45.18753076698255],[13.86257481492811,45.18748414609229],[13.86238678786094,45.18478443564192],[13.86619374379364,45.18464448901767],[13.86625647831011,45.18554439047801],[13.86752548026942,45.185497710118],[13.86746272525795,45.1845978095339],[13.8750765736097,45.18431741123823],[13.87501369829675,45.18341751531278],[13.8737447488819,45.18346428574512],[13.87355620042325,45.18076459171181],[13.86721173183491,45.18099820116026],[13.86708625109497,45.17919839335059],[13.86327966979394,45.17933837012617],[13.86340502759009,45.18113818318943],[13.8621361223303,45.18118481325899],[13.86226144977826,45.18298462565764],[13.85972355152404,45.18307784338486],[13.85978617824776,45.18397775042837],[13.85471027672219,45.18416400572841],[13.85477282412165,45.18506391566399],[13.85096581634878,45.18520344906017],[13.85115328999359,45.18790318310448],[13.85496048224394,45.18776364185146],[13.85514816425467,45.19046336261096],[13.85641728600154,45.19041681562743],[13.85647987248245,45.19131672046751],[13.85901815121986,45.19122357883248]]],"type":"Polygon"}
+}

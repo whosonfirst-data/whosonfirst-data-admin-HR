@@ -1,0 +1,68 @@
+{
+  "id": 1243340799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46806,44.64611,14.46806,44.64611",
+    "geom:latitude":44.64611,
+    "geom:longitude":14.46806,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Smrecje",
+    "gn:country_code":"HR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217707,
+    "gn:latitude":44.64611,
+    "gn:longitude":14.46806,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Smre\u010dje",
+    "gn:population":71,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217707
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a3ef931f2ae84fe588e79969d67c5238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243340799,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1243340799,
+    "wof:lastmodified":1536957934,
+    "wof:name":"Smrecje",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46806,
+    44.64611,
+    14.46806,
+    44.64611
+],
+  "geometry": {"coordinates":[14.46806,44.64611],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310418613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.37,45.14639,18.37,45.14639",
+    "geom:latitude":45.14639,
+    "geom:longitude":18.37,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049509.0",
+    "gn:asciiname":"Mala Kopanica",
+    "gn:country_code":"HR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195837,
+    "gn:latitude":45.14639,
+    "gn:longitude":18.37,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Mala Kopanica",
+    "gn:population":166,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195837
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6c24e0898855aa551b66625d92cf3d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310418613,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1310418613,
+    "wof:lastmodified":1537040585,
+    "wof:name":"Mala Kopanica",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":166,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.37,
+    45.14639,
+    18.37,
+    45.14639
+],
+  "geometry": {"coordinates":[18.37,45.14639],"type":"Point"}
+}

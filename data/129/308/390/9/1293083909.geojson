@@ -1,0 +1,65 @@
+{
+  "id": 1293083909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3975,43.1825,17.3975,43.1825",
+    "geom:latitude":43.1825,
+    "geom:longitude":17.3975,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lucka",
+    "gn:country_code":"HR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282936,
+    "gn:latitude":43.1825,
+    "gn:longitude":17.3975,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Lu\u010dka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282936
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"79bec1bae35d525e6ec7f4453af4c106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293083909,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1293083909,
+    "wof:lastmodified":1536870882,
+    "wof:name":"Lucka",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3975,
+    43.1825,
+    17.3975,
+    43.1825
+],
+  "geometry": {"coordinates":[17.3975,43.1825],"type":"Point"}
+}

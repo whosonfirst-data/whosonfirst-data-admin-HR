@@ -1,0 +1,65 @@
+{
+  "id": 1326536205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94417,45.17167,13.94417,45.17167",
+    "geom:latitude":45.17167,
+    "geom:longitude":13.94417,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jaksici",
+    "gn:country_code":"HR",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214970,
+    "gn:latitude":45.17167,
+    "gn:longitude":13.94417,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Jak\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214970
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"45ddc1db2456f1f988e2cf92591cf9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326536205,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1326536205,
+    "wof:lastmodified":1536977700,
+    "wof:name":"Jaksici",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94417,
+    45.17167,
+    13.94417,
+    45.17167
+],
+  "geometry": {"coordinates":[13.94417,45.17167],"type":"Point"}
+}

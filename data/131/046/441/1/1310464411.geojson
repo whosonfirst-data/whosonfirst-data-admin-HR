@@ -1,0 +1,70 @@
+{
+  "id": 1310464411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.07083,44.43,16.07083,44.43",
+    "geom:latitude":44.43,
+    "geom:longitude":16.07083,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gornji Zaklopac",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214544,
+    "gn:latitude":44.43,
+    "gn:longitude":16.07083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gornji Zaklopac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaklopa\u0107",
+        "Gornji Zaklopac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214544
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8f73847a0ec0b081949784800fe3757d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310464411,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1310464411,
+    "wof:lastmodified":1537625946,
+    "wof:name":"Gornji Zaklopac",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.07082999999999,
+    44.43,
+    16.07082999999999,
+    44.43
+],
+  "geometry": {"coordinates":[16.07082999999999,44.43],"type":"Point"}
+}

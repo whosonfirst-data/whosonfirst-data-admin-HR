@@ -1,0 +1,65 @@
+{
+  "id": 1310375757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50833,43.71167,16.50833,43.71167",
+    "geom:latitude":43.71167,
+    "geom:longitude":16.50833,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Matende",
+    "gn:country_code":"HR",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278522,
+    "gn:latitude":43.71167,
+    "gn:longitude":16.50833,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Matende",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278522
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"83b375a7148e0909eec8257bcbf1268f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310375757,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1310375757,
+    "wof:lastmodified":1536603701,
+    "wof:name":"Matende",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50832999999999,
+    43.71167,
+    16.50832999999999,
+    43.71167
+],
+  "geometry": {"coordinates":[16.50832999999999,43.71167],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1259362369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94389,44.14194,15.94389,44.14194",
+    "geom:latitude":44.14194,
+    "geom:longitude":15.94389,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kostice",
+    "gn:country_code":"HR",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215110,
+    "gn:latitude":44.14194,
+    "gn:longitude":15.94389,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Ko\u0161tice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215110
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1d80c02bacfbe8d934fd92ecb006e595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259362369,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1259362369,
+    "wof:lastmodified":1537031340,
+    "wof:name":"Kostice",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94389,
+    44.14194000000001,
+    15.94389,
+    44.14194000000001
+],
+  "geometry": {"coordinates":[15.94389,44.14194000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276877689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73111,45.01,15.73111,45.01",
+    "geom:latitude":45.01,
+    "geom:longitude":15.73111,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"11049278.0",
+    "gn:asciiname":"Jamarje",
+    "gn:country_code":"HR",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277438,
+    "gn:latitude":45.01,
+    "gn:longitude":15.73111,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Jamarje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277438,
+        "wk:page":"Jamarje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cd1226390589226709cba49460c23df8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276877689,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1276877689,
+    "wof:lastmodified":1537563318,
+    "wof:name":"Jamarje",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73111,
+    45.01,
+    15.73111,
+    45.01
+],
+  "geometry": {"coordinates":[15.73111,45.01],"type":"Point"}
+}

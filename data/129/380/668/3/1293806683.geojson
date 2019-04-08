@@ -1,0 +1,71 @@
+{
+  "id": 1293806683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35972,45.10194,15.35972,45.10194",
+    "geom:latitude":45.10194,
+    "geom:longitude":15.35972,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"11049277.0",
+    "gn:asciiname":"Dragasi",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213747,
+    "gn:latitude":45.10194,
+    "gn:longitude":15.35972,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Draga\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Crkovici",
+        "Draga\u0161i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213747
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f81932af0b45cf3ec9b98af68efb1c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293806683,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1293806683,
+    "wof:lastmodified":1537625945,
+    "wof:name":"Dragasi",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35972,
+    45.10194,
+    15.35972,
+    45.10194
+],
+  "geometry": {"coordinates":[15.35972,45.10194],"type":"Point"}
+}

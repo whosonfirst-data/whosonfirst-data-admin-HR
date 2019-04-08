@@ -1,0 +1,71 @@
+{
+  "id": 1276616519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46528,43.95111,15.46528,43.95111",
+    "geom:latitude":43.95111,
+    "geom:longitude":15.46528,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Opatijski Torovi",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213297,
+    "gn:latitude":43.95111,
+    "gn:longitude":15.46528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Opatijski Torovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toroli",
+        "Opatinski",
+        "Opatijski Torovi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213297
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"25ff2ea74cae6b71cd0ece275bcb040a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276616519,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1276616519,
+    "wof:lastmodified":1537625943,
+    "wof:name":"Opatijski Torovi",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46528,
+    43.95111,
+    15.46528,
+    43.95111
+],
+  "geometry": {"coordinates":[15.46528,43.95111],"type":"Point"}
+}

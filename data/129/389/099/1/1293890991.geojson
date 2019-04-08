@@ -1,0 +1,65 @@
+{
+  "id": 1293890991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.53333,43.00389,17.53333,43.00389",
+    "geom:latitude":43.00389,
+    "geom:longitude":17.53333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Novo Naselje",
+    "gn:country_code":"HR",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3287603,
+    "gn:latitude":43.00389,
+    "gn:longitude":17.53333,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Novo Naselje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3287603
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2a3a44a3ce28af852eea0e55dfd736ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293890991,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1293890991,
+    "wof:lastmodified":1536702761,
+    "wof:name":"Novo Naselje",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.53333,
+    43.00389000000001,
+    17.53333,
+    43.00389000000001
+],
+  "geometry": {"coordinates":[17.53333,43.00389000000001],"type":"Point"}
+}

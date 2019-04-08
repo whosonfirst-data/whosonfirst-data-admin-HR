@@ -1,0 +1,130 @@
+{
+  "id": 101844807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000138,
+    "geom:area_square_m":1187212.315395,
+    "geom:bbox":"18.6441932748,45.7988271192,18.6703258851,45.8114948032",
+    "geom:latitude":45.806638,
+    "geom:longitude":18.659659,
+    "iso:country":"HR",
+    "lbl:latitude":45.80848,
+    "lbl:longitude":18.658769,
+    "mps:latitude":45.80848,
+    "mps:longitude":18.658769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Popovac"
+    ],
+    "name:dut_x_preferred":[
+        "Popovac"
+    ],
+    "name:eng_x_preferred":[
+        "Popovac"
+    ],
+    "name:epo_x_preferred":[
+        "Popovac"
+    ],
+    "name:fra_x_preferred":[
+        "Popovac"
+    ],
+    "name:fre_x_preferred":[
+        "Popovac"
+    ],
+    "name:hbs_x_preferred":[
+        "Popovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Popovac"
+    ],
+    "name:hun_x_preferred":[
+        "Baranyab\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Popovac"
+    ],
+    "name:nld_x_preferred":[
+        "Popovac"
+    ],
+    "name:pol_x_preferred":[
+        "Popovac"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Popovac"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Popovac"
+    ],
+    "name:spa_x_preferred":[
+        "Popovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0430\u0446"
+    ],
+    "name:und_x_preferred":[
+        "Popovac"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Popovac",
+    "qs:la_lc":"*HR1403468",
+    "qs:level":"locality",
+    "qs:loc":"Popovac",
+    "qs:loc_alt":"Popovac",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":287,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115cb936-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3192725,
+        "gp:id":849767,
+        "qs:id":964372,
+        "wd:id":"Q790218",
+        "wk:page":"Popovac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"956dff71e2f041a1d315a435b45db350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844807,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101844807,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815540,
+    "wof:name":"Popovac",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64419327484325,
+    45.79882711923813,
+    18.67032588514917,
+    45.81149480319561
+],
+  "geometry": {"coordinates":[[[18.66265753366753,45.80997323991596],[18.66251453129973,45.8090792850316],[18.66762670092811,45.80866058749882],[18.66776978570948,45.80955453442755],[18.67032588514917,45.80934508949042],[18.67003963928568,45.80755720280354],[18.66876163298525,45.80766192897511],[18.66776010906034,45.80140428679999],[18.66903797117402,45.80129957455455],[18.66875183524735,45.79951167366943],[18.66619618896857,45.79972107484173],[18.66605317134986,45.79882711923813],[18.66349754854849,45.79903645498473],[18.66392649614909,45.80171833135904],[18.66264861632442,45.80182298215288],[18.66279159046678,45.80271694135502],[18.66023577634502,45.80292620082838],[18.66037871539373,45.80382016321767],[18.6591007810963,45.80392477189616],[18.65938663629788,45.80571269828482],[18.65171869040364,45.80634005154747],[18.65186150354413,45.80723402547915],[18.64419327484325,45.80786083750991],[18.64476409383013,45.81143677300372],[18.64604222542289,45.81133233480858],[18.64589949093039,45.81043835409992],[18.65484614403266,45.80970687036501],[18.65513190761044,45.81149480319561],[18.66152244745246,45.81097183395826],[18.66137945958485,45.81007787787382],[18.66265753366753,45.80997323991596]]],"type":"Polygon"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327204273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.58167,43.62417,16.58167,43.62417",
+    "geom:latitude":43.62417,
+    "geom:longitude":16.58167,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Brkici",
+    "gn:country_code":"HR",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282707,
+    "gn:latitude":43.62417,
+    "gn:longitude":16.58167,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Brki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282707
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"245fd3bb3ea3d697cf9e223a9101fa8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327204273,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1327204273,
+    "wof:lastmodified":1537009657,
+    "wof:name":"Brkici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.58167000000001,
+    43.62417,
+    16.58167000000001,
+    43.62417
+],
+  "geometry": {"coordinates":[16.58167000000001,43.62417],"type":"Point"}
+}

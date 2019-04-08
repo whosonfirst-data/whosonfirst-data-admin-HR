@@ -1,0 +1,110 @@
+{
+  "id": 101857805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.70191,43.630639,16.70191,43.630639",
+    "geom:latitude":43.630639,
+    "geom:longitude":16.70191,
+    "gn:population":1761,
+    "iso:country":"HR",
+    "lbl:latitude":43.630639,
+    "lbl:longitude":16.70191,
+    "mps:latitude":43.630639,
+    "mps:longitude":16.70191,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ko\u0161ute"
+    ],
+    "name:dut_x_preferred":[
+        "Ko\u0161ute"
+    ],
+    "name:eng_x_preferred":[
+        "Ko\u0161ute"
+    ],
+    "name:hbs_x_preferred":[
+        "Ko\u0161ute"
+    ],
+    "name:hrv_x_preferred":[
+        "Ko\u0161ute"
+    ],
+    "name:hun_x_preferred":[
+        "Ko\u0161ute"
+    ],
+    "name:slv_x_preferred":[
+        "Ko\u0161ute"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0448\u0443\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ko\u0161ute"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ko\u0161ute",
+    "qs:loc_alt":"Kosute",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197556,
+        "gp:id":848541,
+        "qs:id":279723,
+        "qs_pg:id":279723,
+        "wd:id":"Q6435652",
+        "wk:page":"Ko\u0161ute"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6c29451be2f39285a3e81e7bea666fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101857805,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101857805,
+    "wof:lastmodified":1544744087,
+    "wof:name":"Ko\u0161ute",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":1761,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.70191,
+    43.630639,
+    16.70191,
+    43.630639
+],
+  "geometry": {"coordinates":[16.70191,43.630639],"type":"Point"}
+}

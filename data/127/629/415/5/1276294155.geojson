@@ -1,0 +1,65 @@
+{
+  "id": 1276294155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49194,44.06917,15.49194,44.06917",
+    "geom:latitude":44.06917,
+    "geom:longitude":15.49194,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ozakovic",
+    "gn:country_code":"HR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215494,
+    "gn:latitude":44.06917,
+    "gn:longitude":15.49194,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"O\u017eakovic",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215494
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ec7395f3737e1044ba1203e8ae71dcbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276294155,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1276294155,
+    "wof:lastmodified":1536830247,
+    "wof:name":"Ozakovic",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49194,
+    44.06917,
+    15.49194,
+    44.06917
+],
+  "geometry": {"coordinates":[15.49194,44.06917],"type":"Point"}
+}

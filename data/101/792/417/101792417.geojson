@@ -1,0 +1,146 @@
+{
+  "id": 101792417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":698382.199459,
+    "geom:bbox":"18.659273604,45.6784122921,18.6774105389,45.6913475073",
+    "geom:latitude":45.685627,
+    "geom:longitude":18.670637,
+    "gn:population":1113,
+    "iso:country":"HR",
+    "lbl:latitude":45.686381,
+    "lbl:longitude":18.667752,
+    "mps:latitude":45.686381,
+    "mps:longitude":18.667752,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "\u010ceminac"
+    ],
+    "name:dut_x_preferred":[
+        "\u010ceminac"
+    ],
+    "name:eng_x_preferred":[
+        "\u010ceminac"
+    ],
+    "name:epo_x_preferred":[
+        "\u010ceminac"
+    ],
+    "name:fra_x_preferred":[
+        "\u010ceminac"
+    ],
+    "name:fre_x_preferred":[
+        "\u010ceminac"
+    ],
+    "name:hbs_x_preferred":[
+        "\u010ceminac"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010ceminac"
+    ],
+    "name:hun_x_preferred":[
+        "Laskafalu"
+    ],
+    "name:ita_x_preferred":[
+        "\u010ceminac"
+    ],
+    "name:nld_x_preferred":[
+        "\u010ceminac"
+    ],
+    "name:pol_x_preferred":[
+        "\u010ceminac"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna \u010ceminac"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna \u010ceminac"
+    ],
+    "name:spa_x_preferred":[
+        "\u010ceminac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u043c\u0438\u043d\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "\u010ceminac"
+    ],
+    "name:und_x_colloquial":[
+        "Ceminac"
+    ],
+    "name:und_x_preferred":[
+        "\u010ceminac"
+    ],
+    "name:war_x_preferred":[
+        "\u010ceminac"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"\u010ceminac",
+    "qs:la_lc":"*HR1400647",
+    "qs:level":"locality",
+    "qs:loc":"\u010ceminac",
+    "qs:loc_alt":"Ceminac",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":189,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115b77f6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3202763,
+        "gp:id":847129,
+        "qs:id":1274903,
+        "qs_pg:id":1274903,
+        "wd:id":"Q537594",
+        "wk:page":"\u010ceminac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3c684a632cc42c63f0fac5c425380611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101792417,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101792417,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1535390514,
+    "wof:name":"\u010ceminac",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":1113,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6592736040336,
+    45.6784122920872,
+    18.6774105389335,
+    45.6913475072982
+],
+  "geometry": {"coordinates":[[[18.6703301875941,45.6879808884373],[18.6707580776926,45.6906629414395],[18.6733086442229,45.690453495187],[18.6734513273786,45.6913475072982],[18.676001917264,45.6911379957703],[18.6758591931352,45.6902439876266],[18.6771344609828,45.6901392108565],[18.6761354188692,45.6838811454683],[18.6774105389335,45.6837763672602],[18.6765543312442,45.6784122920872],[18.6752793340409,45.6785170583944],[18.6754219996582,45.6794110748958],[18.674146977577,45.6795158278628],[18.6742896287927,45.680409845552],[18.6730145818333,45.6805145851784],[18.6731572186461,45.6814086040548],[18.6706070705664,45.6816180413013],[18.6708922804979,45.683406084598],[18.6696171588979,45.6835107841995],[18.6697597524922,45.6844048066373],[18.6646591401625,45.6848234597205],[18.6645166284928,45.6839294293561],[18.6619663368959,45.6841386599836],[18.6618238722569,45.6832446248628],[18.6592736040336,45.6834537902285],[18.6594160277091,45.6843478293097],[18.6606911845008,45.6842432523093],[18.6609760910134,45.6860313241278],[18.6648016579009,45.6857174892902],[18.6652292475321,45.6883995732306],[18.6639540015151,45.6885042061125],[18.6643815843175,45.6911862888455],[18.6656568917956,45.691081650019],[18.6655143376371,45.6901876252174],[18.6667896202267,45.6900829730453],[18.6665044891494,45.6882949250219],[18.6703301875941,45.6879808884373]],[[18.6703301875941,45.6879808884373],[18.6699023521586,45.68529882828],[18.6711775147205,45.6851941247136],[18.6710348945726,45.6843001050534],[18.6748602943999,45.6839859083518],[18.6755737631117,45.6884559689535],[18.6717480560484,45.6887701954028],[18.671605411605,45.6878761789231],[18.6703301875941,45.6879808884373]]],"type":"Polygon"}
+}

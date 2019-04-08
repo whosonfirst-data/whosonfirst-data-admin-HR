@@ -1,0 +1,75 @@
+{
+  "id": 1344249773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38194,46.055,16.38194,46.055",
+    "geom:latitude":46.055,
+    "geom:longitude":16.38194,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049395.0",
+    "gn:asciiname":"Mokrice Miholecke",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194913,
+    "gn:latitude":46.055,
+    "gn:longitude":16.38194,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Mokrice Mihole\u010dke",
+    "gn:population":154,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mokrice",
+        "Mihole\u010dke Mokrice",
+        "Mokrice Mihole\u010dke"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194913
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e2d91017b7e271f96e4bd07b04cd999d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344249773,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1344249773,
+    "wof:lastmodified":1537625860,
+    "wof:name":"Mokrice Miholecke",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":154,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38194,
+    46.055,
+    16.38194,
+    46.055
+],
+  "geometry": {"coordinates":[16.38194,46.055],"type":"Point"}
+}

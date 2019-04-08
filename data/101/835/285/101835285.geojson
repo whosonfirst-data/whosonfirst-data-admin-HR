@@ -1,0 +1,143 @@
+{
+  "id": 101835285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:area_square_m":956602.140018,
+    "geom:bbox":"17.7272835158,45.1585595901,17.7629883085,45.1720632293",
+    "geom:latitude":45.164994,
+    "geom:longitude":17.750311,
+    "gn:population":2031,
+    "iso:country":"HR",
+    "lbl:latitude":45.16383,
+    "lbl:longitude":17.753016,
+    "mps:latitude":45.16383,
+    "mps:longitude":17.753016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Oriovac"
+    ],
+    "name:dut_x_preferred":[
+        "Oriovac"
+    ],
+    "name:eng_x_preferred":[
+        "Oriovac"
+    ],
+    "name:fra_x_preferred":[
+        "Oriovac"
+    ],
+    "name:fre_x_preferred":[
+        "Oriovac"
+    ],
+    "name:hbs_x_preferred":[
+        "Oriovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Oriovac"
+    ],
+    "name:ita_x_preferred":[
+        "Oriovac"
+    ],
+    "name:nld_x_preferred":[
+        "Oriovac"
+    ],
+    "name:pol_x_preferred":[
+        "Oriovac"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Oriovac"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Oriovac"
+    ],
+    "name:slv_x_preferred":[
+        "Oriovac"
+    ],
+    "name:spa_x_preferred":[
+        "Oriovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u0438\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Oriovac"
+    ],
+    "name:und_x_preferred":[
+        "Oriovac"
+    ],
+    "name:unk_x_variant":[
+        "Oriovaci"
+    ],
+    "name:war_x_preferred":[
+        "Oriovac"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Brodsko-posavska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Oriovac",
+    "qs:la_lc":"*HR1203093",
+    "qs:level":"locality",
+    "qs:loc":"Oriovac",
+    "qs:loc_alt":"Oriovac",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":135,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115c9334-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3194010,
+        "gp:id":849459,
+        "qs:id":407441,
+        "qs_pg:id":407441,
+        "wd:id":"Q1272312",
+        "wk:page":"Oriovac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bcf3b9392b08bd04390b05950697d554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101835285,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":101835285,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642777,
+    "wof:name":"Oriovac",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":2031,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72728351575563,
+    45.15855959011083,
+    17.76298830850629,
+    45.1720632293077
+],
+  "geometry": {"coordinates":[[[17.72728351575563,45.17115963479705],[17.72730149690165,45.1720632293077],[17.7335158144873,45.17160525118311],[17.73339047571505,45.17070947833543],[17.73718467763553,45.17042957822804],[17.73705928381116,45.16953380984415],[17.74591214687456,45.16888018990039],[17.74578661755322,45.16798443296346],[17.75337451584744,45.16742360510625],[17.7538771476473,45.1710065863241],[17.75514186439636,45.170913054837],[17.75476482225025,45.16822582531921],[17.75602947482776,45.16813228387969],[17.75577809971111,45.16634079718881],[17.75704270823394,45.16624724404932],[17.75691700852781,45.16535150129948],[17.75818159310688,45.165257934713],[17.75805587860071,45.16436219294286],[17.76058499603761,45.16417501768194],[17.76045924662691,45.16327927864006],[17.76298830850629,45.16309204609877],[17.76273674519427,45.16130057270499],[17.75767876692834,45.16167496302069],[17.7575530736521,45.16077921817549],[17.75628858960187,45.16087277602173],[17.75616292173532,45.15997702865997],[17.75110502761828,45.1603511011167],[17.75085386862315,45.15855959011083],[17.74832497898893,45.15874652819133],[17.74870160481191,45.16143380402553],[17.74743709393761,45.16152725551348],[17.7476881641108,45.16331877238702],[17.74895271519756,45.16322531740707],[17.7494549995896,45.16680833495161],[17.74186715300544,45.1673688788012],[17.74199261669094,45.16826464174181],[17.73566920536268,45.16873135243907],[17.73579457377826,45.16962712333373],[17.73200042072841,45.16990697261826],[17.73212573409165,45.17080274797576],[17.72728351575563,45.17115963479705]]],"type":"Polygon"}
+}

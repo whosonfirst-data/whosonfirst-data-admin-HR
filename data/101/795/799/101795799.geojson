@@ -1,0 +1,169 @@
+{
+  "id": 101795799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00015,
+    "geom:area_square_m":1307170.266639,
+    "geom:bbox":"14.6229154162,45.0093186472,14.6365330043,45.0337701913",
+    "geom:latitude":45.020274,
+    "geom:longitude":14.629454,
+    "gn:population":1793,
+    "iso:country":"HR",
+    "lbl:latitude":45.020738,
+    "lbl:longitude":14.631156,
+    "mps:latitude":45.020738,
+    "mps:longitude":14.631156,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Punat"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0443\u043d\u0430\u0442"
+    ],
+    "name:cze_x_preferred":[
+        "Punat"
+    ],
+    "name:deu_x_preferred":[
+        "Punat"
+    ],
+    "name:dut_x_preferred":[
+        "Punat"
+    ],
+    "name:eng_x_preferred":[
+        "Punca"
+    ],
+    "name:eng_x_variant":[
+        "Aleksandrovo",
+        "Ponte",
+        "Punat"
+    ],
+    "name:fra_x_preferred":[
+        "Punat"
+    ],
+    "name:fre_x_preferred":[
+        "Punat"
+    ],
+    "name:ger_x_preferred":[
+        "Punat"
+    ],
+    "name:hbs_x_preferred":[
+        "Punat"
+    ],
+    "name:hrv_x_preferred":[
+        "Punat"
+    ],
+    "name:hun_x_preferred":[
+        "Punat"
+    ],
+    "name:ita_x_preferred":[
+        "Ponte"
+    ],
+    "name:lat_x_preferred":[
+        "Pons Curictae"
+    ],
+    "name:nld_x_preferred":[
+        "Punat"
+    ],
+    "name:pol_x_preferred":[
+        "Punat"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Punat"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Punat"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043d\u0430\u0442"
+    ],
+    "name:slv_x_preferred":[
+        "Punat"
+    ],
+    "name:spa_x_preferred":[
+        "Punat"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u043d\u0430\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Punat"
+    ],
+    "name:und_x_preferred":[
+        "Punat"
+    ],
+    "name:unk_x_variant":[
+        "Ponte"
+    ],
+    "name:war_x_preferred":[
+        "Punat"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Primorsko-goranska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Punat",
+    "qs:la_lc":"*HR0803603",
+    "qs:level":"locality",
+    "qs:loc":"Punat",
+    "qs:loc_alt":"Punat",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":102,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115ccc32-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3192219,
+        "gp:id":849903,
+        "qs:id":491965,
+        "qs_pg:id":491965,
+        "wd:id":"Q1269942",
+        "wk:page":"Punat"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"05740a9f5daf5dd71cd2399c3e4a1454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101795799,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":101795799,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527714602,
+    "wof:name":"Punat",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":1793,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62291541615764,
+    45.00931864716642,
+    14.63653300429814,
+    45.03377019133364
+],
+  "geometry": {"coordinates":[[[14.63118167452274,45.03365846930399],[14.63088246643974,45.0300608739405],[14.62961756276439,45.03011673840251],[14.62939325078264,45.02741853206737],[14.63065809358005,45.02736267073527],[14.63058330895018,45.02646326839368],[14.63184812917387,45.02640739286528],[14.63177332741509,45.02550799093052],[14.63303812506592,45.02545210120621],[14.63296330618022,45.02455269967834],[14.63422808125853,45.02449679575864],[14.63407841240024,45.0226979928799],[14.63534314461964,45.02264207580981],[14.63526829464911,45.02174267445906],[14.63653300429814,45.021686743195],[14.63645813720643,45.02078734225159],[14.63519344784271,45.02084327247115],[14.6349689264041,45.01814506268454],[14.63370429560666,45.01820097453464],[14.63333025786847,45.01370394025741],[14.63080119222889,45.01381570781314],[14.63042743628341,45.00931864716642],[14.62536968316596,45.0095419786042],[14.62544434693763,45.01044139617755],[14.62291541615764,45.01055297257312],[14.62313930474392,45.01325122771726],[14.62440383210389,45.01319544401281],[14.62455314749059,45.01499427550652],[14.62581771313052,45.01493847448353],[14.62589239583764,45.01583788823274],[14.62715697947885,45.01578207093138],[14.62790418303831,45.02477616296659],[14.62663939654857,45.0248319906911],[14.62686355834239,45.02753020901184],[14.62559870870047,45.02758602462387],[14.62604699581937,45.03298245033676],[14.6285769363534,45.03287079136049],[14.62865170252411,45.03377019133364],[14.63118167452274,45.03365846930399]]],"type":"Polygon"}
+}

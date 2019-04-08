@@ -1,0 +1,61 @@
+{
+  "id": 1209081415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81417,44.36889,15.81417,44.36889",
+    "geom:latitude":44.36889,
+    "geom:longitude":15.81417,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ostojici",
+    "gn:country_code":"HR",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216725,
+    "gn:latitude":44.36889,
+    "gn:longitude":15.81417,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Ostoji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216725
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ea70d7ecf7987df1e4df0e65f4233dfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209081415
+        }
+    ],
+    "wof:id":1209081415,
+    "wof:lastmodified":1536298324,
+    "wof:name":"Ostojici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81417,
+    44.36889,
+    15.81417,
+    44.36889
+],
+  "geometry": {"coordinates":[15.81417,44.36889],"type":"Point"}
+}

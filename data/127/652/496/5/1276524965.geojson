@@ -1,0 +1,74 @@
+{
+  "id": 1276524965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72778,45.31889,14.72778,45.31889",
+    "geom:latitude":45.31889,
+    "geom:longitude":14.72778,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11049434.0",
+    "gn:asciiname":"Vrata",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187328,
+    "gn:latitude":45.31889,
+    "gn:longitude":14.72778,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Vrata",
+    "gn:population":287,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrata Brestova Draga",
+        "Vrata"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187328
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f209da4f9e8d3507419c6b44dfb31600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276524965,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1276524965,
+    "wof:lastmodified":1537625808,
+    "wof:name":"Vrata",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":287,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72778,
+    45.31889,
+    14.72778,
+    45.31889
+],
+  "geometry": {"coordinates":[14.72778,45.31889],"type":"Point"}
+}

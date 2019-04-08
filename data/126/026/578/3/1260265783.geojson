@@ -1,0 +1,94 @@
+{
+  "id": 1260265783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28757,43.38659,16.28757,43.38659",
+    "geom:latitude":43.38659,
+    "geom:longitude":16.28757,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"11054737.0",
+    "gn:asciiname":"Solta",
+    "gn:country_code":"HR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8505069,
+    "gn:latitude":43.38659,
+    "gn:longitude":16.28757,
+    "gn:modification_date":"2017-01-01",
+    "gn:name":"\u0160olta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03cc\u03bb\u03c4\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Solta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e7\u30eb\u30bf\u5cf6"
+    ],
+    "name:lat_x_preferred":[
+        "Olynta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043b\u0442\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0160olta"
+    ],
+    "name:srp_x_variant":[
+        "\u0428\u043e\u043b\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043e\u043b\u0442\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d39\u723e\u5854\u5cf6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8505069,
+        "wk:page":"%C5%A0olta"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7d9bfc0c3247c63f2a270f7a8320c71d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260265783,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1260265783,
+    "wof:lastmodified":1537625967,
+    "wof:name":"Solta",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28757,
+    43.38659000000001,
+    16.28757,
+    43.38659000000001
+],
+  "geometry": {"coordinates":[16.28757,43.38659000000001],"type":"Point"}
+}

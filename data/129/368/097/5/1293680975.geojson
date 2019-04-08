@@ -1,0 +1,71 @@
+{
+  "id": 1293680975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7247,45.99106,15.7247,45.99106",
+    "geom:latitude":45.99106,
+    "geom:longitude":15.7247,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11049188.0",
+    "gn:asciiname":"Kraljevec na Sutli",
+    "gn:country_code":"HR",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3197394,
+    "gn:latitude":45.99106,
+    "gn:longitude":15.7247,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Kraljevec na Sutli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kraljevec",
+        "Kraljevec na Sutli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197394,
+        "wk:page":"Kraljevec_na_Sutli"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0ac1186681e9ab75c4ecbb35d1a940c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293680975,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1293680975,
+    "wof:lastmodified":1537625882,
+    "wof:name":"Kraljevec na Sutli",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7247,
+    45.99106,
+    15.7247,
+    45.99106
+],
+  "geometry": {"coordinates":[15.7247,45.99106],"type":"Point"}
+}

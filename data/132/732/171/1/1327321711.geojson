@@ -1,0 +1,70 @@
+{
+  "id": 1327321711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61333,45.3475,17.61333,45.3475",
+    "geom:latitude":45.3475,
+    "geom:longitude":17.61333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3190588.0",
+    "gn:asciiname":"Stara Lipa",
+    "gn:country_code":"HR",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3235799,
+    "gn:latitude":45.3475,
+    "gn:longitude":17.61333,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Stara Lipa",
+    "gn:population":213,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3235799,
+        "wk:page":"Stara_Lipa%2C_Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"adbf7b2588c81be9830d561cab05d23b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327321711,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1327321711,
+    "wof:lastmodified":1537563317,
+    "wof:name":"Stara Lipa",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61332999999999,
+    45.3475,
+    17.61332999999999,
+    45.3475
+],
+  "geometry": {"coordinates":[17.61332999999999,45.3475],"type":"Point"}
+}

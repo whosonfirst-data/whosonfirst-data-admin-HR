@@ -1,0 +1,61 @@
+{
+  "id": 1209485701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.84944,43.54361,16.84944,43.54361",
+    "geom:latitude":43.54361,
+    "geom:longitude":16.84944,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pleici",
+    "gn:country_code":"HR",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283831,
+    "gn:latitude":43.54361,
+    "gn:longitude":16.84944,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Plei\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283831
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"87da23fe96a6f9fb337841af6585cc3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209485701
+        }
+    ],
+    "wof:id":1209485701,
+    "wof:lastmodified":1536285643,
+    "wof:name":"Pleici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.849439999999998,
+    43.54361,
+    16.849439999999998,
+    43.54361
+],
+  "geometry": {"coordinates":[16.84944,43.54361],"type":"Point"}
+}

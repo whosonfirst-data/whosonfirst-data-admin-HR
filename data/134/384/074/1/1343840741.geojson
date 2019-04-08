@@ -1,0 +1,67 @@
+{
+  "id": 1343840741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.43389,43.22306,17.43389,43.22306",
+    "geom:latitude":43.22306,
+    "geom:longitude":17.43389,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ljutoholje",
+    "gn:country_code":"HR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288327,
+    "gn:latitude":43.22306,
+    "gn:longitude":17.43389,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Ljutoholje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288327
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"101dd9cd4afbb61cf53789c1b69ba6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759157,
+            "locality_id":1343840741,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1343840741,
+    "wof:lastmodified":1536695294,
+    "wof:name":"Ljutoholje",
+    "wof:parent_id":1108759157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.43389,
+    43.22306,
+    17.43389,
+    43.22306
+],
+  "geometry": {"coordinates":[17.43389,43.22306],"type":"Point"}
+}

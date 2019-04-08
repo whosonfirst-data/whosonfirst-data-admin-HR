@@ -1,0 +1,74 @@
+{
+  "id": 1193051013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88972,45.21639,13.88972,45.21639",
+    "geom:latitude":45.21639,
+    "geom:longitude":13.88972,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"3193560.0",
+    "gn:asciiname":"Heki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199400,
+    "gn:latitude":45.21639,
+    "gn:longitude":13.88972,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Heki",
+    "gn:population":469,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Checchi",
+        "Heki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199400
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"12374d59959aadef19e20a93d57f7fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193051013,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1193051013,
+    "wof:lastmodified":1537625896,
+    "wof:name":"Heki",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":469,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88972,
+    45.21639,
+    13.88972,
+    45.21639
+],
+  "geometry": {"coordinates":[13.88972,45.21639],"type":"Point"}
+}

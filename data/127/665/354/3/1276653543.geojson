@@ -1,0 +1,70 @@
+{
+  "id": 1276653543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65045,46.13346,15.65045,46.13346",
+    "geom:latitude":46.13346,
+    "geom:longitude":15.65045,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ivanic Miljanski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199067,
+    "gn:latitude":46.13346,
+    "gn:longitude":15.65045,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Ivani\u010d Miljanski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miljanski Ivani\u0107",
+        "Ivani\u010d Miljanski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199067
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c6d914f5ac0d34a5c97e0b1d3007b5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276653543,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1276653543,
+    "wof:lastmodified":1537625893,
+    "wof:name":"Ivanic Miljanski",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65045,
+    46.13346,
+    15.65045,
+    46.13346
+],
+  "geometry": {"coordinates":[15.65045,46.13346],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1192992793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76667,45.66667,15.76667,45.66667",
+    "geom:latitude":45.66667,
+    "geom:longitude":15.76667,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11048987.0",
+    "gn:asciiname":"Donja Zdencina",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201589,
+    "gn:latitude":45.66667,
+    "gn:longitude":15.76667,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Donja Zden\u010dina",
+    "gn:population":1009,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zden\u010dina",
+        "Donja Zden\u010dina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201589,
+        "wk:page":"Donja_Zden%C4%8Dina"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"59fbda788525c861894e67389ea5907a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1192992793,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1192992793,
+    "wof:lastmodified":1537625917,
+    "wof:name":"Donja Zdencina",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":1009,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76667,
+    45.66667,
+    15.76667,
+    45.66667
+],
+  "geometry": {"coordinates":[15.76667,45.66667],"type":"Point"}
+}

@@ -1,0 +1,127 @@
+{
+  "id": 101911595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:area_square_m":1008372.767572,
+    "geom:bbox":"17.9999145077,42.6937937012,18.0235410596,42.7060958425",
+    "geom:latitude":42.700046,
+    "geom:longitude":18.01125,
+    "gn:population":300,
+    "iso:country":"HR",
+    "lbl:latitude":42.700441,
+    "lbl:longitude":18.01125,
+    "mps:latitude":42.700441,
+    "mps:longitude":18.01125,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:deu_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:dut_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:eng_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:ger_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:hbs_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:hrv_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:hun_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:ita_x_preferred":[
+        "Valdinoce"
+    ],
+    "name:nob_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:nor_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:slv_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u0430\u0448\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Ora\u0161ac"
+    ],
+    "name:unk_x_variant":[
+        "Valdinoce"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Dubrovacko-neretvanska \u017eupanija",
+    "qs:a1r":"7",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Dubrovnik",
+    "qs:la_lc":"*HR1900981",
+    "qs:level":"locality",
+    "qs:loc":"Ora\u00b5ac",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":236,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194044,
+        "gp:id":849447,
+        "qs:id":1088000,
+        "qs_pg:id":1088000,
+        "wd:id":"Q1020867",
+        "wk:page":"Ora\u0161ac, Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e9fab33a8ebf3575edce24cedf7c2648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101911595,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":101911595,
+    "wof:lastmodified":1527715543,
+    "wof:name":"Ora\u00b5ac",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99991450768385,
+    42.69379370115081,
+    18.02354105958864,
+    42.70609584250423
+],
+  "geometry": {"coordinates":[[[18.00875877311267,42.70471909427289],[18.00863783336257,42.70382188482591],[18.00984949261476,42.70372593685329],[18.00972853981415,42.70282872816216],[18.01457507037856,42.7024447983755],[18.01421202609521,42.69975318689018],[18.01905828592953,42.69936904586791],[18.01917936752545,42.70026624391141],[18.02039094173,42.70017017083302],[18.02002765782038,42.69747857897374],[18.02245068823436,42.69728639950392],[18.02232956752039,42.69638920373148],[18.02354105958864,42.69629309398732],[18.02329879697743,42.6944987030368],[18.02087588106986,42.69469090136005],[18.02075479294865,42.69379370115081],[18.01590899115365,42.69417791760713],[18.01615102887877,42.6959723305157],[18.01493953389712,42.69606835183868],[18.0150605421606,42.696965558589],[18.01384902577973,42.69706156712982],[18.01397002100015,42.69795877463616],[18.00427762159796,42.69872633586925],[18.0043984782634,42.69962355585216],[18.00318689479838,42.69971943761641],[18.00342858690351,42.70151387817236],[18.00100533784303,42.70170560501651],[18.00112615534783,42.70260282726275],[17.99991450768385,42.70269867066827],[18.00015612145768,42.70449311575129],[18.00257948505742,42.70430140778785],[18.00282119008745,42.70609584250423],[18.00766801915319,42.70571223966283],[18.00754709245552,42.70481502945995],[18.00875877311267,42.70471909427289]]],"type":"Polygon"}
+}

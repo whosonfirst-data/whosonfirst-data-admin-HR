@@ -1,0 +1,65 @@
+{
+  "id": 1260050201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.76083,43.63083,16.76083,43.63083",
+    "geom:latitude":43.63083,
+    "geom:longitude":16.76083,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Baren",
+    "gn:country_code":"HR",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278159,
+    "gn:latitude":43.63083,
+    "gn:longitude":16.76083,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Baren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278159
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4bbff9d8fd79e87a32218ff7d8cba323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260050201,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1260050201,
+    "wof:lastmodified":1537034604,
+    "wof:name":"Baren",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.76083,
+    43.63083,
+    16.76083,
+    43.63083
+],
+  "geometry": {"coordinates":[16.76083,43.63083],"type":"Point"}
+}

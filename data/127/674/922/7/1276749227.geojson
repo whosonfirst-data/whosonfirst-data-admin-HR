@@ -1,0 +1,70 @@
+{
+  "id": 1276749227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46306,44.54111,15.46306,44.54111",
+    "geom:latitude":44.54111,
+    "geom:longitude":15.46306,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Basarica Draga",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217246,
+    "gn:latitude":44.54111,
+    "gn:longitude":15.46306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Basari\u0107a Draga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Basari\u0107 Draga",
+        "Basari\u0107a Draga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217246
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5f320d53d3558a935808058b48f0741e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276749227,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1276749227,
+    "wof:lastmodified":1537625953,
+    "wof:name":"Basarica Draga",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46306,
+    44.54111,
+    15.46306,
+    44.54111
+],
+  "geometry": {"coordinates":[15.46306,44.54111],"type":"Point"}
+}

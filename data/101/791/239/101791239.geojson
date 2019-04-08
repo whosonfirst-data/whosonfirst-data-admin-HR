@@ -1,0 +1,142 @@
+{
+  "id": 101791239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":608531.135025,
+    "geom:bbox":"15.8259565949,46.0845012586,15.8399098642,46.0978945163",
+    "geom:latitude":46.091387,
+    "geom:longitude":15.833324,
+    "iso:country":"HR",
+    "lbl:latitude":46.092245,
+    "lbl:longitude":15.833324,
+    "mps:latitude":46.092245,
+    "mps:longitude":15.833324,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Krapinske Toplice"
+    ],
+    "name:deu_x_preferred":[
+        "Krapinske toplice"
+    ],
+    "name:dut_x_preferred":[
+        "Krapinske Toplice"
+    ],
+    "name:eng_x_preferred":[
+        "Krapinske Toplice"
+    ],
+    "name:fra_x_preferred":[
+        "Krapinske Toplice"
+    ],
+    "name:fre_x_preferred":[
+        "Krapinske Toplice"
+    ],
+    "name:ger_x_preferred":[
+        "Krapinske toplice"
+    ],
+    "name:hbs_x_preferred":[
+        "Krapinske Toplice"
+    ],
+    "name:hrv_x_preferred":[
+        "Krapinske Toplice"
+    ],
+    "name:hun_x_preferred":[
+        "Krapinske Toplice"
+    ],
+    "name:ita_x_preferred":[
+        "Krapinske Toplice"
+    ],
+    "name:nld_x_preferred":[
+        "Krapinske Toplice"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Krapinske Toplice"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Krapinske Toplice"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u043f\u0438\u043d\u0441\u043a\u0435-\u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Krapinske Toplice"
+    ],
+    "name:spa_x_preferred":[
+        "Krapinske Toplice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u043f\u0438\u043d\u0441\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Krapinske Toplice"
+    ],
+    "name:und_x_preferred":[
+        "Krapinske Toplice"
+    ],
+    "name:war_x_preferred":[
+        "Krapinske Toplice"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Krapinsko-zagorska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Krapinske Toplice",
+    "qs:la_lc":"*HR0202127",
+    "qs:level":"locality",
+    "qs:loc":"Krapinske Toplice",
+    "qs:loc_alt":"Krapinske Toplice",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":142,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115c287c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3197364,
+        "gp:id":848589,
+        "qs:id":940556,
+        "wd:id":"Q943679",
+        "wk:page":"Krapinske Toplice"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b27a5839fd51fe7e6540d6ba737899ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791239,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":101791239,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527641957,
+    "wof:name":"Krapinske Toplice",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82595659491966,
+    46.08450125856035,
+    15.83990986420741,
+    46.09789451626909
+],
+  "geometry": {"coordinates":[[[15.83990986420741,46.09775323197977],[15.83893711313925,46.08877737053064],[15.83636044178866,46.08891862766518],[15.83645765556935,46.08981621931594],[15.83516929409564,46.08988682590996],[15.83526649083376,46.09078441829757],[15.83011292957656,46.09106669456037],[15.82982160670906,46.0883738992618],[15.83110993789103,46.08830335759507],[15.83101281740801,46.08740575927794],[15.83230112431858,46.08733520341389],[15.83220398679123,46.08643760583271],[15.83349226943074,46.08636703577167],[15.83339511486116,46.08546943892662],[15.83468337323052,46.08539885466945],[15.83458620162054,46.08450125856035],[15.83200972429393,46.08464240880971],[15.83210685344966,46.08554000763127],[15.83081858899669,46.08561056078355],[15.83091570110992,46.08650816034094],[15.82962741238725,46.08657869929624],[15.82972450745598,46.08747629958896],[15.82714787843099,46.08761733355129],[15.82724493522272,46.0885149359346],[15.82595659491966,46.0885854309409],[15.82644183545773,46.09307344033579],[15.82901872535865,46.09293242121817],[15.82911582848686,46.09383001852751],[15.83684655259003,46.09340657971711],[15.83733276815633,46.09789451626909],[15.83990986420741,46.09775323197977]]],"type":"Polygon"}
+}

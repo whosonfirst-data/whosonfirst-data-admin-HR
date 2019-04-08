@@ -1,0 +1,65 @@
+{
+  "id": 1310178471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.62139,43.70444,16.62139,43.70444",
+    "geom:latitude":43.70444,
+    "geom:longitude":16.62139,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pavic",
+    "gn:country_code":"HR",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280835,
+    "gn:latitude":43.70444,
+    "gn:longitude":16.62139,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Pavi\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280835
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"93e61ad2c28ce72196b2cb4686f77d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310178471,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1310178471,
+    "wof:lastmodified":1536891050,
+    "wof:name":"Pavic",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.62139,
+    43.70444000000001,
+    16.62139,
+    43.70444000000001
+],
+  "geometry": {"coordinates":[16.62139,43.70444000000001],"type":"Point"}
+}

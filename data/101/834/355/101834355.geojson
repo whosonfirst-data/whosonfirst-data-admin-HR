@@ -1,0 +1,104 @@
+{
+  "id": 101834355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":259290.90267,
+    "geom:bbox":"16.1535453282,46.3064340185,16.1651952948,46.3155530697",
+    "geom:latitude":46.311428,
+    "geom:longitude":16.158006,
+    "iso:country":"HR",
+    "lbl:latitude":46.312241,
+    "lbl:longitude":16.158404,
+    "mps:latitude":46.312241,
+    "mps:longitude":16.158404,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Gornje Ladanje"
+    ],
+    "name:deu_x_preferred":[
+        "Schloss Bajnski dvori"
+    ],
+    "name:dut_x_preferred":[
+        "Gornje Ladanje"
+    ],
+    "name:eng_x_preferred":[
+        "Gornje Ladanje"
+    ],
+    "name:fra_x_preferred":[
+        "Bajnski Dvori"
+    ],
+    "name:hrv_x_preferred":[
+        "Bajnski dvori"
+    ],
+    "name:hun_x_preferred":[
+        "Gornje Ladanje"
+    ],
+    "name:slv_x_preferred":[
+        "Gornje Ladanje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0435 \u041b\u0430\u0434\u0430\u045a\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Ladanje"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vara\u017edinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Vinica",
+    "qs:la_lc":"*HR0504863",
+    "qs:level":"locality",
+    "qs:loc":"Gornje Ladanje",
+    "qs:loc_alt":"Gornje Ladanje",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":225,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200117,
+        "gp:id":847861,
+        "qs:id":940525,
+        "wd:id":"Q7485845"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a07581d24c3da548c114ec25c3609940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101834355,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":101834355,
+    "wof:lastmodified":1527642930,
+    "wof:name":"Gornje Ladanje",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15354532818452,
+    46.30643401846339,
+    16.1651952948161,
+    46.31555306966203
+],
+  "geometry": {"coordinates":[[[[16.1603433286939,46.30728112138263],[16.15937291097276,46.30643401846339],[16.15809917699619,46.30650745216059],[16.15820240379554,46.30740456133509],[16.1569091966357,46.30747910210812],[16.15732206280575,46.31106753835047],[16.15602876670425,46.31114206926986],[16.15613197298654,46.31203917821665],[16.15354532818452,46.31218819608205],[16.15375166843785,46.31398241787332],[16.15763175932892,46.31375885900252],[16.1578382460134,46.31555306966203],[16.15913164600033,46.31547851591699],[16.1590283789954,46.31458141233958],[16.160321754302,46.31450684441694],[16.15949560770554,46.30733000494507],[16.1603433286939,46.30728112138263]]],[[[16.1651952948161,46.31151652905982],[16.16422492351614,46.31066946666289],[16.16378849455157,46.31069464948081],[16.16389182938343,46.31159174977711],[16.1651952948161,46.31151652905982]]]],"type":"MultiPolygon"}
+}

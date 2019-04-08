@@ -1,0 +1,65 @@
+{
+  "id": 1260377111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.935,44.15528,15.935,44.15528",
+    "geom:latitude":44.15528,
+    "geom:longitude":15.935,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Macure",
+    "gn:country_code":"HR",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215100,
+    "gn:latitude":44.15528,
+    "gn:longitude":15.935,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Macure",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215100
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"911a7e6fd8ef01347a4d9cf48e029dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260377111,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1260377111,
+    "wof:lastmodified":1537080409,
+    "wof:name":"Macure",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.935,
+    44.15528,
+    15.935,
+    44.15528
+],
+  "geometry": {"coordinates":[15.935,44.15528],"type":"Point"}
+}

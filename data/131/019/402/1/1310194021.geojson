@@ -1,0 +1,65 @@
+{
+  "id": 1310194021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46389,45.29111,18.46389,45.29111",
+    "geom:latitude":45.29111,
+    "geom:longitude":18.46389,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Budrovacki Pisak",
+    "gn:country_code":"HR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214644,
+    "gn:latitude":45.29111,
+    "gn:longitude":18.46389,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Budrova\u010dki Pisak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214644
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5053fa06a8dd14b87608cce4223b7bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310194021,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1310194021,
+    "wof:lastmodified":1536867624,
+    "wof:name":"Budrovacki Pisak",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46389,
+    45.29111,
+    18.46389,
+    45.29111
+],
+  "geometry": {"coordinates":[18.46389,45.29111],"type":"Point"}
+}

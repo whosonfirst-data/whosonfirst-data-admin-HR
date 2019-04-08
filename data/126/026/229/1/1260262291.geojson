@@ -1,0 +1,70 @@
+{
+  "id": 1260262291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09111,43.72528,16.09111,43.72528",
+    "geom:latitude":43.72528,
+    "geom:longitude":16.09111,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kraljice",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197385,
+    "gn:latitude":43.72528,
+    "gn:longitude":16.09111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kraljice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danilo Kraljice",
+        "Kraljice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197385
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6bdb5342915b4d99328bc84a1bd79d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260262291,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1260262291,
+    "wof:lastmodified":1537625881,
+    "wof:name":"Kraljice",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09111,
+    43.72528,
+    16.09111,
+    43.72528
+],
+  "geometry": {"coordinates":[16.09111,43.72528],"type":"Point"}
+}

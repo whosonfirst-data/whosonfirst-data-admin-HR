@@ -1,0 +1,80 @@
+{
+  "id": 1125814097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5736155,45.247216,14.5736155,45.247216",
+    "geom:latitude":45.247216,
+    "geom:longitude":14.573616,
+    "gn:gn_country":"HR",
+    "iso:country":"HR",
+    "lbl:latitude":45.247216,
+    "lbl:longitude":14.573616,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:name":"\u00c5 Mrika",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Primorsko-Goranska",
+    "qs_pg:photos":96,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":96,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":502382,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850317,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Primorsko-Goranska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":850317,
+        "qs_pg:id":502382
+    },
+    "wof:country":"HR",
+    "wof:created":1497291769,
+    "wof:geomhash":"19bdd4024ffb6ee2f5a0b9a24e52a47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125814097,
+            "region_id":85684785
+        }
+    ],
+    "wof:id":1125814097,
+    "wof:lastmodified":1509393699,
+    "wof:name":"\u00c5 Mrika",
+    "wof:parent_id":85684785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5736155,
+    45.247216,
+    14.5736155,
+    45.247216
+],
+  "geometry": {"coordinates":[14.5736155,45.247216],"type":"Point"}
+}

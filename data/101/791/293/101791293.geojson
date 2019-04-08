@@ -1,0 +1,149 @@
+{
+  "id": 101791293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":299270.194934,
+    "geom:bbox":"16.2994853946,46.2443764466,16.3113207855,46.250216209",
+    "geom:latitude":46.24778,
+    "geom:longitude":16.305499,
+    "gn:population":1059,
+    "iso:country":"HR",
+    "lbl:latitude":46.248232,
+    "lbl:longitude":16.305499,
+    "mps:latitude":46.248232,
+    "mps:longitude":16.305499,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Beretinec"
+    ],
+    "name:cze_x_preferred":[
+        "Beretinec"
+    ],
+    "name:dut_x_preferred":[
+        "Beretinec"
+    ],
+    "name:eng_x_preferred":[
+        "Bertinec"
+    ],
+    "name:fra_x_preferred":[
+        "Beretinec"
+    ],
+    "name:fre_x_preferred":[
+        "Beretinec"
+    ],
+    "name:hbs_x_preferred":[
+        "Beretinec"
+    ],
+    "name:hrv_x_preferred":[
+        "Beretinec"
+    ],
+    "name:hun_x_preferred":[
+        "Beretinec"
+    ],
+    "name:ita_x_preferred":[
+        "Beretinec"
+    ],
+    "name:nld_x_preferred":[
+        "Beretinec"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Beretinec"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Beretinec"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0442\u0438\u043d\u0435\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Beretinec"
+    ],
+    "name:spa_x_preferred":[
+        "Beretinec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0442\u0438\u043d\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Beretinec"
+    ],
+    "name:und_x_preferred":[
+        "Beretinec"
+    ],
+    "name:unk_x_variant":[
+        "Bertinec"
+    ],
+    "name:war_x_preferred":[
+        "Beretinec"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vara\u017edinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Beretinec",
+    "qs:la_lc":"*HR0500191",
+    "qs:level":"locality",
+    "qs:loc":"Beretinec",
+    "qs:loc_alt":"Beretinec",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115b4f56-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3204277,
+        "gp:id":846790,
+        "qs:id":763447,
+        "qs_pg:id":763447,
+        "wd:id":"Q651934",
+        "wk:page":"Beretinec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"295d1443e5cb4fa22ca3b1f99001d090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791293,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":101791293,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527641955,
+    "wof:name":"Beretinec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":1059,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.29948539455933,
+    46.2443764466413,
+    16.31132078546364,
+    46.25021620903902
+],
+  "geometry": {"coordinates":[[[16.30765705156318,46.2499109637547],[16.30755150252935,46.24901399557069],[16.30884313632731,46.24893764673965],[16.30873757050915,46.24804067939658],[16.31132078546364,46.24788793790282],[16.31110958213964,46.24609400721363],[16.30981801900657,46.24617038280911],[16.30960687661326,46.2443764466413],[16.30831535284426,46.24445280369815],[16.30852645255618,46.24624674281273],[16.29948539455933,46.24678082625672],[16.29969621370208,46.24857478345268],[16.30098784604735,46.24849852965207],[16.30109328379604,46.24939550583036],[16.30238493417289,46.24931923496484],[16.30249039782404,46.25021620903902],[16.30765705156318,46.2499109637547]]],"type":"Polygon"}
+}

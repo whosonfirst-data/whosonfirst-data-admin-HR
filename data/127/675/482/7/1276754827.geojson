@@ -1,0 +1,66 @@
+{
+  "id": 1276754827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33861,44.65306,15.33861,44.65306",
+    "geom:latitude":44.65306,
+    "geom:longitude":15.33861,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049291.0",
+    "gn:asciiname":"Lulici",
+    "gn:country_code":"HR",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271455,
+    "gn:latitude":44.65306,
+    "gn:longitude":15.33861,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Luli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271455
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"951af1530da125f2dc9f82d8889689ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276754827,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1276754827,
+    "wof:lastmodified":1536711435,
+    "wof:name":"Lulici",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33861,
+    44.65306,
+    15.33861,
+    44.65306
+],
+  "geometry": {"coordinates":[15.33861,44.65306],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226726999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.465,45.36556,14.465,45.36556",
+    "geom:latitude":45.36556,
+    "geom:longitude":14.465,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11049432.0",
+    "gn:asciiname":"Grobnik",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199532,
+    "gn:latitude":45.36556,
+    "gn:longitude":14.465,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Grobnik",
+    "gn:population":421,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grobnico",
+        "Grobnik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199532
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"460c8e31aa0971097593a484da6e3f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226726999,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1226726999,
+    "wof:lastmodified":1537625897,
+    "wof:name":"Grobnik",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":421,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.465,
+    45.36556,
+    14.465,
+    45.36556
+],
+  "geometry": {"coordinates":[14.465,45.36556],"type":"Point"}
+}

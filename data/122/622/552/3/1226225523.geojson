@@ -1,0 +1,65 @@
+{
+  "id": 1226225523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25,45.33333,16.25,45.33333",
+    "geom:latitude":45.33333,
+    "geom:longitude":16.25,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dolcani",
+    "gn:country_code":"HR",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201864,
+    "gn:latitude":45.33333,
+    "gn:longitude":16.25,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Dol\u010dani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201864
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d2f96d53e9bb180bbce99af505a7d293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226225523,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1226225523,
+    "wof:lastmodified":1536962664,
+    "wof:name":"Dolcani",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25,
+    45.33333,
+    16.25,
+    45.33333
+],
+  "geometry": {"coordinates":[16.25,45.33333],"type":"Point"}
+}

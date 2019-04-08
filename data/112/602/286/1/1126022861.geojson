@@ -1,0 +1,111 @@
+{
+  "id": 1126022861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13981,45.73494,17.13981,45.73494",
+    "geom:latitude":45.73494,
+    "geom:longitude":17.13981,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":333,
+    "gn:population":335,
+    "iso:country":"HR",
+    "lbl:latitude":45.73494,
+    "lbl:longitude":17.13981,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Velika Barna"
+    ],
+    "name:dut_x_preferred":[
+        "Velika Barna"
+    ],
+    "name:eng_x_preferred":[
+        "Velika Barna"
+    ],
+    "name:hrv_x_preferred":[
+        "Velika Barna"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u0627 \u0628\u0631\u0646\u0627"
+    ],
+    "name:slv_x_preferred":[
+        "Velika Barna"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u0411\u0430\u0440\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Velika Barna"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3188275,
+    "qs_pg:gn_pop":333,
+    "qs_pg:name":"Velika Barna",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Bjelovarsko-Bilogorska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":407733,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850832,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Bjelovarsko-Bilogorska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188275,
+        "gp:id":850832,
+        "qs_pg:id":407733,
+        "wd:id":"Q2421672"
+    },
+    "wof:country":"HR",
+    "wof:created":1497300938,
+    "wof:geomhash":"5169e66c223ff84f758d70a6a6722214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126022861,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1126022861,
+    "wof:lastmodified":1514447675,
+    "wof:name":"Velika Barna",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":335,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13981,
+    45.73494,
+    17.13981,
+    45.73494
+],
+  "geometry": {"coordinates":[17.13981,45.73494],"type":"Point"}
+}

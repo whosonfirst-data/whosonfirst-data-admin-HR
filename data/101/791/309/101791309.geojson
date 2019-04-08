@@ -1,0 +1,146 @@
+{
+  "id": 101791309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":508763.583725,
+    "geom:bbox":"16.3829608312,46.1663445634,16.3922021906,46.1774940881",
+    "geom:latitude":46.171284,
+    "geom:longitude":16.388282,
+    "gn:population":1306,
+    "iso:country":"HR",
+    "lbl:latitude":46.170451,
+    "lbl:longitude":16.388737,
+    "mps:latitude":46.170451,
+    "mps:longitude":16.388737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ljube\u0161\u0107ica"
+    ],
+    "name:cze_x_preferred":[
+        "Ljube\u0161\u0107ica"
+    ],
+    "name:deu_x_preferred":[
+        "Ljube\u0161\u010dica"
+    ],
+    "name:dut_x_preferred":[
+        "Ljube\u0161\u0107ica"
+    ],
+    "name:eng_x_preferred":[
+        "Ljube\u0161\u0107ica"
+    ],
+    "name:fra_x_preferred":[
+        "Ljube\u0161\u0107ica"
+    ],
+    "name:fre_x_preferred":[
+        "Ljube\u0161\u0107ica"
+    ],
+    "name:ger_x_preferred":[
+        "Ljube\u0161\u010dica"
+    ],
+    "name:hbs_x_preferred":[
+        "Ljube\u0161\u0107ica"
+    ],
+    "name:hrv_x_preferred":[
+        "Ljube\u0161\u0107ica"
+    ],
+    "name:hun_x_preferred":[
+        "Ljube\u0161\u0107ica"
+    ],
+    "name:ita_x_preferred":[
+        "Ljube\u0161\u0107ica"
+    ],
+    "name:nld_x_preferred":[
+        "Ljube\u0161\u0107ica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Ljube\u0161\u0107ica"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Ljube\u0161\u0107ica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0431\u0435\u0448\u0447\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ljube\u0161\u0107ica"
+    ],
+    "name:spa_x_preferred":[
+        "Ljube\u0161\u0107ica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0443\u0431\u0435\u0448\u045b\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ljube\u0161\u0107ica"
+    ],
+    "name:war_x_preferred":[
+        "Ljube\u0161\u0107ica"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vara\u017edinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Ljube\u0161\u0107ica",
+    "qs:la_lc":"*HR0502470",
+    "qs:level":"locality",
+    "qs:loc":"Ljube\u0161\u0107ica",
+    "qs:loc_alt":"Ljubescica",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196375,
+        "gp:id":848339,
+        "qs:id":147185,
+        "qs_pg:id":147185,
+        "wd:id":"Q1027907",
+        "wk:page":"Ljube\u0161\u0107ica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"264dea59dd3e0419c9b47b58b2748094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791309,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":101791309,
+    "wof:lastmodified":1527641952,
+    "wof:name":"Ljube\u0161\u0107ica",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":1306,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38296083117871,
+    46.16634456335214,
+    16.39220219055301,
+    46.17749408806367
+],
+  "geometry": {"coordinates":[[[16.39220219055301,46.17351987594355],[16.39134855332242,46.16634456335214],[16.38876941868159,46.16649920280258],[16.38887606472349,46.1673961220971],[16.38500727392568,46.16762796901264],[16.38490069164118,46.16673104525483],[16.38361110927588,46.16680829494555],[16.38382423593566,46.16860214479448],[16.38511386080762,46.16852489212926],[16.38543364903978,46.17121565763563],[16.38414396040088,46.17129291476272],[16.38425054441751,46.17218983680425],[16.38296083117871,46.1722670798539],[16.38306739853454,46.17316400274206],[16.38693659199669,46.17293222243563],[16.38725651298898,46.17562297386922],[16.38596672139863,46.17570025400067],[16.38617998253932,46.17749408806367],[16.38746981665383,46.1774168049559],[16.38736316252101,46.17651988973273],[16.38994277818807,46.17636527979437],[16.38983608613376,46.17546836690786],[16.39112586768658,46.17539104007813],[16.39091245486566,46.17359721536087],[16.39220219055301,46.17351987594355]]],"type":"Polygon"}
+}

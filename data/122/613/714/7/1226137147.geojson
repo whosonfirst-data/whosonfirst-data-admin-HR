@@ -1,0 +1,72 @@
+{
+  "id": 1226137147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88167,46.01972,15.88167,46.01972",
+    "geom:latitude":46.01972,
+    "geom:longitude":15.88167,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3186983.0",
+    "gn:asciiname":"Pavlovec-Zabocki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213499,
+    "gn:latitude":46.01972,
+    "gn:longitude":15.88167,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Pavlovec-Zabo\u010dki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pavlovec",
+        "Pavlovec-Zabo\u010dki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213499,
+        "wk:page":"Pavlovec_Zabo%C4%8Dki"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"569a2dde3195ececc11a29dbffade450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226137147,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1226137147,
+    "wof:lastmodified":1537625944,
+    "wof:name":"Pavlovec-Zabocki",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88167,
+    46.01972,
+    15.88167,
+    46.01972
+],
+  "geometry": {"coordinates":[15.88167,46.01972],"type":"Point"}
+}

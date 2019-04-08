@@ -1,0 +1,61 @@
+{
+  "id": 1209508401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33861,44.87528,15.33861,44.87528",
+    "geom:latitude":44.87528,
+    "geom:longitude":15.33861,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mirkovici",
+    "gn:country_code":"HR",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273018,
+    "gn:latitude":44.87528,
+    "gn:longitude":15.33861,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Mirkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273018
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fc146b3c784490e41f57db0ae5b2cde1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209508401
+        }
+    ],
+    "wof:id":1209508401,
+    "wof:lastmodified":1536284960,
+    "wof:name":"Mirkovici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33861,
+    44.87528,
+    15.33861,
+    44.87528
+],
+  "geometry": {"coordinates":[15.33861,44.87528],"type":"Point"}
+}

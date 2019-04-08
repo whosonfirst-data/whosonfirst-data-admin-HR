@@ -1,0 +1,121 @@
+{
+  "id": 1125913229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.61389,45.56861,18.61389,45.56861",
+    "geom:latitude":45.56861,
+    "geom:longitude":18.61389,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7181,
+    "gn:population":6680,
+    "iso:country":"HR",
+    "lbl:latitude":45.56861,
+    "lbl:longitude":18.61389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Vi\u0161njevac"
+    ],
+    "name:dut_x_preferred":[
+        "Vi\u0161njevac"
+    ],
+    "name:eng_x_preferred":[
+        "Vi\u0161njevac"
+    ],
+    "name:fre_x_preferred":[
+        "Vi\u0161njevac"
+    ],
+    "name:hrv_x_preferred":[
+        "Vi\u0161njevac"
+    ],
+    "name:pol_x_preferred":[
+        "Vi\u0161njevac"
+    ],
+    "name:slv_x_preferred":[
+        "Vi\u0161njevac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0448\u045a\u0435\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Vi\u0161njevac"
+    ],
+    "name:unk_x_variant":[
+        "Adolfovac Pusta"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3187657,
+    "qs_pg:gn_pop":7181,
+    "qs_pg:name":"Vi\u00b5njevac",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Osje\u010dko-baranjska",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1219376,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850960,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Osje\u010dko-baranjska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187657,
+        "gp:id":850960,
+        "qs_pg:id":1219376,
+        "wd:id":"Q2393687"
+    },
+    "wof:country":"HR",
+    "wof:created":1497296215,
+    "wof:geomhash":"1aeaca93d6c1da9ec6d6816af00d9b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125913229,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1125913229,
+    "wof:lastmodified":1553816623,
+    "wof:name":"Vi\u00b5njevac",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":6680,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61389,
+    45.56861,
+    18.61389,
+    45.56861
+],
+  "geometry": {"coordinates":[18.61389,45.56861],"type":"Point"}
+}

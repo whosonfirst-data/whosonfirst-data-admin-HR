@@ -1,0 +1,115 @@
+{
+  "id": 101857829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71735,44.78154,14.71735,44.78154",
+    "geom:latitude":44.78154,
+    "geom:longitude":14.71735,
+    "geonames:id":"3198356,3217900",
+    "iso:country":"HR",
+    "lbl:latitude":44.78154,
+    "lbl:longitude":14.71735,
+    "mps:latitude":44.78154,
+    "mps:longitude":14.71735,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Kampor"
+    ],
+    "name:dut_x_preferred":[
+        "Kampor"
+    ],
+    "name:eng_x_preferred":[
+        "Kampor"
+    ],
+    "name:fra_x_preferred":[
+        "Kampor"
+    ],
+    "name:fre_x_preferred":[
+        "Kampor"
+    ],
+    "name:hbs_x_preferred":[
+        "Kampor"
+    ],
+    "name:hrv_x_preferred":[
+        "Kampor"
+    ],
+    "name:hun_x_preferred":[
+        "Kampor"
+    ],
+    "name:pol_x_preferred":[
+        "Kampor"
+    ],
+    "name:slv_x_preferred":[
+        "Kampor"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Kampor"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Primorsko-goranska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kampor",
+    "qs:loc_alt":"Kampor",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217900,
+        "gp:id":848330,
+        "qs:id":3,
+        "qs_pg:id":1044102,
+        "wd:id":"Q665329"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0a2403a97de0e5381a6cdb9470191dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101857829,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":101857829,
+    "wof:lastmodified":1544744100,
+    "wof:name":"Kampor",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71735,
+    44.78154,
+    14.71735,
+    44.78154
+],
+  "geometry": {"coordinates":[14.71735,44.78154],"type":"Point"}
+}

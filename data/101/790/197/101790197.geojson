@@ -1,0 +1,135 @@
+{
+  "id": 101790197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000218,
+    "geom:area_square_m":1865392.259428,
+    "geom:bbox":"16.7969332223,46.3063922038,16.8226693017,46.320661137",
+    "geom:latitude":46.313274,
+    "geom:longitude":16.809777,
+    "iso:country":"HR",
+    "lbl:latitude":46.313016,
+    "lbl:longitude":16.809777,
+    "mps:latitude":46.313016,
+    "mps:longitude":16.809777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Donja Dubrava"
+    ],
+    "name:ces_x_preferred":[
+        "Donja Dubrava"
+    ],
+    "name:cze_x_preferred":[
+        "Donja Dubrava"
+    ],
+    "name:dut_x_preferred":[
+        "Donja Dubrava"
+    ],
+    "name:eng_x_preferred":[
+        "Donja Dubrava"
+    ],
+    "name:epo_x_preferred":[
+        "Donja Dubrava"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Dubrava"
+    ],
+    "name:fre_x_preferred":[
+        "Donja Dubrava"
+    ],
+    "name:hbs_x_preferred":[
+        "Donja Dubrava"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Dubrava"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3domboru"
+    ],
+    "name:ita_x_preferred":[
+        "Donja Dubrava"
+    ],
+    "name:nld_x_preferred":[
+        "Donja Dubrava"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Donja Dubrava"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Donja Dubrava"
+    ],
+    "name:slv_x_preferred":[
+        "Donja Dubrava"
+    ],
+    "name:spa_x_preferred":[
+        "Donja Dubrava"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u0414\u0443\u0431\u0440\u0430\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Als\u00f3domboru"
+    ],
+    "name:war_x_preferred":[
+        "Donja Dubrava"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Medimurska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Donja Dubrava",
+    "qs:la_lc":"*HR2000787",
+    "qs:level":"locality",
+    "qs:loc":"Donja Dubrava",
+    "qs:loc_alt":"Donja Dubrava",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":198,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201696,
+        "gp:id":847359,
+        "qs:id":180203,
+        "wd:id":"Q664100",
+        "wk:page":"Donja Dubrava, Me\u0111imurje County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"02bcc480bd9b77e4acb3f06b7f527e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101790197,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":101790197,
+    "wof:lastmodified":1553815504,
+    "wof:name":"Donja Dubrava",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.79693322233175,
+    46.30639220379811,
+    16.82266930168095,
+    46.32066113695242
+],
+  "geometry": {"coordinates":[[[16.80959343972955,46.31935288882266],[16.80947927084611,46.31845657295867],[16.82111339269511,46.3177141395426],[16.82088468530964,46.31592153454659],[16.81959206219926,46.31600408635802],[16.8192491022611,46.31331516917362],[16.81795653961609,46.31339770060174],[16.81761368821054,46.31070877274692],[16.81890618680154,46.3106262461024],[16.81879189153102,46.3097299371035],[16.82266930168095,46.30948226836978],[16.82244059787593,46.30768965797807],[16.81727088126769,46.30801983900494],[16.81715662216561,46.30712352644906],[16.81457178498965,46.30728852019553],[16.81445757351935,46.30639220379811],[16.81316517088908,46.30647467568343],[16.81327936101275,46.30737099367389],[16.8042322926413,46.30794787131572],[16.80434633826189,46.30884419979634],[16.8017613865909,46.30900888478857],[16.80187539444046,46.30990521579741],[16.79799787598711,46.3101521310748],[16.79822577835819,46.31194480067336],[16.79693322233175,46.31202707774901],[16.79704715955279,46.31292341315844],[16.80092488093965,46.31267653036582],[16.80126691436311,46.31536551836501],[16.7999742800863,46.31544783299944],[16.80020228430112,46.31724049158134],[16.79890960372165,46.31732279379656],[16.79902359186326,46.31821912369855],[16.80160899215406,46.31805450048682],[16.801723027945,46.31895082655495],[16.80301574406923,46.31886848995714],[16.80324387316705,46.32066113695242],[16.80582938009206,46.32049641058831],[16.8057152703542,46.31960009060032],[16.80959343972955,46.31935288882266]]],"type":"Polygon"}
+}

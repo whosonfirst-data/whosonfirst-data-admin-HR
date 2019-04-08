@@ -1,0 +1,70 @@
+{
+  "id": 1259371967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.54333,45.46806,18.54333,45.46806",
+    "geom:latitude":45.46806,
+    "geom:longitude":18.54333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mali Pomocin",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195637,
+    "gn:latitude":45.46806,
+    "gn:longitude":18.54333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mali Pomo\u0107in",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pomo\u0107in Mali",
+        "Mali Pomo\u0107in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195637
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7489797e5bb3c82c18f1426d7ca782f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259371967,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1259371967,
+    "wof:lastmodified":1537625867,
+    "wof:name":"Mali Pomocin",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.54333,
+    45.46806,
+    18.54333,
+    45.46806
+],
+  "geometry": {"coordinates":[18.54333,45.46806],"type":"Point"}
+}

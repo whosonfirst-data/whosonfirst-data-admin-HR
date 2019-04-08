@@ -1,0 +1,66 @@
+{
+  "id": 1344181153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92444,44.88583,13.92444,44.88583",
+    "geom:latitude":44.88583,
+    "geom:longitude":13.92444,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"11054806.0",
+    "gn:asciiname":"Ivanicici",
+    "gn:country_code":"HR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213487,
+    "gn:latitude":44.88583,
+    "gn:longitude":13.92444,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Ivani\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213487
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a6a2ce2ea72bcf66b1992f74188e3301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344181153,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1344181153,
+    "wof:lastmodified":1536701723,
+    "wof:name":"Ivanicici",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92444,
+    44.88583,
+    13.92444,
+    44.88583
+],
+  "geometry": {"coordinates":[13.92444,44.88583],"type":"Point"}
+}

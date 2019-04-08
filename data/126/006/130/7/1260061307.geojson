@@ -1,0 +1,71 @@
+{
+  "id": 1260061307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.70611,45.40389,17.70611,45.40389",
+    "geom:latitude":45.40389,
+    "geom:longitude":17.70611,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"11049475.0",
+    "gn:asciiname":"Gaic",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3238638,
+    "gn:latitude":45.40389,
+    "gn:longitude":17.70611,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Gai\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gai\u0107 Pusta",
+        "Gai\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3238638
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f6bb5e12ec8b64b5ea72780f382e7129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260061307,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1260061307,
+    "wof:lastmodified":1537625960,
+    "wof:name":"Gaic",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.70611,
+    45.40389,
+    17.70611,
+    45.40389
+],
+  "geometry": {"coordinates":[17.70611,45.40389],"type":"Point"}
+}

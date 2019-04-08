@@ -1,0 +1,80 @@
+{
+  "id": 1327007183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.27083,45.42222,14.27083,45.42222",
+    "geom:latitude":45.42222,
+    "geom:longitude":14.27083,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11049443.0",
+    "gn:asciiname":"Veli Brgud",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188295,
+    "gn:latitude":45.42222,
+    "gn:longitude":14.27083,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Veli Brgud",
+    "gn:population":485,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grofsbergud",
+        "Bergut Grande",
+        "Bergut",
+        "Bergud Grande",
+        "Brgud",
+        "Brgud Veliki",
+        "Bergua",
+        "Veli Brgud"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188295
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6308a13004e1f39231a4f8a61f652f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327007183,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1327007183,
+    "wof:lastmodified":1537625814,
+    "wof:name":"Veli Brgud",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":485,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.27083,
+    45.42222,
+    14.27083,
+    45.42222
+],
+  "geometry": {"coordinates":[14.27083,45.42222],"type":"Point"}
+}

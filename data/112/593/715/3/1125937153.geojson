@@ -1,0 +1,111 @@
+{
+  "id": 1125937153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19278,45.51167,17.19278,45.51167",
+    "geom:latitude":45.51167,
+    "geom:longitude":17.19278,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":847,
+    "gn:population":733,
+    "iso:country":"HR",
+    "lbl:latitude":45.51167,
+    "lbl:longitude":17.19278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Badljevina"
+    ],
+    "name:dut_x_preferred":[
+        "Badljevina"
+    ],
+    "name:eng_x_preferred":[
+        "Badljevina"
+    ],
+    "name:fre_x_preferred":[
+        "Badljevina"
+    ],
+    "name:hrv_x_preferred":[
+        "Badljevina"
+    ],
+    "name:slv_x_preferred":[
+        "Badljevina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434\u0459\u0435\u0432\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Badljevina"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3204638,
+    "qs_pg:gn_pop":847,
+    "qs_pg:name":"Badljevina",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Po\u017ee\u0161ko-slavonska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1274825,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":846677,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Po\u017ee\u0161ko-slavonska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204638,
+        "gp:id":846677,
+        "qs_pg:id":1274825,
+        "wd:id":"Q2380313"
+    },
+    "wof:country":"HR",
+    "wof:created":1497297003,
+    "wof:geomhash":"513109f6e58b2ccae9866d5b2f946a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125937153,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1125937153,
+    "wof:lastmodified":1514447382,
+    "wof:name":"Badljevina",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":733,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19278,
+    45.51167,
+    17.19278,
+    45.51167
+],
+  "geometry": {"coordinates":[17.19278,45.51167],"type":"Point"}
+}

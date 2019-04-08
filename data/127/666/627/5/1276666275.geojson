@@ -1,0 +1,72 @@
+{
+  "id": 1276666275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.73333,45.11667,17.73333,45.11667",
+    "geom:latitude":45.11667,
+    "geom:longitude":17.73333,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049501.0",
+    "gn:asciiname":"Novi Kobas",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194371,
+    "gn:latitude":45.11667,
+    "gn:longitude":17.73333,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Novi Koba\u0161",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Novoselo",
+        "Novi Koba\u0161"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194371,
+        "wk:page":"Novi_Koba%C5%A1"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"502ee06451f56eae731052372b80261f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276666275,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1276666275,
+    "wof:lastmodified":1537625855,
+    "wof:name":"Novi Kobas",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.73333,
+    45.11667,
+    17.73333,
+    45.11667
+],
+  "geometry": {"coordinates":[17.73333,45.11667],"type":"Point"}
+}

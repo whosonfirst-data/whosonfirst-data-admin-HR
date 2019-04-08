@@ -1,0 +1,65 @@
+{
+  "id": 1277160123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.79083,43.74278,16.79083,43.74278",
+    "geom:latitude":43.74278,
+    "geom:longitude":16.79083,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bralusa",
+    "gn:country_code":"HR",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277958,
+    "gn:latitude":43.74278,
+    "gn:longitude":16.79083,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Bralu\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277958
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"48b1f98953ceb8b53a07562de9f8e2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277160123,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1277160123,
+    "wof:lastmodified":1536656242,
+    "wof:name":"Bralusa",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.79083,
+    43.74278,
+    16.79083,
+    43.74278
+],
+  "geometry": {"coordinates":[16.79083,43.74278],"type":"Point"}
+}

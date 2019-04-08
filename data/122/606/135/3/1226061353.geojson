@@ -1,0 +1,68 @@
+{
+  "id": 1226061353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89703,44.53249,14.89703,44.53249",
+    "geom:latitude":44.53249,
+    "geom:longitude":14.89703,
+    "gn:asciiname":"Gajac",
+    "gn:country_code":"HR",
+    "gn:dem":12,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11064919,
+    "gn:latitude":44.53249,
+    "gn:longitude":14.89703,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Gajac",
+    "gn:population":84,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11064919
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0b9b2d248bf61c4ddd3a3b2a8f38eee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226061353,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1226061353,
+    "wof:lastmodified":1536702953,
+    "wof:name":"Gajac",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":84,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89703,
+    44.53249,
+    14.89703,
+    44.53249
+],
+  "geometry": {"coordinates":[14.89703,44.53249],"type":"Point"}
+}

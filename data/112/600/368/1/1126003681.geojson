@@ -1,0 +1,105 @@
+{
+  "id": 1126003681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.109588,42.606168,18.109588,42.606168",
+    "geom:latitude":42.606168,
+    "geom:longitude":18.109588,
+    "gn:gn_country":"HR",
+    "iso:country":"HR",
+    "lbl:latitude":42.606168,
+    "lbl:longitude":18.109588,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "\u010ciba\u010da"
+    ],
+    "name:dut_x_preferred":[
+        "\u010ciba\u010da"
+    ],
+    "name:eng_x_preferred":[
+        "\u010ciba\u010da"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010ciba\u010da"
+    ],
+    "name:hun_x_preferred":[
+        "\u010ciba\u010da"
+    ],
+    "name:slv_x_preferred":[
+        "\u010ciba\u010da"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0438\u0431\u0430\u0447\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u010ciba\u010da"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:name":"\u010ciba\u010da",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Dubrova\u010dko-neretvanska",
+    "qs_pg:photos":98,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":98,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1006030,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":847172,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Dubrova\u010dko-neretvanska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":847172,
+        "qs_pg:id":1006030,
+        "wd:id":"Q3515174"
+    },
+    "wof:country":"HR",
+    "wof:created":1497299803,
+    "wof:geomhash":"7b5692489a48ee395d6532ee06342cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126003681,
+            "region_id":85684785
+        }
+    ],
+    "wof:id":1126003681,
+    "wof:lastmodified":1514447748,
+    "wof:name":"\u010ciba\u010da",
+    "wof:parent_id":85684785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.109588,
+    42.606168,
+    18.109588,
+    42.606168
+],
+  "geometry": {"coordinates":[18.109588,42.606168],"type":"Point"}
+}

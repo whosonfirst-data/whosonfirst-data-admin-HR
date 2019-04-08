@@ -1,0 +1,66 @@
+{
+  "id": 1293367403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48806,45.30778,14.48806,45.30778",
+    "geom:latitude":45.30778,
+    "geom:longitude":14.48806,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11049438.0",
+    "gn:asciiname":"Zurkovo",
+    "gn:country_code":"HR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186282,
+    "gn:latitude":45.30778,
+    "gn:longitude":14.48806,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"\u017durkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186282
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c1edd66e94edd10bccc9d537df6220fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293367403,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1293367403,
+    "wof:lastmodified":1536960167,
+    "wof:name":"Zurkovo",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48806,
+    45.30778,
+    14.48806,
+    45.30778
+],
+  "geometry": {"coordinates":[14.48806,45.30778],"type":"Point"}
+}

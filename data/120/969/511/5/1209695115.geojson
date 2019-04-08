@@ -1,0 +1,62 @@
+{
+  "id": 1209695115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23861,44.01889,16.23861,44.01889",
+    "geom:latitude":44.01889,
+    "geom:longitude":16.23861,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3201161.0",
+    "gn:asciiname":"Bajici",
+    "gn:country_code":"HR",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278163,
+    "gn:latitude":44.01889,
+    "gn:longitude":16.23861,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Baji\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278163
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5e585feb8f730ded132cc55ced3dea8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209695115
+        }
+    ],
+    "wof:id":1209695115,
+    "wof:lastmodified":1536279102,
+    "wof:name":"Bajici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23861,
+    44.01889,
+    16.23861,
+    44.01889
+],
+  "geometry": {"coordinates":[16.23861,44.01889],"type":"Point"}
+}

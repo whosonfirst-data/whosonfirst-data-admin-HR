@@ -1,0 +1,145 @@
+{
+  "id": 101795781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000194,
+    "geom:area_square_m":1726721.582147,
+    "geom:bbox":"15.4904634007,43.9048126736,15.5174739348,43.9168354731",
+    "geom:latitude":43.911032,
+    "geom:longitude":15.505117,
+    "gn:population":2123,
+    "iso:country":"HR",
+    "lbl:latitude":43.911525,
+    "lbl:longitude":15.50621,
+    "mps:latitude":43.911525,
+    "mps:longitude":15.50621,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:bos_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:deu_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:dut_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:eng_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:fra_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:fre_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:ger_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:hrv_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:hun_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:ita_x_preferred":[
+        "Poschiane"
+    ],
+    "name:nld_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:pol_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:por_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Pako\u0161tane"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Pako\u0161tane"
+    ],
+    "name:slv_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:spa_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043a\u043e\u0448\u0442\u0430\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:unk_x_variant":[
+        "Pacostane"
+    ],
+    "name:war_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zadarska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Pako\u0161tane",
+    "qs:la_lc":"*HR1303174",
+    "qs:level":"locality",
+    "qs:loc":"Pako\u0161tane",
+    "qs:loc_alt":"Pakostane",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":99,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193710,
+        "gp:id":849516,
+        "qs:id":491957,
+        "wd:id":"Q1021806",
+        "wk:page":"Pako\u0161tane"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d381b970c75ec6ea692862a03b04dc58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101795781,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":101795781,
+    "wof:lastmodified":1527714612,
+    "wof:name":"Pako\u0161tane",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":2123,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4904634007475,
+    43.90481267356517,
+    15.51747393480684,
+    43.91683547312391
+],
+  "geometry": {"coordinates":[[[15.51081280199224,43.91670295823155],[15.51072662181565,43.91580362052446],[15.51196621947611,43.91573734195782],[15.51188002366365,43.91483800471548],[15.51311959956513,43.91477171246896],[15.51286097592407,43.9120736999318],[15.51410049166742,43.91200739640522],[15.51401427172209,43.91110805862286],[15.51649325713959,43.91097540933436],[15.51623450352531,43.90827739877659],[15.51747393480684,43.90821105541613],[15.51721515572405,43.90551304184214],[15.51349702695774,43.90571201649311],[15.51341083197985,43.90481267356517],[15.51217146980429,43.90487896749659],[15.51225764558922,43.90577831162375],[15.5073000945651,43.9060433433803],[15.50738619713763,43.90694269156677],[15.49623138525794,43.90753815349564],[15.4963173186261,43.90843751171963],[15.49507786313694,43.90850360096516],[15.49516378086247,43.90940295965061],[15.4939243036273,43.90946903521342],[15.49418202053613,43.91216711045007],[15.4904634007475,43.9123652586253],[15.49063511458212,43.9141639789496],[15.49435384958201,43.9139658236038],[15.49443976943797,43.91486517907975],[15.49567936187771,43.91479909634313],[15.49576530449229,43.91569844988925],[15.50320292079755,43.91530163381913],[15.50328898219129,43.91620097945071],[15.50824741882644,43.91593613301876],[15.50833356059678,43.91683547312391],[15.51081280199224,43.91670295823155]]],"type":"Polygon"}
+}

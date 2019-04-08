@@ -1,0 +1,142 @@
+{
+  "id": 1125991731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38333,43.55,16.38333,43.55",
+    "geom:latitude":43.55,
+    "geom:longitude":16.38333,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":5027,
+    "iso:country":"HR",
+    "lbl:latitude":43.55,
+    "lbl:longitude":16.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:bos_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:cat_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:dut_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:eng_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:fre_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:ger_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:hun_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:ita_x_preferred":[
+        "Castel Cambio"
+    ],
+    "name:por_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:sco_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:slv_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:spa_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b \u041a\u0430\u043c\u0431\u0435\u043b\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:unk_x_variant":[
+        "Selo Ka\u0161tel Kambelovac"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3198216,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ka\u00b5tel Kambelovac",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Splitsko-Dalmatinska",
+    "qs_pg:photos":457,
+    "qs_pg:photos_1k":93,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":457,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":894613,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":848371,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Splitsko-Dalmatinska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198216,
+        "gp:id":848371,
+        "qs_pg:id":894613,
+        "wd:id":"Q2145042"
+    },
+    "wof:country":"HR",
+    "wof:created":1497299090,
+    "wof:geomhash":"8d7428641bb0805605cc6238f922b7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125991731,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1125991731,
+    "wof:lastmodified":1514447483,
+    "wof:name":"Ka\u00b5tel Kambelovac",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":5027,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38333,
+    43.55,
+    16.38333,
+    43.55
+],
+  "geometry": {"coordinates":[16.38333,43.55],"type":"Point"}
+}

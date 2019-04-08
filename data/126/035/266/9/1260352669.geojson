@@ -1,0 +1,75 @@
+{
+  "id": 1260352669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.95,45.6,17.95,45.6",
+    "geom:latitude":45.6,
+    "geom:longitude":17.95,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049471.0",
+    "gn:asciiname":"Slavonske Bare",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190587,
+    "gn:latitude":45.6,
+    "gn:longitude":17.95,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Slavonske Bare",
+    "gn:population":170,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bare Slavonske",
+        "Bare",
+        "Slavonske Bare"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190587
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b9f060bf4c0986a8522287f086f579ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260352669,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1260352669,
+    "wof:lastmodified":1537625830,
+    "wof:name":"Slavonske Bare",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":170,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.95,
+    45.6,
+    17.95,
+    45.6
+],
+  "geometry": {"coordinates":[17.95,45.6],"type":"Point"}
+}

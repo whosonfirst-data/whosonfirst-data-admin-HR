@@ -1,0 +1,65 @@
+{
+  "id": 1277160643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37972,45.15167,16.37972,45.15167",
+    "geom:latitude":45.15167,
+    "geom:longitude":16.37972,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Adamovici",
+    "gn:country_code":"HR",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281656,
+    "gn:latitude":45.15167,
+    "gn:longitude":16.37972,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Adamovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281656
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fe9bcd9dc536a27ce5f27ddc1b39666e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277160643,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1277160643,
+    "wof:lastmodified":1536655438,
+    "wof:name":"Adamovici",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37972,
+    45.15167,
+    16.37972,
+    45.15167
+],
+  "geometry": {"coordinates":[16.37972,45.15167],"type":"Point"}
+}

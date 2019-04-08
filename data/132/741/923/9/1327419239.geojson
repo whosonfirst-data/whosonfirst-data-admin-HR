@@ -1,0 +1,65 @@
+{
+  "id": 1327419239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90611,44.77889,14.90611,44.77889",
+    "geom:latitude":44.77889,
+    "geom:longitude":14.90611,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Velike Ivanca",
+    "gn:country_code":"HR",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217872,
+    "gn:latitude":44.77889,
+    "gn:longitude":14.90611,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Velike Ivan\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217872
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"04d3d531fa20f857c0c90a8120cb5a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327419239,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1327419239,
+    "wof:lastmodified":1536700083,
+    "wof:name":"Velike Ivanca",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90611,
+    44.77889,
+    14.90611,
+    44.77889
+],
+  "geometry": {"coordinates":[14.90611,44.77889],"type":"Point"}
+}

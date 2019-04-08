@@ -1,0 +1,63 @@
+{
+  "id": 1209124869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00103,43.49745,16.00103,43.49745",
+    "geom:latitude":43.49745,
+    "geom:longitude":16.00103,
+    "gn:asciiname":"Kanica",
+    "gn:country_code":"HR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8740446,
+    "gn:latitude":43.49745,
+    "gn:longitude":16.00103,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Kanica",
+    "gn:population":129,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8740446
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1e3388ab70cb15c2436c50fef1a47469",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209124869
+        }
+    ],
+    "wof:id":1209124869,
+    "wof:lastmodified":1536296984,
+    "wof:name":"Kanica",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":129,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00103,
+    43.49745,
+    16.00103,
+    43.49745
+],
+  "geometry": {"coordinates":[16.00103,43.49745],"type":"Point"}
+}

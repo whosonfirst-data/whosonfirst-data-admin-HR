@@ -1,0 +1,146 @@
+{
+  "id": 101793567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":548736.884083,
+    "geom:bbox":"17.9683755669,45.5210512533,17.9954891744,45.5308020739",
+    "geom:latitude":45.524436,
+    "geom:longitude":17.980081,
+    "gn:population":1863,
+    "iso:country":"HR",
+    "lbl:latitude":45.523216,
+    "lbl:longitude":17.975768,
+    "mps:latitude":45.523216,
+    "mps:longitude":17.975768,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Feri\u010danci"
+    ],
+    "name:dut_x_preferred":[
+        "Feri\u010danci"
+    ],
+    "name:eng_x_preferred":[
+        "Feri\u010danci"
+    ],
+    "name:fra_x_preferred":[
+        "Feri\u010danci"
+    ],
+    "name:fre_x_preferred":[
+        "Feri\u010danci"
+    ],
+    "name:hbs_x_preferred":[
+        "Feri\u010danci"
+    ],
+    "name:hrv_x_preferred":[
+        "Feri\u010danci"
+    ],
+    "name:ita_x_preferred":[
+        "Feri\u010danci"
+    ],
+    "name:nld_x_preferred":[
+        "Feri\u010danci"
+    ],
+    "name:pol_x_preferred":[
+        "Feri\u010danci"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Feri\u010danci"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Feri\u010danci"
+    ],
+    "name:slv_x_preferred":[
+        "Feri\u010danci"
+    ],
+    "name:spa_x_preferred":[
+        "Feri\u010danci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0435\u0440\u0438\u0447\u0430\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Feri\u010danci"
+    ],
+    "name:und_x_colloquial":[
+        "Fericanci"
+    ],
+    "name:und_x_preferred":[
+        "Feri\u010danci"
+    ],
+    "name:unk_x_variant":[
+        "Ferichancze"
+    ],
+    "name:war_x_preferred":[
+        "Feri\u010danci"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Feri\u010danci",
+    "qs:la_lc":"*HR1401163",
+    "qs:level":"locality",
+    "qs:loc":"Feri\u010danci",
+    "qs:loc_alt":"Fericanci",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115bb806-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3200855,
+        "gp:id":847664,
+        "qs:id":147282,
+        "qs_pg:id":147282,
+        "wd:id":"Q654011",
+        "wk:page":"Feri\u010danci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7eaa3f692660488a3f5529e0b413df32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793567,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101793567,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527689275,
+    "wof:name":"Feri\u010danci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":1863,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.96837556694732,
+    45.52105125328853,
+    17.99548917435868,
+    45.53080207389036
+],
+  "geometry": {"coordinates":[[[17.97973109304223,45.53060942554646],[17.97946973576131,45.52881905751701],[17.97819715770487,45.52891538570475],[17.97780522471322,45.52622982249773],[17.97907774149496,45.52613349976286],[17.978947087846,45.5252383123219],[17.99548917435868,45.52398474803732],[17.99535826079477,45.52308958348652],[17.9928134095324,45.52328260419222],[17.99268254236836,45.52238743523708],[17.97741334169154,45.52354425243806],[17.97715211410019,45.52175386859085],[17.97460727269521,45.52194644998769],[17.97447670806446,45.52105125328853],[17.97320430175398,45.52114751922045],[17.97333484596498,45.52204271773616],[17.97206241521701,45.5221389701843],[17.9721929445551,45.5230341697544],[17.96837556694732,45.5233228407439],[17.9686365197299,45.52511324849399],[17.97627148385766,45.52453574701872],[17.97718585119878,45.53080207389036],[17.97973109304223,45.53060942554646]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1193139149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.62333,42.98694,17.62333,42.98694",
+    "geom:latitude":42.98694,
+    "geom:longitude":17.62333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"11054958.0",
+    "gn:asciiname":"Kobranj Do",
+    "gn:country_code":"HR",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3287822,
+    "gn:latitude":42.98694,
+    "gn:longitude":17.62333,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Kobranj Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3287822
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f7c6a2cb1e124b2af1d939a05b0cbc8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193139149,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1193139149,
+    "wof:lastmodified":1536367278,
+    "wof:name":"Kobranj Do",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.62333,
+    42.98694,
+    17.62333,
+    42.98694
+],
+  "geometry": {"coordinates":[17.62333,42.98694],"type":"Point"}
+}

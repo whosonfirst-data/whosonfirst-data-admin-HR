@@ -1,0 +1,105 @@
+{
+  "id": 1125937437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19639,45.89528,17.19639,45.89528",
+    "geom:latitude":45.89528,
+    "geom:longitude":17.19639,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":377,
+    "gn:population":363,
+    "iso:country":"HR",
+    "lbl:latitude":45.89528,
+    "lbl:longitude":17.19639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Sedlarica"
+    ],
+    "name:dut_x_preferred":[
+        "Sedlarica"
+    ],
+    "name:eng_x_preferred":[
+        "Sedlarica"
+    ],
+    "name:hrv_x_preferred":[
+        "Sedlarica"
+    ],
+    "name:slv_x_preferred":[
+        "Sedlarica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0434\u043b\u0430\u0440\u0438\u0446\u0430"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3191181,
+    "qs_pg:gn_pop":377,
+    "qs_pg:name":"Sedlarica",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Viroviti\u010dko-podravska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1275511,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850131,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Viroviti\u010dko-podravska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191181,
+        "gp:id":850131,
+        "qs_pg:id":1275511,
+        "wd:id":"Q2910226"
+    },
+    "wof:country":"HR",
+    "wof:created":1497297011,
+    "wof:geomhash":"99178c54e130ec1828824be38042fcb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125937437,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1125937437,
+    "wof:lastmodified":1514447620,
+    "wof:name":"Sedlarica",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":363,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19639,
+    45.89528,
+    17.19639,
+    45.89528
+],
+  "geometry": {"coordinates":[17.19639,45.89528],"type":"Point"}
+}

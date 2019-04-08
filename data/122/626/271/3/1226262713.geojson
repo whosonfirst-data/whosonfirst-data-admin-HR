@@ -1,0 +1,66 @@
+{
+  "id": 1226262713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.99889,44.53861,15.99889,44.53861",
+    "geom:latitude":44.53861,
+    "geom:longitude":15.99889,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049285.0",
+    "gn:asciiname":"Vojvodici",
+    "gn:country_code":"HR",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217188,
+    "gn:latitude":44.53861,
+    "gn:longitude":15.99889,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Vojvodi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217188
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ad2cffa6f0e085120e27f90c33ad3a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226262713,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1226262713,
+    "wof:lastmodified":1536909550,
+    "wof:name":"Vojvodici",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.99889,
+    44.53861,
+    15.99889,
+    44.53861
+],
+  "geometry": {"coordinates":[15.99889,44.53861],"type":"Point"}
+}

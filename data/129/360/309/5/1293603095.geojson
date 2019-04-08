@@ -1,0 +1,76 @@
+{
+  "id": 1293603095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.88889,45.66667,16.88889,45.66667",
+    "geom:latitude":45.66667,
+    "geom:longitude":16.88889,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049398.0",
+    "gn:asciiname":"Kostanjevac",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197585,
+    "gn:latitude":45.66667,
+    "gn:longitude":16.88889,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Kostanjevac",
+    "gn:population":143,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bere\u010dki Kostanjevac",
+        "Kostanjevac Bere\u010dki",
+        "Kostanjevac Bera\u010dki",
+        "Kostanjevac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197585
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"62eaec6cd67e71167fa3ef193f95d38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293603095,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1293603095,
+    "wof:lastmodified":1537625883,
+    "wof:name":"Kostanjevac",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":143,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.88889,
+    45.66667,
+    16.88889,
+    45.66667
+],
+  "geometry": {"coordinates":[16.88889,45.66667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1309969303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.065,44.91639,19.065,44.91639",
+    "geom:latitude":44.91639,
+    "geom:longitude":19.065,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"11054556.0",
+    "gn:asciiname":"Strosinci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189687,
+    "gn:latitude":44.91639,
+    "gn:longitude":19.065,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Stro\u0161inci",
+    "gn:population":492,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stra\u0161inci",
+        "Stro\u0161inci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189687,
+        "wk:page":"Stro%C5%A1inci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6d2edcff287798982bba7e1e2a78225a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309969303,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":1309969303,
+    "wof:lastmodified":1537625825,
+    "wof:name":"Strosinci",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":492,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.065,
+    44.91639,
+    19.065,
+    44.91639
+],
+  "geometry": {"coordinates":[19.065,44.91639],"type":"Point"}
+}

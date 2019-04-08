@@ -1,0 +1,74 @@
+{
+  "id": 1344022895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67389,45.81612,15.67389,45.81612",
+    "geom:latitude":45.81612,
+    "geom:longitude":15.67389,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"3191315.0",
+    "gn:asciiname":"Otrusevec",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193768,
+    "gn:latitude":45.81612,
+    "gn:longitude":15.67389,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Otru\u0161evec",
+    "gn:population":303,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otru\u0161evac",
+        "Otru\u0161evec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193768
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7feab3cb8cc2929c6fc181c970a3dc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344022895,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1344022895,
+    "wof:lastmodified":1537625852,
+    "wof:name":"Otrusevec",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":303,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67389,
+    45.81612,
+    15.67389,
+    45.81612
+],
+  "geometry": {"coordinates":[15.67389,45.81612],"type":"Point"}
+}

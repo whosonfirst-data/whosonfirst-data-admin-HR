@@ -1,0 +1,75 @@
+{
+  "id": 1343845149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16667,45.41667,15.16667,45.41667",
+    "geom:latitude":45.41667,
+    "geom:longitude":15.16667,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"3187256.0",
+    "gn:asciiname":"Severin na Kupi",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190955,
+    "gn:latitude":45.41667,
+    "gn:longitude":15.16667,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Severin na Kupi",
+    "gn:population":118,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Severin",
+        "Severin na Kupi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190955,
+        "wk:page":"Severin_na_Kupi"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d4a8f2ec6bbbe2f10491e5992871ebc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343845149,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1343845149,
+    "wof:lastmodified":1537625834,
+    "wof:name":"Severin na Kupi",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":118,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16667,
+    45.41667,
+    15.16667,
+    45.41667
+],
+  "geometry": {"coordinates":[15.16667,45.41667],"type":"Point"}
+}

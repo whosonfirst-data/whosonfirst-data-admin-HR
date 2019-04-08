@@ -1,0 +1,66 @@
+{
+  "id": 1310100969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93,44.54833,15.93,44.54833",
+    "geom:latitude":44.54833,
+    "geom:longitude":15.93,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049285.0",
+    "gn:asciiname":"Zobenicin Gaj",
+    "gn:country_code":"HR",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269209,
+    "gn:latitude":44.54833,
+    "gn:longitude":15.93,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Zobeni\u010din Gaj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269209
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"987924c75bb86e2642cb74f6102fbdbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310100969,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1310100969,
+    "wof:lastmodified":1537002282,
+    "wof:name":"Zobenicin Gaj",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93,
+    44.54833,
+    15.93,
+    44.54833
+],
+  "geometry": {"coordinates":[15.93,44.54833],"type":"Point"}
+}

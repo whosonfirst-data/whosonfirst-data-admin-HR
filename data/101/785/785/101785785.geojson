@@ -1,0 +1,222 @@
+{
+  "id": 101785785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000423,
+    "geom:area_square_m":3651456.010192,
+    "geom:bbox":"18.5861234173,45.7607111247,18.6296885828,45.780276869",
+    "geom:latitude":45.769502,
+    "geom:longitude":18.606521,
+    "gn:population":8713,
+    "iso:country":"HR",
+    "lbl:latitude":45.771565,
+    "lbl:longitude":18.606191,
+    "mps:latitude":45.771565,
+    "mps:longitude":18.606191,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0565\u056c\u056b \u0544\u0561\u0576\u0561\u057d\u057f\u056b\u0580"
+    ],
+    "name:bos_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:ces_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:chi_x_preferred":[
+        "\u8c9d\u5229\u99ac\u7d0d\u65af\u8482\u723e"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0628\u06ce\u0644\u06cc \u0645\u0627\u0646\u0627\u0633\u062a\u06cc\u0631"
+    ],
+    "name:cze_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:deu_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:dut_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:eng_x_preferred":[
+        "Monostor"
+    ],
+    "name:eng_x_variant":[
+        "Pel-Monostor",
+        "Beli Manastir"
+    ],
+    "name:epo_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u06cc \u0645\u0627\u0646\u0627\u0633\u062a\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:fre_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:ger_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:hbs_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:hrv_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:hun_x_preferred":[
+        "P\u00e9lmonostor"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u056c\u056b \u0544\u0561\u0576\u0561\u057d\u057f\u056b\u0580"
+    ],
+    "name:ile_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:ita_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30ea\u30fb\u30de\u30ca\u30b9\u30c6\u30a3\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:nob_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:nor_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0644\u06cc \u0645\u0627\u0646\u0627\u0633\u062a\u06cc\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:ron_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:ron_x_variant":[
+        "\u0411\u0435\u043b\u0438 \u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440"
+    ],
+    "name:rum_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0438-\u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440"
+    ],
+    "name:slv_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:spa_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:sqi_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0438 \u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440"
+    ],
+    "name:srp_x_variant":[
+        "Beli Manastir"
+    ],
+    "name:swe_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u043b\u0438-\u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0456 \u041c\u0430\u043d\u0430\u0441\u0442\u0456\u0440"
+    ],
+    "name:und_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:unk_x_variant":[
+        "Monostor"
+    ],
+    "name:war_x_preferred":[
+        "Beli Manastir"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u5229\u99ac\u7d0d\u65af\u8482\u723e"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Beli Manastir",
+    "qs:la_lc":"*HR1400132",
+    "qs:level":"locality",
+    "qs:loc":"Beli Manastir",
+    "qs:loc_alt":"Beli Manastir",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":728,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115b4c54-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3204320,
+        "gp:id":846772,
+        "qs:id":907832,
+        "qs_pg:id":907832,
+        "wd:id":"Q397645",
+        "wk:page":"Beli Manastir"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"31f681cd5752a75ffdf333c39d5b2ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101785785,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101785785,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527677696,
+    "wof:name":"Beli Manastir",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":8713,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58612341728656,
+    45.76071112470953,
+    18.62968858280396,
+    45.78027686904602
+],
+  "geometry": {"coordinates":[[[18.61251989748592,45.77965294949092],[18.61209376420044,45.77697078464689],[18.61337114400521,45.77686675022636],[18.61322909111772,45.77597269568025],[18.61450644594868,45.77586864787787],[18.61422231719939,45.77408054037596],[18.61549962648064,45.77397648116778],[18.61535755062096,45.77308242821186],[18.61663483493055,45.77297835562342],[18.61620858199325,45.77029619795962],[18.61748580018684,45.77019211594251],[18.61734370742442,45.76929806378911],[18.61862090065028,45.76919396839321],[18.61847879337836,45.76829991742835],[18.62358744003444,45.76788339020675],[18.6234452565476,45.76698934635982],[18.62855375055801,45.76657258138761],[18.62841149086756,45.76567854466242],[18.62968858280396,45.7655743170144],[18.6295463086156,45.764680281479],[18.62826923724481,45.76478450714905],[18.62798474820113,45.76299642975749],[18.6267077135592,45.76310063611993],[18.62656549870024,45.76220659426394],[18.62401145734816,45.76241495697786],[18.62415363107942,45.76330900278771],[18.61649127811899,45.76393373433399],[18.61634922777608,45.76303967666877],[18.61507217413299,45.76314374288381],[18.61493015041361,45.76224968245594],[18.61365311294264,45.76235373134386],[18.61379511609681,45.7632477937463],[18.60996391563629,45.76355985421748],[18.60982197417962,45.76266578589303],[18.60471372770172,45.76308164368743],[18.60457187456291,45.76218756668408],[18.60201776612826,45.76239539951945],[18.60187596017141,45.76150131778513],[18.60059891994109,45.761605209202],[18.6004571405976,45.76071112470953],[18.59790308811307,45.76091885754278],[18.59818657058082,45.7627070336257],[18.59435533557371,45.76301852955362],[18.59421365301966,45.76212443599405],[18.59165951557054,45.76233201923958],[18.59222611749254,45.76590840451979],[18.59094895991643,45.76601218099057],[18.59109060493051,45.76690627731534],[18.58725904419697,45.76721752050764],[18.58740063353275,45.76811162195423],[18.58612341728656,45.7682153409437],[18.58654815980879,45.77089764647747],[18.5878254377825,45.77079392158146],[18.58754222890889,45.76900572261547],[18.59137391308633,45.76869446760776],[18.59151557622835,45.76958856157529],[18.59279281609793,45.76948477722533],[18.59293450585847,45.77037886843738],[18.59421176192012,45.77027506676154],[18.59463692920156,45.77295732977183],[18.59591424260879,45.77285350682797],[18.59633952604605,45.77553575685414],[18.5976168968042,45.77543191263982],[18.59775869062673,45.77632599243901],[18.59903607757781,45.7762221308958],[18.59960339569778,45.77979843434798],[18.60471322892295,45.77938280303886],[18.60485515591716,45.78027686904602],[18.61251989748592,45.77965294949092]]],"type":"Polygon"}
+}

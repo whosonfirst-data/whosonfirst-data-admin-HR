@@ -1,0 +1,69 @@
+{
+  "id": 1360068319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.83311,43.44083,16.83311,43.44083",
+    "geom:latitude":43.44083,
+    "geom:longitude":16.83311,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"3194113.0",
+    "gn:asciiname":"Kostanje",
+    "gn:country_code":"HR",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197588,
+    "gn:latitude":43.44083,
+    "gn:longitude":16.83311,
+    "gn:modification_date":"2017-01-02",
+    "gn:name":"Kostanje",
+    "gn:population":605,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197588
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9ea536d5edff60e1684c534726e594cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360068319,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1360068319,
+    "wof:lastmodified":1536969588,
+    "wof:name":"Kostanje",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":605,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.83311,
+    43.44083,
+    16.83311,
+    43.44083
+],
+  "geometry": {"coordinates":[16.83311,43.44083],"type":"Point"}
+}

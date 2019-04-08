@@ -1,0 +1,65 @@
+{
+  "id": 1343244929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.76,43.50778,16.76,43.50778",
+    "geom:latitude":43.50778,
+    "geom:longitude":16.76,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Prlain",
+    "gn:country_code":"HR",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278809,
+    "gn:latitude":43.50778,
+    "gn:longitude":16.76,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Prlain",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278809
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9aa3e93e1e84ddd7bb57b695fd1f6742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343244929,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1343244929,
+    "wof:lastmodified":1537055026,
+    "wof:name":"Prlain",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.76,
+    43.50778,
+    16.76,
+    43.50778
+],
+  "geometry": {"coordinates":[16.76,43.50778],"type":"Point"}
+}

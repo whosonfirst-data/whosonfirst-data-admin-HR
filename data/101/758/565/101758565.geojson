@@ -1,0 +1,135 @@
+{
+  "id": 101758565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000168,
+    "geom:area_square_m":1501120.873887,
+    "geom:bbox":"16.3702032013,43.5481572627,16.3922802411,43.5622291723",
+    "geom:latitude":43.553205,
+    "geom:longitude":16.381532,
+    "iso:country":"HR",
+    "lbl:latitude":43.552349,
+    "lbl:longitude":16.384125,
+    "mps:latitude":43.552349,
+    "mps:longitude":16.384125,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:bos_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:cat_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:dut_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:eng_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:fre_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:ger_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:hbs_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:hun_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:ita_x_preferred":[
+        "Castel Cambi"
+    ],
+    "name:nld_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:por_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:sco_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:slv_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:spa_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:sqi_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b \u041a\u0430\u043c\u0431\u0435\u043b\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Ka\u0161tel Kambelovac"
+    ],
+    "name:unk_x_variant":[
+        "Selo Ka\u0161tel Kambelovac"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Klis",
+    "qs:la_lc":"*HR1701929",
+    "qs:level":"locality",
+    "qs:loc":"Ka\u0161tel Kambelovac",
+    "qs:loc_alt":"Kastel Kambelovac",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":221,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198216,
+        "gp:id":848371,
+        "qs:id":894613,
+        "wd:id":"Q2145042",
+        "wk:page":"Ka\u0161tel Kambelovac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5f4f8281a82cdc3b85d31c716dfe12b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101758565,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101758565,
+    "wof:lastmodified":1527689309,
+    "wof:name":"Ka\u0161tel Kambelovac",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37020320128863,
+    43.54815726272471,
+    16.39228024113623,
+    43.56222917229525
+],
+  "geometry": {"coordinates":[[[16.39228024113623,43.55365007289407],[16.39146839117353,43.54827156689083],[16.37888432704852,43.54905593078092],[16.3787856302481,43.54815726272471],[16.37632374656846,43.54831047249542],[16.37642240575684,43.54920914329364],[16.37020320128863,43.54959584301889],[16.37034779109149,43.55682533316531],[16.37105621882733,43.55678130916789],[16.37115482042304,43.55767997969718],[16.37484824934893,43.55745032305305],[16.37455228739515,43.55475432142543],[16.38070766212809,43.55437128588386],[16.38090515416292,43.55616860737973],[16.38459845707513,43.55593860080899],[16.38529020207505,43.56222917229525],[16.38898387396307,43.56199900412099],[16.38809401610632,43.55391115645438],[16.39228024113623,43.55365007289407]]],"type":"Polygon"}
+}

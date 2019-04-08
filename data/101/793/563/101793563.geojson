@@ -1,0 +1,149 @@
+{
+  "id": 101793563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000123,
+    "geom:area_square_m":1067573.542081,
+    "geom:bbox":"18.664372162,45.4817788415,18.6780650388,45.5014978884",
+    "geom:latitude":45.490384,
+    "geom:longitude":18.672373,
+    "gn:population":2294,
+    "iso:country":"HR",
+    "lbl:latitude":45.486642,
+    "lbl:longitude":18.671335,
+    "mps:latitude":45.486642,
+    "mps:longitude":18.671335,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Antunovac"
+    ],
+    "name:bos_x_preferred":[
+        "Antunovac"
+    ],
+    "name:dut_x_preferred":[
+        "Antunovac"
+    ],
+    "name:eng_x_preferred":[
+        "Antunovac"
+    ],
+    "name:fra_x_preferred":[
+        "Antunovac"
+    ],
+    "name:fre_x_preferred":[
+        "Antunovac"
+    ],
+    "name:hbs_x_preferred":[
+        "Antunovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Antunovac"
+    ],
+    "name:ita_x_preferred":[
+        "Antunovac"
+    ],
+    "name:nld_x_preferred":[
+        "Antunovac"
+    ],
+    "name:pol_x_preferred":[
+        "Antunovac"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Antunovac"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Antunovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u0443\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:spa_x_preferred":[
+        "Antunovac"
+    ],
+    "name:sqi_x_preferred":[
+        "Antunovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043d\u0442\u0443\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Antunovac"
+    ],
+    "name:und_x_preferred":[
+        "Antunovac"
+    ],
+    "name:unk_x_variant":[
+        "Tenjski Antunovac"
+    ],
+    "name:war_x_preferred":[
+        "Antunovac"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Antunovac",
+    "qs:la_lc":"*HR1400027",
+    "qs:level":"locality",
+    "qs:loc":"Antunovac",
+    "qs:loc_alt":"Antunovac",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115d7e3e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3204799,
+        "gp:id":15000179,
+        "qs:id":259337,
+        "qs_pg:id":259337,
+        "wd:id":"Q1277283",
+        "wk:page":"Antunovac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d5c9fd355f1a7f1a4de4f5671f6e5116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793563,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101793563,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527689279,
+    "wof:name":"Antunovac",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":2294,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6643721620357,
+    45.48177884152489,
+    18.67806503876238,
+    45.50149788835847
+],
+  "geometry": {"coordinates":[[[18.67779453500344,45.49987096945398],[18.67751062649609,45.49808271353908],[18.67496894339263,45.49829214722388],[18.67425948050135,45.49382147361803],[18.67553022273989,45.49371677426836],[18.67524643912998,45.49192850313113],[18.67651713641919,45.49182379246099],[18.67623333629962,45.49003552204442],[18.6749626795978,45.49014022877054],[18.67453708543968,45.48745781118686],[18.67580768126663,45.4873531103753],[18.67552394133747,45.48556483189941],[18.67806503876238,45.4853553923773],[18.6774974688222,45.48177884152489],[18.66987461116457,45.48240692964845],[18.67001637290593,45.48330108039619],[18.66874586110333,45.48340571030769],[18.66888760857023,45.48429986221947],[18.66761707212657,45.48440447883974],[18.66775880531776,45.48529863191555],[18.66648824423248,45.48540323524372],[18.6669134190098,45.48808569554717],[18.6643721620357,45.48829486823291],[18.6645138584002,45.48918902399555],[18.66832579821022,45.48887523616372],[18.66846756146737,45.48976938521201],[18.66973821965655,45.4896647567719],[18.67002180480193,45.49145304851186],[18.67129249922471,45.49134840086748],[18.67200166885527,45.49581910626932],[18.67073087294784,45.49592376376813],[18.67101454232647,45.49771204423388],[18.6684728562409,45.49792132131967],[18.66904010479783,45.50149788835847],[18.67158195330586,45.50128859550432],[18.6714400915323,45.50039445889422],[18.67779453500344,45.49987096945398]]],"type":"Polygon"}
+}

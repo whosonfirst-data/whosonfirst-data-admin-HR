@@ -1,0 +1,66 @@
+{
+  "id": 1209077141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.04028,45.19944,16.04028,45.19944",
+    "geom:latitude":45.19944,
+    "geom:longitude":16.04028,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bojna",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3203787,
+    "gn:latitude":45.19944,
+    "gn:longitude":16.04028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bojna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornja Bojna",
+        "Bojna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203787
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"db7731aeaf3df4e5fbaf078f2e26793c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209077141
+        }
+    ],
+    "wof:id":1209077141,
+    "wof:lastmodified":1537625934,
+    "wof:name":"Bojna",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.04028,
+    45.19944,
+    16.04028,
+    45.19944
+],
+  "geometry": {"coordinates":[16.04028,45.19944],"type":"Point"}
+}

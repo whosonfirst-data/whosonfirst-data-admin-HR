@@ -1,0 +1,66 @@
+{
+  "id": 1226122739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49472,45.065,14.49472,45.065",
+    "geom:latitude":45.065,
+    "geom:longitude":14.49472,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"3197207.0",
+    "gn:asciiname":"Zgaljic",
+    "gn:country_code":"HR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186554,
+    "gn:latitude":45.065,
+    "gn:longitude":14.49472,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"\u017dgalji\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186554
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ce61b1243720d87693ef0e8d642699c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226122739,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1226122739,
+    "wof:lastmodified":1536611543,
+    "wof:name":"Zgaljic",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49472,
+    45.065,
+    14.49472,
+    45.065
+],
+  "geometry": {"coordinates":[14.49472,45.065],"type":"Point"}
+}

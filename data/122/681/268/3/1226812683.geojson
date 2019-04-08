@@ -1,0 +1,70 @@
+{
+  "id": 1226812683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63333,45.62194,17.63333,45.62194",
+    "geom:latitude":45.62194,
+    "geom:longitude":17.63333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049470.0",
+    "gn:asciiname":"Macute",
+    "gn:country_code":"HR",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195964,
+    "gn:latitude":45.62194,
+    "gn:longitude":17.63333,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Macute",
+    "gn:population":33,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195964,
+        "wk:page":"Macute"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2c684bd9cef4f08e1dcbff2a8621f274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226812683,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1226812683,
+    "wof:lastmodified":1537563292,
+    "wof:name":"Macute",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":33,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63332999999999,
+    45.62194,
+    17.63332999999999,
+    45.62194
+],
+  "geometry": {"coordinates":[17.63332999999999,45.62194],"type":"Point"}
+}

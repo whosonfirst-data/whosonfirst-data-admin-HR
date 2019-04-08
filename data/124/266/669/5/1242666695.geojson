@@ -1,0 +1,73 @@
+{
+  "id": 1242666695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2825,45.42972,18.2825,45.42972",
+    "geom:latitude":45.42972,
+    "geom:longitude":18.2825,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"11054458.0",
+    "gn:asciiname":"Bracevci",
+    "gn:country_code":"HR",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203592,
+    "gn:latitude":45.42972,
+    "gn:longitude":18.2825,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Bra\u010devci",
+    "gn:population":209,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bra\u010devci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203592,
+        "wk:page":"Bra%C4%8Devci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2352dda82ccd074f7ae87ff9587f1813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242666695,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1242666695,
+    "wof:lastmodified":1537625932,
+    "wof:name":"Bracevci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2825,
+    45.42972,
+    18.2825,
+    45.42972
+],
+  "geometry": {"coordinates":[18.2825,45.42972],"type":"Point"}
+}

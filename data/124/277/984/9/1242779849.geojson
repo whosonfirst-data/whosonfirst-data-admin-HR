@@ -1,0 +1,65 @@
+{
+  "id": 1242779849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.90056,42.71222,17.90056,42.71222",
+    "geom:latitude":42.71222,
+    "geom:longitude":17.90056,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sutulija",
+    "gn:country_code":"HR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3207248,
+    "gn:latitude":42.71222,
+    "gn:longitude":17.90056,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Sutulija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3207248
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a477d8d5bc3d951211248d120aa7fdff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242779849,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1242779849,
+    "wof:lastmodified":1536772972,
+    "wof:name":"Sutulija",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.90056000000001,
+    42.71222,
+    17.90056000000001,
+    42.71222
+],
+  "geometry": {"coordinates":[17.90056000000001,42.71222],"type":"Point"}
+}

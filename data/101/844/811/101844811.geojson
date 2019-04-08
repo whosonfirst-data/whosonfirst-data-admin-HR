@@ -1,0 +1,188 @@
+{
+  "id": 101844811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00015,
+    "geom:area_square_m":1286926.616657,
+    "geom:bbox":"15.9552671682,45.9695530798,15.982264861,45.9859248443",
+    "geom:latitude":45.980109,
+    "geom:longitude":15.970554,
+    "iso:country":"HR",
+    "lbl:latitude":45.98164,
+    "lbl:longitude":15.971475,
+    "mps:latitude":45.98164,
+    "mps:longitude":15.971475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:bos_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e0b\u65af\u56fe\u6bd4\u5bdf"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u06c6\u0646\u06cc\u0627 \u0633\u062a\u0648\u0628\u06cc\u062a\u0633\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:dut_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:eng_x_preferred":[
+        "Stubica-Dolnji"
+    ],
+    "name:eng_x_variant":[
+        "Stubica",
+        "Donja Stubica"
+    ],
+    "name:epo_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0646\u06cc\u0627 \u0633\u062a\u0648\u0628\u06cc\u062a\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:fre_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:ger_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:hbs_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e0\u05d9\u05d4 \u05e1\u05d8\u05d5\u05d1\u05d9\u05e6\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:hun_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:ita_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0414\u043e\u043d\u044c\u044f-\u0421\u0442\u0443\u0431\u0438\u0446\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0646\u06cc\u0627 \u0633\u062a\u0648\u0628\u06cc\u062a\u0633\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:ron_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:rum_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u044f-\u0421\u0442\u0443\u0431\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:spa_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:sqi_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u0421\u0442\u0443\u0431\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u043d\u04d9-\u0421\u0442\u0443\u0431\u0438\u0442\u0441\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u044f \u0421\u0442\u0443\u0431\u0438\u0446\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:unk_x_variant":[
+        "Sztubicza"
+    ],
+    "name:war_x_preferred":[
+        "Donja Stubica"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u65af\u56fe\u6bd4\u5bdf"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Krapinsko-zagorska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Donja Stubica",
+    "qs:la_lc":"*HR0200795",
+    "qs:level":"locality",
+    "qs:loc":"Donja Stubica",
+    "qs:loc_alt":"Donja Stubica",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":410,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115b94e8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3201621,
+        "gp:id":847391,
+        "qs:id":967005,
+        "wd:id":"Q745088",
+        "wk:page":"Donja Stubica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"824c3f6b0241508566e70fda84947cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844811,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":101844811,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642620,
+    "wof:name":"Donja Stubica",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95526716823241,
+    45.9695530798009,
+    15.98226486104107,
+    45.98592484429201
+],
+  "geometry": {"coordinates":[[[15.97524580499942,45.98549150543727],[15.97514658774617,45.984594005806],[15.97643230334751,45.9845217297439],[15.97623383941919,45.98272673135347],[15.97751950970235,45.9826544425465],[15.97742026302979,45.98175694378745],[15.97870590910503,45.9816846408512],[15.97860664559244,45.98078714284463],[15.98117788622937,45.98064249320106],[15.98097928758432,45.97884750083176],[15.98226486104107,45.97877515551124],[15.98216554701827,45.97787765976329],[15.97830888066011,45.97809464502791],[15.97781269111124,45.97360713600773],[15.975241775732,45.97375170143971],[15.9756385500242,45.97734172099899],[15.97049634447535,45.9776306878635],[15.96960445785766,45.9695530798009],[15.96831908863697,45.96962527028876],[15.9685172136476,45.97142030149814],[15.96723179913909,45.97149247924017],[15.96802430073603,45.97867258982751],[15.96673871431722,45.97874476311756],[15.96693684009716,45.98053978720446],[15.95793735308985,45.98104458519651],[15.95783843582649,45.98014706379831],[15.95526716823241,45.98029114940613],[15.95556380612322,45.98298371998703],[15.96327795180582,45.98255125213791],[15.9633769662737,45.98344876611537],[15.96466266751361,45.98337663245633],[15.96476170735053,45.98427414441977],[15.96604742660872,45.98420199386311],[15.96614649181686,45.98509950381231],[15.96743222909311,45.98502733635775],[15.96753131967421,45.98592484429201],[15.97524580499942,45.98549150543727]]],"type":"Polygon"}
+}

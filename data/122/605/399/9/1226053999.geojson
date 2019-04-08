@@ -1,0 +1,65 @@
+{
+  "id": 1226053999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49806,43.09139,17.49806,43.09139",
+    "geom:latitude":43.09139,
+    "geom:longitude":17.49806,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Karamatici",
+    "gn:country_code":"HR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3287536,
+    "gn:latitude":43.09139,
+    "gn:longitude":17.49806,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Karamati\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3287536
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ee913b269571fa35bae089d2b2204f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226053999,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1226053999,
+    "wof:lastmodified":1536713535,
+    "wof:name":"Karamatici",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49806,
+    43.09139,
+    17.49806,
+    43.09139
+],
+  "geometry": {"coordinates":[17.49806,43.09139],"type":"Point"}
+}

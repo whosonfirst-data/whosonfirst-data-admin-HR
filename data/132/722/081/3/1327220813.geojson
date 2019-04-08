@@ -1,0 +1,74 @@
+{
+  "id": 1327220813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33694,45.44444,14.33694,45.44444",
+    "geom:latitude":45.44444,
+    "geom:longitude":14.33694,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Skalnica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190746,
+    "gn:latitude":45.44444,
+    "gn:longitude":14.33694,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"\u0160kalnica",
+    "gn:population":216,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Scalnizza",
+        "\u0160kalnica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190746,
+        "wk:page":"%C5%A0kalnica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c76619c5c5b0a68252b3c0ef13b0d8f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327220813,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1327220813,
+    "wof:lastmodified":1537625832,
+    "wof:name":"Skalnica",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":216,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33694,
+    45.44444,
+    14.33694,
+    45.44444
+],
+  "geometry": {"coordinates":[14.33694,45.44444],"type":"Point"}
+}

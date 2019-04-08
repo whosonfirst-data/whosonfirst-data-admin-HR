@@ -1,0 +1,75 @@
+{
+  "id": 1293466015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.55306,45.70194,17.55306,45.70194",
+    "geom:latitude":45.70194,
+    "geom:longitude":17.55306,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049470.0",
+    "gn:asciiname":"Mackovac",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195974,
+    "gn:latitude":45.70194,
+    "gn:longitude":17.55306,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Ma\u010dkovac",
+    "gn:population":47,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vo\u0107inski Ma\u010dkovac",
+        "Ma\u010dkovac Vo\u0107inski",
+        "Ma\u010dkovac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195974
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d030d6ae024e2eb7c37853c5f6d68913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293466015,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1293466015,
+    "wof:lastmodified":1537625869,
+    "wof:name":"Mackovac",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.55306,
+    45.70194,
+    17.55306,
+    45.70194
+],
+  "geometry": {"coordinates":[17.55306,45.70194],"type":"Point"}
+}

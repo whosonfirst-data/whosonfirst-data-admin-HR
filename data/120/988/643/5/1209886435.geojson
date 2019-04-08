@@ -1,0 +1,65 @@
+{
+  "id": 1209886435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.615,43.62639,16.615,43.62639",
+    "geom:latitude":43.62639,
+    "geom:longitude":16.615,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Marcetici",
+    "gn:country_code":"HR",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282332,
+    "gn:latitude":43.62639,
+    "gn:longitude":16.615,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Mar\u010deti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282332
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"195a303cc313ab6882c0025504f12488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209886435,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1209886435,
+    "wof:lastmodified":1536392721,
+    "wof:name":"Marcetici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.615,
+    43.62639,
+    16.615,
+    43.62639
+],
+  "geometry": {"coordinates":[16.615,43.62639],"type":"Point"}
+}

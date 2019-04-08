@@ -1,0 +1,104 @@
+{
+  "id": 101857841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.850591,45.687557,15.850591,45.687557",
+    "geom:latitude":45.687557,
+    "geom:longitude":15.850591,
+    "iso:country":"HR",
+    "lbl:latitude":45.687557,
+    "lbl:longitude":15.850591,
+    "mps:latitude":45.687557,
+    "mps:longitude":15.850591,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Kupine\u010dki Kraljevec"
+    ],
+    "name:dut_x_preferred":[
+        "Kupine\u010dki Kraljevec"
+    ],
+    "name:eng_x_preferred":[
+        "Kupine\u010dki Kraljevec"
+    ],
+    "name:hbs_x_preferred":[
+        "Kupine\u010dki Kraljevec"
+    ],
+    "name:hrv_x_preferred":[
+        "Kupine\u010dki Kraljevec"
+    ],
+    "name:nld_x_preferred":[
+        "Kupine\u010dki Kraljevec"
+    ],
+    "name:slv_x_preferred":[
+        "Kupine\u010dki Kraljevec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u043f\u0438\u043d\u0435\u0447\u043a\u0438 \u041a\u0440\u0430\u0459\u0435\u0432\u0435\u0446"
+    ],
+    "name:unk_x_variant":[
+        "Kraljevac"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Grad Zagreb",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kupine\u010dki Kraljevec",
+    "qs:loc_alt":"Kupinecki Kraljevec",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197395,
+        "gp:id":848580,
+        "qs:id":8,
+        "wd:id":"Q3509176",
+        "wk:page":"Kupine\u010dki Kraljevec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3b38fdb3e62d4a1a2f444cc77f0a1b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101857841,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":101857841,
+    "wof:lastmodified":1544744106,
+    "wof:name":"Kupine\u010dki Kraljevec",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.850591,
+    45.687557,
+    15.850591,
+    45.687557
+],
+  "geometry": {"coordinates":[15.850591,45.687557],"type":"Point"}
+}

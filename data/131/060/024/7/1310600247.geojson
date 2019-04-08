@@ -1,0 +1,65 @@
+{
+  "id": 1310600247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54806,45.04917,15.54806,45.04917",
+    "geom:latitude":45.04917,
+    "geom:longitude":15.54806,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Momcilovici",
+    "gn:country_code":"HR",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219394,
+    "gn:latitude":45.04917,
+    "gn:longitude":15.54806,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Mom\u010dilovici",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219394
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e591f17d7fe0514ed1549c5caf5087fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310600247,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1310600247,
+    "wof:lastmodified":1536780796,
+    "wof:name":"Momcilovici",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54806,
+    45.04917,
+    15.54806,
+    45.04917
+],
+  "geometry": {"coordinates":[15.54806,45.04917],"type":"Point"}
+}

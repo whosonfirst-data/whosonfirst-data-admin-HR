@@ -1,0 +1,76 @@
+{
+  "id": 1259899917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72389,44.70361,15.72389,44.70361",
+    "geom:latitude":44.70361,
+    "geom:longitude":15.72389,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049292.0",
+    "gn:asciiname":"Tuk Bjelopoljski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188660,
+    "gn:latitude":44.70361,
+    "gn:longitude":15.72389,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Tuk Bjelopoljski",
+    "gn:population":15,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bjelopoljski Tuk",
+        "Tuk Bjelopolski",
+        "Tuk",
+        "Tuk Bjelopoljski"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188660
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"85049fdc1f296acb5d8ae5201d7f1990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259899917,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1259899917,
+    "wof:lastmodified":1537625817,
+    "wof:name":"Tuk Bjelopoljski",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72389,
+    44.70361,
+    15.72389,
+    44.70361
+],
+  "geometry": {"coordinates":[15.72389,44.70361],"type":"Point"}
+}

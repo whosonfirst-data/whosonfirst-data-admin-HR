@@ -1,0 +1,72 @@
+{
+  "id": 1242795349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68278,45.81222,16.68278,45.81222",
+    "geom:latitude":45.81222,
+    "geom:longitude":16.68278,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zdencec",
+    "gn:country_code":"HR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186672,
+    "gn:latitude":45.81222,
+    "gn:longitude":16.68278,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Zden\u010dec",
+    "gn:population":103,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zden\u010dec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186672,
+        "wk:page":"Zden%C4%8Dec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"82eaa472b583efa335e614baeb9d377d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242795349,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1242795349,
+    "wof:lastmodified":1537625804,
+    "wof:name":"Zdencec",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68278,
+    45.81222,
+    16.68278,
+    45.81222
+],
+  "geometry": {"coordinates":[16.68278,45.81222],"type":"Point"}
+}

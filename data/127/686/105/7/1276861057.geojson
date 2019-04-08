@@ -1,0 +1,71 @@
+{
+  "id": 1276861057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38937,46.49307,16.38937,46.49307",
+    "geom:latitude":46.49307,
+    "geom:longitude":16.38937,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"11054853.0",
+    "gn:asciiname":"Selnica",
+    "gn:country_code":"HR",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3191096,
+    "gn:latitude":46.49307,
+    "gn:longitude":16.38937,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Selnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Szelenczehegy",
+        "Selnica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191096,
+        "wk:page":"Selnica%2C_Me%C4%91imurje_County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f8d10434cfd5162ce0a06ae6c6cd1ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276861057,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":1276861057,
+    "wof:lastmodified":1537625835,
+    "wof:name":"Selnica",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38937,
+    46.49307,
+    16.38937,
+    46.49307
+],
+  "geometry": {"coordinates":[16.38937,46.49307],"type":"Point"}
+}

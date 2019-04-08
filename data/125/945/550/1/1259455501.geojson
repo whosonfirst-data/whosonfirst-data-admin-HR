@@ -1,0 +1,72 @@
+{
+  "id": 1259455501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2,46.26667,16.2,46.26667",
+    "geom:latitude":46.26667,
+    "geom:longitude":16.2,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"11049311.0",
+    "gn:asciiname":"Selnik Marusevecki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191090,
+    "gn:latitude":46.26667,
+    "gn:longitude":16.2,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Selnik Maru\u0161eve\u010dki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maru\u0161eve\u010dki Selnik",
+        "Selnik",
+        "Selnik Maru\u0161eve\u010dki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191090
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c6e4f8365030a2ebe6aa5992cef4dfc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259455501,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1259455501,
+    "wof:lastmodified":1537625835,
+    "wof:name":"Selnik Marusevecki",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2,
+    46.26667,
+    16.2,
+    46.26667
+],
+  "geometry": {"coordinates":[16.2,46.26667],"type":"Point"}
+}

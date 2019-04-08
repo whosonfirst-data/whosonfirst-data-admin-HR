@@ -1,0 +1,70 @@
+{
+  "id": 1226649309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.21083,45.29056,17.21083,45.29056",
+    "geom:latitude":45.29056,
+    "geom:longitude":17.21083,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049499.0",
+    "gn:asciiname":"Cage",
+    "gn:country_code":"HR",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202907,
+    "gn:latitude":45.29056,
+    "gn:longitude":17.21083,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Cage",
+    "gn:population":426,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202907,
+        "wk:page":"Cage%2C_Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"73ea03dd69a7f544b142ee3e8c46a2bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226649309,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1226649309,
+    "wof:lastmodified":1537563308,
+    "wof:name":"Cage",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":426,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.21083,
+    45.29056,
+    17.21083,
+    45.29056
+],
+  "geometry": {"coordinates":[17.21083,45.29056],"type":"Point"}
+}

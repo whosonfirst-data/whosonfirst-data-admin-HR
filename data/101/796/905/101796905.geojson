@@ -1,0 +1,112 @@
+{
+  "id": 101796905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000127,
+    "geom:area_square_m":1137933.883783,
+    "geom:bbox":"16.5098752357,43.5269409558,16.5330523822,43.5388195995",
+    "geom:latitude":43.532743,
+    "geom:longitude":16.520638,
+    "gn:population":1261,
+    "iso:country":"HR",
+    "lbl:latitude":43.533741,
+    "lbl:longitude":16.516775,
+    "mps:latitude":43.533741,
+    "mps:longitude":16.516775,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Mravince"
+    ],
+    "name:dut_x_preferred":[
+        "Mravince"
+    ],
+    "name:eng_x_preferred":[
+        "Mravince"
+    ],
+    "name:hbs_x_preferred":[
+        "Mravince"
+    ],
+    "name:hrv_x_preferred":[
+        "Mravince"
+    ],
+    "name:hun_x_preferred":[
+        "Mravince"
+    ],
+    "name:nld_x_preferred":[
+        "Mravince"
+    ],
+    "name:slv_x_preferred":[
+        "Mravince"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0440\u0430\u0432\u0438\u043d\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mravince"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Solin",
+    "qs:la_lc":"*HR1704065",
+    "qs:level":"locality",
+    "qs:loc":"Mravince",
+    "qs:loc_alt":"Mravince",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194762,
+        "gp:id":849236,
+        "qs:id":147160,
+        "qs_pg:id":147160,
+        "wd:id":"Q2063159",
+        "wk:page":"Mravince"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"08df79548672864f4757166e4da2a999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101796905,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101796905,
+    "wof:lastmodified":1527642034,
+    "wof:name":"Mravince",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":1261,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50987523566704,
+    43.52694095582757,
+    16.53305238215762,
+    43.53881959945687
+],
+  "geometry": {"coordinates":[[[16.52002175812981,43.53655295945384],[16.51982007888887,43.53475593498115],[16.52597258276251,43.53436420865762],[16.52607351421449,43.53526271428592],[16.52976503733709,43.53502749739073],[16.52966404954594,43.5341289959697],[16.53089453254734,43.53405056225847],[16.53079353012311,43.53315206144123],[16.53202399138206,43.53307361439238],[16.53182196141739,43.53127661316614],[16.53305238215762,43.53119815418358],[16.53285033122677,43.52940115256621],[16.52915917276698,43.52963647687625],[16.52885629643163,43.52694095582757],[16.52639562195571,43.52709775658963],[16.52669838564589,43.52979328605153],[16.52423758667828,43.52995003626768],[16.52454027499181,43.53264556694705],[16.52084888534148,43.53288059433322],[16.52054636602327,43.53018505104313],[16.51931595321963,43.53026335982162],[16.5190135274774,43.52756780513891],[16.51655280564933,43.52772437007485],[16.51665357254285,43.52862289190153],[16.514192801337,43.52877940067867],[16.5144950141738,43.53147496976362],[16.51080366620198,43.53170963497195],[16.51110574724072,43.53440520946162],[16.50987523566704,43.53448340591251],[16.51007660613101,43.53628045437813],[16.51253770145036,43.53612404113915],[16.51283990084954,43.53881959945687],[16.51407050042485,43.53874136652598],[16.51396974437228,43.53784284928457],[16.51889203796014,43.53752977573527],[16.51879121091241,43.53663126329604],[16.52002175812981,43.53655295945384]]],"type":"Polygon"}
+}

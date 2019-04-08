@@ -1,0 +1,67 @@
+{
+  "id": 1259766141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.28,43.36056,17.28,43.36056",
+    "geom:latitude":43.36056,
+    "geom:longitude":17.28,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Maici",
+    "gn:country_code":"HR",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283847,
+    "gn:latitude":43.36056,
+    "gn:longitude":17.28,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Mai\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669217,
+        1108759099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283847
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"445e0a588760145419e1829312bd36fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759099,
+            "locality_id":1259766141,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":1259766141,
+    "wof:lastmodified":1536948490,
+    "wof:name":"Maici",
+    "wof:parent_id":1108759099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.28,
+    43.36056,
+    17.28,
+    43.36056
+],
+  "geometry": {"coordinates":[17.28,43.36056],"type":"Point"}
+}

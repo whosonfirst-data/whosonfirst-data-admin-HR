@@ -1,0 +1,177 @@
+{
+  "id": 101794715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00031,
+    "geom:area_square_m":2704015.423754,
+    "geom:bbox":"16.5251629575,45.2117898321,16.5651960483,45.2331382656",
+    "geom:latitude":45.222638,
+    "geom:longitude":16.543639,
+    "gn:population":2746,
+    "iso:country":"HR",
+    "lbl:latitude":45.219428,
+    "lbl:longitude":16.545307,
+    "mps:latitude":45.219428,
+    "mps:longitude":16.545307,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:cat_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:ces_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062e\u0631\u06a4\u0627\u062a\u0633\u06a9\u0627 \u06a9\u06c6\u0633\u062a\u0627\u06cc\u0646\u06cc\u062a\u0633\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:eng_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:epo_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0648\u0627\u062a\u0633\u06a9\u0627 \u06a9\u0633\u062a\u0627\u06cc\u0646\u06cc\u062a\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:hbs_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:hun_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:ita_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30eb\u30f4\u30a1\u30c4\u30ab\u30fb\u30b3\u30b9\u30bf\u30a4\u30cb\u30c4\u30a1"
+    ],
+    "name:lat_x_preferred":[
+        "Castanopolis"
+    ],
+    "name:nld_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:pol_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:ron_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0440\u0432\u0430\u0442\u0441\u043a\u0430-\u041a\u043e\u0441\u0442\u0430\u0439\u043d\u0438\u0446\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u0440\u0432\u0430\u0442\u0441\u043a\u0430 \u041a\u043e\u0441\u0442\u0430\u0439\u043d\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:spa_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0432\u0430\u0442\u0441\u043a\u0430 \u041a\u043e\u0441\u0442\u0430\u0458\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0440\u0432\u0430\u0442\u0441\u044c\u043a\u0430 \u041a\u043e\u0441\u0442\u0430\u0439\u043d\u0438\u0446\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Kostajnica"
+    ],
+    "name:unk_x_variant":[
+        "Kosztajnica"
+    ],
+    "name:war_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u65af\u5854\u4f0a\u5c3c\u5bdf"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Sisacko-moslavacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Hrvatska Kostajnica",
+    "qs:la_lc":"*HR0301503",
+    "qs:level":"locality",
+    "qs:loc":"Hrvatska Kostajnica",
+    "qs:loc_alt":"Hrvatska Kostajnica",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":45.233333,
+    "wd:longitude":16.533333,
+    "wd:wordcount":691,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85632267,
+        1108759139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115c21f6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3197594,
+        "gp:id":848527,
+        "qs:id":147224,
+        "qs_pg:id":147224,
+        "wd:id":"Q396575",
+        "wk:page":"Hrvatska Kostajnica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4beadf9633b69d551da0d02726452041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "county_id":1108759139,
+            "locality_id":101794715,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":101794715,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527689319,
+    "wof:name":"Hrvatska Kostajnica",
+    "wof:parent_id":1108759139,
+    "wof:placetype":"locality",
+    "wof:population":2746,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.52516295746364,
+    45.21178983208011,
+    16.56519604831607,
+    45.23313826557791
+],
+  "geometry": {"coordinates":[[[16.53689384903129,45.23305938968912],[16.53678768362022,45.23216208117242],[16.54312580107597,45.23176748028374],[16.54291328061981,45.22997287594058],[16.54544842358757,45.22981493471673],[16.54491699810188,45.22532842637537],[16.54618446316402,45.22524944028441],[16.54607817126271,45.22435213798974],[16.55368277145811,45.22387791000983],[16.55378918518892,45.22477520341562],[16.55632406647834,45.22461700243321],[16.55643052532508,45.22551429217083],[16.56023288373189,45.22527687184919],[16.56012636397207,45.22437958656167],[16.56519604831607,45.22406281852659],[16.56498285990818,45.22226825771622],[16.56244810546804,45.22242666630115],[16.56234155863552,45.22152938187185],[16.55853946342245,45.22176687590638],[16.55843298200307,45.22086958632264],[16.55463091836134,45.22110693863976],[16.55431168384695,45.21841505232413],[16.55304438368455,45.218494134813],[16.55283162379629,45.21669953745567],[16.55156436097394,45.21677860173008],[16.55113897641968,45.21318939264995],[16.54480301942152,45.21358445564488],[16.54459055709151,45.21178983208011],[16.54332339652495,45.2118687959703],[16.54342960514748,45.21276610958375],[16.54216242103712,45.2128450597038],[16.54237481118116,45.21463968778068],[16.53984035203018,45.21479754818756],[16.54015884918095,45.21748949390633],[16.53128771357922,45.21804155597351],[16.5313937461836,45.21893888015398],[16.52885906619468,45.21909647786202],[16.52896506268416,45.21999380429401],[16.52516295746364,45.22023009089355],[16.52537484208386,45.22202475050915],[16.52664225434205,45.22194600060993],[16.52653628948451,45.22104867262891],[16.53667530830688,45.22041813614726],[16.53678143559341,45.22131545231031],[16.54058357498184,45.22107874502825],[16.5410083727221,45.22466798491132],[16.53974091495792,45.22474690850822],[16.53984710532893,45.22564421820255],[16.53604465161561,45.22588090190749],[16.53615078556027,45.22677821533642],[16.5323482416826,45.22701476618892],[16.53224216866306,45.22611744832568],[16.5284396564881,45.22635385745582],[16.52833364888505,45.22545653445928],[16.52579866515879,45.2256140613211],[16.52590463214494,45.22651138727008],[16.52717214593895,45.22643262999009],[16.52727813772174,45.22732995376168],[16.52981319619425,45.22717239048455],[16.53044948490771,45.23255630066041],[16.53552005037562,45.23224095558231],[16.53562619547279,45.23313826557791],[16.53689384903129,45.23305938968912]]],"type":"Polygon"}
+}

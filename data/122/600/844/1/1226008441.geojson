@@ -1,0 +1,70 @@
+{
+  "id": 1226008441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63333,45.73333,17.63333,45.73333",
+    "geom:latitude":45.73333,
+    "geom:longitude":17.63333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"3192931.0",
+    "gn:asciiname":"Donji Meljani",
+    "gn:country_code":"HR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201435,
+    "gn:latitude":45.73333,
+    "gn:longitude":17.63333,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Donji Meljani",
+    "gn:population":259,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201435,
+        "wk:page":"Donji_Meljani"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0ec24c68fbec088c246fa97429f8a545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226008441,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1226008441,
+    "wof:lastmodified":1537563304,
+    "wof:name":"Donji Meljani",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":259,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63332999999999,
+    45.73333,
+    17.63332999999999,
+    45.73333
+],
+  "geometry": {"coordinates":[17.63332999999999,45.73333],"type":"Point"}
+}

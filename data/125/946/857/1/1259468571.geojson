@@ -1,0 +1,73 @@
+{
+  "id": 1259468571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27472,44.71667,15.27472,44.71667",
+    "geom:latitude":44.71667,
+    "geom:longitude":15.27472,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049291.0",
+    "gn:asciiname":"Gornji Kosinj",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199993,
+    "gn:latitude":44.71667,
+    "gn:longitude":15.27472,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Gornji Kosinj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kosini",
+        "Kosinj",
+        "Gornji Kosinj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199993,
+        "wk:page":"Gornji_Kosinj"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"207214b670aa64c6e8d4b9a96d19f71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259468571,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1259468571,
+    "wof:lastmodified":1537625900,
+    "wof:name":"Gornji Kosinj",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27472,
+    44.71667,
+    15.27472,
+    44.71667
+],
+  "geometry": {"coordinates":[15.27472,44.71667],"type":"Point"}
+}

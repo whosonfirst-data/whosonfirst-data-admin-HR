@@ -1,0 +1,118 @@
+{
+  "id": 1125913431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46611,44.25444,15.46611,44.25444",
+    "geom:latitude":44.25444,
+    "geom:longitude":15.46611,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":189,
+    "iso:country":"HR",
+    "lbl:latitude":44.25444,
+    "lbl:longitude":15.46611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Vinjerac"
+    ],
+    "name:eng_x_preferred":[
+        "Vinjerac"
+    ],
+    "name:ger_x_preferred":[
+        "Vinjerac"
+    ],
+    "name:hrv_x_preferred":[
+        "Vinjerac"
+    ],
+    "name:hun_x_preferred":[
+        "Vinjerac"
+    ],
+    "name:ita_x_preferred":[
+        "Castel Venier"
+    ],
+    "name:slv_x_preferred":[
+        "Vinjerac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u045a\u0435\u0440\u0430\u0446"
+    ],
+    "name:unk_x_variant":[
+        "Castel Venier"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3187725,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vinjerac",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Zadarsko-Kninska",
+    "qs_pg:photos":164,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":164,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":478236,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850944,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Zadarsko-Kninska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187725,
+        "gp:id":850944,
+        "qs_pg:id":478236,
+        "wd:id":"Q851593"
+    },
+    "wof:country":"HR",
+    "wof:created":1497296237,
+    "wof:geomhash":"fbb7ba1e3ac58f6ef2539ccb575c19c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125913431,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1125913431,
+    "wof:lastmodified":1514447679,
+    "wof:name":"Vinjerac",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":189,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46611,
+    44.25444,
+    15.46611,
+    44.25444
+],
+  "geometry": {"coordinates":[15.46611,44.25444],"type":"Point"}
+}

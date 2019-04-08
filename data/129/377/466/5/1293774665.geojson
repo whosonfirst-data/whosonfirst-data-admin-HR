@@ -1,0 +1,66 @@
+{
+  "id": 1293774665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40861,44.64722,15.40861,44.64722",
+    "geom:latitude":44.64722,
+    "geom:longitude":15.40861,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049291.0",
+    "gn:asciiname":"Srednji Bukovac",
+    "gn:country_code":"HR",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271415,
+    "gn:latitude":44.64722,
+    "gn:longitude":15.40861,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Srednji Bukovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271415
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"16a325a2a4e5981966445122f2f82432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293774665,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1293774665,
+    "wof:lastmodified":1536869025,
+    "wof:name":"Srednji Bukovac",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40861,
+    44.64722,
+    15.40861,
+    44.64722
+],
+  "geometry": {"coordinates":[15.40861,44.64722],"type":"Point"}
+}

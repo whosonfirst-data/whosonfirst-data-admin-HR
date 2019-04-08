@@ -1,0 +1,68 @@
+{
+  "id": 1309837837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41667,45.55,15.41667,45.55",
+    "geom:latitude":45.55,
+    "geom:longitude":15.41667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Piscetke",
+    "gn:country_code":"HR",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193321,
+    "gn:latitude":45.55,
+    "gn:longitude":15.41667,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Pi\u0161\u010detke",
+    "gn:population":15,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193321
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"af3109525398ec320be9385fd6f481ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309837837,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1309837837,
+    "wof:lastmodified":1536884440,
+    "wof:name":"Piscetke",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41667,
+    45.55,
+    15.41667,
+    45.55
+],
+  "geometry": {"coordinates":[15.41667,45.55],"type":"Point"}
+}

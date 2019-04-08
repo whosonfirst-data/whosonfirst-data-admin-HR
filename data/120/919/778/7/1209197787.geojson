@@ -1,0 +1,61 @@
+{
+  "id": 1209197787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.465,45.42222,16.465,45.42222",
+    "geom:latitude":45.42222,
+    "geom:longitude":16.465,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Vucjak",
+    "gn:country_code":"HR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215330,
+    "gn:latitude":45.42222,
+    "gn:longitude":16.465,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Vu\u010djak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215330
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e8522eacf3e2302849794ded8c6c6fba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209197787
+        }
+    ],
+    "wof:id":1209197787,
+    "wof:lastmodified":1536294712,
+    "wof:name":"Vucjak",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.465,
+    45.42222,
+    16.465,
+    45.42222
+],
+  "geometry": {"coordinates":[16.465,45.42222],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1310088385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25361,43.25472,17.25361,43.25472",
+    "geom:latitude":43.25472,
+    "geom:longitude":17.25361,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Podastine",
+    "gn:country_code":"HR",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283281,
+    "gn:latitude":43.25472,
+    "gn:longitude":17.25361,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Podastine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283281
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"caedbee88e6c12dbd1e3fea2e1d75ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310088385,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1310088385,
+    "wof:lastmodified":1537020339,
+    "wof:name":"Podastine",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25361,
+    43.25472,
+    17.25361,
+    43.25472
+],
+  "geometry": {"coordinates":[17.25361,43.25472],"type":"Point"}
+}

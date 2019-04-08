@@ -1,0 +1,73 @@
+{
+  "id": 1192994597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83333,45.53333,17.83333,45.53333",
+    "geom:latitude":45.53333,
+    "geom:longitude":17.83333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"3194063.0",
+    "gn:asciiname":"Gornja Pistana",
+    "gn:country_code":"HR",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200208,
+    "gn:latitude":45.53333,
+    "gn:longitude":17.83333,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Gornja Pi\u0161tana",
+    "gn:population":5,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornja Pi\u0161tana"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200208,
+        "wk:page":"Gornja_Pi%C5%A1tana"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c0dc60ec1b14c50ae1b3a7b1e262f91c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1192994597,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1192994597,
+    "wof:lastmodified":1537625903,
+    "wof:name":"Gornja Pistana",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83333,
+    45.53333,
+    17.83333,
+    45.53333
+],
+  "geometry": {"coordinates":[17.83333,45.53333],"type":"Point"}
+}

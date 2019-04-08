@@ -1,0 +1,66 @@
+{
+  "id": 1310227161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.90806,46.10861,16.90806,46.10861",
+    "geom:latitude":46.10861,
+    "geom:longitude":16.90806,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"11049378.0",
+    "gn:asciiname":"Vlaistav",
+    "gn:country_code":"HR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215913,
+    "gn:latitude":46.10861,
+    "gn:longitude":16.90806,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Vlaistav",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215913
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"38bd0a468455e78f2950eaf9ebe13637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310227161,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1310227161,
+    "wof:lastmodified":1536820190,
+    "wof:name":"Vlaistav",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.90806,
+    46.10861,
+    16.90806,
+    46.10861
+],
+  "geometry": {"coordinates":[16.90806,46.10861],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327436329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06778,45.15889,15.06778,45.15889",
+    "geom:latitude":45.15889,
+    "geom:longitude":15.06778,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jagetici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213654,
+    "gn:latitude":45.15889,
+    "gn:longitude":15.06778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jageti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Janeti\u0107i",
+        "Jageti\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213654
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0b18adfd29f1266703f0d91f7c23cb3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327436329,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1327436329,
+    "wof:lastmodified":1537625945,
+    "wof:name":"Jagetici",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06778,
+    45.15889,
+    15.06778,
+    45.15889
+],
+  "geometry": {"coordinates":[15.06778,45.15889],"type":"Point"}
+}

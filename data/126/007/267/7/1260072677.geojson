@@ -1,0 +1,75 @@
+{
+  "id": 1260072677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48333,45.98333,16.48333,45.98333",
+    "geom:latitude":45.98333,
+    "geom:longitude":16.48333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"3197228.0",
+    "gn:asciiname":"Mali Raven",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195627,
+    "gn:latitude":45.98333,
+    "gn:longitude":16.48333,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Mali Raven",
+    "gn:population":15,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raven",
+        "Mali Raven"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195627,
+        "wk:page":"Mali_Raven"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"28f2a335d1a0a6d8e8c0eebe86bf85ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260072677,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1260072677,
+    "wof:lastmodified":1537625866,
+    "wof:name":"Mali Raven",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48333,
+    45.98333,
+    16.48333,
+    45.98333
+],
+  "geometry": {"coordinates":[16.48333,45.98333],"type":"Point"}
+}

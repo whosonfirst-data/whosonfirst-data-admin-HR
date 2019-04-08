@@ -1,0 +1,70 @@
+{
+  "id": 1293075057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01667,45.83333,16.01667,45.83333",
+    "geom:latitude":45.83333,
+    "geom:longitude":16.01667,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Donji Bukovec",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201499,
+    "gn:latitude":45.83333,
+    "gn:longitude":16.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Donji Bukovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bukovec",
+        "Donji Bukovec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201499
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4605a0344fea5659b7021dc8ad1e315c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293075057,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1293075057,
+    "wof:lastmodified":1537625915,
+    "wof:name":"Donji Bukovec",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01667,
+    45.83333,
+    16.01667,
+    45.83333
+],
+  "geometry": {"coordinates":[16.01667,45.83333],"type":"Point"}
+}

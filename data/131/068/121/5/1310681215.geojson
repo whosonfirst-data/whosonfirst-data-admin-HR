@@ -1,0 +1,66 @@
+{
+  "id": 1310681215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71667,45.21667,14.71667,45.21667",
+    "geom:latitude":45.21667,
+    "geom:longitude":14.71667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"11072235.0",
+    "gn:asciiname":"Baretici",
+    "gn:country_code":"HR",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204476,
+    "gn:latitude":45.21667,
+    "gn:longitude":14.71667,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Bareti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204476
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cb1c4f72cd114627e83b4aef81d759e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310681215,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1310681215,
+    "wof:lastmodified":1536663480,
+    "wof:name":"Baretici",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71667,
+    45.21667,
+    14.71667,
+    45.21667
+],
+  "geometry": {"coordinates":[14.71667,45.21667],"type":"Point"}
+}

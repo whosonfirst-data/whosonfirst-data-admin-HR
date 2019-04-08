@@ -1,0 +1,65 @@
+{
+  "id": 1276628213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.04556,43.54278,17.04556,43.54278",
+    "geom:latitude":43.54278,
+    "geom:longitude":17.04556,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pripuzi",
+    "gn:country_code":"HR",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284866,
+    "gn:latitude":43.54278,
+    "gn:longitude":17.04556,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Pripuzi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284866
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a0766addb2a0e9b660c3e338f82f0ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276628213,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1276628213,
+    "wof:lastmodified":1536880279,
+    "wof:name":"Pripuzi",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.04556,
+    43.54278,
+    17.04556,
+    43.54278
+],
+  "geometry": {"coordinates":[17.04556,43.54278],"type":"Point"}
+}

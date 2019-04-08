@@ -1,0 +1,69 @@
+{
+  "id": 1243526091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61556,45.73361,17.61556,45.73361",
+    "geom:latitude":45.73361,
+    "geom:longitude":17.61556,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"3192931.0",
+    "gn:asciiname":"Bistrica",
+    "gn:country_code":"HR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204063,
+    "gn:latitude":45.73361,
+    "gn:longitude":17.61556,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Bistrica",
+    "gn:population":165,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204063
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f6270620fcc7a024ac5100ebf3fa48a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243526091,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1243526091,
+    "wof:lastmodified":1536690963,
+    "wof:name":"Bistrica",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":165,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61556000000001,
+    45.73361,
+    17.61556000000001,
+    45.73361
+],
+  "geometry": {"coordinates":[17.61556000000001,45.73361],"type":"Point"}
+}

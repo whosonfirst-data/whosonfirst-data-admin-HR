@@ -1,0 +1,67 @@
+{
+  "id": 1327420807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26491,45.30456,14.26491,45.30456",
+    "geom:latitude":45.30456,
+    "geom:longitude":14.26491,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3194097.0",
+    "gn:asciiname":"Dobrec",
+    "gn:country_code":"HR",
+    "gn:dem":255,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11064970,
+    "gn:latitude":45.30456,
+    "gn:longitude":14.26491,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Dobrec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11064970
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fc3d4a02fb4a584ef9c6c6d09c3dabc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327420807,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1327420807,
+    "wof:lastmodified":1536697777,
+    "wof:name":"Dobrec",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26491,
+    45.30456,
+    14.26491,
+    45.30456
+],
+  "geometry": {"coordinates":[14.26491,45.30456],"type":"Point"}
+}

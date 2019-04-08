@@ -1,0 +1,71 @@
+{
+  "id": 1260361095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.47944,45.71417,17.47944,45.71417",
+    "geom:latitude":45.71417,
+    "geom:longitude":17.47944,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049468.0",
+    "gn:asciiname":"Pivnica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193296,
+    "gn:latitude":45.71417,
+    "gn:longitude":17.47944,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Pivnica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rivnica",
+        "Pivnica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193296
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"aac501f7fa96653f0d099b02777b6387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260361095,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1260361095,
+    "wof:lastmodified":1537625848,
+    "wof:name":"Pivnica",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.47944,
+    45.71417,
+    17.47944,
+    45.71417
+],
+  "geometry": {"coordinates":[17.47944,45.71417],"type":"Point"}
+}

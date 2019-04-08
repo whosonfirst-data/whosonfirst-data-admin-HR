@@ -1,0 +1,74 @@
+{
+  "id": 1226122635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90611,45.10472,14.90611,45.10472",
+    "geom:latitude":45.10472,
+    "geom:longitude":14.90611,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11049447.0",
+    "gn:asciiname":"Luka Krmpotska",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196085,
+    "gn:latitude":45.10472,
+    "gn:longitude":14.90611,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Luka Krmpotska",
+    "gn:population":2,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luka",
+        "Luka Krmpotska"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196085
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fb6dbf85c072694cde66520ffad06daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226122635,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1226122635,
+    "wof:lastmodified":1537625870,
+    "wof:name":"Luka Krmpotska",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90611,
+    45.10472,
+    14.90611,
+    45.10472
+],
+  "geometry": {"coordinates":[14.90611,45.10472],"type":"Point"}
+}

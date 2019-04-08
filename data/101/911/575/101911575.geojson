@@ -1,0 +1,78 @@
+{
+  "id": 101911575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:bbox":"14.658227159,45.1433252811,14.6716588682,45.1529359907",
+    "geom:latitude":45.147288,
+    "geom:longitude":14.664648,
+    "iso:country":"HR",
+    "lbl:latitude":45.146042,
+    "lbl:longitude":14.661748,
+    "mps:latitude":45.146042,
+    "mps:longitude":14.661748,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "B\u016fh ostrova"
+    ],
+    "name:spa_x_preferred":[
+        "The Island God"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Primorsko-goranska \u017eupanija",
+    "qs:a1r":"2",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Dobrinj",
+    "qs:la_lc":"*HR0800744",
+    "qs:level":"locality",
+    "qs:loc":"\u00c5 Ilo",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":315,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":850212,
+        "qs:id":1088222,
+        "wd:id":"Q7339663"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c8eaa1cb179b91908c623832a663abf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101911575,
+            "region_id":85684785
+        }
+    ],
+    "wof:id":101911575,
+    "wof:lastmodified":1527715545,
+    "wof:name":"\u00c5 Ilo",
+    "wof:parent_id":85684785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65822715895166,
+    45.14332528114164,
+    14.67165886824313,
+    45.15293599065433
+],
+  "geometry": {"coordinates":[[[14.67165886824313,45.15282325476511],[14.67120458383761,45.14742751844938],[14.66993704937198,45.14748388769539],[14.66978568770315,45.14568530176524],[14.66725069343141,45.14579799020282],[14.66717505820907,45.14489869418026],[14.66464009547815,45.14501131940142],[14.66456450426097,45.14411202063798],[14.66202957307496,45.14422458264482],[14.66195402586061,45.14332528114164],[14.65941912622424,45.14343777993594],[14.65949463263797,45.14433708354693],[14.65822715895166,45.14439331108349],[14.65868014219882,45.14978912583013],[14.65994773830653,45.14973289197206],[14.65987221269569,45.14883359214366],[14.66240735716212,45.14872108070136],[14.66233179394209,45.14782178235129],[14.66359934230081,45.14776550476813],[14.66352376187871,45.14686620684188],[14.66732633185853,45.1466972855946],[14.66740197349066,45.14759658035592],[14.66866951258942,45.14754024166399],[14.66912355212656,45.15293599065433],[14.67165886824313,45.15282325476511]]],"type":"Polygon"}
+}

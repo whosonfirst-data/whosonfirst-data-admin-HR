@@ -1,0 +1,66 @@
+{
+  "id": 1310586819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78444,44.32167,15.78444,44.32167",
+    "geom:latitude":44.32167,
+    "geom:longitude":15.78444,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049288.0",
+    "gn:asciiname":"Stikadski Klanac",
+    "gn:country_code":"HR",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216050,
+    "gn:latitude":44.32167,
+    "gn:longitude":15.78444,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"\u0160tikadski Klanac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216050
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"edd42fcce7c4f2bff09c7830f5e546df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310586819,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1310586819,
+    "wof:lastmodified":1536799768,
+    "wof:name":"Stikadski Klanac",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78444,
+    44.32167000000001,
+    15.78444,
+    44.32167000000001
+],
+  "geometry": {"coordinates":[15.78444,44.32167000000001],"type":"Point"}
+}

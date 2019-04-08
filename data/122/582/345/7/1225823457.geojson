@@ -1,0 +1,70 @@
+{
+  "id": 1225823457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.865,45.43333,17.865,45.43333",
+    "geom:latitude":45.43333,
+    "geom:longitude":17.865,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Donji Mitrovac",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194996,
+    "gn:latitude":45.43333,
+    "gn:longitude":17.865,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Donji Mitrovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mitrovac",
+        "Donji Mitrovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194996
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"329a54b516b32dd63775f1b136168bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225823457,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1225823457,
+    "wof:lastmodified":1537625861,
+    "wof:name":"Donji Mitrovac",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.865,
+    45.43333,
+    17.865,
+    45.43333
+],
+  "geometry": {"coordinates":[17.865,45.43333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243247017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.45984,45.2892,16.45984,45.2892",
+    "geom:latitude":45.2892,
+    "geom:longitude":16.45984,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"11049225.0",
+    "gn:asciiname":"Gornji Bjelovac",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200051,
+    "gn:latitude":45.2892,
+    "gn:longitude":16.45984,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Gornji Bjelovac",
+    "gn:population":53,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornji Bjelovas",
+        "Gornji Bjelovac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200051
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fb59659735ff63c8e01986e3f2fdb29d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243247017,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1243247017,
+    "wof:lastmodified":1537625901,
+    "wof:name":"Gornji Bjelovac",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.45984,
+    45.2892,
+    16.45984,
+    45.2892
+],
+  "geometry": {"coordinates":[16.45984,45.2892],"type":"Point"}
+}

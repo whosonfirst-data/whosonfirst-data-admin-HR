@@ -1,0 +1,73 @@
+{
+  "id": 1242950185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45685,45.3313,14.45685,45.3313",
+    "geom:latitude":45.3313,
+    "geom:longitude":14.45685,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Trsat",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188728,
+    "gn:latitude":45.3313,
+    "gn:longitude":14.45685,
+    "gn:modification_date":"2012-04-25",
+    "gn:name":"Trsat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tersato",
+        "Tersat",
+        "Tersatto",
+        "Trsat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188728,
+        "wk:page":"Trsat"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7d5985d669d2d96aada6e006e91deee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242950185,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1242950185,
+    "wof:lastmodified":1537625818,
+    "wof:name":"Trsat",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45685,
+    45.3313,
+    14.45685,
+    45.3313
+],
+  "geometry": {"coordinates":[14.45685,45.3313],"type":"Point"}
+}

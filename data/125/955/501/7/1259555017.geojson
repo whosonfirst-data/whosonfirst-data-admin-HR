@@ -1,0 +1,73 @@
+{
+  "id": 1259555017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.85472,45.74417,17.85472,45.74417",
+    "geom:latitude":45.74417,
+    "geom:longitude":17.85472,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049457.0",
+    "gn:asciiname":"Cadavica",
+    "gn:country_code":"HR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3202918,
+    "gn:latitude":45.74417,
+    "gn:longitude":17.85472,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"\u010ca\u0111avica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Csagavica",
+        "\u010cadjavica",
+        "Chagyavecz",
+        "\u010ca\u0111avica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202918,
+        "wk:page":"%C4%8Ca%C4%91avica%2C_Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0fcf8e65f652f715c7877ec290370e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259555017,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1259555017,
+    "wof:lastmodified":1537625926,
+    "wof:name":"Cadavica",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.85472,
+    45.74417,
+    17.85472,
+    45.74417
+],
+  "geometry": {"coordinates":[17.85472,45.74417],"type":"Point"}
+}

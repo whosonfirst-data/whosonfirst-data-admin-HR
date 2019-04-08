@@ -1,0 +1,73 @@
+{
+  "id": 1259492861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.26083,45.76556,17.26083,45.76556",
+    "geom:latitude":45.76556,
+    "geom:longitude":17.26083,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Velika Peratovica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188191,
+    "gn:latitude":45.76556,
+    "gn:longitude":17.26083,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Velika Peratovica",
+    "gn:population":26,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peratovica",
+        "Velika Peratovica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188191
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"43c2fafe4baf4c79a4ab845190cad069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259492861,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1259492861,
+    "wof:lastmodified":1537625813,
+    "wof:name":"Velika Peratovica",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.26083,
+    45.76556,
+    17.26083,
+    45.76556
+],
+  "geometry": {"coordinates":[17.26083,45.76556],"type":"Point"}
+}

@@ -1,0 +1,137 @@
+{
+  "id": 101793583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":279367.820549,
+    "geom:bbox":"18.5007434492,45.4289744984,18.5090360103,45.442288512",
+    "geom:latitude":45.435567,
+    "geom:longitude":18.505362,
+    "gn:population":1064,
+    "iso:country":"HR",
+    "lbl:latitude":45.435841,
+    "lbl:longitude":18.505645,
+    "mps:latitude":45.435841,
+    "mps:longitude":18.505645,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Vuka"
+    ],
+    "name:dut_x_preferred":[
+        "Vuka"
+    ],
+    "name:eng_x_preferred":[
+        "Vuka"
+    ],
+    "name:fra_x_preferred":[
+        "Vuka"
+    ],
+    "name:fre_x_preferred":[
+        "Vuka"
+    ],
+    "name:hbs_x_preferred":[
+        "Vuka"
+    ],
+    "name:hrv_x_preferred":[
+        "Vuka"
+    ],
+    "name:ita_x_preferred":[
+        "Vuka"
+    ],
+    "name:nld_x_preferred":[
+        "Vuka"
+    ],
+    "name:pol_x_preferred":[
+        "Vuka"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Vuka"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Vuka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0443\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Vuka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0443\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vuka"
+    ],
+    "name:und_x_preferred":[
+        "Vuka"
+    ],
+    "name:war_x_preferred":[
+        "Vuka"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Vuka",
+    "qs:la_lc":"*HR1405177",
+    "qs:level":"locality",
+    "qs:loc":"Vuka",
+    "qs:loc_alt":"Vuka",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":113,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115d63f4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3187070,
+        "gp:id":850809,
+        "qs:id":1275672,
+        "wd:id":"Q1284798",
+        "wk:page":"Vuka, Osijek-Baranja County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"311e854644cca88e716a00ba2d2867c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793583,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101793583,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527689281,
+    "wof:name":"Vuka",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":1064,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.50074344916703,
+    45.42897449839836,
+    18.50903601029762,
+    45.44228851196715
+],
+  "geometry": {"coordinates":[[[18.50903601029762,45.44118873038934],[18.50848018453161,45.43761099059105],[18.50721047378295,45.43771366287348],[18.50665482331988,45.43413590258172],[18.50538518936941,45.43423855188871],[18.50482971416153,45.43066077110439],[18.50356015699845,45.43076339743936],[18.50328249522988,45.42897449839836],[18.50074344916703,45.4291796975977],[18.5008822365902,45.43007415137595],[18.50215178201029,45.42997155747224],[18.50284590868625,45.43444380474631],[18.50411555115795,45.43434118594359],[18.50467103949859,45.43791896167915],[18.50594075877177,45.43781631990282],[18.50663535301931,45.44228851196715],[18.50790516937519,45.44218584528261],[18.50776621847587,45.44129141039662],[18.50903601029762,45.44118873038934]]],"type":"Polygon"}
+}

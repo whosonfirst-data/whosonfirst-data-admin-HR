@@ -1,0 +1,129 @@
+{
+  "id": 1125974589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.95028,45.58917,17.95028,45.58917",
+    "geom:latitude":45.58917,
+    "geom:longitude":17.95028,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1063,
+    "gn:population":1063,
+    "iso:country":"HR",
+    "lbl:latitude":45.58917,
+    "lbl:longitude":17.95028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Zdenci"
+    ],
+    "name:dut_x_preferred":[
+        "Zdenci"
+    ],
+    "name:eng_x_preferred":[
+        "Zdenci"
+    ],
+    "name:fre_x_preferred":[
+        "Zdenci"
+    ],
+    "name:hrv_x_preferred":[
+        "Zdenci"
+    ],
+    "name:ita_x_preferred":[
+        "Zdenci"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Zdenci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0434\u0435\u043d\u0446\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Zdenci"
+    ],
+    "name:spa_x_preferred":[
+        "Zdenci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0434\u0435\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Zdenci"
+    ],
+    "name:unk_x_variant":[
+        "Zdencze"
+    ],
+    "name:war_x_preferred":[
+        "Zdenci"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3186671,
+    "qs_pg:gn_pop":1063,
+    "qs_pg:name":"Zdenci Brodski",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Brodsko-Posavska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1275752,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":851192,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Brodsko-Posavska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186671,
+        "gp:id":851192,
+        "qs_pg:id":1275752,
+        "wd:id":"Q1270346"
+    },
+    "wof:country":"HR",
+    "wof:created":1497298296,
+    "wof:geomhash":"b61a9a452056aed8a1d021bad01a0738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125974589,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1125974589,
+    "wof:lastmodified":1514447742,
+    "wof:name":"Zdenci Brodski",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":1063,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.95028,
+    45.58917,
+    17.95028,
+    45.58917
+],
+  "geometry": {"coordinates":[17.95028,45.58917],"type":"Point"}
+}

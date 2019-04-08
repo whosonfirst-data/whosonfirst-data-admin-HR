@@ -1,0 +1,66 @@
+{
+  "id": 1310225025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.99472,44.62333,15.99472,44.62333",
+    "geom:latitude":44.62333,
+    "geom:longitude":15.99472,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049285.0",
+    "gn:asciiname":"Skorici",
+    "gn:country_code":"HR",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3269039,
+    "gn:latitude":44.62333,
+    "gn:longitude":15.99472,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"\u0160kori\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3269039
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a1c3e3159b0bb1e9619d407fd1a97793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310225025,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1310225025,
+    "wof:lastmodified":1536823252,
+    "wof:name":"Skorici",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.99472,
+    44.62333,
+    15.99472,
+    44.62333
+],
+  "geometry": {"coordinates":[15.99472,44.62333],"type":"Point"}
+}

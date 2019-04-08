@@ -1,0 +1,67 @@
+{
+  "id": 1343344307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.22912,43.60631,16.22912,43.60631",
+    "geom:latitude":43.60631,
+    "geom:longitude":16.22912,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"11054621.0",
+    "gn:asciiname":"Prgomet",
+    "gn:country_code":"HR",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3192467,
+    "gn:latitude":43.60631,
+    "gn:longitude":16.22912,
+    "gn:modification_date":"2017-01-01",
+    "gn:name":"Prgomet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192467,
+        "wk:page":"Prgomet"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cea629b316c7674ab0fe8bee1ef63795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343344307,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1343344307,
+    "wof:lastmodified":1537563284,
+    "wof:name":"Prgomet",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.22912,
+    43.60631,
+    16.22912,
+    43.60631
+],
+  "geometry": {"coordinates":[16.22912,43.60631],"type":"Point"}
+}

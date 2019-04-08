@@ -1,0 +1,61 @@
+{
+  "id": 1209502097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46528,45.07361,14.46528,45.07361",
+    "geom:latitude":45.07361,
+    "geom:longitude":14.46528,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hrahoric",
+    "gn:country_code":"HR",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213532,
+    "gn:latitude":45.07361,
+    "gn:longitude":14.46528,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Hrahori\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213532
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b27342953ce99c6fc2dd4660441952d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209502097
+        }
+    ],
+    "wof:id":1209502097,
+    "wof:lastmodified":1536285150,
+    "wof:name":"Hrahoric",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.465279999999998,
+    45.07361,
+    14.465279999999998,
+    45.07361
+],
+  "geometry": {"coordinates":[14.46528,45.07361],"type":"Point"}
+}

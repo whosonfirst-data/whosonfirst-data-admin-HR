@@ -1,0 +1,61 @@
+{
+  "id": 1209092665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.24778,44.01472,16.24778,44.01472",
+    "geom:latitude":44.01472,
+    "geom:longitude":16.24778,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Milici",
+    "gn:country_code":"HR",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214436,
+    "gn:latitude":44.01472,
+    "gn:longitude":16.24778,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Mili\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214436
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f2d4d4e2427cdfda604e5a8394589b18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209092665
+        }
+    ],
+    "wof:id":1209092665,
+    "wof:lastmodified":1536297988,
+    "wof:name":"Milici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.24778,
+    44.01472,
+    16.24778,
+    44.01472
+],
+  "geometry": {"coordinates":[16.24778,44.01472],"type":"Point"}
+}

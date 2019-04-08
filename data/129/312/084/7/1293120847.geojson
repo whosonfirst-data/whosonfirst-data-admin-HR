@@ -1,0 +1,65 @@
+{
+  "id": 1293120847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96111,44.68389,14.96111,44.68389",
+    "geom:latitude":44.68389,
+    "geom:longitude":14.96111,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dragicevica Pod",
+    "gn:country_code":"HR",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217652,
+    "gn:latitude":44.68389,
+    "gn:longitude":14.96111,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Dragi\u010devi\u0107a Pod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217652
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"64abc46f0d83a7a248315b41d36451e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293120847,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1293120847,
+    "wof:lastmodified":1536817861,
+    "wof:name":"Dragicevica Pod",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96111,
+    44.68389000000001,
+    14.96111,
+    44.68389000000001
+],
+  "geometry": {"coordinates":[14.96111,44.68389000000001],"type":"Point"}
+}

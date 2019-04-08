@@ -1,0 +1,74 @@
+{
+  "id": 1343919781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53333,45.66667,15.53333,45.66667",
+    "geom:latitude":45.66667,
+    "geom:longitude":15.53333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11048992.0",
+    "gn:asciiname":"Pribic",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192459,
+    "gn:latitude":45.66667,
+    "gn:longitude":15.53333,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Pribi\u0107",
+    "gn:population":262,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donji Pribi\u010d",
+        "Pribi\u0107"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192459
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2731f0007fbd1db0756fd664e03b2b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343919781,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1343919781,
+    "wof:lastmodified":1537625843,
+    "wof:name":"Pribic",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":262,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53333,
+    45.66667,
+    15.53333,
+    45.66667
+],
+  "geometry": {"coordinates":[15.53333,45.66667],"type":"Point"}
+}

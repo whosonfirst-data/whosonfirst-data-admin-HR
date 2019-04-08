@@ -1,0 +1,65 @@
+{
+  "id": 1209081403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18639,44.32139,15.18639,44.32139",
+    "geom:latitude":44.32139,
+    "geom:longitude":15.18639,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"11054329.0",
+    "gn:asciiname":"Smokvica",
+    "gn:country_code":"HR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216511,
+    "gn:latitude":44.32139,
+    "gn:longitude":15.18639,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Smokvica",
+    "gn:population":55,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216511
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1a232bcbd49f61dbe17e208edd7ca32e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209081403
+        }
+    ],
+    "wof:id":1209081403,
+    "wof:lastmodified":1536298325,
+    "wof:name":"Smokvica",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18639,
+    44.32139,
+    15.18639,
+    44.32139
+],
+  "geometry": {"coordinates":[15.18639,44.32139],"type":"Point"}
+}

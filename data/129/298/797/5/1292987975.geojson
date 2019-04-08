@@ -1,0 +1,74 @@
+{
+  "id": 1292987975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3925,45.42667,14.3925,45.42667",
+    "geom:latitude":45.42667,
+    "geom:longitude":14.3925,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11049437.0",
+    "gn:asciiname":"Studena",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189649,
+    "gn:latitude":45.42667,
+    "gn:longitude":14.3925,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Studena",
+    "gn:population":382,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Studeno",
+        "Studena"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189649
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"37c16213c978558a11d40e4e6e514404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1292987975,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1292987975,
+    "wof:lastmodified":1537625824,
+    "wof:name":"Studena",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":382,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3925,
+    45.42667,
+    14.3925,
+    45.42667
+],
+  "geometry": {"coordinates":[14.3925,45.42667],"type":"Point"}
+}

@@ -1,0 +1,160 @@
+{
+  "id": 101857817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.617491,43.759049,16.617491,43.759049",
+    "geom:latitude":43.759049,
+    "geom:longitude":16.617491,
+    "gn:population":1645,
+    "iso:country":"HR",
+    "lbl:latitude":43.759049,
+    "lbl:longitude":16.617491,
+    "mps:latitude":43.759049,
+    "mps:longitude":16.617491,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Hrvace"
+    ],
+    "name:cat_x_preferred":[
+        "Hrvace"
+    ],
+    "name:ces_x_preferred":[
+        "Hrvace"
+    ],
+    "name:cze_x_preferred":[
+        "Hrvace"
+    ],
+    "name:dut_x_preferred":[
+        "Hrvace"
+    ],
+    "name:eng_x_preferred":[
+        "Hrvatice"
+    ],
+    "name:eng_x_variant":[
+        "Hrvatce",
+        "Hrvace"
+    ],
+    "name:fra_x_preferred":[
+        "Hrvace"
+    ],
+    "name:fre_x_preferred":[
+        "Hrvace"
+    ],
+    "name:hbs_x_preferred":[
+        "Hrvace"
+    ],
+    "name:hrv_x_preferred":[
+        "Hrvace"
+    ],
+    "name:hun_x_preferred":[
+        "Hrvace"
+    ],
+    "name:ita_x_preferred":[
+        "Ervazza"
+    ],
+    "name:nld_x_preferred":[
+        "Hrvace"
+    ],
+    "name:pol_x_preferred":[
+        "Hrvace"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Hrvace"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Hrvace"
+    ],
+    "name:slv_x_preferred":[
+        "Hrvace"
+    ],
+    "name:spa_x_preferred":[
+        "Hrvace"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0432\u0430\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hrvace"
+    ],
+    "name:und_x_preferred":[
+        "Hrvace"
+    ],
+    "name:unk_x_variant":[
+        "Hrvatice"
+    ],
+    "name:war_x_preferred":[
+        "Hrvace"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hrvace",
+    "qs:loc_alt":"Hrvace",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":108,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115bf0aa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3199235,
+        "gp:id":848128,
+        "qs:id":940513,
+        "qs_pg:id":940513,
+        "wd:id":"Q1277192",
+        "wk:page":"Hrvace"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d63c05684dccf81f92bc5938607b6f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101857817,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101857817,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744093,
+    "wof:name":"Hrvace",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":1645,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.617491,
+    43.759049,
+    16.617491,
+    43.759049
+],
+  "geometry": {"coordinates":[16.617491,43.759049],"type":"Point"}
+}

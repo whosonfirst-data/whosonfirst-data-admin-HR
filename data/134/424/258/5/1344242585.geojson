@@ -1,0 +1,66 @@
+{
+  "id": 1344242585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71583,44.65889,15.71583,44.65889",
+    "geom:latitude":44.65889,
+    "geom:longitude":15.71583,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049294.0",
+    "gn:asciiname":"Cusici",
+    "gn:country_code":"HR",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275577,
+    "gn:latitude":44.65889,
+    "gn:longitude":15.71583,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"\u0106u\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275577
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1e61cc3cd6bb3be85d5a849efec1eae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344242585,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1344242585,
+    "wof:lastmodified":1536610188,
+    "wof:name":"Cusici",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71583,
+    44.65889,
+    15.71583,
+    44.65889
+],
+  "geometry": {"coordinates":[15.71583,44.65889],"type":"Point"}
+}

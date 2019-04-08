@@ -1,0 +1,74 @@
+{
+  "id": 1343236535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55,45.68333,16.55,45.68333",
+    "geom:latitude":45.68333,
+    "geom:longitude":16.55,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11048994.0",
+    "gn:asciiname":"Donji Prnjarovec",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201413,
+    "gn:latitude":45.68333,
+    "gn:longitude":16.55,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Donji Prnjarovec",
+    "gn:population":71,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donji Prnjarevec",
+        "Donji Prnjarovec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201413
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5ca9ca4b0ec8e128977e9cd067752737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343236535,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1343236535,
+    "wof:lastmodified":1537625913,
+    "wof:name":"Donji Prnjarovec",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55,
+    45.68333,
+    16.55,
+    45.68333
+],
+  "geometry": {"coordinates":[16.55,45.68333],"type":"Point"}
+}

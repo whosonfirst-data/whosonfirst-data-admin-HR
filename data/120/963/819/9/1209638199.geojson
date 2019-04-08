@@ -1,0 +1,62 @@
+{
+  "id": 1209638199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58333,45.6,15.58333,45.6",
+    "geom:latitude":45.6,
+    "geom:longitude":15.58333,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049269.0",
+    "gn:asciiname":"Jazvaci",
+    "gn:country_code":"HR",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198735,
+    "gn:latitude":45.6,
+    "gn:longitude":15.58333,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Jazvaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198735
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"90b9239017c5f6f11ef8d4399a2a9582",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209638199
+        }
+    ],
+    "wof:id":1209638199,
+    "wof:lastmodified":1536280972,
+    "wof:name":"Jazvaci",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.583329999999998,
+    45.6,
+    15.583329999999998,
+    45.6
+],
+  "geometry": {"coordinates":[15.58333,45.6],"type":"Point"}
+}

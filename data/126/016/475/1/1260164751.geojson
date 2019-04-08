@@ -1,0 +1,69 @@
+{
+  "id": 1260164751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.775,45.78306,18.775,45.78306",
+    "geom:latitude":45.78306,
+    "geom:longitude":18.775,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054469.0",
+    "gn:asciiname":"Suza",
+    "gn:country_code":"HR",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189411,
+    "gn:latitude":45.78306,
+    "gn:longitude":18.775,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Suza",
+    "gn:population":567,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189411
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c86342d4774d02d55d671e6750d8e7d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260164751,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1260164751,
+    "wof:lastmodified":1536872695,
+    "wof:name":"Suza",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":567,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.775,
+    45.78306,
+    18.775,
+    45.78306
+],
+  "geometry": {"coordinates":[18.775,45.78306],"type":"Point"}
+}

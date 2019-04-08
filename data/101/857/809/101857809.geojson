@@ -1,0 +1,74 @@
+{
+  "id": 101857809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.236433,43.480747,17.236433,43.480747",
+    "geom:latitude":43.480747,
+    "geom:longitude":17.236433,
+    "iso:country":"HR",
+    "lbl:latitude":43.480747,
+    "lbl:longitude":17.236433,
+    "mps:latitude":43.480747,
+    "mps:longitude":17.236433,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Gornji Vinjani",
+    "qs:loc_alt":"Gornji Vinjani",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282297,
+        "gp:id":55852721,
+        "qs:id":7
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"15e81b92f19804f372e58a0a2da1cb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101857809,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101857809,
+    "wof:lastmodified":1544744089,
+    "wof:name":"Gornji Vinjani",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.236433,
+    43.480747,
+    17.236433,
+    43.480747
+],
+  "geometry": {"coordinates":[17.236433,43.480747],"type":"Point"}
+}

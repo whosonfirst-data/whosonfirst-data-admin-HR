@@ -1,0 +1,112 @@
+{
+  "id": 1125788601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.21194,43.0225,16.21194,43.0225",
+    "geom:latitude":43.0225,
+    "geom:longitude":16.21194,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":66,
+    "iso:country":"HR",
+    "lbl:latitude":43.0225,
+    "lbl:longitude":16.21194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Rukavac"
+    ],
+    "name:eng_x_preferred":[
+        "Rukavac"
+    ],
+    "name:hrv_x_preferred":[
+        "Rukavac"
+    ],
+    "name:hun_x_preferred":[
+        "Rukavac"
+    ],
+    "name:slv_x_preferred":[
+        "Rukavac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u043a\u0430\u0432\u0430\u0446"
+    ],
+    "name:unk_x_variant":[
+        "Rukovac"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3191431,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rukavac",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Splitsko-Dalmatinska",
+    "qs_pg:photos":90,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":90,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":478178,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850068,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Splitsko-Dalmatinska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191431,
+        "gp:id":850068,
+        "qs_pg:id":478178,
+        "wd:id":"Q12959669"
+    },
+    "wof:country":"HR",
+    "wof:created":1497290774,
+    "wof:geomhash":"f6d70f1f3e7c6b9512a6859b9e112ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125788601,
+            "region_id":85684785
+        }
+    ],
+    "wof:id":1125788601,
+    "wof:lastmodified":1553816534,
+    "wof:name":"Rukavac",
+    "wof:parent_id":85684785,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21194,
+    43.0225,
+    16.21194,
+    43.0225
+],
+  "geometry": {"coordinates":[16.21194,43.0225],"type":"Point"}
+}

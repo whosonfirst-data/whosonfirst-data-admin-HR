@@ -1,0 +1,70 @@
+{
+  "id": 1327010965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.66194,45.37694,17.66194,45.37694",
+    "geom:latitude":45.37694,
+    "geom:longitude":17.66194,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"3190588.0",
+    "gn:asciiname":"Golobrdci",
+    "gn:country_code":"HR",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200447,
+    "gn:latitude":45.37694,
+    "gn:longitude":17.66194,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Golobrdci",
+    "gn:population":332,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200447,
+        "wk:page":"Golobrdci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5a344c4ddfbd26b2d6fb0084e6d1d18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327010965,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1327010965,
+    "wof:lastmodified":1537563302,
+    "wof:name":"Golobrdci",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":332,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.66193999999999,
+    45.37694000000001,
+    17.66193999999999,
+    45.37694000000001
+],
+  "geometry": {"coordinates":[17.66193999999999,45.37694000000001],"type":"Point"}
+}

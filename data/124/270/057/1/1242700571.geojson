@@ -1,0 +1,71 @@
+{
+  "id": 1242700571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47806,44.98333,15.47806,44.98333",
+    "geom:latitude":44.98333,
+    "geom:longitude":15.47806,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049280.0",
+    "gn:asciiname":"Saborsko",
+    "gn:country_code":"HR",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3191369,
+    "gn:latitude":44.98333,
+    "gn:longitude":15.47806,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Saborsko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saborski",
+        "Saborsko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191369,
+        "wk:page":"Saborsko"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"83ad67669567bbd7954e114297d1358f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242700571,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1242700571,
+    "wof:lastmodified":1537625837,
+    "wof:name":"Saborsko",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47806,
+    44.98333,
+    15.47806,
+    44.98333
+],
+  "geometry": {"coordinates":[15.47806,44.98333],"type":"Point"}
+}

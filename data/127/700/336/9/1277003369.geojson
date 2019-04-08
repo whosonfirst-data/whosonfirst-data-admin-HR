@@ -1,0 +1,67 @@
+{
+  "id": 1277003369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12493,46.10311,16.12493,46.10311",
+    "geom:latitude":46.10311,
+    "geom:longitude":16.12493,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"3186405.0",
+    "gn:asciiname":"Donja Batina",
+    "gn:country_code":"HR",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201725,
+    "gn:latitude":46.10311,
+    "gn:longitude":16.12493,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Donja Batina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201725,
+        "wk:page":"Donja_Batina"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c4d2a1381e7300078875980ff95d57f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277003369,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1277003369,
+    "wof:lastmodified":1537563306,
+    "wof:name":"Donja Batina",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12493,
+    46.10311,
+    16.12493,
+    46.10311
+],
+  "geometry": {"coordinates":[16.12493,46.10311],"type":"Point"}
+}

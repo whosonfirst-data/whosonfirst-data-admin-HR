@@ -1,0 +1,69 @@
+{
+  "id": 1343567293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70194,45.14389,13.70194,45.14389",
+    "geom:latitude":45.14389,
+    "geom:longitude":13.70194,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"11054818.0",
+    "gn:asciiname":"Klostar",
+    "gn:country_code":"HR",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343390,
+    "gn:latitude":45.14389,
+    "gn:longitude":13.70194,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Klo\u0161tar",
+    "gn:population":40,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343390
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"546dde3368233b5d5d8add23d2cd17c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343567293,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1343567293,
+    "wof:lastmodified":1537086358,
+    "wof:name":"Klostar",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70194,
+    45.14389,
+    13.70194,
+    45.14389
+],
+  "geometry": {"coordinates":[13.70194,45.14389],"type":"Point"}
+}

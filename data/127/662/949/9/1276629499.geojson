@@ -1,0 +1,66 @@
+{
+  "id": 1276629499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55583,45.86083,16.55583,45.86083",
+    "geom:latitude":45.86083,
+    "geom:longitude":16.55583,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"8260123.0",
+    "gn:asciiname":"Bangurina",
+    "gn:country_code":"HR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216373,
+    "gn:latitude":45.86083,
+    "gn:longitude":16.55583,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Bangurina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216373
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cb898679d0a68a96fa8047f2dfc49c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276629499,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1276629499,
+    "wof:lastmodified":1536878466,
+    "wof:name":"Bangurina",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55583,
+    45.86083,
+    16.55583,
+    45.86083
+],
+  "geometry": {"coordinates":[16.55583,45.86083],"type":"Point"}
+}

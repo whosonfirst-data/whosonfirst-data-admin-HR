@@ -1,0 +1,67 @@
+{
+  "id": 1327207717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93694,45.10028,15.93694,45.10028",
+    "geom:latitude":45.10028,
+    "geom:longitude":15.93694,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tabakovici",
+    "gn:country_code":"HR",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277831,
+    "gn:latitude":45.10028,
+    "gn:longitude":15.93694,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Tabakovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277831
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0085a2a5260c681893169f49cd6d3557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759281,
+            "locality_id":1327207717,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1327207717,
+    "wof:lastmodified":1537004594,
+    "wof:name":"Tabakovici",
+    "wof:parent_id":1108759281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93694,
+    45.10028,
+    15.93694,
+    45.10028
+],
+  "geometry": {"coordinates":[15.93694,45.10028],"type":"Point"}
+}

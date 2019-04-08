@@ -1,0 +1,74 @@
+{
+  "id": 1343945029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7825,45.51167,14.7825,45.51167",
+    "geom:latitude":45.51167,
+    "geom:longitude":14.7825,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Gasparci",
+    "gn:country_code":"HR",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200697,
+    "gn:latitude":45.51167,
+    "gn:longitude":14.7825,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Ga\u0161parci",
+    "gn:population":15,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ga\u0161parci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959563,
+        85633779,
+        1108959943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200697,
+        "wk:page":"Ga%C5%A1parci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c8954b010c81bdcb5ad516e0d3eeefe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959563,
+            "locality_id":1343945029,
+            "region_id":1108959943
+        }
+    ],
+    "wof:id":1343945029,
+    "wof:lastmodified":1537625907,
+    "wof:name":"Gasparci",
+    "wof:parent_id":1108959563,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7825,
+    45.51167,
+    14.7825,
+    45.51167
+],
+  "geometry": {"coordinates":[14.7825,45.51167],"type":"Point"}
+}

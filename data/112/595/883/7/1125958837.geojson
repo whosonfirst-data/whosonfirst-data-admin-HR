@@ -1,0 +1,126 @@
+{
+  "id": 1125958837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22972,45.15111,18.22972,45.15111",
+    "geom:latitude":45.15111,
+    "geom:longitude":18.22972,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":960,
+    "gn:population":960,
+    "iso:country":"HR",
+    "lbl:latitude":45.15111,
+    "lbl:longitude":18.22972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Oprisavci"
+    ],
+    "name:dut_x_preferred":[
+        "Oprisavci"
+    ],
+    "name:eng_x_preferred":[
+        "Oprisavci"
+    ],
+    "name:fre_x_preferred":[
+        "Oprisavci"
+    ],
+    "name:hrv_x_preferred":[
+        "Oprisavci"
+    ],
+    "name:ita_x_preferred":[
+        "Oprisavci"
+    ],
+    "name:pol_x_preferred":[
+        "Oprisavci"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Oprisavci"
+    ],
+    "name:spa_x_preferred":[
+        "Oprisavci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0440\u0438\u0441\u0430\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Oprisavci"
+    ],
+    "name:unk_x_variant":[
+        "Oprisovci"
+    ],
+    "name:war_x_preferred":[
+        "Oprisavci"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3194079,
+    "qs_pg:gn_pop":960,
+    "qs_pg:name":"Oprisavci",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Brodsko-Posavska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":407413,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":849442,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Brodsko-Posavska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194079,
+        "gp:id":849442,
+        "qs_pg:id":407413,
+        "wd:id":"Q738062"
+    },
+    "wof:country":"HR",
+    "wof:created":1497297720,
+    "wof:geomhash":"33b7f82a2bda8f63f43e8d1c10e2ee08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125958837,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1125958837,
+    "wof:lastmodified":1514447553,
+    "wof:name":"Oprisavci",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":960,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22972,
+    45.15111,
+    18.22972,
+    45.15111
+],
+  "geometry": {"coordinates":[18.22972,45.15111],"type":"Point"}
+}

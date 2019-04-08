@@ -1,0 +1,65 @@
+{
+  "id": 1277141293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91667,45.81667,15.91667,45.81667",
+    "geom:latitude":45.81667,
+    "geom:longitude":15.91667,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Vrapce",
+    "gn:country_code":"HR",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187332,
+    "gn:latitude":45.81667,
+    "gn:longitude":15.91667,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Vrap\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187332
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a398b5d37009ca9d7aa3a9fc078e99b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277141293,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1277141293,
+    "wof:lastmodified":1536683294,
+    "wof:name":"Vrapce",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91667,
+    45.81667,
+    15.91667,
+    45.81667
+],
+  "geometry": {"coordinates":[15.91667,45.81667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327304381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.81333,43.55556,16.81333,43.55556",
+    "geom:latitude":43.55556,
+    "geom:longitude":16.81333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Karadze",
+    "gn:country_code":"HR",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283816,
+    "gn:latitude":43.55556,
+    "gn:longitude":16.81333,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Karad\u017ee",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283816
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f8f5e1102f9200d3a982197256d61b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327304381,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1327304381,
+    "wof:lastmodified":1536864445,
+    "wof:name":"Karadze",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.81333,
+    43.55556,
+    16.81333,
+    43.55556
+],
+  "geometry": {"coordinates":[16.81333,43.55556],"type":"Point"}
+}

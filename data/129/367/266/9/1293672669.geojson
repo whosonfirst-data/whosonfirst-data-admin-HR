@@ -1,0 +1,65 @@
+{
+  "id": 1293672669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.845,45.48972,16.845,45.48972",
+    "geom:latitude":45.48972,
+    "geom:longitude":16.845,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gojilce",
+    "gn:country_code":"HR",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3286832,
+    "gn:latitude":45.48972,
+    "gn:longitude":16.845,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Gojilce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3286832
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2e45b8e6cb3fc0d18965d51c9438fd91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293672669,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1293672669,
+    "wof:lastmodified":1537016638,
+    "wof:name":"Gojilce",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.845,
+    45.48972,
+    16.845,
+    45.48972
+],
+  "geometry": {"coordinates":[16.845,45.48972],"type":"Point"}
+}

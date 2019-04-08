@@ -1,0 +1,163 @@
+{
+  "id": 1125990377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.95028,43.35694,16.95028,43.35694",
+    "geom:latitude":43.35694,
+    "geom:longitude":16.95028,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2924,
+    "gn:population":2924,
+    "iso:country":"HR",
+    "lbl:latitude":43.35694,
+    "lbl:longitude":16.95028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0532\u0561\u0577\u056f\u0561 \u054e\u0578\u0564\u0561"
+    ],
+    "name:bos_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:cat_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:cze_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:dut_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:eng_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:fin_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:fre_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:ger_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:hrv_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:hun_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:ita_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30b7\u30e5\u30ab\u30fb\u30f4\u30a9\u30c0"
+    ],
+    "name:pol_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:rum_x_preferred":[
+        "Baska Voda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0448\u043a\u0430-\u0412\u043e\u0434\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:slv_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:spa_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0448\u043a\u0430 \u0412\u043e\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0448\u043a\u0430-\u0412\u043e\u0434\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Bestonio"
+    ],
+    "name:war_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3204439,
+    "qs_pg:gn_pop":2924,
+    "qs_pg:name":"Ba\u00b5ka Voda",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Splitsko-Dalmatinska",
+    "qs_pg:photos":551,
+    "qs_pg:photos_1k":112,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":551,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":892237,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":846735,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Splitsko-Dalmatinska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204439,
+        "gp:id":846735,
+        "qs_pg:id":892237,
+        "wd:id":"Q812769"
+    },
+    "wof:country":"HR",
+    "wof:created":1497299029,
+    "wof:geomhash":"bdf1819a13874bf8537701daf2907736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125990377,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1125990377,
+    "wof:lastmodified":1514447384,
+    "wof:name":"Ba\u00b5ka Voda",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":2924,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.95028,
+    43.35694,
+    16.95028,
+    43.35694
+],
+  "geometry": {"coordinates":[16.95028,43.35694],"type":"Point"}
+}

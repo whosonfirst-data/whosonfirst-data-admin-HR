@@ -1,0 +1,69 @@
+{
+  "id": 1327106093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.81667,45.68333,17.81667,45.68333",
+    "geom:latitude":45.68333,
+    "geom:longitude":17.81667,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049465.0",
+    "gn:asciiname":"Donja Bukovica",
+    "gn:country_code":"HR",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201702,
+    "gn:latitude":45.68333,
+    "gn:longitude":17.81667,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Donja Bukovica",
+    "gn:population":85,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201702
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a62b690d186416f531ee2a162d7649c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327106093,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1327106093,
+    "wof:lastmodified":1536654206,
+    "wof:name":"Donja Bukovica",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.81667000000001,
+    45.68333,
+    17.81667000000001,
+    45.68333
+],
+  "geometry": {"coordinates":[17.81667000000001,45.68333],"type":"Point"}
+}

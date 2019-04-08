@@ -1,0 +1,65 @@
+{
+  "id": 1343747585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91028,44.72611,14.91028,44.72611",
+    "geom:latitude":44.72611,
+    "geom:longitude":14.91028,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Stinicke Staze",
+    "gn:country_code":"HR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217886,
+    "gn:latitude":44.72611,
+    "gn:longitude":14.91028,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Stini\u010dke Staze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217886
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"37a10bfa005f7c25acfd6c75c915c447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343747585,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1343747585,
+    "wof:lastmodified":1536828547,
+    "wof:name":"Stinicke Staze",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91028,
+    44.72611,
+    14.91028,
+    44.72611
+],
+  "geometry": {"coordinates":[14.91028,44.72611],"type":"Point"}
+}

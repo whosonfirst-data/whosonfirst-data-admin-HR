@@ -1,0 +1,127 @@
+{
+  "id": 101793601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":1037662.196457,
+    "geom:bbox":"18.6880265176,45.408574292,18.7166546261,45.4208818967",
+    "geom:latitude":45.415251,
+    "geom:longitude":18.702372,
+    "gn:population":1036,
+    "iso:country":"HR",
+    "lbl:latitude":45.415327,
+    "lbl:longitude":18.703348,
+    "mps:latitude":45.415327,
+    "mps:longitude":18.703348,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Laslovo"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0441\u043b\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Laslovo"
+    ],
+    "name:eng_x_preferred":[
+        "Laslovo"
+    ],
+    "name:epo_x_preferred":[
+        "Laslovo"
+    ],
+    "name:fra_x_preferred":[
+        "Laslovo"
+    ],
+    "name:fre_x_preferred":[
+        "Laslovo"
+    ],
+    "name:hbs_x_preferred":[
+        "Laslovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Laslovo"
+    ],
+    "name:hun_x_preferred":[
+        "Szentl\u00e1szl\u00f3"
+    ],
+    "name:slv_x_preferred":[
+        "Laslovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0441\u043b\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Laslovo"
+    ],
+    "name:unk_x_variant":[
+        "Szentl\u00e1szl\u00f3"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633\u0644\u0648\u0648\u0648"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"\u0160odolovci",
+    "qs:la_lc":"*HR1406149",
+    "qs:level":"locality",
+    "qs:loc":"Laslovo",
+    "qs:loc_alt":"Laslovo",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196758,
+        "gp:id":848751,
+        "qs:id":967101,
+        "qs_pg:id":967101,
+        "wd:id":"Q943541",
+        "wk:page":"Laslovo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"993d521fb1394dd4bb80f4cf4501a75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793601,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101793601,
+    "wof:lastmodified":1527689281,
+    "wof:name":"Laslovo",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":1036,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68802651762053,
+    45.40857429203049,
+    18.7166546260745,
+    45.42088189665799
+],
+  "geometry": {"coordinates":[[[18.7166546260745,45.42056642439013],[18.7165123644786,45.41967230788453],[18.71524338112306,45.41977747856998],[18.71510114577296,45.41888335927587],[18.71256320641987,45.4190936509774],[18.71242101753364,45.41819952691924],[18.70988310118366,45.41840975371395],[18.70931456760752,45.4148332335605],[18.71058344709041,45.41472813568271],[18.71015704947757,45.41204574296609],[18.70888823063859,45.41215083492006],[18.70831986561353,45.40857429203049],[18.70451362551529,45.40888945278414],[18.70508174799096,45.41246601935967],[18.69493093607014,45.41330584075433],[18.69507282000069,45.41419999614868],[18.68999722877214,45.41461954902252],[18.69013903783906,45.41551371148978],[18.68887010894338,45.41561856358214],[18.68929551152644,45.41830105203093],[18.68802651762053,45.41840589479511],[18.68816831027357,45.41930005796064],[18.69197533961579,45.41898547803731],[18.69183348629525,45.41809132078379],[18.69310246715679,45.41798643230049],[18.69296059962414,45.41709227620714],[18.70057427211572,45.4164626371155],[18.70085825583953,45.41825092482651],[18.70720306541614,45.41772578678302],[18.70734516740299,45.41861991955301],[18.70861413647185,45.41851484425291],[18.70875626469893,45.41940897423666],[18.7112942302046,45.41919877396947],[18.71143640489436,45.42009289919133],[18.71270540133031,45.41998777422344],[18.71284760226456,45.42088189665799],[18.7166546260745,45.42056642439013]]],"type":"Polygon"}
+}

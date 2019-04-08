@@ -1,0 +1,66 @@
+{
+  "id": 1343259679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62667,44.67833,15.62667,44.67833",
+    "geom:latitude":44.67833,
+    "geom:longitude":15.62667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049294.0",
+    "gn:asciiname":"Severi",
+    "gn:country_code":"HR",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275735,
+    "gn:latitude":44.67833,
+    "gn:longitude":15.62667,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"\u0160everi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275735
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3cd91910c0277edd28d48f1523e59cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343259679,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1343259679,
+    "wof:lastmodified":1537034536,
+    "wof:name":"Severi",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62667,
+    44.67833,
+    15.62667,
+    44.67833
+],
+  "geometry": {"coordinates":[15.62667,44.67833],"type":"Point"}
+}

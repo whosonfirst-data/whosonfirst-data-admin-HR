@@ -1,0 +1,69 @@
+{
+  "id": 1243336027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.20389,46.23361,16.20389,46.23361",
+    "geom:latitude":46.23361,
+    "geom:longitude":16.20389,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"3199075.0",
+    "gn:asciiname":"Gacice",
+    "gn:country_code":"HR",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200771,
+    "gn:latitude":46.23361,
+    "gn:longitude":16.20389,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Ga\u010dice",
+    "gn:population":355,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200771
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6913bf45123a3b56c60c167a8b2267a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243336027,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1243336027,
+    "wof:lastmodified":1536964659,
+    "wof:name":"Gacice",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":355,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.20389,
+    46.23361,
+    16.20389,
+    46.23361
+],
+  "geometry": {"coordinates":[16.20389,46.23361],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1344258599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5175,42.86722,17.5175,42.86722",
+    "geom:latitude":42.86722,
+    "geom:longitude":17.5175,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"11054961.0",
+    "gn:asciiname":"Ruskovici",
+    "gn:country_code":"HR",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3286828,
+    "gn:latitude":42.86722,
+    "gn:longitude":17.5175,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Ruskovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3286828
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7ab68b1a90e72813eb1e086514bf9ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344258599,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1344258599,
+    "wof:lastmodified":1537083691,
+    "wof:name":"Ruskovici",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5175,
+    42.86722,
+    17.5175,
+    42.86722
+],
+  "geometry": {"coordinates":[17.5175,42.86722],"type":"Point"}
+}

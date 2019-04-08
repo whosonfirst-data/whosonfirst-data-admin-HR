@@ -1,0 +1,66 @@
+{
+  "id": 1293671965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13471,43.52073,16.13471,43.52073",
+    "geom:latitude":43.52073,
+    "geom:longitude":16.13471,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"11054612.0",
+    "gn:asciiname":"Poljica",
+    "gn:country_code":"HR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10280913,
+    "gn:latitude":43.52073,
+    "gn:longitude":16.13471,
+    "gn:modification_date":"2017-01-01",
+    "gn:name":"Poljica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10280913
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"43cf43313a44956ac55e0445014172f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293671965,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1293671965,
+    "wof:lastmodified":1537017659,
+    "wof:name":"Poljica",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13471,
+    43.52073,
+    16.13471,
+    43.52073
+],
+  "geometry": {"coordinates":[16.13471,43.52073],"type":"Point"}
+}

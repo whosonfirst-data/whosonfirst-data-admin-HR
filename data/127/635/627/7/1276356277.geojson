@@ -1,0 +1,66 @@
+{
+  "id": 1276356277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21444,44.99167,15.21444,44.99167",
+    "geom:latitude":44.99167,
+    "geom:longitude":15.21444,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049284.0",
+    "gn:asciiname":"Drazenovici",
+    "gn:country_code":"HR",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3274072,
+    "gn:latitude":44.99167,
+    "gn:longitude":15.21444,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Dra\u017eenovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3274072
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2eed8130cc650071768b84d743b9650d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276356277,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1276356277,
+    "wof:lastmodified":1536747642,
+    "wof:name":"Drazenovici",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21444,
+    44.99167,
+    15.21444,
+    44.99167
+],
+  "geometry": {"coordinates":[15.21444,44.99167],"type":"Point"}
+}

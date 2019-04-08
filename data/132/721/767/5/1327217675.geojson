@@ -1,0 +1,69 @@
+{
+  "id": 1327217675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17222,45.44944,18.17222,45.44944",
+    "geom:latitude":45.44944,
+    "geom:longitude":18.17222,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054476.0",
+    "gn:asciiname":"Krsinci",
+    "gn:country_code":"HR",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197151,
+    "gn:latitude":45.44944,
+    "gn:longitude":18.17222,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Kr\u0161inci",
+    "gn:population":126,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197151
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b0c522d5956b99081381c0d52568669e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327217675,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1327217675,
+    "wof:lastmodified":1536990093,
+    "wof:name":"Krsinci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":126,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17222000000001,
+    45.44944,
+    18.17222000000001,
+    45.44944
+],
+  "geometry": {"coordinates":[18.17222000000001,45.44944],"type":"Point"}
+}

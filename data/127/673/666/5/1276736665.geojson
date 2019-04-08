@@ -1,0 +1,69 @@
+{
+  "id": 1276736665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9,45.79167,15.9,45.79167",
+    "geom:latitude":45.79167,
+    "geom:longitude":15.9,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Jankomir",
+    "gn:country_code":"HR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3209379,
+    "gn:latitude":45.79167,
+    "gn:longitude":15.9,
+    "gn:modification_date":"2013-05-05",
+    "gn:name":"Jankomir",
+    "gn:population":5000,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3209379,
+        "wk:page":"Jankomir"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bd9ab8f9917aaa9b775aa16aa810a926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276736665,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1276736665,
+    "wof:lastmodified":1537563312,
+    "wof:name":"Jankomir",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9,
+    45.79167,
+    15.9,
+    45.79167
+],
+  "geometry": {"coordinates":[15.9,45.79167],"type":"Point"}
+}

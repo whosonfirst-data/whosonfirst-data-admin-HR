@@ -1,0 +1,69 @@
+{
+  "id": 1343855503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.75861,46.23417,16.75861,46.23417",
+    "geom:latitude":46.23417,
+    "geom:longitude":16.75861,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049389.0",
+    "gn:asciiname":"Kuzminec",
+    "gn:country_code":"HR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196839,
+    "gn:latitude":46.23417,
+    "gn:longitude":16.75861,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Kuzminec",
+    "gn:population":299,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196839
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"62ff8871e627acb402fbb0bafcc421a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343855503,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1343855503,
+    "wof:lastmodified":1536673761,
+    "wof:name":"Kuzminec",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":299,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.75861,
+    46.23417,
+    16.75861,
+    46.23417
+],
+  "geometry": {"coordinates":[16.75861,46.23417],"type":"Point"}
+}

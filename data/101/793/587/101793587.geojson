@@ -1,0 +1,112 @@
+{
+  "id": 101793587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":668498.872356,
+    "geom:bbox":"18.4477372308,45.3354345592,18.4649056855,45.3505405554",
+    "geom:latitude":45.344186,
+    "geom:longitude":18.455355,
+    "gn:population":1212,
+    "iso:country":"HR",
+    "lbl:latitude":45.3482,
+    "lbl:longitude":18.457371,
+    "mps:latitude":45.3482,
+    "mps:longitude":18.457371,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vi\u0161kovci"
+    ],
+    "name:fra_x_preferred":[
+        "Vi\u0161kovci"
+    ],
+    "name:hbs_x_preferred":[
+        "Vi\u0161kovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Vi\u0161kovci"
+    ],
+    "name:ita_x_preferred":[
+        "Vi\u0161kovci"
+    ],
+    "name:nld_x_preferred":[
+        "Vi\u0161kovci"
+    ],
+    "name:pol_x_preferred":[
+        "Vi\u0161kovci"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Vi\u0161kovci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0448\u043a\u043e\u0432\u0446\u044b"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0448\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Vi\u0161kovci",
+    "qs:la_lc":"*HR1404944",
+    "qs:level":"locality",
+    "qs:loc":"Vi\u0161kovci",
+    "qs:loc_alt":"Viskovci",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187666,
+        "gp:id":850957,
+        "qs:id":1043884,
+        "qs_pg:id":1043884,
+        "wd:id":"Q1277410",
+        "wk:page":"Vi\u0161kovci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e1f29688f1d5ad5bf0cda4e9c8970395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793587,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101793587,
+    "wof:lastmodified":1527689278,
+    "wof:name":"Vi\u0161kovci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":1212,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4477372307955,
+    45.33543455917913,
+    18.46490568546585,
+    45.35054055543162
+],
+  "geometry": {"coordinates":[[[18.4596970550063,45.34645209178024],[18.46350013405441,45.34614582369466],[18.46363798070286,45.34704038991737],[18.46490568546585,45.34693826818761],[18.4646299576317,45.34514913877325],[18.46336229323975,45.34525125667119],[18.46322445825865,45.34435668884782],[18.4581538392394,45.34476500052278],[18.45787834824461,45.34297584715546],[18.45661072331438,45.34307788318182],[18.45633529600144,45.34128872278598],[18.45506770722136,45.34139073975973],[18.45493002248787,45.34049615644813],[18.45366244967533,45.34059815628405],[18.45338713804864,45.33880898343381],[18.45211960138425,45.33891096421905],[18.45198197448804,45.33801637468116],[18.45071445379057,45.33811833832988],[18.45030166857833,45.33543455917913],[18.44776673562149,45.33563842933279],[18.4481793997615,45.33832221995578],[18.44944692888174,45.33822028675468],[18.44972210777581,45.34000947268049],[18.45098967304631,45.33990752043087],[18.45154018144251,45.34348587503564],[18.4477372307955,45.34379170905902],[18.44787481189934,45.34468630144852],[18.4554807963832,45.34407448489497],[18.45589393799497,45.34675822283157],[18.4546262238913,45.3468602360627],[18.45476392923143,45.34775481568926],[18.4534961907238,45.34785681560783],[18.45390928114614,45.35054055543162],[18.46024823435454,45.35003037485683],[18.4596970550063,45.34645209178024]]],"type":"Polygon"}
+}

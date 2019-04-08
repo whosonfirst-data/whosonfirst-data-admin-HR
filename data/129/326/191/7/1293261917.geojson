@@ -1,0 +1,70 @@
+{
+  "id": 1293261917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05,46.2,16.05,46.2",
+    "geom:latitude":46.2,
+    "geom:longitude":16.05,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Stari Golubovec",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189968,
+    "gn:latitude":46.2,
+    "gn:longitude":16.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Stari Golubovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruglja Stari Golubovec",
+        "Stari Golubovec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189968
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4a867fbbb6613ed4c40af6b090be06f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293261917,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1293261917,
+    "wof:lastmodified":1537625827,
+    "wof:name":"Stari Golubovec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05,
+    46.2,
+    16.05,
+    46.2
+],
+  "geometry": {"coordinates":[16.05,46.2],"type":"Point"}
+}

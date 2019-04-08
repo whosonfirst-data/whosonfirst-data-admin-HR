@@ -1,0 +1,76 @@
+{
+  "id": 1225859123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36194,45.6475,17.36194,45.6475",
+    "geom:latitude":45.6475,
+    "geom:longitude":17.36194,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11055019.0",
+    "gn:asciiname":"Korenicani",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197699,
+    "gn:latitude":45.6475,
+    "gn:longitude":17.36194,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Koreni\u010dani",
+    "gn:population":246,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koreni\u010dari",
+        "Korenicsani",
+        "Korenichany",
+        "Koreni\u010dani"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197699
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"813f10aadfa539768e4162bf6e265bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225859123,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1225859123,
+    "wof:lastmodified":1537625884,
+    "wof:name":"Korenicani",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36194,
+    45.6475,
+    17.36194,
+    45.6475
+],
+  "geometry": {"coordinates":[17.36194,45.6475],"type":"Point"}
+}

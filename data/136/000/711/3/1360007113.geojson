@@ -1,0 +1,69 @@
+{
+  "id": 1360007113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7998,46.17885,15.7998,46.17885",
+    "geom:latitude":46.17885,
+    "geom:longitude":15.7998,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11055011.0",
+    "gn:asciiname":"Prigorje",
+    "gn:country_code":"HR",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192427,
+    "gn:latitude":46.17885,
+    "gn:longitude":15.7998,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Prigorje",
+    "gn:population":298,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192427
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"215dfe49d5b8c6d53c0ca81037492619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360007113,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1360007113,
+    "wof:lastmodified":1537055766,
+    "wof:name":"Prigorje",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:population":298,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7998,
+    46.17885,
+    15.7998,
+    46.17885
+],
+  "geometry": {"coordinates":[15.7998,46.17885],"type":"Point"}
+}

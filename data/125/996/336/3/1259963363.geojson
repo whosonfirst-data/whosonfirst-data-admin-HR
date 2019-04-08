@@ -1,0 +1,74 @@
+{
+  "id": 1259963363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.57444,45.61083,16.57444,45.61083",
+    "geom:latitude":45.61083,
+    "geom:longitude":16.57444,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"11049235.0",
+    "gn:asciiname":"Vidrenjak",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187783,
+    "gn:latitude":45.61083,
+    "gn:longitude":16.57444,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Vidrenjak",
+    "gn:population":552,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vidrnjak",
+        "Vidrenjak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187783
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4b19aca1437e3a58ca726f45c85aacba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259963363,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1259963363,
+    "wof:lastmodified":1537625811,
+    "wof:name":"Vidrenjak",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":552,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.57444,
+    45.61083,
+    16.57444,
+    45.61083
+],
+  "geometry": {"coordinates":[16.57444,45.61083],"type":"Point"}
+}

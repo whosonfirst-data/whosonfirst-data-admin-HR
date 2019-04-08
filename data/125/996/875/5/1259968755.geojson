@@ -1,0 +1,70 @@
+{
+  "id": 1259968755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46333,45.30722,18.46333,45.30722",
+    "geom:latitude":45.30722,
+    "geom:longitude":18.46333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dakovacki Pisak",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214715,
+    "gn:latitude":45.30722,
+    "gn:longitude":18.46333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u00d0akovacki Pisak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pisak \u00d0akovacki",
+        "\u00d0akovacki Pisak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214715
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9c745f4debd068384e971fb4846a74f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259968755,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1259968755,
+    "wof:lastmodified":1537625947,
+    "wof:name":"Dakovacki Pisak",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46333,
+    45.30722,
+    18.46333,
+    45.30722
+],
+  "geometry": {"coordinates":[18.46333,45.30722],"type":"Point"}
+}

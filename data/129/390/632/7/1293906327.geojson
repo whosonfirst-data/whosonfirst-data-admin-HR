@@ -1,0 +1,69 @@
+{
+  "id": 1293906327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.35,45.13333,15.35,45.13333",
+    "geom:latitude":45.13333,
+    "geom:longitude":15.35,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049271.0",
+    "gn:asciiname":"Vojnovac",
+    "gn:country_code":"HR",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187444,
+    "gn:latitude":45.13333,
+    "gn:longitude":15.35,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Vojnovac",
+    "gn:population":94,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187444
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"800201d26d364bc4b9989dbd45b6a59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293906327,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1293906327,
+    "wof:lastmodified":1536680437,
+    "wof:name":"Vojnovac",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.35,
+    45.13333,
+    15.35,
+    45.13333
+],
+  "geometry": {"coordinates":[15.35,45.13333],"type":"Point"}
+}

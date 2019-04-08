@@ -1,0 +1,65 @@
+{
+  "id": 1293872775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56417,45.65111,18.56417,45.65111",
+    "geom:latitude":45.65111,
+    "geom:longitude":18.56417,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Staro Selo",
+    "gn:country_code":"HR",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215488,
+    "gn:latitude":45.65111,
+    "gn:longitude":18.56417,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Staro Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215488
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4f4ee30c2d6085e4159d9e2e7d6ccc4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293872775,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1293872775,
+    "wof:lastmodified":1536729177,
+    "wof:name":"Staro Selo",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56417,
+    45.65111,
+    18.56417,
+    45.65111
+],
+  "geometry": {"coordinates":[18.56417,45.65111],"type":"Point"}
+}

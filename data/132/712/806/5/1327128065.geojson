@@ -1,0 +1,71 @@
+{
+  "id": 1327128065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10472,45.72917,18.10472,45.72917",
+    "geom:latitude":45.72917,
+    "geom:longitude":18.10472,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054484.0",
+    "gn:asciiname":"Glozde",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200558,
+    "gn:latitude":45.72917,
+    "gn:longitude":18.10472,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Glo\u017e\u0111e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pu\u0161tara Glo\u017e\u0111e",
+        "Glo\u017e\u0111e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200558
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d153989cceea5ddfc83deb9b4c52c271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327128065,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1327128065,
+    "wof:lastmodified":1537625906,
+    "wof:name":"Glozde",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10472,
+    45.72917,
+    18.10472,
+    45.72917
+],
+  "geometry": {"coordinates":[18.10472,45.72917],"type":"Point"}
+}

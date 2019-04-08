@@ -1,0 +1,70 @@
+{
+  "id": 1343740289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75861,45.32444,17.75861,45.32444",
+    "geom:latitude":45.32444,
+    "geom:longitude":17.75861,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049478.0",
+    "gn:asciiname":"Srednje Selo",
+    "gn:country_code":"HR",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190122,
+    "gn:latitude":45.32444,
+    "gn:longitude":17.75861,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Srednje Selo",
+    "gn:population":285,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190122,
+        "wk:page":"Srednje_Selo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"431f315fa642aaa1e72ceec79ee06ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343740289,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1343740289,
+    "wof:lastmodified":1537563280,
+    "wof:name":"Srednje Selo",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":285,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75861,
+    45.32444,
+    17.75861,
+    45.32444
+],
+  "geometry": {"coordinates":[17.75861,45.32444],"type":"Point"}
+}

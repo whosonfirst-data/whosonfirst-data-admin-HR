@@ -1,0 +1,75 @@
+{
+  "id": 1310488621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46389,45.07167,14.46389,45.07167",
+    "geom:latitude":45.07167,
+    "geom:longitude":14.46389,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"3197207.0",
+    "gn:asciiname":"Linardici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196556,
+    "gn:latitude":45.07167,
+    "gn:longitude":14.46389,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Linardi\u0107i",
+    "gn:population":139,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Linardich",
+        "Linardi\u0107",
+        "Linardi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196556
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6279c213c68fceaede9b7f32e2c6f0cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310488621,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1310488621,
+    "wof:lastmodified":1537625873,
+    "wof:name":"Linardici",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":139,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46389,
+    45.07167000000001,
+    14.46389,
+    45.07167000000001
+],
+  "geometry": {"coordinates":[14.46389,45.07167000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259559769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5,45.93333,17.5,45.93333",
+    "geom:latitude":45.93333,
+    "geom:longitude":17.5,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"11049462.0",
+    "gn:asciiname":"Ada Lukacka",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204873,
+    "gn:latitude":45.93333,
+    "gn:longitude":17.5,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Ada Luka\u010dka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luka\u010dka Ada",
+        "Ada",
+        "Ada Luka\u010dka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204873
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"52c8e3e4e74b080d50249f6c81ead0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259559769,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1259559769,
+    "wof:lastmodified":1537625940,
+    "wof:name":"Ada Lukacka",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5,
+    45.93333,
+    17.5,
+    45.93333
+],
+  "geometry": {"coordinates":[17.5,45.93333],"type":"Point"}
+}

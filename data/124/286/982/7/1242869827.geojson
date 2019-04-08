@@ -1,0 +1,73 @@
+{
+  "id": 1242869827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72889,44.51944,15.72889,44.51944",
+    "geom:latitude":44.51944,
+    "geom:longitude":15.72889,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cojluk",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217200,
+    "gn:latitude":44.51944,
+    "gn:longitude":15.72889,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"\u010cojluk",
+    "gn:population":11,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010coljuk",
+        "\u010cojluk"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217200
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"77959d404742b2648387f2af2274b1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242869827,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1242869827,
+    "wof:lastmodified":1537625952,
+    "wof:name":"Cojluk",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":11,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72889,
+    44.51944,
+    15.72889,
+    44.51944
+],
+  "geometry": {"coordinates":[15.72889,44.51944],"type":"Point"}
+}

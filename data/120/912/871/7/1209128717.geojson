@@ -1,0 +1,64 @@
+{
+  "id": 1209128717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48333,45.56667,15.48333,45.56667",
+    "geom:latitude":45.56667,
+    "geom:longitude":15.48333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Jaskovo",
+    "gn:country_code":"HR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198802,
+    "gn:latitude":45.56667,
+    "gn:longitude":15.48333,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Ja\u0161kovo",
+    "gn:population":490,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198802
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"da751a19569339e9b248b558dc2fa5b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209128717
+        }
+    ],
+    "wof:id":1209128717,
+    "wof:lastmodified":1536296874,
+    "wof:name":"Jaskovo",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":490,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48333,
+    45.56667,
+    15.48333,
+    45.56667
+],
+  "geometry": {"coordinates":[15.48333,45.56667],"type":"Point"}
+}

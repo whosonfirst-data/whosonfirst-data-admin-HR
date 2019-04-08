@@ -1,0 +1,65 @@
+{
+  "id": 1242935633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33056,44.13444,15.33056,44.13444",
+    "geom:latitude":44.13444,
+    "geom:longitude":15.33056,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kalapac",
+    "gn:country_code":"HR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215634,
+    "gn:latitude":44.13444,
+    "gn:longitude":15.33056,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Kalapa\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215634
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4094aa7bbc5ef3cae62b00bf1ed2faec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242935633,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1242935633,
+    "wof:lastmodified":1537043362,
+    "wof:name":"Kalapac",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33056,
+    44.13444000000001,
+    15.33056,
+    44.13444000000001
+],
+  "geometry": {"coordinates":[15.33056,44.13444000000001],"type":"Point"}
+}

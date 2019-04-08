@@ -1,0 +1,75 @@
+{
+  "id": 1360309277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90917,45.00972,13.90917,45.00972",
+    "geom:latitude":45.00972,
+    "geom:longitude":13.90917,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054820.0",
+    "gn:asciiname":"Butkovici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202948,
+    "gn:latitude":45.00972,
+    "gn:longitude":13.90917,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Butkovi\u0107i",
+    "gn:population":186,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roverija",
+        "Bucovici",
+        "Butkovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202948
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"87596abe64eaa991143c7fa98a1958a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360309277,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1360309277,
+    "wof:lastmodified":1537625926,
+    "wof:name":"Butkovici",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":186,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90917,
+    45.00972,
+    13.90917,
+    45.00972
+],
+  "geometry": {"coordinates":[13.90917,45.00972],"type":"Point"}
+}

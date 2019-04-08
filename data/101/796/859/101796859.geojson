@@ -1,0 +1,158 @@
+{
+  "id": 101796859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":948417.609117,
+    "geom:bbox":"17.1613123374,42.9193240353,17.1845464425,42.9272833288",
+    "geom:latitude":42.923048,
+    "geom:longitude":17.172485,
+    "gn:population":1227,
+    "iso:country":"HR",
+    "lbl:latitude":42.921894,
+    "lbl:longitude":17.172485,
+    "mps:latitude":42.921894,
+    "mps:longitude":17.172485,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0443\u043c\u0431\u0430\u0440\u0434\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:dut_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:eng_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:fra_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:fre_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:ger_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:hbs_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:hrv_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:hun_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:ita_x_preferred":[
+        "Lombarda"
+    ],
+    "name:lat_x_preferred":[
+        "Longobarda"
+    ],
+    "name:nld_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:pol_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Lumbarda"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Lumbarda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043c\u0431\u0430\u0440\u0434\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:spa_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u043c\u0431\u0430\u0440\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:und_x_preferred":[
+        "Lumbarda"
+    ],
+    "name:war_x_preferred":[
+        "Lumbarda"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Dubrovacko-neretvanska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Lumbarda",
+    "qs:la_lc":"*HR1906009",
+    "qs:level":"locality",
+    "qs:loc":"Lumbarda",
+    "qs:loc_alt":"Lumbarda",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1359,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115c505e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3196039,
+        "gp:id":848919,
+        "qs:id":147177,
+        "qs_pg:id":147177,
+        "wd:id":"Q1018611",
+        "wk:page":"Lumbarda"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5417d03bc4b30ce81cebca73a1042e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101796859,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":101796859,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642030,
+    "wof:name":"Lumbarda",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:population":1227,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16131233742811,
+    42.91932403528597,
+    17.18454644246731,
+    42.92728332879346
+],
+  "geometry": {"coordinates":[[[17.16915984510359,42.92711145088651],[17.16883296500123,42.9244169063781],[17.17370153410252,42.92407299411855],[17.17381056253254,42.92497117043962],[17.17867915405839,42.9246270193679],[17.17878825972917,42.92552518877483],[17.18365687364337,42.92518079888646],[17.18332935147896,42.92248630623328],[17.18454644246731,42.92240017693405],[17.18443725907144,42.92150201250075],[17.18322018628368,42.92158814028619],[17.18311102551792,42.92068997347411],[17.17702570529718,42.92112038663436],[17.17680757904805,42.91932403528597],[17.16950530923594,42.91984003289593],[17.16961426094633,42.9207382180723],[17.16474594532281,42.92108193158919],[17.16485482864613,42.92198012194274],[17.16242061555744,42.92215189443851],[17.16252946689235,42.92305008694751],[17.16131233742811,42.92313595288357],[17.16163886332117,42.92583052975698],[17.16285604740057,42.92574465929266],[17.16296491640503,42.92664284834717],[17.16661650439028,42.92638514513305],[17.1667254324334,42.92728332879346],[17.16915984510359,42.92711145088651]]],"type":"Polygon"}
+}

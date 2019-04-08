@@ -1,0 +1,96 @@
+{
+  "id": 101792373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":359160.671961,
+    "geom:bbox":"15.8554727871,45.7372944659,15.8724039926,45.7423976715",
+    "geom:latitude":45.739979,
+    "geom:longitude":15.86456,
+    "iso:country":"HR",
+    "lbl:latitude":45.740083,
+    "lbl:longitude":15.865842,
+    "mps:latitude":45.740083,
+    "mps:longitude":15.865842,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Donji Stupnik"
+    ],
+    "name:dut_x_preferred":[
+        "Donji Stupnik"
+    ],
+    "name:eng_x_preferred":[
+        "Donji Stupnik"
+    ],
+    "name:hrv_x_preferred":[
+        "Donji Stupnik"
+    ],
+    "name:hun_x_preferred":[
+        "Donji Stupnik"
+    ],
+    "name:slv_x_preferred":[
+        "Donji Stupnik"
+    ],
+    "name:spa_x_preferred":[
+        "Donji Stupnik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0438 \u0421\u0442\u0443\u043f\u043d\u0438\u043a"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zagrebacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Stupnik",
+    "qs:la_lc":"*HR0105517",
+    "qs:level":"locality",
+    "qs:loc":"Donji Stupnik",
+    "qs:loc_alt":"Donji Stupnik",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55869165,
+        "qs:id":4,
+        "wd:id":"Q824066"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4b2d559adb41297a6a418d096af3d3af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101792373,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":101792373,
+    "wof:lastmodified":1514447419,
+    "wof:name":"Donji Stupnik",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85547278706963,
+    45.73729446593285,
+    15.8724039925508,
+    45.74239767147901
+],
+  "geometry": {"coordinates":[[[15.8712206853736,45.74204304639755],[15.8711238882193,45.74114528885951],[15.8724039925508,45.74107431887762],[15.87230717866271,45.74017656204785],[15.87102709520855,45.74024753067954],[15.87093030634026,45.73934977185706],[15.868370172173,45.73949166010505],[15.86827342919884,45.73859389794075],[15.866993378487,45.73866481755812],[15.8668966605286,45.73776705340231],[15.86433659185099,45.73790884362575],[15.86443326805829,45.73880661047986],[15.85931301119768,45.73909001106892],[15.85911982992582,45.73729446593285],[15.85655976700929,45.73743606820977],[15.85675286477607,45.73923161873529],[15.85547278706963,45.7393023994112],[15.85556932127389,45.74020017505882],[15.86068969762619,45.73991695433637],[15.86078631947623,45.74081472395272],[15.86334653141699,45.74067301826466],[15.86344319916014,45.74157078454232],[15.86472332150873,45.74149990719172],[15.86482001426884,45.74239767147901],[15.8712206853736,45.74204304639755]]],"type":"Polygon"}
+}

@@ -1,0 +1,148 @@
+{
+  "id": 101834381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000156,
+    "geom:area_square_m":1334617.729788,
+    "geom:bbox":"16.459500533,46.382747984,16.4920919987,46.4061303103",
+    "geom:latitude":46.392421,
+    "geom:longitude":16.4792,
+    "gn:population":2943,
+    "iso:country":"HR",
+    "lbl:latitude":46.392201,
+    "lbl:longitude":16.480711,
+    "mps:latitude":46.392201,
+    "mps:longitude":16.480711,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:bos_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:ces_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:cze_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:dut_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:eng_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:epo_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:fra_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:fre_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:hbs_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:hrv_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:hun_x_preferred":[
+        "Zala\u00fajv\u00e1r"
+    ],
+    "name:ita_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:nld_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Pribislavec"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Pribislavec"
+    ],
+    "name:slv_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:spa_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:sqi_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u0431\u0438\u0441\u043b\u0430\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Pribislavec"
+    ],
+    "name:war_x_preferred":[
+        "Pribislavec"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Medimurska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"\u010cakovec",
+    "qs:la_lc":"*HR2000604",
+    "qs:level":"locality",
+    "qs:loc":"Pribislavec",
+    "qs:loc_alt":"Pribislavec",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":323,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192452,
+        "gp:id":849844,
+        "qs:id":262122,
+        "qs_pg:id":262122,
+        "wd:id":"Q1088578",
+        "wk:page":"Pribislavec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6367ad25b9792aad27a292ed2c37b062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101834381,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":101834381,
+    "wof:lastmodified":1527642938,
+    "wof:name":"Pribislavec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":2943,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.45950053303397,
+    46.38274798402415,
+    16.49209199870404,
+    46.4061303103224
+],
+  "geometry": {"coordinates":[[[[16.45983331559137,46.40340044195636],[16.45950053303397,46.4061303103224],[16.46047622801211,46.40607138978407],[16.46015043356095,46.40338129190877],[16.45983331559137,46.40340044195636]]],[[[16.46116446865386,46.3924807811909],[16.46105353339408,46.39339080081004],[16.4641359015381,46.39320461260616],[16.46424452914727,46.39410131340935],[16.46683439423674,46.39394474730847],[16.46705174948397,46.39573814095365],[16.47093665027347,46.39550316542375],[16.47115415322759,46.39729654743661],[16.47633414475081,46.39698301566432],[16.4764429892133,46.39787969964812],[16.47903300733753,46.39772283689899],[16.47881523721492,46.39592947437706],[16.48399506042347,46.39561557339289],[16.48410402903448,46.39651224888871],[16.48798892478732,46.39627665440167],[16.48820700503916,46.3980699943657],[16.49209199870404,46.39783425001417],[16.49176469212256,46.39514425282027],[16.48529000763551,46.3955370590553],[16.48496306570081,46.39284703333635],[16.48625794505193,46.39276850792595],[16.48571302888536,46.38828512667624],[16.48700779744598,46.38820659323676],[16.48689880690694,46.3873099166089],[16.48819355056321,46.38723136905696],[16.4876485613496,46.38274798402415],[16.48505928525066,46.38290504828353],[16.48516823072538,46.38380172959882],[16.48128422642583,46.38403721330604],[16.48150200274068,46.38583058315828],[16.48409142823533,46.38567360357251],[16.48441825688855,46.38836364448116],[16.47794434538406,46.38875599899359],[16.47805319035837,46.38965268563049],[16.47675837628765,46.38973111114888],[16.47686720450571,46.3906277986722],[16.47298267729082,46.39086298597385],[16.47320021903153,46.39265636823518],[16.46543081432009,46.39312633889028],[16.46532216994126,46.39222963897151],[16.46116446865386,46.3924807811909]]]],"type":"MultiPolygon"}
+}

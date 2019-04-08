@@ -1,0 +1,61 @@
+{
+  "id": 1209334499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93972,44.72472,14.93972,44.72472",
+    "geom:latitude":44.72472,
+    "geom:longitude":14.93972,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dunovica Podi",
+    "gn:country_code":"HR",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217889,
+    "gn:latitude":44.72472,
+    "gn:longitude":14.93972,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Dunovi\u0107a Podi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217889
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9bfd9fd7c921f554649c999a28a686be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209334499
+        }
+    ],
+    "wof:id":1209334499,
+    "wof:lastmodified":1536290268,
+    "wof:name":"Dunovica Podi",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93972,
+    44.72472,
+    14.93972,
+    44.72472
+],
+  "geometry": {"coordinates":[14.93972,44.72472],"type":"Point"}
+}

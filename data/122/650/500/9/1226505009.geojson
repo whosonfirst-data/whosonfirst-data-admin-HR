@@ -1,0 +1,75 @@
+{
+  "id": 1226505009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69194,44.20361,15.69194,44.20361",
+    "geom:latitude":44.20361,
+    "geom:longitude":15.69194,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11054321.0",
+    "gn:asciiname":"Zaton Obrovacki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186733,
+    "gn:latitude":44.20361,
+    "gn:longitude":15.69194,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Zaton Obrova\u010dki",
+    "gn:population":126,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaton",
+        "Zaton Obrova\u010dki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186733,
+        "wk:page":"Zaton_Obrova%C4%8Dki"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b6bd73905b9702a41383225859fdf951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226505009,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1226505009,
+    "wof:lastmodified":1537625804,
+    "wof:name":"Zaton Obrovacki",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":126,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69194,
+    44.20361,
+    15.69194,
+    44.20361
+],
+  "geometry": {"coordinates":[15.69194,44.20361],"type":"Point"}
+}

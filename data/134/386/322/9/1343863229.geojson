@@ -1,0 +1,65 @@
+{
+  "id": 1343863229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81056,45.21111,15.81056,45.21111",
+    "geom:latitude":45.21111,
+    "geom:longitude":15.81056,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pod Obale",
+    "gn:country_code":"HR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280223,
+    "gn:latitude":45.21111,
+    "gn:longitude":15.81056,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Pod Obale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280223
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b794412261d5adbe063cf46c00bb032c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343863229,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1343863229,
+    "wof:lastmodified":1536662579,
+    "wof:name":"Pod Obale",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81056,
+    45.21111,
+    15.81056,
+    45.21111
+],
+  "geometry": {"coordinates":[15.81056,45.21111],"type":"Point"}
+}

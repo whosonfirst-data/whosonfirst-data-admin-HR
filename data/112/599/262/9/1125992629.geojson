@@ -1,0 +1,107 @@
+{
+  "id": 1125992629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36472,44.05111,15.36472,44.05111",
+    "geom:latitude":44.05111,
+    "geom:longitude":15.36472,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":907,
+    "gn:population":919,
+    "iso:country":"HR",
+    "lbl:latitude":44.05111,
+    "lbl:longitude":15.36472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Debeljak"
+    ],
+    "name:eng_x_preferred":[
+        "Debeljak"
+    ],
+    "name:hrv_x_preferred":[
+        "Debeljak"
+    ],
+    "name:hun_x_preferred":[
+        "Debeljak"
+    ],
+    "name:slv_x_preferred":[
+        "Debeljak"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u0431\u0435\u0459\u0430\u043a"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3202140,
+    "qs_pg:gn_pop":907,
+    "qs_pg:name":"Debeljak",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Zadarsko-Kninska",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":998363,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":847269,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Zadarsko-Kninska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202140,
+        "gp:id":847269,
+        "qs_pg:id":998363,
+        "wd:id":"Q8871316"
+    },
+    "wof:country":"HR",
+    "wof:created":1497299133,
+    "wof:geomhash":"c6fa0a8bbb2d687b789c8f1debd06986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125992629,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1125992629,
+    "wof:lastmodified":1514447414,
+    "wof:name":"Debeljak",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":919,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36472,
+    44.05111,
+    15.36472,
+    44.05111
+],
+  "geometry": {"coordinates":[15.36472,44.05111],"type":"Point"}
+}

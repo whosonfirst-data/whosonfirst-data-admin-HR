@@ -1,0 +1,69 @@
+{
+  "id": 1310429477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80639,45.16583,13.80639,45.16583",
+    "geom:latitude":45.16583,
+    "geom:longitude":13.80639,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054821.0",
+    "gn:asciiname":"Radetici",
+    "gn:country_code":"HR",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192137,
+    "gn:latitude":45.16583,
+    "gn:longitude":13.80639,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Radeti\u0107i",
+    "gn:population":210,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192137
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cab833462e74323eb9d56a864ebdbc0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310429477,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1310429477,
+    "wof:lastmodified":1537025503,
+    "wof:name":"Radetici",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80639,
+    45.16583,
+    13.80639,
+    45.16583
+],
+  "geometry": {"coordinates":[13.80639,45.16583],"type":"Point"}
+}

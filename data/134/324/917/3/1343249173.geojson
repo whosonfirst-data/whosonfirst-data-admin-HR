@@ -1,0 +1,66 @@
+{
+  "id": 1343249173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55056,45.38833,14.55056,45.38833",
+    "geom:latitude":45.38833,
+    "geom:longitude":14.55056,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"11049432.0",
+    "gn:asciiname":"Kamenjak",
+    "gn:country_code":"HR",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214570,
+    "gn:latitude":45.38833,
+    "gn:longitude":14.55056,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Kamenjak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214570
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c28c514dd758af7afb5ae85cfbaa5078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343249173,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1343249173,
+    "wof:lastmodified":1537049176,
+    "wof:name":"Kamenjak",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55056,
+    45.38833,
+    14.55056,
+    45.38833
+],
+  "geometry": {"coordinates":[14.55056,45.38833],"type":"Point"}
+}

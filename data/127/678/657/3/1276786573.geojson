@@ -1,0 +1,65 @@
+{
+  "id": 1276786573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30139,44.86361,15.30139,44.86361",
+    "geom:latitude":44.86361,
+    "geom:longitude":15.30139,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kangrge",
+    "gn:country_code":"HR",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273051,
+    "gn:latitude":44.86361,
+    "gn:longitude":15.30139,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Kangrge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273051
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"19ad6f7b5894dc3e11cd067cca58d752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276786573,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1276786573,
+    "wof:lastmodified":1536668741,
+    "wof:name":"Kangrge",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30139,
+    44.86361,
+    15.30139,
+    44.86361
+],
+  "geometry": {"coordinates":[15.30139,44.86361],"type":"Point"}
+}

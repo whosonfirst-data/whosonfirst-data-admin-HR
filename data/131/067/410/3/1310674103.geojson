@@ -1,0 +1,73 @@
+{
+  "id": 1310674103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32806,43.38472,16.32806,43.38472",
+    "geom:latitude":43.38472,
+    "geom:longitude":16.32806,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"11054737.0",
+    "gn:asciiname":"Necujam",
+    "gn:country_code":"HR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215890,
+    "gn:latitude":43.38472,
+    "gn:longitude":16.32806,
+    "gn:modification_date":"2017-01-01",
+    "gn:name":"Ne\u010dujam",
+    "gn:population":171,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ne\u010dujam"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215890,
+        "wk:page":"Ne%C4%8Dujam"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f7fbf23b7ee87a0ac3d4d8a01f737bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310674103,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1310674103,
+    "wof:lastmodified":1537625950,
+    "wof:name":"Necujam",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":171,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32806,
+    43.38472,
+    16.32806,
+    43.38472
+],
+  "geometry": {"coordinates":[16.32806,43.38472],"type":"Point"}
+}

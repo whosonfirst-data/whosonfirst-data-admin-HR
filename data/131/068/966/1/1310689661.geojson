@@ -1,0 +1,69 @@
+{
+  "id": 1310689661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.02889,45.38444,18.02889,45.38444",
+    "geom:latitude":45.38444,
+    "geom:longitude":18.02889,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049473.0",
+    "gn:asciiname":"Nova Ljeskovica",
+    "gn:country_code":"HR",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194420,
+    "gn:latitude":45.38444,
+    "gn:longitude":18.02889,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Nova Ljeskovica",
+    "gn:population":486,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194420
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4e8a3ffaadd4e38005a82b044ebfe005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310689661,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1310689661,
+    "wof:lastmodified":1536651076,
+    "wof:name":"Nova Ljeskovica",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":486,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.02889,
+    45.38444000000001,
+    18.02889,
+    45.38444000000001
+],
+  "geometry": {"coordinates":[18.02889,45.38444000000001],"type":"Point"}
+}

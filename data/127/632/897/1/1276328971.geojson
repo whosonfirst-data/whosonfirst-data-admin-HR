@@ -1,0 +1,70 @@
+{
+  "id": 1276328971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37694,46.40583,16.37694,46.40583",
+    "geom:latitude":46.40583,
+    "geom:longitude":16.37694,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"11054847.0",
+    "gn:asciiname":"Slakovec",
+    "gn:country_code":"HR",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190649,
+    "gn:latitude":46.40583,
+    "gn:longitude":16.37694,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Slakovec",
+    "gn:population":559,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190649,
+        "wk:page":"Slakovec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e3cd32df9e36c97ea8da5aed5293a9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276328971,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":1276328971,
+    "wof:lastmodified":1537563281,
+    "wof:name":"Slakovec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":559,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37694,
+    46.40583,
+    16.37694,
+    46.40583
+],
+  "geometry": {"coordinates":[16.37694,46.40583],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243524853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.54806,43.78806,16.54806,43.78806",
+    "geom:latitude":43.78806,
+    "geom:longitude":16.54806,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Donji Kunci",
+    "gn:country_code":"HR",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277820,
+    "gn:latitude":43.78806,
+    "gn:longitude":16.54806,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Donji Kunci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277820
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"090190ef11bf831c8765d6f73246a6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243524853,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1243524853,
+    "wof:lastmodified":1536692805,
+    "wof:name":"Donji Kunci",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.54806,
+    43.78806,
+    16.54806,
+    43.78806
+],
+  "geometry": {"coordinates":[16.54806,43.78806],"type":"Point"}
+}

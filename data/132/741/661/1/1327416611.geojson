@@ -1,0 +1,65 @@
+{
+  "id": 1327416611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13917,43.32139,17.13917,43.32139",
+    "geom:latitude":43.32139,
+    "geom:longitude":17.13917,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Roglici",
+    "gn:country_code":"HR",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280615,
+    "gn:latitude":43.32139,
+    "gn:longitude":17.13917,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Rogli\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280615
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"14580323e27daa65eb161444940272b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327416611,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1327416611,
+    "wof:lastmodified":1536703885,
+    "wof:name":"Roglici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13917,
+    43.32139,
+    17.13917,
+    43.32139
+],
+  "geometry": {"coordinates":[17.13917,43.32139],"type":"Point"}
+}

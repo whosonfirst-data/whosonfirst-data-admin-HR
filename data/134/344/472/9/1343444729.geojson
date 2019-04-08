@@ -1,0 +1,74 @@
+{
+  "id": 1343444729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.12389,45.34,18.12389,45.34",
+    "geom:latitude":45.34,
+    "geom:longitude":18.12389,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054471.0",
+    "gn:asciiname":"Milinac",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195123,
+    "gn:latitude":45.34,
+    "gn:longitude":18.12389,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Milinac",
+    "gn:population":28,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milinci",
+        "Milinac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195123
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2ce953446ec584789b2489de16ba37ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343444729,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1343444729,
+    "wof:lastmodified":1537625862,
+    "wof:name":"Milinac",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":28,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.12389,
+    45.34,
+    18.12389,
+    45.34
+],
+  "geometry": {"coordinates":[18.12389,45.34],"type":"Point"}
+}

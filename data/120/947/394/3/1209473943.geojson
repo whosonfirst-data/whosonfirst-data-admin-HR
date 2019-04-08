@@ -1,0 +1,66 @@
+{
+  "id": 1209473943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93333,45.83333,15.93333,45.83333",
+    "geom:latitude":45.83333,
+    "geom:longitude":15.93333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bijenik",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204171,
+    "gn:latitude":45.83333,
+    "gn:longitude":15.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bijenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bijenik-naselje",
+        "Bijenik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204171
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fb965103bc6c8d8e7908a506fba34c13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209473943
+        }
+    ],
+    "wof:id":1209473943,
+    "wof:lastmodified":1537625935,
+    "wof:name":"Bijenik",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93333,
+    45.83333,
+    15.93333,
+    45.83333
+],
+  "geometry": {"coordinates":[15.93333,45.83333],"type":"Point"}
+}

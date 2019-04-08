@@ -1,0 +1,61 @@
+{
+  "id": 1209592049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91278,44.12444,15.91278,44.12444",
+    "geom:latitude":44.12444,
+    "geom:longitude":15.91278,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tonkovac",
+    "gn:country_code":"HR",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215084,
+    "gn:latitude":44.12444,
+    "gn:longitude":15.91278,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Tonkovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215084
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9a54bb74bc7a572e8c55bed299d17191",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209592049
+        }
+    ],
+    "wof:id":1209592049,
+    "wof:lastmodified":1536282447,
+    "wof:name":"Tonkovac",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91278,
+    44.12444,
+    15.91278,
+    44.12444
+],
+  "geometry": {"coordinates":[15.91278,44.12444],"type":"Point"}
+}

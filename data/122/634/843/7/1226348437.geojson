@@ -1,0 +1,72 @@
+{
+  "id": 1226348437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.62278,45.42861,13.62278,45.42861",
+    "geom:latitude":45.42861,
+    "geom:longitude":13.62278,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gamboci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200723,
+    "gn:latitude":45.42861,
+    "gn:longitude":13.62278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gamboci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gambozzi",
+        "Gamboc",
+        "Gamboc I Dio",
+        "Gamboci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200723
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"abc95faf734d933a5273363c67460e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226348437,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1226348437,
+    "wof:lastmodified":1537625907,
+    "wof:name":"Gamboci",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.62278,
+    45.42861,
+    13.62278,
+    45.42861
+],
+  "geometry": {"coordinates":[13.62278,45.42861],"type":"Point"}
+}

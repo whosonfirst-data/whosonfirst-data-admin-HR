@@ -1,0 +1,147 @@
+{
+  "id": 85901495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":15023969.623789,
+    "geom:bbox":"18.702919,45.559906,18.702919,45.559906",
+    "geom:latitude":45.559906,
+    "geom:longitude":18.702919,
+    "gn:latitude":45.5575,
+    "gn:longitude":18.73472,
+    "iso:country":"HR",
+    "lbl:latitude":45.559906,
+    "lbl:longitude":18.702919,
+    "mps:latitude":45.559435,
+    "mps:longitude":18.718095,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Donji Grad"
+    ],
+    "name:eng_x_preferred":[
+        "Osijek-Donji Grad"
+    ],
+    "name:eng_x_variant":[
+        "Osijek-Donji Grad"
+    ],
+    "name:fra_x_preferred":[
+        "Donji Grad"
+    ],
+    "name:glg_x_preferred":[
+        "Donji grad"
+    ],
+    "name:hbs_x_preferred":[
+        "Donji Grad"
+    ],
+    "name:hrv_x_preferred":[
+        "Donji grad"
+    ],
+    "name:nld_x_preferred":[
+        "Donji Grad"
+    ],
+    "name:pol_x_preferred":[
+        "Donji Grad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0438\u0439 \u0413\u0440\u0430\u0434"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0438 \u0433\u0440\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Donji grad"
+    ],
+    "name:und_x_preferred":[
+        "Donji Grad"
+    ],
+    "name:unk_x_variant":[
+        "Osijek-Donji Grad",
+        "Donji Grad"
+    ],
+    "qs:gn_adm0_cc":"HR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3193935,
+    "qs:gn_nam_loc":"Osijek, Osijek, Osje\u010dko-Baranjska, HR",
+    "qs:gn_namadm1":"10",
+    "qs:gn_name":"Donji Grad",
+    "qs:local_max":928,
+    "qs:local_sum":1149,
+    "qs:localhoods":2,
+    "qs:name":"Donji Grad",
+    "qs:name_adm0":"Hrvatska",
+    "qs:name_adm1":"Osje\u010dko-baranjska",
+    "qs:name_adm2":"Osijek",
+    "qs:name_en":"Osijek-Donji Grad",
+    "qs:name_local":"Osijek",
+    "qs:photo_max":113,
+    "qs:photo_sum":221,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424843,
+    "qs:woe_adm1":12577980,
+    "qs:woe_adm2":15022267,
+    "qs:woe_lau":0,
+    "qs:woe_local":849471,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":143,
+    "wof:belongsto":[
+        102191581,
+        101751779,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201475,
+        "gp:id":847465,
+        "qs:id":1349626,
+        "qs_pg:id":1349626
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"56138838569c6670b0d069755615205d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101751779,
+            "neighbourhood_id":85901495,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":85901495,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531932515,
+    "wof:name":"Donji Grad",
+    "wof:parent_id":101751779,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.702919,
+    45.559906,
+    18.702919,
+    45.559906
+],
+  "geometry": {"coordinates":[18.702919,45.559906],"type":"Point"}
+}

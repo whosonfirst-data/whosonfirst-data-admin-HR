@@ -1,0 +1,74 @@
+{
+  "id": 1259958637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.40542,45.51976,16.40542,45.51976",
+    "geom:latitude":45.51976,
+    "geom:longitude":16.40542,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3190812.0",
+    "gn:asciiname":"Palanjek",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193697,
+    "gn:latitude":45.51976,
+    "gn:longitude":16.40542,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Palanjek",
+    "gn:population":318,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polanjek",
+        "Palanjek"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193697
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ea0d9b45ea61f7cf555a2efa4474f29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259958637,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1259958637,
+    "wof:lastmodified":1537625852,
+    "wof:name":"Palanjek",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":318,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.40542,
+    45.51976,
+    16.40542,
+    45.51976
+],
+  "geometry": {"coordinates":[16.40542,45.51976],"type":"Point"}
+}

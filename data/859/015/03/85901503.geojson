@@ -1,0 +1,152 @@
+{
+  "id": 85901503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.977292,45.818213,15.977292,45.818213",
+    "geom:latitude":45.818213,
+    "geom:longitude":15.977292,
+    "iso:country":"HR",
+    "lbl:latitude":45.818213,
+    "lbl:longitude":15.977292,
+    "mps:latitude":45.824065,
+    "mps:longitude":15.984541,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:bos_x_preferred":[
+        "Gradec"
+    ],
+    "name:chi_x_preferred":[
+        "\u683c\u62c9\u4ee3\u8328"
+    ],
+    "name:cze_x_preferred":[
+        "Gradec"
+    ],
+    "name:dut_x_preferred":[
+        "Gradec"
+    ],
+    "name:eng_x_preferred":[
+        "Gradec"
+    ],
+    "name:fre_x_preferred":[
+        "Gradec"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10e0\u10d0\u10d3\u10d4\u10ea\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30c7\u30c4"
+    ],
+    "name:kor_x_preferred":[
+        "\uadf8\ub77c\ub370\uce20"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0435\u0446"
+    ],
+    "name:slo_x_preferred":[
+        "Gradec"
+    ],
+    "name:spa_x_preferred":[
+        "Gradec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Gradec"
+    ],
+    "name:und_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:unk_x_variant":[
+        "Gornji Grad"
+    ],
+    "qs:gn_adm0_cc":"HR",
+    "qs:gn_id":0,
+    "qs:gn_local":3186886,
+    "qs:gn_nam_loc":"Zagreb, Zagreb, Grad Zagreb, HR",
+    "qs:gn_namadm1":"21",
+    "qs:id":0,
+    "qs:local_max":15719,
+    "qs:local_sum":23728,
+    "qs:localhoods":6,
+    "qs:name":"Gornji Grad",
+    "qs:name_adm0":"Hrvatska",
+    "qs:name_adm1":"Grad Zagreb",
+    "qs:name_adm2":"Zagreb",
+    "qs:name_local":"Zagreb",
+    "qs:photo_max":1492,
+    "qs:photo_sum":15719,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":133,
+    "qs:woe_adm0":23424843,
+    "qs:woe_adm1":20070170,
+    "qs:woe_adm2":15022257,
+    "qs:woe_lau":0,
+    "qs:woe_local":851128,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751659,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":847912,
+        "wd:id":"Q1278569"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4d252f2fca667dc7aa98561078936235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101751659,
+            "neighbourhood_id":85901503,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":85901503,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553814913,
+    "wof:name":"Gornji grad",
+    "wof:parent_id":101751659,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.977292,
+    45.818213,
+    15.977292,
+    45.818213
+],
+  "geometry": {"coordinates":[15.977292,45.818213],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343744355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.38444,46.25944,16.38444,46.25944",
+    "geom:latitude":46.25944,
+    "geom:longitude":16.38444,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"11049302.0",
+    "gn:asciiname":"Donji Kneginec",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201462,
+    "gn:latitude":46.25944,
+    "gn:longitude":16.38444,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Donji Kneginec",
+    "gn:population":743,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kneginec-dolnji",
+        "Kneginec",
+        "Donji Kneginec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201462
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"39a4360e700dce0d9e87949aad95c443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343744355,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1343744355,
+    "wof:lastmodified":1537625915,
+    "wof:name":"Donji Kneginec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":743,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.38444,
+    46.25944000000001,
+    16.38444,
+    46.25944000000001
+],
+  "geometry": {"coordinates":[16.38444,46.25944000000001],"type":"Point"}
+}

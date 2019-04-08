@@ -1,0 +1,67 @@
+{
+  "id": 1226262787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62694,44.70889,15.62694,44.70889",
+    "geom:latitude":44.70889,
+    "geom:longitude":15.62694,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049292.0",
+    "gn:asciiname":"Krbavica",
+    "gn:country_code":"HR",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3197331,
+    "gn:latitude":44.70889,
+    "gn:longitude":15.62694,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Krbavica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197331,
+        "wk:page":"Krbavica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"368c02900debd7395de0b193d6f8da07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226262787,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1226262787,
+    "wof:lastmodified":1537563295,
+    "wof:name":"Krbavica",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62694,
+    44.70889,
+    15.62694,
+    44.70889
+],
+  "geometry": {"coordinates":[15.62694,44.70889],"type":"Point"}
+}

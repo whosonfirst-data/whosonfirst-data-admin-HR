@@ -1,0 +1,69 @@
+{
+  "id": 1210034051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.0,45.88333,17.0,45.88333",
+    "geom:latitude":45.88333,
+    "geom:longitude":17.0,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049419.0",
+    "gn:asciiname":"Kasljavac",
+    "gn:country_code":"HR",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198232,
+    "gn:latitude":45.88333,
+    "gn:longitude":17.0,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Ka\u0161ljavac",
+    "gn:population":153,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198232
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"94dc5089b4b52fbfb044faeca8b36919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1210034051,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1210034051,
+    "wof:lastmodified":1536387292,
+    "wof:name":"Kasljavac",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":153,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.0,
+    45.88333,
+    17.0,
+    45.88333
+],
+  "geometry": {"coordinates":[17.0,45.88333],"type":"Point"}
+}

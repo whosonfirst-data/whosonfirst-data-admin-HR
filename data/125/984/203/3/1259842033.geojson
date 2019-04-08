@@ -1,0 +1,65 @@
+{
+  "id": 1259842033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43694,44.30222,15.43694,44.30222",
+    "geom:latitude":44.30222,
+    "geom:longitude":15.43694,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kruskovac",
+    "gn:country_code":"HR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216409,
+    "gn:latitude":44.30222,
+    "gn:longitude":15.43694,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Kru\u0161kovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216409
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2a195bb0d294c896e6afece98b899005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259842033,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1259842033,
+    "wof:lastmodified":1536837972,
+    "wof:name":"Kruskovac",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43694,
+    44.30222,
+    15.43694,
+    44.30222
+],
+  "geometry": {"coordinates":[15.43694,44.30222],"type":"Point"}
+}

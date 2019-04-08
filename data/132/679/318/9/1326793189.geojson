@@ -1,0 +1,65 @@
+{
+  "id": 1326793189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12806,44.37833,16.12806,44.37833",
+    "geom:latitude":44.37833,
+    "geom:longitude":16.12806,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Rastele",
+    "gn:country_code":"HR",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277306,
+    "gn:latitude":44.37833,
+    "gn:longitude":16.12806,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Ra\u0161tele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277306
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"11cb35f752a67b1ca7fba7da119deabd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326793189,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1326793189,
+    "wof:lastmodified":1536604989,
+    "wof:name":"Rastele",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12806,
+    44.37833,
+    16.12806,
+    44.37833
+],
+  "geometry": {"coordinates":[16.12806,44.37833],"type":"Point"}
+}

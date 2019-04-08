@@ -1,0 +1,70 @@
+{
+  "id": 1309707089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.54472,46.33139,16.54472,46.33139",
+    "geom:latitude":46.33139,
+    "geom:longitude":16.54472,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"11054848.0",
+    "gn:asciiname":"Podbrest",
+    "gn:country_code":"HR",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193080,
+    "gn:latitude":46.33139,
+    "gn:longitude":16.54472,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Podbrest",
+    "gn:population":618,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193080,
+        "wk:page":"Podbrest"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"df0d3d5e0ed2a67337343b8a7e7fb1f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309707089,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":1309707089,
+    "wof:lastmodified":1537563285,
+    "wof:name":"Podbrest",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":618,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.54472,
+    46.33139,
+    16.54472,
+    46.33139
+],
+  "geometry": {"coordinates":[16.54472,46.33139],"type":"Point"}
+}

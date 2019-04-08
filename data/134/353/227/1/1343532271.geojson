@@ -1,0 +1,65 @@
+{
+  "id": 1343532271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.27806,45.11694,16.27806,45.11694",
+    "geom:latitude":45.11694,
+    "geom:longitude":16.27806,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Medumajdan",
+    "gn:country_code":"HR",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214707,
+    "gn:latitude":45.11694,
+    "gn:longitude":16.27806,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Medumajdan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214707
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"50b1ed8ba6f841875648497a74048cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343532271,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1343532271,
+    "wof:lastmodified":1536641893,
+    "wof:name":"Medumajdan",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27806,
+    45.11694,
+    16.27806,
+    45.11694
+],
+  "geometry": {"coordinates":[16.27806,45.11694],"type":"Point"}
+}

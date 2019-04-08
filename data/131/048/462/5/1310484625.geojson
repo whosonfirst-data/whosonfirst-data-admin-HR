@@ -1,0 +1,65 @@
+{
+  "id": 1310484625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.64472,43.7775,16.64472,43.7775",
+    "geom:latitude":43.7775,
+    "geom:longitude":16.64472,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ronici",
+    "gn:country_code":"HR",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3276993,
+    "gn:latitude":43.7775,
+    "gn:longitude":16.64472,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Roni\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276993
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"38a7cdb4f527c57d16bc2bb1ec034c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310484625,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1310484625,
+    "wof:lastmodified":1536947434,
+    "wof:name":"Ronici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.64472,
+    43.7775,
+    16.64472,
+    43.7775
+],
+  "geometry": {"coordinates":[16.64472,43.7775],"type":"Point"}
+}

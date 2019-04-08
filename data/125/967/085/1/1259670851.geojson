@@ -1,0 +1,69 @@
+{
+  "id": 1259670851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45194,45.38,14.45194,45.38",
+    "geom:latitude":45.38,
+    "geom:longitude":14.45194,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11049435.0",
+    "gn:asciiname":"Lukezi",
+    "gn:country_code":"HR",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196061,
+    "gn:latitude":45.38,
+    "gn:longitude":14.45194,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Luke\u017ei",
+    "gn:population":193,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196061
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"937001501044b6bd9424a03389235f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259670851,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1259670851,
+    "wof:lastmodified":1537082075,
+    "wof:name":"Lukezi",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":193,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45194,
+    45.38,
+    14.45194,
+    45.38
+],
+  "geometry": {"coordinates":[14.45194,45.38],"type":"Point"}
+}

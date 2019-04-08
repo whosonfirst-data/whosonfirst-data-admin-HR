@@ -1,0 +1,75 @@
+{
+  "id": 1242600487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23583,45.11667,15.23583,45.11667",
+    "geom:latitude":45.11667,
+    "geom:longitude":15.23583,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049271.0",
+    "gn:asciiname":"Modrus",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194936,
+    "gn:latitude":45.11667,
+    "gn:longitude":15.23583,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Modru\u0161",
+    "gn:population":169,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makovnik",
+        "Modru\u0161"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194936,
+        "wk:page":"Modru%C5%A1"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7442cb897ffb32970927f7b1f20030c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242600487,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1242600487,
+    "wof:lastmodified":1537625860,
+    "wof:name":"Modrus",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23583,
+    45.11667,
+    15.23583,
+    45.11667
+],
+  "geometry": {"coordinates":[15.23583,45.11667],"type":"Point"}
+}

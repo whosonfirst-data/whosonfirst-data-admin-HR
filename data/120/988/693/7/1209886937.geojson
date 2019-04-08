@@ -1,0 +1,66 @@
+{
+  "id": 1209886937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.44222,45.39,16.44222,45.39",
+    "geom:latitude":45.39,
+    "geom:longitude":16.44222,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"11049233.0",
+    "gn:asciiname":"Bestrma",
+    "gn:country_code":"HR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3204254,
+    "gn:latitude":45.39,
+    "gn:longitude":16.44222,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Bestrma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204254
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7575aa7f40be9371bce695c092ec16d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209886937,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1209886937,
+    "wof:lastmodified":1536392500,
+    "wof:name":"Bestrma",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.44222,
+    45.39,
+    16.44222,
+    45.39
+],
+  "geometry": {"coordinates":[16.44222,45.39],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1326905547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88111,44.36194,15.88111,44.36194",
+    "geom:latitude":44.36194,
+    "geom:longitude":15.88111,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tojagici",
+    "gn:country_code":"HR",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216720,
+    "gn:latitude":44.36194,
+    "gn:longitude":15.88111,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Tojagi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216720
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d47ba97722f2ca1f4bcf61c7a8a10735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326905547,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1326905547,
+    "wof:lastmodified":1536943792,
+    "wof:name":"Tojagici",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88111,
+    44.36194,
+    15.88111,
+    44.36194
+],
+  "geometry": {"coordinates":[15.88111,44.36194],"type":"Point"}
+}

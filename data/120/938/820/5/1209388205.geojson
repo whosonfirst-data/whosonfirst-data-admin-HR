@@ -1,0 +1,61 @@
+{
+  "id": 1209388205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23556,43.16778,17.23556,43.16778",
+    "geom:latitude":43.16778,
+    "geom:longitude":17.23556,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Petrovici",
+    "gn:country_code":"HR",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283124,
+    "gn:latitude":43.16778,
+    "gn:longitude":17.23556,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Petrovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283124
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d65ddb1a1d750115a63762ffb66023ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209388205
+        }
+    ],
+    "wof:id":1209388205,
+    "wof:lastmodified":1536288552,
+    "wof:name":"Petrovici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23556,
+    43.16778,
+    17.23556,
+    43.16778
+],
+  "geometry": {"coordinates":[17.23556,43.16778],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209190665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17472,45.935,17.17472,45.935",
+    "geom:latitude":45.935,
+    "geom:longitude":17.17472,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Grabrovnica",
+    "gn:country_code":"HR",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199795,
+    "gn:latitude":45.935,
+    "gn:longitude":17.17472,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Grabrovnica",
+    "gn:population":405,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199795,
+        "wk:page":"Grabrovnica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cbdc1126ba188982241cc909a74c498c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209190665
+        }
+    ],
+    "wof:id":1209190665,
+    "wof:lastmodified":1537563300,
+    "wof:name":"Grabrovnica",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":405,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17472,
+    45.935,
+    17.17472,
+    45.935
+],
+  "geometry": {"coordinates":[17.17472,45.935],"type":"Point"}
+}

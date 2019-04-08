@@ -1,0 +1,61 @@
+{
+  "id": 1209588859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.80472,43.59667,16.80472,43.59667",
+    "geom:latitude":43.59667,
+    "geom:longitude":16.80472,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Curlinova Ograda",
+    "gn:country_code":"HR",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288158,
+    "gn:latitude":43.59667,
+    "gn:longitude":16.80472,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Curlinova Ograda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288158
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7b5a60731017ce1fadb164ad29f5031c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209588859
+        }
+    ],
+    "wof:id":1209588859,
+    "wof:lastmodified":1536282544,
+    "wof:name":"Curlinova Ograda",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.80472,
+    43.59667,
+    16.80472,
+    43.59667
+],
+  "geometry": {"coordinates":[16.80472,43.59667],"type":"Point"}
+}

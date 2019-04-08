@@ -1,0 +1,71 @@
+{
+  "id": 1293577531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56806,45.43861,17.56806,45.43861",
+    "geom:latitude":45.43861,
+    "geom:longitude":17.56806,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049479.0",
+    "gn:asciiname":"Odzakovci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3193749,
+    "gn:latitude":45.43861,
+    "gn:longitude":17.56806,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Od\u017eakovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "O\u017edakovci",
+        "Od\u017eakovci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193749
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"79638aecc5e5f83153e28f12f28bd8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293577531,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1293577531,
+    "wof:lastmodified":1537625852,
+    "wof:name":"Odzakovci",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56806,
+    45.43861,
+    17.56806,
+    45.43861
+],
+  "geometry": {"coordinates":[17.56806,45.43861],"type":"Point"}
+}

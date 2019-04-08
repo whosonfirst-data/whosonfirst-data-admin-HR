@@ -1,0 +1,126 @@
+{
+  "id": 1125958661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.29222,45.66694,18.29222,45.66694",
+    "geom:latitude":45.66694,
+    "geom:longitude":18.29222,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":940,
+    "gn:population":940,
+    "iso:country":"HR",
+    "lbl:latitude":45.66694,
+    "lbl:longitude":18.29222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Marijanci"
+    ],
+    "name:dut_x_preferred":[
+        "Marijanci"
+    ],
+    "name:eng_x_preferred":[
+        "Marijanci"
+    ],
+    "name:fre_x_preferred":[
+        "Marijanci"
+    ],
+    "name:hrv_x_preferred":[
+        "Marijanci"
+    ],
+    "name:ita_x_preferred":[
+        "Marijanci"
+    ],
+    "name:pol_x_preferred":[
+        "Marijanci"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Marijanci"
+    ],
+    "name:spa_x_preferred":[
+        "Marijanci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0458\u0430\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Marjanci"
+    ],
+    "name:unk_x_variant":[
+        "Marijanci"
+    ],
+    "name:war_x_preferred":[
+        "Marijanci"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3195471,
+    "qs_pg:gn_pop":940,
+    "qs_pg:name":"Marjanci",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Osje\u010dko-baranjska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":407312,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":849072,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Osje\u010dko-baranjska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195471,
+        "gp:id":849072,
+        "qs_pg:id":407312,
+        "wd:id":"Q1293857"
+    },
+    "wof:country":"HR",
+    "wof:created":1497297709,
+    "wof:geomhash":"1015f960d7edfd1d03210df31378fa6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125958661,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1125958661,
+    "wof:lastmodified":1514447529,
+    "wof:name":"Marjanci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":940,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.29222,
+    45.66694,
+    18.29222,
+    45.66694
+],
+  "geometry": {"coordinates":[18.29222,45.66694],"type":"Point"}
+}

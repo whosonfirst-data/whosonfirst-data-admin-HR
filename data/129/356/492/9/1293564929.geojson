@@ -1,0 +1,77 @@
+{
+  "id": 1293564929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68556,45.33278,18.68556,45.33278",
+    "geom:latitude":45.33278,
+    "geom:longitude":18.68556,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"11054541.0",
+    "gn:asciiname":"Karadzicevo",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198291,
+    "gn:latitude":45.33278,
+    "gn:longitude":18.68556,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Karad\u017ei\u0107evo",
+    "gn:population":194,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kri\u017eevci",
+        "Kara\u0111i\u0107evo",
+        "Kri\u017eevci Vinkova\u010dki",
+        "Karad\u017ei\u0107evo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198291,
+        "wk:page":"Karad%C5%BEi%C4%87evo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f5da26f152bcae8da4eaebb1235319f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293564929,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":1293564929,
+    "wof:lastmodified":1537625888,
+    "wof:name":"Karadzicevo",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":194,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68556,
+    45.33278,
+    18.68556,
+    45.33278
+],
+  "geometry": {"coordinates":[18.68556,45.33278],"type":"Point"}
+}

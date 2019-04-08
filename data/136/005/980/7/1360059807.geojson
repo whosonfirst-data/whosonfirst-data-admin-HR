@@ -1,0 +1,70 @@
+{
+  "id": 1360059807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5,45.7,16.5,45.7",
+    "geom:latitude":45.7,
+    "geom:longitude":16.5,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11048994.0",
+    "gn:asciiname":"Bunjani",
+    "gn:country_code":"HR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202984,
+    "gn:latitude":45.7,
+    "gn:longitude":16.5,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Bunjani",
+    "gn:population":636,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202984,
+        "wk:page":"Bunjani"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1ca52754bf12a323c23b4137529666d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360059807,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1360059807,
+    "wof:lastmodified":1537563308,
+    "wof:name":"Bunjani",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":636,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5,
+    45.7,
+    16.5,
+    45.7
+],
+  "geometry": {"coordinates":[16.5,45.7],"type":"Point"}
+}

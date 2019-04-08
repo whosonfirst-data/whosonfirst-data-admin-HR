@@ -1,0 +1,76 @@
+{
+  "id": 1242683963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.14528,45.31972,14.14528,45.31972",
+    "geom:latitude":45.31972,
+    "geom:longitude":14.14528,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054807.0",
+    "gn:asciiname":"Vranja",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187367,
+    "gn:latitude":45.31972,
+    "gn:longitude":14.14528,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Vranja",
+    "gn:population":98,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aurania",
+        "Vranje",
+        "Vragna",
+        "Vranja"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187367
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"66d6070f0bfab176c89c1466c4d8e4f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242683963,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1242683963,
+    "wof:lastmodified":1537625808,
+    "wof:name":"Vranja",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.14528,
+    45.31972,
+    14.14528,
+    45.31972
+],
+  "geometry": {"coordinates":[14.14528,45.31972],"type":"Point"}
+}

@@ -1,0 +1,148 @@
+{
+  "id": 101790165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:area_square_m":877804.04422,
+    "geom:bbox":"16.5344392358,46.4625552965,16.5539982459,46.4710203619",
+    "geom:latitude":46.466657,
+    "geom:longitude":16.543529,
+    "gn:population":1550,
+    "iso:country":"HR",
+    "lbl:latitude":46.46718,
+    "lbl:longitude":16.541759,
+    "mps:latitude":46.46718,
+    "mps:longitude":16.541759,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Podturen"
+    ],
+    "name:cat_x_preferred":[
+        "Podture\u0148"
+    ],
+    "name:ces_x_preferred":[
+        "Podture\u0148"
+    ],
+    "name:deu_x_preferred":[
+        "Podture\u0148"
+    ],
+    "name:dut_x_preferred":[
+        "Podturen"
+    ],
+    "name:eng_x_preferred":[
+        "Podturen"
+    ],
+    "name:epo_x_preferred":[
+        "Podture\u0148"
+    ],
+    "name:fra_x_preferred":[
+        "Podture\u0148"
+    ],
+    "name:fre_x_preferred":[
+        "Podturen"
+    ],
+    "name:ger_x_preferred":[
+        "Podturen"
+    ],
+    "name:hbs_x_preferred":[
+        "Podturenj"
+    ],
+    "name:hrv_x_preferred":[
+        "Podturen"
+    ],
+    "name:hun_x_preferred":[
+        "Pottornya"
+    ],
+    "name:ita_x_preferred":[
+        "Podture\u0148"
+    ],
+    "name:msa_x_preferred":[
+        "Podture\u0148"
+    ],
+    "name:nld_x_preferred":[
+        "Podture\u0148"
+    ],
+    "name:rum_x_preferred":[
+        "Podturen"
+    ],
+    "name:slv_x_preferred":[
+        "Podturen"
+    ],
+    "name:spa_x_preferred":[
+        "Podturen"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0442\u0443\u0440\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Podturen"
+    ],
+    "name:war_x_preferred":[
+        "Podturen"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Medimurska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Podturen",
+    "qs:la_lc":"*HR2003425",
+    "qs:level":"locality",
+    "qs:loc":"Podturen",
+    "qs:loc_alt":"Podturen",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192904,
+        "gp:id":849711,
+        "qs:id":262116,
+        "qs_pg:id":262116,
+        "wd:id":"Q786568",
+        "wk:page":"Podturen"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"39e6f49d8b6ff0bf10cab07f139da08b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101790165,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":101790165,
+    "wof:lastmodified":1553815504,
+    "wof:name":"Podturen",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":1550,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53443923581654,
+    46.46255529649011,
+    16.5539982458983,
+    46.47102036185345
+],
+  "geometry": {"coordinates":[[[16.54643924899096,46.46859349586543],[16.55162576295504,46.46827625808027],[16.55151542708501,46.46737970456365],[16.55281202531876,46.46730035751011],[16.55270167269288,46.46640380490163],[16.5539982458983,46.46632444373029],[16.55388787651782,46.46542789203022],[16.55129476970342,46.46558659563425],[16.55096381952433,46.46289692750071],[16.54188828826801,46.46345186456944],[16.54177813188267,46.46255529649011],[16.53788863089187,46.46279288718887],[16.53832902661088,46.46637917416416],[16.53443923581654,46.46661664238241],[16.53465933306632,46.46840979130207],[16.53595597656516,46.46833064781543],[16.53628622289074,46.47102036185345],[16.54406639866033,46.47054514441385],[16.54395618249208,46.46964858292426],[16.54654950346833,46.46949005490899],[16.54643924899096,46.46859349586543]]],"type":"Polygon"}
+}

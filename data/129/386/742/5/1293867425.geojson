@@ -1,0 +1,75 @@
+{
+  "id": 1293867425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31667,45.38333,16.31667,45.38333",
+    "geom:latitude":45.38333,
+    "geom:longitude":16.31667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3193419.0",
+    "gn:asciiname":"Donja Budicina",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201707,
+    "gn:latitude":45.38333,
+    "gn:longitude":16.31667,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Donja Budi\u010dina",
+    "gn:population":236,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Budi\u010dina Donja",
+        "Donja Budi\u010dina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201707,
+        "wk:page":"Donja_Budi%C4%8Dina"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1133f1029951f70c6180c8da2b5a4aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293867425,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1293867425,
+    "wof:lastmodified":1537625918,
+    "wof:name":"Donja Budicina",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":236,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31667,
+    45.38333,
+    16.31667,
+    45.38333
+],
+  "geometry": {"coordinates":[16.31667,45.38333],"type":"Point"}
+}

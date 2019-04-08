@@ -1,0 +1,65 @@
+{
+  "id": 1327465577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59861,45.03361,15.59861,45.03361",
+    "geom:latitude":45.03361,
+    "geom:longitude":15.59861,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pesuti",
+    "gn:country_code":"HR",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301699,
+    "gn:latitude":45.03361,
+    "gn:longitude":15.59861,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Pe\u0161uti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301699
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c6cece3db1e46a39bae1814dbc2c2787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327465577,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1327465577,
+    "wof:lastmodified":1536631423,
+    "wof:name":"Pesuti",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59861,
+    45.03361,
+    15.59861,
+    45.03361
+],
+  "geometry": {"coordinates":[15.59861,45.03361],"type":"Point"}
+}

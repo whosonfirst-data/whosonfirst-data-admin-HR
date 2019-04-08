@@ -1,0 +1,83 @@
+{
+  "id": 1242801847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13861,45.17333,14.13861,45.17333",
+    "geom:latitude":45.17333,
+    "geom:longitude":14.13861,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054805.0",
+    "gn:asciiname":"Krsan",
+    "gn:country_code":"HR",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3197157,
+    "gn:latitude":45.17333,
+    "gn:longitude":14.13861,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Kr\u0161an",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lat_x_preferred":[
+        "Chersanum"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Kr\u0161an"
+    ],
+    "name:srp_x_preferred":[
+        "Kr\u0161an"
+    ],
+    "name:srp_x_variant":[
+        "\u041a\u0440\u0448\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Chersano",
+        "Kr\u0161an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197157,
+        "wk:page":"Kr%C5%A1an"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4eaf49a699b32e45cc001fcf0d070c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242801847,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1242801847,
+    "wof:lastmodified":1537625879,
+    "wof:name":"Krsan",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13861,
+    45.17333,
+    14.13861,
+    45.17333
+],
+  "geometry": {"coordinates":[14.13861,45.17333],"type":"Point"}
+}

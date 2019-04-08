@@ -1,0 +1,65 @@
+{
+  "id": 1226616953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.715,45.20944,16.715,45.20944",
+    "geom:latitude":45.20944,
+    "geom:longitude":16.715,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Milankovici",
+    "gn:country_code":"HR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278537,
+    "gn:latitude":45.20944,
+    "gn:longitude":16.715,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Milankovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278537
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"432afda4e3c9e931f8f610a8bb32068c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226616953,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1226616953,
+    "wof:lastmodified":1536900825,
+    "wof:name":"Milankovici",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.715,
+    45.20944,
+    16.715,
+    45.20944
+],
+  "geometry": {"coordinates":[16.715,45.20944],"type":"Point"}
+}

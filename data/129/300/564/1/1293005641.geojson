@@ -1,0 +1,69 @@
+{
+  "id": 1293005641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.375,45.42306,15.375,45.42306",
+    "geom:latitude":45.42306,
+    "geom:longitude":15.375,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049267.0",
+    "gn:asciiname":"Vodena Draga",
+    "gn:country_code":"HR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187500,
+    "gn:latitude":45.42306,
+    "gn:longitude":15.375,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Vodena Draga",
+    "gn:population":37,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187500
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"74fb1b759beef416da400adf4768a5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293005641,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1293005641,
+    "wof:lastmodified":1536983835,
+    "wof:name":"Vodena Draga",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":37,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.375,
+    45.42306,
+    15.375,
+    45.42306
+],
+  "geometry": {"coordinates":[15.375,45.42306],"type":"Point"}
+}

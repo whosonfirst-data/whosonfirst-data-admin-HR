@@ -1,0 +1,71 @@
+{
+  "id": 1226425261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.52265,43.37764,16.52265,43.37764",
+    "geom:latitude":43.37764,
+    "geom:longitude":16.52265,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"3203595.0",
+    "gn:asciiname":"Mirce",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195055,
+    "gn:latitude":43.37764,
+    "gn:longitude":16.52265,
+    "gn:modification_date":"2013-11-17",
+    "gn:name":"Mirce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mirca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195055,
+        "wk:page":"Mirca"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"68242c39feb560b9b789bffa2ae07748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226425261,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1226425261,
+    "wof:lastmodified":1537563289,
+    "wof:name":"Mirce",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.52265,
+    43.37764,
+    16.52265,
+    43.37764
+],
+  "geometry": {"coordinates":[16.52265,43.37764],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209220751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97361,45.16056,13.97361,45.16056",
+    "geom:latitude":45.16056,
+    "geom:longitude":13.97361,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"11054790.0",
+    "gn:asciiname":"Batlug",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204401,
+    "gn:latitude":45.16056,
+    "gn:longitude":13.97361,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Batlug",
+    "gn:population":127,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batlugo",
+        "Batlug"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204401,
+        "wk:page":"Batlug"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"11d552497b173b15990b85f604c41879",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209220751
+        }
+    ],
+    "wof:id":1209220751,
+    "wof:lastmodified":1537625936,
+    "wof:name":"Batlug",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":127,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97361,
+    45.16056,
+    13.97361,
+    45.16056
+],
+  "geometry": {"coordinates":[13.97361,45.16056],"type":"Point"}
+}

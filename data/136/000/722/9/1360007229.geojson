@@ -1,0 +1,69 @@
+{
+  "id": 1360007229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00905,46.10567,16.00905,46.10567",
+    "geom:latitude":46.10567,
+    "geom:longitude":16.00905,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11049192.0",
+    "gn:asciiname":"Veliki Komor",
+    "gn:country_code":"HR",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188061,
+    "gn:latitude":46.10567,
+    "gn:longitude":16.00905,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Veliki Komor",
+    "gn:population":397,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188061
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bc3dcda53837cd98376c4e8a629383c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360007229,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1360007229,
+    "wof:lastmodified":1537055602,
+    "wof:name":"Veliki Komor",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:population":397,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00905,
+    46.10567,
+    16.00905,
+    46.10567
+],
+  "geometry": {"coordinates":[16.00905,46.10567],"type":"Point"}
+}

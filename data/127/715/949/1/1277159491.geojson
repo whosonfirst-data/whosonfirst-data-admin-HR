@@ -1,0 +1,70 @@
+{
+  "id": 1277159491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25,46.33333,16.25,46.33333",
+    "geom:latitude":46.33333,
+    "geom:longitude":16.25,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"11049312.0",
+    "gn:asciiname":"Majerje",
+    "gn:country_code":"HR",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195911,
+    "gn:latitude":46.33333,
+    "gn:longitude":16.25,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Majerje",
+    "gn:population":757,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195911,
+        "wk:page":"Majerje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"800b51a497e66d6e85f006ca35536254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277159491,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1277159491,
+    "wof:lastmodified":1537563291,
+    "wof:name":"Majerje",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":757,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25,
+    46.33333,
+    16.25,
+    46.33333
+],
+  "geometry": {"coordinates":[16.25,46.33333],"type":"Point"}
+}

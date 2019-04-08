@@ -1,0 +1,113 @@
+{
+  "id": 101793487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":828169.027838,
+    "geom:bbox":"18.844995118,45.3069678509,18.8626089749,45.3176561204",
+    "geom:latitude":45.311452,
+    "geom:longitude":18.853934,
+    "gn:population":1467,
+    "iso:country":"HR",
+    "lbl:latitude":45.311448,
+    "lbl:longitude":18.853333,
+    "mps:latitude":45.311448,
+    "mps:longitude":18.853333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ceri\u0107"
+    ],
+    "name:dut_x_preferred":[
+        "Ceri\u0107"
+    ],
+    "name:eng_x_preferred":[
+        "Ceri\u0107"
+    ],
+    "name:hbs_x_preferred":[
+        "Ceri\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Ceri\u0107"
+    ],
+    "name:nld_x_preferred":[
+        "Ceri\u0107"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u0440\u0438\u0447"
+    ],
+    "name:slv_x_preferred":[
+        "Ceri\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u0440\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Ceri\u0107"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vukovarsko-srijemska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Nu\u0161tar",
+    "qs:la_lc":"*HR1602941",
+    "qs:level":"locality",
+    "qs:loc":"Ceri\u0107",
+    "qs:loc_alt":"Ceric",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":91,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202726,
+        "gp:id":847146,
+        "qs:id":1274908,
+        "qs_pg:id":1274908,
+        "wd:id":"Q2024770",
+        "wk:page":"Ceri\u0107"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6837c5df699a00269710ff2dff2f4648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793487,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":101793487,
+    "wof:lastmodified":1527689280,
+    "wof:name":"Ceri\u0107",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":1467,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.84499511795167,
+    45.30696785094528,
+    18.86260897486352,
+    45.31765612036753
+],
+  "geometry": {"coordinates":[[[18.8543208116381,45.31754932212351],[18.85403267959629,45.31576140011606],[18.85529907629029,45.31565459067286],[18.85515499930261,45.3147606304305],[18.85642137149159,45.31465380778764],[18.85627728049434,45.31375984871983],[18.86260897486352,45.31322551751282],[18.862464789466,45.31233156762767],[18.8599321651314,45.3125453417054],[18.85935564524198,45.30896951787633],[18.86062187923005,45.30886264644482],[18.86047774439231,45.30796869042149],[18.86174395388139,45.30786180579361],[18.86159980504237,45.30696785094528],[18.8476714795155,45.30814272393764],[18.84752755779243,45.30724874625696],[18.84499511795167,45.30746215795199],[18.84513899948485,45.30835613963001],[18.84640524169919,45.30824943938319],[18.8465491494095,45.30914341823643],[18.84781540732115,45.30903670079192],[18.84795934120996,45.3099306768201],[18.84922561481915,45.30982394217745],[18.84965751328139,45.3125058593053],[18.84839117937912,45.31261259994596],[18.84896704878923,45.31618848588033],[18.85023346309453,45.31608173724089],[18.85037746576387,45.31697570465906],[18.85291032137269,45.31676215777611],[18.85305437033549,45.31765612036753],[18.8543208116381,45.31754932212351]]],"type":"Polygon"}
+}

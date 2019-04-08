@@ -1,0 +1,74 @@
+{
+  "id": 1193099651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78194,44.375,14.78194,44.375",
+    "geom:latitude":44.375,
+    "geom:longitude":14.78194,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Olib",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194142,
+    "gn:latitude":44.375,
+    "gn:longitude":14.78194,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Olib",
+    "gn:population":140,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulbo",
+        "Olib"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194142,
+        "wk:page":"Olib"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7a8871c49f9eb38d2be5241a2965c117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193099651,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1193099651,
+    "wof:lastmodified":1537625853,
+    "wof:name":"Olib",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78194,
+    44.375,
+    14.78194,
+    44.375
+],
+  "geometry": {"coordinates":[14.78194,44.375],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 1125853185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.80139,45.79806,18.80139,45.79806",
+    "geom:latitude":45.79806,
+    "geom:longitude":18.80139,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":979,
+    "gn:population":853,
+    "iso:country":"HR",
+    "lbl:latitude":45.79806,
+    "lbl:longitude":18.80139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Zmajevac"
+    ],
+    "name:dut_x_preferred":[
+        "Zmajevac"
+    ],
+    "name:eng_x_preferred":[
+        "Zmajevac"
+    ],
+    "name:epo_x_preferred":[
+        "Zmajevac"
+    ],
+    "name:fre_x_preferred":[
+        "Zmajevac"
+    ],
+    "name:hrv_x_preferred":[
+        "Zmajevac"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00f6r\u00f6smart"
+    ],
+    "name:slv_x_preferred":[
+        "Zmajevac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u043c\u0430\u0458\u0435\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Zmajevac"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3186377,
+    "qs_pg:gn_pop":979,
+    "qs_pg:name":"Zmajevac",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581549,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186377,
+        "qs_pg:id":581549,
+        "wd:id":"Q902826"
+    },
+    "wof:country":"HR",
+    "wof:created":1497293501,
+    "wof:geomhash":"c4185754b43623ba424b512c5e2a19b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125853185,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1125853185,
+    "wof:lastmodified":1553816573,
+    "wof:name":"Zmajevac",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":853,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.80139,
+    45.79806,
+    18.80139,
+    45.79806
+],
+  "geometry": {"coordinates":[18.80139,45.79806],"type":"Point"}
+}

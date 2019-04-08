@@ -1,0 +1,107 @@
+{
+  "id": 101796895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":479139.224056,
+    "geom:bbox":"17.1383021861,43.4651110243,17.1561772565,43.4761024319",
+    "geom:latitude":43.470627,
+    "geom:longitude":17.148555,
+    "geonames:id":"3201412,3214736",
+    "iso:country":"HR",
+    "lbl:latitude":43.469085,
+    "lbl:longitude":17.150925,
+    "mps:latitude":43.469085,
+    "mps:longitude":17.150925,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Donji Prolo\u017eac"
+    ],
+    "name:cat_x_preferred":[
+        "Donji Prolo\u017eac"
+    ],
+    "name:dut_x_preferred":[
+        "Donji Prolo\u017eac"
+    ],
+    "name:eng_x_preferred":[
+        "Donji Prolo\u017eac"
+    ],
+    "name:hbs_x_preferred":[
+        "Donji Prolo\u017eac"
+    ],
+    "name:hrv_x_preferred":[
+        "Donji Prolo\u017eac"
+    ],
+    "name:hun_x_preferred":[
+        "Donji Prolo\u017eac"
+    ],
+    "name:slv_x_preferred":[
+        "Donji Prolo\u017eac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0438 \u041f\u0440\u043e\u043b\u043e\u0436\u0430\u0446"
+    ],
+    "name:unk_x_variant":[
+        "Prolo\u017eac Donji"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Prolo\u017eac",
+    "qs:la_lc":"*HR1700884",
+    "qs:level":"locality",
+    "qs:loc":"Donji Prolo\u017eac",
+    "qs:loc_alt":"Donji Prolozac",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201412,
+        "gp:id":847502,
+        "qs:id":1144955,
+        "wd:id":"Q3503931",
+        "wk:page":"Donji Prolo\u017eac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f94c16d7bc29e3a6c2a242bfec7f5e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101796895,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101796895,
+    "wof:lastmodified":1527642030,
+    "wof:name":"Donji Prolo\u017eac",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13830218605483,
+    43.4651110242666,
+    17.15617725653033,
+    43.47610243189064
+],
+  "geometry": {"coordinates":[[[17.14477559712776,43.47494734742401],[17.14466530133501,43.47404956531847],[17.14589383642965,43.47396377123727],[17.14578352649085,43.47306598983147],[17.14824054966067,43.47289436061538],[17.14813020691435,43.47199658144064],[17.15058717983493,43.47182489646718],[17.1504768042841,43.47092711952445],[17.15539063669479,43.47058357925016],[17.15494888114813,43.466992487678],[17.15617725653033,43.46690657198047],[17.15595636858706,43.4651110242666],[17.15349968921953,43.46528283482758],[17.15361009361521,43.46618061216611],[17.15238173042627,43.46626649692462],[17.15249212068659,43.46716427496301],[17.14880695575783,43.46742184561475],[17.14913798573474,43.4701151885252],[17.14790953498334,43.47020102059628],[17.14801986868889,43.47109880143421],[17.14433444106942,43.47135621401384],[17.14444472330609,43.47225399861355],[17.13830218605483,43.47268273313148],[17.13841237948697,43.4735805245503],[17.13964091205708,43.47349480552782],[17.13975112866996,43.47439259458588],[17.14097967667834,43.47430685932784],[17.14120016078579,43.47610243189064],[17.14242874289931,43.47601667886607],[17.14231847992011,43.47511889453051],[17.14477559712776,43.47494734742401]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1327456247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98694,44.58417,14.98694,44.58417",
+    "geom:latitude":44.58417,
+    "geom:longitude":14.98694,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049287.0",
+    "gn:asciiname":"Koromacina",
+    "gn:country_code":"HR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217323,
+    "gn:latitude":44.58417,
+    "gn:longitude":14.98694,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Koroma\u010dina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217323
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7159866ddb912bd680d99764112aaa75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327456247,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1327456247,
+    "wof:lastmodified":1536645923,
+    "wof:name":"Koromacina",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98694,
+    44.58417,
+    14.98694,
+    44.58417
+],
+  "geometry": {"coordinates":[14.98694,44.58417],"type":"Point"}
+}

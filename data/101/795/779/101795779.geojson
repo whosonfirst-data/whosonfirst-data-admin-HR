@@ -1,0 +1,183 @@
+{
+  "id": 101795779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":538937.681597,
+    "geom:bbox":"15.6746201085,44.1928878264,15.692057886,44.2022193862",
+    "geom:latitude":44.198432,
+    "geom:longitude":15.682393,
+    "gn:population":1060,
+    "iso:country":"HR",
+    "lbl:latitude":44.200266,
+    "lbl:longitude":15.682525,
+    "mps:latitude":44.200266,
+    "mps:longitude":15.682525,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Obrovac"
+    ],
+    "name:ces_x_preferred":[
+        "Obrovac"
+    ],
+    "name:chi_x_preferred":[
+        "\u5967\u5e03\u7f85\u74e6\u8328"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06c6\u0628\u0631\u06c6\u06a4\u0627\u062a\u0633"
+    ],
+    "name:cze_x_preferred":[
+        "Obrovac"
+    ],
+    "name:deu_x_preferred":[
+        "Obrovac"
+    ],
+    "name:dut_x_preferred":[
+        "Obrovac"
+    ],
+    "name:eng_x_preferred":[
+        "Obrovac"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0631\u0648\u0627\u062a\u0633\u060c \u06a9\u0631\u0648\u0627\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Obrovac"
+    ],
+    "name:fre_x_preferred":[
+        "Obrovac"
+    ],
+    "name:ger_x_preferred":[
+        "Obrovac"
+    ],
+    "name:hbs_x_preferred":[
+        "Obrovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Obrovac"
+    ],
+    "name:hun_x_preferred":[
+        "Obrovac"
+    ],
+    "name:ita_x_preferred":[
+        "Obrovazzo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30d6\u30ed\u30f4\u30a1\u30c4"
+    ],
+    "name:nld_x_preferred":[
+        "Obrovac"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0628\u0631\u0648\u0627\u062a\u0633\u060c \u06a9\u0631\u0648\u0627\u0633\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Obrovac"
+    ],
+    "name:por_x_preferred":[
+        "Obrovac"
+    ],
+    "name:ron_x_preferred":[
+        "Obrovac"
+    ],
+    "name:rum_x_preferred":[
+        "Obrovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0440\u043e\u0432\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Obrovac"
+    ],
+    "name:spa_x_preferred":[
+        "Obrovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0431\u0440\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Obrovac"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0431\u0440\u043e\u0432\u0430\u0442\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u0440\u043e\u0432\u0430\u0446"
+    ],
+    "name:unk_x_variant":[
+        "Obbrovazzo"
+    ],
+    "name:war_x_preferred":[
+        "Obrovac"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u5e03\u7f85\u74e6\u8328"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zadarska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Jasenice",
+    "qs:la_lc":"*HR1301678",
+    "qs:level":"locality",
+    "qs:loc":"Obrovac",
+    "qs:loc_alt":"Obrovac",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":44.199167,
+    "wd:longitude":15.681667,
+    "wd:wordcount":562,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194245,
+        "gp:id":849406,
+        "qs:id":907971,
+        "qs_pg:id":907971,
+        "wd:id":"Q988388",
+        "wk:page":"Obrovac, Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"beaa646c4ad5bb9e3c1bd4fb99fe22b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101795779,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":101795779,
+    "wof:lastmodified":1527714608,
+    "wof:name":"Obrovac",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":1060,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67462010848152,
+    44.19288782638222,
+    15.69205788600624,
+    44.20221938624661
+],
+  "geometry": {"coordinates":[[[15.68609910442746,44.20187741440429],[15.68591981010621,44.20007950259713],[15.68841094400875,44.19994261412484],[15.68832126356011,44.19904365963032],[15.69205788600624,44.19883821846508],[15.69196815097081,44.19793926699185],[15.68823158684052,44.19814470441128],[15.68814191385025,44.19724574846748],[15.68689640655509,44.19731419643955],[15.68698606010724,44.19821315363146],[15.6820039264029,44.19848680091246],[15.68173521018451,44.19578991219493],[15.68298068931057,44.19572152655542],[15.68289110525023,44.19482256344719],[15.68538201660351,44.19468574978475],[15.68520278191738,44.19288782638222],[15.68022110399284,44.19316138389644],[15.6804897283838,44.19585828287507],[15.67924424390895,44.19592663859601],[15.67942330657786,44.19772457011823],[15.67693225185445,44.19786124166518],[15.67702174989472,44.19876020883169],[15.67577619908377,44.19882852341073],[15.67586568140524,44.19972749109843],[15.67462010848152,44.19979579196274],[15.6747095750826,44.20069476017159],[15.67844634416059,44.20048980896041],[15.67853587280888,44.20138877270796],[15.67978147659613,44.2013204244696],[15.67987102841062,44.20221938624661],[15.68609910442746,44.20187741440429]]],"type":"Polygon"}
+}

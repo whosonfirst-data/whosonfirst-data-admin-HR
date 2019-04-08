@@ -1,0 +1,69 @@
+{
+  "id": 1193257213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71472,45.34444,16.71472,45.34444",
+    "geom:latitude":45.34444,
+    "geom:longitude":16.71472,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"11049233.0",
+    "gn:asciiname":"Crkveni Bok",
+    "gn:country_code":"HR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202499,
+    "gn:latitude":45.34444,
+    "gn:longitude":16.71472,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Crkveni Bok",
+    "gn:population":117,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202499
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"51772ad1a005a3cd418aea120f5c18cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193257213,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1193257213,
+    "wof:lastmodified":1536384581,
+    "wof:name":"Crkveni Bok",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":117,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71472,
+    45.34444000000001,
+    16.71472,
+    45.34444000000001
+],
+  "geometry": {"coordinates":[16.71472,45.34444000000001],"type":"Point"}
+}

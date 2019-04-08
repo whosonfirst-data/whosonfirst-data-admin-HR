@@ -1,0 +1,74 @@
+{
+  "id": 1343847773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.375,46.52694,16.375,46.52694",
+    "geom:latitude":46.52694,
+    "geom:longitude":16.375,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"11054884.0",
+    "gn:asciiname":"Sveti Martin na Muri",
+    "gn:country_code":"HR",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3189310,
+    "gn:latitude":46.52694,
+    "gn:longitude":16.375,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Sveti Martin na Muri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orm\u00f3s",
+        "Vrhovljan",
+        "Sveti Martin",
+        "Vrhovoljan",
+        "Sveti Martin na Muri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189310,
+        "wk:page":"Sveti_Martin_na_Muri"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"97e669dd85aaf4cd497ccfa29a9dc3e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343847773,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":1343847773,
+    "wof:lastmodified":1537625822,
+    "wof:name":"Sveti Martin na Muri",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.375,
+    46.52694,
+    16.375,
+    46.52694
+],
+  "geometry": {"coordinates":[16.375,46.52694],"type":"Point"}
+}

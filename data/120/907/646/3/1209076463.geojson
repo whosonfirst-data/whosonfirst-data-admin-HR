@@ -1,0 +1,61 @@
+{
+  "id": 1209076463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56639,43.66361,16.56639,43.66361",
+    "geom:latitude":43.66361,
+    "geom:longitude":16.56639,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Maretici",
+    "gn:country_code":"HR",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215083,
+    "gn:latitude":43.66361,
+    "gn:longitude":16.56639,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Mareti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215083
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"57fee44ec9a2b26187db15d41cd7971a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209076463
+        }
+    ],
+    "wof:id":1209076463,
+    "wof:lastmodified":1536298478,
+    "wof:name":"Maretici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56639,
+    43.66361,
+    16.56639,
+    43.66361
+],
+  "geometry": {"coordinates":[16.56639,43.66361],"type":"Point"}
+}

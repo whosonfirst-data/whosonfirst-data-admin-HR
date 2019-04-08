@@ -1,0 +1,69 @@
+{
+  "id": 1293172377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.30722,45.90333,17.30722,45.90333",
+    "geom:latitude":45.90333,
+    "geom:longitude":17.30722,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049469.0",
+    "gn:asciiname":"Rogovac",
+    "gn:country_code":"HR",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191565,
+    "gn:latitude":45.90333,
+    "gn:longitude":17.30722,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Rogovac",
+    "gn:population":228,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191565
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e763bc46c41b1a697d6d858f3d57c767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293172377,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1293172377,
+    "wof:lastmodified":1536744217,
+    "wof:name":"Rogovac",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":228,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.30722,
+    45.90333,
+    17.30722,
+    45.90333
+],
+  "geometry": {"coordinates":[17.30722,45.90333],"type":"Point"}
+}

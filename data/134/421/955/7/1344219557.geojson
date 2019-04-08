@@ -1,0 +1,65 @@
+{
+  "id": 1344219557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13667,44.02972,15.13667,44.02972",
+    "geom:latitude":44.02972,
+    "geom:longitude":15.13667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Makovac",
+    "gn:country_code":"HR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215730,
+    "gn:latitude":44.02972,
+    "gn:longitude":15.13667,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Makovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215730
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f1daf6f5c6072a5f1ff876500cdda003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344219557,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1344219557,
+    "wof:lastmodified":1536645641,
+    "wof:name":"Makovac",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13667,
+    44.02972000000001,
+    15.13667,
+    44.02972000000001
+],
+  "geometry": {"coordinates":[15.13667,44.02972000000001],"type":"Point"}
+}

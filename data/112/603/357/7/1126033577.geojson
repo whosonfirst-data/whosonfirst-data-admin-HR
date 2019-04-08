@@ -1,0 +1,208 @@
+{
+  "id": 1126033577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.59528,43.18472,16.59528,43.18472",
+    "geom:latitude":43.18472,
+    "geom:longitude":16.59528,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2817,
+    "gn:population":1885,
+    "iso:country":"HR",
+    "lbl:latitude":43.18472,
+    "lbl:longitude":16.59528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0442\u0430\u0440\u044b \u0413\u0440\u0430\u0434"
+    ],
+    "name:bos_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:chi_x_preferred":[
+        "\u65af\u5854\u91cc\u683c\u52d2"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u06cc \u06af\u0631\u0627\u062f"
+    ],
+    "name:cze_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:dut_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:eng_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u06cc \u06af\u0631\u0627\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:fre_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:ger_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05d0\u05e8\u05d9 \u05d2\u05e8\u05d0\u05d3"
+    ],
+    "name:hrv_x_preferred":[
+        "Starigrad"
+    ],
+    "name:hun_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:ita_x_preferred":[
+        "Cittavecchia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30bf\u30ea\u30fc\u30fb\u30b0\u30e9\u30fc\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud0c0\ub9ac\uadf8\ub77c\ub4dc"
+    ],
+    "name:lat_x_preferred":[
+        "Civitas Vetus"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0413\u0440\u0430\u0434"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0433\u0440\u0430\u0434"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u06cc \u06af\u0631\u0627\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:rum_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0413\u0440\u0430\u0434"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0438\u0433\u0440\u0430\u0434"
+    ],
+    "name:slo_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:slv_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:spa_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0413\u0440\u0430\u0434"
+    ],
+    "name:srp_x_variant":[
+        "Stari Grad"
+    ],
+    "name:swe_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438-\u0413\u0440\u0430\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u0439 \u0413\u0440\u0430\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Cittavecchia"
+    ],
+    "name:vie_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:war_x_preferred":[
+        "Stari Grad"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5854\u91cc\u683c\u52d2"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3189965,
+    "qs_pg:gn_pop":2817,
+    "qs_pg:name":"Starigrad",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Splitsko-Dalmatinska",
+    "qs_pg:photos":1457,
+    "qs_pg:photos_1k":295,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1457,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":147117,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850441,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Splitsko-Dalmatinska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189965,
+        "gp:id":850441,
+        "qs_pg:id":147117,
+        "wd:id":"Q220383"
+    },
+    "wof:country":"HR",
+    "wof:created":1497301635,
+    "wof:geomhash":"ae8d98683ffc2092e6958ae28635f2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126033577,
+            "region_id":85684785
+        }
+    ],
+    "wof:id":1126033577,
+    "wof:lastmodified":1514447654,
+    "wof:name":"Starigrad",
+    "wof:parent_id":85684785,
+    "wof:placetype":"locality",
+    "wof:population":1885,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.59528,
+    43.18472,
+    16.59528,
+    43.18472
+],
+  "geometry": {"coordinates":[16.59528,43.18472],"type":"Point"}
+}

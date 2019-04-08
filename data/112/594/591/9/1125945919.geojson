@@ -1,0 +1,107 @@
+{
+  "id": 1125945919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.56556,45.38444,18.56556,45.38444",
+    "geom:latitude":45.38444,
+    "geom:longitude":18.56556,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":974,
+    "gn:population":910,
+    "iso:country":"HR",
+    "lbl:latitude":45.38444,
+    "lbl:longitude":18.56556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Koritna"
+    ],
+    "name:dut_x_preferred":[
+        "Koritna"
+    ],
+    "name:eng_x_preferred":[
+        "Koritna"
+    ],
+    "name:hrv_x_preferred":[
+        "Koritna"
+    ],
+    "name:slv_x_preferred":[
+        "Koritna"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0440\u0438\u0442\u043d\u0430"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3197680,
+    "qs_pg:gn_pop":974,
+    "qs_pg:name":"Koritna",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Osje\u010dko-baranjska",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":11,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1285853,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":848513,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Osje\u010dko-baranjska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197680,
+        "gp:id":848513,
+        "qs_pg:id":1285853,
+        "wd:id":"Q2685743"
+    },
+    "wof:country":"HR",
+    "wof:created":1497297280,
+    "wof:geomhash":"214f07762b277578eef4b367f0169954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125945919,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1125945919,
+    "wof:lastmodified":1514447497,
+    "wof:name":"Koritna",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":910,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56556,
+    45.38444,
+    18.56556,
+    45.38444
+],
+  "geometry": {"coordinates":[18.56556,45.38444],"type":"Point"}
+}

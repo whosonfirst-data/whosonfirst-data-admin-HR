@@ -1,0 +1,69 @@
+{
+  "id": 1243268697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38333,45.11667,15.38333,45.11667",
+    "geom:latitude":45.11667,
+    "geom:longitude":15.38333,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049277.0",
+    "gn:asciiname":"Latin",
+    "gn:country_code":"HR",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196743,
+    "gn:latitude":45.11667,
+    "gn:longitude":15.38333,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Latin",
+    "gn:population":196,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196743
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2f98250d0a48f9c18c90e6280a56bd60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243268697,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1243268697,
+    "wof:lastmodified":1537059138,
+    "wof:name":"Latin",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":196,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38333,
+    45.11667,
+    15.38333,
+    45.11667
+],
+  "geometry": {"coordinates":[15.38333,45.11667],"type":"Point"}
+}

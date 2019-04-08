@@ -1,0 +1,69 @@
+{
+  "id": 1327014255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56056,46.40167,16.56056,46.40167",
+    "geom:latitude":46.40167,
+    "geom:longitude":16.56056,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"11054845.0",
+    "gn:asciiname":"Strelec",
+    "gn:country_code":"HR",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189736,
+    "gn:latitude":46.40167,
+    "gn:longitude":16.56056,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Strelec",
+    "gn:population":296,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189736
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4ad120ceabd789c25a78e2312a95f18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327014255,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":1327014255,
+    "wof:lastmodified":1536787179,
+    "wof:name":"Strelec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":296,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56056,
+    46.40167,
+    16.56056,
+    46.40167
+],
+  "geometry": {"coordinates":[16.56056,46.40167],"type":"Point"}
+}

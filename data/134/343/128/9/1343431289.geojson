@@ -1,0 +1,74 @@
+{
+  "id": 1343431289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.39649,43.70728,16.39649,43.70728",
+    "geom:latitude":43.70728,
+    "geom:longitude":16.39649,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"11054614.0",
+    "gn:asciiname":"Donje Postinje",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201542,
+    "gn:latitude":43.70728,
+    "gn:longitude":16.39649,
+    "gn:modification_date":"2017-01-01",
+    "gn:name":"Donje Postinje",
+    "gn:population":78,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Postinje Donje",
+        "Donje Postinje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201542
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"35056bf8a607c6824b536b58f6ef501d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343431289,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1343431289,
+    "wof:lastmodified":1537625916,
+    "wof:name":"Donje Postinje",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":78,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39649,
+    43.70728,
+    16.39649,
+    43.70728
+],
+  "geometry": {"coordinates":[16.39649,43.70728],"type":"Point"}
+}

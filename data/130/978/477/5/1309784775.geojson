@@ -1,0 +1,66 @@
+{
+  "id": 1309784775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.21667,45.35,16.21667,45.35",
+    "geom:latitude":45.35,
+    "geom:longitude":16.21667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3193419.0",
+    "gn:asciiname":"Luscani",
+    "gn:country_code":"HR",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196015,
+    "gn:latitude":45.35,
+    "gn:longitude":16.21667,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Lu\u0161\u0107ani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196015
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b0abd2097b0bd3952f2e0e5c418888f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309784775,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1309784775,
+    "wof:lastmodified":1536961326,
+    "wof:name":"Luscani",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21667,
+    45.35,
+    16.21667,
+    45.35
+],
+  "geometry": {"coordinates":[16.21667,45.35],"type":"Point"}
+}

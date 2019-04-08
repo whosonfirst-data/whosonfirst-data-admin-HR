@@ -1,0 +1,135 @@
+{
+  "id": 1125913371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86833,45.18361,13.86833,45.18361",
+    "geom:latitude":45.18361,
+    "geom:longitude":13.86833,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"HR",
+    "lbl:latitude":45.18361,
+    "lbl:longitude":13.86833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:dut_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:eng_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:fre_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:ger_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:hrv_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:hun_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:ita_x_preferred":[
+        "San Pietro in Selve"
+    ],
+    "name:lat_x_preferred":[
+        "Fanum Sancti Petri in Silvis"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Sveti Petar u \u0160umi"
+    ],
+    "name:slo_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:slv_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:spa_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u041f\u0435\u0442\u0430\u0440 \u0443 \u0428\u0443\u043c\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Petar u \u0160umi"
+    ],
+    "name:war_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3189285,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sveti Petar U \u00c5 Umi",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Istarska",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":478197,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850604,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Istarska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189285,
+        "gp:id":850604,
+        "qs_pg:id":478197,
+        "wd:id":"Q737437"
+    },
+    "wof:country":"HR",
+    "wof:created":1497296235,
+    "wof:geomhash":"1ba5df9dc5f1cf73229d62ceeffa0e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125913371,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1125913371,
+    "wof:lastmodified":1514447660,
+    "wof:name":"Sveti Petar U \u00c5 Umi",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86833,
+    45.18361,
+    13.86833,
+    45.18361
+],
+  "geometry": {"coordinates":[13.86833,45.18361],"type":"Point"}
+}

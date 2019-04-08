@@ -1,0 +1,74 @@
+{
+  "id": 1360047157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86667,45.6,15.86667,45.6",
+    "geom:latitude":45.6,
+    "geom:longitude":15.86667,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Podgorje Jamnicko",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193031,
+    "gn:latitude":45.6,
+    "gn:longitude":15.86667,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Podgorje Jamni\u010dko",
+    "gn:population":12,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jamni\u010dko Podorje",
+        "Podgorje",
+        "Podgorje Jamni\u010dko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193031
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c18729003382d2415010052d5800918b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360047157,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1360047157,
+    "wof:lastmodified":1537625847,
+    "wof:name":"Podgorje Jamnicko",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86667,
+    45.6,
+    15.86667,
+    45.6
+],
+  "geometry": {"coordinates":[15.86667,45.6],"type":"Point"}
+}

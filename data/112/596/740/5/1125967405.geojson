@@ -1,0 +1,89 @@
+{
+  "id": 1125967405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78333,45.86778,15.78333,45.86778",
+    "geom:latitude":45.86778,
+    "geom:longitude":15.78333,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2321,
+    "gn:population":2321,
+    "iso:country":"HR",
+    "lbl:latitude":45.86778,
+    "lbl:longitude":15.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Brdovec"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3203487,
+    "qs_pg:gn_pop":2321,
+    "qs_pg:name":"Brodarovec",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Vara\u017edinska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":509518,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":55855284,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Vara\u017edinska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203487,
+        "gp:id":55855284,
+        "qs_pg:id":509518
+    },
+    "wof:country":"HR",
+    "wof:created":1497298027,
+    "wof:geomhash":"e559c559ce895a8200ff8a2e57e63a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125967405,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1125967405,
+    "wof:lastmodified":1509403741,
+    "wof:name":"Brodarovec",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":2321,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78333,
+    45.86778,
+    15.78333,
+    45.86778
+],
+  "geometry": {"coordinates":[15.78333,45.86778],"type":"Point"}
+}

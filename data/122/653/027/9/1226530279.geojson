@@ -1,0 +1,73 @@
+{
+  "id": 1226530279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.35,45.45,17.35,45.45",
+    "geom:latitude":45.45,
+    "geom:longitude":17.35,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"3193705.0",
+    "gn:asciiname":"Kricke Zabrdske",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197289,
+    "gn:latitude":45.45,
+    "gn:longitude":17.35,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Kri\u010dke Zabrdske",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zabrdske Kri\u010dke",
+        "Kri\u010dke Zabrdski",
+        "Kri\u010dke",
+        "Kri\u010dke Zabrdske"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197289
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"81b8f179df3213a190347eaa06619637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226530279,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1226530279,
+    "wof:lastmodified":1537625880,
+    "wof:name":"Kricke Zabrdske",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35,
+    45.45,
+    17.35,
+    45.45
+],
+  "geometry": {"coordinates":[17.35,45.45],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 1126038041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.74,45.69722,18.74,45.69722",
+    "geom:latitude":45.69722,
+    "geom:longitude":18.74,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":899,
+    "gn:population":872,
+    "iso:country":"HR",
+    "lbl:latitude":45.69722,
+    "lbl:longitude":18.74,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Grabovac"
+    ],
+    "name:dut_x_preferred":[
+        "Grabovac"
+    ],
+    "name:eng_x_preferred":[
+        "Grabovac"
+    ],
+    "name:epo_x_preferred":[
+        "Grabovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Grabovac"
+    ],
+    "name:hun_x_preferred":[
+        "Albertfalu"
+    ],
+    "name:slv_x_preferred":[
+        "Grabovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u0431\u043e\u0432\u0430\u0446"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3199814,
+    "qs_pg:gn_pop":899,
+    "qs_pg:name":"Grabovac",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Osje\u010dko-baranjska",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":967046,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":847994,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Osje\u010dko-baranjska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199814,
+        "gp:id":847994,
+        "qs_pg:id":967046,
+        "wd:id":"Q2748675"
+    },
+    "wof:country":"HR",
+    "wof:created":1497301925,
+    "wof:geomhash":"3e211bc3db3c03bb8ecd3c48f1959f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126038041,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1126038041,
+    "wof:lastmodified":1514447444,
+    "wof:name":"Grabovac",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":872,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.74,
+    45.69722,
+    18.74,
+    45.69722
+],
+  "geometry": {"coordinates":[18.74,45.69722],"type":"Point"}
+}

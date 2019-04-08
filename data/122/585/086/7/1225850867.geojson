@@ -1,0 +1,73 @@
+{
+  "id": 1225850867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76083,45.36472,13.76083,45.36472",
+    "geom:latitude":45.36472,
+    "geom:longitude":13.76083,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054800.0",
+    "gn:asciiname":"Kostanjica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197579,
+    "gn:latitude":45.36472,
+    "gn:longitude":13.76083,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Kostanjica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Castagna",
+        "Kostanjevica",
+        "Kostanje",
+        "Kostanjica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197579
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b00ba43522dcf1358ae1e85b5ef177c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225850867,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1225850867,
+    "wof:lastmodified":1537625883,
+    "wof:name":"Kostanjica",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76083,
+    45.36472,
+    13.76083,
+    45.36472
+],
+  "geometry": {"coordinates":[13.76083,45.36472],"type":"Point"}
+}

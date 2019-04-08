@@ -1,0 +1,69 @@
+{
+  "id": 1360188745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.81667,45.9,16.81667,45.9",
+    "geom:latitude":45.9,
+    "geom:longitude":16.81667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"3203981.0",
+    "gn:asciiname":"Stare Plavnice",
+    "gn:country_code":"HR",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189981,
+    "gn:latitude":45.9,
+    "gn:longitude":16.81667,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Stare Plavnice",
+    "gn:population":673,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189981
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"10f6fe36ff02fe26c684800f949cf277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360188745,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1360188745,
+    "wof:lastmodified":1536796305,
+    "wof:name":"Stare Plavnice",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":673,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.81667,
+    45.9,
+    16.81667,
+    45.9
+],
+  "geometry": {"coordinates":[16.81667,45.9],"type":"Point"}
+}

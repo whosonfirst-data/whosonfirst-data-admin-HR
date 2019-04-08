@@ -1,0 +1,108 @@
+{
+  "id": 1125958935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.29417,46.20972,16.29417,46.20972",
+    "geom:latitude":46.20972,
+    "geom:longitude":16.29417,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":810,
+    "gn:population":737,
+    "iso:country":"HR",
+    "lbl:latitude":46.20972,
+    "lbl:longitude":16.29417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Podev\u010devo"
+    ],
+    "name:dut_x_preferred":[
+        "Podev\u010devo"
+    ],
+    "name:eng_x_preferred":[
+        "Podev\u010devo"
+    ],
+    "name:hrv_x_preferred":[
+        "Podev\u010devo"
+    ],
+    "name:hun_x_preferred":[
+        "Podev\u010devo"
+    ],
+    "name:slv_x_preferred":[
+        "Podev\u010devo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0435\u0432\u0447\u0435\u0432\u043e"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3193072,
+    "qs_pg:gn_pop":810,
+    "qs_pg:name":"Podev\u010devo",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Vara\u017edinska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":407481,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":849667,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Vara\u017edinska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193072,
+        "gp:id":849667,
+        "qs_pg:id":407481,
+        "wd:id":"Q752631"
+    },
+    "wof:country":"HR",
+    "wof:created":1497297724,
+    "wof:geomhash":"e2fff1301f59232cf15b4bd94f2914de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125958935,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1125958935,
+    "wof:lastmodified":1514447572,
+    "wof:name":"Podev\u010devo",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":737,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.29417,
+    46.20972,
+    16.29417,
+    46.20972
+],
+  "geometry": {"coordinates":[16.29417,46.20972],"type":"Point"}
+}

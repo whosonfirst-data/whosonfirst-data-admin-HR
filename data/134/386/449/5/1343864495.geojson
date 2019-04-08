@@ -1,0 +1,75 @@
+{
+  "id": 1343864495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.97361,45.0075,13.97361,45.0075",
+    "geom:latitude":45.0075,
+    "geom:longitude":13.97361,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054746.0",
+    "gn:asciiname":"Manjadvorci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195531,
+    "gn:latitude":45.0075,
+    "gn:longitude":13.97361,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Manjadvorci",
+    "gn:population":187,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magnaduorzi",
+        "Maladvorci",
+        "Manjadvorci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195531
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1949366db58f8bc6ec74013c80375c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343864495,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1343864495,
+    "wof:lastmodified":1537625866,
+    "wof:name":"Manjadvorci",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":187,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.97361,
+    45.0075,
+    13.97361,
+    45.0075
+],
+  "geometry": {"coordinates":[13.97361,45.0075],"type":"Point"}
+}

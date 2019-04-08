@@ -1,0 +1,71 @@
+{
+  "id": 1209936531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69611,44.6975,15.69611,44.6975",
+    "geom:latitude":44.6975,
+    "geom:longitude":15.69611,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049294.0",
+    "gn:asciiname":"Pejnovici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217495,
+    "gn:latitude":44.6975,
+    "gn:longitude":15.69611,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Pejnovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pejnovi\u0107",
+        "Pejnovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217495
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"53f64f6b3ca651b464145d98100aa855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209936531,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1209936531,
+    "wof:lastmodified":1537625954,
+    "wof:name":"Pejnovici",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69611,
+    44.6975,
+    15.69611,
+    44.6975
+],
+  "geometry": {"coordinates":[15.69611,44.6975],"type":"Point"}
+}

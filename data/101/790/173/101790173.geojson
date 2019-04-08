@@ -1,0 +1,110 @@
+{
+  "id": 101790173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:bbox":"16.3965413179,46.488367685,16.4044336294,46.4981541237",
+    "geom:latitude":46.49334,
+    "geom:longitude":16.400023,
+    "iso:country":"HR",
+    "lbl:latitude":46.493762,
+    "lbl:longitude":16.400082,
+    "mps:latitude":46.493762,
+    "mps:longitude":16.400082,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Selnica"
+    ],
+    "name:ces_x_preferred":[
+        "Selnica"
+    ],
+    "name:epo_x_preferred":[
+        "Selnica"
+    ],
+    "name:fra_x_preferred":[
+        "Selnica"
+    ],
+    "name:hbs_x_preferred":[
+        "Selnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Selnica"
+    ],
+    "name:hun_x_preferred":[
+        "Szelence"
+    ],
+    "name:ita_x_preferred":[
+        "Selnica"
+    ],
+    "name:nld_x_preferred":[
+        "Selnica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Selnica"
+    ],
+    "name:unk_x_variant":[
+        "Szelenczehegy"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Medimurska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Selnica",
+    "qs:la_lc":"*HR2003859",
+    "qs:level":"locality",
+    "qs:loc":"Selnica",
+    "qs:loc_alt":"Selnica",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":127,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191097,
+        "gp:id":850156,
+        "qs:id":1275516,
+        "qs_pg:id":1043936,
+        "wd:id":"Q1194710",
+        "wk:page":"Selnica, Me\u0111imurje County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b3ead4c1cacb9b01909d2d65136e1990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101790173,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":101790173,
+    "wof:lastmodified":1527641598,
+    "wof:name":"Selnica",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39654131785755,
+    46.48836768495039,
+    16.40443362944865,
+    46.49815412367769
+],
+  "geometry": {"coordinates":[[[16.40237836999074,46.49807658866069],[16.40194671245098,46.49448971558763],[16.40324414558046,46.49441217092436],[16.40313622131964,46.49351545260538],[16.40443362944865,46.49343789377667],[16.40432568828669,46.4925411763416],[16.40302830174414,46.49261873366362],[16.40292038685345,46.49172201409851],[16.40032564670304,46.49187707871442],[16.400002059641,46.48918690724287],[16.39870474920241,46.48926441152622],[16.39859691779458,46.48836768495039],[16.39729962552877,46.4884451720576],[16.3978387214558,46.49292880623335],[16.39654131785755,46.49300628519597],[16.3967569458182,46.49479973751687],[16.3980543925926,46.49472225554331],[16.39816223518307,46.49561897926435],[16.3994597001365,46.49554148011237],[16.39967544254534,46.49733492267427],[16.40097294726786,46.49725740483717],[16.40108084708919,46.49815412367769],[16.40237836999074,46.49807658866069]]],"type":"Polygon"}
+}

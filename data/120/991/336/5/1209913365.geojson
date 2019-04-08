@@ -1,0 +1,73 @@
+{
+  "id": 1209913365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4,45.63333,15.4,45.63333",
+    "geom:latitude":45.63333,
+    "geom:longitude":15.4,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Veliki Vrh Kamanjski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187960,
+    "gn:latitude":45.63333,
+    "gn:longitude":15.4,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Veliki Vrh Kamanjski",
+    "gn:population":65,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veliki Vrh",
+        "Veliki Vrh Kamanjski"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187960
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6872a98bb2fcae453391ffa793b0d6b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209913365,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1209913365,
+    "wof:lastmodified":1537625812,
+    "wof:name":"Veliki Vrh Kamanjski",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4,
+    45.63333,
+    15.4,
+    45.63333
+],
+  "geometry": {"coordinates":[15.4,45.63333],"type":"Point"}
+}

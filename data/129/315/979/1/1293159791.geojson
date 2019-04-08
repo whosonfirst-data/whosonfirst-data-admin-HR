@@ -1,0 +1,66 @@
+{
+  "id": 1293159791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89121,45.66763,15.89121,45.66763",
+    "geom:latitude":45.66763,
+    "geom:longitude":15.89121,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Brebernica",
+    "gn:country_code":"HR",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203486,
+    "gn:latitude":45.66763,
+    "gn:longitude":15.89121,
+    "gn:modification_date":"2017-01-03",
+    "gn:name":"Brebernica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203486,
+        "wk:page":"Brebernica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9c449e2f9afbb59886b94eccaa0bf8f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293159791,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1293159791,
+    "wof:lastmodified":1537563309,
+    "wof:name":"Brebernica",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89121,
+    45.66763,
+    15.89121,
+    45.66763
+],
+  "geometry": {"coordinates":[15.89121,45.66763],"type":"Point"}
+}

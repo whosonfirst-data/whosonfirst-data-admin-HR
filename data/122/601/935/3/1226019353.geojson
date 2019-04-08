@@ -1,0 +1,74 @@
+{
+  "id": 1226019353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23333,45.98333,16.23333,45.98333",
+    "geom:latitude":45.98333,
+    "geom:longitude":16.23333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"3186602.0",
+    "gn:asciiname":"Gornja Toplicica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200174,
+    "gn:latitude":45.98333,
+    "gn:longitude":16.23333,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Gornja Topli\u010dica",
+    "gn:population":157,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Topli\u010dica Gornja",
+        "Gornja Topli\u010dica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200174
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2f34f096e86993774493835375d25b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226019353,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1226019353,
+    "wof:lastmodified":1537625903,
+    "wof:name":"Gornja Toplicica",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":157,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23333,
+    45.98333,
+    16.23333,
+    45.98333
+],
+  "geometry": {"coordinates":[16.23333,45.98333],"type":"Point"}
+}

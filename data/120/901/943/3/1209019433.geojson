@@ -1,0 +1,73 @@
+{
+  "id": 1209019433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90699,46.08335,15.90699,46.08335",
+    "geom:latitude":46.08335,
+    "geom:longitude":15.90699,
+    "gn:asciiname":"Sveti Kriz Zacretje",
+    "gn:country_code":"HR",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8505061,
+    "gn:latitude":46.08335,
+    "gn:longitude":15.90699,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Sveti Kri\u017e Za\u010dretje",
+    "gn:population":897,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Comuna Sveti Kri\u017e Za\u010dretje"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438-\u041a\u0440\u0438\u0436-\u0417\u0430\u0447\u0440\u0435\u0442\u044c\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u041a\u0440\u0438\u0436 \u0417\u0430\u0447\u0440\u0435\u0442\u0458\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8505061,
+        "wk:page":"Sveti_Kri%C5%BE_Za%C4%8Dretje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"47fe470745117391ca4c5acfa6ad7b8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209019433
+        }
+    ],
+    "wof:id":1209019433,
+    "wof:lastmodified":1537625967,
+    "wof:name":"Sveti Kriz Zacretje",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":897,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90699,
+    46.08335,
+    15.90699,
+    46.08335
+],
+  "geometry": {"coordinates":[15.90699,46.08335],"type":"Point"}
+}

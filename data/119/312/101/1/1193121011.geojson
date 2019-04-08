@@ -1,0 +1,73 @@
+{
+  "id": 1193121011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.66194,45.66278,18.66194,45.66278",
+    "geom:latitude":45.66278,
+    "geom:longitude":18.66194,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054454.0",
+    "gn:asciiname":"Ugljes",
+    "gn:country_code":"HR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188534,
+    "gn:latitude":45.66278,
+    "gn:longitude":18.66194,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Uglje\u0161",
+    "gn:population":507,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uglje\u0161"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188534,
+        "wk:page":"Uglje%C5%A1"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d0a5c52f488cf484faf076e3c78a542c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193121011,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1193121011,
+    "wof:lastmodified":1537625816,
+    "wof:name":"Ugljes",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":507,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66194,
+    45.66278,
+    18.66194,
+    45.66278
+],
+  "geometry": {"coordinates":[18.66194,45.66278],"type":"Point"}
+}

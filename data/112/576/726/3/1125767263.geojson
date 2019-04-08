@@ -1,0 +1,111 @@
+{
+  "id": 1125767263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87722,44.59806,14.87722,44.59806",
+    "geom:latitude":44.59806,
+    "geom:longitude":14.87722,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"HR",
+    "lbl:latitude":44.59806,
+    "lbl:longitude":14.87722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Stara Novalja"
+    ],
+    "name:dut_x_preferred":[
+        "Stara Novalja"
+    ],
+    "name:eng_x_preferred":[
+        "Stara Novalja"
+    ],
+    "name:hrv_x_preferred":[
+        "Stara Novalja"
+    ],
+    "name:hun_x_preferred":[
+        "Stara Novalja"
+    ],
+    "name:slv_x_preferred":[
+        "Stara Novalja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041d\u043e\u0432\u0430\u0459\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Novaglia Vecchia"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3190004,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Stara Novalja",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Li\u010dko-senjska",
+    "qs_pg:photos":58,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":58,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":894631,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850414,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Li\u010dko-senjska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190004,
+        "gp:id":850414,
+        "qs_pg:id":894631,
+        "wd:id":"Q3513285"
+    },
+    "wof:country":"HR",
+    "wof:created":1497289943,
+    "wof:geomhash":"6986f36864025408472962327a70b6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125767263,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1125767263,
+    "wof:lastmodified":1514447653,
+    "wof:name":"Stara Novalja",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87722,
+    44.59806,
+    14.87722,
+    44.59806
+],
+  "geometry": {"coordinates":[14.87722,44.59806],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125935003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30808,44.509177,14.30808,44.509177",
+    "geom:latitude":44.509177,
+    "geom:longitude":14.30808,
+    "gn:gn_country":"HR",
+    "iso:country":"HR",
+    "lbl:latitude":44.509177,
+    "lbl:longitude":14.30808,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:name":"Susak",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Primorsko-Goranska",
+    "qs_pg:photos":137,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":137,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":228867,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850546,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Primorsko-Goranska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":850546,
+        "qs_pg:id":228867
+    },
+    "wof:country":"HR",
+    "wof:created":1497296937,
+    "wof:geomhash":"da934f0d4bcbe0927f183a7fd1aec6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125935003,
+            "region_id":85684785
+        }
+    ],
+    "wof:id":1125935003,
+    "wof:lastmodified":1509401644,
+    "wof:name":"Susak",
+    "wof:parent_id":85684785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30808,
+    44.509177,
+    14.30808,
+    44.509177
+],
+  "geometry": {"coordinates":[14.30808,44.509177],"type":"Point"}
+}

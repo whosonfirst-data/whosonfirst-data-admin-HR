@@ -1,0 +1,167 @@
+{
+  "id": 101792341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":1017809.193928,
+    "geom:bbox":"15.1164563292,44.9924193605,15.1403631364,45.0064312942",
+    "geom:latitude":44.998463,
+    "geom:longitude":15.128347,
+    "geonames:id":"3203298,3273977",
+    "gn:population":1715,
+    "iso:country":"HR",
+    "lbl:latitude":44.998062,
+    "lbl:longitude":15.128166,
+    "mps:latitude":44.998062,
+    "mps:longitude":15.128166,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Brinje"
+    ],
+    "name:ces_x_preferred":[
+        "Brinje"
+    ],
+    "name:cze_x_preferred":[
+        "Brinje"
+    ],
+    "name:deu_x_preferred":[
+        "Brinje"
+    ],
+    "name:dut_x_preferred":[
+        "Brinje"
+    ],
+    "name:eng_x_preferred":[
+        "Brinje"
+    ],
+    "name:epo_x_preferred":[
+        "Brinje"
+    ],
+    "name:fra_x_preferred":[
+        "Brinje"
+    ],
+    "name:fre_x_preferred":[
+        "Brinje"
+    ],
+    "name:ger_x_preferred":[
+        "Brinje"
+    ],
+    "name:hbs_x_preferred":[
+        "Brinje"
+    ],
+    "name:hrv_x_preferred":[
+        "Brinje"
+    ],
+    "name:hun_x_preferred":[
+        "Brinje"
+    ],
+    "name:ita_x_preferred":[
+        "Brinje"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ea\u30cb\u30a7"
+    ],
+    "name:nld_x_preferred":[
+        "Brinje"
+    ],
+    "name:pol_x_preferred":[
+        "Brinje"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Brinje"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Brinje"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0438\u043d\u044c\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Brinje"
+    ],
+    "name:slo_x_preferred":[
+        "Brinje"
+    ],
+    "name:slv_x_preferred":[
+        "Brinje"
+    ],
+    "name:spa_x_preferred":[
+        "Brinje"
+    ],
+    "name:srd_x_preferred":[
+        "Br\u00ecgne"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0438\u045a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Brinje"
+    ],
+    "name:war_x_preferred":[
+        "Brinje"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Licko-senjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Brinje",
+    "qs:la_lc":"*HR0900370",
+    "qs:level":"locality",
+    "qs:loc":"Brinje",
+    "qs:loc_alt":"Brinje",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":226,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203298,
+        "gp:id":847005,
+        "qs:id":147311,
+        "qs_pg:id":147311,
+        "wd:id":"Q283566",
+        "wk:page":"Brinje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"136e0733b09dd90ec25164da4391bb68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101792341,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":101792341,
+    "wof:lastmodified":1527714636,
+    "wof:name":"Brinje",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":1715,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11645632920585,
+    44.99241936050487,
+    15.14036313643908,
+    45.00643129423565
+],
+  "geometry": {"coordinates":[[[15.13918216241473,45.00636930669043],[15.13909922273297,45.00547034848887],[15.14036313643908,45.00540834687826],[15.14019722712504,45.00361043082097],[15.13893335387758,45.0036724301184],[15.138850424704,45.00277346994915],[15.1375865691565,45.00283545286896],[15.13742076177022,45.00103752825015],[15.13615694414898,45.00109949363713],[15.13599119121812,44.99930156408254],[15.13346362929838,44.99942544457366],[15.13338079853156,44.99852647650158],[15.13085326696034,44.99865029380339],[15.1304393678148,44.99415543205498],[15.12917569935496,44.99421731210526],[15.12901020460373,44.99241936050487],[15.12648294099699,44.99254307033567],[15.12656564618652,44.99344204877099],[15.11645632920585,44.99393628858951],[15.11662142651983,44.99573426192825],[15.11788514040001,44.99567253291309],[15.11796771450918,44.99657151744776],[15.11923144609523,44.9965097720617],[15.11931404391572,44.99740875478903],[15.12057779320742,44.99734699303173],[15.12074303976357,44.99914495421575],[15.12579817353435,44.99889774576934],[15.12604631226134,45.00159466879433],[15.13110164840072,45.00134720298064],[15.13118444920804,45.00224617139486],[15.13244829716052,45.0021842657352],[15.13253112169281,45.00308323233861],[15.13379498734832,45.00302131030276],[15.13396068736648,45.00481923923223],[15.13648849201547,45.00469534487502],[15.13657138773419,45.00559430604505],[15.13783530649761,45.00553233487801],[15.13791822594885,45.00643129423565],[15.13918216241473,45.00636930669043]]],"type":"Polygon"}
+}

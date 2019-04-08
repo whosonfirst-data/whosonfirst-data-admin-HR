@@ -1,0 +1,71 @@
+{
+  "id": 1209891287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39917,43.93139,15.39917,43.93139",
+    "geom:latitude":43.93139,
+    "geom:longitude":15.39917,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11054333.0",
+    "gn:asciiname":"Ugrinici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188528,
+    "gn:latitude":43.93139,
+    "gn:longitude":15.39917,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Ugrini\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ugrini\u0107",
+        "Ugrini\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188528
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fbe7f1679a9f8fa1532cb4477d44172d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209891287,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1209891287,
+    "wof:lastmodified":1537625816,
+    "wof:name":"Ugrinici",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39917,
+    43.93139,
+    15.39917,
+    43.93139
+],
+  "geometry": {"coordinates":[15.39917,43.93139],"type":"Point"}
+}

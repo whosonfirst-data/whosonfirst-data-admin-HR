@@ -1,0 +1,66 @@
+{
+  "id": 1242565599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.52194,45.41472,17.52194,45.41472",
+    "geom:latitude":45.41472,
+    "geom:longitude":17.52194,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049472.0",
+    "gn:asciiname":"Podsrece",
+    "gn:country_code":"HR",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3192918,
+    "gn:latitude":45.41472,
+    "gn:longitude":17.52194,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Podsre\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192918
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5fffdf86b9b7de5d7c5ed14d9ca8137f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242565599,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1242565599,
+    "wof:lastmodified":1537077839,
+    "wof:name":"Podsrece",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52194,
+    45.41472,
+    17.52194,
+    45.41472
+],
+  "geometry": {"coordinates":[17.52194,45.41472],"type":"Point"}
+}

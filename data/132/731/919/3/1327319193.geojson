@@ -1,0 +1,65 @@
+{
+  "id": 1327319193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28,44.83472,15.28,44.83472",
+    "geom:latitude":44.83472,
+    "geom:longitude":15.28,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cvitkovici",
+    "gn:country_code":"HR",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273690,
+    "gn:latitude":44.83472,
+    "gn:longitude":15.28,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Cvitkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273690
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f57ac9b4277bd60649c2211d9257fd33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327319193,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1327319193,
+    "wof:lastmodified":1536843312,
+    "wof:name":"Cvitkovici",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28,
+    44.83472,
+    15.28,
+    44.83472
+],
+  "geometry": {"coordinates":[15.28,44.83472],"type":"Point"}
+}

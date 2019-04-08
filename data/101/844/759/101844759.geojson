@@ -1,0 +1,140 @@
+{
+  "id": 101844759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000157,
+    "geom:area_square_m":1397286.004613,
+    "geom:bbox":"15.3838934409,44.0581659956,15.4023416169,44.0794999183",
+    "geom:latitude":44.070428,
+    "geom:longitude":15.39515,
+    "gn:population":1196,
+    "iso:country":"HR",
+    "lbl:latitude":44.07233,
+    "lbl:longitude":15.395289,
+    "mps:latitude":44.07233,
+    "mps:longitude":15.395289,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Galovac"
+    ],
+    "name:deu_x_preferred":[
+        "Galovac"
+    ],
+    "name:dut_x_preferred":[
+        "Galovac"
+    ],
+    "name:eng_x_preferred":[
+        "Galovac"
+    ],
+    "name:fra_x_preferred":[
+        "Galovac"
+    ],
+    "name:fre_x_preferred":[
+        "Galovac"
+    ],
+    "name:ger_x_preferred":[
+        "Galovac"
+    ],
+    "name:hbs_x_preferred":[
+        "Galovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Galovac"
+    ],
+    "name:hun_x_preferred":[
+        "Galovac"
+    ],
+    "name:ita_x_preferred":[
+        "Galovac"
+    ],
+    "name:nld_x_preferred":[
+        "Galovac"
+    ],
+    "name:por_x_preferred":[
+        "Galovac"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Galovac"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Galovac"
+    ],
+    "name:spa_x_preferred":[
+        "Galovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u043b\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Galovac"
+    ],
+    "name:war_x_preferred":[
+        "Galovac"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zadarska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Suko\u0161an",
+    "qs:la_lc":"*HR1304251",
+    "qs:level":"locality",
+    "qs:loc":"Galovac",
+    "qs:loc_alt":"Galovac",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200731,
+        "gp:id":847697,
+        "qs:id":147277,
+        "qs_pg:id":147277,
+        "wd:id":"Q1277243",
+        "wk:page":"Galovac, Zadar County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"640496e8a87f0e92cd98d67fed96f04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844759,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":101844759,
+    "wof:lastmodified":1527642627,
+    "wof:name":"Galovac",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":1196,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38389344087915,
+    44.05816599558648,
+    15.40234161694468,
+    44.07949991831816
+],
+  "geometry": {"coordinates":[[[15.39152203944388,44.07937021165122],[15.391437328883,44.07847087135247],[15.39268053623891,44.07840599680122],[15.39259580983736,44.0775066569613],[15.39383899531316,44.07744176865873],[15.3937542530731,44.07654242927799],[15.4012131967728,44.07615279300256],[15.40095864279562,44.07345479178196],[15.40220173317857,44.07338980369093],[15.40211686954461,44.07249046968991],[15.40087379851286,44.07255545659979],[15.40078895775144,44.07165612069662],[15.39954590354341,44.07172109149656],[15.39886745896223,44.06452636886166],[15.40011035839467,44.06446140750643],[15.40002554931402,44.0635620651114],[15.40126842687806,44.06349709001017],[15.40109878058996,44.06169840541656],[15.40234161694468,44.06163341775061],[15.40208711588872,44.05893538898931],[15.39960155669343,44.05906534231173],[15.39951676872442,44.05816599558648],[15.39578846901691,44.05836081009267],[15.39638165252364,44.06465624679208],[15.39513874551898,44.06472116336698],[15.39530821947989,44.066519855433],[15.39406527126158,44.06658475943999],[15.39414999417079,44.06748410557071],[15.39290702408306,44.06754899582938],[15.39299173116046,44.06844834241821],[15.39174873920314,44.06851321892827],[15.39191812520698,44.07031191230084],[15.39067509203016,44.07037677624044],[15.39075977095467,44.07127612302435],[15.38951671590553,44.07134097321392],[15.38968604559466,44.07313966697677],[15.38844294932164,44.07320450459417],[15.38861225436023,44.07500319783151],[15.38736911685942,44.07506802287588],[15.3874537552947,44.07596736959226],[15.38621059591833,44.07603218088445],[15.38629521851118,44.07693152805859],[15.38505203725902,44.0769963255982],[15.38513664400801,44.07789567322993],[15.38389344087915,44.07796045701645],[15.38397803178248,44.07885980510594],[15.38895090660247,44.07860057566148],[15.38903557844856,44.07949991831816],[15.39152203944388,44.07937021165122]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1259685907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.48222,42.995,17.48222,42.995",
+    "geom:latitude":42.995,
+    "geom:longitude":17.48222,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"11054963.0",
+    "gn:asciiname":"Postinje",
+    "gn:country_code":"HR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214594,
+    "gn:latitude":42.995,
+    "gn:longitude":17.48222,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Postinje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214594
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"adb4ab7e84015ea4453329887637417d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259685907,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1259685907,
+    "wof:lastmodified":1537060812,
+    "wof:name":"Postinje",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.48222,
+    42.995,
+    17.48222,
+    42.995
+],
+  "geometry": {"coordinates":[17.48222,42.995],"type":"Point"}
+}

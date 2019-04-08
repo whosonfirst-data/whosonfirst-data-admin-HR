@@ -1,0 +1,70 @@
+{
+  "id": 1293680947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70354,46.09841,15.70354,46.09841",
+    "geom:latitude":46.09841,
+    "geom:longitude":15.70354,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ravnice-Desinicke",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213519,
+    "gn:latitude":46.09841,
+    "gn:longitude":15.70354,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Ravnice-Desini\u0107ke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ravnice",
+        "Ravnice-Desini\u0107ke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213519
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"be03f71aaff1846b4578e5ee794701ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293680947,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1293680947,
+    "wof:lastmodified":1537625944,
+    "wof:name":"Ravnice-Desinicke",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70354,
+    46.09841,
+    15.70354,
+    46.09841
+],
+  "geometry": {"coordinates":[15.70354,46.09841],"type":"Point"}
+}

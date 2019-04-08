@@ -1,0 +1,68 @@
+{
+  "id": 1276844729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0,45.71667,16.0,45.71667",
+    "geom:latitude":45.71667,
+    "geom:longitude":16.0,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Gornja Lomnica",
+    "gn:country_code":"HR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200231,
+    "gn:latitude":45.71667,
+    "gn:longitude":16.0,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Gornja Lomnica",
+    "gn:population":580,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200231
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8b79f2ab2d2f0934673c6522710ec4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276844729,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1276844729,
+    "wof:lastmodified":1537085064,
+    "wof:name":"Gornja Lomnica",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":580,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0,
+    45.71667,
+    16.0,
+    45.71667
+],
+  "geometry": {"coordinates":[16.0,45.71667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209128865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36667,45.65,15.36667,45.65",
+    "geom:latitude":45.65,
+    "geom:longitude":15.36667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bubnjarci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203171,
+    "gn:latitude":45.65,
+    "gn:longitude":15.36667,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Bubnjarci",
+    "gn:population":210,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bubljarci",
+        "Bubnjarci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203171,
+        "wk:page":"Bubnjarci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"16120f4de7387001502ddc02e82957ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209128865
+        }
+    ],
+    "wof:id":1209128865,
+    "wof:lastmodified":1537625928,
+    "wof:name":"Bubnjarci",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36667,
+    45.65,
+    15.36667,
+    45.65
+],
+  "geometry": {"coordinates":[15.36667,45.65],"type":"Point"}
+}

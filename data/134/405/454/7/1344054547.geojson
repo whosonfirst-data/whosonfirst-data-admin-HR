@@ -1,0 +1,69 @@
+{
+  "id": 1344054547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.65,46.15,16.65,46.15",
+    "geom:latitude":46.15,
+    "geom:longitude":16.65,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049389.0",
+    "gn:asciiname":"Veliki Grabicani",
+    "gn:country_code":"HR",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188079,
+    "gn:latitude":46.15,
+    "gn:longitude":16.65,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Veliki Grabi\u010dani",
+    "gn:population":103,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188079
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e541a5118edb2b89f3c2ba38121345b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344054547,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1344054547,
+    "wof:lastmodified":1536883570,
+    "wof:name":"Veliki Grabicani",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":103,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.65,
+    46.15,
+    16.65,
+    46.15
+],
+  "geometry": {"coordinates":[16.65,46.15],"type":"Point"}
+}

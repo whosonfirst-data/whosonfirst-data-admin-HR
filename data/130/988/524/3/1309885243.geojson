@@ -1,0 +1,65 @@
+{
+  "id": 1309885243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84667,44.07167,15.84667,44.07167",
+    "geom:latitude":44.07167,
+    "geom:longitude":15.84667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Zmistak",
+    "gn:country_code":"HR",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215154,
+    "gn:latitude":44.07167,
+    "gn:longitude":15.84667,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Zmi\u0161tak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215154
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c6f237ff3b1dcb2b17ca103c3cd17333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309885243,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1309885243,
+    "wof:lastmodified":1536815904,
+    "wof:name":"Zmistak",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84667,
+    44.07167000000001,
+    15.84667,
+    44.07167000000001
+],
+  "geometry": {"coordinates":[15.84667,44.07167000000001],"type":"Point"}
+}

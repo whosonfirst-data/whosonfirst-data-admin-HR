@@ -1,0 +1,66 @@
+{
+  "id": 1293674561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46028,44.66083,15.46028,44.66083",
+    "geom:latitude":44.66083,
+    "geom:longitude":15.46028,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049291.0",
+    "gn:asciiname":"Hecimovici",
+    "gn:country_code":"HR",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271742,
+    "gn:latitude":44.66083,
+    "gn:longitude":15.46028,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"He\u0107imovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271742
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f11cae4aeb0cff67cdbc712e18a42160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293674561,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1293674561,
+    "wof:lastmodified":1537013942,
+    "wof:name":"Hecimovici",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46028,
+    44.66083,
+    15.46028,
+    44.66083
+],
+  "geometry": {"coordinates":[15.46028,44.66083],"type":"Point"}
+}

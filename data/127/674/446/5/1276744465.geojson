@@ -1,0 +1,67 @@
+{
+  "id": 1276744465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.54778,45.41833,17.54778,45.41833",
+    "geom:latitude":45.41833,
+    "geom:longitude":17.54778,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049479.0",
+    "gn:asciiname":"Milivojevci",
+    "gn:country_code":"HR",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3195119,
+    "gn:latitude":45.41833,
+    "gn:longitude":17.54778,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Milivojevci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195119,
+        "wk:page":"Milivojevci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f2337a6abd5fcfefc4c5dc862c731eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276744465,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1276744465,
+    "wof:lastmodified":1537563289,
+    "wof:name":"Milivojevci",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.54778,
+    45.41833,
+    17.54778,
+    45.41833
+],
+  "geometry": {"coordinates":[17.54778,45.41833],"type":"Point"}
+}

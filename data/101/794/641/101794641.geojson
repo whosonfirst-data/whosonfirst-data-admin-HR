@@ -1,0 +1,146 @@
+{
+  "id": 101794641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":708438.790049,
+    "geom:bbox":"18.0525355199,45.1816772433,18.090735127,45.189793143",
+    "geom:latitude":45.185135,
+    "geom:longitude":18.067226,
+    "gn:population":1867,
+    "iso:country":"HR",
+    "lbl:latitude":45.185154,
+    "lbl:longitude":18.064332,
+    "mps:latitude":45.185154,
+    "mps:longitude":18.064332,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:dut_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:eng_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:fra_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:fre_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:hbs_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:hrv_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:hun_x_preferred":[
+        "Bukolya"
+    ],
+    "name:ita_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:nld_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:pol_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Bukovlje"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Bukovlje"
+    ],
+    "name:slv_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:spa_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:und_x_preferred":[
+        "Bukovlje"
+    ],
+    "name:unk_x_variant":[
+        "Podvinjsko Bukovlje"
+    ],
+    "name:war_x_preferred":[
+        "Bukovlje"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Brodsko-posavska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Bukovlje",
+    "qs:la_lc":"*HR1205673",
+    "qs:level":"locality",
+    "qs:loc":"Bukovlje",
+    "qs:loc_alt":"Bukovlje",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115dc9d4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3203026,
+        "gp:id":55853549,
+        "qs:id":70850,
+        "qs_pg:id":70850,
+        "wd:id":"Q1284357",
+        "wk:page":"Bukovlje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bddfff8e26279170892daa5403746518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101794641,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":101794641,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527689321,
+    "wof:name":"Bukovlje",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":1867,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05253551992706,
+    45.18167724327026,
+    18.0907351270348,
+    45.18979314304045
+],
+  "geometry": {"coordinates":[[[18.06077670506835,45.18950154489249],[18.06038462378746,45.18681568983322],[18.07050171380246,45.18603746997172],[18.07037087037588,45.18514219792587],[18.07542923924598,45.18475273070192],[18.07529832100187,45.18385746514849],[18.0854147063086,45.18307781616539],[18.08554578522308,45.18397306714968],[18.08807488173892,45.18377799936854],[18.08820600635408,45.18467324592154],[18.0907351270348,45.1844781137379],[18.09047280301024,45.18268762713819],[18.08667923648341,45.18298029169176],[18.08654814302071,45.18208504174328],[18.0802255525752,45.18257250311342],[18.08009456505431,45.18167724327026],[18.0775655410639,45.18187211785499],[18.07769648841997,45.18276738133966],[18.07263831217517,45.18315695552235],[18.07276918472337,45.18405222550086],[18.06644627416273,45.18453886056113],[18.06618473543887,45.18274830163188],[18.06492018152591,45.18284557943866],[18.06505092804213,45.18374086111362],[18.05366958262579,45.18461569418059],[18.05380015387698,45.18551099141905],[18.05253551992706,45.18560812095654],[18.05279663878906,45.18739871671067],[18.05659064922361,45.1871072716325],[18.05698254968701,45.18979314304045],[18.06077670506835,45.18950154489249]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209009005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.52299,45.39315,15.52299,45.39315",
+    "geom:latitude":45.39315,
+    "geom:longitude":15.52299,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049266.0",
+    "gn:asciiname":"Leskovac Barilovicki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196646,
+    "gn:latitude":45.39315,
+    "gn:longitude":15.52299,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Leskovac Barilovi\u010dki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barilovi\u0107ki Ljeskovac",
+        "Leskovac",
+        "Leskovac Barilovi\u010dki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196646
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1291ae5500510d1c3ecb4fbb3e999d0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209009005
+        }
+    ],
+    "wof:id":1209009005,
+    "wof:lastmodified":1537625875,
+    "wof:name":"Leskovac Barilovicki",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52299,
+    45.39315,
+    15.52299,
+    45.39315
+],
+  "geometry": {"coordinates":[15.52299,45.39315],"type":"Point"}
+}

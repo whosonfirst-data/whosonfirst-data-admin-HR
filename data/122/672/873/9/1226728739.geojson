@@ -1,0 +1,73 @@
+{
+  "id": 1226728739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9,45.43333,15.9,45.43333",
+    "geom:latitude":45.43333,
+    "geom:longitude":15.9,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kirin",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198142,
+    "gn:latitude":45.43333,
+    "gn:longitude":15.9,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Kirin",
+    "gn:population":52,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donji Kirin",
+        "Kirin"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198142
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"260bf073c70573798695b2e44db82076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226728739,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1226728739,
+    "wof:lastmodified":1537625887,
+    "wof:name":"Kirin",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":52,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9,
+    45.43333,
+    15.9,
+    45.43333
+],
+  "geometry": {"coordinates":[15.9,45.43333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209914369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64333,45.23889,13.64333,45.23889",
+    "geom:latitude":45.23889,
+    "geom:longitude":13.64333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Antonci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204806,
+    "gn:latitude":45.23889,
+    "gn:longitude":13.64333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Antonci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Perivetici",
+        "Pribetici",
+        "Antonzi",
+        "Antonci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204806
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9b0f4760894e4dddb99cfe8fe8bfe29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209914369,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1209914369,
+    "wof:lastmodified":1537625940,
+    "wof:name":"Antonci",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64333,
+    45.23889000000001,
+    13.64333,
+    45.23889000000001
+],
+  "geometry": {"coordinates":[13.64333,45.23889000000001],"type":"Point"}
+}

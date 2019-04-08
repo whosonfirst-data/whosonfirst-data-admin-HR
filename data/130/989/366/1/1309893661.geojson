@@ -1,0 +1,75 @@
+{
+  "id": 1309893661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.835,45.32528,17.835,45.32528",
+    "geom:latitude":45.32528,
+    "geom:longitude":17.835,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"11049478.0",
+    "gn:asciiname":"Asikovci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204761,
+    "gn:latitude":45.32528,
+    "gn:longitude":17.835,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"A\u0161ikovci",
+    "gn:population":91,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u0161ikovac",
+        "A\u0161ikovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204761,
+        "wk:page":"A%C5%A1ikovci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"72ea3c65a57b8c08f2bb742aaf5db3e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309893661,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1309893661,
+    "wof:lastmodified":1537625939,
+    "wof:name":"Asikovci",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":91,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.835,
+    45.32528,
+    17.835,
+    45.32528
+],
+  "geometry": {"coordinates":[17.835,45.32528],"type":"Point"}
+}

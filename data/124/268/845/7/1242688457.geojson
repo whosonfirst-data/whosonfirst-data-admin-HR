@@ -1,0 +1,68 @@
+{
+  "id": 1242688457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6299,45.26697,13.6299,45.26697",
+    "geom:latitude":45.26697,
+    "geom:longitude":13.6299,
+    "gn:asciiname":"Cancini",
+    "gn:country_code":"HR",
+    "gn:dem":68,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11065026,
+    "gn:latitude":45.26697,
+    "gn:longitude":13.6299,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Cancini",
+    "gn:population":158,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11065026
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0da3fec702ebe52735323c4ad4697824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242688457,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1242688457,
+    "wof:lastmodified":1536904181,
+    "wof:name":"Cancini",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6299,
+    45.26697,
+    13.6299,
+    45.26697
+],
+  "geometry": {"coordinates":[13.6299,45.26697],"type":"Point"}
+}

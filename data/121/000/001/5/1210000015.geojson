@@ -1,0 +1,73 @@
+{
+  "id": 1210000015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93069,45.33031,15.93069,45.33031",
+    "geom:latitude":45.33031,
+    "geom:longitude":15.93069,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"11049234.0",
+    "gn:asciiname":"Donja Cemernica",
+    "gn:country_code":"HR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201700,
+    "gn:latitude":45.33031,
+    "gn:longitude":15.93069,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Donja \u010cemernica",
+    "gn:population":170,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donja \u010cemernica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201700,
+        "wk:page":"Donja_%C4%8Cemernica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e3ccb08b86e7a7e712736fb15fdab4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1210000015,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1210000015,
+    "wof:lastmodified":1537625918,
+    "wof:name":"Donja Cemernica",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":170,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93069,
+    45.33031,
+    15.93069,
+    45.33031
+],
+  "geometry": {"coordinates":[15.93069,45.33031],"type":"Point"}
+}

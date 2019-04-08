@@ -1,0 +1,75 @@
+{
+  "id": 1242678741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72586,45.27412,13.72586,45.27412",
+    "geom:latitude":45.27412,
+    "geom:longitude":13.72586,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"11129785.0",
+    "gn:asciiname":"Sterpazzi",
+    "gn:country_code":"HR",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3343488,
+    "gn:latitude":45.27412,
+    "gn:longitude":13.72586,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Sterpazzi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Strpa\u010di\u0107i"
+    ],
+    "name:ita_x_preferred":[
+        "Sterpazzi"
+    ],
+    "name:und_x_variant":[
+        "Stupari\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3343488
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e621fe9b5b7f7c2d35f75c7da0c38996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242678741,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1242678741,
+    "wof:lastmodified":1537625966,
+    "wof:name":"Sterpazzi",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72586,
+    45.27412,
+    13.72586,
+    45.27412
+],
+  "geometry": {"coordinates":[13.72586,45.27412],"type":"Point"}
+}

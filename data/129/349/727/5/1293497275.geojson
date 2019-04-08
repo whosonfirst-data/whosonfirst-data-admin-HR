@@ -1,0 +1,70 @@
+{
+  "id": 1293497275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.95361,45.79694,16.95361,45.79694",
+    "geom:latitude":45.79694,
+    "geom:longitude":16.95361,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049415.0",
+    "gn:asciiname":"Nova Raca",
+    "gn:country_code":"HR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3194414,
+    "gn:latitude":45.79694,
+    "gn:longitude":16.95361,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Nova Ra\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nova Ra\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194414,
+        "wk:page":"Nova_Ra%C4%8Da"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9df3bc6addf8ec74d17774c13e6e2bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293497275,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1293497275,
+    "wof:lastmodified":1537625856,
+    "wof:name":"Nova Raca",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.95361,
+    45.79694,
+    16.95361,
+    45.79694
+],
+  "geometry": {"coordinates":[16.95361,45.79694],"type":"Point"}
+}

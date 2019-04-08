@@ -1,0 +1,70 @@
+{
+  "id": 1226318923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.93333,45.55,17.93333,45.55",
+    "geom:latitude":45.55,
+    "geom:longitude":17.93333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"3194063.0",
+    "gn:asciiname":"Dolci",
+    "gn:country_code":"HR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201863,
+    "gn:latitude":45.55,
+    "gn:longitude":17.93333,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Dolci",
+    "gn:population":286,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201863,
+        "wk:page":"Dolci_%28Orahovica%2C_Croatia%29"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"eac78d371267d774f5c0b1d96e2cd4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226318923,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1226318923,
+    "wof:lastmodified":1537563306,
+    "wof:name":"Dolci",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":286,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93332999999999,
+    45.55,
+    17.93332999999999,
+    45.55
+],
+  "geometry": {"coordinates":[17.93332999999999,45.55],"type":"Point"}
+}

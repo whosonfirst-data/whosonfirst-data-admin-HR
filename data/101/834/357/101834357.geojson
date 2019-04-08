@@ -1,0 +1,146 @@
+{
+  "id": 101834357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:area_square_m":1009912.749811,
+    "geom:bbox":"16.1440686779,46.3258076996,16.1580889422,46.3535806264",
+    "geom:latitude":46.339321,
+    "geom:longitude":16.151855,
+    "gn:population":1275,
+    "iso:country":"HR",
+    "lbl:latitude":46.341039,
+    "lbl:longitude":16.151749,
+    "mps:latitude":46.341039,
+    "mps:longitude":16.151749,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Vinica"
+    ],
+    "name:dut_x_preferred":[
+        "Vinica"
+    ],
+    "name:eng_x_preferred":[
+        "Vinica"
+    ],
+    "name:fra_x_preferred":[
+        "Vinica"
+    ],
+    "name:fre_x_preferred":[
+        "Vinica"
+    ],
+    "name:hbs_x_preferred":[
+        "Vinica"
+    ],
+    "name:hrv_x_preferred":[
+        "Vinica"
+    ],
+    "name:hun_x_preferred":[
+        "Vinica"
+    ],
+    "name:ita_x_preferred":[
+        "Vinica"
+    ],
+    "name:lat_x_preferred":[
+        "Vinnicha"
+    ],
+    "name:nld_x_preferred":[
+        "Vinica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Vinica"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Vinica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Vinica"
+    ],
+    "name:spa_x_preferred":[
+        "Vinica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vinica"
+    ],
+    "name:und_x_preferred":[
+        "Vinica"
+    ],
+    "name:war_x_preferred":[
+        "Vinica"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vara\u017edinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Cestica",
+    "qs:la_lc":"*HR0500485",
+    "qs:level":"locality",
+    "qs:loc":"Vinica",
+    "qs:loc_alt":"Vinica",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115d513e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3187735,
+        "gp:id":850942,
+        "qs:id":184776,
+        "qs_pg:id":184776,
+        "wd:id":"Q376950",
+        "wk:page":"Vinica, Vara\u017edin County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3be813cb01d247ddf500c8ea575770bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101834357,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":101834357,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815532,
+    "wof:name":"Vinica",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":1275,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.14406867789904,
+    46.325807699601,
+    16.15808894224409,
+    46.35358062644036
+],
+  "geometry": {"coordinates":[[[16.15520568359841,46.3266212644462],[16.15496663862029,46.32655514111804],[16.15260920666856,46.32669090231229],[16.15251560237056,46.32587714873563],[16.15226453414215,46.325807699601],[16.15121235938966,46.32586827341026],[16.15131552995223,46.32676537962107],[16.15002184998662,46.32683984130591],[16.1502281616232,46.32863405474592],[16.14893443552273,46.32870850368738],[16.1491407221306,46.33050271752586],[16.14525939566772,46.33072597924127],[16.14536248132913,46.33162308954905],[16.14406867789904,46.33169748030986],[16.14417174657495,46.3325945914367],[16.1467593930825,46.33244579141126],[16.14686250911734,46.33334289903928],[16.14815634894745,46.33326847414816],[16.14836263730791,46.33506268466431],[16.14965651678807,46.33498824126673],[16.15006923290235,46.33857664909749],[16.1487752676129,46.33865109825655],[16.14908478723692,46.34134240194203],[16.14779075433012,46.34141683979487],[16.14810024978249,46.34410814222434],[16.15198253187384,46.34388476881338],[16.15229226067839,46.3465760526982],[16.15099810551777,46.34665053045546],[16.15120457081383,46.34844471949691],[16.15249876890067,46.34837023885677],[16.15260202971837,46.34926733100684],[16.15389624601517,46.3491928332943],[16.15429563396469,46.3526614613067],[16.15610870567292,46.35358062644036],[16.15700136200883,46.35352922079971],[16.15679467131793,46.35173505072856],[16.15808894224409,46.35166050179407],[16.15798558214476,46.35076341727222],[16.15669133268517,46.35083796476374],[16.15627802289788,46.3472496147088],[16.15498385603814,46.34732414079861],[16.1544674267584,46.34283868207524],[16.15576148631726,46.34276416319619],[16.15545161803794,46.34007288484986],[16.15415762284874,46.34014739940278],[16.15343490351336,46.33386771813076],[16.15214105523523,46.33394220696613],[16.1515218844745,46.32855959018025],[16.15281560407601,46.32848510999037],[16.15271240313899,46.32758800646167],[16.15529978970352,46.32743900209175],[16.15520568359841,46.3266212644462]]],"type":"Polygon"}
+}

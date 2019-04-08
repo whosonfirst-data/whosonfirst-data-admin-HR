@@ -1,0 +1,65 @@
+{
+  "id": 1260266485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.79444,45.19139,16.79444,45.19139",
+    "geom:latitude":45.19139,
+    "geom:longitude":16.79444,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gornjani",
+    "gn:country_code":"HR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278297,
+    "gn:latitude":45.19139,
+    "gn:longitude":16.79444,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Gornjani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278297
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"23381d9c5fe81e95b9a9f151578dac22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260266485,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1260266485,
+    "wof:lastmodified":1536734871,
+    "wof:name":"Gornjani",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.79444,
+    45.19139000000001,
+    16.79444,
+    45.19139000000001
+],
+  "geometry": {"coordinates":[16.79444,45.19139000000001],"type":"Point"}
+}

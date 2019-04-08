@@ -1,0 +1,66 @@
+{
+  "id": 1242756041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57528,45.355,17.57528,45.355",
+    "geom:latitude":45.355,
+    "geom:longitude":17.57528,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049472.0",
+    "gn:asciiname":"Skenderovci",
+    "gn:country_code":"HR",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190735,
+    "gn:latitude":45.355,
+    "gn:longitude":17.57528,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Skenderovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190735
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a7071b1cd0e2ba5dab5c085972c0c0d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242756041,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1242756041,
+    "wof:lastmodified":1536806472,
+    "wof:name":"Skenderovci",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.57528,
+    45.355,
+    17.57528,
+    45.355
+],
+  "geometry": {"coordinates":[17.57528,45.355],"type":"Point"}
+}

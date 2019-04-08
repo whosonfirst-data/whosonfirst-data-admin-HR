@@ -1,0 +1,74 @@
+{
+  "id": 1243451963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.05194,45.97417,17.05194,45.97417",
+    "geom:latitude":45.97417,
+    "geom:longitude":17.05194,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"3200960.0",
+    "gn:asciiname":"Budrovac",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203110,
+    "gn:latitude":45.97417,
+    "gn:longitude":17.05194,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Budrovac",
+    "gn:population":373,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Budrovec",
+        "Budrovac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203110
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f54424c2ecbb08599cf78b0341543412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243451963,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1243451963,
+    "wof:lastmodified":1537625928,
+    "wof:name":"Budrovac",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":373,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.05194,
+    45.97417,
+    17.05194,
+    45.97417
+],
+  "geometry": {"coordinates":[17.05194,45.97417],"type":"Point"}
+}

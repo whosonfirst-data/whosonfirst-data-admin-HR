@@ -1,0 +1,105 @@
+{
+  "id": 1125853753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91667,45.73333,15.91667,45.73333",
+    "geom:latitude":45.73333,
+    "geom:longitude":15.91667,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1166,
+    "gn:population":1166,
+    "iso:country":"HR",
+    "lbl:latitude":45.73333,
+    "lbl:longitude":15.91667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Zadvorsko"
+    ],
+    "name:dut_x_preferred":[
+        "Zadvorsko"
+    ],
+    "name:eng_x_preferred":[
+        "Zadvorsko"
+    ],
+    "name:hrv_x_preferred":[
+        "Zadvorsko"
+    ],
+    "name:slv_x_preferred":[
+        "Zadvorsko"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0434\u0432\u043e\u0440\u0441\u043a\u043e"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3186941,
+    "qs_pg:gn_pop":1166,
+    "qs_pg:name":"Zadvorsko",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Grad Zagreb",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1275736,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":851121,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Grad Zagreb",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186941,
+        "gp:id":851121,
+        "qs_pg:id":1275736,
+        "wd:id":"Q2236873"
+    },
+    "wof:country":"HR",
+    "wof:created":1497293523,
+    "wof:geomhash":"a723c02c8c1a79f505901eb125de12e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125853753,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1125853753,
+    "wof:lastmodified":1514447719,
+    "wof:name":"Zadvorsko",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:population":1166,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91667,
+    45.73333,
+    15.91667,
+    45.73333
+],
+  "geometry": {"coordinates":[15.91667,45.73333],"type":"Point"}
+}

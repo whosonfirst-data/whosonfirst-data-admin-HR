@@ -1,0 +1,65 @@
+{
+  "id": 1343531721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.79417,43.75278,16.79417,43.75278",
+    "geom:latitude":43.75278,
+    "geom:longitude":16.79417,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Razorina",
+    "gn:country_code":"HR",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280850,
+    "gn:latitude":43.75278,
+    "gn:longitude":16.79417,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Razorina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280850
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f7f149873cce72a38455e238cb30961d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343531721,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1343531721,
+    "wof:lastmodified":1536642750,
+    "wof:name":"Razorina",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.79417,
+    43.75278,
+    16.79417,
+    43.75278
+],
+  "geometry": {"coordinates":[16.79417,43.75278],"type":"Point"}
+}

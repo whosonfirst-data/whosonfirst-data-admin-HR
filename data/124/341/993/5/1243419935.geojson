@@ -1,0 +1,74 @@
+{
+  "id": 1243419935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43064,44.10904,15.43064,44.10904",
+    "geom:latitude":44.10904,
+    "geom:longitude":15.43064,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11054389.0",
+    "gn:asciiname":"Zemunik Gornji",
+    "gn:country_code":"HR",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199891,
+    "gn:latitude":44.10904,
+    "gn:longitude":15.43064,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Zemunik Gornji",
+    "gn:population":410,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zemonico Superiore",
+        "Gornji Zemunik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199891,
+        "wk:page":"Zemunik_Gornji"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c9d80b087eb550910ed93b3f4f99f930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243419935,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1243419935,
+    "wof:lastmodified":1537625899,
+    "wof:name":"Zemunik Gornji",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":410,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43064,
+    44.10904,
+    15.43064,
+    44.10904
+],
+  "geometry": {"coordinates":[15.43064,44.10904],"type":"Point"}
+}

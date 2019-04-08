@@ -1,0 +1,65 @@
+{
+  "id": 1209480745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10778,44.16111,16.10778,44.16111",
+    "geom:latitude":44.16111,
+    "geom:longitude":16.10778,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"11054319.0",
+    "gn:asciiname":"Prljevo",
+    "gn:country_code":"HR",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214474,
+    "gn:latitude":44.16111,
+    "gn:longitude":16.10778,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Prljevo",
+    "gn:population":7,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214474
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"35bd9094e57f27b4a33a44f60df59a25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209480745
+        }
+    ],
+    "wof:id":1209480745,
+    "wof:lastmodified":1536285791,
+    "wof:name":"Prljevo",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":7,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.107779999999998,
+    44.16111,
+    16.107779999999998,
+    44.16111
+],
+  "geometry": {"coordinates":[16.10778,44.16111],"type":"Point"}
+}

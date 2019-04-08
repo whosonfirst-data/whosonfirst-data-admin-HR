@@ -1,0 +1,65 @@
+{
+  "id": 1209200161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24861,44.57278,15.24861,44.57278",
+    "geom:latitude":44.57278,
+    "geom:longitude":15.24861,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049286.0",
+    "gn:asciiname":"Buzim",
+    "gn:country_code":"HR",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273355,
+    "gn:latitude":44.57278,
+    "gn:longitude":15.24861,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Bu\u017eim",
+    "gn:population":74,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273355
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"542dcd70aeb0bd0d91e05b66b05e0650",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209200161
+        }
+    ],
+    "wof:id":1209200161,
+    "wof:lastmodified":1536294639,
+    "wof:name":"Buzim",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24861,
+    44.57278,
+    15.24861,
+    44.57278
+],
+  "geometry": {"coordinates":[15.24861,44.57278],"type":"Point"}
+}

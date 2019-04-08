@@ -1,0 +1,75 @@
+{
+  "id": 1344260163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9475,45.26,17.9475,45.26",
+    "geom:latitude":45.26,
+    "geom:longitude":17.9475,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049502.0",
+    "gn:asciiname":"Brodski Zdenci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186669,
+    "gn:latitude":45.26,
+    "gn:longitude":17.9475,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Brodski Zdenci",
+    "gn:population":299,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zdenci Brodski",
+        "Zdenci",
+        "Brodski Zdenci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186669
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0b6e00898ec1434bbd6628a1240890b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344260163,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1344260163,
+    "wof:lastmodified":1537625804,
+    "wof:name":"Brodski Zdenci",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":299,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9475,
+    45.26,
+    17.9475,
+    45.26
+],
+  "geometry": {"coordinates":[17.9475,45.26],"type":"Point"}
+}

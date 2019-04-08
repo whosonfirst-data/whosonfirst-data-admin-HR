@@ -1,0 +1,74 @@
+{
+  "id": 1309893905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.34861,45.4825,17.34861,45.4825",
+    "geom:latitude":45.4825,
+    "geom:longitude":17.34861,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"3193705.0",
+    "gn:asciiname":"Branesci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203569,
+    "gn:latitude":45.4825,
+    "gn:longitude":17.34861,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Brane\u0161ci",
+    "gn:population":48,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brane\u017eci",
+        "Brane\u0161ci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203569
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1a3863876e9df102823fbc60f70ae1ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309893905,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1309893905,
+    "wof:lastmodified":1537625932,
+    "wof:name":"Branesci",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.34861,
+    45.4825,
+    17.34861,
+    45.4825
+],
+  "geometry": {"coordinates":[17.34861,45.4825],"type":"Point"}
+}

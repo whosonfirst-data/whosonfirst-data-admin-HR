@@ -1,0 +1,76 @@
+{
+  "id": 101844741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":269505.783446,
+    "geom:bbox":"16.6711394823,43.6401538648,16.6820257775,43.6461049108",
+    "geom:latitude":43.642748,
+    "geom:longitude":16.676311,
+    "gn:population":1175,
+    "iso:country":"HR",
+    "lbl:latitude":43.64227,
+    "lbl:longitude":16.677218,
+    "mps:latitude":43.64227,
+    "mps:longitude":16.677218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Sinj",
+    "qs:la_lc":"*HR1703891",
+    "qs:level":"locality",
+    "qs:loc":"Turjaci",
+    "qs:loc_alt":"Turjaci",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188620,
+        "gp:id":850751,
+        "qs:id":147099
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"56848d229f6ca5418177474b64fc6e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844741,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101844741,
+    "wof:lastmodified":1505338289,
+    "wof:name":"Turjaci",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":1175,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67113948228075,
+    43.64015386481452,
+    16.68202577754937,
+    43.64610491078327
+],
+  "geometry": {"coordinates":[[[16.67514804884439,43.64602472264289],[16.67504448848035,43.64512647953438],[16.67627715285505,43.64504627806332],[16.67617357789061,43.64414803559407],[16.67863885977874,43.6439875912227],[16.67853525135683,43.64308935083199],[16.67976786887101,43.64300910793258],[16.67966424585222,43.6421108681817],[16.6808968414602,43.64203061195337],[16.68079320384618,43.64113237284238],[16.68202577754937,43.64105210328569],[16.68192212534149,43.64015386481452],[16.6757593206209,43.64055505772222],[16.67586287855039,43.6414533033896],[16.67339769762009,43.64161368005477],[16.67350122209405,43.64251192779909],[16.67226860820273,43.64259209541723],[16.67237211807543,43.64349034380024],[16.67113948228075,43.64357049808774],[16.67124297755066,43.64446874710939],[16.67247563220457,43.64438859138414],[16.67257915059099,43.64528683816866],[16.67381182105891,43.64520666623611],[16.6739153625623,43.64610491078327],[16.67514804884439,43.64602472264289]]],"type":"Polygon"}
+}

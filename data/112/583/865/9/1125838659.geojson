@@ -1,0 +1,117 @@
+{
+  "id": 1125838659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.07373,45.59467,16.07373,45.59467",
+    "geom:latitude":45.59467,
+    "geom:longitude":16.07373,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":168,
+    "gn:population":158,
+    "iso:country":"HR",
+    "lbl:latitude":45.59467,
+    "lbl:longitude":16.07373,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Pustike"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0443\u0441\u0442\u0438\u043a\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Pustike"
+    ],
+    "name:eng_x_preferred":[
+        "Pustike"
+    ],
+    "name:hrv_x_preferred":[
+        "Pustike"
+    ],
+    "name:hun_x_preferred":[
+        "Pustike"
+    ],
+    "name:slv_x_preferred":[
+        "Pustike"
+    ],
+    "name:spa_x_preferred":[
+        "Pustike"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u0441\u0442\u0438\u043a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Pustike"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7281129,
+    "qs_pg:gn_pop":168,
+    "qs_pg:name":"Pustike",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Smarje Pri Jelsah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":529285,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55851205,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Smarje Pri Jelsah",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7281129,
+        "gp:id":55851205,
+        "qs_pg:id":529285,
+        "wd:id":"Q849624"
+    },
+    "wof:country":"HR",
+    "wof:created":1497292835,
+    "wof:geomhash":"1224aa35dec1f7baf8f971319dcf03d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125838659,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1125838659,
+    "wof:lastmodified":1514447607,
+    "wof:name":"Pustike",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.07373,
+    45.59467,
+    16.07373,
+    45.59467
+],
+  "geometry": {"coordinates":[16.07373,45.59467],"type":"Point"}
+}

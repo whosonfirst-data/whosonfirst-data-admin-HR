@@ -1,0 +1,101 @@
+{
+  "id": 101857849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.480461,45.914112,17.480461,45.914112",
+    "geom:latitude":45.914112,
+    "geom:longitude":17.480461,
+    "iso:country":"HR",
+    "lbl:latitude":45.914112,
+    "lbl:longitude":17.480461,
+    "mps:latitude":45.914112,
+    "mps:longitude":17.480461,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Veliko Polje"
+    ],
+    "name:dut_x_preferred":[
+        "Veliko Polje"
+    ],
+    "name:eng_x_preferred":[
+        "Veliko Polje"
+    ],
+    "name:fra_x_preferred":[
+        "Veliko Polje"
+    ],
+    "name:hbs_x_preferred":[
+        "Veliko Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "Veliko Polje"
+    ],
+    "name:nld_x_preferred":[
+        "Veliko Polje"
+    ],
+    "name:slv_x_preferred":[
+        "Veliko Polje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e \u041f\u043e\u0459\u0435"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Viroviticko-podravska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Veliko Polje",
+    "qs:loc_alt":"Veliko Polje",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "qs:id":4,
+        "wd:id":"Q2061992"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2b412feaa503e966fce1c3c83325847b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101857849,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":101857849,
+    "wof:lastmodified":1544744110,
+    "wof:name":"Veliko Polje",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.480461,
+    45.914112,
+    17.480461,
+    45.914112
+],
+  "geometry": {"coordinates":[17.480461,45.914112],"type":"Point"}
+}

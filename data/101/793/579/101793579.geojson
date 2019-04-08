@@ -1,0 +1,149 @@
+{
+  "id": 101793579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":568711.025388,
+    "geom:bbox":"18.5657207799,45.4472475644,18.5825201367,45.4653778519",
+    "geom:latitude":45.455958,
+    "geom:longitude":18.575199,
+    "gn:population":1245,
+    "iso:country":"HR",
+    "lbl:latitude":45.451301,
+    "lbl:longitude":18.578826,
+    "mps:latitude":45.451301,
+    "mps:longitude":18.578826,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:dut_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:eng_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:fra_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:fre_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:ger_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:hbs_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:hrv_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:hun_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:ita_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:nld_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:pol_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Vladislavci"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Vladislavci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432\u0446\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:spa_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:und_x_preferred":[
+        "Vladislavci"
+    ],
+    "name:war_x_preferred":[
+        "Vladislavci"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Vladislavci",
+    "qs:la_lc":"*HR1405797",
+    "qs:level":"locality",
+    "qs:loc":"Vladislavci",
+    "qs:loc_alt":"Vladislavci",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115d562a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3187547,
+        "gp:id":850975,
+        "qs:id":1286784,
+        "qs_pg:id":1286784,
+        "wd:id":"Q1284718",
+        "wk:page":"Vladislavci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7675454b0b7fa3572085874fe182b610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793579,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101793579,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527689281,
+    "wof:name":"Vladislavci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":1245,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.56572077992263,
+    45.4472475644443,
+    18.58252013665145,
+    45.46537785190549
+],
+  "geometry": {"coordinates":[[[18.57503168762702,45.46028556928218],[18.57475145667996,45.45849693421582],[18.57602154121616,45.45839344294711],[18.57588141437839,45.45749912615952],[18.57715147433748,45.45739562158144],[18.5770113331659,45.45650130594021],[18.57828136854801,45.45639778805349],[18.5780010634839,45.45460915826203],[18.57927105401723,45.45450562901516],[18.57913089012681,45.45361131486493],[18.58040085608604,45.45350777231067],[18.5802606778671,45.45261345930692],[18.5815306192535,45.45250990344562],[18.58125024010639,45.45072127892888],[18.58252013665145,45.4506177117097],[18.5822397407423,45.44882908788162],[18.58096988473278,45.44893265120419],[18.58082971596059,45.44803833613878],[18.57955987591606,45.44814188225962],[18.57941973335238,45.4472475644443],[18.57814990927363,45.44735109336409],[18.57829003157121,45.44824541312687],[18.57702018292628,45.44834892874076],[18.57730040480914,45.45013756975544],[18.57603051132918,45.45024107400968],[18.57687119793661,45.45560698949743],[18.57560117852751,45.45571049018048],[18.57574129348217,45.45660480857066],[18.57447124949772,45.45670829594468],[18.5746113501184,45.45760261548082],[18.57334128155804,45.45770608954552],[18.57348136784265,45.4586004102274],[18.56840096950049,45.45901416170295],[18.56826096432536,45.45811983323529],[18.56572077992263,45.45832661353791],[18.565860744541,45.45922094589662],[18.56713085916942,45.45911756142851],[18.56727085000239,45.46001189104101],[18.56981110692453,45.45980507244076],[18.57023123672855,45.46248804479865],[18.56896104957525,45.4625914675662],[18.56924112524223,45.46438011569433],[18.5679708932247,45.46448352709587],[18.56811091968308,45.46537785190549],[18.57065141998669,45.46517100995055],[18.57051135296081,45.46427668903385],[18.57178157637901,45.46417324711427],[18.57164149501045,45.46327892734365],[18.57291169384615,45.46317547211225],[18.57263150836832,45.46138683406286],[18.57390166234143,45.46128336746756],[18.57376155823425,45.46038904918839],[18.57503168762702,45.46028556928218]]],"type":"Polygon"}
+}

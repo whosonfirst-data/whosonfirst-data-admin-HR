@@ -1,0 +1,65 @@
+{
+  "id": 1226616995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.24167,45.03222,16.24167,45.03222",
+    "geom:latitude":45.03222,
+    "geom:longitude":16.24167,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kotarani",
+    "gn:country_code":"HR",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3282209,
+    "gn:latitude":45.03222,
+    "gn:longitude":16.24167,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Kotarani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282209
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9d12ddefa29f71b596a8f05d4fde49a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226616995,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1226616995,
+    "wof:lastmodified":1536900770,
+    "wof:name":"Kotarani",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.24167000000001,
+    45.03222,
+    16.24167000000001,
+    45.03222
+],
+  "geometry": {"coordinates":[16.24167000000001,45.03222],"type":"Point"}
+}

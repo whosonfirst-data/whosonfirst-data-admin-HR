@@ -1,0 +1,73 @@
+{
+  "id": 1309928071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.51667,46.01667,16.51667,46.01667",
+    "geom:latitude":46.01667,
+    "geom:longitude":16.51667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"3197228.0",
+    "gn:asciiname":"Donja Brckovcina",
+    "gn:country_code":"HR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201713,
+    "gn:latitude":46.01667,
+    "gn:longitude":16.51667,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Donja Brckov\u010dina",
+    "gn:population":165,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donja Brckov\u010dina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201713,
+        "wk:page":"Donja_Brckov%C4%8Dina"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"dabdaef817d68863cc7354169bc647e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309928071,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1309928071,
+    "wof:lastmodified":1537625918,
+    "wof:name":"Donja Brckovcina",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":165,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.51667,
+    46.01667,
+    16.51667,
+    46.01667
+],
+  "geometry": {"coordinates":[16.51667,46.01667],"type":"Point"}
+}

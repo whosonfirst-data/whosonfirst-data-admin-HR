@@ -1,0 +1,142 @@
+{
+  "id": 1125850757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4,43.55,16.4,43.55",
+    "geom:latitude":43.55,
+    "geom:longitude":16.4,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":4881,
+    "iso:country":"HR",
+    "lbl:latitude":43.55,
+    "lbl:longitude":16.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:bos_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:cat_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:dut_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:eng_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:fre_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:ger_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:hrv_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:hun_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:ita_x_preferred":[
+        "Castell'Abbadessa"
+    ],
+    "name:por_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:sco_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:slv_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:spa_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b \u0413\u043e\u043c\u0438\u043b\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:unk_x_variant":[
+        "Gomilica"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3198218,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ka\u00b5tel Gomilica",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Splitsko-Dalmatinska",
+    "qs_pg:photos":149,
+    "qs_pg:photos_1k":30,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":149,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1174955,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":848370,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Splitsko-Dalmatinska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198218,
+        "gp:id":848370,
+        "qs_pg:id":1174955,
+        "wd:id":"Q1942120"
+    },
+    "wof:country":"HR",
+    "wof:created":1497293391,
+    "wof:geomhash":"076c40ee755259c4a04f6651062f5d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125850757,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1125850757,
+    "wof:lastmodified":1514447483,
+    "wof:name":"Ka\u00b5tel Gomilica",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":4881,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4,
+    43.55,
+    16.4,
+    43.55
+],
+  "geometry": {"coordinates":[16.4,43.55],"type":"Point"}
+}

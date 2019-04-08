@@ -1,0 +1,70 @@
+{
+  "id": 1209516353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84306,45.10444,13.84306,45.10444",
+    "geom:latitude":45.10444,
+    "geom:longitude":13.84306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"11054801.0",
+    "gn:asciiname":"Maruzini",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214703,
+    "gn:latitude":45.10444,
+    "gn:longitude":13.84306,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Maru\u017eini",
+    "gn:population":83,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morosini",
+        "Maru\u017eini"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214703
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ed06b5071c039fcc77c412fbc1b89cbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209516353
+        }
+    ],
+    "wof:id":1209516353,
+    "wof:lastmodified":1537625947,
+    "wof:name":"Maruzini",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":83,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84306,
+    45.10444,
+    13.84306,
+    45.10444
+],
+  "geometry": {"coordinates":[13.84306,45.10444],"type":"Point"}
+}

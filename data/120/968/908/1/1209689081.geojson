@@ -1,0 +1,61 @@
+{
+  "id": 1209689081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.76139,43.60222,16.76139,43.60222",
+    "geom:latitude":43.60222,
+    "geom:longitude":16.76139,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Krolo",
+    "gn:country_code":"HR",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278210,
+    "gn:latitude":43.60222,
+    "gn:longitude":16.76139,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Krolo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278210
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"47e868a00dcc13a8f63802d561e9202c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209689081
+        }
+    ],
+    "wof:id":1209689081,
+    "wof:lastmodified":1536279308,
+    "wof:name":"Krolo",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.76139,
+    43.60222,
+    16.76139,
+    43.60222
+],
+  "geometry": {"coordinates":[16.76139,43.60222],"type":"Point"}
+}

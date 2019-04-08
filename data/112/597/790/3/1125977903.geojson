@@ -1,0 +1,93 @@
+{
+  "id": 1125977903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39333,44.69556,14.39333,44.69556",
+    "geom:latitude":44.69556,
+    "geom:longitude":14.39333,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":60,
+    "iso:country":"HR",
+    "lbl:latitude":44.69556,
+    "lbl:longitude":14.39333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Ossero"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3193885,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Osor",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Primorsko-Goranska",
+    "qs_pg:photos":249,
+    "qs_pg:photos_1k":50,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":249,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":235333,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":849479,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Primorsko-Goranska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193885,
+        "gp:id":849479,
+        "qs_pg:id":235333
+    },
+    "wof:country":"HR",
+    "wof:created":1497298422,
+    "wof:geomhash":"0f0cfb30805ca1a3fbb45c7e03b85473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125977903,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1125977903,
+    "wof:lastmodified":1509404558,
+    "wof:name":"Osor",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39333,
+    44.69556,
+    14.39333,
+    44.69556
+],
+  "geometry": {"coordinates":[14.39333,44.69556],"type":"Point"}
+}

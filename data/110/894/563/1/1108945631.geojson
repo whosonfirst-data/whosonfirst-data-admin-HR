@@ -1,0 +1,62 @@
+{
+  "id": 1108945631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8734314685,45.8247578974,15.8734314685,45.8247578974",
+    "geom:latitude":45.824758,
+    "geom:longitude":15.873431,
+    "iso:country":"HR",
+    "lbl:latitude":45.824758,
+    "lbl:longitude":15.873431,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "name:hrv_x_preferred":[
+        "Podsused - Vrap\u010de"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"HR",
+    "wof:created":1491365196,
+    "wof:geomhash":"233c71099af7b16bb05ff401ce5adb5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "neighbourhood_id":1108945631,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1108945631,
+    "wof:lastmodified":1497292354,
+    "wof:name":"Podsused-Vrapce",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87343146846314,
+    45.82475789744949,
+    15.87343146846314,
+    45.82475789744949
+],
+  "geometry": {"coordinates":[15.87343146846314,45.82475789744949],"type":"Point"}
+}

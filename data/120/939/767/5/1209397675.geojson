@@ -1,0 +1,61 @@
+{
+  "id": 1209397675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03778,43.5425,17.03778,43.5425",
+    "geom:latitude":43.5425,
+    "geom:longitude":17.03778,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Podgreda",
+    "gn:country_code":"HR",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284865,
+    "gn:latitude":43.5425,
+    "gn:longitude":17.03778,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Podgreda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284865
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a5a4c50e23682378d3340c4d4243529a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209397675
+        }
+    ],
+    "wof:id":1209397675,
+    "wof:lastmodified":1536288246,
+    "wof:name":"Podgreda",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.037779999999998,
+    43.5425,
+    17.037779999999998,
+    43.5425
+],
+  "geometry": {"coordinates":[17.03778,43.5425],"type":"Point"}
+}

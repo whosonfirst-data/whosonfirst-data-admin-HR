@@ -1,0 +1,75 @@
+{
+  "id": 1259793241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23083,45.61361,17.23083,45.61361",
+    "geom:latitude":45.61361,
+    "geom:longitude":17.23083,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"3202183.0",
+    "gn:asciiname":"Donji Daruvar",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201491,
+    "gn:latitude":45.61361,
+    "gn:longitude":17.23083,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Donji Daruvar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Doln\u00ed Daruvar"
+    ],
+    "name:und_x_variant":[
+        "Als\u00f3daruv\u00e1r",
+        "Donji Daruvar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201491,
+        "wk:page":"Donji_Daruvar"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c748a70967f7130a974606624db0ac00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259793241,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1259793241,
+    "wof:lastmodified":1537625915,
+    "wof:name":"Donji Daruvar",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23082999999999,
+    45.61361,
+    17.23082999999999,
+    45.61361
+],
+  "geometry": {"coordinates":[17.23082999999999,45.61361],"type":"Point"}
+}

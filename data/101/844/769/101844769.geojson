@@ -1,0 +1,133 @@
+{
+  "id": 101844769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":449051.232867,
+    "geom:bbox":"14.716414841,44.7970266524,14.7357368326,44.8122727102",
+    "geom:latitude":44.803852,
+    "geom:longitude":14.726858,
+    "gn:population":1170,
+    "iso:country":"HR",
+    "lbl:latitude":44.80417,
+    "lbl:longitude":14.726053,
+    "mps:latitude":44.80417,
+    "mps:longitude":14.726053,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Supetarska Draga"
+    ],
+    "name:ces_x_preferred":[
+        "Supetarska Draga"
+    ],
+    "name:cze_x_preferred":[
+        "Supetarska Draga"
+    ],
+    "name:dut_x_preferred":[
+        "Supetarska Draga"
+    ],
+    "name:eng_x_preferred":[
+        "Supetarska Draga"
+    ],
+    "name:fra_x_preferred":[
+        "Supetarska Draga"
+    ],
+    "name:fre_x_preferred":[
+        "Supetarska Draga"
+    ],
+    "name:ger_x_preferred":[
+        "Supetarska Draga"
+    ],
+    "name:hbs_x_preferred":[
+        "Supetarska Draga"
+    ],
+    "name:hrv_x_preferred":[
+        "Supetarska Draga"
+    ],
+    "name:hun_x_preferred":[
+        "Supetarska Draga"
+    ],
+    "name:nld_x_preferred":[
+        "Supetarska Draga"
+    ],
+    "name:slv_x_preferred":[
+        "Supetarska Draga"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u043f\u0435\u0442\u0430\u0440\u0441\u043a\u0430 \u0414\u0440\u0430\u0433\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Supetarska Draga"
+    ],
+    "name:unk_x_variant":[
+        "Valle San Pietro"
+    ],
+    "name:uzb_x_preferred":[
+        "Supetarska Draga"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Primorsko-goranska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Rab",
+    "qs:la_lc":"*HR0803638",
+    "qs:level":"locality",
+    "qs:loc":"Supetarska Draga",
+    "qs:loc_alt":"Supetarska Draga",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189489,
+        "gp:id":850544,
+        "qs:id":1349842,
+        "qs_pg:id":1349842,
+        "wd:id":"Q925754",
+        "wk:page":"Supetarska Draga"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2b6e234ec2b66461d09387753e4b5299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844769,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":101844769,
+    "wof:lastmodified":1527642626,
+    "wof:name":"Supetarska Draga",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":1170,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71641484100189,
+    44.79702665241933,
+    14.73573683264539,
+    44.81227271015223
+],
+  "geometry": {"coordinates":[[[14.73573683264539,44.79966794203443],[14.73558488228269,44.7978690240293],[14.73432528879096,44.79792611346221],[14.73424933847224,44.79702665241933],[14.73298976274208,44.79708372562754],[14.73306569299478,44.7979831877293],[14.7318060948943,44.7980402468304],[14.73188200827491,44.79893970933699],[14.73062238780352,44.79899675433097],[14.73069828431107,44.79989621724224],[14.72943864146811,44.79995324812802],[14.72951452110095,44.80085271144412],[14.72825485588544,44.80090972822137],[14.72833071864227,44.80180919194197],[14.72707103105387,44.80186619461017],[14.72714687693241,44.80276565873504],[14.72462745470852,44.80287962068479],[14.72470326363475,44.80377908627122],[14.72344352899887,44.80383604555169],[14.72359511627741,44.80563497687933],[14.72233533919319,44.8056919231056],[14.72241111754334,44.80659138884658],[14.72115131808374,44.80664832096107],[14.72122707954736,44.80754778710565],[14.71996725771186,44.80760470510768],[14.72004300228781,44.8085041716559],[14.71752331156506,44.80861796426461],[14.71767472996839,44.81041689962706],[14.71641484100189,44.81047377528876],[14.71656623199374,44.81227271015223],[14.71782616112171,44.8122158323792],[14.71775044395139,44.81131636632961],[14.71901035069959,44.81125947444195],[14.71893461663666,44.81036000879567],[14.72019450100589,44.81030310279414],[14.72011875005234,44.80940363755144],[14.7213786120434,44.80934671743637],[14.72130284420058,44.80844725259743],[14.72256268381363,44.80839031836962],[14.72248689908349,44.80749085393461],[14.72374671631894,44.80743390559434],[14.72367091470272,44.80653444156326],[14.72493070956159,44.80647747911144],[14.72485489106128,44.80557801548446],[14.72737443372449,44.8054640471899],[14.72729857826783,44.80456458502493],[14.7285583260724,44.80450757918311],[14.72848245373535,44.8036081174227],[14.73100190228985,44.80349406235189],[14.73085008691055,44.80169514110423],[14.73336944596491,44.8015810295982],[14.73329350292784,44.80068157011158],[14.73455315892829,44.80062449266728],[14.73447719901901,44.79972503358601],[14.73573683264539,44.79966794203443]]],"type":"Polygon"}
+}

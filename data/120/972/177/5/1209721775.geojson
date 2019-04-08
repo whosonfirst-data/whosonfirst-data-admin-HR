@@ -1,0 +1,75 @@
+{
+  "id": 1209721775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03083,45.30083,14.03083,45.30083",
+    "geom:latitude":45.30083,
+    "geom:longitude":14.03083,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054749.0",
+    "gn:asciiname":"Previz",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192480,
+    "gn:latitude":45.30083,
+    "gn:longitude":14.03083,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Previ\u017e",
+    "gn:population":83,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Previs Mezzari",
+        "Previs",
+        "Previ\u017e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192480
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6045499b3b0b1dda9b4385a7e99e34f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209721775,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1209721775,
+    "wof:lastmodified":1537625843,
+    "wof:name":"Previz",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":83,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03083,
+    45.30083,
+    14.03083,
+    45.30083
+],
+  "geometry": {"coordinates":[14.03083,45.30083],"type":"Point"}
+}

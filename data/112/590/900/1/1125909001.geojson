@@ -1,0 +1,113 @@
+{
+  "id": 1125909001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.84111,45.23667,17.84111,45.23667",
+    "geom:latitude":45.23667,
+    "geom:longitude":17.84111,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2190,
+    "gn:population":188,
+    "iso:country":"HR",
+    "lbl:latitude":45.23667,
+    "lbl:longitude":17.84111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Bilice"
+    ],
+    "name:dut_x_preferred":[
+        "Bilice"
+    ],
+    "name:eng_x_preferred":[
+        "Bilice"
+    ],
+    "name:hrv_x_preferred":[
+        "Bilice"
+    ],
+    "name:slv_x_preferred":[
+        "Bilice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u043b\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kadanovci"
+    ],
+    "name:unk_x_variant":[
+        "Belice"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3204156,
+    "qs_pg:gn_pop":2190,
+    "qs_pg:name":"Bilice",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Po\u017ee\u0161ko-slavonska",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":180163,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":846814,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Po\u017ee\u0161ko-slavonska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204156,
+        "gp:id":846814,
+        "qs_pg:id":180163,
+        "wd:id":"Q1901663"
+    },
+    "wof:country":"HR",
+    "wof:created":1497296077,
+    "wof:geomhash":"c0243a2a0559d222dc3b142b3dc96a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125909001,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1125909001,
+    "wof:lastmodified":1514447388,
+    "wof:name":"Bilice",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.84111,
+    45.23667,
+    17.84111,
+    45.23667
+],
+  "geometry": {"coordinates":[17.84111,45.23667],"type":"Point"}
+}

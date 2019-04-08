@@ -1,0 +1,65 @@
+{
+  "id": 1209307069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.01861,46.0075,17.01861,46.0075",
+    "geom:latitude":46.0075,
+    "geom:longitude":17.01861,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"3200960.0",
+    "gn:asciiname":"Micetinac",
+    "gn:country_code":"HR",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195200,
+    "gn:latitude":46.0075,
+    "gn:longitude":17.01861,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Mi\u010detinac",
+    "gn:population":207,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195200
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4fb8f36b97a5fd03d2cf04ee946831fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209307069
+        }
+    ],
+    "wof:id":1209307069,
+    "wof:lastmodified":1536291158,
+    "wof:name":"Micetinac",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":207,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.01861,
+    46.0075,
+    17.01861,
+    46.0075
+],
+  "geometry": {"coordinates":[17.01861,46.0075],"type":"Point"}
+}

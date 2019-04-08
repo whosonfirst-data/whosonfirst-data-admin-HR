@@ -1,0 +1,65 @@
+{
+  "id": 1226616145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.62556,43.64056,16.62556,43.64056",
+    "geom:latitude":43.64056,
+    "geom:longitude":16.62556,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Marceta",
+    "gn:country_code":"HR",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280486,
+    "gn:latitude":43.64056,
+    "gn:longitude":16.62556,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Mar\u010deta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280486
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"132f46a3bc53855c00cecec7e8d784c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226616145,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1226616145,
+    "wof:lastmodified":1536901873,
+    "wof:name":"Marceta",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.62556,
+    43.64056,
+    16.62556,
+    43.64056
+],
+  "geometry": {"coordinates":[16.62556,43.64056],"type":"Point"}
+}

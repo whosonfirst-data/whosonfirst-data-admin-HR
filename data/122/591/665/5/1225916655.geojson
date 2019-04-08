@@ -1,0 +1,73 @@
+{
+  "id": 1225916655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28472,46.15333,16.28472,46.15333",
+    "geom:latitude":46.15333,
+    "geom:longitude":16.28472,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"3194366.0",
+    "gn:asciiname":"Donje Makojisce",
+    "gn:country_code":"HR",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201558,
+    "gn:latitude":46.15333,
+    "gn:longitude":16.28472,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Donje Makoji\u0161\u0107e",
+    "gn:population":526,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donje Makoji\u0161\u0107e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201558,
+        "wk:page":"Donje_Makoji%C5%A1%C4%87e"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5e266ec57d361896ac74726f89572809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225916655,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1225916655,
+    "wof:lastmodified":1537625916,
+    "wof:name":"Donje Makojisce",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":526,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28472,
+    46.15333,
+    16.28472,
+    46.15333
+],
+  "geometry": {"coordinates":[16.28472,46.15333],"type":"Point"}
+}

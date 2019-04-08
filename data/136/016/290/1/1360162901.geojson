@@ -1,0 +1,73 @@
+{
+  "id": 1360162901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.54333,45.36028,17.54333,45.36028",
+    "geom:latitude":45.36028,
+    "geom:longitude":17.54333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"11049472.0",
+    "gn:asciiname":"Boricevci",
+    "gn:country_code":"HR",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3235864,
+    "gn:latitude":45.36028,
+    "gn:longitude":17.54333,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Bori\u010devci",
+    "gn:population":121,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bori\u010devci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3235864,
+        "wk:page":"Bori%C4%8Devci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"37f05c22eefa668a870ccb94a8f8fa79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360162901,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1360162901,
+    "wof:lastmodified":1537625959,
+    "wof:name":"Boricevci",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":121,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.54332999999999,
+    45.36028,
+    17.54332999999999,
+    45.36028
+],
+  "geometry": {"coordinates":[17.54332999999999,45.36028],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309884747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34778,45.12472,16.34778,45.12472",
+    "geom:latitude":45.12472,
+    "geom:longitude":16.34778,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gornji Javoranj",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200003,
+    "gn:latitude":45.12472,
+    "gn:longitude":16.34778,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Gornji Javoranj",
+    "gn:population":65,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Javoranj",
+        "Gornji Javoranj"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200003
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"efeb90fffe622f9bc6a5b243bc8be3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309884747,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1309884747,
+    "wof:lastmodified":1537625901,
+    "wof:name":"Gornji Javoranj",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34778,
+    45.12472,
+    16.34778,
+    45.12472
+],
+  "geometry": {"coordinates":[16.34778,45.12472],"type":"Point"}
+}

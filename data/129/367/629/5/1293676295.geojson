@@ -1,0 +1,66 @@
+{
+  "id": 1293676295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61639,45.36583,14.61639,45.36583",
+    "geom:latitude":45.36583,
+    "geom:longitude":14.61639,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Gornje Jelenje",
+    "gn:country_code":"HR",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200125,
+    "gn:latitude":45.36583,
+    "gn:longitude":14.61639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gornje Jelenje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200125,
+        "wk:page":"Gornje_Jelenje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"214da432ed7893c475e3d7d60cdd156c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293676295,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1293676295,
+    "wof:lastmodified":1537563301,
+    "wof:name":"Gornje Jelenje",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61639,
+    45.36583,
+    14.61639,
+    45.36583
+],
+  "geometry": {"coordinates":[14.61639,45.36583],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260379087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.21667,45.41667,17.21667,45.41667",
+    "geom:latitude":45.41667,
+    "geom:longitude":17.21667,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049477.0",
+    "gn:asciiname":"Seovica",
+    "gn:country_code":"HR",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190994,
+    "gn:latitude":45.41667,
+    "gn:longitude":17.21667,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"\u0160eovica",
+    "gn:population":307,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160eovica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190994,
+        "wk:page":"%C5%A0eovica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6562f36f616d50a76c6d826d845f9392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260379087,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1260379087,
+    "wof:lastmodified":1537625834,
+    "wof:name":"Seovica",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":307,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.21667,
+    45.41667,
+    17.21667,
+    45.41667
+],
+  "geometry": {"coordinates":[17.21667,45.41667],"type":"Point"}
+}

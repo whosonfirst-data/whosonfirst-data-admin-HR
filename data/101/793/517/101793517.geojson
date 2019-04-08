@@ -1,0 +1,127 @@
+{
+  "id": 101793517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:area_square_m":927954.712046,
+    "geom:bbox":"19.2520631767,45.1911384345,19.267819727,45.2036455223",
+    "geom:latitude":45.197046,
+    "geom:longitude":19.260015,
+    "gn:population":1362,
+    "iso:country":"HR",
+    "lbl:latitude":45.197051,
+    "lbl:longitude":19.260015,
+    "mps:latitude":45.197051,
+    "mps:longitude":19.260015,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Bapska"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043f\u0441\u043a\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Bapska"
+    ],
+    "name:cze_x_preferred":[
+        "Bapska"
+    ],
+    "name:dut_x_preferred":[
+        "Bapska"
+    ],
+    "name:eng_x_preferred":[
+        "Bapska"
+    ],
+    "name:fra_x_preferred":[
+        "Bapska"
+    ],
+    "name:fre_x_preferred":[
+        "Bapska"
+    ],
+    "name:hbs_x_preferred":[
+        "Bapska"
+    ],
+    "name:hrv_x_preferred":[
+        "Bapska"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1bafalva"
+    ],
+    "name:nld_x_preferred":[
+        "Bapska"
+    ],
+    "name:slv_x_preferred":[
+        "Bapska"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043f\u0441\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bapska"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vukovarsko-srijemska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Ilok",
+    "qs:la_lc":"*HR1601546",
+    "qs:level":"locality",
+    "qs:loc":"Bapska",
+    "qs:loc_alt":"Bapska",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204510,
+        "gp:id":846713,
+        "qs:id":208425,
+        "qs_pg:id":208425,
+        "wd:id":"Q1102027",
+        "wk:page":"Bapska"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"05ac6afde0e7eaa0875a75b2fc8c52b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793517,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":101793517,
+    "wof:lastmodified":1527689278,
+    "wof:name":"Bapska",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":1362,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.25206317667073,
+    45.19113843446752,
+    19.26781972697324,
+    45.20364552230524
+],
+  "geometry": {"coordinates":[[[19.26396915348619,45.20331050073992],[19.26366872979366,45.20152379672049],[19.26493188532373,45.20141209673722],[19.26478166304076,45.20051874552303],[19.26604479406274,45.20040703247656],[19.26589455817873,45.19951368248792],[19.26463144708873,45.19962539344948],[19.26418083721558,45.19694533207206],[19.26670693523982,45.19672190750964],[19.26655670475168,45.19582855616721],[19.26781972697324,45.19571682325113],[19.26751924513565,45.19393012215653],[19.26625626276751,45.19404185090292],[19.26610605127058,45.19314849698111],[19.26105415576581,45.19359525217374],[19.26090403030071,45.19270188905642],[19.2596410649204,45.19281353790728],[19.25949096570645,45.19192017184719],[19.25822801568086,45.19203180346972],[19.25807794271702,45.19113843446752],[19.25681500804654,45.191250048862],[19.25711512044745,45.19303679017196],[19.25206317667073,45.19348311295209],[19.25266315849865,45.19705661857472],[19.25392623101226,45.1969450522717],[19.25422629971956,45.19873179576632],[19.25675251076314,45.19850860938976],[19.25705268449559,45.2002953411191],[19.25831582302658,45.20018372104357],[19.25876619087308,45.20286380594621],[19.26002938463421,45.20275216447254],[19.26017953984052,45.20364552230524],[19.26396915348619,45.20331050073992]]],"type":"Polygon"}
+}

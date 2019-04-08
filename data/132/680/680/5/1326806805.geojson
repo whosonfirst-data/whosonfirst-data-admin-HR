@@ -1,0 +1,70 @@
+{
+  "id": 1326806805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85,44.08333,15.85,44.08333",
+    "geom:latitude":44.08333,
+    "geom:longitude":15.85,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"11054515.0",
+    "gn:asciiname":"Parcic",
+    "gn:country_code":"HR",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193630,
+    "gn:latitude":44.08333,
+    "gn:longitude":15.85,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Par\u010di\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Par\u010di\u0107"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193630,
+        "wk:page":"Par%C4%8Di%C4%87"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"791973a30e1c062f4432cf7f8298a840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326806805,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1326806805,
+    "wof:lastmodified":1537625851,
+    "wof:name":"Parcic",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85,
+    44.08333,
+    15.85,
+    44.08333
+],
+  "geometry": {"coordinates":[15.85,44.08333],"type":"Point"}
+}

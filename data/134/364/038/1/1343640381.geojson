@@ -1,0 +1,65 @@
+{
+  "id": 1343640381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86194,45.24861,15.86194,45.24861",
+    "geom:latitude":45.24861,
+    "geom:longitude":15.86194,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Samardzije",
+    "gn:country_code":"HR",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280872,
+    "gn:latitude":45.24861,
+    "gn:longitude":15.86194,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Samard\u017eije",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280872
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f734db5f87ce02e2647c6f0dff1a5004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343640381,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1343640381,
+    "wof:lastmodified":1536983308,
+    "wof:name":"Samardzije",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86194,
+    45.24861,
+    15.86194,
+    45.24861
+],
+  "geometry": {"coordinates":[15.86194,45.24861],"type":"Point"}
+}

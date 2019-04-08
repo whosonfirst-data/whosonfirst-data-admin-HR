@@ -1,0 +1,66 @@
+{
+  "id": 1277060263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.62722,45.52417,18.62722,45.52417",
+    "geom:latitude":45.52417,
+    "geom:longitude":18.62722,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"3193934.0",
+    "gn:asciiname":"Bresce",
+    "gn:country_code":"HR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203455,
+    "gn:latitude":45.52417,
+    "gn:longitude":18.62722,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Bre\u0161\u0107e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203455
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7a3d10615a4feb0a0acfb3f49f7a219b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277060263,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1277060263,
+    "wof:lastmodified":1536799256,
+    "wof:name":"Bresce",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.62722,
+    45.52417,
+    18.62722,
+    45.52417
+],
+  "geometry": {"coordinates":[18.62722,45.52417],"type":"Point"}
+}

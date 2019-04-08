@@ -1,0 +1,65 @@
+{
+  "id": 1259646127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.78028,44.38194,14.78028,44.38194",
+    "geom:latitude":44.38194,
+    "geom:longitude":14.78028,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sveta Stosija",
+    "gn:country_code":"HR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216974,
+    "gn:latitude":44.38194,
+    "gn:longitude":14.78028,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Sveta Sto\u0161ija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216974
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f2181d534734a5ee1dd47e6e8506abd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259646127,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1259646127,
+    "wof:lastmodified":1536622540,
+    "wof:name":"Sveta Stosija",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.78028,
+    44.38194,
+    14.78028,
+    44.38194
+],
+  "geometry": {"coordinates":[14.78028,44.38194],"type":"Point"}
+}

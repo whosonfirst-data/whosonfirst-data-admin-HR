@@ -1,0 +1,75 @@
+{
+  "id": 1276331833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37056,46.03361,16.37056,46.03361",
+    "geom:latitude":46.03361,
+    "geom:longitude":16.37056,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049395.0",
+    "gn:asciiname":"Zaistovec",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186870,
+    "gn:latitude":46.03361,
+    "gn:longitude":16.37056,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Zaistovec",
+    "gn:population":262,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaistevec",
+        "Zaistovec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186870,
+        "wk:page":"Zaistovec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7587ee0e51425a36e22ad05fbb426cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276331833,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1276331833,
+    "wof:lastmodified":1537625806,
+    "wof:name":"Zaistovec",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":262,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37056,
+    46.03361,
+    16.37056,
+    46.03361
+],
+  "geometry": {"coordinates":[16.37056,46.03361],"type":"Point"}
+}

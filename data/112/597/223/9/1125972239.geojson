@@ -1,0 +1,91 @@
+{
+  "id": 1125972239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39389,45.365,14.39389,45.365",
+    "geom:latitude":45.365,
+    "geom:longitude":14.39389,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3154,
+    "gn:population":3894,
+    "iso:country":"HR",
+    "lbl:latitude":45.365,
+    "lbl:longitude":14.39389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Marini\u0107i"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3195482,
+    "qs_pg:gn_pop":3154,
+    "qs_pg:name":"Marinci",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Istarska",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":223525,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":55853965,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Istarska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195482,
+        "gp:id":55853965,
+        "qs_pg:id":223525
+    },
+    "wof:country":"HR",
+    "wof:created":1497298218,
+    "wof:geomhash":"4f796526f057c60a998aa381fc434bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125972239,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1125972239,
+    "wof:lastmodified":1509404090,
+    "wof:name":"Marinci",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":3894,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39389,
+    45.365,
+    14.39389,
+    45.365
+],
+  "geometry": {"coordinates":[14.39389,45.365],"type":"Point"}
+}

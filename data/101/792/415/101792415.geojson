@@ -1,0 +1,146 @@
+{
+  "id": 101792415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000145,
+    "geom:area_square_m":1247083.163125,
+    "geom:bbox":"18.7228701461,45.740413402,18.7434761769,45.7593958661",
+    "geom:latitude":45.75056,
+    "geom:longitude":18.731846,
+    "gn:population":4,
+    "iso:country":"HR",
+    "lbl:latitude":45.751006,
+    "lbl:longitude":18.730285,
+    "mps:latitude":45.751006,
+    "mps:longitude":18.730285,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Kne\u017eevi Vinogradi"
+    ],
+    "name:dut_x_preferred":[
+        "Kne\u017eevi Vinogradi"
+    ],
+    "name:eng_x_preferred":[
+        "Kne\u017eevi Vinogradi"
+    ],
+    "name:epo_x_preferred":[
+        "Kne\u017eevi Vinogradi"
+    ],
+    "name:fra_x_preferred":[
+        "Kne\u017eevi Vinogradi"
+    ],
+    "name:fre_x_preferred":[
+        "Kne\u017eevi Vinogradi"
+    ],
+    "name:hrv_x_preferred":[
+        "Kne\u017eevi Vinogradi"
+    ],
+    "name:hun_x_preferred":[
+        "Hercegsz\u00f6ll\u0151s"
+    ],
+    "name:ita_x_preferred":[
+        "Kne\u017eevi Vinogradi"
+    ],
+    "name:lat_x_preferred":[
+        "Donatium"
+    ],
+    "name:nld_x_preferred":[
+        "Kne\u017eevi Vinogradi"
+    ],
+    "name:pol_x_preferred":[
+        "Kne\u017eevi Vinogradi"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Kne\u017eevi Vinogradi"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Kne\u017eevi Vinogradi"
+    ],
+    "name:slv_x_preferred":[
+        "Kne\u017eevi Vinogradi"
+    ],
+    "name:spa_x_preferred":[
+        "Kne\u017eevi Vinogradi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043d\u0435\u0436\u0435\u0432\u0438 \u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u0438"
+    ],
+    "name:und_x_colloquial":[
+        "Knezevi Vinogradi"
+    ],
+    "name:und_x_preferred":[
+        "Kne\u017eevi Vinogradi"
+    ],
+    "name:war_x_preferred":[
+        "Kne\u017eevi Vinogradi"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Kne\u017eevi Vinogradi",
+    "qs:la_lc":"*HR1401953",
+    "qs:level":"locality",
+    "qs:loc":"Kne\u017eevi Vinogradi",
+    "qs:loc_alt":"Knezevi Vinogradi",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":348,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115c18fa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3197997,
+        "gp:id":848446,
+        "qs:id":940547,
+        "qs_pg:id":940547,
+        "wd:id":"Q733966",
+        "wk:page":"Kne\u017eevi Vinogradi"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"905d210957b263c39bd603b70d0a4f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101792415,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101792415,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527714634,
+    "wof:name":"Kne\u017eevi Vinogradi",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.72287014614113,
+    45.74041340196356,
+    18.7434761768979,
+    45.75939586608536
+],
+  "geometry": {"coordinates":[[[18.72900039741506,45.75560950367259],[18.7341071758749,45.75518766657649],[18.73425112931585,45.75608153975145],[18.73680453292565,45.75587052512878],[18.73666053840378,45.75497665595685],[18.74049054880572,45.75466002493931],[18.74092273565736,45.75734161204844],[18.7434761768979,45.7571304359617],[18.74289977573,45.75355500091428],[18.74162313949506,45.753660588618],[18.74133501684508,45.75187286231164],[18.74005841723044,45.75197843066627],[18.73991438565372,45.75108456431644],[18.73863780212201,45.75119011532507],[18.73834979845878,45.74940237623321],[18.73324358410451,45.74982441081914],[18.73238021320583,45.74446112641431],[18.72982732572933,45.74467202764589],[18.72968349310776,45.74377814012649],[18.72840706323115,45.74388356573002],[18.72826325727056,45.74298967541534],[18.72698684347847,45.7430950836781],[18.72655552395867,45.74041340196356],[18.72400280621531,45.74062416047377],[18.72414653220466,45.7415180591712],[18.72287014614113,45.74162341741265],[18.72315757544055,45.74341121641606],[18.72443400256293,45.74330585417852],[18.72515278569318,45.74777532777614],[18.72642931103371,45.74766994020388],[18.7278675424111,45.75660880776024],[18.7265908116841,45.75671421532456],[18.7270223390542,45.75939586608536],[18.7295759193243,45.75918502361139],[18.72900039741506,45.75560950367259]]],"type":"Polygon"}
+}

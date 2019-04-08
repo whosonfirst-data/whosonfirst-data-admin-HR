@@ -1,0 +1,111 @@
+{
+  "id": 101792377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":488837.351982,
+    "geom:bbox":"15.8865180633,45.914329425,15.9025159718,45.9241320928",
+    "geom:latitude":45.919708,
+    "geom:longitude":15.894376,
+    "iso:country":"HR",
+    "lbl:latitude":45.921082,
+    "lbl:longitude":15.896497,
+    "mps:latitude":45.921082,
+    "mps:longitude":15.896497,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Gornja Bistra"
+    ],
+    "name:dut_x_preferred":[
+        "Gornja Bistra"
+    ],
+    "name:eng_x_preferred":[
+        "Gornja Bistra"
+    ],
+    "name:hbs_x_preferred":[
+        "Gornja Bistra"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornja Bistra"
+    ],
+    "name:hun_x_preferred":[
+        "Gornja Bistra"
+    ],
+    "name:nld_x_preferred":[
+        "Gornja Bistra"
+    ],
+    "name:slv_x_preferred":[
+        "Gornja Bistra"
+    ],
+    "name:spa_x_preferred":[
+        "Gornja Bistra"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0430 \u0411\u0438\u0441\u0442\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gornja Bistra"
+    ],
+    "name:unk_x_variant":[
+        "Bistra Gornja"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zagrebacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Bistra",
+    "qs:la_lc":"*HR0105479",
+    "qs:level":"locality",
+    "qs:loc":"Gornja Bistra",
+    "qs:loc_alt":"Gornja Bistra",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200286,
+        "gp:id":847784,
+        "qs:id":959276,
+        "wd:id":"Q850523",
+        "wk:page":"Gornja Bistra"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ca98fe3fd352fa88129b607bba4f0da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101792377,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":101792377,
+    "wof:lastmodified":1527714636,
+    "wof:name":"Gornja Bistra",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8865180633216,
+    45.91432942497124,
+    15.90251597184914,
+    45.92413209282699
+],
+  "geometry": {"coordinates":[[[15.89599642662404,45.92309189905995],[15.89984946318191,45.92287793040811],[15.89994725394229,45.92377554907301],[15.90251597184914,45.92363282308997],[15.90241813897524,45.92273520715531],[15.90113380260357,45.92280657653009],[15.90084039235688,45.92011372083414],[15.8982718367954,45.92025640490493],[15.89807633517802,45.918461159152],[15.89679209493141,45.9185324752151],[15.89669437147188,45.91763485002542],[15.89284169560966,45.91784870115089],[15.89254873986573,45.91515580951517],[15.89126457164025,45.91522705814452],[15.8911669491618,45.91432942497124],[15.88988279894238,45.91440065674374],[15.89007800599239,45.91619592518219],[15.88879381062992,45.91626714418408],[15.88889139939113,45.91716477881647],[15.88760717993506,45.91723598368515],[15.88780232792595,45.9190312537761],[15.8865180633216,45.91910244587245],[15.88661562254879,45.92000008133118],[15.89303702040934,45.91964395907792],[15.89313468910132,45.92054158709266],[15.89441898059459,45.92047031479029],[15.89471207500907,45.92316319094954],[15.89342772034752,45.92323446734213],[15.89352540582092,45.92413209282699],[15.8960941542129,45.92398952181776],[15.89599642662404,45.92309189905995]]],"type":"Polygon"}
+}

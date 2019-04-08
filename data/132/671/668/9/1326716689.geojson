@@ -1,0 +1,67 @@
+{
+  "id": 1326716689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.4,43.95,16.4,43.95",
+    "geom:latitude":43.95,
+    "geom:longitude":16.4,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"11054513.0",
+    "gn:asciiname":"Civljane",
+    "gn:country_code":"HR",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3202553,
+    "gn:latitude":43.95,
+    "gn:longitude":16.4,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Civljane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202553,
+        "wk:page":"Civljane"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"851b4cfef8f0df9a709f4e8042668697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326716689,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1326716689,
+    "wof:lastmodified":1537563307,
+    "wof:name":"Civljane",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.4,
+    43.95,
+    16.4,
+    43.95
+],
+  "geometry": {"coordinates":[16.4,43.95],"type":"Point"}
+}

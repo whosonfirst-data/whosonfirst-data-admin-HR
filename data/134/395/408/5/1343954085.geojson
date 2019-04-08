@@ -1,0 +1,73 @@
+{
+  "id": 1343954085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46472,45.73778,18.46472,45.73778",
+    "geom:latitude":45.73778,
+    "geom:longitude":18.46472,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054474.0",
+    "gn:asciiname":"Novi Bezdan",
+    "gn:country_code":"HR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194392,
+    "gn:latitude":45.73778,
+    "gn:longitude":18.46472,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Novi Bezdan",
+    "gn:population":300,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "\u00dajbezd\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194392,
+        "wk:page":"Novi_Bezdan"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0c839bd7ba76bcbde415d1cacb7d3345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343954085,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1343954085,
+    "wof:lastmodified":1537625855,
+    "wof:name":"Novi Bezdan",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46472,
+    45.73778,
+    18.46472,
+    45.73778
+],
+  "geometry": {"coordinates":[18.46472,45.73778],"type":"Point"}
+}

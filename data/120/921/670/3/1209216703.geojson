@@ -1,0 +1,62 @@
+{
+  "id": 1209216703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56528,42.96917,17.56528,42.96917",
+    "geom:latitude":42.96917,
+    "geom:longitude":17.56528,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"11054963.0",
+    "gn:asciiname":"Rosni Do",
+    "gn:country_code":"HR",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288069,
+    "gn:latitude":42.96917,
+    "gn:longitude":17.56528,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Rosni Do",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288069
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8a672ddd8d9be857e6e4d38a5474dd05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209216703
+        }
+    ],
+    "wof:id":1209216703,
+    "wof:lastmodified":1536294107,
+    "wof:name":"Rosni Do",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.565279999999998,
+    42.96917,
+    17.565279999999998,
+    42.96917
+],
+  "geometry": {"coordinates":[17.56528,42.96917],"type":"Point"}
+}

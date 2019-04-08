@@ -1,0 +1,66 @@
+{
+  "id": 1226233081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6475,44.36833,15.6475,44.36833",
+    "geom:latitude":44.36833,
+    "geom:longitude":15.6475,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049288.0",
+    "gn:asciiname":"Kipanska Draga",
+    "gn:country_code":"HR",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216763,
+    "gn:latitude":44.36833,
+    "gn:longitude":15.6475,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Kipanska Draga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216763
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2d4b3f2418536b92e964c96d4e4597a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226233081,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1226233081,
+    "wof:lastmodified":1536952064,
+    "wof:name":"Kipanska Draga",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6475,
+    44.36833,
+    15.6475,
+    44.36833
+],
+  "geometry": {"coordinates":[15.6475,44.36833],"type":"Point"}
+}

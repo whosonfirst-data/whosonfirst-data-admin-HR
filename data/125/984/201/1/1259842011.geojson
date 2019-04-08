@@ -1,0 +1,65 @@
+{
+  "id": 1259842011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28278,44.07694,15.28278,44.07694",
+    "geom:latitude":44.07694,
+    "geom:longitude":15.28278,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Soric",
+    "gn:country_code":"HR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215623,
+    "gn:latitude":44.07694,
+    "gn:longitude":15.28278,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Soric",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215623
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7edf19c242403dcb9eb8228d3c8a241d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259842011,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1259842011,
+    "wof:lastmodified":1536838003,
+    "wof:name":"Soric",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28278,
+    44.07694,
+    15.28278,
+    44.07694
+],
+  "geometry": {"coordinates":[15.28278,44.07694],"type":"Point"}
+}

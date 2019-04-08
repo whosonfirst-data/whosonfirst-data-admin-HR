@@ -1,0 +1,72 @@
+{
+  "id": 1243176923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61667,45.39694,15.61667,45.39694",
+    "geom:latitude":45.39694,
+    "geom:longitude":15.61667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tusilovic",
+    "gn:country_code":"HR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188597,
+    "gn:latitude":45.39694,
+    "gn:longitude":15.61667,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Tu\u0161ilovi\u0107",
+    "gn:population":631,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tu\u0161ilovi\u0107"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188597,
+        "wk:page":"Tu%C5%A1ilovi%C4%87"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3cd35a954d8fb801f72a113fdfd5486e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243176923,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1243176923,
+    "wof:lastmodified":1537625817,
+    "wof:name":"Tusilovic",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":631,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61667,
+    45.39694,
+    15.61667,
+    45.39694
+],
+  "geometry": {"coordinates":[15.61667,45.39694],"type":"Point"}
+}

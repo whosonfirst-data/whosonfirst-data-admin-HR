@@ -1,0 +1,66 @@
+{
+  "id": 1310091133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23194,44.97861,15.23194,44.97861",
+    "geom:latitude":44.97861,
+    "geom:longitude":15.23194,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049284.0",
+    "gn:asciiname":"Perkovici",
+    "gn:country_code":"HR",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218332,
+    "gn:latitude":44.97861,
+    "gn:longitude":15.23194,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Perkovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218332
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"17cf360d8ed983b59fd0fa96a922dc5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310091133,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1310091133,
+    "wof:lastmodified":1537016556,
+    "wof:name":"Perkovici",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23194,
+    44.97861,
+    15.23194,
+    44.97861
+],
+  "geometry": {"coordinates":[15.23194,44.97861],"type":"Point"}
+}

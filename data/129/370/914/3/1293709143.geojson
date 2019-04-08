@@ -1,0 +1,73 @@
+{
+  "id": 1293709143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66472,44.445,15.66472,44.445",
+    "geom:latitude":44.445,
+    "geom:longitude":15.66472,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049288.0",
+    "gn:asciiname":"Gornja Ploca",
+    "gn:country_code":"HR",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200205,
+    "gn:latitude":44.445,
+    "gn:longitude":15.66472,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Gornja Plo\u010da",
+    "gn:population":45,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornja Plo\u010da"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200205,
+        "wk:page":"Gornja_Plo%C4%8Da"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bc8a85fdcd547a0330dcf04f645135e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293709143,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1293709143,
+    "wof:lastmodified":1537625903,
+    "wof:name":"Gornja Ploca",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66472,
+    44.445,
+    15.66472,
+    44.445
+],
+  "geometry": {"coordinates":[15.66472,44.445],"type":"Point"}
+}

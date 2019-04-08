@@ -1,0 +1,75 @@
+{
+  "id": 1309902949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16528,45.02111,15.16528,45.02111",
+    "geom:latitude":45.02111,
+    "geom:longitude":15.16528,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049284.0",
+    "gn:asciiname":"Krizpolje",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197210,
+    "gn:latitude":45.02111,
+    "gn:longitude":15.16528,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Kri\u017epolje",
+    "gn:population":510,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kri\u0161polje",
+        "Kri\u017epolje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197210,
+        "wk:page":"Kri%C5%BEpolje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bc46c547f832b146641bbde7604e649e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309902949,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1309902949,
+    "wof:lastmodified":1537625879,
+    "wof:name":"Krizpolje",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":510,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16528,
+    45.02111,
+    15.16528,
+    45.02111
+],
+  "geometry": {"coordinates":[15.16528,45.02111],"type":"Point"}
+}

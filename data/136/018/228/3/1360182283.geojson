@@ -1,0 +1,72 @@
+{
+  "id": 1360182283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1456,44.55874,15.1456,44.55874",
+    "geom:latitude":44.55874,
+    "geom:longitude":15.1456,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049287.0",
+    "gn:asciiname":"Crni Dabar",
+    "gn:country_code":"HR",
+    "gn:dem":673,
+    "gn:elevation":"670.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202430,
+    "gn:latitude":44.55874,
+    "gn:longitude":15.1456,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Crni Dabar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dabar Crni",
+        "Crni Dabar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202430,
+        "wk:page":"Crni_Dabar"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4f6a7ca7883fd2f802fc4920766dfee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360182283,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1360182283,
+    "wof:lastmodified":1537625922,
+    "wof:name":"Crni Dabar",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1456,
+    44.55874,
+    15.1456,
+    44.55874
+],
+  "geometry": {"coordinates":[15.1456,44.55874],"type":"Point"}
+}

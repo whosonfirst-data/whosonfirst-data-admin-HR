@@ -1,0 +1,76 @@
+{
+  "id": 1226440271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.58333,46.01667,16.58333,46.01667",
+    "geom:latitude":46.01667,
+    "geom:longitude":16.58333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"3197228.0",
+    "gn:asciiname":"Lemes Krizevacki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196685,
+    "gn:latitude":46.01667,
+    "gn:longitude":16.58333,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Leme\u0161 Kri\u017eeva\u010dki",
+    "gn:population":183,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leme\u0161 Vojakova\u010dki",
+        "Kri\u017eeva\u010dki Leme\u0161",
+        "Leme\u0161",
+        "Leme\u0161 Kri\u017eeva\u010dki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196685
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"58f8024bc7aff6ee29b155a2a92245e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226440271,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1226440271,
+    "wof:lastmodified":1537625875,
+    "wof:name":"Lemes Krizevacki",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.58333,
+    46.01667,
+    16.58333,
+    46.01667
+],
+  "geometry": {"coordinates":[16.58333,46.01667],"type":"Point"}
+}

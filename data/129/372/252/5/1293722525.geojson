@@ -1,0 +1,74 @@
+{
+  "id": 1293722525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.04194,45.09417,14.04194,45.09417",
+    "geom:latitude":45.09417,
+    "geom:longitude":14.04194,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11072234.0",
+    "gn:asciiname":"Mali Turini",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195609,
+    "gn:latitude":45.09417,
+    "gn:longitude":14.04194,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Mali Turini",
+    "gn:population":39,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turrini Piccole",
+        "Mali Turini"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195609
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"85ee02152fac10407a03fd9f59a8b3b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293722525,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1293722525,
+    "wof:lastmodified":1537625866,
+    "wof:name":"Mali Turini",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":39,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.04194,
+    45.09417,
+    14.04194,
+    45.09417
+],
+  "geometry": {"coordinates":[14.04194,45.09417],"type":"Point"}
+}

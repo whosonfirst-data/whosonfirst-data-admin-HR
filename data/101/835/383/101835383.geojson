@@ -1,0 +1,184 @@
+{
+  "id": 101835383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000144,
+    "geom:area_square_m":1241242.941537,
+    "geom:bbox":"15.7598472405,45.7832674615,15.785600143,45.803066926",
+    "geom:latitude":45.796997,
+    "geom:longitude":15.773576,
+    "gn:population":1338,
+    "iso:country":"HR",
+    "lbl:latitude":45.797344,
+    "lbl:longitude":15.776963,
+    "mps:latitude":45.797344,
+    "mps:longitude":15.776963,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:ces_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u06a4\u06ce\u062a\u0627 \u0646\u06ce\u062f\u06ce\u0644\u0627"
+    ],
+    "name:cze_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:deu_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:dut_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:eng_x_preferred":[
+        "Nedjelja"
+    ],
+    "name:eng_x_variant":[
+        "Sveta Nedelja"
+    ],
+    "name:epo_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062a\u0627 \u0646\u062f\u0644\u06cc\u0627\u060c \u0627\u06cc\u0627\u0644\u062a \u0632\u0627\u06af\u0631\u0628"
+    ],
+    "name:fra_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:fre_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:ger_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:hbs_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:hrv_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:hun_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:ita_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:nld_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0648\u062a\u0627 \u0646\u062f\u0644\u06cc\u0627\u060c \u0627\u06cc\u0627\u0644\u062a \u0632\u0627\u06af\u0631\u0628"
+    ],
+    "name:pol_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:ron_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:rum_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0430-\u041d\u0435\u0434\u0435\u043b\u044f"
+    ],
+    "name:slo_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:slv_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:spa_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0430 \u041d\u0435\u0434\u0435\u0459\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0430-\u041d\u0435\u0434\u0435\u043b\u04d9"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0430 \u041d\u0435\u0434\u0435\u043b\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Sveta Nedjelja"
+    ],
+    "name:unk_x_variant":[
+        "Nedjelja"
+    ],
+    "name:war_x_preferred":[
+        "Sveta Nedelja"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zagrebacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Samobor",
+    "qs:la_lc":"*HR0103808",
+    "qs:level":"locality",
+    "qs:loc":"Sveta Nedelja",
+    "qs:loc_alt":"Sveta Nedelja",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":45.8,
+    "wd:longitude":15.783333,
+    "wd:wordcount":365,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115d2146-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3189386,
+        "gp:id":850571,
+        "qs:id":967177,
+        "wd:id":"Q856385",
+        "wk:page":"Sveta Nedelja, Zagreb County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"740519a3fde7dec7d6f6723bfbae1172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101835383,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":101835383,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642775,
+    "wof:name":"Sveta Nedelja",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":1338,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7598472405179,
+    45.78326746146649,
+    15.78560014298301,
+    45.80306692602363
+],
+  "geometry": {"coordinates":[[[[15.78560014298301,45.79732499846693],[15.78112046246952,45.78853908770498],[15.78086911200552,45.7885527978093],[15.78096455555692,45.78945062458189],[15.77712055141967,45.78966020560284],[15.77721593625427,45.79055803573453],[15.7784972948678,45.79048818951969],[15.77887895883009,45.79407949837139],[15.77375317157913,45.7943588117829],[15.77394386056619,45.79615447304741],[15.77266236446019,45.79622426541516],[15.77275769413978,45.79712209642616],[15.76891312521434,45.79733138476479],[15.76881785836412,45.79643354976395],[15.76753635040802,45.79650328029521],[15.76744110858237,45.79560544333128],[15.76615961860853,45.79567515707402],[15.76606440180609,45.79477731814671],[15.76478292981392,45.79484701510211],[15.7648781256745,45.79574485535812],[15.76359662978132,45.79581453818298],[15.76369180877788,45.79671237913317],[15.7598472405179,45.79692133883606],[15.76022774594645,45.80051271223118],[15.76150935544143,45.8004430691459],[15.76160451293896,45.80134090958239],[15.76288614042312,45.80127124970824],[15.76307650955141,45.80306692602363],[15.76692149994022,45.80285784566331],[15.76663576383078,45.80016434219806],[15.77432528757225,45.79974578796254],[15.77442065454045,45.80064361510529],[15.78082861419313,45.80029438809675],[15.78073314249718,45.79939656761195],[15.78201470458066,45.79932667716207],[15.78191921603201,45.79842885737486],[15.78320075420271,45.7983589527978],[15.78310524880249,45.79746113370851],[15.78560014298301,45.79732499846693]]],[[[15.779328566657,45.78502467710013],[15.77917302737796,45.78471962091982],[15.77920615160519,45.78503135350445],[15.779328566657,45.78502467710013]]],[[[15.77888059075349,45.78414607062382],[15.77843261348312,45.78326746146649],[15.77773416314733,45.78330554132845],[15.77782954030897,45.78420337457635],[15.77888059075349,45.78414607062382]]]],"type":"MultiPolygon"}
+}

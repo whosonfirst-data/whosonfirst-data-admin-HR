@@ -1,0 +1,89 @@
+{
+  "id": 1125975525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.07,46.27028,16.07,46.27028",
+    "geom:latitude":46.27028,
+    "geom:longitude":16.07,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1056,
+    "gn:population":1056,
+    "iso:country":"HR",
+    "lbl:latitude":46.27028,
+    "lbl:longitude":16.07,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Klenovnik"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3198078,
+    "qs_pg:gn_pop":1056,
+    "qs_pg:name":"Lovnik",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Slovenska Bistrica",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":529395,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55851790,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Slovenska Bistrica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198078,
+        "gp:id":55851790,
+        "qs_pg:id":529395
+    },
+    "wof:country":"HR",
+    "wof:created":1497298331,
+    "wof:geomhash":"5adec5111ada9882f9c9b585b1b078e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125975525,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1125975525,
+    "wof:lastmodified":1509404337,
+    "wof:name":"Lovnik",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":1056,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.07,
+    46.27028,
+    16.07,
+    46.27028
+],
+  "geometry": {"coordinates":[16.07,46.27028],"type":"Point"}
+}

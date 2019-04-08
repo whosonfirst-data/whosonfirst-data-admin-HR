@@ -1,0 +1,66 @@
+{
+  "id": 1310125907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12667,44.78167,15.12667,44.78167",
+    "geom:latitude":44.78167,
+    "geom:longitude":15.12667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049291.0",
+    "gn:asciiname":"Goljak",
+    "gn:country_code":"HR",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3217847,
+    "gn:latitude":44.78167,
+    "gn:longitude":15.12667,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Goljak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217847
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"300d008a51b9f16d519435a8e9a7b782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310125907,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1310125907,
+    "wof:lastmodified":1536966853,
+    "wof:name":"Goljak",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12667,
+    44.78167,
+    15.12667,
+    44.78167
+],
+  "geometry": {"coordinates":[15.12667,44.78167],"type":"Point"}
+}

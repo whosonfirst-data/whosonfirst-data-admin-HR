@@ -1,0 +1,69 @@
+{
+  "id": 1226515441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6375,43.77583,16.6375,43.77583",
+    "geom:latitude":43.77583,
+    "geom:longitude":16.6375,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"11054604.0",
+    "gn:asciiname":"Rumin",
+    "gn:country_code":"HR",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191423,
+    "gn:latitude":43.77583,
+    "gn:longitude":16.6375,
+    "gn:modification_date":"2017-01-01",
+    "gn:name":"Rumin",
+    "gn:population":190,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191423
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"632c165a43e63cde06c6a700c2f80dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226515441,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1226515441,
+    "wof:lastmodified":1537040132,
+    "wof:name":"Rumin",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":190,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6375,
+    43.77583,
+    16.6375,
+    43.77583
+],
+  "geometry": {"coordinates":[16.6375,43.77583],"type":"Point"}
+}

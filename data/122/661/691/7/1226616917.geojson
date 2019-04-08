@@ -1,0 +1,65 @@
+{
+  "id": 1226616917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41528,45.17889,16.41528,45.17889",
+    "geom:latitude":45.17889,
+    "geom:longitude":16.41528,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nozinici",
+    "gn:country_code":"HR",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281206,
+    "gn:latitude":45.17889,
+    "gn:longitude":16.41528,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"No\u017eini\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281206
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b27938cfc9d651d4e00ef5127405d3ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226616917,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1226616917,
+    "wof:lastmodified":1536900873,
+    "wof:name":"Nozinici",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41528,
+    45.17889,
+    16.41528,
+    45.17889
+],
+  "geometry": {"coordinates":[16.41528,45.17889],"type":"Point"}
+}

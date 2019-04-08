@@ -1,0 +1,136 @@
+{
+  "id": 101791223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":808077.531231,
+    "geom:bbox":"16.9246524999,45.9186365714,16.9499349907,45.9371255342",
+    "geom:latitude":45.928992,
+    "geom:longitude":16.932611,
+    "iso:country":"HR",
+    "lbl:latitude":45.927065,
+    "lbl:longitude":16.929643,
+    "mps:latitude":45.927065,
+    "mps:longitude":16.929643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Veliko Trojstvo"
+    ],
+    "name:dut_x_preferred":[
+        "Veliko Trojstvo"
+    ],
+    "name:eng_x_preferred":[
+        "Trojstvo Veliko"
+    ],
+    "name:fra_x_preferred":[
+        "Veliko Trojstvo"
+    ],
+    "name:fre_x_preferred":[
+        "Veliko Trojstvo"
+    ],
+    "name:hbs_x_preferred":[
+        "Veliko Trojstvo"
+    ],
+    "name:hrv_x_preferred":[
+        "Veliko Trojstvo"
+    ],
+    "name:ita_x_preferred":[
+        "Veliko Trojstvo"
+    ],
+    "name:nld_x_preferred":[
+        "Veliko Trojstvo"
+    ],
+    "name:pol_x_preferred":[
+        "Veliko Trojstvo"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Veliko Trojstvo"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Veliko Trojstvo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e-\u0422\u0440\u043e\u0439\u0441\u0442\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Veliko Trojstvo"
+    ],
+    "name:spa_x_preferred":[
+        "Veliko Trojstvo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u0440\u043e\u0458\u0441\u0442\u0432\u043e"
+    ],
+    "name:und_x_preferred":[
+        "Veliko Trojstvo"
+    ],
+    "name:unk_x_variant":[
+        "Trojstvo Veliko"
+    ],
+    "name:war_x_preferred":[
+        "Veliko Trojstvo"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Bjelovarsko-bilogorska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Veliko Trojstvo",
+    "qs:la_lc":"*HR0704839",
+    "qs:level":"locality",
+    "qs:loc":"Veliko Trojstvo",
+    "qs:loc_alt":"Veliko Trojstvo",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":105,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115d4d10-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3187919,
+        "gp:id":850910,
+        "qs:id":1286780,
+        "wd:id":"Q283356",
+        "wk:page":"Veliko Trojstvo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"afc524ca1ab0395ddb45d0b522a75c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791223,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":101791223,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527641957,
+    "wof:name":"Veliko Trojstvo",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.92465249993381,
+    45.91863657140755,
+    16.94993499072024,
+    45.93712553424973
+],
+  "geometry": {"coordinates":[[[16.93733088518479,45.93695781480392],[16.93721588223082,45.93606143998795],[16.9384993299675,45.93597755866296],[16.93838431099181,45.93508118476888],[16.94993499072024,45.9343255711517],[16.94970459040951,45.93253285020063],[16.94457115845495,45.9328688203251],[16.94468627232931,45.93376518756259],[16.93441906872931,45.93443639814109],[16.93430412248637,45.93354001807563],[16.93302072687186,45.9336238481838],[16.93279089108785,45.93183108280408],[16.93150753380166,45.93191489423958],[16.93116287995576,45.92922573625424],[16.93244617438666,45.92914192962377],[16.93233127867859,45.92824554386721],[16.93361454858155,45.92816172337075],[16.93338473005451,45.92636895301598],[16.93210150204834,45.9264527703092],[16.93152714671311,45.92197082448371],[16.9276777554162,45.92222215954882],[16.92721861113432,45.91863657140755],[16.92465249993381,45.91880403799075],[16.92488197846171,45.92059683982393],[16.92616507773175,45.92051311106542],[16.92662417762887,45.92409870015297],[16.92534099458197,45.92418243531063],[16.92557053217905,45.92597522896494],[16.9268537571196,45.92589149060717],[16.92731297519737,45.92947706333837],[16.92602966645848,45.92956080809705],[16.92625926314588,45.93135359357552],[16.92754261378906,45.93126984561616],[16.92765744047432,45.93216623573295],[16.93022417293713,45.93199869020617],[16.93033904645654,45.93289507644005],[16.93162242827532,45.9328112788719],[16.93185223201067,45.93460404609243],[16.93313565215982,45.93452022985156],[16.9333655175289,45.93631299114332],[16.93464897601075,45.93622915622814],[16.93476393705021,45.93712553424973],[16.93733088518479,45.93695781480392]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1309697715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67,44.31056,15.67,44.31056",
+    "geom:latitude":44.31056,
+    "geom:longitude":15.67,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049288.0",
+    "gn:asciiname":"Smolcic",
+    "gn:country_code":"HR",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216165,
+    "gn:latitude":44.31056,
+    "gn:longitude":15.67,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Smol\u010di\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216165
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c4fbfbb55f3f8e61fa610156c97657de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309697715,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1309697715,
+    "wof:lastmodified":1537083823,
+    "wof:name":"Smolcic",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67,
+    44.31056,
+    15.67,
+    44.31056
+],
+  "geometry": {"coordinates":[15.67,44.31056],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242696405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17599,45.75857,16.17599,45.75857",
+    "geom:latitude":45.75857,
+    "geom:longitude":16.17599,
+    "gn:asciiname":"Novaki Nartski",
+    "gn:country_code":"HR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8741100,
+    "gn:latitude":45.75857,
+    "gn:longitude":16.17599,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Novaki Nartski",
+    "gn:population":68,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8741100
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3159ac2ac44158b262239d648d169c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242696405,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1242696405,
+    "wof:lastmodified":1536892327,
+    "wof:name":"Novaki Nartski",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":68,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17599,
+    45.75857,
+    16.17599,
+    45.75857
+],
+  "geometry": {"coordinates":[16.17599,45.75857],"type":"Point"}
+}

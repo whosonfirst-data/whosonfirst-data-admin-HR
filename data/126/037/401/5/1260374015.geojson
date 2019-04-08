@@ -1,0 +1,69 @@
+{
+  "id": 1260374015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6325,45.385,16.6325,45.385",
+    "geom:latitude":45.385,
+    "geom:longitude":16.6325,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"11049233.0",
+    "gn:asciiname":"Bistrac",
+    "gn:country_code":"HR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204078,
+    "gn:latitude":45.385,
+    "gn:longitude":16.6325,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Bistra\u010d",
+    "gn:population":40,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204078
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5b1c0487cbee36da4d72fd0c8f0d0213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260374015,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1260374015,
+    "wof:lastmodified":1537084422,
+    "wof:name":"Bistrac",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6325,
+    45.385,
+    16.6325,
+    45.385
+],
+  "geometry": {"coordinates":[16.6325,45.385],"type":"Point"}
+}

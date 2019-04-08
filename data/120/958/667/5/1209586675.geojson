@@ -1,0 +1,68 @@
+{
+  "id": 1209586675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8625,45.49056,16.8625,45.49056",
+    "geom:latitude":45.49056,
+    "geom:longitude":16.8625,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3196862.0",
+    "gn:asciiname":"Gojlo",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3200505,
+    "gn:latitude":45.49056,
+    "gn:longitude":16.8625,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Gojlo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gojilo",
+        "Goilo",
+        "Gojlo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200505
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"86eee897abe4fd5d6fccc4ee17e2061e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209586675
+        }
+    ],
+    "wof:id":1209586675,
+    "wof:lastmodified":1537625906,
+    "wof:name":"Gojlo",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8625,
+    45.49056,
+    16.8625,
+    45.49056
+],
+  "geometry": {"coordinates":[16.8625,45.49056],"type":"Point"}
+}

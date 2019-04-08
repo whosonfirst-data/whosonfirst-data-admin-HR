@@ -1,0 +1,108 @@
+{
+  "id": 1125858489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.95528,44.86389,18.95528,44.86389",
+    "geom:latitude":44.86389,
+    "geom:longitude":18.95528,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":987,
+    "gn:population":700,
+    "iso:country":"HR",
+    "lbl:latitude":44.86389,
+    "lbl:longitude":18.95528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Ra\u010dinovci"
+    ],
+    "name:dut_x_preferred":[
+        "Ra\u010dinovci"
+    ],
+    "name:eng_x_preferred":[
+        "Ra\u010dinovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Ra\u010dinovci"
+    ],
+    "name:slv_x_preferred":[
+        "Ra\u010dinovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0447\u0438\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ra\u010dinovci"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3192159,
+    "qs_pg:gn_pop":987,
+    "qs_pg:name":"Ra\u010dinovci",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Vukovarsko-Srijemska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1275451,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":849924,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Vukovarsko-Srijemska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192159,
+        "gp:id":849924,
+        "qs_pg:id":1275451,
+        "wd:id":"Q1289088"
+    },
+    "wof:country":"HR",
+    "wof:created":1497293723,
+    "wof:geomhash":"54619a9a1c15e2a3edc79ea176a03f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125858489,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":1125858489,
+    "wof:lastmodified":1514447610,
+    "wof:name":"Ra\u010dinovci",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":700,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.95528,
+    44.86389,
+    18.95528,
+    44.86389
+],
+  "geometry": {"coordinates":[18.95528,44.86389],"type":"Point"}
+}

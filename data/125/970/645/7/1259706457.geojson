@@ -1,0 +1,66 @@
+{
+  "id": 1259706457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25,45.18333,15.25,45.18333",
+    "geom:latitude":45.18333,
+    "geom:longitude":15.25,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"3194182.0",
+    "gn:asciiname":"Donje Zagorje",
+    "gn:country_code":"HR",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201518,
+    "gn:latitude":45.18333,
+    "gn:longitude":15.25,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Donje Zagorje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201518
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8e45693159086ad663139af3a2d8ecea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259706457,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1259706457,
+    "wof:lastmodified":1537032617,
+    "wof:name":"Donje Zagorje",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25,
+    45.18333,
+    15.25,
+    45.18333
+],
+  "geometry": {"coordinates":[15.25,45.18333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343561513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9625,45.23306,13.9625,45.23306",
+    "geom:latitude":45.23306,
+    "geom:longitude":13.9625,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"3193560.0",
+    "gn:asciiname":"Lindar",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196555,
+    "gn:latitude":45.23306,
+    "gn:longitude":13.9625,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Lindar",
+    "gn:population":402,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Linduro",
+        "Lindaro",
+        "Lindar"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196555
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fe9d93c70f5fceec8a7bd340d6b9aeed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343561513,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1343561513,
+    "wof:lastmodified":1537625873,
+    "wof:name":"Lindar",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":402,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9625,
+    45.23306,
+    13.9625,
+    45.23306
+],
+  "geometry": {"coordinates":[13.9625,45.23306],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 1125937235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8,46.03333,15.8,46.03333",
+    "geom:latitude":46.03333,
+    "geom:longitude":15.8,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":818,
+    "gn:population":807,
+    "iso:country":"HR",
+    "lbl:latitude":46.03333,
+    "lbl:longitude":15.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Dubrov\u010dan"
+    ],
+    "name:dut_x_preferred":[
+        "Dubrov\u010dan"
+    ],
+    "name:eng_x_preferred":[
+        "Dubrov\u010dan"
+    ],
+    "name:hrv_x_preferred":[
+        "Dubrov\u010dan"
+    ],
+    "name:hun_x_preferred":[
+        "Dubrov\u010dan"
+    ],
+    "name:slv_x_preferred":[
+        "Dubrov\u010dan"
+    ],
+    "name:spa_x_preferred":[
+        "Dubrov\u010dan"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u043e\u0432\u0447\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Dubrov\u010dan"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3201049,
+    "qs_pg:gn_pop":818,
+    "qs_pg:name":"Dubrov\u010dan",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Krapinsko-Zagorska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1275004,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":847610,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Krapinsko-Zagorska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201049,
+        "gp:id":847610,
+        "qs_pg:id":1275004,
+        "wd:id":"Q604132"
+    },
+    "wof:country":"HR",
+    "wof:created":1497297005,
+    "wof:geomhash":"19afdf6ca17f58c4aac91c6e5b68f36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125937235,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1125937235,
+    "wof:lastmodified":1514447434,
+    "wof:name":"Dubrov\u010dan",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:population":807,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8,
+    46.03333,
+    15.8,
+    46.03333
+],
+  "geometry": {"coordinates":[15.8,46.03333],"type":"Point"}
+}

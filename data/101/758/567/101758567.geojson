@@ -1,0 +1,135 @@
+{
+  "id": 101758567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000157,
+    "geom:area_square_m":1404533.445468,
+    "geom:bbox":"16.3914683912,43.5444909506,16.4094380741,43.5586886641",
+    "geom:latitude":43.55137,
+    "geom:longitude":16.400926,
+    "iso:country":"HR",
+    "lbl:latitude":43.551677,
+    "lbl:longitude":16.400199,
+    "mps:latitude":43.551677,
+    "mps:longitude":16.400199,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:bos_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:cat_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:dut_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:eng_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:fre_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:ger_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:hbs_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:hrv_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:hun_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:ita_x_preferred":[
+        "Castel Abbadessa"
+    ],
+    "name:nld_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:por_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:sco_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:slv_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:spa_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:sqi_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b \u0413\u043e\u043c\u0438\u043b\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
+    "name:unk_x_variant":[
+        "Gomilica"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Klis",
+    "qs:la_lc":"*HR1701929",
+    "qs:level":"locality",
+    "qs:loc":"Ka\u0161tel Gomilica",
+    "qs:loc_alt":"Kastel Gomilica",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":258,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198218,
+        "gp:id":848370,
+        "qs:id":1174955,
+        "wd:id":"Q1942120",
+        "wk:page":"Ka\u0161tel Gomilica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"88da0fe6c335b0f693d978a613983789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101758567,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101758567,
+    "wof:lastmodified":1527689301,
+    "wof:name":"Ka\u0161tel Gomilica",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39146839117353,
+    43.54449095061193,
+    16.40943807409172,
+    43.55868866410037
+],
+  "geometry": {"coordinates":[[[16.40943807409172,43.54986401588445],[16.40881129478913,43.54652119293769],[16.40854059581244,43.54449095061193],[16.40320569520782,43.54482463674208],[16.40340382876286,43.546621920277],[16.3960184911839,43.54708314244931],[16.39611745124751,43.54798179128181],[16.39146839117353,43.54827156689083],[16.39228024113623,43.55365007289407],[16.39548026557276,43.55345049600396],[16.39567820905324,43.55524778453474],[16.39690927807987,43.55517095341639],[16.39720628022167,43.55786687614608],[16.39843740277348,43.5577900261502],[16.39853643043244,43.55868866410037],[16.40469209361322,43.55830418596747],[16.40459297189562,43.55740555489979],[16.40582407698923,43.55732861639603],[16.40522931931713,43.55193682161382],[16.40769129506964,43.5517829168831],[16.40759214542794,43.55088428440001],[16.40882311013178,43.55080731128822],[16.40872394575712,43.54990867938989],[16.40943807409172,43.54986401588445]]],"type":"Polygon"}
+}

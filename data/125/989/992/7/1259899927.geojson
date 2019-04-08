@@ -1,0 +1,65 @@
+{
+  "id": 1259899927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39167,44.54806,15.39167,44.54806",
+    "geom:latitude":44.54806,
+    "geom:longitude":15.39167,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Adzije",
+    "gn:country_code":"HR",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271358,
+    "gn:latitude":44.54806,
+    "gn:longitude":15.39167,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Ad\u017eije",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271358
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"45bda6b613a61f3fe80b72650913f006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259899927,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1259899927,
+    "wof:lastmodified":1536755540,
+    "wof:name":"Adzije",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39167,
+    44.54806,
+    15.39167,
+    44.54806
+],
+  "geometry": {"coordinates":[15.39167,44.54806],"type":"Point"}
+}

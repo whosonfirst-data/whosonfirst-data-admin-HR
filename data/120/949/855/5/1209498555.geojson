@@ -1,0 +1,61 @@
+{
+  "id": 1209498555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.37306,45.09722,16.37306,45.09722",
+    "geom:latitude":45.09722,
+    "geom:longitude":16.37306,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tomasevici",
+    "gn:country_code":"HR",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281997,
+    "gn:latitude":45.09722,
+    "gn:longitude":16.37306,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Toma\u0161evi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281997
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"abb505f85035973500202a3f0f161284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209498555
+        }
+    ],
+    "wof:id":1209498555,
+    "wof:lastmodified":1536285257,
+    "wof:name":"Tomasevici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.37306,
+    45.09722,
+    16.37306,
+    45.09722
+],
+  "geometry": {"coordinates":[16.37306,45.09722],"type":"Point"}
+}

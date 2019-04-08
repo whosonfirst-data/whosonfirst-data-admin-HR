@@ -1,0 +1,66 @@
+{
+  "id": 1226339985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.04778,46.13611,17.04778,46.13611",
+    "geom:latitude":46.13611,
+    "geom:longitude":17.04778,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"11049377.0",
+    "gn:asciiname":"Gornja Suma",
+    "gn:country_code":"HR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215904,
+    "gn:latitude":46.13611,
+    "gn:longitude":17.04778,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Gornja \u0160uma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215904
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"715f9f4f840ef51e23cd29fa03bd223b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226339985,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1226339985,
+    "wof:lastmodified":1536797924,
+    "wof:name":"Gornja Suma",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.04778,
+    46.13611,
+    17.04778,
+    46.13611
+],
+  "geometry": {"coordinates":[17.04778,46.13611],"type":"Point"}
+}

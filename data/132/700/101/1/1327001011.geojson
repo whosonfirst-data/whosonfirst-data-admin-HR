@@ -1,0 +1,71 @@
+{
+  "id": 1327001011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.83806,45.53056,16.83806,45.53056",
+    "geom:latitude":45.53056,
+    "geom:longitude":16.83806,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3196862.0",
+    "gn:asciiname":"Stupovaca",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3189604,
+    "gn:latitude":45.53056,
+    "gn:longitude":16.83806,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Stupova\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sztupovacha",
+        "Stupova\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189604
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"10eda8de67fcd7fd07af30e6662b1612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327001011,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1327001011,
+    "wof:lastmodified":1537625824,
+    "wof:name":"Stupovaca",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.83806,
+    45.53056,
+    16.83806,
+    45.53056
+],
+  "geometry": {"coordinates":[16.83806,45.53056],"type":"Point"}
+}

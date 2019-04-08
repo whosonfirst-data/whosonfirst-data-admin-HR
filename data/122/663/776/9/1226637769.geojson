@@ -1,0 +1,69 @@
+{
+  "id": 1226637769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74264,46.12352,15.74264,46.12352",
+    "geom:latitude":46.12352,
+    "geom:longitude":15.74264,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gorjakovo",
+    "gn:country_code":"HR",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200306,
+    "gn:latitude":46.12352,
+    "gn:longitude":15.74264,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Gorjakovo",
+    "gn:population":344,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200306,
+        "wk:page":"Gorjakovo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4a712041bf4b6355917d1de992a25a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226637769,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1226637769,
+    "wof:lastmodified":1537563302,
+    "wof:name":"Gorjakovo",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:population":344,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74264,
+    46.12352,
+    15.74264,
+    46.12352
+],
+  "geometry": {"coordinates":[15.74264,46.12352],"type":"Point"}
+}

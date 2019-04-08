@@ -1,0 +1,76 @@
+{
+  "id": 1226263795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78516,46.09609,15.78516,46.09609",
+    "geom:latitude":46.09609,
+    "geom:longitude":15.78516,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11049189.0",
+    "gn:asciiname":"Mala Erpenja",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195859,
+    "gn:latitude":46.09609,
+    "gn:longitude":15.78516,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Mala Erpenja",
+    "gn:population":606,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erpenye",
+        "Male Erpenye",
+        "Erpenyicze",
+        "Mala Erpenja"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195859
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3bf3380fc7e3b2c0bbf48ec99b97127f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226263795,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1226263795,
+    "wof:lastmodified":1537625868,
+    "wof:name":"Mala Erpenja",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:population":606,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78516,
+    46.09609,
+    15.78516,
+    46.09609
+],
+  "geometry": {"coordinates":[15.78516,46.09609],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1259756435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55722,43.52667,16.55722,43.52667",
+    "geom:latitude":43.52667,
+    "geom:longitude":16.55722,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kovacevici",
+    "gn:country_code":"HR",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281163,
+    "gn:latitude":43.52667,
+    "gn:longitude":16.55722,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Kova\u010devi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281163
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"926a8601f5392fbf61df8d09cfffbf0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259756435,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1259756435,
+    "wof:lastmodified":1536962049,
+    "wof:name":"Kovacevici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55722,
+    43.52667,
+    16.55722,
+    43.52667
+],
+  "geometry": {"coordinates":[16.55722,43.52667],"type":"Point"}
+}

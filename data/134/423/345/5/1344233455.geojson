@@ -1,0 +1,75 @@
+{
+  "id": 1344233455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90889,44.05083,15.90889,44.05083",
+    "geom:latitude":44.05083,
+    "geom:longitude":15.90889,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"11054515.0",
+    "gn:asciiname":"Biovicino Selo",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204110,
+    "gn:latitude":44.05083,
+    "gn:longitude":15.90889,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Biovi\u010dino Selo",
+    "gn:population":223,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biov\u010dino Selo",
+        "Biovi\u010dino Selo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204110,
+        "wk:page":"Biovi%C4%8Dino_Selo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7544940683a5d24b85b19a56fb88b9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344233455,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1344233455,
+    "wof:lastmodified":1537625935,
+    "wof:name":"Biovicino Selo",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:population":223,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90889,
+    44.05083,
+    15.90889,
+    44.05083
+],
+  "geometry": {"coordinates":[15.90889,44.05083],"type":"Point"}
+}

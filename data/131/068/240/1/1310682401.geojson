@@ -1,0 +1,73 @@
+{
+  "id": 1310682401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.69389,45.31972,17.69389,45.31972",
+    "geom:latitude":45.31972,
+    "geom:longitude":17.69389,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3190588.0",
+    "gn:asciiname":"Komusina",
+    "gn:country_code":"HR",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3235740,
+    "gn:latitude":45.31972,
+    "gn:longitude":17.69389,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Komu\u0161ina",
+    "gn:population":82,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komu\u0161ina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3235740,
+        "wk:page":"Komu%C5%A1ina"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"75a882cc9c9910da0db512d3c481b46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310682401,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1310682401,
+    "wof:lastmodified":1537625959,
+    "wof:name":"Komusina",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":82,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.69389,
+    45.31972,
+    17.69389,
+    45.31972
+],
+  "geometry": {"coordinates":[17.69389,45.31972],"type":"Point"}
+}

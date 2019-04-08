@@ -1,0 +1,121 @@
+{
+  "id": 101836401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":444091.969332,
+    "geom:bbox":"18.0878483325,42.6724610427,18.1005069363,42.6788377615",
+    "geom:latitude":42.675401,
+    "geom:longitude":18.093768,
+    "gn:population":1494,
+    "iso:country":"HR",
+    "lbl:latitude":42.674887,
+    "lbl:longitude":18.093015,
+    "mps:latitude":42.674887,
+    "mps:longitude":18.093015,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Moko\u0161ica"
+    ],
+    "name:deu_x_preferred":[
+        "Moko\u0161ica"
+    ],
+    "name:dut_x_preferred":[
+        "Moko\u0161ica"
+    ],
+    "name:eng_x_preferred":[
+        "Moko\u0161ica"
+    ],
+    "name:fre_x_preferred":[
+        "Moko\u0161ica"
+    ],
+    "name:ger_x_preferred":[
+        "Moko\u0161ica"
+    ],
+    "name:hbs_x_preferred":[
+        "Moko\u0161ica"
+    ],
+    "name:hrv_x_preferred":[
+        "Moko\u0161ica"
+    ],
+    "name:hun_x_preferred":[
+        "Moko\u0161ica"
+    ],
+    "name:pol_x_preferred":[
+        "Moko\u0161ica"
+    ],
+    "name:slv_x_preferred":[
+        "Moko\u0161ica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043a\u043e\u0448\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Moko\u0161ica"
+    ],
+    "name:unk_x_variant":[
+        "Moccosizza"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Dubrovacko-neretvanska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Dubrovnik",
+    "qs:la_lc":"*HR1900981",
+    "qs:level":"locality",
+    "qs:loc":"Moko\u0161ica",
+    "qs:loc_alt":"Mokosica",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":676,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194919,
+        "gp:id":849206,
+        "qs:id":147161,
+        "wd:id":"Q1002189",
+        "wk:page":"Moko\u0161ica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3ea247187a6e18876b8dfef407a12df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101836401,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":101836401,
+    "wof:lastmodified":1527715151,
+    "wof:name":"Moko\u0161ica",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:population":1494,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08784833248421,
+    42.67246104268798,
+    18.10050693633553,
+    42.67883776149108
+],
+  "geometry": {"coordinates":[[[18.10050693633553,42.67564681755908],[18.1004789318842,42.67383512269083],[18.09523615671941,42.67425526139203],[18.09499188548415,42.67246104268798],[18.08893724527206,42.67294568666165],[18.0890592889258,42.67384280492786],[18.08784833248421,42.6739396920662],[18.08821443928844,42.67663104638495],[18.08942544943574,42.67653415417749],[18.0895475127893,42.67743126874444],[18.09318057594021,42.67714050035272],[18.09330269793043,42.6780376089236],[18.09451372988161,42.67794065553585],[18.09463587470367,42.67883776149108],[18.09705796390682,42.67864380798324],[18.0969357832775,42.67774670541075],[18.09814680472095,42.67764970867336],[18.09790242244833,42.67585550413639],[18.10050693633553,42.67564681755908]]],"type":"Polygon"}
+}

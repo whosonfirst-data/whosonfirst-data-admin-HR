@@ -1,0 +1,176 @@
+{
+  "id": 101791225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":728256.145874,
+    "geom:bbox":"15.8407363427,45.9856718276,15.8561451617,46.0103811836",
+    "geom:latitude":45.998215,
+    "geom:longitude":15.847535,
+    "iso:country":"HR",
+    "lbl:latitude":45.99618,
+    "lbl:longitude":15.846134,
+    "mps:latitude":45.99618,
+    "mps:longitude":15.846134,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:cze_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:dut_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:eng_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:fra_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:fre_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:ger_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:hbs_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05dc\u05d9\u05e7\u05d5 \u05d8\u05e8\u05d2\u05d5\u05d1\u05d9\u05e9\u05e6\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:hun_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:ita_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a7\u30ea\u30b3\u30fb\u30c8\u30eb\u30c8\u30f4\u30a3\u30b7\u30c1\u30a7"
+    ],
+    "name:nld_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:pol_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:por_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:rum_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e-\u0422\u0440\u0433\u043e\u0432\u0438\u0448\u0447\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:slo_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:slv_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:spa_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u0440\u0433\u043e\u0432\u0438\u0448\u045b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u0440\u0433\u043e\u0432\u0438\u0449\u0435"
+    ],
+    "name:und_x_colloquial":[
+        "Veliko Trgovisce",
+        "Veliko Trgoviste"
+    ],
+    "name:und_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "name:und_x_variant":[
+        "Veliko Trgovi\u00b5te"
+    ],
+    "name:unk_x_variant":[
+        "Veliko Trgovi\u0161te"
+    ],
+    "name:war_x_preferred":[
+        "Veliko Trgovi\u0161\u0107e"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Krapinsko-zagorska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Veliko Trgovi\u0161\u0107e",
+    "qs:la_lc":"*HR0204812",
+    "qs:level":"locality",
+    "qs:loc":"Veliko Trgovi\u0161\u0107e",
+    "qs:loc_alt":"Veliko Trgovisce",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":122,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115d4cde-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3188848,
+        "gp:id":850696,
+        "qs:id":1286779,
+        "qs_pg:id":1067237,
+        "wd:id":"Q225070",
+        "wk:page":"Veliko Trgovi\u0161\u0107e"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"656b0ae1bee80358d799528016d89305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791225,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":101791225,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527641957,
+    "wof:name":"Veliko Trgovi\u0161\u0107e",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84073634271755,
+    45.98567182762713,
+    15.8561451616946,
+    46.01038118363942
+],
+  "geometry": {"coordinates":[[[15.85374541994508,46.01031038432831],[15.85355087758154,46.00851514631694],[15.85226446282019,46.00858594291287],[15.8519727440999,46.00589307713062],[15.85068638973888,46.00596385412837],[15.85058917967683,46.00506622959261],[15.84930284342261,46.00513698970792],[15.84920565868697,46.0042393631897],[15.84791934053987,46.00431010642319],[15.84772502589709,46.00251484879675],[15.8464387469993,46.00258557379289],[15.84605025242877,45.99899504560722],[15.84733644676521,45.99892432603446],[15.84723931242945,45.99802669377914],[15.84852548259289,45.99795596003884],[15.84842833129858,45.9970583285135],[15.84971447728969,45.9969875806064],[15.84961730903865,45.99608994981094],[15.85476177809687,45.99580680838295],[15.8548590308892,45.99670443375072],[15.8561451616946,45.99663360823035],[15.855950618024,45.99483835958375],[15.85466452948754,45.99490918238894],[15.85456728506097,45.99401155576811],[15.8532812146197,45.99408236169421],[15.85318399550874,45.99318473308966],[15.85061188778013,45.99332629566311],[15.8507090646263,45.99422392698096],[15.84685081686729,45.99443615849759],[15.84665659415151,45.99264088709975],[15.84537054776285,45.99271159718393],[15.84517638401718,45.99091632057053],[15.8438903768581,45.99098701242326],[15.8435992259428,45.98829408874133],[15.84231327914023,45.98836476100973],[15.84202222916963,45.98567182762713],[15.84073634271755,45.98574248031332],[15.84112433318114,45.98933306232016],[15.84241030414285,45.98926240421787],[15.84270140419005,45.99195533008452],[15.84398743551202,45.99188465239803],[15.84437571187846,45.99547520603539],[15.84308959602248,45.995545889141],[15.84318665441725,45.99644352734015],[15.84190051439288,45.99651419627804],[15.84199755582608,45.99741183520587],[15.84456987511538,45.99727047909789],[15.8448611512942,45.99996338399728],[15.84357492975056,46.00003407387811],[15.84396327190274,46.00362461040453],[15.8452495780129,46.00355391510243],[15.84534669513738,46.0044515463145],[15.84663301935643,46.0043808341315],[15.84673016180341,46.00527846336217],[15.84801650413135,46.00520773429798],[15.84821084385578,46.00700298817048],[15.84949722543797,46.00693224086751],[15.84978882982523,46.00962511291539],[15.85236171076144,46.00948356358879],[15.85245896288706,46.01038118363942],[15.85374541994508,46.01031038432831]]],"type":"Polygon"}
+}

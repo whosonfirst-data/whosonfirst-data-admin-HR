@@ -1,0 +1,69 @@
+{
+  "id": 1225810883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25472,44.20444,15.25472,44.20444",
+    "geom:latitude":44.20444,
+    "geom:longitude":15.25472,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"11054327.0",
+    "gn:asciiname":"Zerava",
+    "gn:country_code":"HR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216346,
+    "gn:latitude":44.20444,
+    "gn:longitude":15.25472,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"\u017derava",
+    "gn:population":208,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216346
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c869f92fed7e62637183736cc9ad30ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225810883,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1225810883,
+    "wof:lastmodified":1537061373,
+    "wof:name":"Zerava",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":208,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25472,
+    44.20444000000001,
+    15.25472,
+    44.20444000000001
+],
+  "geometry": {"coordinates":[15.25472,44.20444000000001],"type":"Point"}
+}

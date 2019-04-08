@@ -1,0 +1,69 @@
+{
+  "id": 1327398789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73333,45.76667,15.73333,45.76667",
+    "geom:latitude":45.76667,
+    "geom:longitude":15.73333,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Konjscica",
+    "gn:country_code":"HR",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197792,
+    "gn:latitude":45.76667,
+    "gn:longitude":15.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Konj\u0161\u0107ica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kon\u0161\u010dica",
+        "Konj\u0161\u0107ica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197792
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fa340d5596925cbdc41bb73115965ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327398789,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1327398789,
+    "wof:lastmodified":1537625885,
+    "wof:name":"Konjscica",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73333,
+    45.76667,
+    15.73333,
+    45.76667
+],
+  "geometry": {"coordinates":[15.73333,45.76667],"type":"Point"}
+}

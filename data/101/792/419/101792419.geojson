@@ -1,0 +1,112 @@
+{
+  "id": 101792419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":758229.596654,
+    "geom:bbox":"18.6753749341,45.7482479587,18.6879884467,45.7639696235",
+    "geom:latitude":45.756917,
+    "geom:longitude":18.68332,
+    "gn:population":1070,
+    "iso:country":"HR",
+    "lbl:latitude":45.758201,
+    "lbl:longitude":18.683416,
+    "mps:latitude":45.758201,
+    "mps:longitude":18.683416,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Karanac"
+    ],
+    "name:dut_x_preferred":[
+        "Karanac"
+    ],
+    "name:eng_x_preferred":[
+        "Karanac"
+    ],
+    "name:epo_x_preferred":[
+        "Karanac"
+    ],
+    "name:hbs_x_preferred":[
+        "Karanac"
+    ],
+    "name:hrv_x_preferred":[
+        "Karanac"
+    ],
+    "name:hun_x_preferred":[
+        "Karancs"
+    ],
+    "name:slv_x_preferred":[
+        "Karanac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043d\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Karanac"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Kne\u017eevi Vinogradi",
+    "qs:la_lc":"*HR1401953",
+    "qs:level":"locality",
+    "qs:loc":"Karanac",
+    "qs:loc_alt":"Karanac",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":113,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198286,
+        "gp:id":848353,
+        "qs:id":916099,
+        "qs_pg:id":916099,
+        "wd:id":"Q3437792",
+        "wk:page":"Karanac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a6b522da057117791d58926e8aefaff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101792419,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101792419,
+    "wof:lastmodified":1527714638,
+    "wof:name":"Karanac",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":1070,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.67537493412948,
+    45.74824795870347,
+    18.68798844672551,
+    45.7639696234923
+],
+  "geometry": {"coordinates":[[[18.6861626382838,45.76276099650767],[18.68587626239514,45.76097310243688],[18.68715315568278,45.76086818399722],[18.68629405124574,45.75550449471484],[18.68757081680411,45.7553995728706],[18.68728445640556,45.75361167408482],[18.68600773194078,45.7537165919482],[18.68557829876164,45.75103473185419],[18.68685496159253,45.7509298199613],[18.68671180886287,45.75003586700149],[18.68798844672551,45.74993094175323],[18.68784527955705,45.74903698999088],[18.68656866223603,45.74914191324888],[18.68642552171264,45.74824795870347],[18.68259570482445,45.74856263043711],[18.68316805702528,45.75213846773858],[18.681891360375,45.75224333558259],[18.68217753199087,45.75403125345747],[18.68090078982482,45.75413610993331],[18.68118694474981,45.75592402861753],[18.67991015706377,45.75602887372452],[18.68033937356074,45.75871075177804],[18.67906251979883,45.75881558750393],[18.67920558361493,45.75970954726029],[18.67537493412948,45.76002396831177],[18.67551794238506,45.76091793324247],[18.67679485052389,45.76081313958605],[18.67693788543352,45.76170710173659],[18.6794917295498,45.76149746439779],[18.67963481166964,45.762391421779],[18.68218867919614,45.76218171906339],[18.6824749439661,45.7639696234923],[18.68502887600863,45.7637598514176],[18.68488569945998,45.7628659035795],[18.6861626382838,45.76276099650767]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293695583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.18333,45.09667,18.18333,45.09667",
+    "geom:latitude":45.09667,
+    "geom:longitude":18.18333,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049497.0",
+    "gn:asciiname":"Donja Bebrina",
+    "gn:country_code":"HR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201724,
+    "gn:latitude":45.09667,
+    "gn:longitude":18.18333,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Donja Bebrina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201724
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"045f154c2a80e578d4b3a7bcb7f5a745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293695583,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1293695583,
+    "wof:lastmodified":1536983502,
+    "wof:name":"Donja Bebrina",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.18333,
+    45.09667,
+    18.18333,
+    45.09667
+],
+  "geometry": {"coordinates":[18.18333,45.09667],"type":"Point"}
+}

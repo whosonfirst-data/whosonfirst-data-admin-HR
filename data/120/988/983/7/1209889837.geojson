@@ -1,0 +1,67 @@
+{
+  "id": 1209889837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56472,45.32722,16.56472,45.32722",
+    "geom:latitude":45.32722,
+    "geom:longitude":16.56472,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"11049233.0",
+    "gn:asciiname":"Donji Hrastovac",
+    "gn:country_code":"HR",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3201470,
+    "gn:latitude":45.32722,
+    "gn:longitude":16.56472,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Donji Hrastovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201470,
+        "wk:page":"Donji_Hrastovac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c70f2b367912383670d8a42a17c17d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209889837,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1209889837,
+    "wof:lastmodified":1537563304,
+    "wof:name":"Donji Hrastovac",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56472,
+    45.32722,
+    16.56472,
+    45.32722
+],
+  "geometry": {"coordinates":[16.56472,45.32722],"type":"Point"}
+}

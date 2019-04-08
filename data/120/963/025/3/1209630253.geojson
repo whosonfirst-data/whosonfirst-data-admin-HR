@@ -1,0 +1,63 @@
+{
+  "id": 1209630253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53917,45.11615,14.53917,45.11615",
+    "geom:latitude":45.11615,
+    "geom:longitude":14.53917,
+    "gn:asciiname":"Kremenici",
+    "gn:country_code":"HR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7114344,
+    "gn:latitude":45.11615,
+    "gn:longitude":14.53917,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Kremeni\u0107i",
+    "gn:population":75,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7114344
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9518aa3581c715c4e2f9f86be8f12348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209630253
+        }
+    ],
+    "wof:id":1209630253,
+    "wof:lastmodified":1536281212,
+    "wof:name":"Kremenici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":75,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53917,
+    45.11615,
+    14.53917,
+    45.11615
+],
+  "geometry": {"coordinates":[14.53917,45.11615],"type":"Point"}
+}

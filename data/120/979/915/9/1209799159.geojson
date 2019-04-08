@@ -1,0 +1,65 @@
+{
+  "id": 1209799159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.29944,45.61944,18.29944,45.61944",
+    "geom:latitude":45.61944,
+    "geom:longitude":18.29944,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Brezik",
+    "gn:country_code":"HR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215613,
+    "gn:latitude":45.61944,
+    "gn:longitude":18.29944,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Brezik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215613
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"da9feb1bcf4e34ffc13afeaabee45d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209799159,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1209799159,
+    "wof:lastmodified":1536391508,
+    "wof:name":"Brezik",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.29944,
+    45.61944,
+    18.29944,
+    45.61944
+],
+  "geometry": {"coordinates":[18.29944,45.61944],"type":"Point"}
+}

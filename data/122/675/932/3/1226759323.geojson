@@ -1,0 +1,65 @@
+{
+  "id": 1226759323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.48139,43.11333,17.48139,43.11333",
+    "geom:latitude":43.11333,
+    "geom:longitude":17.48139,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Puljani",
+    "gn:country_code":"HR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288263,
+    "gn:latitude":43.11333,
+    "gn:longitude":17.48139,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Puljani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288263
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a944955f0dbc85f07a2a2d05768bbb9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226759323,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1226759323,
+    "wof:lastmodified":1536696172,
+    "wof:name":"Puljani",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.48139,
+    43.11333,
+    17.48139,
+    43.11333
+],
+  "geometry": {"coordinates":[17.48139,43.11333],"type":"Point"}
+}

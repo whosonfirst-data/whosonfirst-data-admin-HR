@@ -1,0 +1,110 @@
+{
+  "id": 1126005469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15556,45.47833,18.15556,45.47833",
+    "geom:latitude":45.47833,
+    "geom:longitude":18.15556,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1002,
+    "gn:population":914,
+    "iso:country":"HR",
+    "lbl:latitude":45.47833,
+    "lbl:longitude":18.15556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Vukojevci"
+    ],
+    "name:dut_x_preferred":[
+        "Vukojevci"
+    ],
+    "name:eng_x_preferred":[
+        "Vukojevci"
+    ],
+    "name:hrv_x_preferred":[
+        "Vukojevci"
+    ],
+    "name:slv_x_preferred":[
+        "Vukojevci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0458\u0435\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vukojevci"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3214685,
+    "qs_pg:gn_pop":1002,
+    "qs_pg:name":"Vukojevci",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Osje\u010dko-baranjska",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":919746,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":55854150,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Osje\u010dko-baranjska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214685,
+        "gp:id":55854150,
+        "qs_pg:id":919746,
+        "wd:id":"Q7943417"
+    },
+    "wof:country":"HR",
+    "wof:created":1497299918,
+    "wof:geomhash":"8808921f0f27673423d814cf63c7bbf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126005469,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1126005469,
+    "wof:lastmodified":1514447694,
+    "wof:name":"Vukojevci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":914,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15556,
+    45.47833,
+    18.15556,
+    45.47833
+],
+  "geometry": {"coordinates":[18.15556,45.47833],"type":"Point"}
+}

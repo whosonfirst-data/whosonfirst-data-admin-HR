@@ -1,0 +1,61 @@
+{
+  "id": 1209588871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.75778,43.67611,16.75778,43.67611",
+    "geom:latitude":43.67611,
+    "geom:longitude":16.75778,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zuljovici",
+    "gn:country_code":"HR",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214958,
+    "gn:latitude":43.67611,
+    "gn:longitude":16.75778,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"\u017duljovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214958
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ef35c82a944a3132808962f8a343d482",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209588871
+        }
+    ],
+    "wof:id":1209588871,
+    "wof:lastmodified":1536282544,
+    "wof:name":"Zuljovici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.75778,
+    43.67611,
+    16.75778,
+    43.67611
+],
+  "geometry": {"coordinates":[16.75778,43.67611],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209686141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3225,43.19389,17.3225,43.19389",
+    "geom:latitude":43.19389,
+    "geom:longitude":17.3225,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"3187229.0",
+    "gn:asciiname":"Kokorici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3197913,
+    "gn:latitude":43.19389,
+    "gn:longitude":17.3225,
+    "gn:modification_date":"2017-01-02",
+    "gn:name":"Kokori\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokori\u0107",
+        "Kokori\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197913
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d7d00c7099c109086bbf4afebde833c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209686141
+        }
+    ],
+    "wof:id":1209686141,
+    "wof:lastmodified":1537625885,
+    "wof:name":"Kokorici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3225,
+    43.19389,
+    17.3225,
+    43.19389
+],
+  "geometry": {"coordinates":[17.3225,43.19389],"type":"Point"}
+}

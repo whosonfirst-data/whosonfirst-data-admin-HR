@@ -1,0 +1,65 @@
+{
+  "id": 1309826177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25111,44.57972,15.25111,44.57972",
+    "geom:latitude":44.57972,
+    "geom:longitude":15.25111,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Papicic Selo",
+    "gn:country_code":"HR",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217295,
+    "gn:latitude":44.57972,
+    "gn:longitude":15.25111,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Papi\u010di\u0107 Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217295
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"eea1a9555a9e74f614dcda7dbdd02684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309826177,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1309826177,
+    "wof:lastmodified":1536901857,
+    "wof:name":"Papicic Selo",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25111,
+    44.57972,
+    15.25111,
+    44.57972
+],
+  "geometry": {"coordinates":[15.25111,44.57972],"type":"Point"}
+}

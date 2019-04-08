@@ -1,0 +1,159 @@
+{
+  "id": 101796891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:area_square_m":988232.147254,
+    "geom:bbox":"17.2007609185,43.4030825453,17.2205081315,43.4213837183",
+    "geom:latitude":43.413065,
+    "geom:longitude":17.210985,
+    "gn:population":2140,
+    "iso:country":"HR",
+    "lbl:latitude":43.409151,
+    "lbl:longitude":17.211234,
+    "mps:latitude":43.409151,
+    "mps:longitude":17.211234,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:cat_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:ces_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:cze_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:deu_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:dut_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:eng_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:fra_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:fre_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:ger_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:hbs_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:hrv_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:hun_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:ita_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:nld_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:pol_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Zmijavci"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Zmijavci"
+    ],
+    "name:slv_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:spa_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u043c\u0438\u0458\u0430\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:und_x_preferred":[
+        "Zmijavci"
+    ],
+    "name:war_x_preferred":[
+        "Zmijavci"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Zmijavci",
+    "qs:la_lc":"*HR1705282",
+    "qs:level":"locality",
+    "qs:loc":"Zmijavci",
+    "qs:loc_alt":"Zmijavci",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115d7e02-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3281556,
+        "gp:id":15000177,
+        "qs:id":955157,
+        "qs_pg:id":955157,
+        "wd:id":"Q217932",
+        "wk:page":"Zmijavci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7f12c5b9c4b180d5084b97ced8460eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101796891,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101796891,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642037,
+    "wof:name":"Zmijavci",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":2140,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2007609185448,
+    43.40308254529668,
+    17.22050813153356,
+    43.42138371825547
+],
+  "geometry": {"coordinates":[[[17.21716009124731,43.4191552142139],[17.21682640103938,43.41646202031689],[17.22050813153356,43.41620203983973],[17.22039685474397,43.41530431149613],[17.21916963310645,43.41539098479774],[17.21905837947787,43.41449325407154],[17.21783117319535,43.41457991114294],[17.21760871680942,43.41278444408806],[17.21638154448777,43.41287108338628],[17.2161591435185,43.4110756098911],[17.21493200515619,43.41116223141739],[17.21459849363896,43.40846901025753],[17.21337140783726,43.40855561247059],[17.21281573928502,43.40406688605458],[17.21404273208447,43.40398029155341],[17.21393159341767,43.40308254529668],[17.21147764176743,43.40325571653136],[17.21169984925433,43.40505121437479],[17.21047283136045,43.40513778105088],[17.2105839233235,43.40603553025653],[17.20935688358236,43.40612208379065],[17.20957904394305,43.40791758276987],[17.20835196375253,43.40800412470259],[17.20846303214807,43.4089018744761],[17.20478171629077,43.40916141678929],[17.20522581206745,43.41275242599573],[17.20399862586913,43.41283891689267],[17.20433168958812,43.41553216962279],[17.20310444431971,43.41561865045526],[17.20321545603719,43.41651640123087],[17.2007609185448,43.41668932191538],[17.20098288116554,43.41848482711589],[17.20221018875657,43.41839837103663],[17.20209918656371,43.41750062039534],[17.20946285227274,43.41698158472542],[17.2095739661313,43.41787932611919],[17.21080125099365,43.4177927672265],[17.21124582635684,43.42138371825547],[17.21370053522713,43.4212105440667],[17.21358934733695,43.42031281065147],[17.21604400597863,43.42013958079627],[17.21593278541559,43.41924184962971],[17.21716009124731,43.4191552142139]],[[17.21213968823486,43.41860393111796],[17.2118062349972,43.41591071619007],[17.2093517429613,43.41608384249395],[17.20924063819734,43.41518609942455],[17.20678617038629,43.41535916389734],[17.20645299502007,43.41266592041291],[17.2089073511853,43.41249286518911],[17.20879626460766,43.41159511876788],[17.21247771868241,43.41133543041406],[17.21270000801974,43.41313091316601],[17.21392719009231,43.41304431792537],[17.21426071403624,43.41573753113926],[17.21548794868067,43.41565091658373],[17.2158215694044,43.41834411762528],[17.21213968823486,43.41860393111796]]],"type":"Polygon"}
+}

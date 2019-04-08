@@ -1,0 +1,70 @@
+{
+  "id": 1343570711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.195,45.5425,17.195,45.5425",
+    "geom:latitude":45.5425,
+    "geom:longitude":17.195,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049418.0",
+    "gn:asciiname":"Kip",
+    "gn:country_code":"HR",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198145,
+    "gn:latitude":45.5425,
+    "gn:longitude":17.195,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Kip",
+    "gn:population":148,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198145,
+        "wk:page":"Kip%2C_Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cdbfe41bc36ae306f26f99fccc25fc08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343570711,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1343570711,
+    "wof:lastmodified":1537563296,
+    "wof:name":"Kip",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.195,
+    45.5425,
+    17.195,
+    45.5425
+],
+  "geometry": {"coordinates":[17.195,45.5425],"type":"Point"}
+}

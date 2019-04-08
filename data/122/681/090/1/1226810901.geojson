@@ -1,0 +1,72 @@
+{
+  "id": 1226810901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86667,45.58333,15.86667,45.58333",
+    "geom:latitude":45.58333,
+    "geom:longitude":15.86667,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11048999.0",
+    "gn:asciiname":"Topolovec Pisarovinski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188975,
+    "gn:latitude":45.58333,
+    "gn:longitude":15.86667,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Topolovec Pisarovinski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pisarovinski Topolovac",
+        "Topolovec",
+        "Topolovec Pisarovinski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188975
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"74cb4a0acd98c3aba3a316649e3a3faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226810901,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1226810901,
+    "wof:lastmodified":1537625819,
+    "wof:name":"Topolovec Pisarovinski",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86667,
+    45.58333,
+    15.86667,
+    45.58333
+],
+  "geometry": {"coordinates":[15.86667,45.58333],"type":"Point"}
+}

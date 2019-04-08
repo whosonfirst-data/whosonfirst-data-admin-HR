@@ -1,0 +1,65 @@
+{
+  "id": 1209197989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17496,45.34997,16.17496,45.34997",
+    "geom:latitude":45.34997,
+    "geom:longitude":16.17496,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3200597.0",
+    "gn:asciiname":"Brnjeuska",
+    "gn:country_code":"HR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203259,
+    "gn:latitude":45.34997,
+    "gn:longitude":16.17496,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Brnjeu\u0161ka",
+    "gn:population":13,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203259
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5aca5e6fd83f188332ce196fb043fd97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209197989
+        }
+    ],
+    "wof:id":1209197989,
+    "wof:lastmodified":1536294707,
+    "wof:name":"Brnjeuska",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.174960000000002,
+    45.34997,
+    16.174960000000002,
+    45.34997
+],
+  "geometry": {"coordinates":[16.17496,45.34997],"type":"Point"}
+}

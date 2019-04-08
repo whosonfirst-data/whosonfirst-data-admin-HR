@@ -1,0 +1,65 @@
+{
+  "id": 1293746109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70139,44.28889,14.70139,44.28889",
+    "geom:latitude":44.28889,
+    "geom:longitude":14.70139,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Skarda",
+    "gn:country_code":"HR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216659,
+    "gn:latitude":44.28889,
+    "gn:longitude":14.70139,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"\u0160karda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216659
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"43c1b74ec6761a12ab6c729b7179b2b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293746109,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1293746109,
+    "wof:lastmodified":1536911876,
+    "wof:name":"Skarda",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70139,
+    44.28889,
+    14.70139,
+    44.28889
+],
+  "geometry": {"coordinates":[14.70139,44.28889],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242775613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.42889,46.03056,16.42889,46.03056",
+    "geom:latitude":46.03056,
+    "geom:longitude":16.42889,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049395.0",
+    "gn:asciiname":"Kapela Ravenska",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198317,
+    "gn:latitude":46.03056,
+    "gn:longitude":16.42889,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Kapela Ravenska",
+    "gn:population":85,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ravenska Kapela",
+        "Kapela",
+        "Kapela Ravenska"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198317
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"76660c902404c5791cef749d792a90fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242775613,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1242775613,
+    "wof:lastmodified":1537625888,
+    "wof:name":"Kapela Ravenska",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.42889,
+    46.03056,
+    16.42889,
+    46.03056
+],
+  "geometry": {"coordinates":[16.42889,46.03056],"type":"Point"}
+}

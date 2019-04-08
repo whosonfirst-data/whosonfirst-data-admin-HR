@@ -1,0 +1,70 @@
+{
+  "id": 1310487227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94472,44.65944,15.94472,44.65944",
+    "geom:latitude":44.65944,
+    "geom:longitude":15.94472,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049285.0",
+    "gn:asciiname":"Nebljusi",
+    "gn:country_code":"HR",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194569,
+    "gn:latitude":44.65944,
+    "gn:longitude":15.94472,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Nebljusi",
+    "gn:population":208,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194569,
+        "wk:page":"Nebljusi"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4a7565d5d0a3c80834b8d622064677a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310487227,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1310487227,
+    "wof:lastmodified":1537563288,
+    "wof:name":"Nebljusi",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":208,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94472,
+    44.65944,
+    15.94472,
+    44.65944
+],
+  "geometry": {"coordinates":[15.94472,44.65944],"type":"Point"}
+}

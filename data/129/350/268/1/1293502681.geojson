@@ -1,0 +1,64 @@
+{
+  "id": 1293502681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.27516,45.29156,14.27516,45.29156",
+    "geom:latitude":45.29156,
+    "geom:longitude":14.27516,
+    "gn:asciiname":"Brajdica",
+    "gn:country_code":"HR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7874423,
+    "gn:latitude":45.29156,
+    "gn:longitude":14.27516,
+    "gn:modification_date":"2011-07-06",
+    "gn:name":"Brajdica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7874423
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1baec763995478ae2e4a2c66088b97a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293502681,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1293502681,
+    "wof:lastmodified":1536765430,
+    "wof:name":"Brajdica",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.27516,
+    45.29156,
+    14.27516,
+    45.29156
+],
+  "geometry": {"coordinates":[14.27516,45.29156],"type":"Point"}
+}

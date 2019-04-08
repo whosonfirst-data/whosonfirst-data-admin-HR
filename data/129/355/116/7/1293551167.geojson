@@ -1,0 +1,69 @@
+{
+  "id": 1293551167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93498,45.64441,15.93498,45.64441",
+    "geom:latitude":45.64441,
+    "geom:longitude":15.93498,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Gornji Dragonozec",
+    "gn:country_code":"HR",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200026,
+    "gn:latitude":45.64441,
+    "gn:longitude":15.93498,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Gornji Dragono\u017eec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornji Dragono\u017eec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200026,
+        "wk:page":"Gornji_Dragono%C5%BEec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"913ac7b0d94de2755efeb66137969f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293551167,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1293551167,
+    "wof:lastmodified":1537625901,
+    "wof:name":"Gornji Dragonozec",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93498,
+    45.64441,
+    15.93498,
+    45.64441
+],
+  "geometry": {"coordinates":[15.93498,45.64441],"type":"Point"}
+}

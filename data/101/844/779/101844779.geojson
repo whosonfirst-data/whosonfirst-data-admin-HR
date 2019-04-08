@@ -1,0 +1,118 @@
+{
+  "id": 101844779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":359193.000635,
+    "geom:bbox":"17.7868583289,45.4045816792,17.794736796,45.4242834027",
+    "geom:latitude":45.415179,
+    "geom:longitude":17.790903,
+    "gn:population":1197,
+    "iso:country":"HR",
+    "lbl:latitude":45.418453,
+    "lbl:longitude":17.7915,
+    "mps:latitude":45.418453,
+    "mps:longitude":17.7915,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Vetovo"
+    ],
+    "name:cat_x_preferred":[
+        "Vetovo"
+    ],
+    "name:dut_x_preferred":[
+        "Vetovo"
+    ],
+    "name:eng_x_preferred":[
+        "Vetovo"
+    ],
+    "name:glg_x_preferred":[
+        "Vetovo"
+    ],
+    "name:hbs_x_preferred":[
+        "Vetovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Vetovo"
+    ],
+    "name:slv_x_preferred":[
+        "Vetovo"
+    ],
+    "name:spa_x_preferred":[
+        "Vetovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0442\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Vetovo"
+    ],
+    "name:unk_x_variant":[
+        "Vetevo"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Po\u017ee\u0161ko-slavonska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Kutjevo",
+    "qs:la_lc":"*HR1102216",
+    "qs:level":"locality",
+    "qs:loc":"Vetovo",
+    "qs:loc_alt":"Vetovo",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187826,
+        "gp:id":850922,
+        "qs:id":1275688,
+        "qs_pg:id":1275688,
+        "wd:id":"Q3442620",
+        "wk:page":"Vetovo, Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1f1ec9df26c8ea909d3562f33a518cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844779,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":101844779,
+    "wof:lastmodified":1527642625,
+    "wof:name":"Vetovo",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":1197,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78685832887192,
+    45.40458167919866,
+    17.79473679598993,
+    45.4242834026652
+],
+  "geometry": {"coordinates":[[[17.79473679598993,45.42409526786355],[17.79384607723057,45.41782660217604],[17.79257578908067,45.41792066482316],[17.79244858547997,45.41702513635721],[17.79117831376834,45.41711918196103],[17.78939831455898,45.40458167919866],[17.78685832887192,45.40476967506515],[17.78736662954708,45.40835184799641],[17.78863670567455,45.40825785062532],[17.79028954307785,45.41989980603728],[17.79155987972848,45.41980577039845],[17.79219593093114,45.4242834026652],[17.79473679598993,45.42409526786355]]],"type":"Polygon"}
+}

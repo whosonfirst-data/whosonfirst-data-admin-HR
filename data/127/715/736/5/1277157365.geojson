@@ -1,0 +1,71 @@
+{
+  "id": 1277157365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69389,45.47139,14.69389,45.47139",
+    "geom:latitude":45.47139,
+    "geom:longitude":14.69389,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"3202102.0",
+    "gn:asciiname":"Srednja Krasicevica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190142,
+    "gn:latitude":45.47139,
+    "gn:longitude":14.69389,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Srednja Kra\u0161i\u010devica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kra\u0161i\u010devica",
+        "Srednja Kra\u0161i\u010devica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190142
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4a9fc494331421d89e540a9fe8799828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277157365,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1277157365,
+    "wof:lastmodified":1537625828,
+    "wof:name":"Srednja Krasicevica",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69389,
+    45.47139,
+    14.69389,
+    45.47139
+],
+  "geometry": {"coordinates":[14.69389,45.47139],"type":"Point"}
+}

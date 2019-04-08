@@ -1,0 +1,110 @@
+{
+  "id": 101796855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000163,
+    "geom:bbox":"16.7767320628,42.9332874685,16.8012965679,42.943254042",
+    "geom:latitude":42.938337,
+    "geom:longitude":16.789008,
+    "iso:country":"HR",
+    "lbl:latitude":42.937918,
+    "lbl:longitude":16.789242,
+    "mps:latitude":42.937918,
+    "mps:longitude":16.789242,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Blato"
+    ],
+    "name:ces_x_preferred":[
+        "Blato"
+    ],
+    "name:deu_x_preferred":[
+        "Blato"
+    ],
+    "name:epo_x_preferred":[
+        "Blato"
+    ],
+    "name:fra_x_preferred":[
+        "Blato"
+    ],
+    "name:hrv_x_preferred":[
+        "Blato"
+    ],
+    "name:ita_x_preferred":[
+        "Blatta"
+    ],
+    "name:lat_x_preferred":[
+        "Blata"
+    ],
+    "name:nld_x_preferred":[
+        "Blato"
+    ],
+    "name:pol_x_preferred":[
+        "Blato"
+    ],
+    "name:unk_x_variant":[
+        "Blatta"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Dubrovacko-neretvanska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Blato",
+    "qs:la_lc":"*HR1900256",
+    "qs:level":"locality",
+    "qs:loc":"Blato",
+    "qs:loc_alt":"Blato",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1041,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203961,
+        "gp:id":846848,
+        "qs:id":1274858,
+        "qs_pg:id":57590,
+        "wd:id":"Q882155",
+        "wk:page":"Blato, Kor\u010dula"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5b4e2d6ebefdea231794917cc7a67ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101796855,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":101796855,
+    "wof:lastmodified":1527642037,
+    "wof:name":"Blato",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.77673206276773,
+    42.93328746847737,
+    16.80129656787085,
+    42.94325404204113
+],
+  "geometry": {"coordinates":[[[16.79297786371882,42.94300974577192],[16.79287456206805,42.94211110231572],[16.797746254885,42.94178517579564],[16.79784962956273,42.94268381351702],[16.79906756355246,42.9426022940437],[16.7989641706186,42.94170365775653],[16.80018208336242,42.9416221251542],[16.80007867637187,42.94072348945588],[16.80129656787085,42.94064194372487],[16.80098631733341,42.93794603585917],[16.79976848059562,42.93802757728633],[16.79966509040111,42.93712893820475],[16.79844726892651,42.93721046363527],[16.79834390118174,42.93631182227341],[16.79712609497045,42.93639333170779],[16.7970227496744,42.93549468806634],[16.79458716479184,42.93565766038182],[16.79448386019357,42.93475901302742],[16.79326608152275,42.93484047590937],[16.79316279936961,42.93394182627605],[16.78950950019657,42.93418612325394],[16.78940627698631,42.93328746847737],[16.78209970758667,42.93377566068011],[16.78230593918522,42.93557298656361],[16.77743468727851,42.9358981682397],[16.77794997446881,42.94039149676405],[16.77673206276773,42.94047276292554],[16.77683511450482,42.94137142752584],[16.78292473448789,42.94096494393011],[16.7830278816981,42.94186360053362],[16.78789959703181,42.94153814578374],[16.78800282146068,42.94243679581581],[16.78922076109086,42.94235539428655],[16.78932400796981,42.94325404204113],[16.79297786371882,42.94300974577192]]],"type":"Polygon"}
+}

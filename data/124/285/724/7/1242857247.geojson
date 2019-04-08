@@ -1,0 +1,65 @@
+{
+  "id": 1242857247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.56722,43.81722,16.56722,43.81722",
+    "geom:latitude":43.81722,
+    "geom:longitude":16.56722,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mrvici",
+    "gn:country_code":"HR",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277053,
+    "gn:latitude":43.81722,
+    "gn:longitude":16.56722,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Mrvi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277053
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c450994dd81a03cf68ded2b3ba97ada7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242857247,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1242857247,
+    "wof:lastmodified":1536660930,
+    "wof:name":"Mrvici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.56722,
+    43.81722,
+    16.56722,
+    43.81722
+],
+  "geometry": {"coordinates":[16.56722,43.81722],"type":"Point"}
+}

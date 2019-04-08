@@ -1,0 +1,70 @@
+{
+  "id": 1276853959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11967,43.02072,16.11967,43.02072",
+    "geom:latitude":43.02072,
+    "geom:longitude":16.11967,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"11054608.0",
+    "gn:asciiname":"Podhumlje",
+    "gn:country_code":"HR",
+    "gn:dem":251,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11071331,
+    "gn:latitude":43.02072,
+    "gn:longitude":16.11967,
+    "gn:modification_date":"2017-01-02",
+    "gn:name":"Podhumlje",
+    "gn:population":32,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11071331
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b102fdbc93d77c86c85619ba5c41c8ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276853959,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1276853959,
+    "wof:lastmodified":1537072760,
+    "wof:name":"Podhumlje",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11967000000001,
+    43.02072,
+    16.11967000000001,
+    43.02072
+],
+  "geometry": {"coordinates":[16.11967000000001,43.02072],"type":"Point"}
+}

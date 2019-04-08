@@ -1,0 +1,76 @@
+{
+  "id": 1293676313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42472,44.88222,14.42472,44.88222",
+    "geom:latitude":44.88222,
+    "geom:longitude":14.42472,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11054902.0",
+    "gn:asciiname":"Orlec",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194001,
+    "gn:latitude":44.88222,
+    "gn:longitude":14.42472,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Orlec",
+    "gn:population":92,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aquil\u00f3nia",
+        "Orle\u017e",
+        "Orlec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194001,
+        "wk:page":"Orlec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3834bd7bc28be6091853dba3f686a423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293676313,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1293676313,
+    "wof:lastmodified":1537625853,
+    "wof:name":"Orlec",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42472,
+    44.88222,
+    14.42472,
+    44.88222
+],
+  "geometry": {"coordinates":[14.42472,44.88222],"type":"Point"}
+}

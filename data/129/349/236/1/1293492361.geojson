@@ -1,0 +1,66 @@
+{
+  "id": 1293492361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.285,45.19,15.285,45.19",
+    "geom:latitude":45.19,
+    "geom:longitude":15.285,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"11049271.0",
+    "gn:asciiname":"Blanka",
+    "gn:country_code":"HR",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219277,
+    "gn:latitude":45.19,
+    "gn:longitude":15.285,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Blanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219277
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ed121e95c109ade833cdb735fe22fc90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293492361,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1293492361,
+    "wof:lastmodified":1536780519,
+    "wof:name":"Blanka",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.285,
+    45.19,
+    15.285,
+    45.19
+],
+  "geometry": {"coordinates":[15.285,45.19],"type":"Point"}
+}

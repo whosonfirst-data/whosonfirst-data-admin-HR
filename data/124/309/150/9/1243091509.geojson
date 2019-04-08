@@ -1,0 +1,75 @@
+{
+  "id": 1243091509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.67111,45.18611,13.67111,45.18611",
+    "geom:latitude":45.18611,
+    "geom:longitude":13.67111,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dracevac",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201343,
+    "gn:latitude":45.18611,
+    "gn:longitude":13.67111,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Dra\u010devac",
+    "gn:population":166,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Castel Monspinoso",
+        "Dracevaz",
+        "Castel Monstinoso",
+        "Dra\u010devac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201343
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7c32574210e6ed6a3831ae76c2bbfae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243091509,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1243091509,
+    "wof:lastmodified":1537625912,
+    "wof:name":"Dracevac",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":166,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.67111,
+    45.18611,
+    13.67111,
+    45.18611
+],
+  "geometry": {"coordinates":[13.67111,45.18611],"type":"Point"}
+}

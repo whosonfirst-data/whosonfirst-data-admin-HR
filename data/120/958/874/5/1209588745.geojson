@@ -1,0 +1,61 @@
+{
+  "id": 1209588745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15694,43.36444,17.15694,43.36444",
+    "geom:latitude":43.36444,
+    "geom:longitude":17.15694,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pavicici",
+    "gn:country_code":"HR",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281218,
+    "gn:latitude":43.36444,
+    "gn:longitude":17.15694,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Pavi\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281218
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8d7c6f21a3006357a7ddbd1447cb324f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209588745
+        }
+    ],
+    "wof:id":1209588745,
+    "wof:lastmodified":1536282547,
+    "wof:name":"Pavicici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15694,
+    43.36444,
+    17.15694,
+    43.36444
+],
+  "geometry": {"coordinates":[17.15694,43.36444],"type":"Point"}
+}

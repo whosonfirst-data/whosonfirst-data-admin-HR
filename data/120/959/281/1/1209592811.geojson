@@ -1,0 +1,65 @@
+{
+  "id": 1209592811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92887,45.39556,14.92887,45.39556",
+    "geom:latitude":45.39556,
+    "geom:longitude":14.92887,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11049452.0",
+    "gn:asciiname":"Hlevci",
+    "gn:country_code":"HR",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199374,
+    "gn:latitude":45.39556,
+    "gn:longitude":14.92887,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Hlevci",
+    "gn:population":17,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199374
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ebd55a683f4fed39468d94de1359d2a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209592811
+        }
+    ],
+    "wof:id":1209592811,
+    "wof:lastmodified":1536282423,
+    "wof:name":"Hlevci",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.928870000000002,
+    45.39556,
+    14.928870000000002,
+    45.39556
+],
+  "geometry": {"coordinates":[14.92887,45.39556],"type":"Point"}
+}

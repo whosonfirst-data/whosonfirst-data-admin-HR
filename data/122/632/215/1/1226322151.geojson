@@ -1,0 +1,65 @@
+{
+  "id": 1226322151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.42694,43.9775,16.42694,43.9775",
+    "geom:latitude":43.9775,
+    "geom:longitude":16.42694,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Milasi",
+    "gn:country_code":"HR",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215531,
+    "gn:latitude":43.9775,
+    "gn:longitude":16.42694,
+    "gn:modification_date":"2013-07-19",
+    "gn:name":"Mila\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215531
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1785ab671d550e5564f86b4af8cbfdc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226322151,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1226322151,
+    "wof:lastmodified":1536822668,
+    "wof:name":"Milasi",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.42694,
+    43.9775,
+    16.42694,
+    43.9775
+],
+  "geometry": {"coordinates":[16.42694,43.9775],"type":"Point"}
+}

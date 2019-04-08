@@ -1,0 +1,74 @@
+{
+  "id": 1310086739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.845,45.38167,17.845,45.38167",
+    "geom:latitude":45.38167,
+    "geom:longitude":17.845,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"11049476.0",
+    "gn:asciiname":"Bjelisevac",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204000,
+    "gn:latitude":45.38167,
+    "gn:longitude":17.845,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Bjeli\u0161evac",
+    "gn:population":112,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bjeli\u0161evci",
+        "Bjeli\u0161evac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204000
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6035211462ee68eb3eea5190ba383752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310086739,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1310086739,
+    "wof:lastmodified":1537625934,
+    "wof:name":"Bjelisevac",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":112,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.845,
+    45.38167,
+    17.845,
+    45.38167
+],
+  "geometry": {"coordinates":[17.845,45.38167],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343920559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4075,44.1575,15.4075,44.1575",
+    "geom:latitude":44.1575,
+    "geom:longitude":15.4075,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11054336.0",
+    "gn:asciiname":"Suhovare",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189539,
+    "gn:latitude":44.1575,
+    "gn:longitude":15.4075,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Suhovare",
+    "gn:population":508,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suovare",
+        "Suhovare"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189539
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fde23e75f1f2536ce1a94927cc0c7e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343920559,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1343920559,
+    "wof:lastmodified":1537625824,
+    "wof:name":"Suhovare",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":508,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4075,
+    44.1575,
+    15.4075,
+    44.1575
+],
+  "geometry": {"coordinates":[15.4075,44.1575],"type":"Point"}
+}

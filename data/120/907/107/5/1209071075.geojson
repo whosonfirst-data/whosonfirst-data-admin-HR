@@ -1,0 +1,72 @@
+{
+  "id": 1209071075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69242,45.88278,15.69242,45.88278",
+    "geom:latitude":45.88278,
+    "geom:longitude":15.69242,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11048982.0",
+    "gn:asciiname":"Kljuc Brdovecki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198045,
+    "gn:latitude":45.88278,
+    "gn:longitude":15.69242,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Klju\u010d Brdove\u010dki",
+    "gn:population":604,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brdove\u010dki Klju\u010d",
+        "Klju\u010d",
+        "Klju\u010d Brdove\u010dki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198045,
+        "wk:page":"Klju%C4%8D_Brdove%C4%8Dki"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7472b84a9e3dc42953ce08a840dfd160",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209071075
+        }
+    ],
+    "wof:id":1209071075,
+    "wof:lastmodified":1537625886,
+    "wof:name":"Kljuc Brdovecki",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":604,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69242,
+    45.88278,
+    15.69242,
+    45.88278
+],
+  "geometry": {"coordinates":[15.69242,45.88278],"type":"Point"}
+}

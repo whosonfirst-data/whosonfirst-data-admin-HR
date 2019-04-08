@@ -1,0 +1,75 @@
+{
+  "id": 1326915867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67583,44.84083,15.67583,44.84083",
+    "geom:latitude":44.84083,
+    "geom:longitude":15.67583,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049292.0",
+    "gn:asciiname":"Prijeboj",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192411,
+    "gn:latitude":44.84083,
+    "gn:longitude":15.67583,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Prijeboj",
+    "gn:population":12,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Priboj",
+        "Prijeboj"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192411,
+        "wk:page":"Prijeboj"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fc033ed3aa4f51f2624f4e56f697cfa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326915867,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1326915867,
+    "wof:lastmodified":1537625843,
+    "wof:name":"Prijeboj",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67583,
+    44.84083,
+    15.67583,
+    44.84083
+],
+  "geometry": {"coordinates":[15.67583,44.84083],"type":"Point"}
+}

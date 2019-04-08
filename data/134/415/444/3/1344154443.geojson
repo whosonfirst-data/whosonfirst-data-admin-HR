@@ -1,0 +1,74 @@
+{
+  "id": 1344154443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.59296,46.16503,16.59296,46.16503",
+    "geom:latitude":46.16503,
+    "geom:longitude":16.59296,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049389.0",
+    "gn:asciiname":"Ivanec Ludbreski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199073,
+    "gn:latitude":46.16503,
+    "gn:longitude":16.59296,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Ivanec Ludbre\u0161ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ludbre\u0161ki Ivanec",
+        "Ivanec",
+        "Ludbre\u0161ki Ivanac",
+        "Ivanac Ludbre\u0161ki",
+        "Ivanec Ludbre\u0161ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199073
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"09936f5639748170f134f99b17d3200a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344154443,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1344154443,
+    "wof:lastmodified":1537625893,
+    "wof:name":"Ivanec Ludbreski",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.59296,
+    46.16503,
+    16.59296,
+    46.16503
+],
+  "geometry": {"coordinates":[16.59296,46.16503],"type":"Point"}
+}

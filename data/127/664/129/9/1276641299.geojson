@@ -1,0 +1,74 @@
+{
+  "id": 1276641299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78806,44.685,15.78806,44.685",
+    "geom:latitude":44.685,
+    "geom:longitude":15.78806,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049294.0",
+    "gn:asciiname":"Klasnjica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217481,
+    "gn:latitude":44.685,
+    "gn:longitude":15.78806,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Kla\u0161njica",
+    "gn:population":3,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kla\u0161nica",
+        "Kla\u0161njica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217481
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5826f4ac0a886f6bccdace99bbd539ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276641299,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1276641299,
+    "wof:lastmodified":1537625954,
+    "wof:name":"Klasnjica",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78806,
+    44.685,
+    15.78806,
+    44.685
+],
+  "geometry": {"coordinates":[15.78806,44.685],"type":"Point"}
+}

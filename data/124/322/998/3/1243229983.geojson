@@ -1,0 +1,65 @@
+{
+  "id": 1243229983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.74778,45.03222,18.74778,45.03222",
+    "geom:latitude":45.03222,
+    "geom:longitude":18.74778,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Misic",
+    "gn:country_code":"HR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214472,
+    "gn:latitude":45.03222,
+    "gn:longitude":18.74778,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Misi\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214472
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"db5e6ea6e0f000975a1e1da7a8b0a39a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243229983,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":1243229983,
+    "wof:lastmodified":1536618544,
+    "wof:name":"Misic",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.74778,
+    45.03222,
+    18.74778,
+    45.03222
+],
+  "geometry": {"coordinates":[18.74778,45.03222],"type":"Point"}
+}

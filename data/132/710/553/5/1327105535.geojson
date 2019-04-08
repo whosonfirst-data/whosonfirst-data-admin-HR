@@ -1,0 +1,66 @@
+{
+  "id": 1327105535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92863,45.44592,15.92863,45.44592",
+    "geom:latitude":45.44592,
+    "geom:longitude":15.92863,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3187231.0",
+    "gn:asciiname":"Cremusnica",
+    "gn:country_code":"HR",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202525,
+    "gn:latitude":45.44592,
+    "gn:longitude":15.92863,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Cremu\u0161nica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202525
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bbcd924aefe8d882731ac40ea025c94d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327105535,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1327105535,
+    "wof:lastmodified":1536655061,
+    "wof:name":"Cremusnica",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92863,
+    45.44592,
+    15.92863,
+    45.44592
+],
+  "geometry": {"coordinates":[15.92863,45.44592],"type":"Point"}
+}

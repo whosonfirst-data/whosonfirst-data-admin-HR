@@ -1,0 +1,117 @@
+{
+  "id": 101858921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.399919,46.3298,16.399919,46.3298",
+    "geom:latitude":46.3298,
+    "geom:longitude":16.399919,
+    "gn:population":1320,
+    "iso:country":"HR",
+    "lbl:latitude":46.3298,
+    "lbl:longitude":16.399919,
+    "mps:latitude":46.3298,
+    "mps:longitude":16.399919,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Kur\u0161anec"
+    ],
+    "name:cze_x_preferred":[
+        "Kur\u0161anec"
+    ],
+    "name:dut_x_preferred":[
+        "Kur\u0161anec"
+    ],
+    "name:eng_x_preferred":[
+        "Kur\u0161anec"
+    ],
+    "name:epo_x_preferred":[
+        "Kur\u0161anec"
+    ],
+    "name:hbs_x_preferred":[
+        "Kur\u0161anec"
+    ],
+    "name:hrv_x_preferred":[
+        "Kur\u0161anec"
+    ],
+    "name:hun_x_preferred":[
+        "Zr\u00ednyifalva"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0448\u0430\u043d\u0435\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Kur\u0161anec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0440\u0448\u0430\u043d\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Kur\u0161anec"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Medimurska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kur\u0161anec",
+    "qs:loc_alt":"Kursanec",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196893,
+        "gp:id":848707,
+        "qs:id":1285903,
+        "wd:id":"Q226067",
+        "wk:page":"Kur\u0161anec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"db2635c379af9c75b8e18ff4d742e011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101858921,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":101858921,
+    "wof:lastmodified":1544744651,
+    "wof:name":"Kur\u0161anec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":1320,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.399919,
+    46.3298,
+    16.399919,
+    46.3298
+],
+  "geometry": {"coordinates":[16.399919,46.3298],"type":"Point"}
+}

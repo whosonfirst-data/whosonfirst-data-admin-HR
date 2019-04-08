@@ -1,0 +1,65 @@
+{
+  "id": 1209537845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47972,46.04111,16.47972,46.04111",
+    "geom:latitude":46.04111,
+    "geom:longitude":16.47972,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"3197228.0",
+    "gn:asciiname":"Dijankovec",
+    "gn:country_code":"HR",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202038,
+    "gn:latitude":46.04111,
+    "gn:longitude":16.47972,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Dijankovec",
+    "gn:population":188,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202038
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ceae06de9d0dcd64893589ffa6c903f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209537845
+        }
+    ],
+    "wof:id":1209537845,
+    "wof:lastmodified":1536284081,
+    "wof:name":"Dijankovec",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47972,
+    46.04111,
+    16.47972,
+    46.04111
+],
+  "geometry": {"coordinates":[16.47972,46.04111],"type":"Point"}
+}

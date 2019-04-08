@@ -1,0 +1,68 @@
+{
+  "id": 1310123713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.92222,45.82861,16.92222,45.82861",
+    "geom:latitude":45.82861,
+    "geom:longitude":16.92222,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dautan",
+    "gn:country_code":"HR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202175,
+    "gn:latitude":45.82861,
+    "gn:longitude":16.92222,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Dautan",
+    "gn:population":295,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202175
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3cc6c001871b7f779c17c9df95b5ef26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310123713,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1310123713,
+    "wof:lastmodified":1536969897,
+    "wof:name":"Dautan",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":295,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.92222000000001,
+    45.82861,
+    16.92222000000001,
+    45.82861
+],
+  "geometry": {"coordinates":[16.92222000000001,45.82861],"type":"Point"}
+}

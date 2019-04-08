@@ -1,0 +1,69 @@
+{
+  "id": 1209246563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67639,45.32167,15.67639,45.32167",
+    "geom:latitude":45.32167,
+    "geom:longitude":15.67639,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"3187450.0",
+    "gn:asciiname":"Kolaric",
+    "gn:country_code":"HR",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217385,
+    "gn:latitude":45.32167,
+    "gn:longitude":15.67639,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Kolari\u0107",
+    "gn:population":195,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolari\u0107"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217385,
+        "wk:page":"Kolari%C4%87"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0a9f41fda5e5d3321c9620419da69348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209246563
+        }
+    ],
+    "wof:id":1209246563,
+    "wof:lastmodified":1537625954,
+    "wof:name":"Kolaric",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":195,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67639,
+    45.32167000000001,
+    15.67639,
+    45.32167000000001
+],
+  "geometry": {"coordinates":[15.67639,45.32167000000001],"type":"Point"}
+}

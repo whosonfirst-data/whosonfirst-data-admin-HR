@@ -1,0 +1,65 @@
+{
+  "id": 1260374333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.52444,45.46972,18.52444,45.46972",
+    "geom:latitude":45.46972,
+    "geom:longitude":18.52444,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mala Branjevina",
+    "gn:country_code":"HR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3241099,
+    "gn:latitude":45.46972,
+    "gn:longitude":18.52444,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Mala Branjevina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3241099
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8b8d18272cd317cf69558e625cf9a636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260374333,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1260374333,
+    "wof:lastmodified":1537084011,
+    "wof:name":"Mala Branjevina",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52444,
+    45.46972,
+    18.52444,
+    45.46972
+],
+  "geometry": {"coordinates":[18.52444,45.46972],"type":"Point"}
+}

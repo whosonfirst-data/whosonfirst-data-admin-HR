@@ -1,0 +1,72 @@
+{
+  "id": 1225845203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65722,45.44889,13.65722,45.44889",
+    "geom:latitude":45.44889,
+    "geom:longitude":13.65722,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kastel",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198224,
+    "gn:latitude":45.44889,
+    "gn:longitude":13.65722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ka\u0161tel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Castelvenere",
+        "Castelvenere di Pirano",
+        "Ka\u0161tel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198224,
+        "wk:page":"Ka%C5%A1tel"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fa1d759209de5508fa2df56341fc3ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225845203,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1225845203,
+    "wof:lastmodified":1537625887,
+    "wof:name":"Kastel",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65722,
+    45.44889000000001,
+    13.65722,
+    45.44889000000001
+],
+  "geometry": {"coordinates":[13.65722,45.44889000000001],"type":"Point"}
+}

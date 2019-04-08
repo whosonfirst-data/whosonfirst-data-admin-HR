@@ -1,0 +1,70 @@
+{
+  "id": 1226115563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29889,43.21111,17.29889,43.21111",
+    "geom:latitude":43.21111,
+    "geom:longitude":17.29889,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"3187229.0",
+    "gn:asciiname":"Ravca",
+    "gn:country_code":"HR",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3191868,
+    "gn:latitude":43.21111,
+    "gn:longitude":17.29889,
+    "gn:modification_date":"2017-01-02",
+    "gn:name":"Rav\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rav\u010da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191868,
+        "wk:page":"Rav%C4%8Da"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fa111450add5d1b9d23191657ff18aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226115563,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1226115563,
+    "wof:lastmodified":1537625839,
+    "wof:name":"Ravca",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29889,
+    43.21111,
+    17.29889,
+    43.21111
+],
+  "geometry": {"coordinates":[17.29889,43.21111],"type":"Point"}
+}

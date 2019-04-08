@@ -1,0 +1,75 @@
+{
+  "id": 1293475265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68833,44.36139,15.68833,44.36139",
+    "geom:latitude":44.36139,
+    "geom:longitude":15.68833,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049288.0",
+    "gn:asciiname":"Licko Cerje",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196593,
+    "gn:latitude":44.36139,
+    "gn:longitude":15.68833,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Li\u010dko Cerje",
+    "gn:population":88,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerje Li\u010dko",
+        "Li\u010dko Cerje"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196593,
+        "wk:page":"Li%C4%8Dko_Cerje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0e508c109e2e3a6ab4526ffa8a42cc2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293475265,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1293475265,
+    "wof:lastmodified":1537625874,
+    "wof:name":"Licko Cerje",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":88,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68833,
+    44.36139,
+    15.68833,
+    44.36139
+],
+  "geometry": {"coordinates":[15.68833,44.36139],"type":"Point"}
+}

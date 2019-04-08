@@ -1,0 +1,75 @@
+{
+  "id": 1327208377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87944,45.5975,15.87944,45.5975",
+    "geom:latitude":45.5975,
+    "geom:longitude":15.87944,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11048999.0",
+    "gn:asciiname":"Jamnica Pisarovinska",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198905,
+    "gn:latitude":45.5975,
+    "gn:longitude":15.87944,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Jamnica Pisarovinska",
+    "gn:population":54,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pisarovinska Jamnica",
+        "Jamnica",
+        "Jamnica Pisarovinska"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198905
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f943d6357caac4d3b47aff8e8f07d5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327208377,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1327208377,
+    "wof:lastmodified":1537625892,
+    "wof:name":"Jamnica Pisarovinska",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":54,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87944,
+    45.5975,
+    15.87944,
+    45.5975
+],
+  "geometry": {"coordinates":[15.87944,45.5975],"type":"Point"}
+}

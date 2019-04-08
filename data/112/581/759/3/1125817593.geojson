@@ -1,0 +1,111 @@
+{
+  "id": 1125817593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28869,43.50517,16.28869,43.50517",
+    "geom:latitude":43.50517,
+    "geom:longitude":16.28869,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"HR",
+    "lbl:latitude":43.50517,
+    "lbl:longitude":16.28869,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "\u017dedno"
+    ],
+    "name:dut_x_preferred":[
+        "\u017dedno"
+    ],
+    "name:eng_x_preferred":[
+        "\u017dedno"
+    ],
+    "name:ger_x_preferred":[
+        "\u017dedno"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017dedno"
+    ],
+    "name:hun_x_preferred":[
+        "\u017dedno"
+    ],
+    "name:slv_x_preferred":[
+        "\u017dedno"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0435\u0434\u043d\u043e"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3186632,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u017dedno",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Splitsko-Dalmatinska",
+    "qs_pg:photos":60,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":60,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167441,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":851200,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Splitsko-Dalmatinska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186632,
+        "gp:id":851200,
+        "qs_pg:id":1167441,
+        "wd:id":"Q2018738"
+    },
+    "wof:country":"HR",
+    "wof:created":1497291908,
+    "wof:geomhash":"2fa2f0aee592c5573e2b612cdc2e796c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125817593,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1125817593,
+    "wof:lastmodified":1514447762,
+    "wof:name":"\u017dedno",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28869,
+    43.50517,
+    16.28869,
+    43.50517
+],
+  "geometry": {"coordinates":[16.28869,43.50517],"type":"Point"}
+}

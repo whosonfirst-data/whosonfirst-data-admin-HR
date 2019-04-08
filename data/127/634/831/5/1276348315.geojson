@@ -1,0 +1,74 @@
+{
+  "id": 1276348315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89861,45.07333,17.89861,45.07333",
+    "geom:latitude":45.07333,
+    "geom:longitude":17.89861,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049480.0",
+    "gn:asciiname":"Zbjeg",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186684,
+    "gn:latitude":45.07333,
+    "gn:longitude":17.89861,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Zbjeg",
+    "gn:population":427,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zbieg",
+        "Zbjeg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186684
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3bbd1c4315bd14394d3941046fde3907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276348315,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1276348315,
+    "wof:lastmodified":1537625804,
+    "wof:name":"Zbjeg",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":427,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89861,
+    45.07333,
+    17.89861,
+    45.07333
+],
+  "geometry": {"coordinates":[17.89861,45.07333],"type":"Point"}
+}

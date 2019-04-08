@@ -1,0 +1,65 @@
+{
+  "id": 1259707989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8075,44.99278,13.8075,44.99278",
+    "geom:latitude":44.99278,
+    "geom:longitude":13.8075,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mednjan",
+    "gn:country_code":"HR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213482,
+    "gn:latitude":44.99278,
+    "gn:longitude":13.8075,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Mednjan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213482
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"08ae6afb219bf20ef8dd8330221c6728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259707989,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1259707989,
+    "wof:lastmodified":1537030487,
+    "wof:name":"Mednjan",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8075,
+    44.99278,
+    13.8075,
+    44.99278
+],
+  "geometry": {"coordinates":[13.8075,44.99278],"type":"Point"}
+}

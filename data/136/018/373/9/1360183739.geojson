@@ -1,0 +1,68 @@
+{
+  "id": 1360183739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64,45.10972,15.64,45.10972",
+    "geom:latitude":45.10972,
+    "geom:longitude":15.64,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Radocaji",
+    "gn:country_code":"HR",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281741,
+    "gn:latitude":45.10972,
+    "gn:longitude":15.64,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Rado\u010daji",
+    "gn:population":77,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281741
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5fa95f733528dc6c96239fb9799500fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360183739,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1360183739,
+    "wof:lastmodified":1536803283,
+    "wof:name":"Radocaji",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64,
+    45.10972,
+    15.64,
+    45.10972
+],
+  "geometry": {"coordinates":[15.64,45.10972],"type":"Point"}
+}

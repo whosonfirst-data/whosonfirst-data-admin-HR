@@ -1,0 +1,66 @@
+{
+  "id": 1310002847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7175,44.87111,15.7175,44.87111",
+    "geom:latitude":44.87111,
+    "geom:longitude":15.7175,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049292.0",
+    "gn:asciiname":"Novo Selo",
+    "gn:country_code":"HR",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275921,
+    "gn:latitude":44.87111,
+    "gn:longitude":15.7175,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Novo Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275921
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ee122dc6ad9792c4be4dbe9dc75ff9fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310002847,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1310002847,
+    "wof:lastmodified":1536646745,
+    "wof:name":"Novo Selo",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7175,
+    44.87111,
+    15.7175,
+    44.87111
+],
+  "geometry": {"coordinates":[15.7175,44.87111],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1242754331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91222,44.02583,15.91222,44.02583",
+    "geom:latitude":44.02583,
+    "geom:longitude":15.91222,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Susa",
+    "gn:country_code":"HR",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214944,
+    "gn:latitude":44.02583,
+    "gn:longitude":15.91222,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"\u0160u\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214944
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e9a9387d87eff17646b2fc94a554fa78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242754331,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1242754331,
+    "wof:lastmodified":1536808818,
+    "wof:name":"Susa",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91222,
+    44.02583,
+    15.91222,
+    44.02583
+],
+  "geometry": {"coordinates":[15.91222,44.02583],"type":"Point"}
+}

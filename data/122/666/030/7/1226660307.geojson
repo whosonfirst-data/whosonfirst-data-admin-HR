@@ -1,0 +1,69 @@
+{
+  "id": 1226660307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29393,45.68016,17.29393,45.68016",
+    "geom:latitude":45.68016,
+    "geom:longitude":17.29393,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"3199514.0",
+    "gn:asciiname":"Munije",
+    "gn:country_code":"HR",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194661,
+    "gn:latitude":45.68016,
+    "gn:longitude":17.29393,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Munije",
+    "gn:population":35,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194661
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"efdda140bde8467bb7a1e0c475fd6bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226660307,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1226660307,
+    "wof:lastmodified":1536837369,
+    "wof:name":"Munije",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29393,
+    45.68016,
+    17.29393,
+    45.68016
+],
+  "geometry": {"coordinates":[17.29393,45.68016],"type":"Point"}
+}

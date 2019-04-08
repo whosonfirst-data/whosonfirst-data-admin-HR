@@ -1,0 +1,66 @@
+{
+  "id": 1310666309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95667,44.45556,15.95667,44.45556",
+    "geom:latitude":44.45556,
+    "geom:longitude":15.95667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mazin",
+    "gn:country_code":"HR",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3275766,
+    "gn:latitude":44.45556,
+    "gn:longitude":15.95667,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Mazin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275766,
+        "wk:page":"Mazin"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c71e2eb336554c3010150fabc60d6284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310666309,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1310666309,
+    "wof:lastmodified":1537563318,
+    "wof:name":"Mazin",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95667,
+    44.45556,
+    15.95667,
+    44.45556
+],
+  "geometry": {"coordinates":[15.95667,44.45556],"type":"Point"}
+}

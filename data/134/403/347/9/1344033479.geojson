@@ -1,0 +1,70 @@
+{
+  "id": 1344033479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.89944,45.34,18.89944,45.34",
+    "geom:latitude":45.34,
+    "geom:longitude":18.89944,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"11054545.0",
+    "gn:asciiname":"Marinci",
+    "gn:country_code":"HR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195486,
+    "gn:latitude":45.34,
+    "gn:longitude":18.89944,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Marinci",
+    "gn:population":670,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195486,
+        "wk:page":"Marinci%2C_Vukovar-Srijem_County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"55589ee0360ab8168fe34d95a00a2bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344033479,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":1344033479,
+    "wof:lastmodified":1537563290,
+    "wof:name":"Marinci",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":670,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.89944,
+    45.34,
+    18.89944,
+    45.34
+],
+  "geometry": {"coordinates":[18.89944,45.34],"type":"Point"}
+}

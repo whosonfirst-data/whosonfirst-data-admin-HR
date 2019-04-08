@@ -1,0 +1,75 @@
+{
+  "id": 1327021559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73333,46.1,15.73333,46.1",
+    "geom:latitude":46.1,
+    "geom:longitude":15.73333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Velika Horvatska",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188237,
+    "gn:latitude":46.1,
+    "gn:longitude":15.73333,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Velika Horvatska",
+    "gn:population":271,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horvatska Velika",
+        "Horvatska",
+        "Velika Horvatska"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188237,
+        "wk:page":"Velika_Horvatska"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0dc042a2dbf13c7e9cf18e7bc5a87086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327021559,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1327021559,
+    "wof:lastmodified":1537625813,
+    "wof:name":"Velika Horvatska",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:population":271,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73333,
+    46.1,
+    15.73333,
+    46.1
+],
+  "geometry": {"coordinates":[15.73333,46.1],"type":"Point"}
+}

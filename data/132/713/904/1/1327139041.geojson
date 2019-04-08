@@ -1,0 +1,69 @@
+{
+  "id": 1327139041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68,45.06833,15.68,45.06833",
+    "geom:latitude":45.06833,
+    "geom:longitude":15.68,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"3190522.0",
+    "gn:asciiname":"Donji Furjan",
+    "gn:country_code":"HR",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201479,
+    "gn:latitude":45.06833,
+    "gn:longitude":15.68,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Donji Furjan",
+    "gn:population":59,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201479
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"50bad4f72b196f81ebcfc7996d72eed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327139041,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1327139041,
+    "wof:lastmodified":1536603409,
+    "wof:name":"Donji Furjan",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":59,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68,
+    45.06833,
+    15.68,
+    45.06833
+],
+  "geometry": {"coordinates":[15.68,45.06833],"type":"Point"}
+}

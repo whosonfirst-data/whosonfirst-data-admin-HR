@@ -1,0 +1,69 @@
+{
+  "id": 1360170325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45667,44.61528,15.45667,44.61528",
+    "geom:latitude":44.61528,
+    "geom:longitude":15.45667,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049286.0",
+    "gn:asciiname":"Siroka Kula",
+    "gn:country_code":"HR",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190825,
+    "gn:latitude":44.61528,
+    "gn:longitude":15.45667,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"\u0160iroka Kula",
+    "gn:population":116,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190825
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"75a852eeff12a174ac45d6ede4683f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360170325,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1360170325,
+    "wof:lastmodified":1536821860,
+    "wof:name":"Siroka Kula",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45667,
+    44.61528,
+    15.45667,
+    44.61528
+],
+  "geometry": {"coordinates":[15.45667,44.61528],"type":"Point"}
+}

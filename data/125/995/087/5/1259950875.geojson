@@ -1,0 +1,76 @@
+{
+  "id": 1259950875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.52444,45.41056,16.52444,45.41056",
+    "geom:latitude":45.41056,
+    "geom:longitude":16.52444,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3190812.0",
+    "gn:asciiname":"Lukavec Posavski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196071,
+    "gn:latitude":45.41056,
+    "gn:longitude":16.52444,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Lukavec Posavski",
+    "gn:population":132,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Posavski Lukavec",
+        "Lukavec",
+        "Lukavac",
+        "Lukavec Posavski"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196071
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ede1953abfb7be1cc29be2caf5bb66fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259950875,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1259950875,
+    "wof:lastmodified":1537625870,
+    "wof:name":"Lukavec Posavski",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":132,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.52444,
+    45.41056,
+    16.52444,
+    45.41056
+],
+  "geometry": {"coordinates":[16.52444,45.41056],"type":"Point"}
+}

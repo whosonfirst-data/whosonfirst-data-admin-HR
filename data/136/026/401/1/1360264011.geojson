@@ -1,0 +1,65 @@
+{
+  "id": 1360264011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.42583,45.34278,16.42583,45.34278",
+    "geom:latitude":45.34278,
+    "geom:longitude":16.42583,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dukici",
+    "gn:country_code":"HR",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215215,
+    "gn:latitude":45.34278,
+    "gn:longitude":16.42583,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Duki\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215215
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"62e29d0a656ad31b2fb17fc1fa788d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360264011,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1360264011,
+    "wof:lastmodified":1536687622,
+    "wof:name":"Dukici",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.42583,
+    45.34278,
+    16.42583,
+    45.34278
+],
+  "geometry": {"coordinates":[16.42583,45.34278],"type":"Point"}
+}

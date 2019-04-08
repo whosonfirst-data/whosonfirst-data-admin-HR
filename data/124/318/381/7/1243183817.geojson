@@ -1,0 +1,65 @@
+{
+  "id": 1243183817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.87917,42.71889,17.87917,42.71889",
+    "geom:latitude":42.71889,
+    "geom:longitude":17.87917,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mjekov Tor",
+    "gn:country_code":"HR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3207233,
+    "gn:latitude":42.71889,
+    "gn:longitude":17.87917,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Mjekov Tor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3207233
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8e541d174f699901e49ae368cd5468db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243183817,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1243183817,
+    "wof:lastmodified":1536687171,
+    "wof:name":"Mjekov Tor",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.87917000000001,
+    42.71889,
+    17.87917000000001,
+    42.71889
+],
+  "geometry": {"coordinates":[17.87917000000001,42.71889],"type":"Point"}
+}

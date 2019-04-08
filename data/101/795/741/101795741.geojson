@@ -1,0 +1,157 @@
+{
+  "id": 101795741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000152,
+    "geom:area_square_m":1357445.204005,
+    "geom:bbox":"15.6560205245,43.8145244179,15.680240482,43.8280129497",
+    "geom:latitude":43.820358,
+    "geom:longitude":15.669293,
+    "gn:population":1616,
+    "iso:country":"HR",
+    "lbl:latitude":43.819959,
+    "lbl:longitude":15.669293,
+    "mps:latitude":43.819959,
+    "mps:longitude":15.669293,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Pirovac"
+    ],
+    "name:cat_x_preferred":[
+        "Pirovac"
+    ],
+    "name:ces_x_preferred":[
+        "Pirovac"
+    ],
+    "name:cze_x_preferred":[
+        "Pirovac"
+    ],
+    "name:deu_x_preferred":[
+        "Pirovac"
+    ],
+    "name:dut_x_preferred":[
+        "Pirovac"
+    ],
+    "name:eng_x_preferred":[
+        "Pirovac"
+    ],
+    "name:fra_x_preferred":[
+        "Pirovac"
+    ],
+    "name:fre_x_preferred":[
+        "Pirovac"
+    ],
+    "name:ger_x_preferred":[
+        "Pirovac"
+    ],
+    "name:hbs_x_preferred":[
+        "Pirovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Pirovac"
+    ],
+    "name:hun_x_preferred":[
+        "Pirovac"
+    ],
+    "name:ita_x_preferred":[
+        "Slosella"
+    ],
+    "name:nld_x_preferred":[
+        "Pirovac"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Pirovac"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Pirovac"
+    ],
+    "name:slk_x_preferred":[
+        "Pirovac"
+    ],
+    "name:slo_x_preferred":[
+        "Pirovac"
+    ],
+    "name:slv_x_preferred":[
+        "Pirovac"
+    ],
+    "name:spa_x_preferred":[
+        "Pirovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u0440\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Pirovac"
+    ],
+    "name:unk_x_variant":[
+        "Piravac"
+    ],
+    "name:war_x_preferred":[
+        "Pirovac"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*\u0160ibensko-kninska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Pirovac",
+    "qs:la_lc":"*HR1505819",
+    "qs:level":"locality",
+    "qs:loc":"Pirovac",
+    "qs:loc_alt":"Pirovac",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":358,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193331,
+        "gp:id":849615,
+        "qs:id":147146,
+        "qs_pg:id":147146,
+        "wd:id":"Q600410",
+        "wk:page":"Pirovac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"15fa8d45a8a574a1700a2dc3f064d54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101795741,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":101795741,
+    "wof:lastmodified":1527714608,
+    "wof:name":"Pirovac",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:population":1616,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65602052450811,
+    43.81452441792345,
+    15.68024048197327,
+    43.82801294971148
+],
+  "geometry": {"coordinates":[[[15.68024048197327,43.82794466616645],[15.67997468795625,43.82524697694367],[15.67873718194232,43.82531525679178],[15.67864861036418,43.82441602432584],[15.67741112083803,43.82448428809329],[15.67696841334748,43.81998810840679],[15.67573101673315,43.82005635116826],[15.67546549342791,43.8173586307031],[15.67917750348317,43.8171538689615],[15.67900039161452,43.81535539230646],[15.67776309575089,43.81542365860321],[15.67767456440191,43.81452441792345],[15.67272543116303,43.81479732972844],[15.67281388611076,43.81569657533191],[15.66910195140161,43.81590110699602],[15.66901355375688,43.81500185770233],[15.66777625605721,43.81507000400217],[15.66786463460096,43.81596925452544],[15.66291534125691,43.81624169618044],[15.66300364704091,43.81714095087284],[15.66176629806972,43.81720902539877],[15.66211948125999,43.82080604161911],[15.6571697535777,43.8210782109004],[15.6572579820637,43.82197746800171],[15.65602052450811,43.82204547442939],[15.65610873753042,43.8229447320121],[15.65734621419409,43.82287672435712],[15.65743444996906,43.82377597996702],[15.65867194313125,43.82370795623598],[15.65876020166024,43.82460720987251],[15.66123521836846,43.82447111540864],[15.6611469216204,43.82357186422792],[15.66485936975812,43.82336761485175],[15.66494772383345,43.82426686234635],[15.66618522042683,43.82419874829492],[15.66627359726084,43.82509799381421],[15.66874862082085,43.82496171870622],[15.66866020576794,43.82406247564609],[15.6760850989873,43.82365330133638],[15.67626216205252,43.82545177194186],[15.67749967330775,43.82538352179108],[15.67767678922064,43.82718198694801],[15.67891433607497,43.82711371948449],[15.67900291862941,43.82801294971148],[15.68024048197327,43.82794466616645]]],"type":"Polygon"}
+}

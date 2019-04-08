@@ -1,0 +1,74 @@
+{
+  "id": 1226356505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.9978,45.75429,16.9978,45.75429",
+    "geom:latitude":45.75429,
+    "geom:longitude":16.9978,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049424.0",
+    "gn:asciiname":"Donja Kovacica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201680,
+    "gn:latitude":45.75429,
+    "gn:longitude":16.9978,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Donja Kova\u010dica",
+    "gn:population":278,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolnja Kova\u010dica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201680,
+        "wk:page":"Donja_Kova%C4%8Dica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3e671f196bc1766c0ec817722d36afa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226356505,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1226356505,
+    "wof:lastmodified":1537625918,
+    "wof:name":"Donja Kovacica",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":278,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.9978,
+    45.75429000000001,
+    16.9978,
+    45.75429000000001
+],
+  "geometry": {"coordinates":[16.9978,45.75429000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1309971623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8375,44.04556,15.8375,44.04556",
+    "geom:latitude":44.04556,
+    "geom:longitude":15.8375,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"11049512.0",
+    "gn:asciiname":"Bjelina",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204001,
+    "gn:latitude":44.04556,
+    "gn:longitude":15.8375,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Bjelina",
+    "gn:population":92,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bijelina",
+        "Bjelina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204001,
+        "wk:page":"Bjelina"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6f4cd32d8a8e1bac31ee878d75a4efeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309971623,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1309971623,
+    "wof:lastmodified":1537625934,
+    "wof:name":"Bjelina",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8375,
+    44.04556,
+    15.8375,
+    44.04556
+],
+  "geometry": {"coordinates":[15.8375,44.04556],"type":"Point"}
+}

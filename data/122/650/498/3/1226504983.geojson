@@ -1,0 +1,70 @@
+{
+  "id": 1226504983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28,44.10667,15.28,44.10667",
+    "geom:latitude":44.10667,
+    "geom:longitude":15.28,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Ploce",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193149,
+    "gn:latitude":44.10667,
+    "gn:longitude":15.28,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Plo\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plo\u010da",
+        "Plo\u010de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193149
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6f51858244c3643fc596315231e742a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226504983,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1226504983,
+    "wof:lastmodified":1537625848,
+    "wof:name":"Ploce",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28,
+    44.10667,
+    15.28,
+    44.10667
+],
+  "geometry": {"coordinates":[15.28,44.10667],"type":"Point"}
+}

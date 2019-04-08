@@ -1,0 +1,65 @@
+{
+  "id": 1259553797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71361,43.61333,16.71361,43.61333",
+    "geom:latitude":43.61333,
+    "geom:longitude":16.71361,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Basici",
+    "gn:country_code":"HR",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282029,
+    "gn:latitude":43.61333,
+    "gn:longitude":16.71361,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Ba\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282029
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b121c677c2b53c6eae9e1e37fda535f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259553797,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1259553797,
+    "wof:lastmodified":1536757880,
+    "wof:name":"Basici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71361,
+    43.61333,
+    16.71361,
+    43.61333
+],
+  "geometry": {"coordinates":[16.71361,43.61333],"type":"Point"}
+}

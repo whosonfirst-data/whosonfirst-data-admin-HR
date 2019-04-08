@@ -1,0 +1,65 @@
+{
+  "id": 1260240521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96667,45.75,15.96667,45.75",
+    "geom:latitude":45.75,
+    "geom:longitude":15.96667,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Sveta Klara",
+    "gn:country_code":"HR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200038,
+    "gn:latitude":45.75,
+    "gn:longitude":15.96667,
+    "gn:modification_date":"2012-12-12",
+    "gn:name":"Sveta Klara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200038
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f57ab6f53ba775fdf0621f2a798b354e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260240521,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1260240521,
+    "wof:lastmodified":1536770782,
+    "wof:name":"Sveta Klara",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96667,
+    45.75,
+    15.96667,
+    45.75
+],
+  "geometry": {"coordinates":[15.96667,45.75],"type":"Point"}
+}

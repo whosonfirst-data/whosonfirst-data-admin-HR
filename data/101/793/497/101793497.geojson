@@ -1,0 +1,109 @@
+{
+  "id": 101793497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":868087.132887,
+    "geom:bbox":"19.0878793611,45.1748082877,19.1077076268,45.1848577738",
+    "geom:latitude":45.179993,
+    "geom:longitude":19.095619,
+    "gn:population":1014,
+    "iso:country":"HR",
+    "lbl:latitude":45.180145,
+    "lbl:longitude":19.093816,
+    "mps:latitude":45.180145,
+    "mps:longitude":19.093816,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ila\u010da"
+    ],
+    "name:dut_x_preferred":[
+        "Ila\u010da"
+    ],
+    "name:eng_x_preferred":[
+        "Ila\u010da"
+    ],
+    "name:hbs_x_preferred":[
+        "Ila\u010da"
+    ],
+    "name:hrv_x_preferred":[
+        "Ila\u010da"
+    ],
+    "name:nld_x_preferred":[
+        "Ila\u010da"
+    ],
+    "name:slv_x_preferred":[
+        "Ila\u010da"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u043b\u0430\u0447\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ila\u010da"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vukovarsko-srijemska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Tovarnik",
+    "qs:la_lc":"*HR1604596",
+    "qs:level":"locality",
+    "qs:loc":"Ila\u010da",
+    "qs:loc_alt":"Ilaca",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":140,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199147,
+        "gp:id":848154,
+        "qs:id":255681,
+        "qs_pg:id":255681,
+        "wd:id":"Q2574081",
+        "wk:page":"Ila\u010da"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8da04e085bfcc24635821d94ab996b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793497,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":101793497,
+    "wof:lastmodified":1527689277,
+    "wof:name":"Ila\u010da",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":1014,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08787936109388,
+    45.17480828765224,
+    19.10770762684092,
+    45.18485777384711
+],
+  "geometry": {"coordinates":[[[19.09552021731525,45.18452884431423],[19.09537280643957,45.18363519469756],[19.10042486926454,45.18319641807682],[19.10027738483774,45.18230277579738],[19.10406632497893,45.18197354040745],[19.1039187869502,45.18107990342139],[19.10770762684092,45.18075053783821],[19.10756003521772,45.17985690614688],[19.10629711301817,45.17996670777427],[19.10614954755044,45.17907307318461],[19.10488664079401,45.17918285761596],[19.10473910148062,45.17828922012819],[19.1022133143627,45.17850873945218],[19.10236081380395,45.17940238103529],[19.09857203963418,45.1797315525543],[19.09827716658663,45.17794425625704],[19.09701427275746,45.1780539457078],[19.09671946443177,45.17626664191982],[19.09545660598553,45.17637631213086],[19.09530923107434,45.17548265691687],[19.09278354059035,45.17570194780632],[19.09263621175734,45.17480828765224],[19.08884770219311,45.17513710424828],[19.08914224645571,45.17692443597497],[19.08787936109388,45.17703401530082],[19.08817389030719,45.17882134772032],[19.08943681554359,45.17871176430566],[19.09032067178867,45.18407372892534],[19.09158371218308,45.18396411809289],[19.0917310632305,45.18485777384711],[19.09552021731525,45.18452884431423]]],"type":"Polygon"}
+}

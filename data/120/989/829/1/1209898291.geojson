@@ -1,0 +1,74 @@
+{
+  "id": 1209898291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.72583,46.24611,16.72583,46.24611",
+    "geom:latitude":46.24611,
+    "geom:longitude":16.72583,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"11049309.0",
+    "gn:asciiname":"Lunjkovec",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196031,
+    "gn:latitude":46.24611,
+    "gn:longitude":16.72583,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Lunjkovec",
+    "gn:population":215,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lunkovec",
+        "Lunjkovec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196031
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1c2286fee1a0606363011c8d36457454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209898291,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1209898291,
+    "wof:lastmodified":1537625869,
+    "wof:name":"Lunjkovec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":215,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.72583,
+    46.24611,
+    16.72583,
+    46.24611
+],
+  "geometry": {"coordinates":[16.72583,46.24611],"type":"Point"}
+}

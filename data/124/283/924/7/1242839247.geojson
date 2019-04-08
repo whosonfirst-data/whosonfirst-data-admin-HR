@@ -1,0 +1,75 @@
+{
+  "id": 1242839247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47417,45.64609,16.47417,45.64609",
+    "geom:latitude":45.64609,
+    "geom:longitude":16.47417,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11048994.0",
+    "gn:asciiname":"Velika Hrastilnica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188236,
+    "gn:latitude":45.64609,
+    "gn:longitude":16.47417,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Velika Hrastilnica",
+    "gn:population":166,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hrastalnica",
+        "Velika Hrastalnica",
+        "Velika Hrastilnica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188236
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d609c294c03d0ab65f06ee18ba30e774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242839247,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1242839247,
+    "wof:lastmodified":1537625813,
+    "wof:name":"Velika Hrastilnica",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":166,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47417,
+    45.64609,
+    16.47417,
+    45.64609
+],
+  "geometry": {"coordinates":[16.47417,45.64609],"type":"Point"}
+}

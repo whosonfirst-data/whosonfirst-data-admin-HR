@@ -1,0 +1,72 @@
+{
+  "id": 1310472975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53194,45.255,16.53194,45.255",
+    "geom:latitude":45.255,
+    "geom:longitude":16.53194,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"11049230.0",
+    "gn:asciiname":"Majur",
+    "gn:country_code":"HR",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3197591,
+    "gn:latitude":45.255,
+    "gn:longitude":16.53194,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Majur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kostajni\u010dki Majur",
+        "Majur Kostajni\u010dki",
+        "Majur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197591,
+        "wk:page":"Majur%2C_Sisak-Moslavina_County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b4abf1db213cac65cdab3a45473f414e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310472975,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1310472975,
+    "wof:lastmodified":1537625883,
+    "wof:name":"Majur",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53194,
+    45.255,
+    16.53194,
+    45.255
+],
+  "geometry": {"coordinates":[16.53194,45.255],"type":"Point"}
+}

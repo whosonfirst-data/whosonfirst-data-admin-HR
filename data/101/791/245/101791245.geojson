@@ -1,0 +1,158 @@
+{
+  "id": 101791245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000146,
+    "geom:area_square_m":1246928.510904,
+    "geom:bbox":"16.8440978596,46.2880265366,16.8678145487,46.3008070774",
+    "geom:latitude":46.296525,
+    "geom:longitude":16.855153,
+    "gn:population":1224,
+    "iso:country":"HR",
+    "lbl:latitude":46.297125,
+    "lbl:longitude":16.853357,
+    "mps:latitude":46.297125,
+    "mps:longitude":16.853357,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Legrad"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0433\u0440\u0430\u0434"
+    ],
+    "name:deu_x_preferred":[
+        "Legrad"
+    ],
+    "name:dut_x_preferred":[
+        "Legrad"
+    ],
+    "name:eng_x_preferred":[
+        "Legrad"
+    ],
+    "name:epo_x_preferred":[
+        "Legrad"
+    ],
+    "name:fra_x_preferred":[
+        "Legrad"
+    ],
+    "name:fre_x_preferred":[
+        "Legrad"
+    ],
+    "name:ger_x_preferred":[
+        "Legrad"
+    ],
+    "name:hbs_x_preferred":[
+        "Legrad"
+    ],
+    "name:hrv_x_preferred":[
+        "Legrad"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00e9gr\u00e1d"
+    ],
+    "name:ita_x_preferred":[
+        "Legrad"
+    ],
+    "name:lat_x_preferred":[
+        "Legradum"
+    ],
+    "name:nld_x_preferred":[
+        "Legrad"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Legrad"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Legrad"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0433\u0440\u0430\u0434"
+    ],
+    "name:slv_x_preferred":[
+        "Legrad"
+    ],
+    "name:spa_x_preferred":[
+        "Legrad"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0433\u0440\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Legrad"
+    ],
+    "name:und_x_preferred":[
+        "Legrad"
+    ],
+    "name:war_x_preferred":[
+        "Legrad"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Koprivnicko-kri\u017eevacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Legrad",
+    "qs:la_lc":"*HR0602275",
+    "qs:level":"locality",
+    "qs:loc":"Legrad",
+    "qs:loc_alt":"Legrad",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":222,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115c3c7c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3196699,
+        "gp:id":848770,
+        "qs:id":967089,
+        "qs_pg:id":967089,
+        "wd:id":"Q1014822",
+        "wk:page":"Legrad"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"215673d278af027909a2d41dc7b4a036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791245,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":101791245,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527641954,
+    "wof:name":"Legrad",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":1224,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.84409785955148,
+    46.28802653664479,
+    16.86781454870948,
+    46.30080707740882
+],
+  "geometry": {"coordinates":[[[16.86580556056367,46.30039177901278],[16.86569051531302,46.29949552395522],[16.86698268478722,46.29941241910313],[16.86652246817658,46.2958273987195],[16.86781454870948,46.29574428469573],[16.86769948565848,46.29484802956108],[16.86640742645415,46.29493114197993],[16.86629238970266,46.29403488458291],[16.85595595654189,46.29469920983604],[16.85584109538377,46.2938029389536],[16.84938081391095,46.29421762752565],[16.848692390971,46.28883994039342],[16.84740045181127,46.28892282173274],[16.84728575332997,46.28802653664479],[16.84599383188851,46.28810940079484],[16.84668196916772,46.29348711107048],[16.84409785955148,46.29365281179849],[16.84455654622269,46.29723795164887],[16.84584868815858,46.29715510268102],[16.84607810389866,46.29894766546812],[16.84737028489519,46.29886479770767],[16.8474850215365,46.29976107651635],[16.84877722026016,46.29967819156246],[16.84889198319638,46.30057446811429],[16.85922961369312,46.29991081433099],[16.85934455227408,46.30080707740882],[16.86580556056367,46.30039177901278]]],"type":"Polygon"}
+}

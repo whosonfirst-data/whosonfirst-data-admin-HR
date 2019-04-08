@@ -1,0 +1,66 @@
+{
+  "id": 1209228901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.88333,45.88333,16.88333,45.88333",
+    "geom:latitude":45.88333,
+    "geom:longitude":16.88333,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"3203981.0",
+    "gn:asciiname":"Novoseljani",
+    "gn:country_code":"HR",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194342,
+    "gn:latitude":45.88333,
+    "gn:longitude":16.88333,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Novoseljani",
+    "gn:population":708,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194342,
+        "wk:page":"Novoseljani"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d6f231aaebc4a8f554e0fad83b7184f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209228901
+        }
+    ],
+    "wof:id":1209228901,
+    "wof:lastmodified":1537563287,
+    "wof:name":"Novoseljani",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":708,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.88332999999999,
+    45.88333,
+    16.88332999999999,
+    45.88333
+],
+  "geometry": {"coordinates":[16.88332999999999,45.88333],"type":"Point"}
+}

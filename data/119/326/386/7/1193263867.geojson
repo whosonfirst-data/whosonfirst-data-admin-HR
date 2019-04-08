@@ -1,0 +1,70 @@
+{
+  "id": 1193263867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36111,44.91944,15.36111,44.91944",
+    "geom:latitude":44.91944,
+    "geom:longitude":15.36111,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Petrinic Polje",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3218318,
+    "gn:latitude":44.91944,
+    "gn:longitude":15.36111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Petrini\u0107 Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petrini\u0107 Polie",
+        "Petrini\u0107 Polje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218318
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d4f75180b0635166c02ae6d7776f326d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193263867,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1193263867,
+    "wof:lastmodified":1537625958,
+    "wof:name":"Petrinic Polje",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36111,
+    44.91944,
+    15.36111,
+    44.91944
+],
+  "geometry": {"coordinates":[15.36111,44.91944],"type":"Point"}
+}

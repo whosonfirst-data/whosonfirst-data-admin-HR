@@ -1,0 +1,75 @@
+{
+  "id": 1360271065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97248,44.62371,14.97248,44.62371",
+    "geom:latitude":44.62371,
+    "geom:longitude":14.97248,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049293.0",
+    "gn:asciiname":"Prizna",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192342,
+    "gn:latitude":44.62371,
+    "gn:longitude":14.97248,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Prizna",
+    "gn:population":45,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prizka",
+        "Prizna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192342,
+        "wk:page":"Prizna"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e2e1f15581ba92219e4674eee495f024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360271065,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1360271065,
+    "wof:lastmodified":1537625842,
+    "wof:name":"Prizna",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97248,
+    44.62371,
+    14.97248,
+    44.62371
+],
+  "geometry": {"coordinates":[14.97248,44.62371],"type":"Point"}
+}

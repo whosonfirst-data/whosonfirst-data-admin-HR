@@ -1,0 +1,70 @@
+{
+  "id": 1293459357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16167,46.22361,16.16167,46.22361",
+    "geom:latitude":46.22361,
+    "geom:longitude":16.16167,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"3199075.0",
+    "gn:asciiname":"Salinovec",
+    "gn:country_code":"HR",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191333,
+    "gn:latitude":46.22361,
+    "gn:longitude":16.16167,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Salinovec",
+    "gn:population":512,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191333,
+        "wk:page":"Salinovec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6dc61172246ce645c289d80aa7968861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293459357,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1293459357,
+    "wof:lastmodified":1537563282,
+    "wof:name":"Salinovec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":512,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16167,
+    46.22361,
+    16.16167,
+    46.22361
+],
+  "geometry": {"coordinates":[16.16167,46.22361],"type":"Point"}
+}

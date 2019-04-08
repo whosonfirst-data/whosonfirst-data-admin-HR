@@ -1,0 +1,75 @@
+{
+  "id": 1260372585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96667,46.28333,15.96667,46.28333",
+    "geom:latitude":46.28333,
+    "geom:longitude":15.96667,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"11049308.0",
+    "gn:asciiname":"Jazbina Visnjicka",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198743,
+    "gn:latitude":46.28333,
+    "gn:longitude":15.96667,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Jazbina Vi\u0161nji\u010dka",
+    "gn:population":25,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vi\u0161nji\u010dka Jazbina",
+        "Jazbina",
+        "Jazbina Vi\u0161nji\u010dka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198743
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"77e8cc8111b5686f28aee289b3958fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260372585,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1260372585,
+    "wof:lastmodified":1537625891,
+    "wof:name":"Jazbina Visnjicka",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96667,
+    46.28333,
+    15.96667,
+    46.28333
+],
+  "geometry": {"coordinates":[15.96667,46.28333],"type":"Point"}
+}

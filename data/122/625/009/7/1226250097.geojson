@@ -1,0 +1,71 @@
+{
+  "id": 1226250097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.37861,42.53444,18.37861,42.53444",
+    "geom:latitude":42.53444,
+    "geom:longitude":18.37861,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"11054972.0",
+    "gn:asciiname":"Donja Ljuta",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263485,
+    "gn:latitude":42.53444,
+    "gn:longitude":18.37861,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Donja Ljuta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donji Mlini",
+        "Donja Ljuta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263485
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"84942fb1c079b547a67008f3cabb4fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226250097,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1226250097,
+    "wof:lastmodified":1537625961,
+    "wof:name":"Donja Ljuta",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.37861,
+    42.53444,
+    18.37861,
+    42.53444
+],
+  "geometry": {"coordinates":[18.37861,42.53444],"type":"Point"}
+}

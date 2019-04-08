@@ -1,0 +1,66 @@
+{
+  "id": 1326827541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7325,46.22778,16.7325,46.22778",
+    "geom:latitude":46.22778,
+    "geom:longitude":16.7325,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049389.0",
+    "gn:asciiname":"Gorica",
+    "gn:country_code":"HR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200334,
+    "gn:latitude":46.22778,
+    "gn:longitude":16.7325,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Gorica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200334
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"12747ac317155a9016c8683b884db480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326827541,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1326827541,
+    "wof:lastmodified":1537053282,
+    "wof:name":"Gorica",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7325,
+    46.22778,
+    16.7325,
+    46.22778
+],
+  "geometry": {"coordinates":[16.7325,46.22778],"type":"Point"}
+}

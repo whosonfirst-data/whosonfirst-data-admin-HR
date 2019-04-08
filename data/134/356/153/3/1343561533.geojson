@@ -1,0 +1,71 @@
+{
+  "id": 1343561533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50444,45.4825,13.50444,45.4825",
+    "geom:latitude":45.4825,
+    "geom:longitude":13.50444,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"11129767.0",
+    "gn:asciiname":"Basanija",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204452,
+    "gn:latitude":45.4825,
+    "gn:longitude":13.50444,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Ba\u0161anija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bassania",
+        "Ba\u0161anija"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204452
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b45c18dd4e132bb377b7a57cb2a3a92d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343561533,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1343561533,
+    "wof:lastmodified":1537625937,
+    "wof:name":"Basanija",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50444,
+    45.4825,
+    13.50444,
+    45.4825
+],
+  "geometry": {"coordinates":[13.50444,45.4825],"type":"Point"}
+}

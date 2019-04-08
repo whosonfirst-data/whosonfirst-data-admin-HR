@@ -1,0 +1,74 @@
+{
+  "id": 1259690057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.825,45.08194,13.825,45.08194",
+    "geom:latitude":45.08194,
+    "geom:longitude":13.825,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Krmed",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197193,
+    "gn:latitude":45.08194,
+    "gn:longitude":13.825,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Krmed",
+    "gn:population":77,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carmedo",
+        "Krmedo",
+        "Krmed"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197193
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4c10ae5146929849af4edf965bf3bf94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259690057,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1259690057,
+    "wof:lastmodified":1537625879,
+    "wof:name":"Krmed",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":77,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.825,
+    45.08194,
+    13.825,
+    45.08194
+],
+  "geometry": {"coordinates":[13.825,45.08194],"type":"Point"}
+}

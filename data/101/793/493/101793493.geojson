@@ -1,0 +1,155 @@
+{
+  "id": 101793493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000173,
+    "geom:area_square_m":1506656.946244,
+    "geom:bbox":"18.9863938556,45.2697675539,19.0086356195,45.2933305305",
+    "geom:latitude":45.280136,
+    "geom:longitude":18.998524,
+    "gn:population":1473,
+    "iso:country":"HR",
+    "lbl:latitude":45.278967,
+    "lbl:longitude":18.998356,
+    "mps:latitude":45.278967,
+    "mps:longitude":18.998356,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u0433\u043e\u0441\u043b\u0430\u0432\u0446\u0438"
+    ],
+    "name:cha_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:cym_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:dut_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:eng_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:fra_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:fre_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:hbs_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:hrv_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:ita_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:nld_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Negoslavci"
+    ],
+    "name:rue_x_preferred":[
+        "\u041d\u0435\u0433\u043e\u0441\u043b\u0430\u0432\u0446\u0438"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Negoslavci"
+    ],
+    "name:slv_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:spa_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u0433\u043e\u0441\u043b\u0430\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:tur_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:und_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:war_x_preferred":[
+        "Negoslavci"
+    ],
+    "name:wel_x_preferred":[
+        "Negoslavci"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vukovarsko-srijemska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Negoslavci",
+    "qs:la_lc":"*HR1606122",
+    "qs:level":"locality",
+    "qs:loc":"Negoslavci",
+    "qs:loc_alt":"Negoslavci",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":647,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115c7c96-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3194552,
+        "gp:id":849289,
+        "qs:id":1275315,
+        "qs_pg:id":1275315,
+        "wd:id":"Q967133",
+        "wk:page":"Negoslavci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ae07a06a9190202d38ec5538249295fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793493,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":101793493,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527689280,
+    "wof:name":"Negoslavci",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":1473,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.9863938555855,
+    45.26976755391581,
+    19.00863561954037,
+    45.29333053052767
+],
+  "geometry": {"coordinates":[[[19.00294584698611,45.29221965395578],[19.00133608771819,45.28238855316386],[19.00260149481477,45.28227998218779],[19.00245517009535,45.28138624275817],[19.00751667360748,45.28095181514215],[19.00737027488162,45.28005808300333],[19.00863561954037,45.27994944017314],[19.0081964003229,45.27726824482528],[19.00566582680062,45.27748550310741],[19.00551947284379,45.27659176558325],[19.00172363917773,45.27691753304191],[19.00055351091515,45.26976755391581],[18.99802325344797,45.2699846238192],[18.99816945779173,45.2708783782042],[18.99690430232562,45.27098689241495],[18.99719668945505,45.27277440273093],[18.99593148944825,45.27288290582044],[18.99637005631769,45.2755641710994],[18.99383952266624,45.27578114391071],[18.99398568388216,45.27667490138776],[18.9863938555855,45.27732546760984],[18.98683201543645,45.28000677153415],[18.99062813007777,45.27968153849133],[18.99077425584204,45.28057529870648],[18.99203963851431,45.28046685529529],[18.99233194865485,45.28225436915596],[18.99612819018432,45.2819289356392],[18.99729815893926,45.28907890887331],[18.99982928512952,45.28886184477841],[19.00056091694563,45.29333053052767],[19.0018265736216,45.29322196554114],[19.00168021483859,45.29232823209765],[19.00294584698611,45.29221965395578]]],"type":"Polygon"}
+}

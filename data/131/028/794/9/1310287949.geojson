@@ -1,0 +1,70 @@
+{
+  "id": 1310287949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.94,43.58417,16.94,43.58417",
+    "geom:latitude":43.58417,
+    "geom:longitude":16.94,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Gornja Tijarica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3200175,
+    "gn:latitude":43.58417,
+    "gn:longitude":16.94,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gornja Tijarica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tijarica Gornja",
+        "Gornja Tijarica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200175
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c19dd0ec35a731debe26a755e7452c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310287949,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1310287949,
+    "wof:lastmodified":1537625903,
+    "wof:name":"Gornja Tijarica",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.94,
+    43.58417,
+    16.94,
+    43.58417
+],
+  "geometry": {"coordinates":[16.94,43.58417],"type":"Point"}
+}

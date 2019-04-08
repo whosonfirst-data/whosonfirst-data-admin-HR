@@ -1,0 +1,66 @@
+{
+  "id": 1327123327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.61639,45.62583,18.61639,45.62583",
+    "geom:latitude":45.62583,
+    "geom:longitude":18.61639,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"11054454.0",
+    "gn:asciiname":"Bezdan",
+    "gn:country_code":"HR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215479,
+    "gn:latitude":45.62583,
+    "gn:longitude":18.61639,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Bezdan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215479
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1e35d14a518663a005a066f12c3c29a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327123327,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1327123327,
+    "wof:lastmodified":1536627424,
+    "wof:name":"Bezdan",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61639,
+    45.62583,
+    18.61639,
+    45.62583
+],
+  "geometry": {"coordinates":[18.61639,45.62583],"type":"Point"}
+}

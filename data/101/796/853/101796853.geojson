@@ -1,0 +1,186 @@
+{
+  "id": 101796853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000169,
+    "geom:area_square_m":1527436.482586,
+    "geom:bbox":"16.7086326498,42.9535853584,16.7272141421,42.9692662227",
+    "geom:latitude":42.961148,
+    "geom:longitude":16.718112,
+    "gn:population":4380,
+    "iso:country":"HR",
+    "lbl:latitude":42.960685,
+    "lbl:longitude":16.718746,
+    "mps:latitude":42.960685,
+    "mps:longitude":16.718746,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:bos_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:ces_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:cze_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:deu_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:dut_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:eng_x_preferred":[
+        "Velika Luka"
+    ],
+    "name:eng_x_variant":[
+        "Bela Luka",
+        "Vallegrande",
+        "Velja Luka",
+        "Vela Luka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0644\u0648\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:fre_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:ger_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:hbs_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:hrv_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:hun_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:ita_x_preferred":[
+        "Vallegrande"
+    ],
+    "name:lat_x_preferred":[
+        "Vallis Magna"
+    ],
+    "name:nld_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0644\u0648\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Vela Luka"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Vela Luka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0430-\u041b\u0443\u043a\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:spa_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:sqi_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0430 \u041b\u0443\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0430-\u041b\u0443\u043a\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Vela Luka"
+    ],
+    "name:unk_x_variant":[
+        "Bela Luka"
+    ],
+    "name:war_x_preferred":[
+        "Vela Luka"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Dubrovacko-neretvanska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Vela Luka",
+    "qs:la_lc":"*HR1904740",
+    "qs:level":"locality",
+    "qs:loc":"Vela Luka",
+    "qs:loc_alt":"Vela Luka",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":909,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115d4158-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3188326,
+        "gp:id":850813,
+        "qs:id":491996,
+        "qs_pg:id":491996,
+        "wd:id":"Q994341",
+        "wk:page":"Vela Luka"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0beb602d017a7260a579fc499a286d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101796853,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":101796853,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642037,
+    "wof:name":"Vela Luka",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:population":4380,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.70863264979539,
+    42.9535853584174,
+    16.72721414209366,
+    42.96926622274924
+],
+  "geometry": {"coordinates":[[[16.72671222866268,42.96462391133042],[16.72599581040708,42.95833294234183],[16.72721414209366,42.95825227976047],[16.72711179498367,42.95735356795984],[16.72589348157317,42.95743422912119],[16.72568883637655,42.95563680015584],[16.71716081551068,42.95620100045903],[16.71695644278094,42.95440354826519],[16.71573817880733,42.9544840871938],[16.71563601694311,42.9535853584174],[16.71441776828811,42.95366588135954],[16.7145199118782,42.95456461155322],[16.71086509336567,42.95480609721477],[16.7109671862795,42.95570483081838],[16.70974888925963,42.95578529831596],[16.70985096804486,42.95668403249545],[16.70863264979539,42.95676448683929],[16.7087347144506,42.95766322159432],[16.71117138455099,42.95750229550305],[16.71137559941485,42.95929975682486],[16.71259396659087,42.95921926908983],[16.71269609852453,42.9601179970727],[16.71391448102452,42.96003749334955],[16.71422095656493,42.96273366800216],[16.71056563567589,42.96297514821219],[16.71066774764495,42.96387387566693],[16.71188620917854,42.96379339541852],[16.7122947716831,42.96738829116549],[16.71107623701386,42.96746877708262],[16.71128050659695,42.96926622274924],[16.71737333323927,42.9688636332549],[16.71727110494197,42.96796491793083],[16.71848964311243,42.96788435773021],[16.71838740068387,42.96698564298418],[16.71960591761086,42.96690506962909],[16.71950366105261,42.9660063554615],[16.72072215673705,42.96592576895245],[16.72061988605077,42.96502705536324],[16.72671222866268,42.96462391133042]]],"type":"Polygon"}
+}

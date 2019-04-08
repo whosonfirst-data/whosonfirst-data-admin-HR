@@ -1,0 +1,71 @@
+{
+  "id": 1209307133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.66083,45.93167,16.66083,45.93167",
+    "geom:latitude":45.93167,
+    "geom:longitude":16.66083,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049393.0",
+    "gn:asciiname":"Cirkvena",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202570,
+    "gn:latitude":45.93167,
+    "gn:longitude":16.66083,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Cirkvena",
+    "gn:population":574,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Crkvena",
+        "Cirkvena"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202570,
+        "wk:page":"Cirkvena"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f3ff3edb5baf47336641566d3c5216ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209307133
+        }
+    ],
+    "wof:id":1209307133,
+    "wof:lastmodified":1537625924,
+    "wof:name":"Cirkvena",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":574,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.66082999999999,
+    45.93167,
+    16.66082999999999,
+    45.93167
+],
+  "geometry": {"coordinates":[16.66082999999999,45.93167],"type":"Point"}
+}

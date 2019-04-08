@@ -1,0 +1,65 @@
+{
+  "id": 1259806433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56667,45.5,15.56667,45.5",
+    "geom:latitude":45.5,
+    "geom:longitude":15.56667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Gradac",
+    "gn:country_code":"HR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199749,
+    "gn:latitude":45.5,
+    "gn:longitude":15.56667,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Gradac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199749
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"43d807ae4746a3df32595613b7e486f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259806433,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1259806433,
+    "wof:lastmodified":1536889806,
+    "wof:name":"Gradac",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56667,
+    45.5,
+    15.56667,
+    45.5
+],
+  "geometry": {"coordinates":[15.56667,45.5],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226229385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.685,45.54528,14.685,45.54528",
+    "geom:latitude":45.54528,
+    "geom:longitude":14.685,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"3202931.0",
+    "gn:asciiname":"Plesce",
+    "gn:country_code":"HR",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193205,
+    "gn:latitude":45.54528,
+    "gn:longitude":14.685,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Ple\u0161ce",
+    "gn:population":140,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ple\u0161ce"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193205,
+        "wk:page":"Ple%C5%A1ce"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3de9b704b3a0cfed52a08ed66537ae46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226229385,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1226229385,
+    "wof:lastmodified":1537625848,
+    "wof:name":"Plesce",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.685,
+    45.54528,
+    14.685,
+    45.54528
+],
+  "geometry": {"coordinates":[14.685,45.54528],"type":"Point"}
+}

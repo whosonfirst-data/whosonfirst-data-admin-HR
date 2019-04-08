@@ -1,0 +1,69 @@
+{
+  "id": 1343363855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61667,45.16417,15.61667,45.16417",
+    "geom:latitude":45.16417,
+    "geom:longitude":15.61667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kutanja",
+    "gn:country_code":"HR",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281994,
+    "gn:latitude":45.16417,
+    "gn:longitude":15.61667,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Kutanja",
+    "gn:population":2,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281994,
+        "wk:page":"Kutanja_%28Slunj%29"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e041be6bdce6f33a981be67296825556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343363855,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1343363855,
+    "wof:lastmodified":1537563318,
+    "wof:name":"Kutanja",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61667,
+    45.16417,
+    15.61667,
+    45.16417
+],
+  "geometry": {"coordinates":[15.61667,45.16417],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243256221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.51667,46.01667,16.51667,46.01667",
+    "geom:latitude":46.01667,
+    "geom:longitude":16.51667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gornja Brckovcina",
+    "gn:country_code":"HR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200281,
+    "gn:latitude":46.01667,
+    "gn:longitude":16.51667,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Gornja Brckov\u010dina",
+    "gn:population":160,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200281
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"dabdaef817d68863cc7354169bc647e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243256221,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1243256221,
+    "wof:lastmodified":1537076647,
+    "wof:name":"Gornja Brckovcina",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":160,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.51667,
+    46.01667,
+    16.51667,
+    46.01667
+],
+  "geometry": {"coordinates":[16.51667,46.01667],"type":"Point"}
+}

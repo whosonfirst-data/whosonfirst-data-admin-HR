@@ -1,0 +1,111 @@
+{
+  "id": 1125858477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42889,45.34778,18.42889,45.34778",
+    "geom:latitude":45.34778,
+    "geom:longitude":18.42889,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":958,
+    "gn:population":1028,
+    "iso:country":"HR",
+    "lbl:latitude":45.34778,
+    "lbl:longitude":18.42889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Ku\u0161evac"
+    ],
+    "name:dut_x_preferred":[
+        "Ku\u0161evac"
+    ],
+    "name:eng_x_preferred":[
+        "Ku\u0161evac"
+    ],
+    "name:hrv_x_preferred":[
+        "Ku\u0161evac"
+    ],
+    "name:slv_x_preferred":[
+        "Ku\u0161evac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0448\u0435\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Ku\u0161evac"
+    ],
+    "name:unk_x_variant":[
+        "Ku\u0161evac"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3196886,
+    "qs_pg:gn_pop":958,
+    "qs_pg:name":"Ku\u00b5evac",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Osje\u010dko-baranjska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1275215,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":848709,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Osje\u010dko-baranjska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196886,
+        "gp:id":848709,
+        "qs_pg:id":1275215,
+        "wd:id":"Q3513080"
+    },
+    "wof:country":"HR",
+    "wof:created":1497293723,
+    "wof:geomhash":"137f1543d98150103f7979ac81dff2d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125858477,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1125858477,
+    "wof:lastmodified":1514447509,
+    "wof:name":"Ku\u00b5evac",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":1028,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42889,
+    45.34778,
+    18.42889,
+    45.34778
+],
+  "geometry": {"coordinates":[18.42889,45.34778],"type":"Point"}
+}

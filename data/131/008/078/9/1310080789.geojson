@@ -1,0 +1,65 @@
+{
+  "id": 1310080789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17833,44.31778,16.17833,44.31778",
+    "geom:latitude":44.31778,
+    "geom:longitude":16.17833,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Zavlaka",
+    "gn:country_code":"HR",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277769,
+    "gn:latitude":44.31778,
+    "gn:longitude":16.17833,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Zavlaka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277769
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6b358aed729d0f20ced0459c7bb0bf63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310080789,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1310080789,
+    "wof:lastmodified":1537030890,
+    "wof:name":"Zavlaka",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17833,
+    44.31778,
+    16.17833,
+    44.31778
+],
+  "geometry": {"coordinates":[16.17833,44.31778],"type":"Point"}
+}

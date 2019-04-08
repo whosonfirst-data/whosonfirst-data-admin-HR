@@ -1,0 +1,65 @@
+{
+  "id": 1259453473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.27583,43.31806,17.27583,43.31806",
+    "geom:latitude":43.31806,
+    "geom:longitude":17.27583,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Glavasi",
+    "gn:country_code":"HR",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283363,
+    "gn:latitude":43.31806,
+    "gn:longitude":17.27583,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Glava\u0161i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283363
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3e53ccd3da1e94c23b6812a57f0935d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259453473,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1259453473,
+    "wof:lastmodified":1536902101,
+    "wof:name":"Glavasi",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.27583,
+    43.31806,
+    17.27583,
+    43.31806
+],
+  "geometry": {"coordinates":[17.27583,43.31806],"type":"Point"}
+}

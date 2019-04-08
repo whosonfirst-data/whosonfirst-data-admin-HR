@@ -1,0 +1,73 @@
+{
+  "id": 1242761595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.845,45.67167,18.845,45.67167",
+    "geom:latitude":45.67167,
+    "geom:longitude":18.845,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054392.0",
+    "gn:asciiname":"Tikves",
+    "gn:country_code":"HR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189116,
+    "gn:latitude":45.67167,
+    "gn:longitude":18.845,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Tikve\u0161",
+    "gn:population":10,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tikve\u0161"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189116,
+        "wk:page":"Tikve%C5%A1%2C_Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"08cb962edb02c73b81d7f7b0daf2efd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242761595,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1242761595,
+    "wof:lastmodified":1537625820,
+    "wof:name":"Tikves",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.845,
+    45.67167,
+    18.845,
+    45.67167
+],
+  "geometry": {"coordinates":[18.845,45.67167],"type":"Point"}
+}

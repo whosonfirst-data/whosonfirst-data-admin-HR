@@ -1,0 +1,73 @@
+{
+  "id": 1360106837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15,45.98333,17.15,45.98333",
+    "geom:latitude":45.98333,
+    "geom:longitude":17.15,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049373.0",
+    "gn:asciiname":"Budancevica",
+    "gn:country_code":"HR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203143,
+    "gn:latitude":45.98333,
+    "gn:longitude":17.15,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Budan\u010devica",
+    "gn:population":527,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Budan\u010devica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203143,
+        "wk:page":"Budan%C4%8Devica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bbe737a839b1cdaf8a3692dfcf4b8266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360106837,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1360106837,
+    "wof:lastmodified":1537625928,
+    "wof:name":"Budancevica",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":527,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15,
+    45.98333,
+    17.15,
+    45.98333
+],
+  "geometry": {"coordinates":[17.15,45.98333],"type":"Point"}
+}

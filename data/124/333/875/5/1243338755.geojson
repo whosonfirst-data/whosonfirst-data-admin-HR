@@ -1,0 +1,70 @@
+{
+  "id": 1243338755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16972,44.25778,16.16972,44.25778",
+    "geom:latitude":44.25778,
+    "geom:longitude":16.16972,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Torbicki Vagan",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3210629,
+    "gn:latitude":44.25778,
+    "gn:longitude":16.16972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Torbi\u010dki Vagan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vagan",
+        "Torbi\u010dki Vagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3210629
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"237b429aa7a53248d7cae25be812ac4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243338755,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1243338755,
+    "wof:lastmodified":1537625942,
+    "wof:name":"Torbicki Vagan",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16972,
+    44.25778,
+    16.16972,
+    44.25778
+],
+  "geometry": {"coordinates":[16.16972,44.25778],"type":"Point"}
+}

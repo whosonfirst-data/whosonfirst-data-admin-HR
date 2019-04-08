@@ -1,0 +1,65 @@
+{
+  "id": 1327465671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61361,45.22389,15.61361,45.22389",
+    "geom:latitude":45.22389,
+    "geom:longitude":15.61361,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vujaklije",
+    "gn:country_code":"HR",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301638,
+    "gn:latitude":45.22389,
+    "gn:longitude":15.61361,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Vujaklije",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301638
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"52b5b3f591300d68aee6db471d4d01f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327465671,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1327465671,
+    "wof:lastmodified":1536631273,
+    "wof:name":"Vujaklije",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61361,
+    45.22389,
+    15.61361,
+    45.22389
+],
+  "geometry": {"coordinates":[15.61361,45.22389],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1259582443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50167,45.21361,15.50167,45.21361",
+    "geom:latitude":45.21361,
+    "geom:longitude":15.50167,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bojanici",
+    "gn:country_code":"HR",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3219363,
+    "gn:latitude":45.21361,
+    "gn:longitude":15.50167,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Bojanici",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3219363
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a338d41457a117e705d1513b59de340b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259582443,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1259582443,
+    "wof:lastmodified":1536716682,
+    "wof:name":"Bojanici",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50167,
+    45.21361,
+    15.50167,
+    45.21361
+],
+  "geometry": {"coordinates":[15.50167,45.21361],"type":"Point"}
+}

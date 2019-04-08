@@ -1,0 +1,74 @@
+{
+  "id": 1259384567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25111,42.56167,18.25111,42.56167",
+    "geom:latitude":42.56167,
+    "geom:longitude":18.25111,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"11054972.0",
+    "gn:asciiname":"Mocici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194959,
+    "gn:latitude":42.56167,
+    "gn:longitude":18.25111,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Mo\u010di\u0107i",
+    "gn:population":447,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u010di\u0107i",
+        "Mo\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194959
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cba21bfff6c30746b0a730a11685d043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259384567,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1259384567,
+    "wof:lastmodified":1537625861,
+    "wof:name":"Mocici",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:population":447,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25111,
+    42.56167,
+    18.25111,
+    42.56167
+],
+  "geometry": {"coordinates":[18.25111,42.56167],"type":"Point"}
+}

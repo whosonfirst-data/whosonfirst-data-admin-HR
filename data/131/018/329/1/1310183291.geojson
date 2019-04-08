@@ -1,0 +1,75 @@
+{
+  "id": 1310183291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13333,45.48333,17.13333,45.48333",
+    "geom:latitude":45.48333,
+    "geom:longitude":17.13333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"3193705.0",
+    "gn:asciiname":"Donja Obrijez",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201654,
+    "gn:latitude":45.48333,
+    "gn:longitude":17.13333,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Donja Obrije\u017e",
+    "gn:population":235,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donja Obrie\u017e",
+        "Donja Obrije\u017e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201654,
+        "wk:page":"Donja_Obrije%C5%BE"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fbf88d571c87f0d8be9bffdcd3054eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310183291,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1310183291,
+    "wof:lastmodified":1537625918,
+    "wof:name":"Donja Obrijez",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":235,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13332999999999,
+    45.48333,
+    17.13332999999999,
+    45.48333
+],
+  "geometry": {"coordinates":[17.13332999999999,45.48333],"type":"Point"}
+}

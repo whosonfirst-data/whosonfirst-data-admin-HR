@@ -1,0 +1,69 @@
+{
+  "id": 1310178401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.65444,43.73,16.65444,43.73",
+    "geom:latitude":43.73,
+    "geom:longitude":16.65444,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3190864.0",
+    "gn:asciiname":"Jasensko",
+    "gn:country_code":"HR",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280683,
+    "gn:latitude":43.73,
+    "gn:longitude":16.65444,
+    "gn:modification_date":"2017-01-02",
+    "gn:name":"Jasensko",
+    "gn:population":341,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280683
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"09cfa24a4069b7bad4e4706c9f7d48bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310178401,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1310178401,
+    "wof:lastmodified":1536891157,
+    "wof:name":"Jasensko",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":341,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.65444,
+    43.73,
+    16.65444,
+    43.73
+],
+  "geometry": {"coordinates":[16.65444,43.73],"type":"Point"}
+}

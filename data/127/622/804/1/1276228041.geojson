@@ -1,0 +1,78 @@
+{
+  "id": 1276228041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73833,45.14278,13.73833,45.14278",
+    "geom:latitude":45.14278,
+    "geom:longitude":13.73833,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054818.0",
+    "gn:asciiname":"Kruncici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197120,
+    "gn:latitude":45.14278,
+    "gn:longitude":13.73833,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Krun\u010di\u0107i",
+    "gn:population":92,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krun\u0107i\u0107",
+        "Krun\u010di\u0107i Mato\u0161evi\u0107i",
+        "Krun\u010di\u0107i Mato\u0161ovi\u0107i",
+        "Matosovi\u0107i",
+        "Mattosovi",
+        "Krun\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197120
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"91320180a25fd00e0540e41dac6d5f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276228041,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1276228041,
+    "wof:lastmodified":1537625879,
+    "wof:name":"Kruncici",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":92,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73833,
+    45.14278,
+    13.73833,
+    45.14278
+],
+  "geometry": {"coordinates":[13.73833,45.14278],"type":"Point"}
+}

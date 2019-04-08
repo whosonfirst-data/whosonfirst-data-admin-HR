@@ -1,0 +1,74 @@
+{
+  "id": 1343631061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35,46.26667,16.35,46.26667",
+    "geom:latitude":46.26667,
+    "geom:longitude":16.35,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Crnec Biskupecki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202443,
+    "gn:latitude":46.26667,
+    "gn:longitude":16.35,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"\u010crnec Bi\u0161kupe\u010dki",
+    "gn:population":696,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Crnec",
+        "Bi\u0161kupe\u010dki \u010crnec",
+        "\u010crnec Bi\u0161kupe\u010dki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202443
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ae75eeb5e1bf2bbaa3fa1db27e674bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343631061,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1343631061,
+    "wof:lastmodified":1537625923,
+    "wof:name":"Crnec Biskupecki",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":696,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35,
+    46.26667,
+    16.35,
+    46.26667
+],
+  "geometry": {"coordinates":[16.35,46.26667],"type":"Point"}
+}

@@ -1,0 +1,208 @@
+{
+  "id": 1125945463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85,43.31667,16.85,43.31667",
+    "geom:latitude":43.31667,
+    "geom:longitude":16.85,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":152,
+    "iso:country":"HR",
+    "lbl:latitude":43.31667,
+    "lbl:longitude":16.85,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:alb_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:arg_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:baq_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:bos_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:bre_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:cat_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:cze_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:dan_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:dut_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:eng_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:epo_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:est_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:fin_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:fre_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:ger_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:gle_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:glg_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:gsw_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:hun_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:ice_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:ita_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:lit_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:lmo_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:ltz_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:nno_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:nob_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:pms_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:pol_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:por_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:rum_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:slo_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:slv_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:spa_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:tur_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:wln_x_preferred":[
+        "Novo Selo"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3194340,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Novo Selo",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Splitsko-Dalmatinska",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":496797,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":849383,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Splitsko-Dalmatinska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194340,
+        "gp:id":849383,
+        "qs_pg:id":496797,
+        "wd:id":"Q3434881"
+    },
+    "wof:country":"HR",
+    "wof:created":1497297264,
+    "wof:geomhash":"d3a082cc6e400559e60b3612497927d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125945463,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1125945463,
+    "wof:lastmodified":1514447548,
+    "wof:name":"Novo Selo",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":152,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85,
+    43.31667,
+    16.85,
+    43.31667
+],
+  "geometry": {"coordinates":[16.85,43.31667],"type":"Point"}
+}

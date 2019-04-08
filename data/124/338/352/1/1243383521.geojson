@@ -1,0 +1,65 @@
+{
+  "id": 1243383521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23583,44.50556,15.23583,44.50556",
+    "geom:latitude":44.50556,
+    "geom:longitude":15.23583,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Stara Pila",
+    "gn:country_code":"HR",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273849,
+    "gn:latitude":44.50556,
+    "gn:longitude":15.23583,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Stara Pila",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273849
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f74cb826cd9c32cde43d2c8d976eabcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243383521,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1243383521,
+    "wof:lastmodified":1536896205,
+    "wof:name":"Stara Pila",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23583,
+    44.50556,
+    15.23583,
+    44.50556
+],
+  "geometry": {"coordinates":[15.23583,44.50556],"type":"Point"}
+}

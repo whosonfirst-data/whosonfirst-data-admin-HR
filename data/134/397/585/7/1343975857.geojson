@@ -1,0 +1,74 @@
+{
+  "id": 1343975857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03333,45.68333,17.03333,45.68333",
+    "geom:latitude":45.68333,
+    "geom:longitude":17.03333,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049403.0",
+    "gn:asciiname":"Velika Trnava",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188156,
+    "gn:latitude":45.68333,
+    "gn:longitude":17.03333,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Velika Trnava",
+    "gn:population":298,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trnava",
+        "Velika Trnava"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188156
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b4da77d5d4962f95af25deb4b6fd5157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343975857,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1343975857,
+    "wof:lastmodified":1537625813,
+    "wof:name":"Velika Trnava",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":298,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03333,
+    45.68333,
+    17.03333,
+    45.68333
+],
+  "geometry": {"coordinates":[17.03333,45.68333],"type":"Point"}
+}

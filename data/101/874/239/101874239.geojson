@@ -1,0 +1,111 @@
+{
+  "id": 101874239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.536883,46.38638,16.536883,46.38638",
+    "geom:latitude":46.38638,
+    "geom:longitude":16.536883,
+    "gn:population":1135,
+    "iso:country":"HR",
+    "lbl:latitude":46.38638,
+    "lbl:longitude":16.536883,
+    "mps:latitude":46.38638,
+    "mps:longitude":16.536883,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Palovec"
+    ],
+    "name:dut_x_preferred":[
+        "Palovec"
+    ],
+    "name:eng_x_preferred":[
+        "Palovec"
+    ],
+    "name:epo_x_preferred":[
+        "Palovec"
+    ],
+    "name:hbs_x_preferred":[
+        "Palovec"
+    ],
+    "name:hrv_x_preferred":[
+        "Palovec"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151p\u00e1lfa"
+    ],
+    "name:nld_x_preferred":[
+        "Palovec"
+    ],
+    "name:slv_x_preferred":[
+        "Palovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043b\u043e\u0432\u0435\u0446"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Medimurska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Palovec",
+    "qs:loc_alt":"Palovec",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193662,
+        "gp:id":850096,
+        "qs:id":1275497,
+        "wd:id":"Q768796",
+        "wk:page":"Palovec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b1d0fb521e61e68f026bb43d5a3ef32c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101874239,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":101874239,
+    "wof:lastmodified":1544751615,
+    "wof:name":"Palovec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":1135,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.536883,
+    46.38638,
+    16.536883,
+    46.38638
+],
+  "geometry": {"coordinates":[16.536883,46.38638],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209535709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93028,44.69528,15.93028,44.69528",
+    "geom:latitude":44.69528,
+    "geom:longitude":15.93028,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049285.0",
+    "gn:asciiname":"Capacusa",
+    "gn:country_code":"HR",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3268792,
+    "gn:latitude":44.69528,
+    "gn:longitude":15.93028,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Capa\u0107u\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3268792
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c15a83137044e0795e11755f3b35d08c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209535709
+        }
+    ],
+    "wof:id":1209535709,
+    "wof:lastmodified":1536284149,
+    "wof:name":"Capacusa",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.930279999999998,
+    44.69528,
+    15.930279999999998,
+    44.69528
+],
+  "geometry": {"coordinates":[15.93028,44.69528],"type":"Point"}
+}

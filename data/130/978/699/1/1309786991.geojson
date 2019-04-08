@@ -1,0 +1,67 @@
+{
+  "id": 1309786991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57306,45.475,17.57306,45.475",
+    "geom:latitude":45.475,
+    "geom:longitude":17.57306,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049479.0",
+    "gn:asciiname":"Gornji Vrhovci",
+    "gn:country_code":"HR",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3199897,
+    "gn:latitude":45.475,
+    "gn:longitude":17.57306,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Gornji Vrhovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199897,
+        "wk:page":"Gornji_Vrhovci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"37ed419452d44a9ba265682fbde36328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309786991,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1309786991,
+    "wof:lastmodified":1537563300,
+    "wof:name":"Gornji Vrhovci",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.57306,
+    45.475,
+    17.57306,
+    45.475
+],
+  "geometry": {"coordinates":[17.57306,45.475],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226564391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62275,44.88126,15.62275,44.88126",
+    "geom:latitude":44.88126,
+    "geom:longitude":15.62275,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049292.0",
+    "gn:asciiname":"Plitvicka Jezera",
+    "gn:country_code":"HR",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630047,
+    "gn:latitude":44.88126,
+    "gn:longitude":15.62275,
+    "gn:modification_date":"2018-03-27",
+    "gn:name":"Plitvi\u010dka Jezera",
+    "gn:population":315,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Plitvica Seen"
+    ],
+    "name:eng_x_preferred":[
+        "Plitvica Lakes"
+    ],
+    "name:hun_x_preferred":[
+        "Plitvicei-tavak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630047
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"842d53d4136aa088cd628b78cb8462f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226564391,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1226564391,
+    "wof:lastmodified":1537625967,
+    "wof:name":"Plitvicka Jezera",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":315,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62275,
+    44.88126,
+    15.62275,
+    44.88126
+],
+  "geometry": {"coordinates":[15.62275,44.88126],"type":"Point"}
+}

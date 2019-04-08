@@ -1,0 +1,74 @@
+{
+  "id": 1327431949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.07694,45.43944,14.07694,45.43944",
+    "geom:latitude":45.43944,
+    "geom:longitude":14.07694,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11129787.0",
+    "gn:asciiname":"Raspor",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191922,
+    "gn:latitude":45.43944,
+    "gn:longitude":14.07694,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Ra\u0161por",
+    "gn:population":3,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raspo",
+        "Ra\u0161por"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191922
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7a51767102c406520e9ee60b7ab36b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327431949,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1327431949,
+    "wof:lastmodified":1537625840,
+    "wof:name":"Raspor",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":3,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07694,
+    45.43944000000001,
+    14.07694,
+    45.43944000000001
+],
+  "geometry": {"coordinates":[14.07694,45.43944000000001],"type":"Point"}
+}

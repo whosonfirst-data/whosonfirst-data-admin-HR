@@ -1,0 +1,73 @@
+{
+  "id": 1276311797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.51829,45.28678,16.51829,45.28678",
+    "geom:latitude":45.28678,
+    "geom:longitude":16.51829,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"11049230.0",
+    "gn:asciiname":"Veliko Krcevo",
+    "gn:country_code":"HR",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215372,
+    "gn:latitude":45.28678,
+    "gn:longitude":16.51829,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Veliko Kr\u010devo",
+    "gn:population":79,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veliko Kr\u010devo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215372,
+        "wk:page":"Veliko_Kr%C4%8Devo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"47ce147750e3fc8c20138b0c78700a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276311797,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1276311797,
+    "wof:lastmodified":1537625949,
+    "wof:name":"Veliko Krcevo",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":79,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.51829,
+    45.28678,
+    16.51829,
+    45.28678
+],
+  "geometry": {"coordinates":[16.51829,45.28678],"type":"Point"}
+}

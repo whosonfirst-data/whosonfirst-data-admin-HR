@@ -1,0 +1,66 @@
+{
+  "id": 1226365251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65306,45.10417,15.65306,45.10417",
+    "geom:latitude":45.10417,
+    "geom:longitude":15.65306,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"3190522.0",
+    "gn:asciiname":"Seliste Ladevacko",
+    "gn:country_code":"HR",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3281732,
+    "gn:latitude":45.10417,
+    "gn:longitude":15.65306,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Seli\u0161te La\u0111eva\u010dko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281732
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"71dc11a52089a777915e7991d0193af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226365251,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1226365251,
+    "wof:lastmodified":1536761698,
+    "wof:name":"Seliste Ladevacko",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65306,
+    45.10417,
+    15.65306,
+    45.10417
+],
+  "geometry": {"coordinates":[15.65306,45.10417],"type":"Point"}
+}

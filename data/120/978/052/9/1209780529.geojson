@@ -1,0 +1,69 @@
+{
+  "id": 1209780529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13333,45.7,16.13333,45.7",
+    "geom:latitude":45.7,
+    "geom:longitude":16.13333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"3188243.0",
+    "gn:asciiname":"Donje Podotocje",
+    "gn:country_code":"HR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201545,
+    "gn:latitude":45.7,
+    "gn:longitude":16.13333,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Donje Podoto\u010dje",
+    "gn:population":375,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201545
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bfd26ac9e40285405bb1237bf598e0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209780529,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1209780529,
+    "wof:lastmodified":1536374171,
+    "wof:name":"Donje Podotocje",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":375,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13332999999999,
+    45.7,
+    16.13332999999999,
+    45.7
+],
+  "geometry": {"coordinates":[16.13332999999999,45.7],"type":"Point"}
+}

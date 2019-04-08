@@ -1,0 +1,65 @@
+{
+  "id": 1259446217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.04806,45.30056,19.04806,45.30056",
+    "geom:latitude":45.30056,
+    "geom:longitude":19.04806,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ovcara",
+    "gn:country_code":"HR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215068,
+    "gn:latitude":45.30056,
+    "gn:longitude":19.04806,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Ov\u010dara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215068
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f7f8d016265dc6d987b9c8b3f06a2855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259446217,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":1259446217,
+    "wof:lastmodified":1536912907,
+    "wof:name":"Ovcara",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.04806,
+    45.30056,
+    19.04806,
+    45.30056
+],
+  "geometry": {"coordinates":[19.04806,45.30056],"type":"Point"}
+}

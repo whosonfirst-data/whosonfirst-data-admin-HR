@@ -1,0 +1,70 @@
+{
+  "id": 1310683933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55,43.18333,16.55,43.18333",
+    "geom:latitude":43.18333,
+    "geom:longitude":16.55,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sveti Ante",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189374,
+    "gn:latitude":43.18333,
+    "gn:longitude":16.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sveti Ante",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sveti Anton",
+        "Sveti Ante"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189374
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c6b3f166753425550dc6c9c2077121c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310683933,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1310683933,
+    "wof:lastmodified":1537625822,
+    "wof:name":"Sveti Ante",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55,
+    43.18333,
+    16.55,
+    43.18333
+],
+  "geometry": {"coordinates":[16.55,43.18333],"type":"Point"}
+}

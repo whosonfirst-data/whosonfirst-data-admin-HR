@@ -1,0 +1,70 @@
+{
+  "id": 1259605455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.58639,46.03056,16.58639,46.03056",
+    "geom:latitude":46.03056,
+    "geom:longitude":16.58639,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"3197228.0",
+    "gn:asciiname":"Majurec",
+    "gn:country_code":"HR",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195894,
+    "gn:latitude":46.03056,
+    "gn:longitude":16.58639,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Majurec",
+    "gn:population":423,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195894,
+        "wk:page":"Majurec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a2038fb1aecc6eabbca2f9b56da82654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259605455,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1259605455,
+    "wof:lastmodified":1537563291,
+    "wof:name":"Majurec",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":423,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.58639,
+    46.03056,
+    16.58639,
+    46.03056
+],
+  "geometry": {"coordinates":[16.58639,46.03056],"type":"Point"}
+}

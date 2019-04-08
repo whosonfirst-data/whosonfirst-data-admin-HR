@@ -1,0 +1,61 @@
+{
+  "id": 1209588787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13694,43.44472,17.13694,43.44472",
+    "geom:latitude":43.44472,
+    "geom:longitude":17.13694,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Jasenovac",
+    "gn:country_code":"HR",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281745,
+    "gn:latitude":43.44472,
+    "gn:longitude":17.13694,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Jasenovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281745
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ae0637fbd3cc7ee1d039f4965aebf449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209588787
+        }
+    ],
+    "wof:id":1209588787,
+    "wof:lastmodified":1536282546,
+    "wof:name":"Jasenovac",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13694,
+    43.44472,
+    17.13694,
+    43.44472
+],
+  "geometry": {"coordinates":[17.13694,43.44472],"type":"Point"}
+}

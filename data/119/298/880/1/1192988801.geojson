@@ -1,0 +1,65 @@
+{
+  "id": 1192988801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6475,43.78,16.6475,43.78",
+    "geom:latitude":43.78,
+    "geom:longitude":16.6475,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lovrici",
+    "gn:country_code":"HR",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3276986,
+    "gn:latitude":43.78,
+    "gn:longitude":16.6475,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Lovri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276986
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a36e8473de210a3c18ffc508c48f8bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1192988801,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1192988801,
+    "wof:lastmodified":1536383163,
+    "wof:name":"Lovrici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6475,
+    43.78,
+    16.6475,
+    43.78
+],
+  "geometry": {"coordinates":[16.6475,43.78],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1242857363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.63347,43.80914,16.63347,43.80914",
+    "geom:latitude":43.80914,
+    "geom:longitude":16.63347,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"11054604.0",
+    "gn:asciiname":"Gornji Bitelic",
+    "gn:country_code":"HR",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3200052,
+    "gn:latitude":43.80914,
+    "gn:longitude":16.63347,
+    "gn:modification_date":"2017-01-01",
+    "gn:name":"Gornji Biteli\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200052
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1ffdd6f30d24f8697ebeb8aec144c9f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242857363,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1242857363,
+    "wof:lastmodified":1536660757,
+    "wof:name":"Gornji Bitelic",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.63347000000001,
+    43.80914,
+    16.63347000000001,
+    43.80914
+],
+  "geometry": {"coordinates":[16.63347000000001,43.80914],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226351411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.52306,45.24444,17.52306,45.24444",
+    "geom:latitude":45.24444,
+    "geom:longitude":17.52306,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049508.0",
+    "gn:asciiname":"Ostri Vrh",
+    "gn:country_code":"HR",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193835,
+    "gn:latitude":45.24444,
+    "gn:longitude":17.52306,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"O\u0161tri Vrh",
+    "gn:population":162,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193835
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a1263ea1ec4779b9b97da27ae6128b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226351411,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1226351411,
+    "wof:lastmodified":1536781704,
+    "wof:name":"Ostri Vrh",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":162,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52306,
+    45.24444,
+    17.52306,
+    45.24444
+],
+  "geometry": {"coordinates":[17.52306,45.24444],"type":"Point"}
+}

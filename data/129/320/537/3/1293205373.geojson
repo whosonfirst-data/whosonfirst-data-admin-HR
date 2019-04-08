@@ -1,0 +1,68 @@
+{
+  "id": 1293205373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38333,45.68333,15.38333,45.68333",
+    "geom:latitude":45.68333,
+    "geom:longitude":15.38333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Stojavnica",
+    "gn:country_code":"HR",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189836,
+    "gn:latitude":45.68333,
+    "gn:longitude":15.38333,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Stojavnica",
+    "gn:population":26,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189836
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"27a63e0dff880d54b2592ded84068b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293205373,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1293205373,
+    "wof:lastmodified":1536696941,
+    "wof:name":"Stojavnica",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38333,
+    45.68333,
+    15.38333,
+    45.68333
+],
+  "geometry": {"coordinates":[15.38333,45.68333],"type":"Point"}
+}

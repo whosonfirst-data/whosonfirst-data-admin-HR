@@ -1,0 +1,67 @@
+{
+  "id": 1226308571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56194,43.95639,15.56194,43.95639",
+    "geom:latitude":43.95639,
+    "geom:longitude":15.56194,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11054332.0",
+    "gn:asciiname":"Vrana",
+    "gn:country_code":"HR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3187387,
+    "gn:latitude":43.95639,
+    "gn:longitude":15.56194,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Vrana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187387,
+        "wk:page":"Vrana_%28town%29"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7d00c8d0fb56c20a2ba553dbd3a92a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226308571,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1226308571,
+    "wof:lastmodified":1537563274,
+    "wof:name":"Vrana",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56194,
+    43.95639,
+    15.56194,
+    43.95639
+],
+  "geometry": {"coordinates":[15.56194,43.95639],"type":"Point"}
+}

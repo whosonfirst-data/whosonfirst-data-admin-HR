@@ -1,0 +1,69 @@
+{
+  "id": 1276968993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3135,46.42401,16.3135,46.42401",
+    "geom:latitude":46.42401,
+    "geom:longitude":16.3135,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"11054839.0",
+    "gn:asciiname":"Bogdanovec",
+    "gn:country_code":"HR",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203836,
+    "gn:latitude":46.42401,
+    "gn:longitude":16.3135,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Bogdanovec",
+    "gn:population":136,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203836
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8a17728a6402a0f8876d23ea39cb960c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276968993,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":1276968993,
+    "wof:lastmodified":1536922534,
+    "wof:name":"Bogdanovec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3135,
+    46.42401,
+    16.3135,
+    46.42401
+],
+  "geometry": {"coordinates":[16.3135,46.42401],"type":"Point"}
+}

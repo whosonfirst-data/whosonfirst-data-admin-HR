@@ -1,0 +1,76 @@
+{
+  "id": 1260270137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30639,45.095,14.30639,45.095",
+    "geom:latitude":45.095,
+    "geom:longitude":14.30639,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11054902.0",
+    "gn:asciiname":"Dragozetici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201271,
+    "gn:latitude":45.095,
+    "gn:longitude":14.30639,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Dragozeti\u0107i",
+    "gn:population":20,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dragosetti della Faresina",
+        "Drago\u0161i\u0107i",
+        "Dragosichi",
+        "Dragozeti\u0107i"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201271
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"086c751a22be3383fcdc7c0c8d709c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260270137,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1260270137,
+    "wof:lastmodified":1537625912,
+    "wof:name":"Dragozetici",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30639,
+    45.095,
+    14.30639,
+    45.095
+],
+  "geometry": {"coordinates":[14.30639,45.095],"type":"Point"}
+}

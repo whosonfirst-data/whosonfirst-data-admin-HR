@@ -1,0 +1,66 @@
+{
+  "id": 1226127999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10611,44.98806,15.10611,44.98806",
+    "geom:latitude":44.98806,
+    "geom:longitude":15.10611,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049284.0",
+    "gn:asciiname":"Blazani",
+    "gn:country_code":"HR",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218360,
+    "gn:latitude":44.98806,
+    "gn:longitude":15.10611,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Bla\u017eani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218360
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"87b6d7f00dae408f735948bcd7cf18d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226127999,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1226127999,
+    "wof:lastmodified":1536603392,
+    "wof:name":"Blazani",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10611,
+    44.98806,
+    15.10611,
+    44.98806
+],
+  "geometry": {"coordinates":[15.10611,44.98806],"type":"Point"}
+}

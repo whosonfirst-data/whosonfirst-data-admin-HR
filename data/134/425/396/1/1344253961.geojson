@@ -1,0 +1,73 @@
+{
+  "id": 1344253961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61667,46.11667,15.61667,46.11667",
+    "geom:latitude":46.11667,
+    "geom:longitude":15.61667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11049220.0",
+    "gn:asciiname":"Plavic",
+    "gn:country_code":"HR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193224,
+    "gn:latitude":46.11667,
+    "gn:longitude":15.61667,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Plavi\u0107",
+    "gn:population":164,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plavi\u0107"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193224,
+        "wk:page":"Plavi%C4%87"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f8a366bd54d374915d982bb75f0c9988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344253961,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1344253961,
+    "wof:lastmodified":1537625848,
+    "wof:name":"Plavic",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:population":164,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61667,
+    46.11667,
+    15.61667,
+    46.11667
+],
+  "geometry": {"coordinates":[15.61667,46.11667],"type":"Point"}
+}

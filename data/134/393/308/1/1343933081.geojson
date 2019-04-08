@@ -1,0 +1,69 @@
+{
+  "id": 1343933081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41389,44.18361,15.41389,44.18361",
+    "geom:latitude":44.18361,
+    "geom:longitude":15.41389,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"11054336.0",
+    "gn:asciiname":"Rupalj",
+    "gn:country_code":"HR",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216289,
+    "gn:latitude":44.18361,
+    "gn:longitude":15.41389,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Rupalj",
+    "gn:population":245,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216289
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fa8313cf860e50733f7952ca648c4bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343933081,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1343933081,
+    "wof:lastmodified":1537057066,
+    "wof:name":"Rupalj",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":245,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41389,
+    44.18361,
+    15.41389,
+    44.18361
+],
+  "geometry": {"coordinates":[15.41389,44.18361],"type":"Point"}
+}

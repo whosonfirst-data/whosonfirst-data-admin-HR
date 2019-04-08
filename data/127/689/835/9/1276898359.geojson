@@ -1,0 +1,75 @@
+{
+  "id": 1276898359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03417,45.25778,14.03417,45.25778",
+    "geom:latitude":45.25778,
+    "geom:longitude":14.03417,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054749.0",
+    "gn:asciiname":"Gologorica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200435,
+    "gn:latitude":45.25778,
+    "gn:longitude":14.03417,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Gologorica",
+    "gn:population":269,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moncalvo di Pisino",
+        "Moncalvo",
+        "Gologorica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200435
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b39d47ed9db266e599617d74ea8d114f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276898359,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1276898359,
+    "wof:lastmodified":1537625905,
+    "wof:name":"Gologorica",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":269,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03417,
+    45.25778,
+    14.03417,
+    45.25778
+],
+  "geometry": {"coordinates":[14.03417,45.25778],"type":"Point"}
+}

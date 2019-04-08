@@ -1,0 +1,72 @@
+{
+  "id": 1242767465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41203,46.47901,16.41203,46.47901",
+    "geom:latitude":46.47901,
+    "geom:longitude":16.41203,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"11054853.0",
+    "gn:asciiname":"Zebanec-Selo",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186653,
+    "gn:latitude":46.47901,
+    "gn:longitude":16.41203,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Zebanec-Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zebanec",
+        "Zebanec-Selo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186653,
+        "wk:page":"Zebanec_Selo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"14820d2f2ddb3360c590b1af14634e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242767465,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":1242767465,
+    "wof:lastmodified":1537625803,
+    "wof:name":"Zebanec-Selo",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41203,
+    46.47901,
+    16.41203,
+    46.47901
+],
+  "geometry": {"coordinates":[16.41203,46.47901],"type":"Point"}
+}

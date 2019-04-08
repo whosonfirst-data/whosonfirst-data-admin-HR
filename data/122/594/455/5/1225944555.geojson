@@ -1,0 +1,72 @@
+{
+  "id": 1225944555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76806,45.26861,13.76806,45.26861",
+    "geom:latitude":45.26861,
+    "geom:longitude":13.76806,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kurjavici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197664,
+    "gn:latitude":45.26861,
+    "gn:longitude":13.76806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kurjavi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corlevi",
+        "Korlevi\u0107i",
+        "Korjavi\u0107i",
+        "Kurjavi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197664
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c3e0449a08bb2cdea2d1cc7133f0f891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225944555,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1225944555,
+    "wof:lastmodified":1537625884,
+    "wof:name":"Kurjavici",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76806,
+    45.26861,
+    13.76806,
+    45.26861
+],
+  "geometry": {"coordinates":[13.76806,45.26861],"type":"Point"}
+}

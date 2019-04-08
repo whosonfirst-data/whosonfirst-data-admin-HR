@@ -1,0 +1,65 @@
+{
+  "id": 1276518251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92889,45.21583,15.92889,45.21583",
+    "geom:latitude":45.21583,
+    "geom:longitude":15.92889,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Crkvine",
+    "gn:country_code":"HR",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3276297,
+    "gn:latitude":45.21583,
+    "gn:longitude":15.92889,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Crkvine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276297
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7d9f9195d16d5ffe4ce2ac23cbe5f585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276518251,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1276518251,
+    "wof:lastmodified":1537027166,
+    "wof:name":"Crkvine",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92889,
+    45.21583,
+    15.92889,
+    45.21583
+],
+  "geometry": {"coordinates":[15.92889,45.21583],"type":"Point"}
+}

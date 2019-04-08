@@ -1,0 +1,65 @@
+{
+  "id": 1226416345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26361,45.11,16.26361,45.11",
+    "geom:latitude":45.11,
+    "geom:longitude":16.26361,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Serbule",
+    "gn:country_code":"HR",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281773,
+    "gn:latitude":45.11,
+    "gn:longitude":16.26361,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"\u0160erbule",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281773
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fc823ac82fdc9387c7474148f80f57c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226416345,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1226416345,
+    "wof:lastmodified":1536688003,
+    "wof:name":"Serbule",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26361,
+    45.11,
+    16.26361,
+    45.11
+],
+  "geometry": {"coordinates":[16.26361,45.11],"type":"Point"}
+}

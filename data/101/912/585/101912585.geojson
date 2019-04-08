@@ -1,0 +1,141 @@
+{
+  "id": 101912585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":93370.452683,
+    "geom:bbox":"18.3610699852,42.5172166406,18.3651950373,42.5218335647",
+    "geom:latitude":42.519563,
+    "geom:longitude":18.363321,
+    "iso:country":"HR",
+    "lbl:latitude":42.519509,
+    "lbl:longitude":18.363461,
+    "mps:latitude":42.519509,
+    "mps:longitude":18.363461,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Konavle"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u043b\u0438\u044f"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u7d0d\u7dad\u723e"
+    ],
+    "name:cze_x_preferred":[
+        "Konavle"
+    ],
+    "name:dut_x_preferred":[
+        "Konavle"
+    ],
+    "name:eng_x_preferred":[
+        "Konavle"
+    ],
+    "name:fin_x_preferred":[
+        "Konavle"
+    ],
+    "name:fre_x_preferred":[
+        "Konavle"
+    ],
+    "name:ger_x_preferred":[
+        "Konavle"
+    ],
+    "name:hrv_x_preferred":[
+        "Konavle"
+    ],
+    "name:hun_x_preferred":[
+        "Konavle"
+    ],
+    "name:ita_x_preferred":[
+        "Canali"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30ca\u30f4\u30ec"
+    ],
+    "name:nob_x_preferred":[
+        "Konavle"
+    ],
+    "name:pol_x_preferred":[
+        "Konavle"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Konavle"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0430\u0432\u043b\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Konavle"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043d\u0430\u0432\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Konavle"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u0430\u0432\u043b\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Konavle"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Dubrovacko-neretvanska \u017eupanija",
+    "qs:a1r":"1",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Konavle",
+    "qs:la_lc":"*HR1901988",
+    "qs:level":"locality",
+    "qs:loc":"Konavle",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55852601,
+        "qs:id":393530,
+        "qs_pg:id":393530,
+        "wd:id":"Q1781214"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"774d1b2551c2137ee3f413c426a82686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101912585,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":101912585,
+    "wof:lastmodified":1553815582,
+    "wof:name":"Konavle",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.36106998519722,
+    42.51721664056487,
+    18.36519503734615,
+    42.52183356465025
+],
+  "geometry": {"coordinates":[[[18.36518061626174,42.52153036300297],[18.36375194250985,42.51721664056487],[18.36215186236143,42.517349359614],[18.36227746792082,42.5182462025179],[18.36106998519722,42.51834631365932],[18.36119557806381,42.51924315735249],[18.36240307853285,42.51914304447348],[18.36277994068752,42.52183356465025],[18.36519503734615,42.52163328527052],[18.36518061626174,42.52153036300297]]],"type":"Polygon"}
+}

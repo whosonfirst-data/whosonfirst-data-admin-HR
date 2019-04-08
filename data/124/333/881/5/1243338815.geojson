@@ -1,0 +1,65 @@
+{
+  "id": 1243338815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20722,44.22861,15.20722,44.22861",
+    "geom:latitude":44.22861,
+    "geom:longitude":15.20722,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Vranje Pavlovic",
+    "gn:country_code":"HR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216444,
+    "gn:latitude":44.22861,
+    "gn:longitude":15.20722,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Vranje Pavlovi\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216444
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3223a92f7d2d7ecee2f752b32b6e5fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243338815,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1243338815,
+    "wof:lastmodified":1536960717,
+    "wof:name":"Vranje Pavlovic",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20722,
+    44.22861,
+    15.20722,
+    44.22861
+],
+  "geometry": {"coordinates":[15.20722,44.22861],"type":"Point"}
+}

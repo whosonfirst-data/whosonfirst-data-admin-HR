@@ -1,0 +1,129 @@
+{
+  "id": 101836415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":747311.535011,
+    "geom:bbox":"16.6113064207,43.445335129,16.6341406426,43.4599251542",
+    "geom:latitude":43.453038,
+    "geom:longitude":16.62321,
+    "gn:population":2169,
+    "iso:country":"HR",
+    "lbl:latitude":43.455978,
+    "lbl:longitude":16.619231,
+    "mps:latitude":43.455978,
+    "mps:longitude":16.619231,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Jesenice"
+    ],
+    "name:cat_x_preferred":[
+        "Jesenice"
+    ],
+    "name:ces_x_preferred":[
+        "Jesenice"
+    ],
+    "name:deu_x_preferred":[
+        "Jesenice"
+    ],
+    "name:eng_x_preferred":[
+        "Jesenice"
+    ],
+    "name:epo_x_preferred":[
+        "Jesenice"
+    ],
+    "name:hrv_x_preferred":[
+        "Jesenice"
+    ],
+    "name:hun_x_preferred":[
+        "Jesenice"
+    ],
+    "name:ita_x_preferred":[
+        "Jesenice"
+    ],
+    "name:nld_x_preferred":[
+        "Jesenice"
+    ],
+    "name:pol_x_preferred":[
+        "Jesenice"
+    ],
+    "name:ron_x_preferred":[
+        "Jesenice"
+    ],
+    "name:slk_x_preferred":[
+        "Jesenice"
+    ],
+    "name:slv_x_preferred":[
+        "Jesenice"
+    ],
+    "name:spa_x_preferred":[
+        "Jesenice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0435\u0441\u0435\u043d\u0438\u0446\u0435"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Dugi Rat",
+    "qs:la_lc":"*HR1701007",
+    "qs:level":"locality",
+    "qs:loc":"Jesenice",
+    "qs:loc_alt":"Jesenice",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198650,
+        "gp:id":848266,
+        "qs:id":147235,
+        "qs_pg:id":147235,
+        "wd:id":"Q6458033"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"29e315cec6d0c67d44d725b1141ac7a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101836415,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101836415,
+    "wof:lastmodified":1553815534,
+    "wof:name":"Jesenice",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":2169,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61130642070538,
+    43.44533512900921,
+    16.63414064261849,
+    43.45992515421074
+],
+  "geometry": {"coordinates":[[[16.63414038115582,43.45048459802967],[16.63208769203544,43.44609458269639],[16.62994333358074,43.44623357795541],[16.62984105756641,43.44533512900921],[16.62861254171827,43.44541473020689],[16.6287147990389,43.44631318057321],[16.62748626150284,43.4463927684784],[16.62769075132525,43.44818966962555],[16.6264621734046,43.44826924565734],[16.62666664259461,43.45006614640999],[16.624209402985,43.45022526001264],[16.62441381414038,43.45202216321047],[16.62318515244817,43.45210170077951],[16.62328734560947,43.45300015258545],[16.61960128647758,43.45323868126223],[16.61970342772344,43.45413713651715],[16.61724600260851,43.45429608489695],[16.61734811063593,43.45519454218044],[16.61489063615426,43.45535343453503],[16.6149927109596,43.45625189384657],[16.61130642070538,43.45649012626245],[16.61151047063697,43.45828705096744],[16.61273927445461,43.45820765204428],[16.61284132440016,43.45910611176851],[16.61407014393518,43.45902669671102],[16.61417221677107,43.45992515421074],[16.61540105202329,43.45984572301865],[16.61529896048063,43.45894726693683],[16.61898539217316,43.45870888931427],[16.61888324869813,43.45781043667967],[16.62134081745762,43.45765144751954],[16.6211364682506,43.45585454550252],[16.6235939502244,43.45569550315503],[16.62349174449696,43.45479705377329],[16.62472046229186,43.45471751194577],[16.62461824205195,43.45381906317562],[16.62707563125713,43.45365993821457],[16.62687112854496,43.45186304392894],[16.62809978125591,43.45178346221672],[16.6279975174869,43.45088501528159],[16.63414064261849,43.45048689311204],[16.63414038115582,43.45048459802967]]],"type":"Polygon"}
+}

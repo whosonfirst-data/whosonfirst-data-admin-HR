@@ -1,0 +1,67 @@
+{
+  "id": 1292937743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78389,44.97556,15.78389,44.97556",
+    "geom:latitude":44.97556,
+    "geom:longitude":15.78389,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Trzacka Rastela",
+    "gn:country_code":"HR",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3289695,
+    "gn:latitude":44.97556,
+    "gn:longitude":15.78389,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Tr\u017ea\u010dka Ra\u0161tela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        85669207,
+        1108759039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3289695
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"882b7607bd0afe3bc7ae8c3cb5f9413d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759039,
+            "locality_id":1292937743,
+            "region_id":85669207
+        }
+    ],
+    "wof:id":1292937743,
+    "wof:lastmodified":1537079540,
+    "wof:name":"Trzacka Rastela",
+    "wof:parent_id":1108759039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78389,
+    44.97556,
+    15.78389,
+    44.97556
+],
+  "geometry": {"coordinates":[15.78389,44.97556],"type":"Point"}
+}

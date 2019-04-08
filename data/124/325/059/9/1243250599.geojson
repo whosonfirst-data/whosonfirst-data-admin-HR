@@ -1,0 +1,65 @@
+{
+  "id": 1243250599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42083,44.74083,14.42083,44.74083",
+    "geom:latitude":44.74083,
+    "geom:longitude":14.42083,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sveti Mihovil",
+    "gn:country_code":"HR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217903,
+    "gn:latitude":44.74083,
+    "gn:longitude":14.42083,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Sveti Mihovil",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217903
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2b9029eadb1cf584ebc2e93371504a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243250599,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1243250599,
+    "wof:lastmodified":1537084704,
+    "wof:name":"Sveti Mihovil",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42083,
+    44.74083,
+    14.42083,
+    44.74083
+],
+  "geometry": {"coordinates":[14.42083,44.74083],"type":"Point"}
+}

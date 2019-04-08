@@ -1,0 +1,76 @@
+{
+  "id": 1243337941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86228,45.88484,15.86228,45.88484",
+    "geom:latitude":45.88484,
+    "geom:longitude":15.86228,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11054888.0",
+    "gn:asciiname":"Novaki Bistranski",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194439,
+    "gn:latitude":45.88484,
+    "gn:longitude":15.86228,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Novaki Bistranski",
+    "gn:population":763,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bistranski Novaki",
+        "Novaki",
+        "Novaki Bistranski"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194439,
+        "wk:page":"Novaki_Bistranski"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5e661127a14c4cbcdebb8cd8679e41de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243337941,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1243337941,
+    "wof:lastmodified":1537625857,
+    "wof:name":"Novaki Bistranski",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":763,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86228,
+    45.88484,
+    15.86228,
+    45.88484
+],
+  "geometry": {"coordinates":[15.86228,45.88484],"type":"Point"}
+}

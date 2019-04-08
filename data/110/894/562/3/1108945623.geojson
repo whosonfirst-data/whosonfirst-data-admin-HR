@@ -1,0 +1,93 @@
+{
+  "id": 1108945623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0596841562,45.8282667339,16.0596841562,45.8282667339",
+    "geom:latitude":45.828267,
+    "geom:longitude":16.059684,
+    "iso:country":"HR",
+    "lbl:latitude":45.828267,
+    "lbl:longitude":16.059684,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":13.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Dubrava"
+    ],
+    "name:hrv_x_preferred":[
+        "Dubrava"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30d6\u30e9\u30f4\u30a1"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0430\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Dubrava"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dubrava"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0430\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Zagreba\u010dka Dubrava"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751659,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186884,
+        "qs_pg:id":1043876,
+        "wd:id":"Q2620406"
+    },
+    "wof:country":"HR",
+    "wof:created":1491365187,
+    "wof:geomhash":"7f761d1ff8cfbe2c291b3a00a99ef3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101751659,
+            "neighbourhood_id":1108945623,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1108945623,
+    "wof:lastmodified":1553816517,
+    "wof:name":"Dubrava",
+    "wof:parent_id":101751659,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05968415617066,
+    45.82826673385505,
+    16.05968415617066,
+    45.82826673385505
+],
+  "geometry": {"coordinates":[16.05968415617066,45.82826673385505],"type":"Point"}
+}

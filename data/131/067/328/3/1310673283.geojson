@@ -1,0 +1,70 @@
+{
+  "id": 1310673283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35911,46.25947,16.35911,46.25947",
+    "geom:latitude":46.25947,
+    "geom:longitude":16.35911,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"11049302.0",
+    "gn:asciiname":"Turcin",
+    "gn:country_code":"HR",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8741106,
+    "gn:latitude":46.25947,
+    "gn:longitude":16.35911,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Tur\u010din",
+    "gn:population":931,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8741106,
+        "wk:page":"Tur%C4%8Din"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c0f84c413001c9bf1911928b3bb5ef03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310673283,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1310673283,
+    "wof:lastmodified":1537563320,
+    "wof:name":"Turcin",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":931,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35911,
+    46.25947,
+    16.35911,
+    46.25947
+],
+  "geometry": {"coordinates":[16.35911,46.25947],"type":"Point"}
+}

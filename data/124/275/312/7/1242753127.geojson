@@ -1,0 +1,65 @@
+{
+  "id": 1242753127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02167,44.29972,16.02167,44.29972",
+    "geom:latitude":44.29972,
+    "geom:longitude":16.02167,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Donji Labusi",
+    "gn:country_code":"HR",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277030,
+    "gn:latitude":44.29972,
+    "gn:longitude":16.02167,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Donji Labusi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277030
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"646b9ac7e6bc9ea16345491f1cdd751b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242753127,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1242753127,
+    "wof:lastmodified":1536810464,
+    "wof:name":"Donji Labusi",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02167,
+    44.29972,
+    16.02167,
+    44.29972
+],
+  "geometry": {"coordinates":[16.02167,44.29972],"type":"Point"}
+}

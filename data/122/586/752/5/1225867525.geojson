@@ -1,0 +1,66 @@
+{
+  "id": 1225867525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42611,44.99722,15.42611,44.99722",
+    "geom:latitude":44.99722,
+    "geom:longitude":15.42611,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"11049280.0",
+    "gn:asciiname":"Potkapela",
+    "gn:country_code":"HR",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3272753,
+    "gn:latitude":44.99722,
+    "gn:longitude":15.42611,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Potkapela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3272753
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"38d0fa1d75e2e077703c992660673195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225867525,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1225867525,
+    "wof:lastmodified":1536981634,
+    "wof:name":"Potkapela",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42611,
+    44.99722,
+    15.42611,
+    44.99722
+],
+  "geometry": {"coordinates":[15.42611,44.99722],"type":"Point"}
+}

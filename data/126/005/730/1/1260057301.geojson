@@ -1,0 +1,70 @@
+{
+  "id": 1260057301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8975,45.30361,14.8975,45.30361",
+    "geom:latitude":45.30361,
+    "geom:longitude":14.8975,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"11049446.0",
+    "gn:asciiname":"Begovo Razdolje",
+    "gn:country_code":"HR",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204365,
+    "gn:latitude":45.30361,
+    "gn:longitude":14.8975,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Begovo Razdolje",
+    "gn:population":48,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204365,
+        "wk:page":"Begovo_Razdolje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0b8f047c93cdde2f5a6c3091de1f7329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260057301,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1260057301,
+    "wof:lastmodified":1537563311,
+    "wof:name":"Begovo Razdolje",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":48,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8975,
+    45.30361,
+    14.8975,
+    45.30361
+],
+  "geometry": {"coordinates":[14.8975,45.30361],"type":"Point"}
+}

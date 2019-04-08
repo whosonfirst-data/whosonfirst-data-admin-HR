@@ -1,0 +1,76 @@
+{
+  "id": 1193270567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.43333,46.06667,16.43333,46.06667",
+    "geom:latitude":46.06667,
+    "geom:longitude":16.43333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049395.0",
+    "gn:asciiname":"Voljavec Rijecki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187421,
+    "gn:latitude":46.06667,
+    "gn:longitude":16.43333,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Voljavec Rije\u010dki",
+    "gn:population":29,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rije\u010dki Voljavec",
+        "Voljevec Rije\u010dki",
+        "Voljavec",
+        "Voljavec Rije\u010dki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187421
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a090d8ceaf2d9469d58d47e5cfa85b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193270567,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1193270567,
+    "wof:lastmodified":1537625809,
+    "wof:name":"Voljavec Rijecki",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":29,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.43333,
+    46.06667,
+    16.43333,
+    46.06667
+],
+  "geometry": {"coordinates":[16.43333,46.06667],"type":"Point"}
+}

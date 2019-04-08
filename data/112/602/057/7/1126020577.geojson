@@ -1,0 +1,98 @@
+{
+  "id": 1126020577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.55861,45.35139,18.55861,45.35139",
+    "geom:latitude":45.35139,
+    "geom:longitude":18.55861,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":899,
+    "gn:population":834,
+    "iso:country":"HR",
+    "lbl:latitude":45.35139,
+    "lbl:longitude":18.55861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Ke\u0161inci"
+    ],
+    "name:dut_x_preferred":[
+        "Ke\u0161inci"
+    ],
+    "name:eng_x_preferred":[
+        "Ke\u0161inci"
+    ],
+    "name:hrv_x_preferred":[
+        "Ke\u0161inci"
+    ],
+    "name:slv_x_preferred":[
+        "Ke\u0161inci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0435\u0448\u0438\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ke\u0161inci"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3198169,
+    "qs_pg:gn_pop":899,
+    "qs_pg:name":"Ke\u0161inci",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":95121,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198169,
+        "qs_pg:id":95121,
+        "wd:id":"Q1900603"
+    },
+    "wof:country":"HR",
+    "wof:created":1497300805,
+    "wof:geomhash":"85f5ba27b7130dedf073821503e0e58e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126020577,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1126020577,
+    "wof:lastmodified":1514447485,
+    "wof:name":"Ke\u0161inci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":834,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.55861,
+    45.35139,
+    18.55861,
+    45.35139
+],
+  "geometry": {"coordinates":[18.55861,45.35139],"type":"Point"}
+}

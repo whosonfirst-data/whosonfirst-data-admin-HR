@@ -1,0 +1,70 @@
+{
+  "id": 1343542421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23333,45.46667,17.23333,45.46667",
+    "geom:latitude":45.46667,
+    "geom:longitude":17.23333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"3193705.0",
+    "gn:asciiname":"Kusonje",
+    "gn:country_code":"HR",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196882,
+    "gn:latitude":45.46667,
+    "gn:longitude":17.23333,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Kusonje",
+    "gn:population":308,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196882,
+        "wk:page":"Kusonje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"98193566cb9579017b4070e4596d9e40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343542421,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1343542421,
+    "wof:lastmodified":1537563294,
+    "wof:name":"Kusonje",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":308,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23333,
+    45.46667,
+    17.23333,
+    45.46667
+],
+  "geometry": {"coordinates":[17.23333,45.46667],"type":"Point"}
+}

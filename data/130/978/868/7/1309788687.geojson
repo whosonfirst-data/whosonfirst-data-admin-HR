@@ -1,0 +1,65 @@
+{
+  "id": 1309788687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71,43.60556,16.71,43.60556",
+    "geom:latitude":43.60556,
+    "geom:longitude":16.71,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Vuco",
+    "gn:country_code":"HR",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282036,
+    "gn:latitude":43.60556,
+    "gn:longitude":16.71,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Vuco",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282036
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3dc0b764c4cc6c58cee979cb26a6a01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309788687,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1309788687,
+    "wof:lastmodified":1536955824,
+    "wof:name":"Vuco",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71,
+    43.60556,
+    16.71,
+    43.60556
+],
+  "geometry": {"coordinates":[16.71,43.60556],"type":"Point"}
+}

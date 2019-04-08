@@ -1,0 +1,93 @@
+{
+  "id": 1125776211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59611,45.71889,15.59611,45.71889",
+    "geom:latitude":45.71889,
+    "geom:longitude":15.59611,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":116,
+    "iso:country":"HR",
+    "lbl:latitude":45.71889,
+    "lbl:longitude":15.59611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Sveta Jana"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3200324,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gorica Svetojanska",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Zagreba\u010dka",
+    "qs_pg:photos":54,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":54,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1034426,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":847771,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Zagreba\u010dka",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200324,
+        "gp:id":847771,
+        "qs_pg:id":1034426
+    },
+    "wof:country":"HR",
+    "wof:created":1497290267,
+    "wof:geomhash":"d1d46036a6e590340f2c84be664a05d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125776211,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1125776211,
+    "wof:lastmodified":1509391290,
+    "wof:name":"Gorica Svetojanska",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":116,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59611,
+    45.71889,
+    15.59611,
+    45.71889
+],
+  "geometry": {"coordinates":[15.59611,45.71889],"type":"Point"}
+}

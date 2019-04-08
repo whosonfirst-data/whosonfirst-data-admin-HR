@@ -1,0 +1,70 @@
+{
+  "id": 1293881217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15167,46.09139,17.15167,46.09139",
+    "geom:latitude":46.09139,
+    "geom:longitude":17.15167,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049380.0",
+    "gn:asciiname":"Novo Virje",
+    "gn:country_code":"HR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3201203,
+    "gn:latitude":46.09139,
+    "gn:longitude":17.15167,
+    "gn:modification_date":"2017-10-31",
+    "gn:name":"Novo Virje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drenovica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201203,
+        "wk:page":"Novo_Virje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"34dfcc1cae36e5dc7551b41e08e08694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293881217,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1293881217,
+    "wof:lastmodified":1537625911,
+    "wof:name":"Novo Virje",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15167000000001,
+    46.09139,
+    17.15167000000001,
+    46.09139
+],
+  "geometry": {"coordinates":[17.15167000000001,46.09139],"type":"Point"}
+}

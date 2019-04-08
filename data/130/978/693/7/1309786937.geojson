@@ -1,0 +1,66 @@
+{
+  "id": 1309786937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38333,45.46667,17.38333,45.46667",
+    "geom:latitude":45.46667,
+    "geom:longitude":17.38333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"3193705.0",
+    "gn:asciiname":"Ozegovci",
+    "gn:country_code":"HR",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193747,
+    "gn:latitude":45.46667,
+    "gn:longitude":17.38333,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"O\u017eegovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193747
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ad16bebf070602c5df8c2e3489d537e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309786937,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1309786937,
+    "wof:lastmodified":1536958273,
+    "wof:name":"Ozegovci",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38332999999999,
+    45.46667,
+    17.38332999999999,
+    45.46667
+],
+  "geometry": {"coordinates":[17.38332999999999,45.46667],"type":"Point"}
+}

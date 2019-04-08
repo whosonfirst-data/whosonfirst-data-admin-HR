@@ -1,0 +1,66 @@
+{
+  "id": 1277073659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.77,45.20139,15.77,45.20139",
+    "geom:latitude":45.20139,
+    "geom:longitude":15.77,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Maljevac",
+    "gn:country_code":"HR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3195589,
+    "gn:latitude":45.20139,
+    "gn:longitude":15.77,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Maljevac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195589,
+        "wk:page":"Maljevac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e8515227618e04fec02d6967ff94580c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277073659,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1277073659,
+    "wof:lastmodified":1537563290,
+    "wof:name":"Maljevac",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77,
+    45.20139,
+    15.77,
+    45.20139
+],
+  "geometry": {"coordinates":[15.77,45.20139],"type":"Point"}
+}

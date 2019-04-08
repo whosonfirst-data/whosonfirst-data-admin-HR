@@ -1,0 +1,65 @@
+{
+  "id": 1210040545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85028,44.8925,13.85028,44.8925",
+    "geom:latitude":44.8925,
+    "geom:longitude":13.85028,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Veli Vrh",
+    "gn:country_code":"HR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213488,
+    "gn:latitude":44.8925,
+    "gn:longitude":13.85028,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Veli Vrh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213488
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"879a197dc8ef3eff97d9e49da0067eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1210040545,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1210040545,
+    "wof:lastmodified":1536384348,
+    "wof:name":"Veli Vrh",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85028,
+    44.8925,
+    13.85028,
+    44.8925
+],
+  "geometry": {"coordinates":[13.85028,44.8925],"type":"Point"}
+}

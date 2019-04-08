@@ -1,0 +1,65 @@
+{
+  "id": 1243250679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.26611,45.32639,14.26611,45.32639",
+    "geom:latitude":45.32639,
+    "geom:longitude":14.26611,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Marcici",
+    "gn:country_code":"HR",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214443,
+    "gn:latitude":45.32639,
+    "gn:longitude":14.26611,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Mar\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214443
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"89707f25d351c3d7aebd50f1b0bdaa8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243250679,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1243250679,
+    "wof:lastmodified":1537084582,
+    "wof:name":"Marcici",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.26611,
+    45.32639,
+    14.26611,
+    45.32639
+],
+  "geometry": {"coordinates":[14.26611,45.32639],"type":"Point"}
+}

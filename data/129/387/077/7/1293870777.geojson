@@ -1,0 +1,65 @@
+{
+  "id": 1293870777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72028,44.995,14.72028,44.995",
+    "geom:latitude":44.995,
+    "geom:longitude":14.72028,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Draga",
+    "gn:country_code":"HR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218473,
+    "gn:latitude":44.995,
+    "gn:longitude":14.72028,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Draga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218473
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d604093dde3c48a81373847843f8275f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293870777,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1293870777,
+    "wof:lastmodified":1536731960,
+    "wof:name":"Draga",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72028,
+    44.995,
+    14.72028,
+    44.995
+],
+  "geometry": {"coordinates":[14.72028,44.995],"type":"Point"}
+}

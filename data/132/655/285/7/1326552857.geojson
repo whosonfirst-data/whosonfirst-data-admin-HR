@@ -1,0 +1,67 @@
+{
+  "id": 1326552857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70861,45.08583,15.70861,45.08583",
+    "geom:latitude":45.08583,
+    "geom:longitude":15.70861,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"11049268.0",
+    "gn:asciiname":"Trnovi",
+    "gn:country_code":"HR",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3279294,
+    "gn:latitude":45.08583,
+    "gn:longitude":15.70861,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Trnovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3279294,
+        "wk:page":"Trnovi"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8f6f64cf19494fc9bb368ac5d23e70e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326552857,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1326552857,
+    "wof:lastmodified":1537563318,
+    "wof:name":"Trnovi",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70861,
+    45.08583,
+    15.70861,
+    45.08583
+],
+  "geometry": {"coordinates":[15.70861,45.08583],"type":"Point"}
+}

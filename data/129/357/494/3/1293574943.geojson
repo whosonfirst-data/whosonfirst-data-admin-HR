@@ -1,0 +1,65 @@
+{
+  "id": 1293574943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.18056,44.88,15.18056,44.88",
+    "geom:latitude":44.88,
+    "geom:longitude":15.18056,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Buric Klanac",
+    "gn:country_code":"HR",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3274764,
+    "gn:latitude":44.88,
+    "gn:longitude":15.18056,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Buri\u0107 Klanac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3274764
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5a65acd97193ba7dfe93dc8d40079dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293574943,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1293574943,
+    "wof:lastmodified":1536661102,
+    "wof:name":"Buric Klanac",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.18056,
+    44.88,
+    15.18056,
+    44.88
+],
+  "geometry": {"coordinates":[15.18056,44.88],"type":"Point"}
+}

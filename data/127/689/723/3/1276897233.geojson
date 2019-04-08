@@ -1,0 +1,65 @@
+{
+  "id": 1276897233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72917,45.19167,15.72917,45.19167",
+    "geom:latitude":45.19167,
+    "geom:longitude":15.72917,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ripca",
+    "gn:country_code":"HR",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301807,
+    "gn:latitude":45.19167,
+    "gn:longitude":15.72917,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Rip\u010da",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301807
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e292d57d3a3a7f78c9d79bf2d9c6b9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276897233,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1276897233,
+    "wof:lastmodified":1537017203,
+    "wof:name":"Ripca",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72917,
+    45.19167,
+    15.72917,
+    45.19167
+],
+  "geometry": {"coordinates":[15.72917,45.19167],"type":"Point"}
+}

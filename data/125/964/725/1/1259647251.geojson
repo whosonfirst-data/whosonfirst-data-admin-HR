@@ -1,0 +1,72 @@
+{
+  "id": 1259647251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.70722,45.55306,17.70722,45.55306",
+    "geom:latitude":45.55306,
+    "geom:longitude":17.70722,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049456.0",
+    "gn:asciiname":"Slatinski Drenovac",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190606,
+    "gn:latitude":45.55306,
+    "gn:longitude":17.70722,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Slatinski Drenovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drenovac",
+        "Slatina",
+        "Slatinski Drenovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190606
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ed3df9301a32c26974e09a34d0490579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259647251,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1259647251,
+    "wof:lastmodified":1537625830,
+    "wof:name":"Slatinski Drenovac",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.70722,
+    45.55306,
+    17.70722,
+    45.55306
+],
+  "geometry": {"coordinates":[17.70722,45.55306],"type":"Point"}
+}

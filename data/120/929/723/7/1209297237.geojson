@@ -1,0 +1,61 @@
+{
+  "id": 1209297237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.26833,43.1975,17.26833,43.1975",
+    "geom:latitude":43.1975,
+    "geom:longitude":17.26833,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Jurjevici",
+    "gn:country_code":"HR",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282855,
+    "gn:latitude":43.1975,
+    "gn:longitude":17.26833,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Jurjevi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282855
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"60acc622d09910d6e6fe554fa647eea0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209297237
+        }
+    ],
+    "wof:id":1209297237,
+    "wof:lastmodified":1536291482,
+    "wof:name":"Jurjevici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.26833,
+    43.1975,
+    17.26833,
+    43.1975
+],
+  "geometry": {"coordinates":[17.26833,43.1975],"type":"Point"}
+}

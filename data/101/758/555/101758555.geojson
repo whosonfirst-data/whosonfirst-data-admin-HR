@@ -1,0 +1,139 @@
+{
+  "id": 101758555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000216,
+    "geom:area_square_m":1936920.936594,
+    "geom:bbox":"16.3083625528,43.5452990833,16.3329406142,43.5679950969",
+    "geom:latitude":43.556618,
+    "geom:longitude":16.322487,
+    "iso:country":"HR",
+    "lbl:latitude":43.554544,
+    "lbl:longitude":16.326397,
+    "mps:latitude":43.554544,
+    "mps:longitude":16.326397,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:bos_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:cat_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:dut_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:eng_x_preferred":[
+        "Kastel Stafilic"
+    ],
+    "name:fre_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:ger_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:hbs_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:hun_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:ita_x_preferred":[
+        "Castel Stafileo"
+    ],
+    "name:nld_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:por_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:sco_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:spa_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:sqi_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b \u0428\u0442\u0430\u0444\u0438\u043b\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Ka\u0161tel \u0160tafili\u0107"
+    ],
+    "name:unk_x_variant":[
+        "\u0160tafili\u0107"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Klis",
+    "qs:la_lc":"*HR1701929",
+    "qs:level":"locality",
+    "qs:loc":"Ka\u0161tel \u0160tafili\u0107",
+    "qs:loc_alt":"Kastel Stafilic",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":128,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198213,
+        "gp:id":848374,
+        "qs:id":478130,
+        "qs_pg:id":478130,
+        "wd:id":"Q2630250",
+        "wk:page":"Ka\u0161tel \u0160tafili\u0107"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f1a94d950ec753be2f88f3a3b49c149c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101758555,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101758555,
+    "wof:lastmodified":1527689308,
+    "wof:name":"Ka\u0161tel \u0160tafili\u0107",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.30836255276432,
+    43.54529908330625,
+    16.33294061415893,
+    43.56799509691251
+],
+  "geometry": {"coordinates":[[[16.33179959223241,43.55740438394133],[16.33036652434919,43.55468155496322],[16.33294061415893,43.54824633043916],[16.33284694706617,43.54738721057572],[16.33161597507217,43.54746327163218],[16.33151801314239,43.546564547706],[16.32659417164149,43.54686863898667],[16.326496288969,43.54596990882828],[16.32280343408809,43.54619781833287],[16.32270561186061,43.54529908330625],[16.31778184037626,43.54560275070946],[16.3179773383734,43.54740023084327],[16.32043930509667,43.54724842120766],[16.32053709773896,43.54814715737382],[16.32299909059617,43.54799528601836],[16.32339045182903,43.55159021191787],[16.32215938158788,43.55166616040856],[16.32235504868748,43.55346362134264],[16.32112393794381,43.55353955779992],[16.32171092278963,43.55893192982631],[16.31801723459859,43.55915967514636],[16.31811502300974,43.56005840513455],[16.30949618497198,43.56058930399365],[16.30959384564352,43.56148804269918],[16.30836255276432,43.56156382773202],[16.30865550237803,43.56426004319229],[16.30988685173116,43.56418425408845],[16.31008220918602,43.56598172440891],[16.31254497458866,43.5658300965037],[16.31264269699017,43.56672882776729],[16.31387409421262,43.56665299032238],[16.31377635298344,43.56575426041695],[16.31623910115877,43.56560254397539],[16.31614132629289,43.56470381599888],[16.32106671286652,43.56440021148154],[16.32145813765936,43.56799509691251],[16.32392096431045,43.56784319524098],[16.32343150511139,43.56334960008155],[16.32589413200276,43.56319765298929],[16.32579621458086,43.56229893431328],[16.3245649213963,43.56237491387623],[16.32417336721471,43.55878002584382],[16.32909822155909,43.55847604083436],[16.32919617935192,43.55937475858292],[16.33042740456563,43.55929872408547],[16.330231455366,43.55750129052171],[16.33179959223241,43.55740438394133]]],"type":"Polygon"}
+}

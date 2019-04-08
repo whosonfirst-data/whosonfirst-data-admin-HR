@@ -1,0 +1,66 @@
+{
+  "id": 1327141787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.05056,42.68694,18.05056,42.68694",
+    "geom:latitude":42.68694,
+    "geom:longitude":18.05056,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"7577034.0",
+    "gn:asciiname":"Stikovica",
+    "gn:country_code":"HR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189881,
+    "gn:latitude":42.68694,
+    "gn:longitude":18.05056,
+    "gn:modification_date":"2014-04-27",
+    "gn:name":"\u0160tikovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189881
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1b2ee050808ee84b255b58be2d068088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327141787,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1327141787,
+    "wof:lastmodified":1537096983,
+    "wof:name":"Stikovica",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05056,
+    42.68694,
+    18.05056,
+    42.68694
+],
+  "geometry": {"coordinates":[18.05056,42.68694],"type":"Point"}
+}

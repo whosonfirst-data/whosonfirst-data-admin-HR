@@ -1,0 +1,66 @@
+{
+  "id": 1209292647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.52111,45.3425,17.52111,45.3425",
+    "geom:latitude":45.3425,
+    "geom:longitude":17.52111,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049472.0",
+    "gn:asciiname":"Busnovi",
+    "gn:country_code":"HR",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202957,
+    "gn:latitude":45.3425,
+    "gn:longitude":17.52111,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Busnovi",
+    "gn:population":104,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202957,
+        "wk:page":"Busnovi%2C_Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"dc2116e506f3736eea4ea90cd37963d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209292647
+        }
+    ],
+    "wof:id":1209292647,
+    "wof:lastmodified":1537563308,
+    "wof:name":"Busnovi",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":104,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52111,
+    45.3425,
+    17.52111,
+    45.3425
+],
+  "geometry": {"coordinates":[17.52111,45.3425],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209686191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85389,43.53944,16.85389,43.53944",
+    "geom:latitude":43.53944,
+    "geom:longitude":16.85389,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Griva",
+    "gn:country_code":"HR",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283849,
+    "gn:latitude":43.53944,
+    "gn:longitude":16.85389,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Griva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283849
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"35db128c19aa6c675b56752621e0bec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209686191
+        }
+    ],
+    "wof:id":1209686191,
+    "wof:lastmodified":1536279402,
+    "wof:name":"Griva",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85389,
+    43.53944,
+    16.85389,
+    43.53944
+],
+  "geometry": {"coordinates":[16.85389,43.53944],"type":"Point"}
+}

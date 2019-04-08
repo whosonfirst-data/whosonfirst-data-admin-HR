@@ -1,0 +1,175 @@
+{
+  "id": 101796901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":409284.898518,
+    "geom:bbox":"17.0696377449,43.233274462,17.0823393863,43.2454585678",
+    "geom:latitude":43.239622,
+    "geom:longitude":17.077,
+    "iso:country":"HR",
+    "lbl:latitude":43.237083,
+    "lbl:longitude":17.078491,
+    "mps:latitude":43.237083,
+    "mps:longitude":17.078491,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054a\u0578\u0564\u0563\u0578\u0580\u0561"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u062f\u062c\u0648\u0631\u0627"
+    ],
+    "name:bos_x_preferred":[
+        "Podgora"
+    ],
+    "name:cat_x_preferred":[
+        "Podgora"
+    ],
+    "name:ces_x_preferred":[
+        "Podgora"
+    ],
+    "name:cze_x_preferred":[
+        "Podgora"
+    ],
+    "name:deu_x_preferred":[
+        "Podgora"
+    ],
+    "name:dut_x_preferred":[
+        "Podgora"
+    ],
+    "name:eng_x_preferred":[
+        "Podgora"
+    ],
+    "name:fra_x_preferred":[
+        "Podgora"
+    ],
+    "name:fre_x_preferred":[
+        "Podgora"
+    ],
+    "name:ger_x_preferred":[
+        "Podgora"
+    ],
+    "name:hbs_x_preferred":[
+        "Podgora"
+    ],
+    "name:hrv_x_preferred":[
+        "Podgora"
+    ],
+    "name:hun_x_preferred":[
+        "Podgora"
+    ],
+    "name:ita_x_preferred":[
+        "Podgora"
+    ],
+    "name:nld_x_preferred":[
+        "Podgora"
+    ],
+    "name:nob_x_preferred":[
+        "Podgora"
+    ],
+    "name:nor_x_preferred":[
+        "Podgora"
+    ],
+    "name:pol_x_preferred":[
+        "Podgora"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Podgora"
+    ],
+    "name:rum_x_preferred":[
+        "Podgora"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0433\u043e\u0440\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Podgora"
+    ],
+    "name:slo_x_preferred":[
+        "Podgora"
+    ],
+    "name:slv_x_preferred":[
+        "Podgora"
+    ],
+    "name:spa_x_preferred":[
+        "Podgora"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0433\u043e\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Podgora"
+    ],
+    "name:und_x_preferred":[
+        "Podgora"
+    ],
+    "name:war_x_preferred":[
+        "Podgora"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Podgora",
+    "qs:la_lc":"*HR1703395",
+    "qs:level":"locality",
+    "qs:loc":"Podgora",
+    "qs:loc_alt":"Podgora",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":206,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115cae50-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3193060,
+        "gp:id":849673,
+        "qs:id":313987,
+        "qs_pg:id":313987,
+        "wd:id":"Q837148",
+        "wk:page":"Podgora, Split-Dalmatia County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8611b2dac9400482668dabb76315908f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101796901,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101796901,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642028,
+    "wof:name":"Podgora",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06963774492897,
+    43.23327446202705,
+    17.08233938634601,
+    43.24545856778781
+],
+  "geometry": {"coordinates":[[[17.07597389613323,43.24520390140191],[17.07564833685535,43.2425097524972],[17.07931970786558,43.2422549678908],[17.07888546911732,43.23866277564531],[17.0801091792319,43.23857782418736],[17.08000061214631,43.23767977552825],[17.08122430062696,43.23759481093697],[17.08111571949854,43.23669676294281],[17.08233938634601,43.23661178521894],[17.08212220043873,43.23481568971812],[17.07967493746759,43.23498562450067],[17.07956638810043,43.23408757247432],[17.07834277034465,43.2341725164012],[17.07823424387595,43.23327446202705],[17.07701064143117,43.23335938980972],[17.07733617871042,43.23605355492424],[17.07611251769475,43.23613847258537],[17.07665507602297,43.24062873847163],[17.07543131947921,43.24071364902147],[17.07553982595323,43.24161170117998],[17.074316047774,43.24169659859444],[17.07442454019917,43.24259465141745],[17.07197693741011,43.24276440533419],[17.07208539730664,43.24366246032633],[17.06963774492897,43.24383215868784],[17.06974617229332,43.24473021584856],[17.07219386162967,43.24456051447754],[17.07230233037922,43.24545856778781],[17.07597389613323,43.24520390140191]]],"type":"Polygon"}
+}

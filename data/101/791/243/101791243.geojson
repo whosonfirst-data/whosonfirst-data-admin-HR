@@ -1,0 +1,146 @@
+{
+  "id": 101791243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000135,
+    "geom:area_square_m":1157229.862047,
+    "geom:bbox":"16.1068458783,45.9960700062,16.1274224051,46.0122861651",
+    "geom:latitude":46.00474,
+    "geom:longitude":16.11717,
+    "gn:population":1107,
+    "iso:country":"HR",
+    "lbl:latitude":46.00439,
+    "lbl:longitude":16.120444,
+    "mps:latitude":46.00439,
+    "mps:longitude":16.120444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Marija Bistrica"
+    ],
+    "name:cat_x_preferred":[
+        "Marija Bistrica"
+    ],
+    "name:deu_x_preferred":[
+        "Marija Bistrica"
+    ],
+    "name:fra_x_preferred":[
+        "Marija Bistrica"
+    ],
+    "name:hbs_x_preferred":[
+        "Marija Bistrica"
+    ],
+    "name:hrv_x_preferred":[
+        "Marija Bistrica"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00e1riabeszterce"
+    ],
+    "name:ita_x_preferred":[
+        "Marija Bistrica"
+    ],
+    "name:lat_x_preferred":[
+        "Bistrica"
+    ],
+    "name:nld_x_preferred":[
+        "Marija Bistrica"
+    ],
+    "name:pol_x_preferred":[
+        "Marija Bistrica"
+    ],
+    "name:por_x_preferred":[
+        "Marija Bistrica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Marija Bistrica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u044f-\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Marija Bistrica"
+    ],
+    "name:spa_x_preferred":[
+        "Marija Bistrica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0458\u0430 \u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Marija Bistrica"
+    ],
+    "name:und_x_preferred":[
+        "Marija Bistrica"
+    ],
+    "name:war_x_preferred":[
+        "Marija Bistrica"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Krapinsko-zagorska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Marija Bistrica",
+    "qs:la_lc":"*HR0202569",
+    "qs:level":"locality",
+    "qs:loc":"Marija Bistrica",
+    "qs:loc_alt":"Marija Bistrica",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":559,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115c6076-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3195499,
+        "gp:id":849060,
+        "qs:id":1083354,
+        "qs_pg:id":1083354,
+        "wd:id":"Q921910",
+        "wk:page":"Marija Bistrica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0e4aacfba42875003bae7cbcf6bbbdf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791243,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":101791243,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527641954,
+    "wof:name":"Marija Bistrica",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:population":1107,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1068458783364,
+    45.99607000618624,
+    16.12742240510562,
+    46.01228616509752
+],
+  "geometry": {"coordinates":[[[16.1139871988413,46.01101926916908],[16.11358084771166,46.00742994927538],[16.1187252455444,46.00713404423851],[16.1189285813324,46.0089286941145],[16.12407309730315,46.00863252942742],[16.12366610532149,46.00504324983319],[16.12623817529186,46.00489508573781],[16.12613639600499,46.00399776708446],[16.12742240510562,46.00392366318084],[16.12732060908138,46.00302634530982],[16.12474862992997,46.00317453475947],[16.12464688051131,46.0022772134098],[16.12336090728132,46.00235128343957],[16.12305574861551,45.99965931130316],[16.12434165850897,45.99958524553239],[16.1240364758815,45.99689327191027],[16.12275062931701,45.99696733342307],[16.12264893163115,45.99607000618624],[16.12007727118959,45.99621807982879],[16.12017892665943,45.99711540990324],[16.11889307056742,45.99718942487056],[16.11919799987641,45.99988141552012],[16.11791207727919,45.99995541922715],[16.11811534311681,46.0017500793067],[16.11682937511944,46.00182407033367],[16.11693099348082,46.00272140083496],[16.11564500119482,46.00279537776299],[16.11574660281121,46.00369270904446],[16.1080304557745,46.0041362532528],[16.10813193505919,46.00503359239832],[16.1068458783364,46.00510746353723],[16.10715027902239,46.00779948139956],[16.10843639910343,46.00772560601251],[16.10884241228064,46.0113149485793],[16.10755620770971,46.01138882963153],[16.1076577007949,46.01228616509752],[16.11023014901485,46.01213838463929],[16.11012861368005,46.01124105200671],[16.1139871988413,46.01101926916908]]],"type":"Polygon"}
+}

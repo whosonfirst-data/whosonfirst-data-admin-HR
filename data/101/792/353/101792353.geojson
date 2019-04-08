@@ -1,0 +1,112 @@
+{
+  "id": 101792353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":329227.545689,
+    "geom:bbox":"17.4052601966,45.8003248118,17.4326797132,45.810359511",
+    "geom:latitude":45.80475,
+    "geom:longitude":17.417717,
+    "gn:population":1348,
+    "iso:country":"HR",
+    "lbl:latitude":45.804531,
+    "lbl:longitude":17.417716,
+    "mps:latitude":45.804531,
+    "mps:longitude":17.417716,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Rezovac"
+    ],
+    "name:dut_x_preferred":[
+        "Rezovac"
+    ],
+    "name:eng_x_preferred":[
+        "Rezovac"
+    ],
+    "name:hbs_x_preferred":[
+        "Rezovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Rezovac"
+    ],
+    "name:nld_x_preferred":[
+        "Rezovac"
+    ],
+    "name:slv_x_preferred":[
+        "Rezovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u0437\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Rezovac"
+    ],
+    "name:unk_x_variant":[
+        "Rezovac-Kr\u010devina"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Viroviticko-podravska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Virovitica",
+    "qs:la_lc":"*HR1004910",
+    "qs:level":"locality",
+    "qs:loc":"Rezovac",
+    "qs:loc_alt":"Rezovac",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191701,
+        "gp:id":55855372,
+        "qs:id":1043953,
+        "qs_pg:id":1043953,
+        "wd:id":"Q1989817",
+        "wk:page":"Rezovac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"39a7c37dbfd861560810023d962090c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101792353,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":101792353,
+    "wof:lastmodified":1527714633,
+    "wof:name":"Rezovac",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":1348,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.40526019656028,
+    45.80032481181451,
+    17.43267971321694,
+    45.810359511032
+],
+  "geometry": {"coordinates":[[[17.43267971321694,45.80122060799306],[17.43255700424436,45.80032481181451],[17.42743847152707,45.80068395229171],[17.42756109744926,45.80157975530443],[17.42500176673855,45.80175923650307],[17.4251243563769,45.8026550422162],[17.42384466455218,45.80274476140829],[17.42396723866784,45.80364056811391],[17.40989014933757,45.80462648090867],[17.41001250025022,45.80552230566315],[17.40745293855412,45.8057013656005],[17.40781989806527,45.80838884580442],[17.40526019656028,45.80856785431604],[17.40550477929924,45.810359511032],[17.40678467349665,45.81027001107543],[17.40666235873778,45.80937418477765],[17.40922209419819,45.8091951420331],[17.40909974312456,45.80829931842976],[17.41037958438773,45.80820977564287],[17.4101348563961,45.8064181297035],[17.41141465232045,45.80632857491327],[17.41129227540455,45.80543275257713],[17.42536955138178,45.80444665149793],[17.4252469512578,45.80355084721441],[17.42652666004454,45.80346111090461],[17.42640404439823,45.80256530761409],[17.43024308563758,45.8022960113484],[17.43012041294372,45.80140021246746],[17.43267971321694,45.80122060799306]]],"type":"Polygon"}
+}

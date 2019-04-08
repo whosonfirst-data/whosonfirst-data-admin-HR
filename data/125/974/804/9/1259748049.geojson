@@ -1,0 +1,74 @@
+{
+  "id": 1259748049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47177,45.69203,16.47177,45.69203",
+    "geom:latitude":45.69203,
+    "geom:longitude":16.47177,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"3199068.0",
+    "gn:asciiname":"Derezani",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202089,
+    "gn:latitude":45.69203,
+    "gn:longitude":16.47177,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Dere\u017eani",
+    "gn:population":246,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dere\u0161ani",
+        "Dere\u017eani"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202089
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7efa1d2c8039c75e8ebcb5fd952e4070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259748049,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1259748049,
+    "wof:lastmodified":1537625921,
+    "wof:name":"Derezani",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47177000000001,
+    45.69203,
+    16.47177000000001,
+    45.69203
+],
+  "geometry": {"coordinates":[16.47177000000001,45.69203],"type":"Point"}
+}

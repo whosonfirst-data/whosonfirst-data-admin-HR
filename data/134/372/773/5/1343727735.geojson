@@ -1,0 +1,73 @@
+{
+  "id": 1343727735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51667,44.16667,15.51667,44.16667",
+    "geom:latitude":44.16667,
+    "geom:longitude":15.51667,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Paljuv",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193666,
+    "gn:latitude":44.16667,
+    "gn:longitude":15.51667,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Paljuv",
+    "gn:population":371,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palju",
+        "Paljuv"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193666
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ba9c59170c657c9e10e5d274ff0b1421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343727735,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1343727735,
+    "wof:lastmodified":1537625851,
+    "wof:name":"Paljuv",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":371,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51667,
+    44.16667,
+    15.51667,
+    44.16667
+],
+  "geometry": {"coordinates":[15.51667,44.16667],"type":"Point"}
+}

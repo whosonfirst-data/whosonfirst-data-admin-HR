@@ -1,0 +1,113 @@
+{
+  "id": 1125928853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17194,45.90389,16.17194,45.90389",
+    "geom:latitude":45.90389,
+    "geom:longitude":16.17194,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":989,
+    "gn:population":989,
+    "iso:country":"HR",
+    "lbl:latitude":45.90389,
+    "lbl:longitude":16.17194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Adamovec"
+    ],
+    "name:cze_x_preferred":[
+        "Adamovec"
+    ],
+    "name:dut_x_preferred":[
+        "Adamovec"
+    ],
+    "name:eng_x_preferred":[
+        "Adamovec"
+    ],
+    "name:hrv_x_preferred":[
+        "Adamovec"
+    ],
+    "name:slv_x_preferred":[
+        "Adamovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0434\u0430\u043c\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Adamovec"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3204872,
+    "qs_pg:gn_pop":989,
+    "qs_pg:name":"Adamovec",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Grad Zagreb",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1082867,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":846620,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Grad Zagreb",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204872,
+        "gp:id":846620,
+        "qs_pg:id":1082867,
+        "wd:id":"Q1942662"
+    },
+    "wof:country":"HR",
+    "wof:created":1497296736,
+    "wof:geomhash":"ae70e809f9fb900bb56e8a22e5b29b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125928853,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1125928853,
+    "wof:lastmodified":1514447380,
+    "wof:name":"Adamovec",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:population":989,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17194,
+    45.90389,
+    16.17194,
+    45.90389
+],
+  "geometry": {"coordinates":[16.17194,45.90389],"type":"Point"}
+}

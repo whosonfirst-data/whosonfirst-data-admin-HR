@@ -1,0 +1,76 @@
+{
+  "id": 1225868775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16583,45.15667,14.16583,45.15667",
+    "geom:latitude":45.15667,
+    "geom:longitude":14.16583,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054805.0",
+    "gn:asciiname":"Vozilici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187394,
+    "gn:latitude":45.15667,
+    "gn:longitude":14.16583,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Vozili\u0107i",
+    "gn:population":236,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vosilli",
+        "Vosilla",
+        "Vozili\u0107i"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187394,
+        "wk:page":"Vozili%C4%87i"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"dafe488c8aa4a5c944eedc33e11ad5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225868775,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1225868775,
+    "wof:lastmodified":1537625809,
+    "wof:name":"Vozilici",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":236,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16583,
+    45.15667,
+    14.16583,
+    45.15667
+],
+  "geometry": {"coordinates":[14.16583,45.15667],"type":"Point"}
+}

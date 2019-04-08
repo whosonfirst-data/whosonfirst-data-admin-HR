@@ -1,0 +1,73 @@
+{
+  "id": 1326823467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.86833,46.17972,16.86833,46.17972",
+    "geom:latitude":46.17972,
+    "geom:longitude":16.86833,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"3197726.0",
+    "gn:asciiname":"Heresin",
+    "gn:country_code":"HR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199387,
+    "gn:latitude":46.17972,
+    "gn:longitude":16.86833,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Here\u0161in",
+    "gn:population":728,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Here\u0161in"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199387,
+        "wk:page":"Here%C5%A1in"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"06c09f1756a1f39d7f770cecbc29e5b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326823467,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1326823467,
+    "wof:lastmodified":1537625895,
+    "wof:name":"Heresin",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":728,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.86833,
+    46.17972,
+    16.86833,
+    46.17972
+],
+  "geometry": {"coordinates":[16.86833,46.17972],"type":"Point"}
+}

@@ -1,0 +1,151 @@
+{
+  "id": 101791221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000158,
+    "geom:area_square_m":1356811.989575,
+    "geom:bbox":"18.8451567587,45.8356388203,18.8595518462,45.8558333028",
+    "geom:latitude":45.846022,
+    "geom:longitude":18.853963,
+    "gn:population":1053,
+    "iso:country":"HR",
+    "lbl:latitude":45.846381,
+    "lbl:longitude":18.854453,
+    "mps:latitude":45.846381,
+    "mps:longitude":18.854453,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Batina"
+    ],
+    "name:cat_x_preferred":[
+        "Batina"
+    ],
+    "name:ces_x_preferred":[
+        "Batina"
+    ],
+    "name:cze_x_preferred":[
+        "Batina"
+    ],
+    "name:deu_x_preferred":[
+        "Batina"
+    ],
+    "name:dut_x_preferred":[
+        "Batina"
+    ],
+    "name:eng_x_preferred":[
+        "Batina"
+    ],
+    "name:epo_x_preferred":[
+        "Batina"
+    ],
+    "name:fra_x_preferred":[
+        "Batina"
+    ],
+    "name:fre_x_preferred":[
+        "Batina"
+    ],
+    "name:ger_x_preferred":[
+        "Batina"
+    ],
+    "name:glg_x_preferred":[
+        "Batina"
+    ],
+    "name:hbs_x_preferred":[
+        "Batina"
+    ],
+    "name:hrv_x_preferred":[
+        "Batina"
+    ],
+    "name:hun_x_preferred":[
+        "Kisk\u0151szeg"
+    ],
+    "name:nld_x_preferred":[
+        "Batina"
+    ],
+    "name:ron_x_preferred":[
+        "Batina"
+    ],
+    "name:rum_x_preferred":[
+        "Batina"
+    ],
+    "name:slv_x_preferred":[
+        "Batina"
+    ],
+    "name:spa_x_preferred":[
+        "Batina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Batina"
+    ],
+    "name:unk_x_variant":[
+        "Kisk\u00f6szeg"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Dra\u017e",
+    "qs:la_lc":"*HR1400914",
+    "qs:level":"locality",
+    "qs:loc":"Batina",
+    "qs:loc_alt":"Batina",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":148,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204413,
+        "gp:id":846740,
+        "qs:id":916048,
+        "qs_pg:id":916048,
+        "wd:id":"Q810835",
+        "wk:page":"Batina"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"29440ec4d73a33697e4bec6786e4c1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791221,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101791221,
+    "wof:lastmodified":1553815505,
+    "wof:name":"Batina",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":1053,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.84515675868693,
+    45.83563882028892,
+    18.85955184616716,
+    45.85583330281389
+],
+  "geometry": {"coordinates":[[[18.85885879305204,45.85351114807395],[18.85827315316931,45.84993670807751],[18.85955184616716,45.84982968626639],[18.8576489393555,45.83821269446833],[18.85637051427364,45.83831968982952],[18.85593159372036,45.83563882028892],[18.85209647670672,45.83595969587032],[18.85253521183569,45.83864058371074],[18.85125676862782,45.83874751760362],[18.85184175380084,45.84232203167306],[18.84800614971795,45.84264276553745],[18.84771376828905,45.8408554979045],[18.84515675868693,45.84106923550991],[18.84544905768223,45.84285651127055],[18.84672760596442,45.84274964608841],[18.847166163098,45.84543054764731],[18.84844476868278,45.84532366099967],[18.84873721254405,45.84711092065015],[18.8500158548236,45.84700401456723],[18.85089345998261,45.85236576216482],[18.84961469400935,45.85247268044651],[18.84976096278189,45.85336630428611],[18.85231853143245,45.85315244828428],[18.85275749895521,45.85583330281389],[18.85787282927492,45.8554053819326],[18.85758001305226,45.85361816265458],[18.85885879305204,45.85351114807395]]],"type":"Polygon"}
+}

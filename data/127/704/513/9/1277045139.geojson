@@ -1,0 +1,76 @@
+{
+  "id": 1277045139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.51194,46.21361,16.51194,46.21361",
+    "geom:latitude":46.21361,
+    "geom:longitude":16.51194,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"11049316.0",
+    "gn:asciiname":"Leskovec Toplicki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196641,
+    "gn:latitude":46.21361,
+    "gn:longitude":16.51194,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Leskovec Topli\u010dki",
+    "gn:population":487,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Topli\u010dki Leskovec",
+        "Leskovec",
+        "Leskovec Topli\u010dki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196641,
+        "wk:page":"Leskovec_Topli%C4%8Dki"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"53ce5547566b59e2e0f1213e8cfe2d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277045139,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1277045139,
+    "wof:lastmodified":1537625875,
+    "wof:name":"Leskovec Toplicki",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":487,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.51194,
+    46.21361,
+    16.51194,
+    46.21361
+],
+  "geometry": {"coordinates":[16.51194,46.21361],"type":"Point"}
+}

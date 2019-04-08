@@ -1,0 +1,101 @@
+{
+  "id": 1125853539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44861,44.24306,15.44861,44.24306",
+    "geom:latitude":44.24306,
+    "geom:longitude":15.44861,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":880,
+    "gn:population":834,
+    "iso:country":"HR",
+    "lbl:latitude":44.24306,
+    "lbl:longitude":15.44861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Slivnica"
+    ],
+    "name:dut_x_preferred":[
+        "Slivnica"
+    ],
+    "name:eng_x_preferred":[
+        "Slivnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Slivnica"
+    ],
+    "name:hun_x_preferred":[
+        "Slivnica"
+    ],
+    "name:slv_x_preferred":[
+        "Slivnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Slivnica"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3190566,
+    "qs_pg:gn_pop":880,
+    "qs_pg:name":"Slivnica",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581604,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190566,
+        "qs_pg:id":581604,
+        "wd:id":"Q7541015"
+    },
+    "wof:country":"HR",
+    "wof:created":1497293513,
+    "wof:geomhash":"d567709244371396c2f839b940f739d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125853539,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1125853539,
+    "wof:lastmodified":1553816573,
+    "wof:name":"Slivnica",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":834,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44861,
+    44.24306,
+    15.44861,
+    44.24306
+],
+  "geometry": {"coordinates":[15.44861,44.24306],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1193251639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67722,43.52028,16.67722,43.52028",
+    "geom:latitude":43.52028,
+    "geom:longitude":16.67722,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Desisevici",
+    "gn:country_code":"HR",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3279147,
+    "gn:latitude":43.52028,
+    "gn:longitude":16.67722,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"De\u0161i\u0161evi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3279147
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cfbc58ed3594523621ea69a13a9302bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193251639,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1193251639,
+    "wof:lastmodified":1536367303,
+    "wof:name":"Desisevici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67722,
+    43.52028,
+    16.67722,
+    43.52028
+],
+  "geometry": {"coordinates":[16.67722,43.52028],"type":"Point"}
+}

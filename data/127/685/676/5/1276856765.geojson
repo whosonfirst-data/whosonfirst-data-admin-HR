@@ -1,0 +1,70 @@
+{
+  "id": 1276856765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72389,44.64694,15.72389,44.64694",
+    "geom:latitude":44.64694,
+    "geom:longitude":15.72389,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049294.0",
+    "gn:asciiname":"Pecane",
+    "gn:country_code":"HR",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3193554,
+    "gn:latitude":44.64694,
+    "gn:longitude":15.72389,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Pe\u0107ane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pe\u0107ani",
+        "Pe\u0107ane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193554
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d7b2086fceb295de70928256474b55df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276856765,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1276856765,
+    "wof:lastmodified":1537625850,
+    "wof:name":"Pecane",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72389,
+    44.64694,
+    15.72389,
+    44.64694
+],
+  "geometry": {"coordinates":[15.72389,44.64694],"type":"Point"}
+}

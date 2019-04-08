@@ -1,0 +1,73 @@
+{
+  "id": 1243135335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.73611,45.35306,18.73611,45.35306",
+    "geom:latitude":45.35306,
+    "geom:longitude":18.73611,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"11054541.0",
+    "gn:asciiname":"Gabos",
+    "gn:country_code":"HR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200786,
+    "gn:latitude":45.35306,
+    "gn:longitude":18.73611,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Gabo\u0161",
+    "gn:population":516,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gabo\u0161"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200786,
+        "wk:page":"Gabo%C5%A1"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7b97cdc8e1f4c7ab32b7c0c4065c4748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243135335,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":1243135335,
+    "wof:lastmodified":1537625908,
+    "wof:name":"Gabos",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:population":516,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.73611,
+    45.35306,
+    18.73611,
+    45.35306
+],
+  "geometry": {"coordinates":[18.73611,45.35306],"type":"Point"}
+}

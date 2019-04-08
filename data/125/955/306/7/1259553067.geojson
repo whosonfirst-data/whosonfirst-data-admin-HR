@@ -1,0 +1,70 @@
+{
+  "id": 1259553067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08047,46.24902,16.08047,46.24902",
+    "geom:latitude":46.24902,
+    "geom:longitude":16.08047,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"11049306.0",
+    "gn:asciiname":"Dubravec",
+    "gn:country_code":"HR",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201062,
+    "gn:latitude":46.24902,
+    "gn:longitude":16.08047,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Dubravec",
+    "gn:population":428,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201062,
+        "wk:page":"Dubravec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"97e6168dd742c0b6daf3108c0ac20aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259553067,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1259553067,
+    "wof:lastmodified":1537563303,
+    "wof:name":"Dubravec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":428,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08047,
+    46.24902,
+    16.08047,
+    46.24902
+],
+  "geometry": {"coordinates":[16.08047,46.24902],"type":"Point"}
+}

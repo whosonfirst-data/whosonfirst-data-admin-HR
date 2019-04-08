@@ -1,0 +1,66 @@
+{
+  "id": 1310674025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.74944,43.66639,16.74944,43.66639",
+    "geom:latitude":43.66639,
+    "geom:longitude":16.74944,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"11054954.0",
+    "gn:asciiname":"Udovicic",
+    "gn:country_code":"HR",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188548,
+    "gn:latitude":43.66639,
+    "gn:longitude":16.74944,
+    "gn:modification_date":"2017-01-01",
+    "gn:name":"Udovi\u010di\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188548
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"37241c72cf117f67848f1901b822e261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310674025,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1310674025,
+    "wof:lastmodified":1536673812,
+    "wof:name":"Udovicic",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.74944,
+    43.66639,
+    16.74944,
+    43.66639
+],
+  "geometry": {"coordinates":[16.74944,43.66639],"type":"Point"}
+}

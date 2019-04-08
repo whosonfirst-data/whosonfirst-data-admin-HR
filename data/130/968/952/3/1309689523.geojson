@@ -1,0 +1,70 @@
+{
+  "id": 1309689523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,45.43333,15.03333,45.43333",
+    "geom:latitude":45.43333,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Srpske Moravice",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190076,
+    "gn:latitude":45.43333,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Srpske Moravice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moravice Srpske",
+        "Srpske Moravice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190076
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f7215e3e1765f3d91ee8d71f66695325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309689523,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1309689523,
+    "wof:lastmodified":1537625828,
+    "wof:name":"Srpske Moravice",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    45.43333,
+    15.03333,
+    45.43333
+],
+  "geometry": {"coordinates":[15.03333,45.43333],"type":"Point"}
+}

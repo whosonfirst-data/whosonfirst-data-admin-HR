@@ -1,0 +1,74 @@
+{
+  "id": 1209920017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.98444,44.95889,13.98444,44.95889",
+    "geom:latitude":44.95889,
+    "geom:longitude":13.98444,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054808.0",
+    "gn:asciiname":"Mutvoran",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194614,
+    "gn:latitude":44.95889,
+    "gn:longitude":13.98444,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Mutvoran",
+    "gn:population":25,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mormorano",
+        "Mutvoran"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194614
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3e035c956c74513470f5650fbb1e6b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209920017,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1209920017,
+    "wof:lastmodified":1537625858,
+    "wof:name":"Mutvoran",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":25,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.98444,
+    44.95889,
+    13.98444,
+    44.95889
+],
+  "geometry": {"coordinates":[13.98444,44.95889],"type":"Point"}
+}

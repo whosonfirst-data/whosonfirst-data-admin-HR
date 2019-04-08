@@ -1,0 +1,65 @@
+{
+  "id": 1293664327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4725,44.23444,15.4725,44.23444",
+    "geom:latitude":44.23444,
+    "geom:longitude":15.4725,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kalac",
+    "gn:country_code":"HR",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216310,
+    "gn:latitude":44.23444,
+    "gn:longitude":15.4725,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Kalac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216310
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b3db189c2e81319c1809dcfe3e320dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293664327,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1293664327,
+    "wof:lastmodified":1537028237,
+    "wof:name":"Kalac",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4725,
+    44.23444,
+    15.4725,
+    44.23444
+],
+  "geometry": {"coordinates":[15.4725,44.23444],"type":"Point"}
+}

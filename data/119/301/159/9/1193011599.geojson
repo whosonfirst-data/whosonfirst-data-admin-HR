@@ -1,0 +1,76 @@
+{
+  "id": 1193011599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.52639,44.83917,15.52639,44.83917",
+    "geom:latitude":44.83917,
+    "geom:longitude":15.52639,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049292.0",
+    "gn:asciiname":"Gornji Babin Potok",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200055,
+    "gn:latitude":44.83917,
+    "gn:longitude":15.52639,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Gornji Babin Potok",
+    "gn:population":104,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Babin Potok Gornji",
+        "Gornji Batin Potok",
+        "Gornji Babin Potok"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200055,
+        "wk:page":"Gornji_Babin_Potok"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fbeaf3c6fdb4859490c6a449699b3191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193011599,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1193011599,
+    "wof:lastmodified":1537625901,
+    "wof:name":"Gornji Babin Potok",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":104,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52639,
+    44.83917,
+    15.52639,
+    44.83917
+],
+  "geometry": {"coordinates":[15.52639,44.83917],"type":"Point"}
+}

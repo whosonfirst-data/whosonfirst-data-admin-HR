@@ -1,0 +1,67 @@
+{
+  "id": 1276543857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78667,46.14583,15.78667,46.14583",
+    "geom:latitude":46.14583,
+    "geom:longitude":15.78667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"11054900.0",
+    "gn:asciiname":"Valentinovo",
+    "gn:country_code":"HR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3213507,
+    "gn:latitude":46.14583,
+    "gn:longitude":15.78667,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Valentinovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213507,
+        "wk:page":"Valentinovo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ae86dd121b4ca4ac5b091466e6ad6d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276543857,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1276543857,
+    "wof:lastmodified":1537563313,
+    "wof:name":"Valentinovo",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78667,
+    46.14583,
+    15.78667,
+    46.14583
+],
+  "geometry": {"coordinates":[15.78667,46.14583],"type":"Point"}
+}

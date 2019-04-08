@@ -1,0 +1,66 @@
+{
+  "id": 1209512345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06611,46.11111,16.06611,46.11111",
+    "geom:latitude":46.11111,
+    "geom:longitude":16.06611,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3186405.0",
+    "gn:asciiname":"Ladislavec",
+    "gn:country_code":"HR",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215745,
+    "gn:latitude":46.11111,
+    "gn:longitude":16.06611,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Ladislavec",
+    "gn:population":144,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215745,
+        "wk:page":"Ladislavec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"521c863ce01d0aa770cb326e8ce53179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209512345
+        }
+    ],
+    "wof:id":1209512345,
+    "wof:lastmodified":1537563315,
+    "wof:name":"Ladislavec",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":144,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06611,
+    46.11111,
+    16.06611,
+    46.11111
+],
+  "geometry": {"coordinates":[16.06611,46.11111],"type":"Point"}
+}

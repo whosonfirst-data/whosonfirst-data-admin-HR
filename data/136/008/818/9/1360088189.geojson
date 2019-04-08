@@ -1,0 +1,66 @@
+{
+  "id": 1360088189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29583,45.21583,17.29583,45.21583",
+    "geom:latitude":45.21583,
+    "geom:longitude":17.29583,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049492.0",
+    "gn:asciiname":"Gorice",
+    "gn:country_code":"HR",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3200320,
+    "gn:latitude":45.21583,
+    "gn:longitude":17.29583,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Gorice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200320
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a70d22a1607ad93298f46204f37eb187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360088189,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1360088189,
+    "wof:lastmodified":1536941741,
+    "wof:name":"Gorice",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29583,
+    45.21583,
+    17.29583,
+    45.21583
+],
+  "geometry": {"coordinates":[17.29583,45.21583],"type":"Point"}
+}

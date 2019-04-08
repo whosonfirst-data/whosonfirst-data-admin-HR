@@ -1,0 +1,73 @@
+{
+  "id": 1260053879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.97378,45.31317,15.97378,45.31317",
+    "geom:latitude":45.31317,
+    "geom:longitude":15.97378,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"11049234.0",
+    "gn:asciiname":"Gregani",
+    "gn:country_code":"HR",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199599,
+    "gn:latitude":45.31317,
+    "gn:longitude":15.97378,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Gre\u0111ani",
+    "gn:population":341,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gredjani",
+        "Gre\u0111ani"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199599
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ba9ec63066b70f1b3f8e73cce5391d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260053879,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1260053879,
+    "wof:lastmodified":1537625897,
+    "wof:name":"Gregani",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":341,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.97378,
+    45.31317,
+    15.97378,
+    45.31317
+],
+  "geometry": {"coordinates":[15.97378,45.31317],"type":"Point"}
+}

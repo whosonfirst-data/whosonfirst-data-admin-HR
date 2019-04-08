@@ -1,0 +1,125 @@
+{
+  "id": 101912587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":417251.148254,
+    "geom:bbox":"15.1420965166,44.1889734587,15.1567226453,44.1975379968",
+    "geom:latitude":44.193239,
+    "geom:longitude":15.148896,
+    "iso:country":"HR",
+    "lbl:latitude":44.194389,
+    "lbl:longitude":15.147068,
+    "mps:latitude":44.194389,
+    "mps:longitude":15.147068,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Petr\u010dane"
+    ],
+    "name:deu_x_preferred":[
+        "Petr\u010dane"
+    ],
+    "name:dut_x_preferred":[
+        "Petr\u010dane"
+    ],
+    "name:eng_x_preferred":[
+        "Petr\u010dane"
+    ],
+    "name:fra_x_preferred":[
+        "Petr\u010dane"
+    ],
+    "name:fre_x_preferred":[
+        "Petr\u010dane"
+    ],
+    "name:ger_x_preferred":[
+        "Petr\u010dane"
+    ],
+    "name:hbs_x_preferred":[
+        "Petr\u010dane"
+    ],
+    "name:hrv_x_preferred":[
+        "Petr\u010dane"
+    ],
+    "name:hun_x_preferred":[
+        "Petr\u010dane"
+    ],
+    "name:ita_x_preferred":[
+        "Peterzane"
+    ],
+    "name:nld_x_preferred":[
+        "Petr\u010dane"
+    ],
+    "name:slv_x_preferred":[
+        "Petr\u010dane"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0447\u0430\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Petrcane"
+    ],
+    "name:unk_x_variant":[
+        "Petr\u010dane"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zadarska \u017eupanija",
+    "qs:a1r":"7",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Zadar",
+    "qs:la_lc":"*HR1305207",
+    "qs:level":"locality",
+    "qs:loc":"Punta Skala",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201547,
+        "gp:id":849589,
+        "qs:id":1331646,
+        "qs_pg:id":278345,
+        "wd:id":"Q2451953"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cb1da967f80d7299a795b7f3cf92667a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101912587,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":101912587,
+    "wof:lastmodified":1527653269,
+    "wof:name":"Punta Skala",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14209651657114,
+    44.18897345870101,
+    15.15672264526069,
+    44.19753799676255
+],
+  "geometry": {"coordinates":[[[15.15670213393469,44.18984297681294],[15.15601910944793,44.18897345870101],[15.1540684547968,44.18907061120927],[15.1541496967472,44.18997010258346],[15.14916633916425,44.1902181186548],[15.14924750658832,44.1911176138471],[15.1480016416516,44.1911795815696],[15.14808279297444,44.19207907718766],[15.14559101687217,44.19220296998043],[15.14567213261313,44.19310246715366],[15.14442622144725,44.19316439222337],[15.14450732108361,44.19406388982122],[15.14326138801437,44.19412580104898],[15.14334247154392,44.19502529907174],[15.14209651657114,44.19508719645688],[15.14225865478687,44.19688619264838],[15.14724261599468,44.19663850424138],[15.14732376809502,44.19753799676255],[15.14856977181904,44.1974760361],[15.14840743202996,44.19567705261369],[15.14965339436401,44.19561507923953],[15.14949102912169,44.19381609519655],[15.1507369500689,44.19375410911152],[15.15065575303436,44.1928546171639],[15.15314754869132,44.19273060234258],[15.15306631607865,44.19183111195196],[15.15555806307106,44.19170703951005],[15.1554767948835,44.19080755067779],[15.15672264526069,44.19074549313274],[15.15664136097769,44.18984600472703],[15.15670213393469,44.18984297681294]]],"type":"Polygon"}
+}

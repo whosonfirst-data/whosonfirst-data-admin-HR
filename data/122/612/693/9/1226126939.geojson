@@ -1,0 +1,69 @@
+{
+  "id": 1226126939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.39709,46.46399,16.39709,46.46399",
+    "geom:latitude":46.46399,
+    "geom:longitude":16.39709,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"11054853.0",
+    "gn:asciiname":"Merhatovec",
+    "gn:country_code":"HR",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195239,
+    "gn:latitude":46.46399,
+    "gn:longitude":16.39709,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Merhatovec",
+    "gn:population":157,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195239
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7920f706b5e2143af17ebbb8373b0805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226126939,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":1226126939,
+    "wof:lastmodified":1536604998,
+    "wof:name":"Merhatovec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":157,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.39709,
+    46.46399,
+    16.39709,
+    46.46399
+],
+  "geometry": {"coordinates":[16.39709,46.46399],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260042413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47694,44.27333,15.47694,44.27333",
+    "geom:latitude":44.27333,
+    "geom:longitude":15.47694,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Seline",
+    "gn:country_code":"HR",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3337486,
+    "gn:latitude":44.27333,
+    "gn:longitude":15.47694,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Seline",
+    "gn:population":469,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3337486
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"32739cb81b0a06a715777c4fef848276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260042413,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1260042413,
+    "wof:lastmodified":1537045448,
+    "wof:name":"Seline",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":469,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47694,
+    44.27333,
+    15.47694,
+    44.27333
+],
+  "geometry": {"coordinates":[15.47694,44.27333],"type":"Point"}
+}

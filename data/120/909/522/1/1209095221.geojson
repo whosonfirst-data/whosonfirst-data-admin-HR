@@ -1,0 +1,65 @@
+{
+  "id": 1209095221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48972,45.61444,18.48972,45.61444",
+    "geom:latitude":45.61444,
+    "geom:longitude":18.48972,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054475.0",
+    "gn:asciiname":"Satnica",
+    "gn:country_code":"HR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191250,
+    "gn:latitude":45.61444,
+    "gn:longitude":18.48972,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Satnica",
+    "gn:population":571,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191250
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d137e07ce553613fc4811724c89bb728",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209095221
+        }
+    ],
+    "wof:id":1209095221,
+    "wof:lastmodified":1536297908,
+    "wof:name":"Satnica",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":571,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48972,
+    45.61444,
+    18.48972,
+    45.61444
+],
+  "geometry": {"coordinates":[18.48972,45.61444],"type":"Point"}
+}

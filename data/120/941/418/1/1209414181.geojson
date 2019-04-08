@@ -1,0 +1,64 @@
+{
+  "id": 1209414181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62667,45.11472,15.62667,45.11472",
+    "geom:latitude":45.11472,
+    "geom:longitude":15.62667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Puskarici",
+    "gn:country_code":"HR",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281847,
+    "gn:latitude":45.11472,
+    "gn:longitude":15.62667,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Pu\u0161kari\u0107i",
+    "gn:population":439,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281847
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"25401a7533116832927b1f6e8dbfcef3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209414181
+        }
+    ],
+    "wof:id":1209414181,
+    "wof:lastmodified":1536287742,
+    "wof:name":"Puskarici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":439,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62667,
+    45.11472,
+    15.62667,
+    45.11472
+],
+  "geometry": {"coordinates":[15.62667,45.11472],"type":"Point"}
+}

@@ -1,0 +1,146 @@
+{
+  "id": 101793571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":528795.929014,
+    "geom:bbox":"18.010733491,45.4873340712,18.0278305149,45.4989948182",
+    "geom:latitude":45.493802,
+    "geom:longitude":18.018167,
+    "iso:country":"HR",
+    "lbl:latitude":45.494646,
+    "lbl:longitude":18.018296,
+    "mps:latitude":45.494646,
+    "mps:longitude":18.018296,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Donja Moti\u010dina"
+    ],
+    "name:deu_x_preferred":[
+        "Donja Moti\u010dina"
+    ],
+    "name:dut_x_preferred":[
+        "Donja Moti\u010dina"
+    ],
+    "name:eng_x_preferred":[
+        "Moticina"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Moti\u010dina"
+    ],
+    "name:fre_x_preferred":[
+        "Donja Moti\u010dina"
+    ],
+    "name:ger_x_preferred":[
+        "Donja Moti\u010dina"
+    ],
+    "name:hbs_x_preferred":[
+        "Donja Moti\u010dina"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Moti\u010dina"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3matucsina"
+    ],
+    "name:ita_x_preferred":[
+        "Donja Moti\u010dina"
+    ],
+    "name:nld_x_preferred":[
+        "Donja Moti\u010dina"
+    ],
+    "name:pol_x_preferred":[
+        "Donja Moti\u010dina"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Donja Moti\u010dina"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Donja Moti\u010dina"
+    ],
+    "name:slv_x_preferred":[
+        "Donja Moti\u010dina"
+    ],
+    "name:spa_x_preferred":[
+        "Donja Moti\u010dina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u041c\u043e\u0442\u0438\u0447\u0438\u043d\u0430"
+    ],
+    "name:und_x_colloquial":[
+        "Donja Moticina"
+    ],
+    "name:und_x_preferred":[
+        "Donja Moti\u010dina"
+    ],
+    "name:unk_x_variant":[
+        "Matucsina"
+    ],
+    "name:war_x_preferred":[
+        "Donja Moti\u010dina"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Donja Moti\u010dina",
+    "qs:la_lc":"*HR1405762",
+    "qs:level":"locality",
+    "qs:loc":"Donja Moti\u010dina",
+    "qs:loc_alt":"Donja Moticina",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115b9416-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3201656,
+        "gp:id":847376,
+        "qs:id":940509,
+        "wd:id":"Q636429",
+        "wk:page":"Donja Moti\u010dina"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"998944f4b32ed193259ddd7db9d6a04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793571,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101793571,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527689281,
+    "wof:name":"Donja Moti\u010dina",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.0107334909668,
+    45.48733407122796,
+    18.0278305149406,
+    45.49899481823007
+],
+  "geometry": {"coordinates":[[[18.0278305149406,45.49889791573554],[18.0275678292939,45.4971076498075],[18.02629604912079,45.49720454864843],[18.02616473505395,45.49630941270885],[18.02362120337216,45.49650316086718],[18.02348993565937,45.49560802050939],[18.02221818415154,45.49570486982748],[18.02182447562495,45.49301943868267],[18.02309616597177,45.49292259484145],[18.02283368071812,45.4911323072335],[18.02156203114174,45.49122914742378],[18.02169325059697,45.49212429343618],[18.01787821650566,45.49241472774992],[18.0177470582056,45.49151957626316],[18.0164753924937,45.49161635529896],[18.0162131333733,45.48982604638007],[18.01494150439839,45.48992280647917],[18.0148104035747,45.48902764904744],[18.01353879095183,45.48912439203474],[18.01327664677171,45.48733407122796],[18.0107334909668,45.487527504046],[18.01099555361589,45.48931783214437],[18.01226717429881,45.48922111973366],[18.01239823435475,45.49011628081195],[18.01366987139187,45.49001955128978],[18.01432535710376,45.49449533608407],[18.01178187513437,45.49468879807313],[18.01191294820325,45.49558395638309],[18.01572822627679,45.49529373499377],[18.01612166240454,45.49797918891909],[18.01739347486824,45.49788241240253],[18.01726230353063,45.49698726368399],[18.02234943147511,45.49660001201113],[18.02248068437399,45.49749515342904],[18.02502426490952,45.49730143219904],[18.02515556416381,45.49819656919931],[18.02642736876521,45.49809968382203],[18.02655869398774,45.49899481823007],[18.0278305149406,45.49889791573554]]],"type":"Polygon"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209337205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66639,45.24139,15.66639,45.24139",
+    "geom:latitude":45.24139,
+    "geom:longitude":15.66639,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Peurace",
+    "gn:country_code":"HR",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282590,
+    "gn:latitude":45.24139,
+    "gn:longitude":15.66639,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Peura\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282590
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a275c274864fbced6468883b192a0d34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209337205
+        }
+    ],
+    "wof:id":1209337205,
+    "wof:lastmodified":1536290180,
+    "wof:name":"Peurace",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66639,
+    45.24139,
+    15.66639,
+    45.24139
+],
+  "geometry": {"coordinates":[15.66639,45.24139],"type":"Point"}
+}

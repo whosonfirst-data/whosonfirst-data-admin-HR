@@ -1,0 +1,74 @@
+{
+  "id": 1293568125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67361,45.61694,16.67361,45.61694",
+    "geom:latitude":45.61694,
+    "geom:longitude":16.67361,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"11049232.0",
+    "gn:asciiname":"Moslavacka Slatina",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194845,
+    "gn:latitude":45.61694,
+    "gn:longitude":16.67361,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Moslava\u010dka Slatina",
+    "gn:population":72,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slatina Moslava\u010dka",
+        "Moslava\u010dka Slatina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194845
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"36c3974489dd422fc81c2ef92bbfc5da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293568125,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1293568125,
+    "wof:lastmodified":1537625860,
+    "wof:name":"Moslavacka Slatina",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67361,
+    45.61694,
+    16.67361,
+    45.61694
+],
+  "geometry": {"coordinates":[16.67361,45.61694],"type":"Point"}
+}

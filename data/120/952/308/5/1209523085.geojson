@@ -1,0 +1,66 @@
+{
+  "id": 1209523085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13583,42.67056,18.13583,42.67056",
+    "geom:latitude":42.67056,
+    "geom:longitude":18.13583,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"7577034.0",
+    "gn:asciiname":"Komolac",
+    "gn:country_code":"HR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197829,
+    "gn:latitude":42.67056,
+    "gn:longitude":18.13583,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Komolac",
+    "gn:population":320,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197829,
+        "wk:page":"Komolac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7d9df4f18bf74ba0b2eed502fd4e5da6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209523085
+        }
+    ],
+    "wof:id":1209523085,
+    "wof:lastmodified":1537563296,
+    "wof:name":"Komolac",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":320,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13583,
+    42.67056,
+    18.13583,
+    42.67056
+],
+  "geometry": {"coordinates":[18.13583,42.67056],"type":"Point"}
+}

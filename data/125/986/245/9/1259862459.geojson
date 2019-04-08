@@ -1,0 +1,65 @@
+{
+  "id": 1259862459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.90333,43.59222,16.90333,43.59222",
+    "geom:latitude":43.59222,
+    "geom:longitude":16.90333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tarabnik",
+    "gn:country_code":"HR",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3284125,
+    "gn:latitude":43.59222,
+    "gn:longitude":16.90333,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Tarabnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284125
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"145e994b9a5a84b2f2385f7842b98c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259862459,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1259862459,
+    "wof:lastmodified":1536809110,
+    "wof:name":"Tarabnik",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.90333,
+    43.59222000000001,
+    16.90333,
+    43.59222000000001
+],
+  "geometry": {"coordinates":[16.90333,43.59222000000001],"type":"Point"}
+}

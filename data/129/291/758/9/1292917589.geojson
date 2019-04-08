@@ -1,0 +1,73 @@
+{
+  "id": 1292917589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.23333,45.81667,17.23333,45.81667",
+    "geom:latitude":45.81667,
+    "geom:longitude":17.23333,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049424.0",
+    "gn:asciiname":"Cremusina",
+    "gn:country_code":"HR",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202526,
+    "gn:latitude":45.81667,
+    "gn:longitude":17.23333,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Cremu\u0161ina",
+    "gn:population":1,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cremu\u0161ina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202526,
+        "wk:page":"Cremu%C5%A1ina"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1f1ab50217b06db7242b7a3de77355fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1292917589,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1292917589,
+    "wof:lastmodified":1537625923,
+    "wof:name":"Cremusina",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.23333,
+    45.81667,
+    17.23333,
+    45.81667
+],
+  "geometry": {"coordinates":[17.23333,45.81667],"type":"Point"}
+}

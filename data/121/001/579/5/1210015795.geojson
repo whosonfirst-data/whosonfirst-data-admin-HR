@@ -1,0 +1,65 @@
+{
+  "id": 1210015795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61083,44.95889,15.61083,44.95889",
+    "geom:latitude":44.95889,
+    "geom:longitude":15.61083,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Korita",
+    "gn:country_code":"HR",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3275372,
+    "gn:latitude":44.95889,
+    "gn:longitude":15.61083,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Korita",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275372
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0f84a229fe0ce8dd6f86e75c6caf18c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1210015795,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1210015795,
+    "wof:lastmodified":1536395138,
+    "wof:name":"Korita",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61083,
+    44.95889,
+    15.61083,
+    44.95889
+],
+  "geometry": {"coordinates":[15.61083,44.95889],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1226154583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5675,43.04889,17.5675,43.04889",
+    "geom:latitude":43.04889,
+    "geom:longitude":17.5675,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"11054971.0",
+    "gn:asciiname":"Vrh Desne",
+    "gn:country_code":"HR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3287699,
+    "gn:latitude":43.04889,
+    "gn:longitude":17.5675,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Vrh Desne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3287699
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c15d72f7b8a1d3aa83e17b3b8fd96a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226154583,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1226154583,
+    "wof:lastmodified":1537062126,
+    "wof:name":"Vrh Desne",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5675,
+    43.04889,
+    17.5675,
+    43.04889
+],
+  "geometry": {"coordinates":[17.5675,43.04889],"type":"Point"}
+}

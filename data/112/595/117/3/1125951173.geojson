@@ -1,0 +1,116 @@
+{
+  "id": 1125951173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51833,45.33,14.51833,45.33",
+    "geom:latitude":45.33,
+    "geom:longitude":14.51833,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1159,
+    "gn:population":1344,
+    "iso:country":"HR",
+    "lbl:latitude":45.33,
+    "lbl:longitude":14.51833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "\u0160krljevo"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160krljevo"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160krljevo"
+    ],
+    "name:fre_x_preferred":[
+        "\u0160krljevo"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160krljevo"
+    ],
+    "name:hun_x_preferred":[
+        "\u0160krljevo"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160krljevo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u043a\u0440\u0459\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160krljevo"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3190672,
+    "qs_pg:gn_pop":1159,
+    "qs_pg:name":"Skrljevo",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Trebnje",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1098596,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55850314,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Trebnje",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190672,
+        "gp:id":55850314,
+        "qs_pg:id":1098596,
+        "wd:id":"Q3443449"
+    },
+    "wof:country":"HR",
+    "wof:created":1497297461,
+    "wof:geomhash":"ba134e9c3f64b6f0f7814b250b9d918b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125951173,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1125951173,
+    "wof:lastmodified":1553816652,
+    "wof:name":"Skrljevo",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":1344,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51833,
+    45.33,
+    14.51833,
+    45.33
+],
+  "geometry": {"coordinates":[14.51833,45.33],"type":"Point"}
+}

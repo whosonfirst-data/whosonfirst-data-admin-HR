@@ -1,0 +1,65 @@
+{
+  "id": 1344032279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41667,45.93333,16.41667,45.93333",
+    "geom:latitude":45.93333,
+    "geom:longitude":16.41667,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Krslje",
+    "gn:country_code":"HR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197145,
+    "gn:latitude":45.93333,
+    "gn:longitude":16.41667,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Kr\u0161lje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197145
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b4fb56647d385888e1fc6058c190056a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344032279,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1344032279,
+    "wof:lastmodified":1536916890,
+    "wof:name":"Krslje",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41667,
+    45.93333,
+    16.41667,
+    45.93333
+],
+  "geometry": {"coordinates":[16.41667,45.93333],"type":"Point"}
+}

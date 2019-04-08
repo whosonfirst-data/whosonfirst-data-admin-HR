@@ -1,0 +1,70 @@
+{
+  "id": 1259375395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96,46.11083,16.96,46.11083",
+    "geom:latitude":46.11083,
+    "geom:longitude":16.96,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"11049378.0",
+    "gn:asciiname":"Delovi",
+    "gn:country_code":"HR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215898,
+    "gn:latitude":46.11083,
+    "gn:longitude":16.96,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Delovi",
+    "gn:population":250,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215898,
+        "wk:page":"Delovi"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"01b45e9066d90dcfcd3d569c204db880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259375395,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1259375395,
+    "wof:lastmodified":1537563315,
+    "wof:name":"Delovi",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96,
+    46.11083,
+    16.96,
+    46.11083
+],
+  "geometry": {"coordinates":[16.96,46.11083],"type":"Point"}
+}

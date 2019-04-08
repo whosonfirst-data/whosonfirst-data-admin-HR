@@ -1,0 +1,67 @@
+{
+  "id": 1310712139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.66442,45.66896,17.66442,45.66896",
+    "geom:latitude":45.66896,
+    "geom:longitude":17.66442,
+    "gn:asciiname":"Ivanbrijeg",
+    "gn:country_code":"HR",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7732896,
+    "gn:latitude":45.66896,
+    "gn:longitude":17.66442,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Ivanbrijeg",
+    "gn:population":30,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732896
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8780f09e9435a50e06a76c26592fd084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310712139,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1310712139,
+    "wof:lastmodified":1536616416,
+    "wof:name":"Ivanbrijeg",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:population":30,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.66442,
+    45.66896,
+    17.66442,
+    45.66896
+],
+  "geometry": {"coordinates":[17.66442,45.66896],"type":"Point"}
+}

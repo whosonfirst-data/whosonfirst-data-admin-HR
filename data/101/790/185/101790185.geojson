@@ -1,0 +1,145 @@
+{
+  "id": 101790185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000122,
+    "geom:area_square_m":1037411.682865,
+    "geom:bbox":"16.5823110527,46.429309836,16.6134460184,46.4401646427",
+    "geom:latitude":46.433889,
+    "geom:longitude":16.597587,
+    "gn:population":1880,
+    "iso:country":"HR",
+    "lbl:latitude":46.433465,
+    "lbl:longitude":16.59629,
+    "mps:latitude":46.433465,
+    "mps:longitude":16.59629,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:ces_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:cze_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:deu_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:dut_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:eng_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:epo_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:fra_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:fre_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:ger_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:hrv_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:hun_x_preferred":[
+        "Dam\u00e1sa"
+    ],
+    "name:ita_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:nld_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Doma\u0161inec"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Doma\u0161inec"
+    ],
+    "name:slv_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:spa_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043c\u0430\u0448\u0438\u043d\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "name:war_x_preferred":[
+        "Doma\u0161inec"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Medimurska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Doma\u0161inec",
+    "qs:la_lc":"*HR2000752",
+    "qs:level":"locality",
+    "qs:loc":"Doma\u0161inec",
+    "qs:loc_alt":"Domasinec",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":114,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201734,
+        "gp:id":847345,
+        "qs:id":1044057,
+        "qs_pg:id":1044057,
+        "wd:id":"Q202586",
+        "wk:page":"Doma\u0161inec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bf6082e94802462bcddfeb51066cdd18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101790185,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":101790185,
+    "wof:lastmodified":1527641604,
+    "wof:name":"Doma\u0161inec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":1880,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.58231105269459,
+    46.42930983598734,
+    16.61344601842268,
+    46.44016464268759
+],
+  "geometry": {"coordinates":[[[16.61344601842268,46.44008456884973],[16.61322345848527,46.4382915816002],[16.61192763439936,46.43837165233214],[16.61181638317214,46.4374751561997],[16.61052057707928,46.43755520973201],[16.61029813210166,46.43576221245246],[16.60770659540157,46.43592226636906],[16.60748425571961,46.43412926033585],[16.60489279099448,46.43428924546231],[16.60444834145846,46.43070321334841],[16.60185703471012,46.43086312348794],[16.60174597736369,46.42996661076751],[16.59785905544976,46.43020635399279],[16.59774806741177,46.42930983598734],[16.59386117846685,46.4295494337652],[16.5940830303573,46.43134247843176],[16.58760459710379,46.43174151064471],[16.58749377625833,46.43084498089206],[16.58231105269459,46.43116391886002],[16.5825325271714,46.43295699009923],[16.58901113790478,46.43255826306279],[16.58945457456679,46.43614436698647],[16.59204616640534,46.43598475427086],[16.59226799960049,46.43777779622826],[16.59356383328139,46.437697963304],[16.59367477860013,46.43859448178102],[16.59497063028635,46.43851463166078],[16.59485966345983,46.43761811473235],[16.59745131330709,46.43745837064751],[16.597340308279,46.43656185618147],[16.59863610644021,46.43648196221784],[16.59852508471897,46.43558544866539],[16.60370815629341,46.43526572254535],[16.60381926403261,46.43616222989726],[16.60641082178694,46.43600226985825],[16.60663313773711,46.43779527644909],[16.60922476747567,46.43763524761783],[16.60933597569164,46.43853174685518],[16.61063180680128,46.43845170741719],[16.61074304134496,46.43934820446566],[16.61203889044941,46.4392681478281],[16.61215015132336,46.44016464268759],[16.61344601842268,46.44008456884973]]],"type":"Polygon"}
+}

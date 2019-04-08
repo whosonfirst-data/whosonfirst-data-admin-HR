@@ -1,0 +1,69 @@
+{
+  "id": 1309793065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64306,45.57338,14.64306,45.57338",
+    "geom:latitude":45.57338,
+    "geom:longitude":14.64306,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"3202931.0",
+    "gn:asciiname":"Vrhovci",
+    "gn:country_code":"HR",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187207,
+    "gn:latitude":45.57338,
+    "gn:longitude":14.64306,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Vrhovci",
+    "gn:population":110,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187207
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ecd5bc00c4d19381d915494688d30164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309793065,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1309793065,
+    "wof:lastmodified":1536949710,
+    "wof:name":"Vrhovci",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64306,
+    45.57338,
+    14.64306,
+    45.57338
+],
+  "geometry": {"coordinates":[14.64306,45.57338],"type":"Point"}
+}

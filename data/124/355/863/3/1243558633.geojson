@@ -1,0 +1,74 @@
+{
+  "id": 1243558633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.05583,45.60056,17.05583,45.60056",
+    "geom:latitude":45.60056,
+    "geom:longitude":17.05583,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049414.0",
+    "gn:asciiname":"Imsovac",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199108,
+    "gn:latitude":45.60056,
+    "gn:longitude":17.05583,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Imsovac",
+    "gn:population":200,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imsovci",
+        "Imsovac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199108
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1c4af23aa3d6e151660b44de8bc2e628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243558633,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1243558633,
+    "wof:lastmodified":1537625893,
+    "wof:name":"Imsovac",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.05583,
+    45.60056,
+    17.05583,
+    45.60056
+],
+  "geometry": {"coordinates":[17.05583,45.60056],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276142089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41667,44.65444,15.41667,44.65444",
+    "geom:latitude":44.65444,
+    "geom:longitude":15.41667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049291.0",
+    "gn:asciiname":"Bukovac",
+    "gn:country_code":"HR",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271417,
+    "gn:latitude":44.65444,
+    "gn:longitude":15.41667,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Bukovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271417
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7247c9bb45b5931cc22176a00d0c5716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276142089,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1276142089,
+    "wof:lastmodified":1537033542,
+    "wof:name":"Bukovac",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41667,
+    44.65444,
+    15.41667,
+    44.65444
+],
+  "geometry": {"coordinates":[15.41667,44.65444],"type":"Point"}
+}

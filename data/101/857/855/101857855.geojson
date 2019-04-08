@@ -1,0 +1,119 @@
+{
+  "id": 101857855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.829583,45.793739,15.829583,45.793739",
+    "geom:latitude":45.793739,
+    "geom:longitude":15.829583,
+    "gn:population":2167,
+    "iso:country":"HR",
+    "lbl:latitude":45.793739,
+    "lbl:longitude":15.829583,
+    "mps:latitude":45.793739,
+    "mps:longitude":15.829583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Rakitje"
+    ],
+    "name:bos_x_preferred":[
+        "Rakitje"
+    ],
+    "name:dut_x_preferred":[
+        "Rakitje"
+    ],
+    "name:eng_x_preferred":[
+        "Rakitje"
+    ],
+    "name:hbs_x_preferred":[
+        "Rakitje"
+    ],
+    "name:hrv_x_preferred":[
+        "Rakitje"
+    ],
+    "name:hun_x_preferred":[
+        "Rakitje"
+    ],
+    "name:nld_x_preferred":[
+        "Rakitje"
+    ],
+    "name:slv_x_preferred":[
+        "Rakitje"
+    ],
+    "name:sqi_x_preferred":[
+        "Rakitje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043a\u0438\u0442\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Rakitje"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zagrebacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rakitje",
+    "qs:loc_alt":"Rakitje",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192016,
+        "gp:id":849956,
+        "qs:id":1083055,
+        "qs_pg:id":1083055,
+        "wd:id":"Q923079",
+        "wk:page":"Rakitje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0241aa19f5e1111f8bf44c5d92ebb5ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101857855,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":101857855,
+    "wof:lastmodified":1544744112,
+    "wof:name":"Rakitje",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":2167,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.829583,
+    45.793739,
+    15.829583,
+    45.793739
+],
+  "geometry": {"coordinates":[15.829583,45.793739],"type":"Point"}
+}

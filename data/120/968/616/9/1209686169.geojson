@@ -1,0 +1,61 @@
+{
+  "id": 1209686169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.79222,43.67056,16.79222,43.67056",
+    "geom:latitude":43.67056,
+    "geom:longitude":16.79222,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kotlic",
+    "gn:country_code":"HR",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3278119,
+    "gn:latitude":43.67056,
+    "gn:longitude":16.79222,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Kotli\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3278119
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1e0df0ea08f7499a27a197cca0a72b46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209686169
+        }
+    ],
+    "wof:id":1209686169,
+    "wof:lastmodified":1536279403,
+    "wof:name":"Kotlic",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.79222,
+    43.67056,
+    16.79222,
+    43.67056
+],
+  "geometry": {"coordinates":[16.79222,43.67056],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276522851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.42528,44.00528,15.42528,44.00528",
+    "geom:latitude":44.00528,
+    "geom:longitude":15.42528,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11054381.0",
+    "gn:asciiname":"Sikovo",
+    "gn:country_code":"HR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190902,
+    "gn:latitude":44.00528,
+    "gn:longitude":15.42528,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Sikovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190902
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"516d95883918368b725fc1c99e007736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276522851,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1276522851,
+    "wof:lastmodified":1537021177,
+    "wof:name":"Sikovo",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.42528,
+    44.00528,
+    15.42528,
+    44.00528
+],
+  "geometry": {"coordinates":[15.42528,44.00528],"type":"Point"}
+}

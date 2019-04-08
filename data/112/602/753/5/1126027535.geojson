@@ -1,0 +1,89 @@
+{
+  "id": 1126027535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31556,44.09361,15.31556,44.09361",
+    "geom:latitude":44.09361,
+    "geom:longitude":15.31556,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"HR",
+    "lbl:latitude":44.09361,
+    "lbl:longitude":15.31556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Babin Dub"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3204719,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Babin Dub Plo\u010danski",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Zadarsko-Kninska",
+    "qs_pg:photos":47,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":47,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":894617,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":846658,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Zadarsko-Kninska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204719,
+        "gp:id":846658,
+        "qs_pg:id":894617
+    },
+    "wof:country":"HR",
+    "wof:created":1497301237,
+    "wof:geomhash":"4ac978708ba7f4e76f25ecc718da197d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126027535,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1126027535,
+    "wof:lastmodified":1509407641,
+    "wof:name":"Babin Dub Plo\u010danski",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31556,
+    44.09361,
+    15.31556,
+    44.09361
+],
+  "geometry": {"coordinates":[15.31556,44.09361],"type":"Point"}
+}

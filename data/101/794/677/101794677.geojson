@@ -1,0 +1,133 @@
+{
+  "id": 101794677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":1017750.745429,
+    "geom:bbox":"14.6106011565,45.2141972558,14.6311283662,45.2330756242",
+    "geom:latitude":45.22395,
+    "geom:longitude":14.62009,
+    "gn:population":1154,
+    "iso:country":"HR",
+    "lbl:latitude":45.229275,
+    "lbl:longitude":14.616513,
+    "mps:latitude":45.229275,
+    "mps:longitude":14.616513,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Jadranovo"
+    ],
+    "name:deu_x_preferred":[
+        "Jadranovo"
+    ],
+    "name:dut_x_preferred":[
+        "Jadranovo"
+    ],
+    "name:eng_x_preferred":[
+        "Jadranovo"
+    ],
+    "name:epo_x_preferred":[
+        "Jadranovo"
+    ],
+    "name:fra_x_preferred":[
+        "Jadranovo"
+    ],
+    "name:fre_x_preferred":[
+        "Jadranovo"
+    ],
+    "name:ger_x_preferred":[
+        "Jadranovo"
+    ],
+    "name:hbs_x_preferred":[
+        "Jadranovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Jadranovo"
+    ],
+    "name:hun_x_preferred":[
+        "Jadranovo"
+    ],
+    "name:nld_x_preferred":[
+        "Jadranovo"
+    ],
+    "name:slv_x_preferred":[
+        "Jadranovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0434\u0440\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Jadranovo"
+    ],
+    "name:unk_x_variant":[
+        "Sveti Jakob"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u062f\u0631\u0627\u0646\u0648\u0648\u0648"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Primorsko-goranska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Crikvenica",
+    "qs:la_lc":"*HR0800531",
+    "qs:level":"locality",
+    "qs:loc":"Jadranovo",
+    "qs:loc_alt":"Jadranovo",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":312,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198964,
+        "gp:id":55855366,
+        "qs:id":147246,
+        "qs_pg:id":147246,
+        "wd:id":"Q917220",
+        "wk:page":"Jadranovo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ba38198ce937f8014f44d9f5480ba627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101794677,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":101794677,
+    "wof:lastmodified":1527689321,
+    "wof:name":"Jadranovo",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":1154,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61060115645648,
+    45.21419725584531,
+    14.63112836616341,
+    45.23307562417989
+],
+  "geometry": {"coordinates":[[[14.62090685887415,45.23088693704614],[14.62060659586609,45.22728980344448],[14.62187599010787,45.22723401649944],[14.62157569613493,45.22363687709992],[14.62411431385414,45.22352526568363],[14.62396410406376,45.2217266964285],[14.62523336851001,45.22167086986366],[14.62515824791689,45.22077158534728],[14.62642748958154,45.22071574452946],[14.6263523516995,45.21981646043673],[14.6276215705829,45.2197606053665],[14.6273961146394,45.21706275248442],[14.62993442264303,45.21695100273593],[14.62985923609307,45.21605171928962],[14.63112836616341,45.21599582251497],[14.63097796169018,45.21419725584531],[14.62970887256199,45.21425315052142],[14.6297840527327,45.21515243521827],[14.62597671010417,45.21532003059798],[14.6260518320484,45.21621931781578],[14.62097526106879,45.21644256831996],[14.62105030430672,45.21734185910418],[14.61978113533274,45.21739763452757],[14.6198561612805,45.21829692573402],[14.61858696953038,45.21835268690415],[14.61866197818586,45.21925197853284],[14.61739276365967,45.21930772544891],[14.6174677550207,45.22020701749949],[14.61619851771752,45.220262750161],[14.61627349178326,45.22116204263369],[14.62008125822319,45.22099479560518],[14.62030638382043,45.22369265985469],[14.61903706920418,45.22374842730721],[14.61918712789497,45.2255470024453],[14.61791777001451,45.22560275668934],[14.61799278365316,45.22650204436923],[14.61291524719383,45.22672491250046],[14.61299018208018,45.22762420374158],[14.61172077173217,45.22767988356145],[14.61187061007388,45.22947846626289],[14.61060115645648,45.22953413287007],[14.61067605990934,45.23043342433056],[14.61194553401401,45.23037775667785],[14.61217032491277,45.23307562417989],[14.61597891782657,45.23290851997848],[14.6159039228794,45.23200923457335],[14.61844293233935,45.23189775733971],[14.61836789959841,45.23099847340472],[14.62090685887415,45.23088693704614]]],"type":"Polygon"}
+}

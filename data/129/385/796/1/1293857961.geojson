@@ -1,0 +1,66 @@
+{
+  "id": 1293857961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16667,45.91667,16.16667,45.91667",
+    "geom:latitude":45.91667,
+    "geom:longitude":16.16667,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Jesenovec",
+    "gn:country_code":"HR",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198644,
+    "gn:latitude":45.91667,
+    "gn:longitude":16.16667,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Jesenovec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198644,
+        "wk:page":"Jesenovec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e4645ab353b37e0ba63f4c8fdb68450b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293857961,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1293857961,
+    "wof:lastmodified":1537563298,
+    "wof:name":"Jesenovec",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16667,
+    45.91667,
+    16.16667,
+    45.91667
+],
+  "geometry": {"coordinates":[16.16667,45.91667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209400447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.52028,44.53167,15.52028,44.53167",
+    "geom:latitude":44.53167,
+    "geom:longitude":15.52028,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Graovci",
+    "gn:country_code":"HR",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3272123,
+    "gn:latitude":44.53167,
+    "gn:longitude":15.52028,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Graovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3272123
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"35ac516e394f099bf029b01f6027ec3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209400447
+        }
+    ],
+    "wof:id":1209400447,
+    "wof:lastmodified":1536288165,
+    "wof:name":"Graovci",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52028,
+    44.53167,
+    15.52028,
+    44.53167
+],
+  "geometry": {"coordinates":[15.52028,44.53167],"type":"Point"}
+}

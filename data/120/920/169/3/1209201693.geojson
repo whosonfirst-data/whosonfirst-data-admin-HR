@@ -1,0 +1,65 @@
+{
+  "id": 1209201693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76667,44.96667,14.76667,44.96667",
+    "geom:latitude":44.96667,
+    "geom:longitude":14.76667,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11049430.0",
+    "gn:asciiname":"Sveti Ivan",
+    "gn:country_code":"HR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189339,
+    "gn:latitude":44.96667,
+    "gn:longitude":14.76667,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Sveti Ivan",
+    "gn:population":72,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189339
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1dceb6eb73f065cf21614f011b8c7868",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209201693
+        }
+    ],
+    "wof:id":1209201693,
+    "wof:lastmodified":1536294587,
+    "wof:name":"Sveti Ivan",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76667,
+    44.96667,
+    14.76667,
+    44.96667
+],
+  "geometry": {"coordinates":[14.76667,44.96667],"type":"Point"}
+}

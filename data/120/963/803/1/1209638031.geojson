@@ -1,0 +1,61 @@
+{
+  "id": 1209638031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59139,44.96944,15.59139,44.96944",
+    "geom:latitude":44.96944,
+    "geom:longitude":15.59139,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zanici",
+    "gn:country_code":"HR",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271659,
+    "gn:latitude":44.96944,
+    "gn:longitude":15.59139,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"\u017dani\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271659
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a4820f132aecf3dccd2eefb8a4ad69e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209638031
+        }
+    ],
+    "wof:id":1209638031,
+    "wof:lastmodified":1536280977,
+    "wof:name":"Zanici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59139,
+    44.96944000000001,
+    15.59139,
+    44.96944000000001
+],
+  "geometry": {"coordinates":[15.59139,44.96944000000001],"type":"Point"}
+}

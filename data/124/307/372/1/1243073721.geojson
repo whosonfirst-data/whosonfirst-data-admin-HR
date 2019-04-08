@@ -1,0 +1,74 @@
+{
+  "id": 1243073721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.04056,45.47,14.04056,45.47",
+    "geom:latitude":45.47,
+    "geom:longitude":14.04056,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11129787.0",
+    "gn:asciiname":"Dane",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202202,
+    "gn:latitude":45.47,
+    "gn:longitude":14.04056,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Dane",
+    "gn:population":9,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danne di Raspo",
+        "Dane"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202202
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"da3dc29914844fe3a486d4363b989fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243073721,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1243073721,
+    "wof:lastmodified":1537625921,
+    "wof:name":"Dane",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":9,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.04056,
+    45.47,
+    14.04056,
+    45.47
+],
+  "geometry": {"coordinates":[14.04056,45.47],"type":"Point"}
+}

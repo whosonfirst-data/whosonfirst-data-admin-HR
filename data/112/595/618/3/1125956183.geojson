@@ -1,0 +1,98 @@
+{
+  "id": 1125956183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.31639,45.33472,18.31639,45.33472",
+    "geom:latitude":45.33472,
+    "geom:longitude":18.31639,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":853,
+    "gn:population":691,
+    "iso:country":"HR",
+    "lbl:latitude":45.33472,
+    "lbl:longitude":18.31639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Ga\u0161inci"
+    ],
+    "name:cat_x_preferred":[
+        "Ga\u0161inci"
+    ],
+    "name:dut_x_preferred":[
+        "Ga\u0161inci"
+    ],
+    "name:eng_x_preferred":[
+        "Ga\u0161inci"
+    ],
+    "name:hrv_x_preferred":[
+        "Ga\u0161inci"
+    ],
+    "name:slv_x_preferred":[
+        "Ga\u0161inci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u0448\u0438\u043d\u0446\u0438"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3200699,
+    "qs_pg:gn_pop":853,
+    "qs_pg:name":"Ga\u0161inci",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581720,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200699,
+        "qs_pg:id":581720,
+        "wd:id":"Q2093102"
+    },
+    "wof:country":"HR",
+    "wof:created":1497297626,
+    "wof:geomhash":"d1d7bc0b9a58d7c37de4182d49b1a436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125956183,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1125956183,
+    "wof:lastmodified":1514447440,
+    "wof:name":"Ga\u0161inci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":691,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.31639,
+    45.33472,
+    18.31639,
+    45.33472
+],
+  "geometry": {"coordinates":[18.31639,45.33472],"type":"Point"}
+}

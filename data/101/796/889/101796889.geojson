@@ -1,0 +1,173 @@
+{
+  "id": 101796889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":539025.06062,
+    "geom:bbox":"16.5919733166,43.5791260534,16.6095196815,43.5859697019",
+    "geom:latitude":43.581929,
+    "geom:longitude":16.600737,
+    "gn:population":2687,
+    "iso:country":"HR",
+    "lbl:latitude":43.581158,
+    "lbl:longitude":16.600737,
+    "mps:latitude":43.581158,
+    "mps:longitude":16.600737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:bos_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:cat_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:ces_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:chi_x_preferred":[
+        "\u9054\u52a0\u4fdd\u8332"
+    ],
+    "name:cze_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:deu_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:dut_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:eng_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:fra_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:fre_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:ger_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:hbs_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:hrv_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:hun_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:ita_x_preferred":[
+        "Dugopoglie"
+    ],
+    "name:nld_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:pol_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Dugopolje"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Dugopolje"
+    ],
+    "name:slk_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:slo_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:slv_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:spa_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:sqi_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0433\u043e\u043f\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:und_x_preferred":[
+        "Dugopolje"
+    ],
+    "name:war_x_preferred":[
+        "Dugopolje"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Dugopolje",
+    "qs:la_lc":"*HR1705851",
+    "qs:level":"locality",
+    "qs:loc":"Dugopolje",
+    "qs:loc_alt":"Dugopolje",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115bb1da-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3201011,
+        "gp:id":847624,
+        "qs:id":218874,
+        "qs_pg:id":218874,
+        "wd:id":"Q1021802",
+        "wk:page":"Dugopolje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ea78451c484cba4e2173812df881decb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101796889,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101796889,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642029,
+    "wof:name":"Dugopolje",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":2687,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.59197331656696,
+    43.57912605335974,
+    16.60951968154643,
+    43.58596970194372
+],
+  "geometry": {"coordinates":[[[16.59207540248002,43.5817153979857],[16.59576964513957,43.58147777629557],[16.59607609737219,43.58417293408229],[16.59484462970977,43.58425216032191],[16.59494677003175,43.58515054607119],[16.59617825650969,43.58507131841259],[16.59628041984439,43.58596970194372],[16.59751192213707,43.58589045811163],[16.59740973998595,43.58499207599999],[16.59864122046019,43.58491281883346],[16.59843683112166,43.58311605505105],[16.60213114163747,43.5828782035494],[16.60233564386346,43.58467495881149],[16.60603004022744,43.58443696600699],[16.60592773057084,43.5835385930381],[16.6083906088233,43.58337986024407],[16.60828826574334,43.5824814893183],[16.60951968154643,43.58240210221345],[16.60941732385822,43.58150373190944],[16.60818592686746,43.58158311759269],[16.60808359219556,43.580684745067],[16.60438943962095,43.58092280933749],[16.60418489575147,43.57912605335974],[16.59310261444227,43.57983942397937],[16.59320471497404,43.58073781514366],[16.59197331656696,43.58081700620238],[16.59207540248002,43.5817153979857]]],"type":"Polygon"}
+}

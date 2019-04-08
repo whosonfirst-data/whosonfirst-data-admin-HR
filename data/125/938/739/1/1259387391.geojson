@@ -1,0 +1,70 @@
+{
+  "id": 1259387391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54861,45.53639,15.54861,45.53639",
+    "geom:latitude":45.53639,
+    "geom:longitude":15.54861,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Donje Pokuplje",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201544,
+    "gn:latitude":45.53639,
+    "gn:longitude":15.54861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Donje Pokuplje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donje Pokupje",
+        "Donje Pokuplje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201544
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9b6b842d9c4692335a99859af9f95ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259387391,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1259387391,
+    "wof:lastmodified":1537625916,
+    "wof:name":"Donje Pokuplje",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54861,
+    45.53639,
+    15.54861,
+    45.53639
+],
+  "geometry": {"coordinates":[15.54861,45.53639],"type":"Point"}
+}

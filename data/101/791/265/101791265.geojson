@@ -1,0 +1,143 @@
+{
+  "id": 101791265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:area_square_m":1097335.89343,
+    "geom:bbox":"17.0260977174,46.0977822556,17.0449404507,46.1188190404",
+    "geom:latitude":46.107056,
+    "geom:longitude":17.03433,
+    "gn:population":1544,
+    "iso:country":"HR",
+    "lbl:latitude":46.107083,
+    "lbl:longitude":17.032117,
+    "mps:latitude":46.107083,
+    "mps:longitude":17.032117,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Molve"
+    ],
+    "name:dut_x_preferred":[
+        "Molve"
+    ],
+    "name:eng_x_preferred":[
+        "Molve"
+    ],
+    "name:fra_x_preferred":[
+        "Molve"
+    ],
+    "name:fre_x_preferred":[
+        "Molve"
+    ],
+    "name:hbs_x_preferred":[
+        "Molve"
+    ],
+    "name:hrv_x_preferred":[
+        "Molve"
+    ],
+    "name:hun_x_preferred":[
+        "Molna"
+    ],
+    "name:ita_x_preferred":[
+        "Molve"
+    ],
+    "name:nld_x_preferred":[
+        "Molve"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Molve"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Molve"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u0432\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Molve"
+    ],
+    "name:spa_x_preferred":[
+        "Molve"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043b\u0432\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Molve"
+    ],
+    "name:und_x_preferred":[
+        "Molve"
+    ],
+    "name:war_x_preferred":[
+        "Molve"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Koprivnicko-kri\u017eevacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Molve",
+    "qs:la_lc":"*HR0602704",
+    "qs:level":"locality",
+    "qs:loc":"Molve",
+    "qs:loc_alt":"Molve",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115c7340-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3194889,
+        "gp:id":849212,
+        "qs:id":255691,
+        "qs_pg:id":255691,
+        "wd:id":"Q954214",
+        "wk:page":"Molve"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ef122bd9da931b8f21aae5ad31c8a75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791265,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":101791265,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527641957,
+    "wof:name":"Molve",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":1544,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.02609771736871,
+    46.09778225555812,
+    17.0449404507425,
+    46.11881904035425
+],
+  "geometry": {"coordinates":[[[17.03230105754858,46.10968745156333],[17.04131299986221,46.10909162701171],[17.04154764843247,46.11088390158579],[17.04283509632512,46.11079871842713],[17.04271774839538,46.10990258311483],[17.04400517149787,46.10981738606847],[17.04365309466317,46.10712898097614],[17.0449404507425,46.10704377331581],[17.04458835602628,46.10435536703545],[17.03815185564827,46.10478122557788],[17.03826910993223,46.10567736985968],[17.03440710234315,46.105932703625],[17.03358687168389,46.0996596451136],[17.03487406342629,46.09957456081753],[17.03463971497752,46.09778225555812],[17.03335256545228,46.09786733658711],[17.03346971604708,46.098763491189],[17.03218254174925,46.09884855833133],[17.03229967627732,46.09974471388909],[17.02972527447338,46.09991480487872],[17.02995947420959,46.1017071204945],[17.02609771736871,46.10196215036672],[17.02644886475281,46.1046506334049],[17.02773618403648,46.10456563407251],[17.02797034971678,46.1063579494504],[17.02925770757014,46.10627293133058],[17.03089772766589,46.11881904035425],[17.03218537757522,46.11873398384381],[17.0320681793707,46.11783783922891],[17.03335580448424,46.11775276882594],[17.03230105754858,46.10968745156333]]],"type":"Polygon"}
+}

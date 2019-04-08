@@ -1,0 +1,65 @@
+{
+  "id": 1209185161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35472,45.24889,16.35472,45.24889",
+    "geom:latitude":45.24889,
+    "geom:longitude":16.35472,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"11049225.0",
+    "gn:asciiname":"Lovca",
+    "gn:country_code":"HR",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280690,
+    "gn:latitude":45.24889,
+    "gn:longitude":16.35472,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Lov\u010da",
+    "gn:population":19,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280690
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"02669c18158bffcd4cf524e610412b5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209185161
+        }
+    ],
+    "wof:id":1209185161,
+    "wof:lastmodified":1536295125,
+    "wof:name":"Lovca",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35472,
+    45.24889,
+    16.35472,
+    45.24889
+],
+  "geometry": {"coordinates":[16.35472,45.24889],"type":"Point"}
+}

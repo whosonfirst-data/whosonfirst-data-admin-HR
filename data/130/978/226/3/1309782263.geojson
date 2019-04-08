@@ -1,0 +1,71 @@
+{
+  "id": 1309782263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.76694,45.66472,17.76694,45.66472",
+    "geom:latitude":45.66472,
+    "geom:longitude":17.76694,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"11049465.0",
+    "gn:asciiname":"Nova Bukovica",
+    "gn:country_code":"HR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3194459,
+    "gn:latitude":45.66472,
+    "gn:longitude":17.76694,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Nova Bukovica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bukovica",
+        "Nova Bukovica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194459,
+        "wk:page":"Nova_Bukovica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"dcdb17e0429cd1b2901ac3fa09711647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309782263,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1309782263,
+    "wof:lastmodified":1537625857,
+    "wof:name":"Nova Bukovica",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.76693999999999,
+    45.66472,
+    17.76693999999999,
+    45.66472
+],
+  "geometry": {"coordinates":[17.76693999999999,45.66472],"type":"Point"}
+}

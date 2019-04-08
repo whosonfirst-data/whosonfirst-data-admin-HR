@@ -1,0 +1,118 @@
+{
+  "id": 101790181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":867841.750705,
+    "geom:bbox":"16.63090162,46.3868179185,16.6475118904,46.4028617474",
+    "geom:latitude":46.395053,
+    "geom:longitude":16.640143,
+    "gn:population":1317,
+    "iso:country":"HR",
+    "lbl:latitude":46.394277,
+    "lbl:longitude":16.640835,
+    "mps:latitude":46.394277,
+    "mps:longitude":16.640835,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Hodo\u0161an"
+    ],
+    "name:dut_x_preferred":[
+        "Hodo\u0161an"
+    ],
+    "name:eng_x_preferred":[
+        "Hodo\u0161an"
+    ],
+    "name:epo_x_preferred":[
+        "Hodo\u0161an"
+    ],
+    "name:fra_x_preferred":[
+        "Hodo\u0161an"
+    ],
+    "name:fre_x_preferred":[
+        "Hodo\u0161an"
+    ],
+    "name:hbs_x_preferred":[
+        "Hodo\u0161an"
+    ],
+    "name:hrv_x_preferred":[
+        "Hodo\u0161an"
+    ],
+    "name:hun_x_preferred":[
+        "Hodos\u00e1ny"
+    ],
+    "name:nld_x_preferred":[
+        "Hodo\u0161an"
+    ],
+    "name:slv_x_preferred":[
+        "Hodo\u0161an"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0434\u043e\u0448\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Hodo\u0161an"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Medimurska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Donji Kraljevec",
+    "qs:la_lc":"*HR2000825",
+    "qs:level":"locality",
+    "qs:loc":"Hodo\u0161an",
+    "qs:loc_alt":"Hodosan",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":139,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199360,
+        "gp:id":848094,
+        "qs:id":1275091,
+        "wd:id":"Q898858",
+        "wk:page":"Hodo\u0161an"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"27f59ca1173e8d56a7d87ebca3cae440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101790181,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":101790181,
+    "wof:lastmodified":1527641599,
+    "wof:name":"Hodo\u0161an",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":1317,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.63090162001424,
+    46.38681791853514,
+    16.64751189040982,
+    46.40286174735672
+],
+  "geometry": {"coordinates":[[[16.64081444771693,46.39773655784109],[16.64469886384984,46.39749527949158],[16.64481053521553,46.39839175732845],[16.64610535501123,46.39831129838905],[16.64621705267518,46.39920777402676],[16.64751189040982,46.39912729789609],[16.64706504294463,46.39554139773708],[16.64577029104782,46.39562186763254],[16.64543527061988,46.39293243111035],[16.64414057957094,46.39301288069953],[16.64358241617987,46.38853046589008],[16.64228782887585,46.38861089205983],[16.64206464025949,46.38681791853514],[16.64077009233745,46.38689832596128],[16.64088166277958,46.38779481460125],[16.63958708989054,46.3878752079554],[16.63969864371376,46.38877169751163],[16.63840404585676,46.38885207679351],[16.6387386719569,46.39154154628807],[16.63614933697585,46.39170226730113],[16.63659540109802,46.39528823011278],[16.63530064250648,46.39536857339823],[16.63574669807724,46.39895453219248],[16.63445185012716,46.39903486607051],[16.63456335463337,46.39993135572547],[16.63197360525896,46.40009197969403],[16.63219654290441,46.40188496330819],[16.63090162001424,46.40196525495338],[16.63101307461409,46.40286174735672],[16.63360295981124,46.40270114532086],[16.63349146227898,46.40180465602901],[16.63478637813705,46.40172433311585],[16.63467486396991,46.4008278447406],[16.63726464220571,46.40066715512575],[16.63715308994171,46.3997706692237],[16.64103766651931,46.39952952222251],[16.64081444771693,46.39773655784109]]],"type":"Polygon"}
+}

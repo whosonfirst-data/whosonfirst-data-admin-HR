@@ -1,0 +1,70 @@
+{
+  "id": 1260197265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.81556,45.65278,16.81556,45.65278",
+    "geom:latitude":45.65278,
+    "geom:longitude":16.81556,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049398.0",
+    "gn:asciiname":"Gornja Garesnica",
+    "gn:country_code":"HR",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200262,
+    "gn:latitude":45.65278,
+    "gn:longitude":16.81556,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Gornja Gare\u0161nica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornja Gare\u0161nica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200262,
+        "wk:page":"Gornja_Gare%C5%A1nica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2e3871201c39a797837b24ae443b8083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260197265,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1260197265,
+    "wof:lastmodified":1537625904,
+    "wof:name":"Gornja Garesnica",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.81556,
+    45.65278,
+    16.81556,
+    45.65278
+],
+  "geometry": {"coordinates":[16.81556,45.65278],"type":"Point"}
+}

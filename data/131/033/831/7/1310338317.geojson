@@ -1,0 +1,73 @@
+{
+  "id": 1310338317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.64389,45.20417,13.64389,45.20417",
+    "geom:latitude":45.20417,
+    "geom:longitude":13.64389,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Valkarin",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188399,
+    "gn:latitude":45.20417,
+    "gn:longitude":13.64389,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Valkarin",
+    "gn:population":44,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valcarino",
+        "Valkarin"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188399
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a432ddf73db87f7ac54eeb18f8e79afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310338317,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1310338317,
+    "wof:lastmodified":1537625815,
+    "wof:name":"Valkarin",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":44,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.64389,
+    45.20417,
+    13.64389,
+    45.20417
+],
+  "geometry": {"coordinates":[13.64389,45.20417],"type":"Point"}
+}

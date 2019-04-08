@@ -1,0 +1,67 @@
+{
+  "id": 1310309093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85139,45.98833,16.85139,45.98833",
+    "geom:latitude":45.98833,
+    "geom:longitude":16.85139,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049413.0",
+    "gn:asciiname":"Kapela",
+    "gn:country_code":"HR",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3198321,
+    "gn:latitude":45.98833,
+    "gn:longitude":16.85139,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Kapela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198321,
+        "wk:page":"Kapela"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3dcbcaf54a5260d48a59bb526dde9307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310309093,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1310309093,
+    "wof:lastmodified":1537563297,
+    "wof:name":"Kapela",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85139,
+    45.98833,
+    16.85139,
+    45.98833
+],
+  "geometry": {"coordinates":[16.85139,45.98833],"type":"Point"}
+}

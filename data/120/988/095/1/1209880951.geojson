@@ -1,0 +1,75 @@
+{
+  "id": 1209880951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38917,45.74,15.38917,45.74",
+    "geom:latitude":45.74,
+    "geom:longitude":15.38917,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11049006.0",
+    "gn:asciiname":"Restovo Zumberacko",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191707,
+    "gn:latitude":45.74,
+    "gn:longitude":15.38917,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Re\u0161tovo \u017dumbera\u010dko",
+    "gn:population":14,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dumbera\u010dko Re\u0161tovo",
+        "Re\u0161tovo",
+        "Re\u0161tovo \u017dumbera\u010dko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191707
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"718846ef06973c6c60e09f55329b0353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209880951,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1209880951,
+    "wof:lastmodified":1537625839,
+    "wof:name":"Restovo Zumberacko",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":14,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38917,
+    45.74,
+    15.38917,
+    45.74
+],
+  "geometry": {"coordinates":[15.38917,45.74],"type":"Point"}
+}

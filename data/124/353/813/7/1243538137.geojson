@@ -1,0 +1,73 @@
+{
+  "id": 1243538137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01667,45.45,16.01667,45.45",
+    "geom:latitude":45.45,
+    "geom:longitude":16.01667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"3200597.0",
+    "gn:asciiname":"Donje Taboriste",
+    "gn:country_code":"HR",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201527,
+    "gn:latitude":45.45,
+    "gn:longitude":16.01667,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Donje Tabori\u0161te",
+    "gn:population":40,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donje Tabori\u0161te"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201527,
+        "wk:page":"Donje_Tabori%C5%A1te"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8406628fdadcb7597d83a87d316d92b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243538137,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1243538137,
+    "wof:lastmodified":1537625916,
+    "wof:name":"Donje Taboriste",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01667,
+    45.45,
+    16.01667,
+    45.45
+],
+  "geometry": {"coordinates":[16.01667,45.45],"type":"Point"}
+}

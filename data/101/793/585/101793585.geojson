@@ -1,0 +1,96 @@
+{
+  "id": 101793585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":538783.775436,
+    "geom:bbox":"18.4619060178,45.4013260013,18.480224591,45.4099647159",
+    "geom:latitude":45.405319,
+    "geom:longitude":18.468658,
+    "iso:country":"HR",
+    "lbl:latitude":45.405943,
+    "lbl:longitude":18.469283,
+    "mps:latitude":45.405943,
+    "mps:longitude":18.469283,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "\u0160iroko Polje"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160iroko Polje"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160iroko Polje"
+    ],
+    "name:hbs_x_preferred":[
+        "\u0160iroko Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160iroko Polje"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160iroko Polje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0438\u0440\u043e\u043a\u043e \u041f\u043e\u0459\u0435"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"\u0110akovo",
+    "qs:la_lc":"*HR1401031",
+    "qs:level":"locality",
+    "qs:loc":"\u0160iroko Polje",
+    "qs:loc_alt":"Siroko Polje",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190819,
+        "gp:id":850231,
+        "qs:id":255711,
+        "wd:id":"Q3511064",
+        "wk:page":"\u0160iroko Polje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c0c07a0b4e07141e10b5e679037da694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793585,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101793585,
+    "wof:lastmodified":1527689281,
+    "wof:name":"\u0160iroko Polje",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46190601782024,
+    45.40132600125878,
+    18.48022459104351,
+    45.40996471594303
+],
+  "geometry": {"coordinates":[[[18.47076351126879,45.4098625056285],[18.47048708635793,45.40807347653845],[18.47175617418583,45.40797125482061],[18.47161795027154,45.40707674100059],[18.47288701361856,45.40697450595883],[18.47261054287611,45.40518547976893],[18.48022459104351,45.4045717724498],[18.48008624302179,45.40367726969066],[18.47501030882438,45.40408646118965],[18.47487204761671,45.40319194994322],[18.4723340955602,45.40339645038824],[18.47219588068634,45.40250193450129],[18.4709269185405,45.4026041599376],[18.4710651131756,45.40349867774535],[18.46598914127537,45.40390743473699],[18.46571291976983,45.40211838296233],[18.46444395668641,45.4022205302615],[18.46430587494871,45.40132600125878],[18.46303692787029,45.40142813139551],[18.46317498936975,45.4023226623172],[18.46190601782024,45.40242477912943],[18.46259631185779,45.40689743137602],[18.46386538461365,45.4067953049688],[18.46400348121432,45.40768983110786],[18.46654165451037,45.40748552871878],[18.46667979745104,45.40838005022135],[18.4679488979898,45.40827787423916],[18.4680870670287,45.40917239302411],[18.46935618357566,45.40907019987577],[18.46949437871416,45.40996471594303],[18.47076351126879,45.4098625056285]]],"type":"Polygon"}
+}

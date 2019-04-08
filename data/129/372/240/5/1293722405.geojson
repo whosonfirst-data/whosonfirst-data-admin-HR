@@ -1,0 +1,71 @@
+{
+  "id": 1293722405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81639,45.15139,13.81639,45.15139",
+    "geom:latitude":45.15139,
+    "geom:longitude":13.81639,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"11054801.0",
+    "gn:asciiname":"Barat",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204502,
+    "gn:latitude":45.15139,
+    "gn:longitude":13.81639,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Barat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baratto",
+        "Barat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204502
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c3498bade7315a628af46fc26d5aac9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293722405,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1293722405,
+    "wof:lastmodified":1537625937,
+    "wof:name":"Barat",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81639,
+    45.15139,
+    13.81639,
+    45.15139
+],
+  "geometry": {"coordinates":[13.81639,45.15139],"type":"Point"}
+}

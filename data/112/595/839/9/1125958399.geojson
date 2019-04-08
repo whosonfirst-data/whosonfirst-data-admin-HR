@@ -1,0 +1,108 @@
+{
+  "id": 1125958399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88611,45.10806,17.88611,45.10806",
+    "geom:latitude":45.10806,
+    "geom:longitude":17.88611,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":828,
+    "gn:population":808,
+    "iso:country":"HR",
+    "lbl:latitude":45.10806,
+    "lbl:longitude":17.88611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Kani\u017ea"
+    ],
+    "name:dut_x_preferred":[
+        "Kani\u017ea"
+    ],
+    "name:eng_x_preferred":[
+        "Kani\u017ea"
+    ],
+    "name:hrv_x_preferred":[
+        "Kani\u017ea"
+    ],
+    "name:slv_x_preferred":[
+        "Kani\u017ea"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043d\u0438\u0436\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0456\u0436\u0430"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3198344,
+    "qs_pg:gn_pop":828,
+    "qs_pg:name":"Kani\u017ea",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Brodsko-Posavska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":407084,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":848333,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Brodsko-Posavska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198344,
+        "gp:id":848333,
+        "qs_pg:id":407084,
+        "wd:id":"Q3510497"
+    },
+    "wof:country":"HR",
+    "wof:created":1497297700,
+    "wof:geomhash":"5e7e7b837924ec7f0f63b4ddb7395a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125958399,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1125958399,
+    "wof:lastmodified":1514447472,
+    "wof:name":"Kani\u017ea",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":808,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88611,
+    45.10806,
+    17.88611,
+    45.10806
+],
+  "geometry": {"coordinates":[17.88611,45.10806],"type":"Point"}
+}

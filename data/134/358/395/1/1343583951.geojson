@@ -1,0 +1,65 @@
+{
+  "id": 1343583951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71028,45.1375,15.71028,45.1375",
+    "geom:latitude":45.1375,
+    "geom:longitude":15.71028,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bogovici",
+    "gn:country_code":"HR",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280989,
+    "gn:latitude":45.1375,
+    "gn:longitude":15.71028,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Bogovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280989
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"56152a79bfba63afb54ae52bfc2b8c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343583951,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1343583951,
+    "wof:lastmodified":1537062798,
+    "wof:name":"Bogovici",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71028,
+    45.1375,
+    15.71028,
+    45.1375
+],
+  "geometry": {"coordinates":[15.71028,45.1375],"type":"Point"}
+}

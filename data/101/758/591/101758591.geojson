@@ -1,0 +1,83 @@
+{
+  "id": 101758591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:area_square_m":1051906.068958,
+    "geom:bbox":"14.3301911395,45.3513544398,14.3476336972,45.3709953749",
+    "geom:latitude":45.361613,
+    "geom:longitude":14.339649,
+    "gn:population":1730,
+    "iso:country":"HR",
+    "lbl:latitude":45.36186,
+    "lbl:longitude":14.340976,
+    "mps:latitude":45.36186,
+    "mps:longitude":14.340976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Primorsko-goranska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Matulji",
+    "qs:la_lc":"*HR0802615",
+    "qs:level":"locality",
+    "qs:loc":"Rube\u0161i",
+    "qs:loc_alt":"Rubesi",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":45.383333,
+    "wd:longitude":14.35,
+    "wd:wordcount":467,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191490,
+        "gp:id":850055,
+        "qs:id":1043949,
+        "qs_pg:id":1043949,
+        "wd:id":"Q399425"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0f1034a9d64d31275faa608336fb3f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101758591,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":101758591,
+    "wof:lastmodified":1527689309,
+    "wof:name":"Rube\u0161i",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":1730,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33019113952366,
+    45.35135443975332,
+    14.34763369717007,
+    45.37099537493981
+],
+  "geometry": {"coordinates":[[[14.34222833260594,45.37089970846171],[14.34763369717007,45.3659101411717],[14.34592621078275,45.36505639797804],[14.34434678587456,45.36137107319229],[14.34375295501508,45.35820397527448],[14.34044278386722,45.35834042118734],[14.34030122731355,45.35654154902909],[14.33775606549568,45.35664635246883],[14.33761460350371,45.35484747392951],[14.33634206058628,45.35489985064885],[14.33612995204948,45.35220152532247],[14.33485746883662,45.35225388373055],[14.33478679263271,45.35135443975332],[14.33351432787003,45.35140678182552],[14.3335849834483,45.35230622678949],[14.33231249588459,45.35235855449895],[14.33273636872082,45.35775521744802],[14.33019113952366,45.35785983865219],[14.33022459025898,45.35828591196588],[14.3315619160046,45.35905744604997],[14.33153439057219,45.35870697841193],[14.33662491408921,45.35849760924816],[14.33683708581293,45.3611959218228],[14.33665887575592,45.36120325151819],[14.33829232372659,45.36400344803928],[14.33990584531898,45.37099537493981],[14.34222833260594,45.37089970846171]]],"type":"Polygon"}
+}

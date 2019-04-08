@@ -1,0 +1,61 @@
+{
+  "id": 1209686713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23889,45.04528,16.23889,45.04528",
+    "geom:latitude":45.04528,
+    "geom:longitude":16.23889,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gornja Socanica",
+    "gn:country_code":"HR",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280454,
+    "gn:latitude":45.04528,
+    "gn:longitude":16.23889,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Gornja So\u010danica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280454
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d3e8e49c5588729f2dd8fa1222a0f299",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209686713
+        }
+    ],
+    "wof:id":1209686713,
+    "wof:lastmodified":1536279385,
+    "wof:name":"Gornja Socanica",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.238889999999998,
+    45.04528,
+    16.238889999999998,
+    45.04528
+],
+  "geometry": {"coordinates":[16.23889,45.04528],"type":"Point"}
+}

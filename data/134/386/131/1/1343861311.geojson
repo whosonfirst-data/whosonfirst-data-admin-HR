@@ -1,0 +1,73 @@
+{
+  "id": 1343861311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80222,45.20472,17.80222,45.20472",
+    "geom:latitude":45.20472,
+    "geom:longitude":17.80222,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049481.0",
+    "gn:asciiname":"Lovcic",
+    "gn:country_code":"HR",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196183,
+    "gn:latitude":45.20472,
+    "gn:longitude":17.80222,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Lov\u010di\u0107",
+    "gn:population":63,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lov\u010di\u0107"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196183,
+        "wk:page":"Lov%C4%8Di%C4%87"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0e87895e3523567830486dd4d93bdacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343861311,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1343861311,
+    "wof:lastmodified":1537625871,
+    "wof:name":"Lovcic",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":63,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80222000000001,
+    45.20472,
+    17.80222000000001,
+    45.20472
+],
+  "geometry": {"coordinates":[17.80222000000001,45.20472],"type":"Point"}
+}

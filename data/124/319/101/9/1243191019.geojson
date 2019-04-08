@@ -1,0 +1,78 @@
+{
+  "id": 1243191019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71877,46.04881,15.71877,46.04881",
+    "geom:latitude":46.04881,
+    "geom:longitude":15.71877,
+    "gn:asciiname":"Gabrk",
+    "gn:country_code":"HR",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794154,
+    "gn:latitude":46.04881,
+    "gn:longitude":15.71877,
+    "gn:modification_date":"2015-10-03",
+    "gn:name":"Gabrk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Ljubljana",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_historical":[
+        "Gaisberg"
+    ],
+    "name:deu_x_preferred":[
+        "Gaisberg"
+    ],
+    "name:slv_x_historical":[
+        "Gaberk"
+    ],
+    "name:slv_x_preferred":[
+        "Gaberk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        1108959585,
+        85633779,
+        1108959965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794154
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d6ed8dcd6c9f4e59bff447145af28086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959585,
+            "locality_id":1243191019,
+            "region_id":1108959965
+        }
+    ],
+    "wof:id":1243191019,
+    "wof:lastmodified":1537625967,
+    "wof:name":"Gabrk",
+    "wof:parent_id":1108959585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71877,
+    46.04881,
+    15.71877,
+    46.04881
+],
+  "geometry": {"coordinates":[15.71877,46.04881],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259672673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.36611,45.75861,18.36611,45.75861",
+    "geom:latitude":45.75861,
+    "geom:longitude":18.36611,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054474.0",
+    "gn:asciiname":"Torjanci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188963,
+    "gn:latitude":45.75861,
+    "gn:longitude":18.36611,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Torjanci",
+    "gn:population":267,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torjanc",
+        "Torjanci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188963,
+        "wk:page":"Torjanci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a1a07feac5adf9196f288d608ae91fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259672673,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1259672673,
+    "wof:lastmodified":1537625819,
+    "wof:name":"Torjanci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":267,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.36611,
+    45.75861,
+    18.36611,
+    45.75861
+],
+  "geometry": {"coordinates":[18.36611,45.75861],"type":"Point"}
+}

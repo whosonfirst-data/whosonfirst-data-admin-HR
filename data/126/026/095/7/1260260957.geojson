@@ -1,0 +1,75 @@
+{
+  "id": 1260260957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17083,45.47889,17.17083,45.47889",
+    "geom:latitude":45.47889,
+    "geom:longitude":17.17083,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"3193705.0",
+    "gn:asciiname":"Gornja Obrijez",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200217,
+    "gn:latitude":45.47889,
+    "gn:longitude":17.17083,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Gornja Obrije\u017e",
+    "gn:population":81,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornja Obrie\u017e",
+        "Gornja Obrije\u017e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200217,
+        "wk:page":"Gornja_Obrije%C5%BE"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fec2b525a7c3534b24bdc6d16236efb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260260957,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1260260957,
+    "wof:lastmodified":1537625904,
+    "wof:name":"Gornja Obrijez",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":81,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17083,
+    45.47889,
+    17.17083,
+    45.47889
+],
+  "geometry": {"coordinates":[17.17083,45.47889],"type":"Point"}
+}

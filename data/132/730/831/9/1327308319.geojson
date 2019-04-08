@@ -1,0 +1,73 @@
+{
+  "id": 1327308319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.43333,45.76667,16.43333,45.76667",
+    "geom:latitude":45.76667,
+    "geom:longitude":16.43333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11048989.0",
+    "gn:asciiname":"Krisci",
+    "gn:country_code":"HR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197281,
+    "gn:latitude":45.76667,
+    "gn:longitude":16.43333,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Kri\u0161ci",
+    "gn:population":211,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kri\u017eci",
+        "Kri\u0161ci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197281
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1991e9278eb1da8828a08bb7d85a345c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327308319,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1327308319,
+    "wof:lastmodified":1537625880,
+    "wof:name":"Krisci",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":211,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.43333,
+    45.76667,
+    16.43333,
+    45.76667
+],
+  "geometry": {"coordinates":[16.43333,45.76667],"type":"Point"}
+}

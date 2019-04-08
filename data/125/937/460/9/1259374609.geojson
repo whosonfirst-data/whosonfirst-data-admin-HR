@@ -1,0 +1,74 @@
+{
+  "id": 1259374609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.84838,46.14523,15.84838,46.14523",
+    "geom:latitude":46.14523,
+    "geom:longitude":15.84838,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"3197366.0",
+    "gn:asciiname":"Pretkovec",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192486,
+    "gn:latitude":46.14523,
+    "gn:longitude":15.84838,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Pretkovec",
+    "gn:population":66,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pretkovek",
+        "Pretkovec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192486
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6a17b6db9db50ace68557956da1edcba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259374609,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1259374609,
+    "wof:lastmodified":1537625843,
+    "wof:name":"Pretkovec",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.84838,
+    46.14523,
+    15.84838,
+    46.14523
+],
+  "geometry": {"coordinates":[15.84838,46.14523],"type":"Point"}
+}

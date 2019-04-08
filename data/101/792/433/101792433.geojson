@@ -1,0 +1,147 @@
+{
+  "id": 101792433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:area_square_m":867976.463273,
+    "geom:bbox":"18.0562008763,45.7367812874,18.0668512905,45.7624235387",
+    "geom:latitude":45.750394,
+    "geom:longitude":18.062116,
+    "gn:population":1347,
+    "iso:country":"HR",
+    "lbl:latitude":45.752895,
+    "lbl:longitude":18.06026,
+    "mps:latitude":45.752895,
+    "mps:longitude":18.06026,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Viljevo"
+    ],
+    "name:dut_x_preferred":[
+        "Viljevo"
+    ],
+    "name:eng_x_preferred":[
+        "Viljevo"
+    ],
+    "name:fra_x_preferred":[
+        "Viljevo"
+    ],
+    "name:fre_x_preferred":[
+        "Viljevo"
+    ],
+    "name:hbs_x_preferred":[
+        "Viljevo"
+    ],
+    "name:hrv_x_preferred":[
+        "Viljevo"
+    ],
+    "name:hun_x_preferred":[
+        "Villy\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Viljevo"
+    ],
+    "name:nld_x_preferred":[
+        "Viljevo"
+    ],
+    "name:pol_x_preferred":[
+        "Viljevo"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Viljevo"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Viljevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u0435\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Viljevo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0459\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Viljevo"
+    ],
+    "name:und_x_preferred":[
+        "Viljevo"
+    ],
+    "name:unk_x_variant":[
+        "Vilyevo"
+    ],
+    "name:war_x_preferred":[
+        "Viljevo"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Viljevo",
+    "qs:la_lc":"*HR1404855",
+    "qs:level":"locality",
+    "qs:loc":"Viljevo",
+    "qs:loc_alt":"Viljevo",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115d50da-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3187750,
+        "gp:id":850937,
+        "qs:id":255719,
+        "qs_pg:id":255719,
+        "wd:id":"Q428904",
+        "wk:page":"Viljevo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d21949f71f76ee6bbef7fbb207c5452f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101792433,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101792433,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527714639,
+    "wof:name":"Viljevo",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":1347,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05620087630672,
+    45.7367812873506,
+    18.06685129047332,
+    45.76242353865848
+],
+  "geometry": {"coordinates":[[[18.06285590683376,45.76232614169476],[18.06259003580419,45.7605363114518],[18.06131221213298,45.7606337047161],[18.06091351006484,45.75794894815073],[18.06219127181862,45.75785156043491],[18.06192545753004,45.75606172265486],[18.06320317389617,45.75596432326586],[18.06280443310465,45.75327956648971],[18.06408208345357,45.75318215727782],[18.0638162433587,45.75139231935583],[18.06509384832918,45.75129489847257],[18.06482798966607,45.74950506123292],[18.06610554926215,45.74940762867914],[18.06557381750008,45.74582795254531],[18.06685129047332,45.74573051202174],[18.06552215188924,45.7367812873506],[18.06424488512721,45.73687870938102],[18.06490928042757,45.74135334039858],[18.06363190645851,45.74145075630747],[18.06376478190816,45.74234568209556],[18.06248738320545,45.74244308448641],[18.06262024370261,45.74333801136868],[18.06134282026534,45.7434354002404],[18.06174137390241,45.74612018190567],[18.06046388447896,45.74621756095519],[18.06072957399846,45.74800741532408],[18.05945203920919,45.74810478270172],[18.05971771014902,45.7498946377508],[18.05844012998983,45.74999199345564],[18.05857295333328,45.75088692169754],[18.05729534843175,45.75098426388035],[18.05795944702407,45.75545890302317],[18.05923715509351,45.75536155159847],[18.05976861857442,45.75894124195202],[18.05849082795459,45.75903860077153],[18.05875655244643,45.76082844512462],[18.05620087630672,45.76102312403901],[18.05633370577681,45.76191804878272],[18.06144512416904,45.76152862206396],[18.06157804187944,45.76242353865848],[18.06285590683376,45.76232614169476]]],"type":"Polygon"}
+}

@@ -1,0 +1,162 @@
+{
+  "id": 101795807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":409121.186601,
+    "geom:bbox":"13.9514431929,44.9520942406,13.959599424,44.9601463171",
+    "geom:latitude":44.955799,
+    "geom:longitude":13.955447,
+    "gn:population":1020,
+    "iso:country":"HR",
+    "lbl:latitude":44.955786,
+    "lbl:longitude":13.954709,
+    "mps:latitude":44.955786,
+    "mps:longitude":13.954709,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Mar\u010dana"
+    ],
+    "name:deu_x_preferred":[
+        "Mar\u010dana"
+    ],
+    "name:dut_x_preferred":[
+        "Mar\u010dana"
+    ],
+    "name:eng_x_preferred":[
+        "Marzana D'istria"
+    ],
+    "name:eng_x_variant":[
+        "Marzana",
+        "Mar\u010dana"
+    ],
+    "name:fra_x_preferred":[
+        "Mar\u010dana"
+    ],
+    "name:fre_x_preferred":[
+        "Mar\u010dana"
+    ],
+    "name:ger_x_preferred":[
+        "Mar\u010dana"
+    ],
+    "name:hrv_x_preferred":[
+        "Mar\u010dana"
+    ],
+    "name:hun_x_preferred":[
+        "Mar\u010dana"
+    ],
+    "name:ita_x_preferred":[
+        "Marzana"
+    ],
+    "name:lat_x_preferred":[
+        "Marzana"
+    ],
+    "name:nld_x_preferred":[
+        "Mar\u010dana"
+    ],
+    "name:pol_x_preferred":[
+        "Mar\u010dana"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Mar\u010dana"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Mar\u010dana"
+    ],
+    "name:slv_x_preferred":[
+        "Mar\u010dana"
+    ],
+    "name:spa_x_preferred":[
+        "Mar\u010dana"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0447\u0430\u043d\u0430"
+    ],
+    "name:srp_x_variant":[
+        "Mar\u010dana"
+    ],
+    "name:swe_x_preferred":[
+        "Mar\u010dana"
+    ],
+    "name:und_x_colloquial":[
+        "Marcana"
+    ],
+    "name:und_x_preferred":[
+        "Mar\u010dana"
+    ],
+    "name:unk_x_variant":[
+        "Marzana d\u2019Istria"
+    ],
+    "name:war_x_preferred":[
+        "Mar\u010dana"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Istarska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Mar\u010dana",
+    "qs:la_lc":"*HR1802542",
+    "qs:level":"locality",
+    "qs:loc":"Mar\u010dana",
+    "qs:loc_alt":"Marcana",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":235,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115c5fae-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3195515,
+        "gp:id":849054,
+        "qs:id":184707,
+        "qs_pg:id":184707,
+        "wd:id":"Q941197",
+        "wk:page":"Mar\u010dana"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"10d516bcfdabc3b844012a6b400433c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101795807,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":101795807,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527714611,
+    "wof:name":"Mar\u010dana",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":1020,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95144319290159,
+    44.95209424058726,
+    13.95959942398571,
+    44.96014631713359
+],
+  "geometry": {"coordinates":[[[13.95959942398571,44.96009855630297],[13.95915268123838,44.95379871144132],[13.95662531733905,44.95389420540482],[13.95649778188329,44.95209424058726],[13.95144319290159,44.95228503864001],[13.95188904658659,44.95858492955489],[13.9569442031198,44.95839410659607],[13.95700798835855,44.95929408497426],[13.95827179290472,44.95924634026562],[13.9583356011118,44.96014631713359],[13.95959942398571,44.96009855630297]]],"type":"Polygon"}
+}

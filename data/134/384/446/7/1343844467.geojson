@@ -1,0 +1,65 @@
+{
+  "id": 1343844467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93417,44.05306,15.93417,44.05306",
+    "geom:latitude":44.05306,
+    "geom:longitude":15.93417,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Cuk",
+    "gn:country_code":"HR",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214982,
+    "gn:latitude":44.05306,
+    "gn:longitude":15.93417,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"\u0106uk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214982
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ac8099d3c2eb10083adf4269877fd10e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343844467,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1343844467,
+    "wof:lastmodified":1536689815,
+    "wof:name":"Cuk",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93417,
+    44.05306,
+    15.93417,
+    44.05306
+],
+  "geometry": {"coordinates":[15.93417,44.05306],"type":"Point"}
+}

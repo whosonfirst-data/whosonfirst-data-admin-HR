@@ -1,0 +1,65 @@
+{
+  "id": 1343544131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61611,43.72139,16.61611,43.72139",
+    "geom:latitude":43.72139,
+    "geom:longitude":16.61611,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sladoje",
+    "gn:country_code":"HR",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280851,
+    "gn:latitude":43.72139,
+    "gn:longitude":16.61611,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Sladoje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280851
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"306313049ea18d5eabd1325dcf888a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343544131,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1343544131,
+    "wof:lastmodified":1536623545,
+    "wof:name":"Sladoje",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61611,
+    43.72139,
+    16.61611,
+    43.72139
+],
+  "geometry": {"coordinates":[16.61611,43.72139],"type":"Point"}
+}

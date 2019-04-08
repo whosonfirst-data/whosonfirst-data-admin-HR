@@ -1,0 +1,73 @@
+{
+  "id": 1309786945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.27278,45.47111,17.27278,45.47111",
+    "geom:latitude":45.47111,
+    "geom:longitude":17.27278,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"3193705.0",
+    "gn:asciiname":"Dragovic",
+    "gn:country_code":"HR",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201278,
+    "gn:latitude":45.47111,
+    "gn:longitude":17.27278,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Dragovi\u0107",
+    "gn:population":64,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dragovi\u0107"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201278,
+        "wk:page":"Dragovi%C4%87%2C_Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5341b853594645000f05fc87e62bd7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309786945,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1309786945,
+    "wof:lastmodified":1537625912,
+    "wof:name":"Dragovic",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":64,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.27277999999999,
+    45.47111,
+    17.27277999999999,
+    45.47111
+],
+  "geometry": {"coordinates":[17.27277999999999,45.47111],"type":"Point"}
+}

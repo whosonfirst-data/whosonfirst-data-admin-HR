@@ -1,0 +1,70 @@
+{
+  "id": 1310604319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.16556,45.24889,17.16556,45.24889",
+    "geom:latitude":45.24889,
+    "geom:longitude":17.16556,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049499.0",
+    "gn:asciiname":"Vrbovljani",
+    "gn:country_code":"HR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187261,
+    "gn:latitude":45.24889,
+    "gn:longitude":17.16556,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Vrbovljani",
+    "gn:population":230,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187261,
+        "wk:page":"Vrbovljani"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e1737763b1ca3951b6158cb85dd0a4e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310604319,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1310604319,
+    "wof:lastmodified":1537563274,
+    "wof:name":"Vrbovljani",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":230,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16556,
+    45.24889,
+    17.16556,
+    45.24889
+],
+  "geometry": {"coordinates":[17.16556,45.24889],"type":"Point"}
+}

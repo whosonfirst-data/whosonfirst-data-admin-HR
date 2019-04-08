@@ -1,0 +1,70 @@
+{
+  "id": 1193027443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.42694,43.06694,17.42694,43.06694",
+    "geom:latitude":43.06694,
+    "geom:longitude":17.42694,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sipak",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214456,
+    "gn:latitude":43.06694,
+    "gn:longitude":17.42694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0160ipak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sivak",
+        "\u0160ipak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214456
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bc388e9cfe35e9f5e98ce8e75a3f151e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193027443,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1193027443,
+    "wof:lastmodified":1537625946,
+    "wof:name":"Sipak",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42694,
+    43.06694,
+    17.42694,
+    43.06694
+],
+  "geometry": {"coordinates":[17.42694,43.06694],"type":"Point"}
+}

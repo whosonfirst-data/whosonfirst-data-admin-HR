@@ -1,0 +1,65 @@
+{
+  "id": 1276209323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.21389,43.46167,17.21389,43.46167",
+    "geom:latitude":43.46167,
+    "geom:longitude":17.21389,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Vrdol",
+    "gn:country_code":"HR",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282231,
+    "gn:latitude":43.46167,
+    "gn:longitude":17.21389,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Vrdol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282231
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"592ba506722e398a4da7fe6f4d8cb8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276209323,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1276209323,
+    "wof:lastmodified":1536945707,
+    "wof:name":"Vrdol",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.21389,
+    43.46167,
+    17.21389,
+    43.46167
+],
+  "geometry": {"coordinates":[17.21389,43.46167],"type":"Point"}
+}

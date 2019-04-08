@@ -1,0 +1,74 @@
+{
+  "id": 1310398165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.77667,46.07583,16.77667,46.07583",
+    "geom:latitude":46.07583,
+    "geom:longitude":16.77667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"11049391.0",
+    "gn:asciiname":"Pescenik",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193468,
+    "gn:latitude":46.07583,
+    "gn:longitude":16.77667,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Pe\u0161\u010denik",
+    "gn:population":79,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pe\u0161\u0107enik",
+        "Pe\u0161\u010denik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193468
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8896af78bd328d7b2d1c114d5c287d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310398165,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1310398165,
+    "wof:lastmodified":1537625850,
+    "wof:name":"Pescenik",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":79,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.77667000000001,
+    46.07583,
+    16.77667000000001,
+    46.07583
+],
+  "geometry": {"coordinates":[16.77667000000001,46.07583],"type":"Point"}
+}

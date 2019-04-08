@@ -1,0 +1,66 @@
+{
+  "id": 1293681683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.44083,46.125,16.44083,46.125",
+    "geom:latitude":46.125,
+    "geom:longitude":16.44083,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"11049372.0",
+    "gn:asciiname":"Obrez",
+    "gn:country_code":"HR",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215848,
+    "gn:latitude":46.125,
+    "gn:longitude":16.44083,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Obre\u017e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215848
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"392b6e7b05ed14e4d083c0ea944e7fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293681683,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1293681683,
+    "wof:lastmodified":1537003654,
+    "wof:name":"Obrez",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.44083,
+    46.125,
+    16.44083,
+    46.125
+],
+  "geometry": {"coordinates":[16.44083,46.125],"type":"Point"}
+}

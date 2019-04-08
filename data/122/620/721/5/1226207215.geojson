@@ -1,0 +1,66 @@
+{
+  "id": 1226207215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4,45.71667,15.4,45.71667",
+    "geom:latitude":45.71667,
+    "geom:longitude":15.4,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11049006.0",
+    "gn:asciiname":"Visoce",
+    "gn:country_code":"HR",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187638,
+    "gn:latitude":45.71667,
+    "gn:longitude":15.4,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Viso\u010de",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187638
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2f96089e77f66f9f60cdc6daaee9b544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226207215,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1226207215,
+    "wof:lastmodified":1536988457,
+    "wof:name":"Visoce",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4,
+    45.71667,
+    15.4,
+    45.71667
+],
+  "geometry": {"coordinates":[15.4,45.71667],"type":"Point"}
+}

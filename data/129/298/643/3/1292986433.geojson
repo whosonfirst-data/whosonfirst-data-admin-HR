@@ -1,0 +1,66 @@
+{
+  "id": 1292986433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1275,44.48944,15.1275,44.48944",
+    "geom:latitude":44.48944,
+    "geom:longitude":15.1275,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049287.0",
+    "gn:asciiname":"Mazurani",
+    "gn:country_code":"HR",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217090,
+    "gn:latitude":44.48944,
+    "gn:longitude":15.1275,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Ma\u017eurani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217090
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1fd5c64ff83e10cde7d910c83f09ddeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1292986433,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1292986433,
+    "wof:lastmodified":1537011656,
+    "wof:name":"Mazurani",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1275,
+    44.48944,
+    15.1275,
+    44.48944
+],
+  "geometry": {"coordinates":[15.1275,44.48944],"type":"Point"}
+}

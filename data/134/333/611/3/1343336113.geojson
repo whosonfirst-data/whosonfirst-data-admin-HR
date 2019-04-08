@@ -1,0 +1,71 @@
+{
+  "id": 1343336113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3725,45.89889,16.3725,45.89889",
+    "geom:latitude":45.89889,
+    "geom:longitude":16.3725,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"3187264.0",
+    "gn:asciiname":"Gaj Vrbovecki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200748,
+    "gn:latitude":45.89889,
+    "gn:longitude":16.3725,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Gaj Vrbove\u010dki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaj",
+        "Gaj Vrbove\u010dki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200748
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0132881d8f2cf64e075d785e110e87b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343336113,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1343336113,
+    "wof:lastmodified":1537625907,
+    "wof:name":"Gaj Vrbovecki",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3725,
+    45.89889,
+    16.3725,
+    45.89889
+],
+  "geometry": {"coordinates":[16.3725,45.89889],"type":"Point"}
+}

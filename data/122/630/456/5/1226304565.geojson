@@ -1,0 +1,71 @@
+{
+  "id": 1226304565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.45,45.85,16.45,45.85",
+    "geom:latitude":45.85,
+    "geom:longitude":16.45,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Poljana Vrbovecka",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192820,
+    "gn:latitude":45.85,
+    "gn:longitude":16.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Poljana Vrbove\u010dka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poljana",
+        "Poljana Vrbova\u010dka",
+        "Poljana Vrbove\u010dka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192820
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0827fbb44cdee5a760976bbede08570c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226304565,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1226304565,
+    "wof:lastmodified":1537625846,
+    "wof:name":"Poljana Vrbovecka",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.45,
+    45.85,
+    16.45,
+    45.85
+],
+  "geometry": {"coordinates":[16.45,45.85],"type":"Point"}
+}

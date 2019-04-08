@@ -1,0 +1,75 @@
+{
+  "id": 1243252565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.35361,45.64778,18.35361,45.64778",
+    "geom:latitude":45.64778,
+    "geom:longitude":18.35361,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054391.0",
+    "gn:asciiname":"Gorica Valpovacka",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200323,
+    "gn:latitude":45.64778,
+    "gn:longitude":18.35361,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Gorica Valpova\u010dka",
+    "gn:population":165,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valpova\u010dka Gorica",
+        "Gorica",
+        "Gorica Valpova\u010dka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200323
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1ea0293fc53066e3bc10d6c1ebed11d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243252565,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1243252565,
+    "wof:lastmodified":1537625905,
+    "wof:name":"Gorica Valpovacka",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":165,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.35361,
+    45.64778,
+    18.35361,
+    45.64778
+],
+  "geometry": {"coordinates":[18.35361,45.64778],"type":"Point"}
+}

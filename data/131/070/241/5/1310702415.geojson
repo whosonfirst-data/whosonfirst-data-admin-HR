@@ -1,0 +1,74 @@
+{
+  "id": 1310702415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.03639,45.1,14.03639,45.1",
+    "geom:latitude":45.1,
+    "geom:longitude":14.03639,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11072234.0",
+    "gn:asciiname":"Veli Turini",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187897,
+    "gn:latitude":45.1,
+    "gn:longitude":14.03639,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Veli Turini",
+    "gn:population":45,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villa Turrini",
+        "Veli Turini"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187897
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"63fb55f1a2f0a1982498adbbd83db600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310702415,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1310702415,
+    "wof:lastmodified":1537625811,
+    "wof:name":"Veli Turini",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":45,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.03639,
+    45.1,
+    14.03639,
+    45.1
+],
+  "geometry": {"coordinates":[14.03639,45.1],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209588061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35,46.15,16.35,46.15",
+    "geom:latitude":46.15,
+    "geom:longitude":16.35,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"3194366.0",
+    "gn:asciiname":"Mozgenec",
+    "gn:country_code":"HR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194794,
+    "gn:latitude":46.15,
+    "gn:longitude":16.35,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Mo\u017e\u0111enec",
+    "gn:population":677,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mo\u017edjenec",
+        "Mo\u017edinec",
+        "Mo\u017e\u0111enec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194794
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c42f294a34994d82e5995add1044b41a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209588061
+        }
+    ],
+    "wof:id":1209588061,
+    "wof:lastmodified":1537625859,
+    "wof:name":"Mozgenec",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":677,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35,
+    46.15,
+    16.35,
+    46.15
+],
+  "geometry": {"coordinates":[16.35,46.15],"type":"Point"}
+}

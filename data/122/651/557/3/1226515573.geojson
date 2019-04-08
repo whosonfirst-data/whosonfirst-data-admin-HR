@@ -1,0 +1,65 @@
+{
+  "id": 1226515573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.57278,43.52056,16.57278,43.52056",
+    "geom:latitude":43.52056,
+    "geom:longitude":16.57278,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dvori",
+    "gn:country_code":"HR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3279692,
+    "gn:latitude":43.52056,
+    "gn:longitude":16.57278,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Dvori",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3279692
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"eeaf3c4aa2c6b6b7e8feaa5b916803eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226515573,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1226515573,
+    "wof:lastmodified":1537039936,
+    "wof:name":"Dvori",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.57278,
+    43.52056,
+    16.57278,
+    43.52056
+],
+  "geometry": {"coordinates":[16.57278,43.52056],"type":"Point"}
+}

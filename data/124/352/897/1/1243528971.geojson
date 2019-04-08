@@ -1,0 +1,74 @@
+{
+  "id": 1243528971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28333,45.64111,16.28333,45.64111",
+    "geom:latitude":45.64111,
+    "geom:longitude":16.28333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11048998.0",
+    "gn:asciiname":"Ruca",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191487,
+    "gn:latitude":45.64111,
+    "gn:longitude":16.28333,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Ru\u010da",
+    "gn:population":223,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornja Ru\u010da",
+        "Ru\u010da"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191487
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3d19c2741a6cc9043059173a11dd3c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243528971,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1243528971,
+    "wof:lastmodified":1537625838,
+    "wof:name":"Ruca",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":223,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28333,
+    45.64111,
+    16.28333,
+    45.64111
+],
+  "geometry": {"coordinates":[16.28333,45.64111],"type":"Point"}
+}

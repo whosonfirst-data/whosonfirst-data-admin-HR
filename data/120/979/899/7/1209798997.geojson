@@ -1,0 +1,65 @@
+{
+  "id": 1209798997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95972,45.24056,15.95972,45.24056",
+    "geom:latitude":45.24056,
+    "geom:longitude":15.95972,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jarak",
+    "gn:country_code":"HR",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3276248,
+    "gn:latitude":45.24056,
+    "gn:longitude":15.95972,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Jarak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276248
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2baaf7fc525d6333fbfe8ffcdc70e634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209798997,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1209798997,
+    "wof:lastmodified":1536391576,
+    "wof:name":"Jarak",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95972,
+    45.24056,
+    15.95972,
+    45.24056
+],
+  "geometry": {"coordinates":[15.95972,45.24056],"type":"Point"}
+}

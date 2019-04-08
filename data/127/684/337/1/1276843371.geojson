@@ -1,0 +1,65 @@
+{
+  "id": 1276843371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13278,43.50389,17.13278,43.50389",
+    "geom:latitude":43.50389,
+    "geom:longitude":17.13278,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Topalusici",
+    "gn:country_code":"HR",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3283266,
+    "gn:latitude":43.50389,
+    "gn:longitude":17.13278,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Topalu\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3283266
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cced434314673ef9ba3ac85137ed2538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276843371,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1276843371,
+    "wof:lastmodified":1537086868,
+    "wof:name":"Topalusici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13278,
+    43.50389000000001,
+    17.13278,
+    43.50389000000001
+],
+  "geometry": {"coordinates":[17.13278,43.50389000000001],"type":"Point"}
+}

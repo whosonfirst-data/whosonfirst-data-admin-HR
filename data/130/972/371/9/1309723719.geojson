@@ -1,0 +1,67 @@
+{
+  "id": 1309723719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.62583,43.08028,17.62583,43.08028",
+    "geom:latitude":43.08028,
+    "geom:longitude":17.62583,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"11054969.0",
+    "gn:asciiname":"Vid",
+    "gn:country_code":"HR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187815,
+    "gn:latitude":43.08028,
+    "gn:longitude":17.62583,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Vid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187815,
+        "wk:page":"Vid%2C_Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"60f9375d83cb9b77df156a39ee48fff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309723719,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1309723719,
+    "wof:lastmodified":1537563275,
+    "wof:name":"Vid",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.62583,
+    43.08028,
+    17.62583,
+    43.08028
+],
+  "geometry": {"coordinates":[17.62583,43.08028],"type":"Point"}
+}

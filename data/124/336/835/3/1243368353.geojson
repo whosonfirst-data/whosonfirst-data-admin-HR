@@ -1,0 +1,73 @@
+{
+  "id": 1243368353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38306,45.34778,15.38306,45.34778",
+    "geom:latitude":45.34778,
+    "geom:longitude":15.38306,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049270.0",
+    "gn:asciiname":"Generalski Stol",
+    "gn:country_code":"HR",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3200677,
+    "gn:latitude":45.34778,
+    "gn:longitude":15.38306,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Generalski Stol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Comuna Generalski Stol"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0435\u043d\u0435\u0440\u0430\u043b\u0441\u043a\u0438 \u0421\u0442\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200677,
+        "wk:page":"Generalski_Stol"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"904893bfb0d945b7b1448d3069e704dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243368353,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1243368353,
+    "wof:lastmodified":1537625907,
+    "wof:name":"Generalski Stol",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38306,
+    45.34778,
+    15.38306,
+    45.34778
+],
+  "geometry": {"coordinates":[15.38306,45.34778],"type":"Point"}
+}

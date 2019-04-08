@@ -1,0 +1,69 @@
+{
+  "id": 1243336015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12528,46.37167,16.12528,46.37167",
+    "geom:latitude":46.37167,
+    "geom:longitude":16.12528,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Cestica",
+    "gn:country_code":"HR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3202654,
+    "gn:latitude":46.37167,
+    "gn:longitude":16.12528,
+    "gn:modification_date":"2016-05-08",
+    "gn:name":"Cestica",
+    "gn:population":504,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202654,
+        "wk:page":"Cestica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6c9b92d64eaa94cf119a297b34440c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243336015,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1243336015,
+    "wof:lastmodified":1537563307,
+    "wof:name":"Cestica",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":504,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12528,
+    46.37167,
+    16.12528,
+    46.37167
+],
+  "geometry": {"coordinates":[16.12528,46.37167],"type":"Point"}
+}

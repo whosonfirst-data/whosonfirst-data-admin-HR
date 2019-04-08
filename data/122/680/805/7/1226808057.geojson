@@ -1,0 +1,74 @@
+{
+  "id": 1226808057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17548,45.88344,16.17548,45.88344",
+    "geom:latitude":45.88344,
+    "geom:longitude":16.17548,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Belovar",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204306,
+    "gn:latitude":45.88344,
+    "gn:longitude":16.17548,
+    "gn:modification_date":"2017-01-03",
+    "gn:name":"Belovar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0432\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Belovar Morav\u010de",
+        "Belovar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204306,
+        "wk:page":"Belovar"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4a4d72ee77a11aa5f58e5270d01fbd74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226808057,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1226808057,
+    "wof:lastmodified":1537625936,
+    "wof:name":"Belovar",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17548,
+    45.88344,
+    16.17548,
+    45.88344
+],
+  "geometry": {"coordinates":[16.17548,45.88344],"type":"Point"}
+}

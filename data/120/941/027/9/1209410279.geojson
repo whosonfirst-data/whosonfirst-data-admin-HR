@@ -1,0 +1,72 @@
+{
+  "id": 1209410279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.19778,45.69778,18.19778,45.69778",
+    "geom:latitude":45.69778,
+    "geom:longitude":18.19778,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"3201431.0",
+    "gn:asciiname":"Miholjacki Porec",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195181,
+    "gn:latitude":45.69778,
+    "gn:longitude":18.19778,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Miholja\u010dki Pore\u010d",
+    "gn:population":183,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pore\u010d",
+        "Pore\u010d Miholja\u010dki",
+        "Miholja\u010dki Pore\u010d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195181,
+        "wk:page":"Miholja%C4%8Dki_Pore%C4%8D"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ba4c89845a0a30d0bfde27706dfe7954",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209410279
+        }
+    ],
+    "wof:id":1209410279,
+    "wof:lastmodified":1537625862,
+    "wof:name":"Miholjacki Porec",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.19778,
+    45.69778,
+    18.19778,
+    45.69778
+],
+  "geometry": {"coordinates":[18.19778,45.69778],"type":"Point"}
+}

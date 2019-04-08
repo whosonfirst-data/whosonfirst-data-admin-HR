@@ -1,0 +1,65 @@
+{
+  "id": 1209619985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28583,45.35278,15.28583,45.35278",
+    "geom:latitude":45.35278,
+    "geom:longitude":15.28583,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049267.0",
+    "gn:asciiname":"Erdelj",
+    "gn:country_code":"HR",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200888,
+    "gn:latitude":45.35278,
+    "gn:longitude":15.28583,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Erdelj",
+    "gn:population":369,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200888
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f5b53a96b1ca190b61db04aacfefd888",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209619985
+        }
+    ],
+    "wof:id":1209619985,
+    "wof:lastmodified":1536281553,
+    "wof:name":"Erdelj",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":369,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28583,
+    45.35278,
+    15.28583,
+    45.35278
+],
+  "geometry": {"coordinates":[15.28583,45.35278],"type":"Point"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 101791279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":1027541.422108,
+    "geom:bbox":"17.1365721265,45.9760669257,17.1669197096,45.9899407441",
+    "geom:latitude":45.983451,
+    "geom:longitude":17.153201,
+    "iso:country":"HR",
+    "lbl:latitude":45.98182,
+    "lbl:longitude":17.156765,
+    "mps:latitude":45.98182,
+    "mps:longitude":17.156765,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Klo\u0161tar Podravski"
+    ],
+    "name:dut_x_preferred":[
+        "Klo\u0161tar Podravski"
+    ],
+    "name:eng_x_preferred":[
+        "Klo\u0161tar Podravski"
+    ],
+    "name:fra_x_preferred":[
+        "Klo\u0161tar Podravski"
+    ],
+    "name:fre_x_preferred":[
+        "Klo\u0161tar Podravski"
+    ],
+    "name:hbs_x_preferred":[
+        "Klo\u0161tar Podravski"
+    ],
+    "name:hrv_x_preferred":[
+        "Klo\u0161tar Podravski"
+    ],
+    "name:hun_x_preferred":[
+        "Gorbonok"
+    ],
+    "name:ita_x_preferred":[
+        "Klo\u0161tar Podravski"
+    ],
+    "name:nld_x_preferred":[
+        "Klo\u0161tar Podravski"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Klo\u0161tar Podravski"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Klo\u0161tar Podravski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u0448\u0442\u0430\u0440-\u041f\u043e\u0434\u0440\u0430\u0432\u0441\u043a\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Klo\u0161tar Podravski"
+    ],
+    "name:spa_x_preferred":[
+        "Klo\u0161tar Podravski"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u043e\u0448\u0442\u0430\u0440 \u041f\u043e\u0434\u0440\u0430\u0432\u0441\u043a\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Ko\u0161tar"
+    ],
+    "name:war_x_preferred":[
+        "Klo\u0161tar Podravski"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Koprivnicko-kri\u017eevacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Klo\u0161tar Podravski",
+    "qs:la_lc":"*HR0601945",
+    "qs:level":"locality",
+    "qs:loc":"Klo\u0161tar Podravski",
+    "qs:loc_alt":"Klostar Podravski",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":93,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198018,
+        "gp:id":848438,
+        "qs:id":262094,
+        "wd:id":"Q1012094",
+        "wk:page":"Klo\u0161tar Podravski"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d52b8efb3df8fcd903656af3d8d1f87f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101791279,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":101791279,
+    "wof:lastmodified":1527641956,
+    "wof:name":"Klo\u0161tar Podravski",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13657212651776,
+    45.97606692572947,
+    17.1669197095913,
+    45.98994074408461
+],
+  "geometry": {"coordinates":[[[17.16309083022861,45.98976754952139],[17.16285298851994,45.98797545310754],[17.16028421065471,45.98814864104196],[17.16004647329282,45.98635653523866],[17.15876212076233,45.98644310267343],[17.15840561593137,45.98375493382201],[17.15968990552494,45.9836683713562],[17.15957105980789,45.98277231534797],[17.16213958592431,45.98259914729545],[17.1620207033572,45.98170309390986],[17.16330493988073,45.98161648832422],[17.16318604144243,45.98072043590491],[17.16447025328455,45.98063381649922],[17.16435133897699,45.97973776504625],[17.1669197095913,45.9795644831193],[17.16680075844391,45.97866843429057],[17.16551659596263,45.97875508133478],[17.16515983606814,45.97606692572947],[17.16387573279144,45.97615355232551],[17.16399462668176,45.9770496065421],[17.16271049872898,45.97713621931968],[17.16294825987859,45.97892832899402],[17.15395896687278,45.97953420829066],[17.15455272492369,45.98401452835014],[17.15069980058962,45.98427398357296],[17.15058110171793,45.9833779159772],[17.14929680718268,45.98346436844014],[17.14894080407441,45.98077615655063],[17.14637232976918,45.98094900511967],[17.14672820701207,45.98363722693102],[17.14159096229037,45.98398275816987],[17.14135387353178,45.98219059776312],[17.138785312908,45.98236326390247],[17.13902231774881,45.98415543091687],[17.13773798993566,45.98424174407194],[17.13785647900664,45.98513782819703],[17.13657212651776,45.98522412752419],[17.13680907795759,45.98701629700918],[17.13937786317143,45.9868436762689],[17.13925934294207,45.98594759517408],[17.14439678508722,45.98560217454616],[17.14463399849683,45.98739432282639],[17.14720278131136,45.98722151302331],[17.14708413009544,45.98632544253456],[17.15735894546015,45.98563359737989],[17.15783425233366,45.98921782223795],[17.16040308699155,45.98904469290841],[17.16052196843259,45.98994074408461],[17.16309083022861,45.98976754952139]]],"type":"Polygon"}
+}

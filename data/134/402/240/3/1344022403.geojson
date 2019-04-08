@@ -1,0 +1,71 @@
+{
+  "id": 1344022403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.14492,45.94112,16.14492,45.94112",
+    "geom:latitude":45.94112,
+    "geom:longitude":16.14492,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Glavnica Donja",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201694,
+    "gn:latitude":45.94112,
+    "gn:longitude":16.14492,
+    "gn:modification_date":"2017-01-03",
+    "gn:name":"Glavnica Donja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donja Glavnica",
+        "Glavnica Donja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201694,
+        "wk:page":"Glavnica_Donja"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c06f4604e7566bb480ca558f0a3a4ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344022403,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1344022403,
+    "wof:lastmodified":1537625918,
+    "wof:name":"Glavnica Donja",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.14492000000001,
+    45.94112,
+    16.14492000000001,
+    45.94112
+],
+  "geometry": {"coordinates":[16.14492000000001,45.94112],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226319757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.25083,45.2175,14.25083,45.2175",
+    "geom:latitude":45.2175,
+    "geom:longitude":14.25083,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11049445.0",
+    "gn:asciiname":"Moscenice",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194857,
+    "gn:latitude":45.2175,
+    "gn:longitude":14.25083,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Mo\u0161\u0107enice",
+    "gn:population":301,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moschenice",
+        "Moschiena",
+        "Mo\u0161\u0107enice"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194857,
+        "wk:page":"Mo%C5%A1%C4%87enice"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3c362eb1003258fda0f94452e335154e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226319757,
+            "region_id":85684785
+        }
+    ],
+    "wof:id":1226319757,
+    "wof:lastmodified":1537625860,
+    "wof:name":"Moscenice",
+    "wof:parent_id":85684785,
+    "wof:placetype":"locality",
+    "wof:population":301,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.25083,
+    45.2175,
+    14.25083,
+    45.2175
+],
+  "geometry": {"coordinates":[14.25083,45.2175],"type":"Point"}
+}

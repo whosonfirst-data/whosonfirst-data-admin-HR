@@ -1,0 +1,66 @@
+{
+  "id": 1242893823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71694,44.37806,15.71694,44.37806",
+    "geom:latitude":44.37806,
+    "geom:longitude":15.71694,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049288.0",
+    "gn:asciiname":"Rasoja",
+    "gn:country_code":"HR",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216766,
+    "gn:latitude":44.37806,
+    "gn:longitude":15.71694,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Rasoja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216766
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1b363965f05c5fda558cee9481591eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242893823,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1242893823,
+    "wof:lastmodified":1536605237,
+    "wof:name":"Rasoja",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71694,
+    44.37806,
+    15.71694,
+    44.37806
+],
+  "geometry": {"coordinates":[15.71694,44.37806],"type":"Point"}
+}

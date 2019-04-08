@@ -1,0 +1,65 @@
+{
+  "id": 1209691115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88861,44.33139,15.88861,44.33139",
+    "geom:latitude":44.33139,
+    "geom:longitude":15.88861,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"11054319.0",
+    "gn:asciiname":"Kijani",
+    "gn:country_code":"HR",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216028,
+    "gn:latitude":44.33139,
+    "gn:longitude":15.88861,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Kijani",
+    "gn:population":56,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216028
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f094c1bd10054e659b6fdf62ea711455",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209691115
+        }
+    ],
+    "wof:id":1209691115,
+    "wof:lastmodified":1536279237,
+    "wof:name":"Kijani",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":56,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88861,
+    44.33139,
+    15.88861,
+    44.33139
+],
+  "geometry": {"coordinates":[15.88861,44.33139],"type":"Point"}
+}

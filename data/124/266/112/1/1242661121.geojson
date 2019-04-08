@@ -1,0 +1,70 @@
+{
+  "id": 1242661121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0,45.3,16.0,45.3",
+    "geom:latitude":45.3,
+    "geom:longitude":16.0,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"11049234.0",
+    "gn:asciiname":"Hrvatsko Selo",
+    "gn:country_code":"HR",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199227,
+    "gn:latitude":45.3,
+    "gn:longitude":16.0,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Hrvatsko Selo",
+    "gn:population":310,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199227,
+        "wk:page":"Hrvatsko_Selo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"015270c0b347e0363726a5e27ea52bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242661121,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1242661121,
+    "wof:lastmodified":1537563299,
+    "wof:name":"Hrvatsko Selo",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":310,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0,
+    45.3,
+    16.0,
+    45.3
+],
+  "geometry": {"coordinates":[16.0,45.3],"type":"Point"}
+}

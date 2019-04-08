@@ -1,0 +1,71 @@
+{
+  "id": 1226330515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98917,45.49139,16.98917,45.49139",
+    "geom:latitude":45.49139,
+    "geom:longitude":16.98917,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"11049477.0",
+    "gn:asciiname":"Antunovac",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204800,
+    "gn:latitude":45.49139,
+    "gn:longitude":16.98917,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Antunovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antunovatz",
+        "Antunovac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204800
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0afbdf9e1d3bcbc80039e7fa544de94c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226330515,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1226330515,
+    "wof:lastmodified":1537625939,
+    "wof:name":"Antunovac",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98917,
+    45.49139,
+    16.98917,
+    45.49139
+],
+  "geometry": {"coordinates":[16.98917,45.49139],"type":"Point"}
+}

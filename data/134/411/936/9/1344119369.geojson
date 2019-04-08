@@ -1,0 +1,70 @@
+{
+  "id": 1344119369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38083,44.23111,15.38083,44.23111",
+    "geom:latitude":44.23111,
+    "geom:longitude":15.38083,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11054376.0",
+    "gn:asciiname":"Radovin",
+    "gn:country_code":"HR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192067,
+    "gn:latitude":44.23111,
+    "gn:longitude":15.38083,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Radovin",
+    "gn:population":549,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192067,
+        "wk:page":"Radovin"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d5655b1afa593445e8f0641d0127d97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344119369,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1344119369,
+    "wof:lastmodified":1537563283,
+    "wof:name":"Radovin",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":549,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38083,
+    44.23111,
+    15.38083,
+    44.23111
+],
+  "geometry": {"coordinates":[15.38083,44.23111],"type":"Point"}
+}

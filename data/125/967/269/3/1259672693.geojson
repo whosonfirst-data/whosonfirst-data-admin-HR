@@ -1,0 +1,67 @@
+{
+  "id": 1259672693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.41639,45.43306,18.41639,45.43306",
+    "geom:latitude":45.43306,
+    "geom:longitude":18.41639,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054479.0",
+    "gn:asciiname":"Punitovci",
+    "gn:country_code":"HR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3192217,
+    "gn:latitude":45.43306,
+    "gn:longitude":18.41639,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Punitovci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192217,
+        "wk:page":"Punitovci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4fd3aff775ea9520933560fa4566ee33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259672693,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1259672693,
+    "wof:lastmodified":1537563284,
+    "wof:name":"Punitovci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.41639,
+    45.43306,
+    18.41639,
+    45.43306
+],
+  "geometry": {"coordinates":[18.41639,45.43306],"type":"Point"}
+}

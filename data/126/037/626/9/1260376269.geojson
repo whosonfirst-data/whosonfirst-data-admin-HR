@@ -1,0 +1,66 @@
+{
+  "id": 1260376269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65556,44.29167,15.65556,44.29167",
+    "geom:latitude":44.29167,
+    "geom:longitude":15.65556,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049288.0",
+    "gn:asciiname":"Mali Halan",
+    "gn:country_code":"HR",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3216158,
+    "gn:latitude":44.29167,
+    "gn:longitude":15.65556,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Mali Halan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3216158
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8d553e24998087ced792fb04276f571e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260376269,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1260376269,
+    "wof:lastmodified":1537081484,
+    "wof:name":"Mali Halan",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65556,
+    44.29167,
+    15.65556,
+    44.29167
+],
+  "geometry": {"coordinates":[15.65556,44.29167],"type":"Point"}
+}

@@ -1,0 +1,149 @@
+{
+  "id": 101793479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":858058.840445,
+    "geom:bbox":"14.3622615354,45.4375456963,14.380533896,45.4524650586",
+    "geom:latitude":45.443833,
+    "geom:longitude":14.371645,
+    "gn:population":1182,
+    "iso:country":"HR",
+    "lbl:latitude":45.441997,
+    "lbl:longitude":14.3686,
+    "mps:latitude":45.441997,
+    "mps:longitude":14.3686,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053f\u056c\u0561\u0576\u0561"
+    ],
+    "name:bos_x_preferred":[
+        "Klana"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043b\u0430\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Klana"
+    ],
+    "name:eng_x_preferred":[
+        "Clana"
+    ],
+    "name:fra_x_preferred":[
+        "Klana"
+    ],
+    "name:fre_x_preferred":[
+        "Klana"
+    ],
+    "name:ger_x_preferred":[
+        "Klana"
+    ],
+    "name:hbs_x_preferred":[
+        "Klana"
+    ],
+    "name:hrv_x_preferred":[
+        "Klana"
+    ],
+    "name:hun_x_preferred":[
+        "Klana"
+    ],
+    "name:ita_x_preferred":[
+        "Clana"
+    ],
+    "name:nld_x_preferred":[
+        "Klana"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Klana"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Klana"
+    ],
+    "name:slv_x_preferred":[
+        "Klana"
+    ],
+    "name:spa_x_preferred":[
+        "Klana"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u0430\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Klana"
+    ],
+    "name:und_x_preferred":[
+        "Klana"
+    ],
+    "name:unk_x_variant":[
+        "Clana"
+    ],
+    "name:war_x_preferred":[
+        "Klana"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Primorsko-goranska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Klana",
+    "qs:la_lc":"*HR0801864",
+    "qs:level":"locality",
+    "qs:loc":"Klana",
+    "qs:loc_alt":"Klana",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1397,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115c13fa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3198111,
+        "gp:id":530382,
+        "qs:id":1343018,
+        "wd:id":"Q1284790",
+        "wk:page":"Klana"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"55f54b4f0eb4a8c09b70abeaab4cbb4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793479,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":101793479,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527689276,
+    "wof:name":"Klana",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":1182,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.36226153537245,
+    45.43754569631267,
+    14.38053389597394,
+    45.45246505858023
+],
+  "geometry": {"coordinates":[[[14.37976054721969,45.45145992540813],[14.3792593060424,45.44516448102974],[14.38053389597394,45.44511157276582],[14.38039067024988,45.44331287094332],[14.37911612174332,45.44336577720736],[14.37918771236741,45.44426512942016],[14.37536399146023,45.44442375894442],[14.3752209375354,45.44262504792005],[14.37394640090969,45.44267789167486],[14.37380340059906,45.44087917624029],[14.37125440357227,45.44098481362465],[14.37104005021018,45.43828672995954],[14.36721672451733,45.43844506173281],[14.3671453416078,45.43754569631267],[14.36459648821528,45.43765117195386],[14.36473917424485,45.43944990617672],[14.36346470283075,45.43950262292537],[14.36353602969677,45.44040199012818],[14.36226153537245,45.44045469249596],[14.36240415680271,45.44225342708461],[14.3636786925486,45.44220072272498],[14.3638213675614,45.44399945290985],[14.36637051529982,45.44389399407231],[14.36644189879428,45.4447933562675],[14.36771649007392,45.44474060278452],[14.3677878973254,45.4456399633799],[14.37033711470235,45.4455344082844],[14.37026566602231,45.44463504968382],[14.37408941340982,45.44447660469638],[14.37451852406332,45.44987272928802],[14.37706792654535,45.44976701041827],[14.37728264734756,45.45246505858023],[14.37855740743453,45.45241217307694],[14.37848581006261,45.45151282529207],[14.37976054721969,45.45145992540813]]],"type":"Polygon"}
+}

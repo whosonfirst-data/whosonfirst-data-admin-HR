@@ -1,0 +1,70 @@
+{
+  "id": 1209395139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28167,45.40361,14.28167,45.40361",
+    "geom:latitude":45.40361,
+    "geom:longitude":14.28167,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11049443.0",
+    "gn:asciiname":"Zaluki",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186821,
+    "gn:latitude":45.40361,
+    "gn:longitude":14.28167,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Zaluki",
+    "gn:population":73,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaluche",
+        "Zaluki"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186821
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a62f89cbcc3ea9e5905eb17a102579a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209395139
+        }
+    ],
+    "wof:id":1209395139,
+    "wof:lastmodified":1537625805,
+    "wof:name":"Zaluki",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28167,
+    45.40361,
+    14.28167,
+    45.40361
+],
+  "geometry": {"coordinates":[14.28167,45.40361],"type":"Point"}
+}

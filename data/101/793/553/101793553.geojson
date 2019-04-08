@@ -1,0 +1,109 @@
+{
+  "id": 101793553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000115,
+    "geom:area_square_m":997685.111642,
+    "geom:bbox":"16.131562372,45.6704884495,16.1525206187,45.6803608572",
+    "geom:latitude":45.67617,
+    "geom:longitude":16.141034,
+    "gn:population":1453,
+    "iso:country":"HR",
+    "lbl:latitude":45.675207,
+    "lbl:longitude":16.141749,
+    "mps:latitude":45.675207,
+    "mps:longitude":16.141749,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Ku\u010de"
+    ],
+    "name:dut_x_preferred":[
+        "Ku\u010de"
+    ],
+    "name:eng_x_preferred":[
+        "Ku\u010de"
+    ],
+    "name:hbs_x_preferred":[
+        "Ku\u010de"
+    ],
+    "name:hrv_x_preferred":[
+        "Ku\u010de"
+    ],
+    "name:hun_x_preferred":[
+        "Ku\u010de"
+    ],
+    "name:slv_x_preferred":[
+        "Ku\u010de"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0447\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ku\u010de"
+    ],
+    "name:unk_x_variant":[
+        "Ku\u0107e"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Zagrebacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Velika Gorica",
+    "qs:la_lc":"*HR0105410",
+    "qs:level":"locality",
+    "qs:loc":"Ku\u010de",
+    "qs:loc_alt":"Kuce",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197033,
+        "gp:id":847868,
+        "qs:id":6,
+        "wd:id":"Q848920",
+        "wk:page":"Ku\u010de"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a920c35d918fae2b8ccdd8cf12aee8c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793553,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":101793553,
+    "wof:lastmodified":1527689279,
+    "wof:name":"Ku\u010de",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":1453,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13156237195693,
+    45.67048844947146,
+    16.15252061866693,
+    45.68036085720883
+],
+  "geometry": {"coordinates":[[[16.1514447321793,45.68006364894336],[16.15124228235936,45.67826868292894],[16.15252061866693,45.67819434515945],[16.15241937945882,45.67729686257695],[16.14986274528172,45.67744551988278],[16.14976155197166,45.67654803381885],[16.14720494682751,45.67669662666299],[16.14690151755042,45.67400415605726],[16.14562327263326,45.6740784251333],[16.14521884389438,45.67048844947146],[16.14394067897291,45.67056269749878],[16.14404175889655,45.67146019381141],[16.13892898478565,45.67175703747802],[16.13902998589958,45.67265453876928],[16.13519531011769,45.67287701395651],[16.13529625319632,45.67377451881453],[16.13273974547167,45.67392276137673],[16.13284065129369,45.67482026839247],[16.13156237195693,45.67489436796694],[16.13196595521725,45.67848439508555],[16.13324431770457,45.67841028988181],[16.13334524508923,45.67930779361109],[16.13462362523944,45.6792336715888],[16.13472457772809,45.68013117325307],[16.13855976178144,45.67990871049585],[16.13845874692242,45.67901121305704],[16.14612890577786,45.67856587990514],[16.14633118928884,45.68036085720883],[16.1514447321793,45.68006364894336]]],"type":"Polygon"}
+}

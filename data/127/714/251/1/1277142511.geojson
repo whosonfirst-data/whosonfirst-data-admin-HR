@@ -1,0 +1,75 @@
+{
+  "id": 1277142511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13333,44.26667,15.13333,44.26667",
+    "geom:latitude":44.26667,
+    "geom:longitude":15.13333,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Privlaka",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192346,
+    "gn:latitude":44.26667,
+    "gn:longitude":15.13333,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Privlaka",
+    "gn:population":2253,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brevilacqua",
+        "Prevlaka",
+        "Privlaka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192346,
+        "wk:page":"Privlaka%2C_Zadar_County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ffab07e7880d758e3ae2658056e1356d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277142511,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1277142511,
+    "wof:lastmodified":1537625842,
+    "wof:name":"Privlaka",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":2253,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13333,
+    44.26667,
+    15.13333,
+    44.26667
+],
+  "geometry": {"coordinates":[15.13333,44.26667],"type":"Point"}
+}

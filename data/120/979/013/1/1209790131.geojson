@@ -1,0 +1,70 @@
+{
+  "id": 1209790131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00558,45.60701,16.00558,45.60701",
+    "geom:latitude":45.60701,
+    "geom:longitude":16.00558,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"3188243.0",
+    "gn:asciiname":"Kozjaca",
+    "gn:country_code":"HR",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3197457,
+    "gn:latitude":45.60701,
+    "gn:longitude":16.00558,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Kozja\u010da",
+    "gn:population":342,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197457,
+        "wk:page":"Kozja%C4%8Da"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b38cfd422ec172443b4ba68992d1c234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209790131,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1209790131,
+    "wof:lastmodified":1537563295,
+    "wof:name":"Kozjaca",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":342,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00558,
+    45.60701,
+    16.00558,
+    45.60701
+],
+  "geometry": {"coordinates":[16.00558,45.60701],"type":"Point"}
+}

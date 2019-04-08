@@ -1,0 +1,61 @@
+{
+  "id": 1209437769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.55,45.11667,15.55,45.11667",
+    "geom:latitude":45.11667,
+    "geom:longitude":15.55,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mrzlo Polje",
+    "gn:country_code":"HR",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194694,
+    "gn:latitude":45.11667,
+    "gn:longitude":15.55,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Mrzlo Polje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194694
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f952d6dd04e87881191255eb07a579b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209437769
+        }
+    ],
+    "wof:id":1209437769,
+    "wof:lastmodified":1536287051,
+    "wof:name":"Mrzlo Polje",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.55,
+    45.11667,
+    15.55,
+    45.11667
+],
+  "geometry": {"coordinates":[15.55,45.11667],"type":"Point"}
+}

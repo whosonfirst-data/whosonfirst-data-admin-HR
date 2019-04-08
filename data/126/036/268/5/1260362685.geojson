@@ -1,0 +1,65 @@
+{
+  "id": 1260362685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.24861,43.36722,17.24861,43.36722",
+    "geom:latitude":43.36722,
+    "geom:longitude":17.24861,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ljubicici",
+    "gn:country_code":"HR",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214652,
+    "gn:latitude":43.36722,
+    "gn:longitude":17.24861,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Ljubi\u010di\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214652
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"dc50f76b54b905ef34cc0b7d5eeb9cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260362685,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1260362685,
+    "wof:lastmodified":1536602715,
+    "wof:name":"Ljubicici",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.24861,
+    43.36722,
+    17.24861,
+    43.36722
+],
+  "geometry": {"coordinates":[17.24861,43.36722],"type":"Point"}
+}

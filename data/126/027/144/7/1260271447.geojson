@@ -1,0 +1,74 @@
+{
+  "id": 1260271447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58333,45.45,17.58333,45.45",
+    "geom:latitude":45.45,
+    "geom:longitude":17.58333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049479.0",
+    "gn:asciiname":"Poljanska",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192807,
+    "gn:latitude":45.45,
+    "gn:longitude":17.58333,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Poljanska",
+    "gn:population":96,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poljakovci",
+        "Poljanska"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192807
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1e657e1d73769d3f402692d97f9e685c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260271447,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1260271447,
+    "wof:lastmodified":1537625845,
+    "wof:name":"Poljanska",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":96,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58333,
+    45.45,
+    17.58333,
+    45.45
+],
+  "geometry": {"coordinates":[17.58333,45.45],"type":"Point"}
+}

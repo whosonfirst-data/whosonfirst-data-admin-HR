@@ -1,0 +1,69 @@
+{
+  "id": 1343963057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3,45.58333,15.3,45.58333",
+    "geom:latitude":45.58333,
+    "geom:longitude":15.3,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049283.0",
+    "gn:asciiname":"Velika Paka",
+    "gn:country_code":"HR",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188194,
+    "gn:latitude":45.58333,
+    "gn:longitude":15.3,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Velika Paka",
+    "gn:population":44,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188194
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b18f0fd8883b6f623d8b6f192ac2b879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343963057,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1343963057,
+    "wof:lastmodified":1537015448,
+    "wof:name":"Velika Paka",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":44,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3,
+    45.58333,
+    15.3,
+    45.58333
+],
+  "geometry": {"coordinates":[15.3,45.58333],"type":"Point"}
+}

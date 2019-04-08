@@ -1,0 +1,89 @@
+{
+  "id": 1125975533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10861,46.23889,16.10861,46.23889",
+    "geom:latitude":46.23889,
+    "geom:longitude":16.10861,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":873,
+    "gn:population":827,
+    "iso:country":"HR",
+    "lbl:latitude":46.23889,
+    "lbl:longitude":16.10861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Jerovec"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3198653,
+    "qs_pg:gn_pop":873,
+    "qs_pg:name":"Jarmovec",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Sentjur Pri Celju",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":529403,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55851819,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Sentjur Pri Celju",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198653,
+        "gp:id":55851819,
+        "qs_pg:id":529403
+    },
+    "wof:country":"HR",
+    "wof:created":1497298331,
+    "wof:geomhash":"fc73066c393db7c5129356e18ae97338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125975533,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1125975533,
+    "wof:lastmodified":1509404338,
+    "wof:name":"Jarmovec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":827,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10861,
+    46.23889,
+    16.10861,
+    46.23889
+],
+  "geometry": {"coordinates":[16.10861,46.23889],"type":"Point"}
+}

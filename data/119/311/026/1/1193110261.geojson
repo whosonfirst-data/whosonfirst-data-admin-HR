@@ -1,0 +1,66 @@
+{
+  "id": 1193110261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29111,43.18806,17.29111,43.18806",
+    "geom:latitude":43.18806,
+    "geom:longitude":17.29111,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3187229.0",
+    "gn:asciiname":"Gornja Visnjica",
+    "gn:country_code":"HR",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282404,
+    "gn:latitude":43.18806,
+    "gn:longitude":17.29111,
+    "gn:modification_date":"2017-01-02",
+    "gn:name":"Gornja Vi\u0161njica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282404
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"db264aefb830ec2642c55aa7aceaab6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193110261,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1193110261,
+    "wof:lastmodified":1536374059,
+    "wof:name":"Gornja Visnjica",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29111,
+    43.18806,
+    17.29111,
+    43.18806
+],
+  "geometry": {"coordinates":[17.29111,43.18806],"type":"Point"}
+}

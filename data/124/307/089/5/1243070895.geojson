@@ -1,0 +1,71 @@
+{
+  "id": 1243070895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01,45.22389,18.01,45.22389",
+    "geom:latitude":45.22389,
+    "geom:longitude":18.01,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049502.0",
+    "gn:asciiname":"Podcrkavlje",
+    "gn:country_code":"HR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3193074,
+    "gn:latitude":45.22389,
+    "gn:longitude":18.01,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Podcrkavlje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podcrkavje",
+        "Podcrkavlje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193074,
+        "wk:page":"Podcrkavlje"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c11a35636fad04aed18ab623569f30eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243070895,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1243070895,
+    "wof:lastmodified":1537625847,
+    "wof:name":"Podcrkavlje",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01,
+    45.22389,
+    18.01,
+    45.22389
+],
+  "geometry": {"coordinates":[18.01,45.22389],"type":"Point"}
+}

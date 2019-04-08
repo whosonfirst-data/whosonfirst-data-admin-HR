@@ -1,0 +1,108 @@
+{
+  "id": 1126054207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.40917,46.45194,16.40917,46.45194",
+    "geom:latitude":46.45194,
+    "geom:longitude":16.40917,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":897,
+    "gn:population":841,
+    "iso:country":"HR",
+    "lbl:latitude":46.45194,
+    "lbl:longitude":16.40917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Zasadbreg"
+    ],
+    "name:dut_x_preferred":[
+        "Zasadbreg"
+    ],
+    "name:eng_x_preferred":[
+        "Zasadbreg"
+    ],
+    "name:hrv_x_preferred":[
+        "Zasadbreg"
+    ],
+    "name:hun_x_preferred":[
+        "Gy\u00fcm\u00f6lcshegy"
+    ],
+    "name:slv_x_preferred":[
+        "Zasadbreg"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0441\u0430\u0434\u0431\u0440\u0435\u0433"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3186758,
+    "qs_pg:gn_pop":897,
+    "qs_pg:name":"Zasadbreg",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Medjimurska",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":407825,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":851164,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Medjimurska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186758,
+        "gp:id":851164,
+        "qs_pg:id":407825,
+        "wd:id":"Q523683"
+    },
+    "wof:country":"HR",
+    "wof:created":1497302986,
+    "wof:geomhash":"8bbd30731f23b988520821cd64df3033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126054207,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":1126054207,
+    "wof:lastmodified":1514447741,
+    "wof:name":"Zasadbreg",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":841,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.40917,
+    46.45194,
+    16.40917,
+    46.45194
+],
+  "geometry": {"coordinates":[16.40917,46.45194],"type":"Point"}
+}

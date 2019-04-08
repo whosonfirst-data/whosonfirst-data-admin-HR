@@ -1,0 +1,69 @@
+{
+  "id": 1276643019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.715,45.44944,14.715,45.44944",
+    "geom:latitude":45.44944,
+    "geom:longitude":14.715,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3202102.0",
+    "gn:asciiname":"Biljevina",
+    "gn:country_code":"HR",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204140,
+    "gn:latitude":45.44944,
+    "gn:longitude":14.715,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Biljevina",
+    "gn:population":4,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204140
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a6aa4eb469f50da224adb39e26a8f2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276643019,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1276643019,
+    "wof:lastmodified":1536859513,
+    "wof:name":"Biljevina",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.715,
+    45.44944,
+    14.715,
+    45.44944
+],
+  "geometry": {"coordinates":[14.715,45.44944],"type":"Point"}
+}

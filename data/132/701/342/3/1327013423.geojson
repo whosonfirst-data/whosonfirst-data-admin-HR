@@ -1,0 +1,65 @@
+{
+  "id": 1327013423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3675,45.12333,16.3675,45.12333",
+    "geom:latitude":45.12333,
+    "geom:longitude":16.3675,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Januzovici",
+    "gn:country_code":"HR",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281968,
+    "gn:latitude":45.12333,
+    "gn:longitude":16.3675,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Januzovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281968
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b790236c1d2373517c2c73bfa4192358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327013423,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1327013423,
+    "wof:lastmodified":1536788355,
+    "wof:name":"Januzovici",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3675,
+    45.12333,
+    16.3675,
+    45.12333
+],
+  "geometry": {"coordinates":[16.3675,45.12333],"type":"Point"}
+}

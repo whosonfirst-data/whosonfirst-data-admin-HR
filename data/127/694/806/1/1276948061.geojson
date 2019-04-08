@@ -1,0 +1,71 @@
+{
+  "id": 1276948061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.20955,43.54189,16.20955,43.54189",
+    "geom:latitude":43.54189,
+    "geom:longitude":16.20955,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"11054627.0",
+    "gn:asciiname":"Gornji Seget",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199927,
+    "gn:latitude":43.54189,
+    "gn:longitude":16.20955,
+    "gn:modification_date":"2017-01-01",
+    "gn:name":"Gornji Seget",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seget Gornji",
+        "Gornji Seget"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199927
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8ef6965c565ad676eaf9352a47f2fac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276948061,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1276948061,
+    "wof:lastmodified":1537625899,
+    "wof:name":"Gornji Seget",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.20955,
+    43.54189,
+    16.20955,
+    43.54189
+],
+  "geometry": {"coordinates":[16.20955,43.54189],"type":"Point"}
+}

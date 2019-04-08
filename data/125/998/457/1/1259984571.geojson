@@ -1,0 +1,72 @@
+{
+  "id": 1259984571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.3375,45.44806,15.3375,45.44806",
+    "geom:latitude":45.44806,
+    "geom:longitude":15.3375,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049276.0",
+    "gn:asciiname":"Vukova Gorica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187049,
+    "gn:latitude":45.44806,
+    "gn:longitude":15.3375,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Vukova Gorica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vukova",
+        "Vukova Gorica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187049,
+        "wk:page":"Vukova_Gorica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cec5f848e8c3fb0caad9751a2bfc67af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259984571,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1259984571,
+    "wof:lastmodified":1537625806,
+    "wof:name":"Vukova Gorica",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.3375,
+    45.44806,
+    15.3375,
+    45.44806
+],
+  "geometry": {"coordinates":[15.3375,45.44806],"type":"Point"}
+}

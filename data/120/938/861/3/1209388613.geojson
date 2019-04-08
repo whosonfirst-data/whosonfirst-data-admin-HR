@@ -1,0 +1,61 @@
+{
+  "id": 1209388613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94417,45.24306,15.94417,45.24306",
+    "geom:latitude":45.24306,
+    "geom:longitude":15.94417,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Selce",
+    "gn:country_code":"HR",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3276229,
+    "gn:latitude":45.24306,
+    "gn:longitude":15.94417,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Selce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276229
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a5293324e7f3722314a92fa56a95cb3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209388613
+        }
+    ],
+    "wof:id":1209388613,
+    "wof:lastmodified":1536288538,
+    "wof:name":"Selce",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.944170000000002,
+    45.24306,
+    15.944170000000002,
+    45.24306
+],
+  "geometry": {"coordinates":[15.94417,45.24306],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193117275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66306,45.14444,14.66306,45.14444",
+    "geom:latitude":45.14444,
+    "geom:longitude":14.66306,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11049433.0",
+    "gn:asciiname":"Silo",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190886,
+    "gn:latitude":45.14444,
+    "gn:longitude":14.66306,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"\u0160ilo",
+    "gn:population":384,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sillo",
+        "\u0160ilo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190886
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ec9b68f037996fb97f29a78e346458b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193117275,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1193117275,
+    "wof:lastmodified":1537625833,
+    "wof:name":"Silo",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":384,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66306,
+    45.14444,
+    14.66306,
+    45.14444
+],
+  "geometry": {"coordinates":[14.66306,45.14444],"type":"Point"}
+}

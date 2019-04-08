@@ -1,0 +1,71 @@
+{
+  "id": 1276240187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40583,42.54111,18.40583,42.54111",
+    "geom:latitude":42.54111,
+    "geom:longitude":18.40583,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"11054972.0",
+    "gn:asciiname":"Dunave Krajnje",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200978,
+    "gn:latitude":42.54111,
+    "gn:longitude":18.40583,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Dunave Krajnje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dunave",
+        "Dunave Krajnje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200978
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"29e744a5fbbf551787d869a1d810e06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276240187,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1276240187,
+    "wof:lastmodified":1537625909,
+    "wof:name":"Dunave Krajnje",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40583,
+    42.54111,
+    18.40583,
+    42.54111
+],
+  "geometry": {"coordinates":[18.40583,42.54111],"type":"Point"}
+}

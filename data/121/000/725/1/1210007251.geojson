@@ -1,0 +1,70 @@
+{
+  "id": 1210007251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74,44.85472,15.74,44.85472",
+    "geom:latitude":44.85472,
+    "geom:longitude":15.74,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049292.0",
+    "gn:asciiname":"Zeljava",
+    "gn:country_code":"HR",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3186593,
+    "gn:latitude":44.85472,
+    "gn:longitude":15.74,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"\u017deljava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017deljava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186593,
+        "wk:page":"%C5%BDeljava"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f100760cb39a413c07e77e9e88d316ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1210007251,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1210007251,
+    "wof:lastmodified":1537625803,
+    "wof:name":"Zeljava",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74,
+    44.85472,
+    15.74,
+    44.85472
+],
+  "geometry": {"coordinates":[15.74,44.85472],"type":"Point"}
+}

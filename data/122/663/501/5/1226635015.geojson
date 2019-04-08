@@ -1,0 +1,75 @@
+{
+  "id": 1226635015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.21667,45.69389,18.21667,45.69389",
+    "geom:latitude":45.69389,
+    "geom:longitude":18.21667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"3201431.0",
+    "gn:asciiname":"Radikovci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192129,
+    "gn:latitude":45.69389,
+    "gn:longitude":18.21667,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Radikovci",
+    "gn:population":292,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badikovci",
+        "Radikovci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192129,
+        "wk:page":"Radikovci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f3528a542b655e7723aca97cea220a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226635015,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1226635015,
+    "wof:lastmodified":1537625841,
+    "wof:name":"Radikovci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":292,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21667,
+    45.69389,
+    18.21667,
+    45.69389
+],
+  "geometry": {"coordinates":[18.21667,45.69389],"type":"Point"}
+}

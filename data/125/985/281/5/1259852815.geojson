@@ -1,0 +1,65 @@
+{
+  "id": 1259852815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.42111,43.21472,17.42111,43.21472",
+    "geom:latitude":43.21472,
+    "geom:longitude":17.42111,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Luka",
+    "gn:country_code":"HR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3288300,
+    "gn:latitude":43.21472,
+    "gn:longitude":17.42111,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Luka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3288300
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"686980e2fd7aee9bedf5084be1d8d175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259852815,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1259852815,
+    "wof:lastmodified":1536822538,
+    "wof:name":"Luka",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42111,
+    43.21472,
+    17.42111,
+    43.21472
+],
+  "geometry": {"coordinates":[17.42111,43.21472],"type":"Point"}
+}

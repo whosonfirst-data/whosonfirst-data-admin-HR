@@ -1,0 +1,100 @@
+{
+  "id": 101836409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000176,
+    "geom:area_square_m":1576898.891803,
+    "geom:bbox":"16.1755980194,43.5067466766,16.2059407621,43.5185134617",
+    "geom:latitude":43.512591,
+    "geom:longitude":16.192425,
+    "iso:country":"HR",
+    "lbl:latitude":43.512557,
+    "lbl:longitude":16.192195,
+    "mps:latitude":43.512557,
+    "mps:longitude":16.192195,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Seget Vranjica"
+    ],
+    "name:cze_x_preferred":[
+        "Seget Vranjica"
+    ],
+    "name:eng_x_preferred":[
+        "Seget Vranjica"
+    ],
+    "name:hbs_x_preferred":[
+        "Seget Vranjica"
+    ],
+    "name:hrv_x_preferred":[
+        "Seget Vranjica"
+    ],
+    "name:hun_x_preferred":[
+        "Seget Vranjica"
+    ],
+    "name:slv_x_preferred":[
+        "Seget Vranjica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0433\u0435\u0442 \u0412\u0440\u0430\u045a\u0438\u0446\u0430"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Okrug",
+    "qs:la_lc":"*HR1705886",
+    "qs:level":"locality",
+    "qs:loc":"Seget Vranjica",
+    "qs:loc_alt":"Seget Vranjica",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":408,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55852733,
+        "qs:id":1091647,
+        "qs_pg:id":1091647,
+        "wd:id":"Q12641904"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6a8e761c83435accc84ca10c5c299da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101836409,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101836409,
+    "wof:lastmodified":1527715152,
+    "wof:name":"Seget Vranjica",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1755980194402,
+    43.50674667655176,
+    16.20594076213501,
+    43.51851346165097
+],
+  "geometry": {"coordinates":[[[16.2050602027274,43.51811123199212],[16.20594076213501,43.50991554569947],[16.20370516247459,43.51005098087046],[16.20380104947799,43.51094987808881],[16.19764933048583,43.5113222589282],[16.19755353743233,43.51042335505105],[16.19509286773587,43.51057220152251],[16.19499711619426,43.5096732941978],[16.19376679592136,43.50974769398846],[16.1936710670999,43.50884878454718],[16.19121045570665,43.50899753723985],[16.19111476839225,43.50809862435278],[16.18865418334684,43.50824731541559],[16.18855853753684,43.50734839908364],[16.18363740892858,43.50764559898334],[16.18354184219749,43.50674667655176],[16.18108129864407,43.50689518539093],[16.18117682779751,43.50779411047819],[16.17994653302713,43.5078683441115],[16.18004204731233,43.5087672697407],[16.1812723608723,43.50869303477975],[16.18165453238913,43.51228872413208],[16.17796335779826,43.51251140071275],[16.17805885410161,43.51341032506957],[16.1755980194402,43.51355870505643],[16.17569348207354,43.51445763128197],[16.18430648589805,43.51393803400958],[16.18440208401802,43.5148369501573],[16.18932381396002,43.51453970773696],[16.18961085741927,43.51723643551952],[16.19207181831814,43.51708771786355],[16.1919760956448,43.5161888120478],[16.19812835474181,43.51581676652381],[16.19841581649467,43.51851346165097],[16.19964631626772,43.51843900431714],[16.19955047295326,43.51754010805888],[16.2044723687265,43.51724213660128],[16.20456828722507,43.51814102753008],[16.2050602027274,43.51811123199212]]],"type":"Polygon"}
+}

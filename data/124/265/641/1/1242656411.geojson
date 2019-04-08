@@ -1,0 +1,68 @@
+{
+  "id": 1242656411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26972,45.15111,16.26972,45.15111",
+    "geom:latitude":45.15111,
+    "geom:longitude":16.26972,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gornja Stupnica",
+    "gn:country_code":"HR",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200182,
+    "gn:latitude":45.15111,
+    "gn:longitude":16.26972,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Gornja Stupnica",
+    "gn:population":61,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200182
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e06d45d5b689ccd9204737bd688668ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242656411,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1242656411,
+    "wof:lastmodified":1536950583,
+    "wof:name":"Gornja Stupnica",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26972,
+    45.15111,
+    16.26972,
+    45.15111
+],
+  "geometry": {"coordinates":[16.26972,45.15111],"type":"Point"}
+}

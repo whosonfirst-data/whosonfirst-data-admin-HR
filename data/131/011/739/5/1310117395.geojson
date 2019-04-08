@@ -1,0 +1,66 @@
+{
+  "id": 1310117395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.78278,42.81306,17.78278,42.81306",
+    "geom:latitude":42.81306,
+    "geom:longitude":17.78278,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"11055009.0",
+    "gn:asciiname":"Grgovici",
+    "gn:country_code":"HR",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263312,
+    "gn:latitude":42.81306,
+    "gn:longitude":17.78278,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Grgovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263312
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5528add939bc7ce0e761e17658b037e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310117395,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1310117395,
+    "wof:lastmodified":1536978680,
+    "wof:name":"Grgovici",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78278,
+    42.81306,
+    17.78278,
+    42.81306
+],
+  "geometry": {"coordinates":[17.78278,42.81306],"type":"Point"}
+}

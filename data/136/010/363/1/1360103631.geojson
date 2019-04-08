@@ -1,0 +1,64 @@
+{
+  "id": 1360103631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72374,45.40711,15.72374,45.40711",
+    "geom:latitude":45.40711,
+    "geom:longitude":15.72374,
+    "gn:asciiname":"Manjerovici",
+    "gn:country_code":"HR",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7732846,
+    "gn:latitude":45.40711,
+    "gn:longitude":15.72374,
+    "gn:modification_date":"2011-04-04",
+    "gn:name":"Manjerovici",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732846
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f3e388bdb1028dd97724164820792c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360103631,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1360103631,
+    "wof:lastmodified":1536919475,
+    "wof:name":"Manjerovici",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72374,
+    45.40711,
+    15.72374,
+    45.40711
+],
+  "geometry": {"coordinates":[15.72374,45.40711],"type":"Point"}
+}

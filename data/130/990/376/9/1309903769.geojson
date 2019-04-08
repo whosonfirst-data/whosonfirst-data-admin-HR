@@ -1,0 +1,68 @@
+{
+  "id": 1309903769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7,45.95,16.7,45.95",
+    "geom:latitude":45.95,
+    "geom:longitude":16.7,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Hrsovo",
+    "gn:country_code":"HR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199254,
+    "gn:latitude":45.95,
+    "gn:longitude":16.7,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Hrsovo",
+    "gn:population":268,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199254
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9ba67747e22b45ecf13383a3ed2effd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309903769,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":1309903769,
+    "wof:lastmodified":1536790313,
+    "wof:name":"Hrsovo",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:population":268,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7,
+    45.95,
+    16.7,
+    45.95
+],
+  "geometry": {"coordinates":[16.7,45.95],"type":"Point"}
+}

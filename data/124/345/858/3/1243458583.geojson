@@ -1,0 +1,73 @@
+{
+  "id": 1243458583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78333,45.66889,16.78333,45.66889",
+    "geom:latitude":45.66889,
+    "geom:longitude":16.78333,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"11049398.0",
+    "gn:asciiname":"Simljanik",
+    "gn:country_code":"HR",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190875,
+    "gn:latitude":45.66889,
+    "gn:longitude":16.78333,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"\u0160imljanik",
+    "gn:population":34,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160imljanik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190875,
+        "wk:page":"%C5%A0imljanik"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"67aa61050008be5b8f2ab6e6c635282a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243458583,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1243458583,
+    "wof:lastmodified":1537625833,
+    "wof:name":"Simljanik",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":34,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78333,
+    45.66889000000001,
+    16.78333,
+    45.66889000000001
+],
+  "geometry": {"coordinates":[16.78333,45.66889000000001],"type":"Point"}
+}

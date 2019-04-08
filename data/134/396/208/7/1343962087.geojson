@@ -1,0 +1,75 @@
+{
+  "id": 1343962087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.61111,45.69833,16.61111,45.69833",
+    "geom:latitude":45.69833,
+    "geom:longitude":16.61111,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"3202819.0",
+    "gn:asciiname":"Pobjenik",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193123,
+    "gn:latitude":45.69833,
+    "gn:longitude":16.61111,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Pobjenik",
+    "gn:population":215,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pobjednik",
+        "Pobjenik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193123,
+        "wk:page":"Pobjenik"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"05bc5bf06b317487fb2248399a31b6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343962087,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1343962087,
+    "wof:lastmodified":1537625848,
+    "wof:name":"Pobjenik",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":215,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.61111,
+    45.69833,
+    16.61111,
+    45.69833
+],
+  "geometry": {"coordinates":[16.61111,45.69833],"type":"Point"}
+}

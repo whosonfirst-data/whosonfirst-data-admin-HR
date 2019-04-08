@@ -1,0 +1,98 @@
+{
+  "id": 101796897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":568978.916494,
+    "geom:bbox":"17.1491974429,43.4265444614,17.1702875407,43.4334307347",
+    "geom:latitude":43.429839,
+    "geom:longitude":17.159539,
+    "gn:population":1012,
+    "iso:country":"HR",
+    "lbl:latitude":43.428969,
+    "lbl:longitude":17.161296,
+    "mps:latitude":43.428969,
+    "mps:longitude":17.161296,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Grubine"
+    ],
+    "name:eng_x_preferred":[
+        "Grubine"
+    ],
+    "name:hrv_x_preferred":[
+        "Grubine"
+    ],
+    "name:hun_x_preferred":[
+        "Grubine"
+    ],
+    "name:slv_x_preferred":[
+        "Grubine"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0443\u0431\u0438\u043d\u0435"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Podbablje",
+    "qs:la_lc":"*HR1703379",
+    "qs:level":"locality",
+    "qs:loc":"Grubine",
+    "qs:loc_alt":"Grubine",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3284794,
+        "gp:id":55852693,
+        "qs:id":95334,
+        "qs_pg:id":95334,
+        "wd:id":"Q5274828"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c6ce775426968da6de5b0f72a36c7d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101796897,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":101796897,
+    "wof:lastmodified":1514447449,
+    "wof:name":"Grubine",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":1012,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.14919744291547,
+    43.42654446137101,
+    17.1702875406512,
+    43.43343073471846
+],
+  "geometry": {"coordinates":[[[17.15812176432746,43.43236108781139],[17.15801139669736,43.43146329036398],[17.16169427380146,43.43120541391579],[17.16180469731501,43.43210320676639],[17.16303233518511,43.4320172170319],[17.16292189304437,43.4311194257138],[17.1702875406512,43.43060318795926],[17.17017699127678,43.42970540500761],[17.1689494100479,43.42979147983027],[17.16883888382347,43.42889369450933],[17.1676113179866,43.42897975310603],[17.16750081491108,43.42808196541614],[17.16381815388553,43.42834004845497],[17.16359727304479,43.42654446137101],[17.15868716211895,43.42688835414515],[17.15901826666862,43.42958175190637],[17.15533548195708,43.42983953100821],[17.15522516513369,43.42894172799481],[17.15399758240221,43.42902762344607],[17.15388728872028,43.42812981806725],[17.15143215083282,43.42830156183186],[17.15154240726332,43.4291993702717],[17.15031481485619,43.42928522164573],[17.15042505717349,43.43018303078139],[17.14919744291547,43.43026886899293],[17.14930767111821,43.43116667882441],[17.15053530400422,43.43108083908305],[17.15064555534843,43.43197864655053],[17.15555612915415,43.43163513453186],[17.15577679441816,43.43343073471846],[17.1570044670612,43.43334481691812],[17.15689411354145,43.43244701877347],[17.15812176432746,43.43236108781139]]],"type":"Polygon"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 1126043583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34056,43.98056,15.34056,43.98056",
+    "geom:latitude":43.98056,
+    "geom:longitude":15.34056,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":376,
+    "iso:country":"HR",
+    "lbl:latitude":43.98056,
+    "lbl:longitude":15.34056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Nevi\u0111ane"
+    ],
+    "name:dut_x_preferred":[
+        "Nevi\u0111ane"
+    ],
+    "name:eng_x_preferred":[
+        "Nevi\u0111ane"
+    ],
+    "name:hrv_x_preferred":[
+        "Nevi\u0111ane"
+    ],
+    "name:hun_x_preferred":[
+        "Nevi\u0111ane"
+    ],
+    "name:slv_x_preferred":[
+        "Nevi\u0111ane"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u0432\u0438\u0452\u0430\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Dooropoljana"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3194507,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nevi\u00f0ane",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Zadarsko-Kninska",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":973700,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":849301,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Zadarsko-Kninska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194507,
+        "gp:id":849301,
+        "qs_pg:id":973700,
+        "wd:id":"Q6962133"
+    },
+    "wof:country":"HR",
+    "wof:created":1497302301,
+    "wof:geomhash":"e812c70857c92e37e9180e46fdea627e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126043583,
+            "region_id":85684785
+        }
+    ],
+    "wof:id":1126043583,
+    "wof:lastmodified":1514447542,
+    "wof:name":"Nevi\u00f0ane",
+    "wof:parent_id":85684785,
+    "wof:placetype":"locality",
+    "wof:population":376,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34056,
+    43.98056,
+    15.34056,
+    43.98056
+],
+  "geometry": {"coordinates":[15.34056,43.98056],"type":"Point"}
+}

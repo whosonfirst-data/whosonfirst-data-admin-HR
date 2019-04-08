@@ -1,0 +1,66 @@
+{
+  "id": 1209201013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9875,43.72889,15.9875,43.72889",
+    "geom:latitude":43.72889,
+    "geom:longitude":15.9875,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Potege",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213272,
+    "gn:latitude":43.72889,
+    "gn:longitude":15.9875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Potege",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Protega",
+        "Potege"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213272
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e4c0474608fefa47516e86256ea5abc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209201013
+        }
+    ],
+    "wof:id":1209201013,
+    "wof:lastmodified":1537625942,
+    "wof:name":"Potege",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9875,
+    43.72889,
+    15.9875,
+    43.72889
+],
+  "geometry": {"coordinates":[15.9875,43.72889],"type":"Point"}
+}

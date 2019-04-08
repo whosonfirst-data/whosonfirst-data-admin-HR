@@ -1,0 +1,65 @@
+{
+  "id": 1243090285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75722,45.14806,15.75722,45.14806",
+    "geom:latitude":45.14806,
+    "geom:longitude":15.75722,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cindrici",
+    "gn:country_code":"HR",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3279685,
+    "gn:latitude":45.14806,
+    "gn:longitude":15.75722,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Cindri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3279685
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4fd48a061d88b1e469a207d87b290048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243090285,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1243090285,
+    "wof:lastmodified":1536821065,
+    "wof:name":"Cindrici",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75722,
+    45.14806,
+    15.75722,
+    45.14806
+],
+  "geometry": {"coordinates":[15.75722,45.14806],"type":"Point"}
+}

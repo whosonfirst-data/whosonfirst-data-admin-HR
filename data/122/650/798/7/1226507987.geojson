@@ -1,0 +1,66 @@
+{
+  "id": 1226507987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.27639,44.31194,15.27639,44.31194",
+    "geom:latitude":44.31194,
+    "geom:longitude":15.27639,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11054376.0",
+    "gn:asciiname":"Miletici",
+    "gn:country_code":"HR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195130,
+    "gn:latitude":44.31194,
+    "gn:longitude":15.27639,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Mileti\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195130
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"41776da98747628cbf978e4fb971ff26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226507987,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1226507987,
+    "wof:lastmodified":1537050466,
+    "wof:name":"Miletici",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.27639,
+    44.31194,
+    15.27639,
+    44.31194
+],
+  "geometry": {"coordinates":[15.27639,44.31194],"type":"Point"}
+}

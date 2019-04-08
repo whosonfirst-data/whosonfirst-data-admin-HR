@@ -1,0 +1,75 @@
+{
+  "id": 1343327255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53707,44.01239,15.53707,44.01239",
+    "geom:latitude":44.01239,
+    "geom:longitude":15.53707,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11054335.0",
+    "gn:asciiname":"Gornja Jagodnja",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200254,
+    "gn:latitude":44.01239,
+    "gn:longitude":15.53707,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Gornja Jagodnja",
+    "gn:population":85,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jagodnja Gornja",
+        "Gornje-Jagodnje",
+        "Gornja Jagodnja"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200254
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b0f0cba755fda0faf7110c220e9817ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343327255,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1343327255,
+    "wof:lastmodified":1537625904,
+    "wof:name":"Gornja Jagodnja",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":85,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53707,
+    44.01239,
+    15.53707,
+    44.01239
+],
+  "geometry": {"coordinates":[15.53707,44.01239],"type":"Point"}
+}

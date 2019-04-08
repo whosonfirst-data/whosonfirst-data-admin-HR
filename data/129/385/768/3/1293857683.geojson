@@ -1,0 +1,74 @@
+{
+  "id": 1293857683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31667,45.63333,16.31667,45.63333",
+    "geom:latitude":45.63333,
+    "geom:longitude":16.31667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Jezero Posavsko",
+    "gn:country_code":"HR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198619,
+    "gn:latitude":45.63333,
+    "gn:longitude":16.31667,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Jezero Posavsko",
+    "gn:population":70,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Posavsko Jezero",
+        "Jezero",
+        "Jezero Posavsko"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198619,
+        "wk:page":"Jezero_Posavsko"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e3dd6cb8012a17192f7a4c3980e9ad57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293857683,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1293857683,
+    "wof:lastmodified":1537625891,
+    "wof:name":"Jezero Posavsko",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":70,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31667,
+    45.63333,
+    16.31667,
+    45.63333
+],
+  "geometry": {"coordinates":[16.31667,45.63333],"type":"Point"}
+}

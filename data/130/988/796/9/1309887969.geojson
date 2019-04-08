@@ -1,0 +1,70 @@
+{
+  "id": 1309887969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.45,46.2,16.45,46.2",
+    "geom:latitude":46.2,
+    "geom:longitude":16.45,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"11049316.0",
+    "gn:asciiname":"Tuhovec",
+    "gn:country_code":"HR",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188663,
+    "gn:latitude":46.2,
+    "gn:longitude":16.45,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Tuhovec",
+    "gn:population":706,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188663,
+        "wk:page":"Tuhovec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c0b1ad0edaf643516ac9afbe593b2dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1309887969,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1309887969,
+    "wof:lastmodified":1537563277,
+    "wof:name":"Tuhovec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":706,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.45,
+    46.2,
+    16.45,
+    46.2
+],
+  "geometry": {"coordinates":[16.45,46.2],"type":"Point"}
+}

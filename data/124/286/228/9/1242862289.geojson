@@ -1,0 +1,75 @@
+{
+  "id": 1242862289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89917,45.33972,17.89917,45.33972",
+    "geom:latitude":45.33972,
+    "geom:longitude":17.89917,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049478.0",
+    "gn:asciiname":"Knezci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198008,
+    "gn:latitude":45.33972,
+    "gn:longitude":17.89917,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Kne\u017eci",
+    "gn:population":61,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kne\u0161ci",
+        "Kne\u017eci"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198008,
+        "wk:page":"Kne%C5%BEci"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"08e8958607da6bdab4beb81892f315d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242862289,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1242862289,
+    "wof:lastmodified":1537625886,
+    "wof:name":"Knezci",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":61,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89917,
+    45.33972,
+    17.89917,
+    45.33972
+],
+  "geometry": {"coordinates":[17.89917,45.33972],"type":"Point"}
+}

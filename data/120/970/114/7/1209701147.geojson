@@ -1,0 +1,72 @@
+{
+  "id": 1209701147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10889,44.53833,15.10889,44.53833",
+    "geom:latitude":44.53833,
+    "geom:longitude":15.10889,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049287.0",
+    "gn:asciiname":"Ledenik",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196708,
+    "gn:latitude":44.53833,
+    "gn:longitude":15.10889,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Ledenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cesari\u010dki Ledenik",
+        "Ledenik Cesari\u010dki",
+        "Ledenik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196708
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ea0f922ead3e038cfaa64c7af1e9b2b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209701147,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1209701147,
+    "wof:lastmodified":1537625875,
+    "wof:name":"Ledenik",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10889,
+    44.53833,
+    15.10889,
+    44.53833
+],
+  "geometry": {"coordinates":[15.10889,44.53833],"type":"Point"}
+}

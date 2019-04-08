@@ -1,0 +1,157 @@
+{
+  "id": 101796909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:area_square_m":998175.82004,
+    "geom:bbox":"15.9172188072,43.5820486067,15.9352431601,43.5943786346",
+    "geom:latitude":43.588334,
+    "geom:longitude":15.926537,
+    "gn:population":2828,
+    "iso:country":"HR",
+    "lbl:latitude":43.58944,
+    "lbl:longitude":15.925922,
+    "mps:latitude":43.58944,
+    "mps:longitude":15.925922,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:cat_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:ces_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:cze_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:deu_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:dut_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:eng_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:epo_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:fra_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:fre_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:ger_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:hrv_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:hun_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:ita_x_preferred":[
+        "Capocesto"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ea\u30e2\u30b7\u30e5\u30c6\u30f3"
+    ],
+    "name:lat_x_preferred":[
+        "Caput Cistae"
+    ],
+    "name:pol_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Primo\u0161ten"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u043c\u043e\u0448\u0442\u0435\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:spa_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u043c\u043e\u0448\u0442\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "name:tur_x_preferred":[
+        "Primosten"
+    ],
+    "name:unk_x_variant":[
+        "Capocesto"
+    ],
+    "name:war_x_preferred":[
+        "Primo\u0161ten"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*\u0160ibensko-kninska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Primo\u0161ten",
+    "qs:la_lc":"*HR1503573",
+    "qs:level":"locality",
+    "qs:loc":"Primo\u0161ten",
+    "qs:loc_alt":"Primosten",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":290,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192383,
+        "gp:id":849863,
+        "qs:id":1043973,
+        "wd:id":"Q837474",
+        "wk:page":"Primo\u0161ten"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d835d99ad43bc07fea17a78efe85afea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101796909,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":101796909,
+    "wof:lastmodified":1527642027,
+    "wof:name":"Primo\u0161ten",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:population":2828,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91721880720013,
+    43.58204860673254,
+    15.93524316008677,
+    43.59437863460397
+],
+  "geometry": {"coordinates":[[[15.9287685829741,43.59416501159029],[15.92849301866778,43.5914675940146],[15.92972532302662,43.59139636062559],[15.92963345692863,43.59049722117044],[15.9308657397022,43.59042597428527],[15.93077385849875,43.5895268353367],[15.93323837817348,43.58938429980191],[15.93314646298495,43.58848516263822],[15.93437869988628,43.58841387398928],[15.93401100140591,43.58481732273907],[15.93524316008677,43.58474602442976],[15.93496736927898,43.58204860673254],[15.93127105501861,43.58226244584802],[15.93154667593564,43.58495987504341],[15.92661799257803,43.5852448023918],[15.92670979825664,43.5861439490227],[15.9230132007512,43.58635749325748],[15.92282970644311,43.58455919157069],[15.92159753963648,43.5846303408872],[15.9215058170189,43.58373118761301],[15.91904151307097,43.58387343938125],[15.91931657896208,43.58657090454221],[15.92054878892264,43.58649978221956],[15.92082394539091,43.58919723662484],[15.91835940948312,43.58933947414636],[15.91845109808241,43.59023862662451],[15.91721880720013,43.5903097245],[15.91740215794039,43.59210802969579],[15.92356377422374,43.59175237983334],[15.92374732890289,43.59355066919841],[15.92497968183494,43.59347949235229],[15.92507148372232,43.59437863460397],[15.9287685829741,43.59416501159029]]],"type":"Polygon"}
+}

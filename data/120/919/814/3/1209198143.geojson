@@ -1,0 +1,70 @@
+{
+  "id": 1209198143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.18778,45.48417,18.18778,45.48417",
+    "geom:latitude":45.48417,
+    "geom:longitude":18.18778,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054476.0",
+    "gn:asciiname":"Kelesinka",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198458,
+    "gn:latitude":45.48417,
+    "gn:longitude":18.18778,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Kele\u0161inka",
+    "gn:population":57,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kale\u0161inka",
+        "Kele\u0161inka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198458
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"207de6c60a78ac43d60df25924a4779a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209198143
+        }
+    ],
+    "wof:id":1209198143,
+    "wof:lastmodified":1537625889,
+    "wof:name":"Kelesinka",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":57,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.18778,
+    45.48417,
+    18.18778,
+    45.48417
+],
+  "geometry": {"coordinates":[18.18778,45.48417],"type":"Point"}
+}

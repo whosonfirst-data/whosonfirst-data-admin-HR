@@ -1,0 +1,68 @@
+{
+  "id": 1209814721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70917,45.06389,15.70917,45.06389",
+    "geom:latitude":45.06389,
+    "geom:longitude":15.70917,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kosa",
+    "gn:country_code":"HR",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277887,
+    "gn:latitude":45.06389,
+    "gn:longitude":15.70917,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Kosa",
+    "gn:population":15,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277887
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"36be19059bcb9c43f6dd6b27b4695e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209814721,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1209814721,
+    "wof:lastmodified":1536384835,
+    "wof:name":"Kosa",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70917,
+    45.06389,
+    15.70917,
+    45.06389
+],
+  "geometry": {"coordinates":[15.70917,45.06389],"type":"Point"}
+}

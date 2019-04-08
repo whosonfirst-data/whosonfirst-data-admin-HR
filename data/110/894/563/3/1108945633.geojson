@@ -1,0 +1,59 @@
+{
+  "id": 1108945633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1229127952,45.8292236509,16.1229127952,45.8292236509",
+    "geom:latitude":45.829224,
+    "geom:longitude":16.122913,
+    "iso:country":"HR",
+    "lbl:latitude":45.829224,
+    "lbl:longitude":16.122913,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"HR",
+    "wof:created":1491365197,
+    "wof:geomhash":"208ff29c90ae0383113197e3e6be033e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "neighbourhood_id":1108945633,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1108945633,
+    "wof:lastmodified":1492123775,
+    "wof:name":"Sesvete",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.122912795162,
+    45.82922365085274,
+    16.122912795162,
+    45.82922365085274
+],
+  "geometry": {"coordinates":[16.122912795162,45.82922365085274],"type":"Point"}
+}

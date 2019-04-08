@@ -1,0 +1,79 @@
+{
+  "id": 1126003859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48333,45.9,16.48333,45.9",
+    "geom:latitude":45.9,
+    "geom:longitude":16.48333,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":506,
+    "gn:population":506,
+    "iso:country":"HR",
+    "lbl:latitude":45.9,
+    "lbl:longitude":16.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Pavlovec"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3193568,
+    "qs_pg:gn_pop":506,
+    "qs_pg:name":"Pavlovec Grade\u010dki",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":581629,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193568,
+        "qs_pg:id":581629
+    },
+    "wof:country":"HR",
+    "wof:created":1497299811,
+    "wof:geomhash":"2deb3f586797ab6efce4fd629aa577d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126003859,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1126003859,
+    "wof:lastmodified":1509406314,
+    "wof:name":"Pavlovec Grade\u010dki",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":506,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48333,
+    45.9,
+    16.48333,
+    45.9
+],
+  "geometry": {"coordinates":[16.48333,45.9],"type":"Point"}
+}

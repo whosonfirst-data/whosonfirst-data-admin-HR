@@ -1,0 +1,76 @@
+{
+  "id": 1327156905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46722,45.29083,15.46722,45.29083",
+    "geom:latitude":45.29083,
+    "geom:longitude":15.46722,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"11049266.0",
+    "gn:asciiname":"Perjasica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193499,
+    "gn:latitude":45.29083,
+    "gn:longitude":15.46722,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Perjasica",
+    "gn:population":17,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gornja Perjasica",
+        "Perjasica Gornja",
+        "Perjasica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193499,
+        "wk:page":"Perjasica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6fd98ac048c2a99f29bcfbe3ed1af5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327156905,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1327156905,
+    "wof:lastmodified":1537625850,
+    "wof:name":"Perjasica",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":17,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46722,
+    45.29083,
+    15.46722,
+    45.29083
+],
+  "geometry": {"coordinates":[15.46722,45.29083],"type":"Point"}
+}

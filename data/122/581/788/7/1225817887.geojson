@@ -1,0 +1,70 @@
+{
+  "id": 1225817887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.52,46.265,16.52,46.265",
+    "geom:latitude":46.265,
+    "geom:longitude":16.52,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"11049310.0",
+    "gn:asciiname":"Vrbanovec",
+    "gn:country_code":"HR",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3187298,
+    "gn:latitude":46.265,
+    "gn:longitude":16.52,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Vrbanovec",
+    "gn:population":629,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187298,
+        "wk:page":"Vrbanovec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"632c033c64c1cdf1b9be96e0b791bea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225817887,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1225817887,
+    "wof:lastmodified":1537563274,
+    "wof:name":"Vrbanovec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":629,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.52,
+    46.265,
+    16.52,
+    46.265
+],
+  "geometry": {"coordinates":[16.52,46.265],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326508473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.48333,45.45,17.48333,45.45",
+    "geom:latitude":45.45,
+    "geom:longitude":17.48333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sazije",
+    "gn:country_code":"HR",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191215,
+    "gn:latitude":45.45,
+    "gn:longitude":17.48333,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Sa\u017eije",
+    "gn:population":15,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191215
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a23a6585ba448a009532113533088537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326508473,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1326508473,
+    "wof:lastmodified":1537017600,
+    "wof:name":"Sazije",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.48333,
+    45.45,
+    17.48333,
+    45.45
+],
+  "geometry": {"coordinates":[17.48333,45.45],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209923045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56333,45.2475,17.56333,45.2475",
+    "geom:latitude":45.2475,
+    "geom:longitude":17.56333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"11049508.0",
+    "gn:asciiname":"Vrbovacko Brdo",
+    "gn:country_code":"HR",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3242231,
+    "gn:latitude":45.2475,
+    "gn:longitude":17.56333,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Vrbova\u010dko Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrbova\u010dko Brdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3242231,
+        "wk:page":"Vrbova%C4%8Dko_Brdo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6d2ce204e21ba538a11517bbeb2fc517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209923045,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1209923045,
+    "wof:lastmodified":1537625960,
+    "wof:name":"Vrbovacko Brdo",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56333,
+    45.2475,
+    17.56333,
+    45.2475
+],
+  "geometry": {"coordinates":[17.56333,45.2475],"type":"Point"}
+}

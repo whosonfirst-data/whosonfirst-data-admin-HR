@@ -1,0 +1,66 @@
+{
+  "id": 1243445965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05306,46.07944,16.05306,46.07944",
+    "geom:latitude":46.07944,
+    "geom:longitude":16.05306,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"11049192.0",
+    "gn:asciiname":"Steklari",
+    "gn:country_code":"HR",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215738,
+    "gn:latitude":46.07944,
+    "gn:longitude":16.05306,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Steklari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215738
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0c3d8340880f0e7c5024a69b9bd094f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243445965,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1243445965,
+    "wof:lastmodified":1536806046,
+    "wof:name":"Steklari",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05306,
+    46.07944000000001,
+    16.05306,
+    46.07944000000001
+],
+  "geometry": {"coordinates":[16.05306,46.07944000000001],"type":"Point"}
+}

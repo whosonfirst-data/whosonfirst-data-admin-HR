@@ -1,0 +1,64 @@
+{
+  "id": 1209315163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72639,45.20222,13.72639,45.20222",
+    "geom:latitude":45.20222,
+    "geom:longitude":13.72639,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Matulini",
+    "gn:country_code":"HR",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195363,
+    "gn:latitude":45.20222,
+    "gn:longitude":13.72639,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Matulini",
+    "gn:population":16,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195363
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9c0cf8aa7461e57c53c1c125858713b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209315163
+        }
+    ],
+    "wof:id":1209315163,
+    "wof:lastmodified":1536290891,
+    "wof:name":"Matulini",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":16,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72639,
+    45.20222,
+    13.72639,
+    45.20222
+],
+  "geometry": {"coordinates":[13.72639,45.20222],"type":"Point"}
+}

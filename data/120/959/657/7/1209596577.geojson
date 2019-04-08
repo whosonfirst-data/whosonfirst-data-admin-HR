@@ -1,0 +1,65 @@
+{
+  "id": 1209596577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89444,45.38611,17.89444,45.38611",
+    "geom:latitude":45.38611,
+    "geom:longitude":17.89444,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049476.0",
+    "gn:asciiname":"Kula",
+    "gn:country_code":"HR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196974,
+    "gn:latitude":45.38611,
+    "gn:longitude":17.89444,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Kula",
+    "gn:population":331,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196974
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f275b9779aa306ca4690581f01ce1aa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209596577
+        }
+    ],
+    "wof:id":1209596577,
+    "wof:lastmodified":1536282305,
+    "wof:name":"Kula",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":331,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89444,
+    45.38611,
+    17.89444,
+    45.38611
+],
+  "geometry": {"coordinates":[17.89444,45.38611],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259965901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.905,43.89167,15.905,43.89167",
+    "geom:latitude":43.89167,
+    "geom:longitude":15.905,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"11054521.0",
+    "gn:asciiname":"Bratiskovici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203541,
+    "gn:latitude":43.89167,
+    "gn:longitude":15.905,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Brati\u0161kovici",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brati\u0161kovci",
+        "Brati\u0161kovici"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203541
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e4b55e0b248eba7c9536aa962e87490d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259965901,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1259965901,
+    "wof:lastmodified":1537625932,
+    "wof:name":"Bratiskovici",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.905,
+    43.89167,
+    15.905,
+    43.89167
+],
+  "geometry": {"coordinates":[15.905,43.89167],"type":"Point"}
+}

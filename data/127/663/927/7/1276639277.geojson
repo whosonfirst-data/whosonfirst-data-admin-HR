@@ -1,0 +1,65 @@
+{
+  "id": 1276639277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05639,45.23361,16.05639,45.23361",
+    "geom:latitude":45.23361,
+    "geom:longitude":16.05639,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ljiljci",
+    "gn:country_code":"HR",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3276377,
+    "gn:latitude":45.23361,
+    "gn:longitude":16.05639,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Ljiljci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276377
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9abcf16e3143860f6f550c7e3125ce00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276639277,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1276639277,
+    "wof:lastmodified":1536864692,
+    "wof:name":"Ljiljci",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05639,
+    45.23361,
+    16.05639,
+    45.23361
+],
+  "geometry": {"coordinates":[16.05639,45.23361],"type":"Point"}
+}

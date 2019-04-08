@@ -1,0 +1,72 @@
+{
+  "id": 1226744425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91111,46.08083,15.91111,46.08083",
+    "geom:latitude":46.08083,
+    "geom:longitude":15.91111,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11049213.0",
+    "gn:asciiname":"Sveti Kriz Zacretje",
+    "gn:country_code":"HR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3186954,
+    "gn:latitude":46.08083,
+    "gn:longitude":15.91111,
+    "gn:modification_date":"2016-12-23",
+    "gn:name":"Sveti Kri\u017e Za\u010dretje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Sveti Kri\u017e Za\u010dretje"
+    ],
+    "name:und_x_variant":[
+        "Za\u010dretje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186954
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"92b89ecaf2be29028a1339bcc9ad98c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226744425,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":1226744425,
+    "wof:lastmodified":1537625806,
+    "wof:name":"Sveti Kriz Zacretje",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91111,
+    46.08083,
+    15.91111,
+    46.08083
+],
+  "geometry": {"coordinates":[15.91111,46.08083],"type":"Point"}
+}

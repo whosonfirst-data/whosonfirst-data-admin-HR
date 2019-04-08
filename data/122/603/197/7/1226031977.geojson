@@ -1,0 +1,70 @@
+{
+  "id": 1226031977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12917,45.42833,15.12917,45.42833",
+    "geom:latitude":45.42833,
+    "geom:longitude":15.12917,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"3187256.0",
+    "gn:asciiname":"Lukovdol",
+    "gn:country_code":"HR",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196051,
+    "gn:latitude":45.42833,
+    "gn:longitude":15.12917,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Lukovdol",
+    "gn:population":129,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196051,
+        "wk:page":"Lukovdol"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5a56e81ff6140ebc2e071eedad15f0e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226031977,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1226031977,
+    "wof:lastmodified":1537563292,
+    "wof:name":"Lukovdol",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":129,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12917,
+    45.42833,
+    15.12917,
+    45.42833
+],
+  "geometry": {"coordinates":[15.12917,45.42833],"type":"Point"}
+}

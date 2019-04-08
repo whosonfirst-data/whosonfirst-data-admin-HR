@@ -1,0 +1,69 @@
+{
+  "id": 1242853341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.35278,45.14889,16.35278,45.14889",
+    "geom:latitude":45.14889,
+    "geom:longitude":16.35278,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3200915.0",
+    "gn:asciiname":"Paukovac",
+    "gn:country_code":"HR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3281650,
+    "gn:latitude":45.14889,
+    "gn:longitude":16.35278,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Paukovac",
+    "gn:population":67,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281650
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"58b949633a4ea6ca69c82cd08609f926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242853341,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1242853341,
+    "wof:lastmodified":1536666549,
+    "wof:name":"Paukovac",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":67,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.35278,
+    45.14889,
+    16.35278,
+    45.14889
+],
+  "geometry": {"coordinates":[16.35278,45.14889],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209398541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.55944,45.47778,18.55944,45.47778",
+    "geom:latitude":45.47778,
+    "geom:longitude":18.55944,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Veliki Pomocin",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188016,
+    "gn:latitude":45.47778,
+    "gn:longitude":18.55944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Veliki Pomo\u0107in",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pomo\u0107in Veliki",
+        "Veliki Pomo\u0107in Pustara",
+        "Veliki Pomo\u0107in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188016
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3b4b6a51164c3fa387502a8f4dcb24a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209398541
+        }
+    ],
+    "wof:id":1209398541,
+    "wof:lastmodified":1537625812,
+    "wof:name":"Veliki Pomocin",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.55944,
+    45.47778,
+    18.55944,
+    45.47778
+],
+  "geometry": {"coordinates":[18.55944,45.47778],"type":"Point"}
+}

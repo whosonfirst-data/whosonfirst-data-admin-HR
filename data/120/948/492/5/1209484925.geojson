@@ -1,0 +1,71 @@
+{
+  "id": 1209484925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.58,46.28861,16.58,46.28861",
+    "geom:latitude":46.28861,
+    "geom:longitude":16.58,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"11055013.0",
+    "gn:asciiname":"Luka Ludbreska",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196084,
+    "gn:latitude":46.28861,
+    "gn:longitude":16.58,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Luka Ludbre\u0161ka",
+    "gn:population":255,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luka",
+        "Ludbre\u0161ka Luka",
+        "Luka Ludbre\u0161ka"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196084
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ecb7a181641745401703cd1ff58aa034",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209484925
+        }
+    ],
+    "wof:id":1209484925,
+    "wof:lastmodified":1537625870,
+    "wof:name":"Luka Ludbreska",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":255,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.58,
+    46.28861,
+    16.58,
+    46.28861
+],
+  "geometry": {"coordinates":[16.58,46.28861],"type":"Point"}
+}

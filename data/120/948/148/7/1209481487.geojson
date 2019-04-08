@@ -1,0 +1,61 @@
+{
+  "id": 1209481487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.82389,45.14611,18.82389,45.14611",
+    "geom:latitude":45.14611,
+    "geom:longitude":18.82389,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Vranjevo",
+    "gn:country_code":"HR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214541,
+    "gn:latitude":45.14611,
+    "gn:longitude":18.82389,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Vranjevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214541
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9a549c383be66787ecdb6c4feff86f9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209481487
+        }
+    ],
+    "wof:id":1209481487,
+    "wof:lastmodified":1536285769,
+    "wof:name":"Vranjevo",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.82389,
+    45.14611,
+    18.82389,
+    45.14611
+],
+  "geometry": {"coordinates":[18.82389,45.14611],"type":"Point"}
+}

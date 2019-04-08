@@ -1,0 +1,65 @@
+{
+  "id": 1326515695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36194,44.59583,15.36194,44.59583",
+    "geom:latitude":44.59583,
+    "geom:longitude":15.36194,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Besici",
+    "gn:country_code":"HR",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3271474,
+    "gn:latitude":44.59583,
+    "gn:longitude":15.36194,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Be\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3271474
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"44460af2f38ca4b889c201451ad38022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1326515695,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1326515695,
+    "wof:lastmodified":1537007209,
+    "wof:name":"Besici",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36194,
+    44.59583,
+    15.36194,
+    44.59583
+],
+  "geometry": {"coordinates":[15.36194,44.59583],"type":"Point"}
+}

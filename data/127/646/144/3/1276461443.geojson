@@ -1,0 +1,75 @@
+{
+  "id": 1276461443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.93333,45.63333,16.93333,45.63333",
+    "geom:latitude":45.63333,
+    "geom:longitude":16.93333,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"3200709.0",
+    "gn:asciiname":"Mali Pasijan",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195643,
+    "gn:latitude":45.63333,
+    "gn:longitude":16.93333,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Mali Pa\u0161ijan",
+    "gn:population":190,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mali Pa\u0161jan",
+        "Mali Pa\u0161ijan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195643,
+        "wk:page":"Mali_Pa%C5%A1ijan"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7136e6e9a011b0db523729bb1d36b477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276461443,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1276461443,
+    "wof:lastmodified":1537625867,
+    "wof:name":"Mali Pasijan",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":190,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.93333,
+    45.63333,
+    16.93333,
+    45.63333
+],
+  "geometry": {"coordinates":[16.93333,45.63333],"type":"Point"}
+}

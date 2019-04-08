@@ -1,0 +1,74 @@
+{
+  "id": 1210022521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.61889,45.19139,13.61889,45.19139",
+    "geom:latitude":45.19139,
+    "geom:longitude":13.61889,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mugeba",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194684,
+    "gn:latitude":45.19139,
+    "gn:longitude":13.61889,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Mugeba",
+    "gn:population":180,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monghebbo",
+        "Mungebal",
+        "Mugeba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194684
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6f97a5c1fde7061934e68d90ba276da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1210022521,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1210022521,
+    "wof:lastmodified":1537625859,
+    "wof:name":"Mugeba",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.61889,
+    45.19139000000001,
+    13.61889,
+    45.19139000000001
+],
+  "geometry": {"coordinates":[13.61889,45.19139000000001],"type":"Point"}
+}

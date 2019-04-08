@@ -1,0 +1,66 @@
+{
+  "id": 1344052559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12028,44.575,15.12028,44.575",
+    "geom:latitude":44.575,
+    "geom:longitude":15.12028,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049287.0",
+    "gn:asciiname":"Dosen-Duliba",
+    "gn:country_code":"HR",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217306,
+    "gn:latitude":44.575,
+    "gn:longitude":15.12028,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Do\u0161en-Duliba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217306
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9442a9e631f06ec3fd43c40ba48c268d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344052559,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1344052559,
+    "wof:lastmodified":1536886592,
+    "wof:name":"Dosen-Duliba",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12028,
+    44.575,
+    15.12028,
+    44.575
+],
+  "geometry": {"coordinates":[15.12028,44.575],"type":"Point"}
+}

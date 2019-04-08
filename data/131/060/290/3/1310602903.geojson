@@ -1,0 +1,65 @@
+{
+  "id": 1310602903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01694,42.69806,18.01694,42.69806",
+    "geom:latitude":42.69806,
+    "geom:longitude":18.01694,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Poljice",
+    "gn:country_code":"HR",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3263850,
+    "gn:latitude":42.69806,
+    "gn:longitude":18.01694,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Poljice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3263850
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"740872f843a19994f0d3e7f757ebc5a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310602903,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1310602903,
+    "wof:lastmodified":1536776994,
+    "wof:name":"Poljice",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01694,
+    42.69806,
+    18.01694,
+    42.69806
+],
+  "geometry": {"coordinates":[18.01694,42.69806],"type":"Point"}
+}

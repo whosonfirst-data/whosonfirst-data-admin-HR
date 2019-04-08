@@ -1,0 +1,70 @@
+{
+  "id": 1226431519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.77056,45.6275,18.77056,45.6275",
+    "geom:latitude":45.6275,
+    "geom:longitude":18.77056,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054392.0",
+    "gn:asciiname":"Vardarac",
+    "gn:country_code":"HR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3188368,
+    "gn:latitude":45.6275,
+    "gn:longitude":18.77056,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Vardarac",
+    "gn:population":630,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188368,
+        "wk:page":"Vardarac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2c9385d32087fb9d6daa311c4015e486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226431519,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1226431519,
+    "wof:lastmodified":1537563276,
+    "wof:name":"Vardarac",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":630,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.77056,
+    45.6275,
+    18.77056,
+    45.6275
+],
+  "geometry": {"coordinates":[18.77056,45.6275],"type":"Point"}
+}

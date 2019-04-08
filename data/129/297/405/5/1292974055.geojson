@@ -1,0 +1,73 @@
+{
+  "id": 1292974055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67972,43.74083,16.67972,43.74083",
+    "geom:latitude":43.74083,
+    "geom:longitude":16.67972,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"3190864.0",
+    "gn:asciiname":"Obrovac Sinjski",
+    "gn:country_code":"HR",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194242,
+    "gn:latitude":43.74083,
+    "gn:longitude":16.67972,
+    "gn:modification_date":"2017-01-02",
+    "gn:name":"Obrovac Sinjski",
+    "gn:population":804,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obravac",
+        "Obrovac Sinjski"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194242
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fb063b27de251ba317757d3214b5cc12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1292974055,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1292974055,
+    "wof:lastmodified":1537625854,
+    "wof:name":"Obrovac Sinjski",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":804,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67972,
+    43.74083,
+    16.67972,
+    43.74083
+],
+  "geometry": {"coordinates":[16.67972,43.74083],"type":"Point"}
+}

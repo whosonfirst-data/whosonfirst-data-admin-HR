@@ -1,0 +1,61 @@
+{
+  "id": 1209296685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00944,46.29611,16.00944,46.29611",
+    "geom:latitude":46.29611,
+    "geom:longitude":16.00944,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Galinec",
+    "gn:country_code":"HR",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215596,
+    "gn:latitude":46.29611,
+    "gn:longitude":16.00944,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Galinec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215596
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"78b0b8d5fb2115f3f94d3a97e44c14ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209296685
+        }
+    ],
+    "wof:id":1209296685,
+    "wof:lastmodified":1536291501,
+    "wof:name":"Galinec",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.009439999999998,
+    46.29611,
+    16.009439999999998,
+    46.29611
+],
+  "geometry": {"coordinates":[16.00944,46.29611],"type":"Point"}
+}

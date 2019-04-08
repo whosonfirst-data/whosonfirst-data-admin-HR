@@ -1,0 +1,69 @@
+{
+  "id": 1310084499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.45917,45.24222,16.45917,45.24222",
+    "geom:latitude":45.24222,
+    "geom:longitude":16.45917,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"11049225.0",
+    "gn:asciiname":"Gornja Velesnja",
+    "gn:country_code":"HR",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200165,
+    "gn:latitude":45.24222,
+    "gn:longitude":16.45917,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Gornja Vele\u0161nja",
+    "gn:population":73,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200165
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"635b1f089478dfb7e337e9a2b7448508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310084499,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1310084499,
+    "wof:lastmodified":1537025691,
+    "wof:name":"Gornja Velesnja",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":73,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.45917,
+    45.24222,
+    16.45917,
+    45.24222
+],
+  "geometry": {"coordinates":[16.45917,45.24222],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242851537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85778,45.45722,14.85778,45.45722",
+    "geom:latitude":45.45722,
+    "geom:longitude":14.85778,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"3202102.0",
+    "gn:asciiname":"Brod na Kupi",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203234,
+    "gn:latitude":45.45722,
+    "gn:longitude":14.85778,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Brod na Kupi",
+    "gn:population":207,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brod",
+        "Brod na Kupi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203234,
+        "wk:page":"Brod_na_Kupi"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"354e4b8dd990165bb77269ff3aa329d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242851537,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1242851537,
+    "wof:lastmodified":1537625929,
+    "wof:name":"Brod na Kupi",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:population":207,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85778,
+    45.45722,
+    14.85778,
+    45.45722
+],
+  "geometry": {"coordinates":[14.85778,45.45722],"type":"Point"}
+}

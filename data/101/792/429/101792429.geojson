@@ -1,0 +1,114 @@
+{
+  "id": 101792429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000199,
+    "geom:area_square_m":1726111.396799,
+    "geom:bbox":"18.8518164709,45.5086188375,18.8851846239,45.5227439854",
+    "geom:latitude":45.516373,
+    "geom:longitude":18.870183,
+    "gn:population":4,
+    "iso:country":"HR",
+    "lbl:latitude":45.517792,
+    "lbl:longitude":18.870436,
+    "mps:latitude":45.517792,
+    "mps:longitude":18.870436,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Bijelo Brdo"
+    ],
+    "name:dut_x_preferred":[
+        "Bijelo Brdo"
+    ],
+    "name:eng_x_preferred":[
+        "Bijelo Brdo"
+    ],
+    "name:fra_x_preferred":[
+        "Bijelo Brdo"
+    ],
+    "name:fre_x_preferred":[
+        "Bijelo Brdo"
+    ],
+    "name:hbs_x_preferred":[
+        "Bijelo Brdo"
+    ],
+    "name:hrv_x_preferred":[
+        "Bijelo Brdo"
+    ],
+    "name:hun_x_preferred":[
+        "Bijelo Brdo"
+    ],
+    "name:slv_x_preferred":[
+        "Bijelo Brdo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0458\u0435\u043b\u043e \u0411\u0440\u0434\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Bielo Brdo"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Osjecko-baranjska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Erdut",
+    "qs:la_lc":"*HR1401104",
+    "qs:level":"locality",
+    "qs:loc":"Bijelo Brdo",
+    "qs:loc_alt":"Bijelo Brdo",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204182,
+        "gp:id":846807,
+        "qs:id":966973,
+        "qs_pg:id":966973,
+        "wd:id":"Q794862"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8a11ac85ec5174ec1df8c7c8b4b85223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101792429,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":101792429,
+    "wof:lastmodified":1553815506,
+    "wof:name":"Bijelo Brdo",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":4,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.85181647085176,
+    45.50861883754544,
+    18.88518462388515,
+    45.52274398540374
+],
+  "geometry": {"coordinates":[[[18.87588867979014,45.52231559965747],[18.8757433954795,45.52142180832033],[18.87701445724969,45.52131467573952],[18.87672386653674,45.51952709465104],[18.87799488325743,45.51941995084286],[18.8778495768571,45.51852616109153],[18.88039155632151,45.51831183172106],[18.88024621550693,45.51741804519042],[18.88405909034202,45.51709644271671],[18.88391369482844,45.51620266142703],[18.88518462388515,45.51609543209617],[18.88431225862797,45.51073273930183],[18.88177063946875,45.51094715846511],[18.88206132208006,45.51273473407957],[18.86299800091717,45.51434099245961],[18.86270792688379,45.51255335633158],[18.86016615608514,45.51276725659034],[18.86002116887266,45.51187343327206],[18.85875029707927,45.51198035849342],[18.85831543320671,45.50929887759759],[18.85577379797803,45.50951267017058],[18.85562889622202,45.50861883754544],[18.85181647085176,45.50893940590288],[18.8522510119866,45.51162091944474],[18.857334480345,45.51119344028939],[18.85776932025612,45.51387492232845],[18.86031114944893,45.513661079092],[18.86089118442862,45.51723636093561],[18.85834919291074,45.51745022028678],[18.85863916614744,45.51923786436936],[18.86245226849917,45.51891704035751],[18.86303253235212,45.52249229455049],[18.8643036387362,45.5223853146216],[18.8641585432427,45.5214915043133],[18.86797177475353,45.52117047898219],[18.86811693113361,45.52206428324178],[18.8706591037639,45.52185018599482],[18.8708043068952,45.52274398540374],[18.87588867979014,45.52231559965747]]],"type":"Polygon"}
+}

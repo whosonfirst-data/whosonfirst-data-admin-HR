@@ -1,0 +1,69 @@
+{
+  "id": 1243070923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25444,45.32417,17.25444,45.32417",
+    "geom:latitude":45.32417,
+    "geom:longitude":17.25444,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"11049499.0",
+    "gn:asciiname":"Sirinci",
+    "gn:country_code":"HR",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190831,
+    "gn:latitude":45.32417,
+    "gn:longitude":17.25444,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"\u0160irinci",
+    "gn:population":2,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190831
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c3c116cee05b81410a4ef85acdfcd716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243070923,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1243070923,
+    "wof:lastmodified":1536848743,
+    "wof:name":"Sirinci",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25444,
+    45.32417,
+    17.25444,
+    45.32417
+],
+  "geometry": {"coordinates":[17.25444,45.32417],"type":"Point"}
+}

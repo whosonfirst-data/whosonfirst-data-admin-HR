@@ -1,0 +1,74 @@
+{
+  "id": 1344063037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.11139,45.36889,14.11139,45.36889",
+    "geom:latitude":45.36889,
+    "geom:longitude":14.11139,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054807.0",
+    "gn:asciiname":"Semic",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191073,
+    "gn:latitude":45.36889,
+    "gn:longitude":14.11139,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Semi\u0107",
+    "gn:population":94,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Semi",
+        "Semi\u0107"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191073
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"807fc1344cb3eaea9c1794f31fd61504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344063037,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1344063037,
+    "wof:lastmodified":1537625834,
+    "wof:name":"Semic",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.11139,
+    45.36889,
+    14.11139,
+    45.36889
+],
+  "geometry": {"coordinates":[14.11139,45.36889],"type":"Point"}
+}

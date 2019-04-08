@@ -1,0 +1,66 @@
+{
+  "id": 1310295739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66389,44.67278,15.66389,44.67278",
+    "geom:latitude":44.67278,
+    "geom:longitude":15.66389,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049294.0",
+    "gn:asciiname":"Cortani",
+    "gn:country_code":"HR",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275567,
+    "gn:latitude":44.67278,
+    "gn:longitude":15.66389,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"\u010cortani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275567
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b0ffd854b8fbf7a15db526beadaa1f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310295739,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1310295739,
+    "wof:lastmodified":1536722395,
+    "wof:name":"Cortani",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66389,
+    44.67278,
+    15.66389,
+    44.67278
+],
+  "geometry": {"coordinates":[15.66389,44.67278],"type":"Point"}
+}

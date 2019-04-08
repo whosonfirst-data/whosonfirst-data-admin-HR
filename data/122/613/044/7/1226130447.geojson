@@ -1,0 +1,69 @@
+{
+  "id": 1226130447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.02806,45.4775,17.02806,45.4775",
+    "geom:latitude":45.4775,
+    "geom:longitude":17.02806,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049477.0",
+    "gn:asciiname":"Gaj",
+    "gn:country_code":"HR",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200759,
+    "gn:latitude":45.4775,
+    "gn:longitude":17.02806,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Gaj",
+    "gn:population":324,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200759
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4aa5cf575690ed79690dfa5586c0781a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226130447,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1226130447,
+    "wof:lastmodified":1537096544,
+    "wof:name":"Gaj",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":324,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.02806,
+    45.4775,
+    17.02806,
+    45.4775
+],
+  "geometry": {"coordinates":[17.02806,45.4775],"type":"Point"}
+}

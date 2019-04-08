@@ -1,0 +1,77 @@
+{
+  "id": 1259904153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0775,45.16722,14.0775,45.16722",
+    "geom:latitude":45.16722,
+    "geom:longitude":14.0775,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11072234.0",
+    "gn:asciiname":"Sumber",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189512,
+    "gn:latitude":45.16722,
+    "gn:longitude":14.0775,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"\u0160umber",
+    "gn:population":381,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casali Sumberesi",
+        "\u0160umbreg",
+        "\u0160umberk",
+        "\u0160umber"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189512,
+        "wk:page":"%C5%A0umber"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8f3b07a015cc1d49971998e71725cb37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259904153,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1259904153,
+    "wof:lastmodified":1537625823,
+    "wof:name":"Sumber",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":381,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0775,
+    45.16722,
+    14.0775,
+    45.16722
+],
+  "geometry": {"coordinates":[14.0775,45.16722],"type":"Point"}
+}

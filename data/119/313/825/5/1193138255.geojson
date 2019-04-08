@@ -1,0 +1,71 @@
+{
+  "id": 1193138255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.51389,45.47361,13.51389,45.47361",
+    "geom:latitude":45.47361,
+    "geom:longitude":13.51389,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11129767.0",
+    "gn:asciiname":"Zambratija",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186814,
+    "gn:latitude":45.47361,
+    "gn:longitude":13.51389,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Zambratija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zambrattia",
+        "Zambratija"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186814
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9eb61ad9917e98feb5bf18a64b86d62f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193138255,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1193138255,
+    "wof:lastmodified":1537625805,
+    "wof:name":"Zambratija",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.51389,
+    45.47361,
+    13.51389,
+    45.47361
+],
+  "geometry": {"coordinates":[13.51389,45.47361],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243027193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01611,45.7625,16.01611,45.7625",
+    "geom:latitude":45.7625,
+    "geom:longitude":16.01611,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Jakusevec",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3198920,
+    "gn:latitude":45.7625,
+    "gn:longitude":16.01611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jaku\u0161evec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaku\u0161eveo",
+        "Jaku\u0161evec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198920,
+        "wk:page":"Jaku%C5%A1evec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d614772d85ba04c89e01682bb1d096bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243027193,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1243027193,
+    "wof:lastmodified":1537625892,
+    "wof:name":"Jakusevec",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01611,
+    45.7625,
+    16.01611,
+    45.7625
+],
+  "geometry": {"coordinates":[16.01611,45.7625],"type":"Point"}
+}

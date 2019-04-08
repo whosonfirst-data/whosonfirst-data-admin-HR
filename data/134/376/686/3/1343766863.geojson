@@ -1,0 +1,67 @@
+{
+  "id": 1343766863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70361,45.17,15.70361,45.17",
+    "geom:latitude":45.17,
+    "geom:longitude":15.70361,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"11049268.0",
+    "gn:asciiname":"Batnoga",
+    "gn:country_code":"HR",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3281104,
+    "gn:latitude":45.17,
+    "gn:longitude":15.70361,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Batnoga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3281104,
+        "wk:page":"Batnoga"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"aadda2cec2097101d785133bd12de07a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343766863,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1343766863,
+    "wof:lastmodified":1537563318,
+    "wof:name":"Batnoga",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70361,
+    45.17,
+    15.70361,
+    45.17
+],
+  "geometry": {"coordinates":[15.70361,45.17],"type":"Point"}
+}

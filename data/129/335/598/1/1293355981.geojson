@@ -1,0 +1,69 @@
+{
+  "id": 1293355981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37322,43.99905,15.37322,43.99905",
+    "geom:latitude":43.99905,
+    "geom:longitude":15.37322,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"11054381.0",
+    "gn:asciiname":"Sveti Petar na Moru",
+    "gn:country_code":"HR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11102361,
+    "gn:latitude":43.99905,
+    "gn:longitude":15.37322,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Sveti Petar na Moru",
+    "gn:population":403,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11102361
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f624ed6253b2dba5ca0fc8d58f871152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293355981,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1293355981,
+    "wof:lastmodified":1536976210,
+    "wof:name":"Sveti Petar na Moru",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":403,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37322,
+    43.99905,
+    15.37322,
+    43.99905
+],
+  "geometry": {"coordinates":[15.37322,43.99905],"type":"Point"}
+}

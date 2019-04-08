@@ -1,0 +1,67 @@
+{
+  "id": 1193108095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91472,45.23889,15.91472,45.23889",
+    "geom:latitude":45.23889,
+    "geom:longitude":15.91472,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"11049234.0",
+    "gn:asciiname":"Katinovac",
+    "gn:country_code":"HR",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3198201,
+    "gn:latitude":45.23889,
+    "gn:longitude":15.91472,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Katinovac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3198201,
+        "wk:page":"Katinovac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d9ff29d6db4ce3cdfb6f9f4e64b4c878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193108095,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1193108095,
+    "wof:lastmodified":1537563297,
+    "wof:name":"Katinovac",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91472,
+    45.23889000000001,
+    15.91472,
+    45.23889000000001
+],
+  "geometry": {"coordinates":[15.91472,45.23889000000001],"type":"Point"}
+}

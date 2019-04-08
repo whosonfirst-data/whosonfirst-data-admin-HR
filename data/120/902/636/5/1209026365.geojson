@@ -1,0 +1,66 @@
+{
+  "id": 1209026365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25056,44.62278,15.25056,44.62278",
+    "geom:latitude":44.62278,
+    "geom:longitude":15.25056,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Donji Filipovici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217628,
+    "gn:latitude":44.62278,
+    "gn:longitude":15.25056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Donji Filipovi\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Filipovici",
+        "Donji Filipovi\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217628
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"81e15faaace3363be9fd480a50ed87fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209026365
+        }
+    ],
+    "wof:id":1209026365,
+    "wof:lastmodified":1537625956,
+    "wof:name":"Donji Filipovici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25056,
+    44.62278,
+    15.25056,
+    44.62278
+],
+  "geometry": {"coordinates":[15.25056,44.62278],"type":"Point"}
+}

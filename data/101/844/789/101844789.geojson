@@ -1,0 +1,155 @@
+{
+  "id": 101844789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":648548.75251,
+    "geom:bbox":"15.8525722353,45.34574691,15.8689051697,45.3595001927",
+    "geom:latitude":45.352581,
+    "geom:longitude":15.862697,
+    "gn:population":1309,
+    "iso:country":"HR",
+    "lbl:latitude":45.350997,
+    "lbl:longitude":15.865976,
+    "mps:latitude":45.350997,
+    "mps:longitude":15.865976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Gvozd"
+    ],
+    "name:cat_x_preferred":[
+        "Gvozd"
+    ],
+    "name:deu_x_preferred":[
+        "Gvozd"
+    ],
+    "name:dut_x_preferred":[
+        "Vrginmost"
+    ],
+    "name:eng_x_preferred":[
+        "Gvozd / Vrginmost"
+    ],
+    "name:fra_x_preferred":[
+        "Gvozd"
+    ],
+    "name:fre_x_preferred":[
+        "Vrginmost"
+    ],
+    "name:ger_x_preferred":[
+        "Gvozd"
+    ],
+    "name:hbs_x_preferred":[
+        "Vrginmost"
+    ],
+    "name:hrv_x_preferred":[
+        "Gvozd"
+    ],
+    "name:hun_x_preferred":[
+        "Gvozd"
+    ],
+    "name:ita_x_preferred":[
+        "Gvozd"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30f4\u30a9\u30ba\u30c9"
+    ],
+    "name:nld_x_preferred":[
+        "Gvozd"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Gvozd"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Gvozd"
+    ],
+    "name:slv_x_preferred":[
+        "Gvozd"
+    ],
+    "name:spa_x_preferred":[
+        "Gvozd"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0433\u0438\u043d\u043c\u043e\u0441\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Gvozd"
+    ],
+    "name:und_x_preferred":[
+        "Gvozd"
+    ],
+    "name:unk_x_variant":[
+        "Vrginmost"
+    ],
+    "name:war_x_preferred":[
+        "Gvozd"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Sisacko-moslavacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Gvozd",
+    "qs:la_lc":"*HR0305100",
+    "qs:level":"locality",
+    "qs:loc":"Gvozd",
+    "qs:loc_alt":"Gvozd",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":413,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115dd262-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3187232,
+        "gp:id":55853642,
+        "qs:id":1098751,
+        "qs_pg:id":1098751,
+        "wd:id":"Q4550",
+        "wk:page":"Gvozd"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9daa2b6dca09e85b5dd380e92909b82d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844789,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":101844789,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642632,
+    "wof:name":"Gvozd",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":1309,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85257223531244,
+    45.34574690995248,
+    15.86890516966645,
+    45.35950019271615
+],
+  "geometry": {"coordinates":[[[15.86487255661655,45.35942939053689],[15.86458571990642,45.35673539406338],[15.86585693053615,45.35666458056835],[15.86557006888245,45.35397058211737],[15.86684121507216,45.35389975730789],[15.86674558214713,45.35300175782902],[15.86801670489945,45.35293091903947],[15.86763413183746,45.34933891981319],[15.86890516966645,45.34926807104495],[15.8687138665249,45.34747207011117],[15.86744286968292,45.34754291621243],[15.86725162377616,45.34574690995248],[15.86089680041835,45.34610089745559],[15.86099231888204,45.34699890758054],[15.86353429801926,45.34685735584912],[15.86391657640473,45.35044937904638],[15.85756119665803,45.35080317017383],[15.85765667392144,45.35170118097182],[15.86274106557778,45.3514181733683],[15.86283662888758,45.35231617817482],[15.86410773995783,45.35224538665852],[15.86449011579407,45.35583739391069],[15.85940532589967,45.35612048941312],[15.85930980785218,45.35522248326652],[15.85803862353811,45.35529321752375],[15.85794313004868,45.35439520938178],[15.8566719633003,45.3544659269931],[15.85648102949074,45.35266990605487],[15.85393876918909,45.35281129001152],[15.85384334936418,45.35191327588484],[15.85257223531244,45.35198394356223],[15.85276303801766,45.35377997381244],[15.85403419306749,45.3537093034742],[15.85412962099991,45.3546073162733],[15.85540079361704,45.35453662929041],[15.85549624610491,45.35543464009481],[15.85676743628875,45.35536393646646],[15.85686291333371,45.356261945276],[15.85813412108433,45.35619122500191],[15.85842063806848,45.35888524345324],[15.86350568574352,45.35860219322268],[15.86360128153825,45.35950019271615],[15.86487255661655,45.35942939053689]]],"type":"Polygon"}
+}

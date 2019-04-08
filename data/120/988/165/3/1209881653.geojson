@@ -1,0 +1,74 @@
+{
+  "id": 1209881653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78333,44.11667,15.78333,44.11667",
+    "geom:latitude":44.11667,
+    "geom:longitude":15.78333,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"11049512.0",
+    "gn:asciiname":"Medviga",
+    "gn:country_code":"HR",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195284,
+    "gn:latitude":44.11667,
+    "gn:longitude":15.78333,
+    "gn:modification_date":"2016-12-30",
+    "gn:name":"Medvi\u0111a",
+    "gn:population":140,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Medvidja",
+        "Medvi\u0111e",
+        "Medvi\u0111a"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195284
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a7d0f6e64c259bfdb49aedfc7b20f0d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209881653,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1209881653,
+    "wof:lastmodified":1537625863,
+    "wof:name":"Medviga",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:population":140,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78333,
+    44.11667,
+    15.78333,
+    44.11667
+],
+  "geometry": {"coordinates":[15.78333,44.11667],"type":"Point"}
+}

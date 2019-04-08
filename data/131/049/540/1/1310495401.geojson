@@ -1,0 +1,70 @@
+{
+  "id": 1310495401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.18698,45.66233,18.18698,45.66233",
+    "geom:latitude":45.66233,
+    "geom:longitude":18.18698,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"11054472.0",
+    "gn:asciiname":"Magadenovac",
+    "gn:country_code":"HR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8505067,
+    "gn:latitude":45.66233,
+    "gn:longitude":18.18698,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Magadenovac",
+    "gn:population":109,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8505067,
+        "wk:page":"Magadenovac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0f9697cd66cf1229f7de19c368a8de58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310495401,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1310495401,
+    "wof:lastmodified":1537563320,
+    "wof:name":"Magadenovac",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":109,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.18698,
+    45.66233,
+    18.18698,
+    45.66233
+],
+  "geometry": {"coordinates":[18.18698,45.66233],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209210555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74583,44.58361,15.74583,44.58361",
+    "geom:latitude":44.58361,
+    "geom:longitude":15.74583,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049294.0",
+    "gn:asciiname":"Masici",
+    "gn:country_code":"HR",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3277110,
+    "gn:latitude":44.58361,
+    "gn:longitude":15.74583,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Ma\u0161i\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3277110
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0fc6e986a3bdf38aca85da1b15d6503b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209210555
+        }
+    ],
+    "wof:id":1209210555,
+    "wof:lastmodified":1536294305,
+    "wof:name":"Masici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.745829999999998,
+    44.58361,
+    15.745829999999998,
+    44.58361
+],
+  "geometry": {"coordinates":[15.74583,44.58361],"type":"Point"}
+}

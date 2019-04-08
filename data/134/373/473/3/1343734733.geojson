@@ -1,0 +1,67 @@
+{
+  "id": 1343734733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32528,46.24694,16.32528,46.24694",
+    "geom:latitude":46.24694,
+    "geom:longitude":16.32528,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"11049314.0",
+    "gn:asciiname":"Sveti Ilija",
+    "gn:country_code":"HR",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3189341,
+    "gn:latitude":46.24694,
+    "gn:longitude":16.32528,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Sveti Ilija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189341,
+        "wk:page":"Sveti_Ilija"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"44961e53a14b06eaa20aed2c760143d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343734733,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1343734733,
+    "wof:lastmodified":1537563278,
+    "wof:name":"Sveti Ilija",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32528,
+    46.24694,
+    16.32528,
+    46.24694
+],
+  "geometry": {"coordinates":[16.32528,46.24694],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 101857843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.809978,45.723545,15.809978,45.723545",
+    "geom:latitude":45.723545,
+    "geom:longitude":15.809978,
+    "geonames:id":"3199346,3217785",
+    "iso:country":"HR",
+    "lbl:latitude":45.723545,
+    "lbl:longitude":15.809978,
+    "mps:latitude":45.723545,
+    "mps:longitude":15.809978,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Horvati"
+    ],
+    "name:dut_x_preferred":[
+        "Horvati"
+    ],
+    "name:eng_x_preferred":[
+        "Horvati"
+    ],
+    "name:hbs_x_preferred":[
+        "Horvati"
+    ],
+    "name:hrv_x_preferred":[
+        "Horvati"
+    ],
+    "name:slv_x_preferred":[
+        "Horvati"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u0432\u0430\u0442\u0438"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Grad Zagreb",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Horvati",
+    "qs:loc_alt":"Horvati",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199346,
+        "gp:id":848097,
+        "qs_pg:id":1044045,
+        "wd:id":"Q3442392"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4bf4b43653711c5169fbd2c310b50453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101857843,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":101857843,
+    "wof:lastmodified":1544744107,
+    "wof:name":"Horvati",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.809978,
+    45.723545,
+    15.809978,
+    45.723545
+],
+  "geometry": {"coordinates":[15.809978,45.723545],"type":"Point"}
+}

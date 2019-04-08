@@ -1,0 +1,62 @@
+{
+  "id": 1209305283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69361,44.65944,15.69361,44.65944",
+    "geom:latitude":44.65944,
+    "geom:longitude":15.69361,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049294.0",
+    "gn:asciiname":"Pupavci",
+    "gn:country_code":"HR",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3275563,
+    "gn:latitude":44.65944,
+    "gn:longitude":15.69361,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Pupavci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3275563
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"28c25094c7bfb2680143931e3ff2ccd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209305283
+        }
+    ],
+    "wof:id":1209305283,
+    "wof:lastmodified":1536291217,
+    "wof:name":"Pupavci",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69361,
+    44.65944,
+    15.69361,
+    44.65944
+],
+  "geometry": {"coordinates":[15.69361,44.65944],"type":"Point"}
+}

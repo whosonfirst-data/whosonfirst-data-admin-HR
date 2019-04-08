@@ -1,0 +1,115 @@
+{
+  "id": 1125921927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7,43.46667,16.7,43.46667",
+    "geom:latitude":43.46667,
+    "geom:longitude":16.7,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":567,
+    "iso:country":"HR",
+    "lbl:latitude":43.46667,
+    "lbl:longitude":16.7,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Gata"
+    ],
+    "name:cat_x_preferred":[
+        "Gata"
+    ],
+    "name:dut_x_preferred":[
+        "Gata"
+    ],
+    "name:eng_x_preferred":[
+        "Gata"
+    ],
+    "name:hrv_x_preferred":[
+        "Gata"
+    ],
+    "name:hun_x_preferred":[
+        "Gata"
+    ],
+    "name:slv_x_preferred":[
+        "Gata"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u0442\u0430"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3200695,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gata",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Splitsko-Dalmatinska",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":983655,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":847710,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Splitsko-Dalmatinska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200695,
+        "gp:id":847710,
+        "qs_pg:id":983655,
+        "wd:id":"Q1564179"
+    },
+    "wof:country":"HR",
+    "wof:created":1497296510,
+    "wof:geomhash":"34a8d56a9707474fc0524f58e3667026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125921927,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1125921927,
+    "wof:lastmodified":1514447439,
+    "wof:name":"Gata",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":567,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7,
+    43.46667,
+    16.7,
+    43.46667
+],
+  "geometry": {"coordinates":[16.7,43.46667],"type":"Point"}
+}

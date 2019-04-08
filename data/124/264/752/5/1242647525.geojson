@@ -1,0 +1,72 @@
+{
+  "id": 1242647525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.55583,43.34222,16.55583,43.34222",
+    "geom:latitude":43.34222,
+    "geom:longitude":16.55583,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"11054615.0",
+    "gn:asciiname":"Donji Humac",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201468,
+    "gn:latitude":43.34222,
+    "gn:longitude":16.55583,
+    "gn:modification_date":"2017-01-01",
+    "gn:name":"Donji Humac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Humac Donji",
+        "Donji Humac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201468,
+        "wk:page":"Donji_Humac"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b9d7725e498d0ccc8bc959282f829f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242647525,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1242647525,
+    "wof:lastmodified":1537625915,
+    "wof:name":"Donji Humac",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.55583,
+    43.34222000000001,
+    16.55583,
+    43.34222000000001
+],
+  "geometry": {"coordinates":[16.55583,43.34222000000001],"type":"Point"}
+}

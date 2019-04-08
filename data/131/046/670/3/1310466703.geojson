@@ -1,0 +1,74 @@
+{
+  "id": 1310466703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.66667,45.85,16.66667,45.85",
+    "geom:latitude":45.85,
+    "geom:longitude":16.66667,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"11048983.0",
+    "gn:asciiname":"Donji Markovac",
+    "gn:country_code":"HR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3201439,
+    "gn:latitude":45.85,
+    "gn:longitude":16.66667,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Donji Markovac",
+    "gn:population":41,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mali Markovac",
+        "Markovac Donji",
+        "Donji Markovac"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3201439
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5ad3b5b5eb364ce6032d452176bd7372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310466703,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1310466703,
+    "wof:lastmodified":1537625914,
+    "wof:name":"Donji Markovac",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.66667,
+    45.85,
+    16.66667,
+    45.85
+],
+  "geometry": {"coordinates":[16.66667,45.85],"type":"Point"}
+}

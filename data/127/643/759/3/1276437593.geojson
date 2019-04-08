@@ -1,0 +1,72 @@
+{
+  "id": 1276437593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12167,44.98722,15.12167,44.98722",
+    "geom:latitude":44.98722,
+    "geom:longitude":15.12167,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049284.0",
+    "gn:asciiname":"Gerici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3273978,
+    "gn:latitude":44.98722,
+    "gn:longitude":15.12167,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Geri\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krznari\u0107i Geri\u0107i",
+        "Krzneri\u0107i",
+        "Geri\u0107i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3273978
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"69b6d6952160c18eb4045ce8cdb83eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276437593,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1276437593,
+    "wof:lastmodified":1537625961,
+    "wof:name":"Gerici",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12167,
+    44.98722,
+    15.12167,
+    44.98722
+],
+  "geometry": {"coordinates":[15.12167,44.98722],"type":"Point"}
+}

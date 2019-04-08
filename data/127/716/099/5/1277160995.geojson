@@ -1,0 +1,66 @@
+{
+  "id": 1277160995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.24222,45.38611,18.24222,45.38611",
+    "geom:latitude":45.38611,
+    "geom:longitude":18.24222,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"11054458.0",
+    "gn:asciiname":"Slatinsko Brdo",
+    "gn:country_code":"HR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214624,
+    "gn:latitude":45.38611,
+    "gn:longitude":18.24222,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Slatinsko Brdo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214624
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5defd51044916eb007f5a2052362691d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277160995,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1277160995,
+    "wof:lastmodified":1536654899,
+    "wof:name":"Slatinsko Brdo",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.24222,
+    45.38611,
+    18.24222,
+    45.38611
+],
+  "geometry": {"coordinates":[18.24222,45.38611],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 101834353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":516145.716459,
+    "geom:bbox":"16.1356155177,46.3526614613,16.1601070062,46.3637652681",
+    "geom:latitude":46.358146,
+    "geom:longitude":16.147493,
+    "iso:country":"HR",
+    "lbl:latitude":46.35764,
+    "lbl:longitude":16.148338,
+    "mps:latitude":46.35764,
+    "mps:longitude":16.148338,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Gornje Vratno"
+    ],
+    "name:dut_x_preferred":[
+        "Gornje Vratno"
+    ],
+    "name:eng_x_preferred":[
+        "Gornje Vratno"
+    ],
+    "name:hbs_x_preferred":[
+        "Gornje Vratno"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornje Vratno"
+    ],
+    "name:hun_x_preferred":[
+        "Gornje Vratno"
+    ],
+    "name:slv_x_preferred":[
+        "Gornje Vratno"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0435 \u0412\u0440\u0430\u0442\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Vratno"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Vara\u017edinska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Cestica",
+    "qs:la_lc":"*HR0500485",
+    "qs:level":"locality",
+    "qs:loc":"Gornje Vratno",
+    "qs:loc_alt":"Gornje Vratno",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200069,
+        "gp:id":851022,
+        "qs:id":2,
+        "wd:id":"Q752273",
+        "wk:page":"Gornje Vratno"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c6f151773c9031dd8a5af34d0ac164b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101834353,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":101834353,
+    "wof:lastmodified":1527642930,
+    "wof:name":"Gornje Vratno",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13561551774035,
+    46.3526614613067,
+    16.16010700623485,
+    46.36376526807032
+],
+  "geometry": {"coordinates":[[[16.15610870567292,46.35358062644036],[16.15429563396469,46.3526614613067],[16.15430941986796,46.35278118993244],[16.15301511770508,46.35285569341335],[16.15311840088248,46.35375278246704],[16.15182407399539,46.35382727175732],[16.15192734017535,46.35472436163349],[16.15063298856353,46.35479883673321],[16.15073623774481,46.35569592743201],[16.14944186140713,46.35577038833998],[16.14954509358762,46.35666747986158],[16.14695628820635,46.35681635765917],[16.14705948191096,46.357713451444],[16.14188174622507,46.35801102519417],[16.14198485849863,46.35890812412123],[16.13939592820003,46.35905682006904],[16.13949900198674,46.35995392125687],[16.13561551774035,46.36017685223385],[16.13602759977925,46.36376526807032],[16.13861676436102,46.36361665154448],[16.13851369419615,46.36271955138977],[16.14110280281892,46.36257087519738],[16.14089658996556,46.36077667879135],[16.14219109644375,46.36070232012082],[16.14208797523816,46.35980522243011],[16.14467693548698,46.35965646106354],[16.14457377579538,46.35875936563463],[16.14975157136098,46.35846166104761],[16.14964833023885,46.35756457076394],[16.15482598783785,46.35726662179644],[16.15492931485539,46.35816370631187],[16.16010700623485,46.35786550143138],[16.16000359332639,46.35696842268908],[16.15870919684198,46.35704299591646],[16.15860580988362,46.35614591511109],[16.15601705008243,46.3562950117784],[16.15570704488971,46.35360375698815],[16.15610870567292,46.35358062644036]]],"type":"Polygon"}
+}

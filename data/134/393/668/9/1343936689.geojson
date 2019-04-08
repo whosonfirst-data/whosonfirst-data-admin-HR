@@ -1,0 +1,65 @@
+{
+  "id": 1343936689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12833,45.20833,16.12833,45.20833",
+    "geom:latitude":45.20833,
+    "geom:longitude":16.12833,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Januzi",
+    "gn:country_code":"HR",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3276552,
+    "gn:latitude":45.20833,
+    "gn:longitude":16.12833,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Januzi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276552
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4e1e21b69c84c48391b7e5324a7fd942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343936689,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1343936689,
+    "wof:lastmodified":1537052146,
+    "wof:name":"Januzi",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12833,
+    45.20833,
+    16.12833,
+    45.20833
+],
+  "geometry": {"coordinates":[16.12833,45.20833],"type":"Point"}
+}

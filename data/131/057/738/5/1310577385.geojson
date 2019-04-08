@@ -1,0 +1,72 @@
+{
+  "id": 1310577385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.93333,45.5,17.93333,45.5",
+    "geom:latitude":45.5,
+    "geom:longitude":17.93333,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"3194063.0",
+    "gn:asciiname":"Sumede",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189506,
+    "gn:latitude":45.5,
+    "gn:longitude":17.93333,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Sume\u0111e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sumedje",
+        "Sume\u0111e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189506,
+        "wk:page":"%C5%A0ume%C4%91e"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2b6e5800f062eeb9d6dce3988c921844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310577385,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":1310577385,
+    "wof:lastmodified":1537625823,
+    "wof:name":"Sumede",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.93332999999999,
+    45.5,
+    17.93332999999999,
+    45.5
+],
+  "geometry": {"coordinates":[17.93332999999999,45.5],"type":"Point"}
+}

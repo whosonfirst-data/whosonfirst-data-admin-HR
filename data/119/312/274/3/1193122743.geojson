@@ -1,0 +1,65 @@
+{
+  "id": 1193122743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0475,44.82306,15.0475,44.82306",
+    "geom:latitude":44.82306,
+    "geom:longitude":15.0475,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Krc",
+    "gn:country_code":"HR",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3218107,
+    "gn:latitude":44.82306,
+    "gn:longitude":15.0475,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Kr\u010d",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3218107
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5d2c826e340957f1f619a73221d12984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193122743,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1193122743,
+    "wof:lastmodified":1536384165,
+    "wof:name":"Krc",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0475,
+    44.82306,
+    15.0475,
+    44.82306
+],
+  "geometry": {"coordinates":[15.0475,44.82306],"type":"Point"}
+}

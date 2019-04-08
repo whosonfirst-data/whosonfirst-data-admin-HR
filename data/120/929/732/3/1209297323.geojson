@@ -1,0 +1,66 @@
+{
+  "id": 1209297323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85,43.4,16.85,43.4",
+    "geom:latitude":43.4,
+    "geom:longitude":16.85,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"3194113.0",
+    "gn:asciiname":"Pisak",
+    "gn:country_code":"HR",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3193328,
+    "gn:latitude":43.4,
+    "gn:longitude":16.85,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Pisak",
+    "gn:population":202,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193328,
+        "wk:page":"Pisak"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"47fbc1f12a2879359af5581890b57f0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209297323
+        }
+    ],
+    "wof:id":1209297323,
+    "wof:lastmodified":1537563285,
+    "wof:name":"Pisak",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:population":202,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85,
+    43.4,
+    16.85,
+    43.4
+],
+  "geometry": {"coordinates":[16.85,43.4],"type":"Point"}
+}

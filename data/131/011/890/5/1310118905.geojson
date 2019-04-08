@@ -1,0 +1,68 @@
+{
+  "id": 1310118905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.465,45.24778,17.465,45.24778",
+    "geom:latitude":45.24778,
+    "geom:longitude":17.465,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Adzamovci",
+    "gn:country_code":"HR",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204866,
+    "gn:latitude":45.24778,
+    "gn:longitude":17.465,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Ad\u017eamovci",
+    "gn:population":612,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204866
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"319e1219701f9ae48e560ef24c4d1529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1310118905,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1310118905,
+    "wof:lastmodified":1536976529,
+    "wof:name":"Adzamovci",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":612,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.465,
+    45.24778,
+    17.465,
+    45.24778
+],
+  "geometry": {"coordinates":[17.465,45.24778],"type":"Point"}
+}

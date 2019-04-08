@@ -1,0 +1,61 @@
+{
+  "id": 1209039787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75667,45.20278,13.75667,45.20278",
+    "geom:latitude":45.20278,
+    "geom:longitude":13.75667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Stifanici",
+    "gn:country_code":"HR",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215315,
+    "gn:latitude":45.20278,
+    "gn:longitude":13.75667,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Stifani\u0107i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215315
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"566421bb92ed99925cbdbae831718743",
+    "wof:hierarchy":[
+        {
+            "country_id":85633229,
+            "locality_id":1209039787
+        }
+    ],
+    "wof:id":1209039787,
+    "wof:lastmodified":1536299582,
+    "wof:name":"Stifanici",
+    "wof:parent_id":85633229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.756670000000002,
+    45.20278,
+    13.756670000000002,
+    45.20278
+],
+  "geometry": {"coordinates":[13.75667,45.20278],"type":"Point"}
+}

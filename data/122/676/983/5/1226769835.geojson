@@ -1,0 +1,66 @@
+{
+  "id": 1226769835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.80833,44.52167,15.80833,44.52167",
+    "geom:latitude":44.52167,
+    "geom:longitude":15.80833,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"11049294.0",
+    "gn:asciiname":"Veljun",
+    "gn:country_code":"HR",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3276181,
+    "gn:latitude":44.52167,
+    "gn:longitude":15.80833,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Veljun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3276181
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c4ec54529aff7f784b7f311c59ed6934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226769835,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1226769835,
+    "wof:lastmodified":1536680882,
+    "wof:name":"Veljun",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.80833,
+    44.52167,
+    15.80833,
+    44.52167
+],
+  "geometry": {"coordinates":[15.80833,44.52167],"type":"Point"}
+}

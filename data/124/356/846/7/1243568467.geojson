@@ -1,0 +1,68 @@
+{
+  "id": 1243568467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.82472,45.6975,16.82472,45.6975",
+    "geom:latitude":45.6975,
+    "geom:longitude":16.82472,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Simljana",
+    "gn:country_code":"HR",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190877,
+    "gn:latitude":45.6975,
+    "gn:longitude":16.82472,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"\u0160imljana",
+    "gn:population":101,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190877
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b6189f7013b66edf6931e0239359d2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1243568467,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1243568467,
+    "wof:lastmodified":1536627879,
+    "wof:name":"Simljana",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":101,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.82472000000001,
+    45.6975,
+    16.82472000000001,
+    45.6975
+],
+  "geometry": {"coordinates":[16.82472000000001,45.6975],"type":"Point"}
+}

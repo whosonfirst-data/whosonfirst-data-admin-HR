@@ -1,0 +1,74 @@
+{
+  "id": 1277151391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2,45.91667,16.2,45.91667",
+    "geom:latitude":45.91667,
+    "geom:longitude":16.2,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"3186602.0",
+    "gn:asciiname":"Hrnjanec",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199259,
+    "gn:latitude":45.91667,
+    "gn:longitude":16.2,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Hrnjanec",
+    "gn:population":409,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hrnjavec",
+        "Hrnjanec"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199259
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d4378d717b02bfaafb0a2bef40a2ea6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1277151391,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":1277151391,
+    "wof:lastmodified":1537625895,
+    "wof:name":"Hrnjanec",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:population":409,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2,
+    45.91667,
+    16.2,
+    45.91667
+],
+  "geometry": {"coordinates":[16.2,45.91667],"type":"Point"}
+}

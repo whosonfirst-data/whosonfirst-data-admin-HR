@@ -1,0 +1,153 @@
+{
+  "id": 101793545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":977740.836638,
+    "geom:bbox":"15.589222757,45.5895791185,15.6115744672,45.6134040512",
+    "geom:latitude":45.598773,
+    "geom:longitude":15.600037,
+    "iso:country":"HR",
+    "lbl:latitude":45.598484,
+    "lbl:longitude":15.598936,
+    "mps:latitude":45.598484,
+    "mps:longitude":15.598936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "name:bos_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "name:cat_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "name:deu_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "name:dut_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "name:eng_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "name:fre_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "name:ger_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "name:hun_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "name:ita_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "name:nld_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Dragani\u0107"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Dragani\u0107"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0430\u043d\u0438\u0447"
+    ],
+    "name:slv_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "name:spa_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0430\u043d\u0438\u045b"
+    ],
+    "name:und_x_colloquial":[
+        "Draganic",
+        "Draganici"
+    ],
+    "name:und_x_preferred":[
+        "Dragani\u0107i"
+    ],
+    "name:und_x_variant":[
+        "Dragani\u0107"
+    ],
+    "name:unk_x_variant":[
+        "Dragani\u0107i"
+    ],
+    "name:war_x_preferred":[
+        "Dragani\u0107"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Karlovacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Jastrebarsko",
+    "qs:la_lc":"*HR0101694",
+    "qs:level":"locality",
+    "qs:loc":"Dragani\u0107",
+    "qs:loc_alt":"Draganic",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":151,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115ba6fe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3201320,
+        "gp:id":847539,
+        "qs:id":262073,
+        "wd:id":"Q83000",
+        "wk:page":"Dragani\u0107, Karlovac County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"016f6bd8f159bf31a26e3b216e92252d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793545,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":101793545,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527689278,
+    "wof:name":"Dragani\u0107",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58922275701036,
+    45.58957911853025,
+    15.61157446719744,
+    45.61340405115084
+],
+  "geometry": {"coordinates":[[[15.60975729028041,45.60361048964063],[15.60966517345474,45.60271237085044],[15.60838802313754,45.60278014216095],[15.60829593101107,45.60188202144695],[15.60063309389102,45.60228831819182],[15.59998943113328,45.59600140137661],[15.60509741923704,45.59573063442093],[15.60518944232382,45.5966287621776],[15.61157446719744,45.59628995059632],[15.61148234031248,45.59539182926312],[15.6102053617945,45.59545962109109],[15.61011325960089,45.59456149783318],[15.60628236923048,45.59476477707409],[15.60619033324258,45.59386664932288],[15.60363643360927,45.59400208925916],[15.6035444430654,45.5931039583009],[15.60099057356535,45.59323933407944],[15.60071475003207,45.5905449296705],[15.6019916239361,45.59047725332897],[15.60189966985371,45.58957911853025],[15.59806910187552,45.5897820975166],[15.5982528894358,45.59157837417007],[15.59059142768757,45.59198393180731],[15.59049965648398,45.59108578611244],[15.58922275701036,45.59115332388069],[15.58949802010176,45.59384776289022],[15.5933288968252,45.59364509186821],[15.59323707626868,45.59274695001272],[15.59706786515477,45.59254414425334],[15.59798687001262,45.60152549561303],[15.59670973560782,45.60159312575149],[15.59698545128708,45.60428752255228],[15.59570825173631,45.60435514113715],[15.59653542377811,45.61243830861525],[15.59525803442648,45.61250592333886],[15.59534994128052,45.61340405115084],[15.59790475869346,45.61326880373491],[15.59744505591698,45.60877817112032],[15.59872235647845,45.60871053072071],[15.5982626479942,45.60421988856643],[15.60975729028041,45.60361048964063]]],"type":"Polygon"}
+}

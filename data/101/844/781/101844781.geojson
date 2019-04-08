@@ -1,0 +1,145 @@
+{
+  "id": 101844781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":379148.850582,
+    "geom:bbox":"17.7603341165,45.3540459595,17.7687110374,45.3666781469",
+    "geom:latitude":45.360671,
+    "geom:longitude":17.763905,
+    "gn:population":2013,
+    "iso:country":"HR",
+    "lbl:latitude":45.363077,
+    "lbl:longitude":17.763556,
+    "mps:latitude":45.363077,
+    "mps:longitude":17.763556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Jak\u0161i\u0107"
+    ],
+    "name:deu_x_preferred":[
+        "Jak\u0161i\u0107"
+    ],
+    "name:dut_x_preferred":[
+        "Jak\u0161i\u0107"
+    ],
+    "name:eng_x_preferred":[
+        "Jak\u0161i\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Jak\u0161i\u0107"
+    ],
+    "name:fre_x_preferred":[
+        "Jak\u0161i\u0107"
+    ],
+    "name:ger_x_preferred":[
+        "Jak\u0161i\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Jak\u0161i\u0107"
+    ],
+    "name:hun_x_preferred":[
+        "Jakusf\u00f6lde"
+    ],
+    "name:ita_x_preferred":[
+        "Jak\u0161i\u0107"
+    ],
+    "name:lat_x_preferred":[
+        "Fanum Sancti Georgii"
+    ],
+    "name:pol_x_preferred":[
+        "Jak\u0161i\u0107"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Jak\u0161i\u0107"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043a\u0448\u0438\u0447"
+    ],
+    "name:slv_x_preferred":[
+        "Jak\u0161i\u0107"
+    ],
+    "name:spa_x_preferred":[
+        "Jak\u0161i\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u043a\u0448\u0438\u045b"
+    ],
+    "name:und_x_colloquial":[
+        "Jaksic"
+    ],
+    "name:und_x_preferred":[
+        "Jak\u0161i\u0107"
+    ],
+    "name:war_x_preferred":[
+        "Jak\u0161i\u0107"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Po\u017ee\u0161ko-slavonska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Jak\u0161i\u0107",
+    "qs:la_lc":"*HR1101643",
+    "qs:level":"locality",
+    "qs:loc":"Jak\u0161i\u0107",
+    "qs:loc_alt":"Jaksic",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115bfbe0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3198922,
+        "gp:id":848219,
+        "qs:id":967054,
+        "qs_pg:id":967054,
+        "wd:id":"Q1272324"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"892fbf1983daa658e54b9f5bc13aa781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101844781,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":101844781,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815540,
+    "wof:name":"Jak\u0161i\u0107",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":2013,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.76033411649667,
+    45.35404595950649,
+    17.76871103744327,
+    45.3666781469235
+],
+  "geometry": {"coordinates":[[[17.7660431929051,45.36649073371586],[17.76515723629427,45.36022152039459],[17.766426241869,45.36012780322972],[17.76617311909934,45.35833659612103],[17.76871103744327,45.35814912306671],[17.76858444352479,45.35725352189644],[17.76477762105668,45.35753470331235],[17.76439805407847,45.35484787940482],[17.76312916636181,45.35494157075249],[17.76300267504519,45.35404595950649],[17.7617338037378,45.35413963384008],[17.76274572205921,45.36130451665332],[17.76147668455388,45.36139818980894],[17.76160317817443,45.36229379850886],[17.76033411649667,45.3623874581674],[17.76058707923113,45.3641786768128],[17.76185618149975,45.36408501363479],[17.76198269120522,45.36498062006098],[17.7632518098913,45.36488693986507],[17.76350488598416,45.3666781469235],[17.7660431929051,45.36649073371586]]],"type":"Polygon"}
+}

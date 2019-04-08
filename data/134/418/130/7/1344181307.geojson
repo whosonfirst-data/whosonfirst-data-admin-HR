@@ -1,0 +1,71 @@
+{
+  "id": 1344181307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93111,44.93972,13.93111,44.93972",
+    "geom:latitude":44.93972,
+    "geom:longitude":13.93111,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"11054808.0",
+    "gn:asciiname":"Kabolovi Dvori",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3213483,
+    "gn:latitude":44.93972,
+    "gn:longitude":13.93111,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Kabolovi Dvori",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kavranac",
+        "Kabolovi Dvori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3213483
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"20195c78edbf44decb79030cebcd7c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1344181307,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1344181307,
+    "wof:lastmodified":1537625943,
+    "wof:name":"Kabolovi Dvori",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93111,
+    44.93972,
+    13.93111,
+    44.93972
+],
+  "geometry": {"coordinates":[13.93111,44.93972],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327467125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06444,45.34444,14.06444,45.34444",
+    "geom:latitude":45.34444,
+    "geom:longitude":14.06444,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"3202941.0",
+    "gn:asciiname":"Erkovcici",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3200883,
+    "gn:latitude":45.34444,
+    "gn:longitude":14.06444,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Erkov\u010di\u0107i",
+    "gn:population":43,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ercaucici",
+        "Erkov\u010di\u0107i"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200883
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bfea4265573b9251607e9fa28424b36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1327467125,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1327467125,
+    "wof:lastmodified":1537625909,
+    "wof:name":"Erkovcici",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.06444,
+    45.34444000000001,
+    14.06444,
+    45.34444000000001
+],
+  "geometry": {"coordinates":[14.06444,45.34444000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1292990567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32833,46.39361,16.32833,46.39361",
+    "geom:latitude":46.39361,
+    "geom:longitude":16.32833,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"11054847.0",
+    "gn:asciiname":"Macinec",
+    "gn:country_code":"HR",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3195984,
+    "gn:latitude":46.39361,
+    "gn:longitude":16.32833,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Macinec",
+    "gn:population":585,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3195984,
+        "wk:page":"Macinec"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0d0f35af1dd72e0086a4d18a27683c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1292990567,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":1292990567,
+    "wof:lastmodified":1537563292,
+    "wof:name":"Macinec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":585,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32833,
+    46.39361,
+    16.32833,
+    46.39361
+],
+  "geometry": {"coordinates":[16.32833,46.39361],"type":"Point"}
+}

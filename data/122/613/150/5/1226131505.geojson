@@ -1,0 +1,71 @@
+{
+  "id": 1226131505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25306,45.26139,18.25306,45.26139",
+    "geom:latitude":45.26139,
+    "geom:longitude":18.25306,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054483.0",
+    "gn:asciiname":"Trnava",
+    "gn:country_code":"HR",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3188813,
+    "gn:latitude":45.26139,
+    "gn:longitude":18.25306,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Trnava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ternava",
+        "Trnava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3188813,
+        "wk:page":"Trnava%2C_Osijek-Baranja_County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1237482e69019a3fa901483f4631208b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226131505,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1226131505,
+    "wof:lastmodified":1537625818,
+    "wof:name":"Trnava",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25306,
+    45.26139000000001,
+    18.25306,
+    45.26139000000001
+],
+  "geometry": {"coordinates":[18.25306,45.26139000000001],"type":"Point"}
+}

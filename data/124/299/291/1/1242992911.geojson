@@ -1,0 +1,69 @@
+{
+  "id": 1242992911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98528,44.93861,14.98528,44.93861",
+    "geom:latitude":44.93861,
+    "geom:longitude":14.98528,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"11049293.0",
+    "gn:asciiname":"Stolac",
+    "gn:country_code":"HR",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189819,
+    "gn:latitude":44.93861,
+    "gn:longitude":14.98528,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Stolac",
+    "gn:population":41,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189819
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"44a8d039551506cb8f1d58ac074cae6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1242992911,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1242992911,
+    "wof:lastmodified":1536962322,
+    "wof:name":"Stolac",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98528,
+    44.93861,
+    14.98528,
+    44.93861
+],
+  "geometry": {"coordinates":[14.98528,44.93861],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293448777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2,45.88333,16.2,45.88333",
+    "geom:latitude":45.88333,
+    "geom:longitude":16.2,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Luzan",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3196003,
+    "gn:latitude":45.88333,
+    "gn:longitude":16.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lu\u017ean",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lu\u017eani",
+        "Lu\u017ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3196003,
+        "wk:page":"Lu%C5%BEan"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4367e54dc29d056d892c69c2611c4ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293448777,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":1293448777,
+    "wof:lastmodified":1537625869,
+    "wof:name":"Luzan",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2,
+    45.88333,
+    16.2,
+    45.88333
+],
+  "geometry": {"coordinates":[16.2,45.88333],"type":"Point"}
+}

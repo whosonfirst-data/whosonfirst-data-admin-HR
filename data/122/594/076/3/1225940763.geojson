@@ -1,0 +1,69 @@
+{
+  "id": 1225940763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36667,46.46667,16.36667,46.46667",
+    "geom:latitude":46.46667,
+    "geom:longitude":16.36667,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"11054853.0",
+    "gn:asciiname":"Praporcan",
+    "gn:country_code":"HR",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192597,
+    "gn:latitude":46.46667,
+    "gn:longitude":16.36667,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Prapor\u010dan",
+    "gn:population":182,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192597
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a6cb26cc5756c8773b1af7e679192d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1225940763,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":1225940763,
+    "wof:lastmodified":1536875679,
+    "wof:name":"Praporcan",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:population":182,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36667000000001,
+    46.46667,
+    16.36667000000001,
+    46.46667
+],
+  "geometry": {"coordinates":[16.36667000000001,46.46667],"type":"Point"}
+}

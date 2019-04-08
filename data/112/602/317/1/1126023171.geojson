@@ -1,0 +1,126 @@
+{
+  "id": 1126023171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96139,44.49417,14.96139,44.49417",
+    "geom:latitude":44.49417,
+    "geom:longitude":14.96139,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"HR",
+    "lbl:latitude":44.49417,
+    "lbl:longitude":14.96139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Kolan"
+    ],
+    "name:dut_x_preferred":[
+        "Kolan"
+    ],
+    "name:eng_x_preferred":[
+        "Kolan"
+    ],
+    "name:fre_x_preferred":[
+        "Kolan"
+    ],
+    "name:ger_x_preferred":[
+        "Kolan"
+    ],
+    "name:hrv_x_preferred":[
+        "Kolan"
+    ],
+    "name:hun_x_preferred":[
+        "Kolan"
+    ],
+    "name:ita_x_preferred":[
+        "Colane"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Kolan"
+    ],
+    "name:slv_x_preferred":[
+        "Kolan"
+    ],
+    "name:spa_x_preferred":[
+        "Kolan"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043b\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Kolane"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3197902,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kolan",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Zadarsko-Kninska",
+    "qs_pg:photos":216,
+    "qs_pg:photos_1k":44,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":216,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":313905,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":848460,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Zadarsko-Kninska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3197902,
+        "gp:id":848460,
+        "qs_pg:id":313905,
+        "wd:id":"Q1285637"
+    },
+    "wof:country":"HR",
+    "wof:created":1497300956,
+    "wof:geomhash":"9ba758ac7654e7646a0260937e1ae7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126023171,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":1126023171,
+    "wof:lastmodified":1514447489,
+    "wof:name":"Kolan",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96139,
+    44.49417,
+    14.96139,
+    44.49417
+],
+  "geometry": {"coordinates":[14.96139,44.49417],"type":"Point"}
+}

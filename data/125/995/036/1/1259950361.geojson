@@ -1,0 +1,69 @@
+{
+  "id": 1259950361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36667,43.76667,16.36667,43.76667",
+    "geom:latitude":43.76667,
+    "geom:longitude":16.36667,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"11054614.0",
+    "gn:asciiname":"Crivac",
+    "gn:country_code":"HR",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3202505,
+    "gn:latitude":43.76667,
+    "gn:longitude":16.36667,
+    "gn:modification_date":"2017-01-01",
+    "gn:name":"Crivac",
+    "gn:population":310,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3202505
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b7128a1905a917729fb931f4363dcc20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259950361,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1259950361,
+    "wof:lastmodified":1536682869,
+    "wof:name":"Crivac",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":310,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36667000000001,
+    43.76667,
+    16.36667000000001,
+    43.76667
+],
+  "geometry": {"coordinates":[16.36667000000001,43.76667],"type":"Point"}
+}

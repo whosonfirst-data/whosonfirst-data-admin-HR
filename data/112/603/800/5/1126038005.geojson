@@ -1,0 +1,101 @@
+{
+  "id": 1126038005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47056,46.30389,16.47056,46.30389",
+    "geom:latitude":46.30389,
+    "geom:longitude":16.47056,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":924,
+    "gn:population":916,
+    "iso:country":"HR",
+    "lbl:latitude":46.30389,
+    "lbl:longitude":16.47056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "\u0160emovec"
+    ],
+    "name:dut_x_preferred":[
+        "\u0160emovec"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160emovec"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160emovec"
+    ],
+    "name:hun_x_preferred":[
+        "\u0160emovec"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160emovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0435\u043c\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160emovec"
+    ],
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3191065,
+    "qs_pg:gn_pop":924,
+    "qs_pg:name":"\u0160emovec",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":95009,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191065,
+        "qs_pg:id":95009,
+        "wd:id":"Q509159"
+    },
+    "wof:country":"HR",
+    "wof:created":1497301923,
+    "wof:geomhash":"eb978ed8570983d1a342a441d6a8f710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1126038005,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":1126038005,
+    "wof:lastmodified":1514447750,
+    "wof:name":"\u0160emovec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:population":916,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47056,
+    46.30389,
+    16.47056,
+    46.30389
+],
+  "geometry": {"coordinates":[16.47056,46.30389],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276450003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.12252,42.9603,17.12252,42.9603",
+    "geom:latitude":42.9603,
+    "geom:longitude":17.12252,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3197709.0",
+    "gn:asciiname":"Medvinjak",
+    "gn:country_code":"HR",
+    "gn:dem":34,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11071339,
+    "gn:latitude":42.9603,
+    "gn:longitude":17.12252,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Medvinjak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11071339
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cf29d7993f701b43b3b806854608190f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276450003,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1276450003,
+    "wof:lastmodified":1536620156,
+    "wof:name":"Medvinjak",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.12252,
+    42.9603,
+    17.12252,
+    42.9603
+],
+  "geometry": {"coordinates":[17.12252,42.9603],"type":"Point"}
+}

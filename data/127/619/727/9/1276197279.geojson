@@ -1,0 +1,65 @@
+{
+  "id": 1276197279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26722,44.16444,16.26722,44.16444",
+    "geom:latitude":44.16444,
+    "geom:longitude":16.26722,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kurbalije",
+    "gn:country_code":"HR",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3280808,
+    "gn:latitude":44.16444,
+    "gn:longitude":16.26722,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Kurbalije",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3280808
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"785b3c601300c12e2280070e2576a53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276197279,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":1276197279,
+    "wof:lastmodified":1536961254,
+    "wof:name":"Kurbalije",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26722,
+    44.16444,
+    16.26722,
+    44.16444
+],
+  "geometry": {"coordinates":[16.26722,44.16444],"type":"Point"}
+}

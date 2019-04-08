@@ -1,0 +1,70 @@
+{
+  "id": 1343951441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.21833,44.60361,15.21833,44.60361",
+    "geom:latitude":44.60361,
+    "geom:longitude":15.21833,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cacic-Draga",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3217298,
+    "gn:latitude":44.60361,
+    "gn:longitude":15.21833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u010ca\u010di\u0107-Draga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010ca\u010di\u0107 Drago",
+        "\u010ca\u010di\u0107-Draga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3217298
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7c2a7c92b3e8415c5ef86a8181073c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343951441,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":1343951441,
+    "wof:lastmodified":1537625954,
+    "wof:name":"Cacic-Draga",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.21833,
+    44.60361,
+    15.21833,
+    44.60361
+],
+  "geometry": {"coordinates":[15.21833,44.60361],"type":"Point"}
+}

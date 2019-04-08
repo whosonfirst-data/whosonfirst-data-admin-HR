@@ -1,0 +1,71 @@
+{
+  "id": 1276444055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23361,42.58528,18.23361,42.58528",
+    "geom:latitude":42.58528,
+    "geom:longitude":18.23361,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"11054972.0",
+    "gn:asciiname":"Gornji Obod",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194275,
+    "gn:latitude":42.58528,
+    "gn:longitude":18.23361,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Gornji Obod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obod",
+        "Gornji Obod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194275
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ee94abbfe9c19aac8d0fb9de09df61af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1276444055,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":1276444055,
+    "wof:lastmodified":1537625854,
+    "wof:name":"Gornji Obod",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23361,
+    42.58528,
+    18.23361,
+    42.58528
+],
+  "geometry": {"coordinates":[18.23361,42.58528],"type":"Point"}
+}

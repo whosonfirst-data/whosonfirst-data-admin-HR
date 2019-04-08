@@ -1,0 +1,115 @@
+{
+  "id": 101857835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.582955,45.214661,17.582955,45.214661",
+    "geom:latitude":45.214661,
+    "geom:longitude":17.582955,
+    "gn:population":1051,
+    "iso:country":"HR",
+    "lbl:latitude":45.214661,
+    "lbl:longitude":17.582955,
+    "mps:latitude":45.214661,
+    "mps:longitude":17.582955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vrbov\u00e1 Lhota"
+    ],
+    "name:ces_x_preferred":[
+        "Vrbov\u00e1 Lhota"
+    ],
+    "name:deu_x_preferred":[
+        "Vrbov\u00e1 Lhota"
+    ],
+    "name:hun_x_preferred":[
+        "Vrbov\u00e1 Lhota"
+    ],
+    "name:ita_x_preferred":[
+        "Vrbov\u00e1 Lhota"
+    ],
+    "name:msa_x_preferred":[
+        "Vrbov\u00e1 Lhota"
+    ],
+    "name:nld_x_preferred":[
+        "Vrbov\u00e1 Lhota"
+    ],
+    "name:pol_x_preferred":[
+        "Vrbov\u00e1 Lhota"
+    ],
+    "name:por_x_preferred":[
+        "Vrbov\u00e1 Lhota"
+    ],
+    "name:slk_x_preferred":[
+        "Vrbov\u00e1 Lhota"
+    ],
+    "name:unk_x_variant":[
+        "Orbova"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Brodsko-posavska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vrbova",
+    "qs:loc_alt":"Vrbova",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3187271,
+        "gp:id":851033,
+        "qs:id":1275716,
+        "qs_pg:id":1275716,
+        "wd:id":"Q258149"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bd2e462f570f18e760a75118b9865b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101857835,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":101857835,
+    "wof:lastmodified":1544744102,
+    "wof:name":"Vrbova",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:population":1051,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.582955,
+    45.214661,
+    17.582955,
+    45.214661
+],
+  "geometry": {"coordinates":[17.582955,45.214661],"type":"Point"}
+}

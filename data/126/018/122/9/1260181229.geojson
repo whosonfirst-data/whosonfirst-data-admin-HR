@@ -1,0 +1,73 @@
+{
+  "id": 1260181229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71861,45.50139,15.71861,45.50139",
+    "geom:latitude":45.50139,
+    "geom:longitude":15.71861,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Banska Selnica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3204515,
+    "gn:latitude":45.50139,
+    "gn:longitude":15.71861,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Banska Selnica",
+    "gn:population":90,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Selnica",
+        "Banska Selnica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204515
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"43eb84df1936f2b6f6dfa23d50c01cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260181229,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":1260181229,
+    "wof:lastmodified":1537625938,
+    "wof:name":"Banska Selnica",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.71861,
+    45.50139,
+    15.71861,
+    45.50139
+],
+  "geometry": {"coordinates":[15.71861,45.50139],"type":"Point"}
+}

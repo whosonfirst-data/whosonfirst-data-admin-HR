@@ -1,0 +1,78 @@
+{
+  "id": 1226634209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98083,45.47,16.98083,45.47",
+    "geom:latitude":45.47,
+    "geom:longitude":16.98083,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"11049477.0",
+    "gn:asciiname":"Poljana",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192821,
+    "gn:latitude":45.47,
+    "gn:longitude":16.98083,
+    "gn:modification_date":"2016-12-25",
+    "gn:name":"Poljana",
+    "gn:population":547,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pakra\u010dka Poljana",
+        "Poljane",
+        "Pakra\u0161ka Poljana",
+        "Polyana",
+        "Poljana Pakra\u010dka",
+        "Poljana"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3192821
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"543909f56540d07584f23ed5c38d0dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1226634209,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":1226634209,
+    "wof:lastmodified":1537625846,
+    "wof:name":"Poljana",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":547,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98082999999999,
+    45.47,
+    16.98082999999999,
+    45.47
+],
+  "geometry": {"coordinates":[16.98082999999999,45.47],"type":"Point"}
+}

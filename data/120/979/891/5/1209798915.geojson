@@ -1,0 +1,65 @@
+{
+  "id": 1209798915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28917,45.00778,16.28917,45.00778",
+    "geom:latitude":45.00778,
+    "geom:longitude":16.28917,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gornji Dobretin",
+    "gn:country_code":"HR",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3200030,
+    "gn:latitude":45.00778,
+    "gn:longitude":16.28917,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Gornji Dobretin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3200030
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"09dbdcd2c19d832e334643fe8932a6d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1209798915,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1209798915,
+    "wof:lastmodified":1536391610,
+    "wof:name":"Gornji Dobretin",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28917,
+    45.00778,
+    16.28917,
+    45.00778
+],
+  "geometry": {"coordinates":[16.28917,45.00778],"type":"Point"}
+}

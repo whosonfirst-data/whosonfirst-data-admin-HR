@@ -1,0 +1,74 @@
+{
+  "id": 1260182605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9225,45.11611,13.9225,45.11611",
+    "geom:latitude":45.11611,
+    "geom:longitude":13.9225,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054829.0",
+    "gn:asciiname":"Gradisce",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3199695,
+    "gn:latitude":45.11611,
+    "gn:longitude":13.9225,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Gradi\u0161\u0107e",
+    "gn:population":50,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gradischie",
+        "Gradi\u0161\u0107e"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3199695
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"38a3b16c615abbd4dcd6ed1aeeda1b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1260182605,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1260182605,
+    "wof:lastmodified":1537625898,
+    "wof:name":"Gradisce",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9225,
+    45.11611,
+    13.9225,
+    45.11611
+],
+  "geometry": {"coordinates":[13.9225,45.11611],"type":"Point"}
+}

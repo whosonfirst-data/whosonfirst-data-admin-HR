@@ -1,0 +1,158 @@
+{
+  "id": 101796857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":539097.573062,
+    "geom:bbox":"16.8878250154,42.9245180352,16.8995162322,42.9317889302",
+    "geom:latitude":42.928181,
+    "geom:longitude":16.893577,
+    "gn:population":1017,
+    "iso:country":"HR",
+    "lbl:latitude":42.928207,
+    "lbl:longitude":16.893465,
+    "mps:latitude":42.928207,
+    "mps:longitude":16.893465,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Smokvica"
+    ],
+    "name:cat_x_preferred":[
+        "Smokvica"
+    ],
+    "name:deu_x_preferred":[
+        "Smokvica"
+    ],
+    "name:dut_x_preferred":[
+        "Smokvica"
+    ],
+    "name:eng_x_preferred":[
+        "Smoquizza"
+    ],
+    "name:fra_x_preferred":[
+        "Smokvica"
+    ],
+    "name:fre_x_preferred":[
+        "Smokvica"
+    ],
+    "name:ger_x_preferred":[
+        "Smokvica"
+    ],
+    "name:hbs_x_preferred":[
+        "Smokvica"
+    ],
+    "name:hrv_x_preferred":[
+        "Smokvica"
+    ],
+    "name:hun_x_preferred":[
+        "Smokvica"
+    ],
+    "name:ita_x_preferred":[
+        "Smoquizza"
+    ],
+    "name:nld_x_preferred":[
+        "Smokvica"
+    ],
+    "name:pol_x_preferred":[
+        "Smokvica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Smokvica"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Smokvica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u043e\u043a\u0432\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Smokvica"
+    ],
+    "name:spa_x_preferred":[
+        "Smokvica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043c\u043e\u043a\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Smokvica"
+    ],
+    "name:und_x_preferred":[
+        "Smokvica"
+    ],
+    "name:unk_x_variant":[
+        "Smoquizza"
+    ],
+    "name:war_x_preferred":[
+        "Smokvica"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Dubrovacko-neretvanska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Smokvica",
+    "qs:la_lc":"*HR1904022",
+    "qs:level":"locality",
+    "qs:loc":"Smokvica",
+    "qs:loc_alt":"Smokvica",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":734,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115d00a8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3190465,
+        "gp:id":850311,
+        "qs:id":262131,
+        "qs_pg:id":262131,
+        "wd:id":"Q609468",
+        "wk:page":"Smokvica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8bf85b939952d0dc5ca6607452d57791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101796857,
+            "region_id":85684775
+        }
+    ],
+    "wof:id":101796857,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527642030,
+    "wof:name":"Smokvica",
+    "wof:parent_id":85684775,
+    "wof:placetype":"locality",
+    "wof:population":1017,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8878250154246,
+    42.92451803523772,
+    16.8995162321894,
+    42.93178893017591
+],
+  "geometry": {"coordinates":[[[16.89840352554648,42.93137554458957],[16.89829865753035,42.93047702251681],[16.8995162321894,42.93039430318106],[16.89920159897679,42.92769873622171],[16.89798407902452,42.92778145119314],[16.89777438130403,42.92598439938922],[16.89533940524484,42.92614977984562],[16.89523459923475,42.92525124975879],[16.89279964752654,42.92541656908253],[16.89269488223607,42.92451803523772],[16.8878250154246,42.92484849339951],[16.88824381035823,42.92844264691973],[16.88946135453858,42.92836004840331],[16.88967081398215,42.93015711715486],[16.89088839160894,42.93007450117557],[16.89099314594625,42.93097303282269],[16.89221073878275,42.93089040083254],[16.89231551561102,42.93178893017591],[16.89840352554648,42.93137554458957]]],"type":"Polygon"}
+}

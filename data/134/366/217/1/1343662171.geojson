@@ -1,0 +1,72 @@
+{
+  "id": 1343662171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87417,45.40361,13.87417,45.40361",
+    "geom:latitude":45.40361,
+    "geom:longitude":13.87417,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"11054812.0",
+    "gn:asciiname":"Zrenj",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3186349,
+    "gn:latitude":45.40361,
+    "gn:longitude":13.87417,
+    "gn:modification_date":"2016-12-22",
+    "gn:name":"Zrenj",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stridone",
+        "Sdregna",
+        "Zrenj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3186349
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"397bf884aaeb32876ef495beca6193a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343662171,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1343662171,
+    "wof:lastmodified":1537625802,
+    "wof:name":"Zrenj",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87417,
+    45.40361,
+    13.87417,
+    45.40361
+],
+  "geometry": {"coordinates":[13.87417,45.40361],"type":"Point"}
+}

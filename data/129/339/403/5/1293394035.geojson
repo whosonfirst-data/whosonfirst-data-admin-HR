@@ -1,0 +1,70 @@
+{
+  "id": 1293394035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.73741,45.82988,16.73741,45.82988",
+    "geom:latitude":45.82988,
+    "geom:longitude":16.73741,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"11049420.0",
+    "gn:asciiname":"Blatnica",
+    "gn:country_code":"HR",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3203949,
+    "gn:latitude":45.82988,
+    "gn:longitude":16.73741,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Blatnica",
+    "gn:population":130,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3203949,
+        "wk:page":"Blatnica%2C_Croatia"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a2716b75db722c509520400a615ed15b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293394035,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":1293394035,
+    "wof:lastmodified":1537563310,
+    "wof:name":"Blatnica",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:population":130,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.73741,
+    45.82988,
+    16.73741,
+    45.82988
+],
+  "geometry": {"coordinates":[16.73741,45.82988],"type":"Point"}
+}

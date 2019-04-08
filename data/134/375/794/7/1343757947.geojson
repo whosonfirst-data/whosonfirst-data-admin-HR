@@ -1,0 +1,72 @@
+{
+  "id": 1343757947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68056,45.64861,18.68056,45.64861",
+    "geom:latitude":45.64861,
+    "geom:longitude":18.68056,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054454.0",
+    "gn:asciiname":"Svajcernica",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3189407,
+    "gn:latitude":45.64861,
+    "gn:longitude":18.68056,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"\u0160vajcernica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160vajcarnica",
+        "\u0160vajcernica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3189407,
+        "wk:page":"%C5%A0vajcarnica"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5533caa80b1fceefc759d56e44f2180d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1343757947,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1343757947,
+    "wof:lastmodified":1537625823,
+    "wof:name":"Svajcernica",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68056,
+    45.64861,
+    18.68056,
+    45.64861
+],
+  "geometry": {"coordinates":[18.68056,45.64861],"type":"Point"}
+}

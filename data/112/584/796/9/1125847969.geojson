@@ -1,0 +1,76 @@
+{
+  "id": 1125847969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.79833,43.67028,16.79833,43.67028",
+    "geom:latitude":43.67028,
+    "geom:longitude":16.79833,
+    "gn:gn_country":"HR",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":999,
+    "gn:population":999,
+    "iso:country":"HR",
+    "lbl:latitude":43.67028,
+    "lbl:longitude":16.79833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":3191481,
+    "qs_pg:gn_pop":999,
+    "qs_pg:name":"Ruda",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":95020,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3191481,
+        "qs_pg:id":95020
+    },
+    "wof:country":"HR",
+    "wof:created":1497293253,
+    "wof:geomhash":"b25631f87a2267072974650381bdf761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125847969,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1125847969,
+    "wof:lastmodified":1509395744,
+    "wof:name":"Ruda",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:population":999,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.79833,
+    43.67028,
+    16.79833,
+    43.67028
+],
+  "geometry": {"coordinates":[16.79833,43.67028],"type":"Point"}
+}

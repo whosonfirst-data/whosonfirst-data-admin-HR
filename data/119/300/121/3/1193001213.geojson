@@ -1,0 +1,66 @@
+{
+  "id": 1193001213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.38111,43.21972,17.38111,43.21972",
+    "geom:latitude":43.21972,
+    "geom:longitude":17.38111,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3187229.0",
+    "gn:asciiname":"Banja",
+    "gn:country_code":"HR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3282545,
+    "gn:latitude":43.21972,
+    "gn:longitude":17.38111,
+    "gn:modification_date":"2017-01-02",
+    "gn:name":"Banja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282545
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"671693d4c004a62982964abe27a3d7d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1193001213,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":1193001213,
+    "wof:lastmodified":1536370419,
+    "wof:name":"Banja",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.38111,
+    43.21972,
+    17.38111,
+    43.21972
+],
+  "geometry": {"coordinates":[17.38111,43.21972],"type":"Point"}
+}

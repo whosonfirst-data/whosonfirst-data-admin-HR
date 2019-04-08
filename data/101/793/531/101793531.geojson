@@ -1,0 +1,121 @@
+{
+  "id": 101793531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":638515.980498,
+    "geom:bbox":"16.594984289,45.5104564977,16.6319309517,45.5184923894",
+    "geom:latitude":45.515275,
+    "geom:longitude":16.613374,
+    "gn:population":1023,
+    "iso:country":"HR",
+    "lbl:latitude":45.515925,
+    "lbl:longitude":16.616174,
+    "mps:latitude":45.515925,
+    "mps:longitude":16.616174,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Osekovo"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0441\u0435\u043a\u043e\u0432\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Osekovo"
+    ],
+    "name:eng_x_preferred":[
+        "Osekovo"
+    ],
+    "name:hbs_x_preferred":[
+        "Osekovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Osekovo"
+    ],
+    "name:hun_x_preferred":[
+        "Osekovo"
+    ],
+    "name:nld_x_preferred":[
+        "Osekovo"
+    ],
+    "name:slv_x_preferred":[
+        "Osekovo"
+    ],
+    "name:spa_x_preferred":[
+        "Osekovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0435\u043a\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Osekovo"
+    ],
+    "name:unk_x_variant":[
+        "Oszekovo"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Sisacko-moslavacka \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:la":"Popova\u010da",
+    "qs:la_lc":"*HR0303476",
+    "qs:level":"locality",
+    "qs:loc":"Osekovo",
+    "qs:loc_alt":"Osekovo",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3193941,
+        "gp:id":849470,
+        "qs:id":1275355,
+        "qs_pg:id":1275355,
+        "wd:id":"Q2331331",
+        "wk:page":"Osekovo"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fb79794267fd86243bd77e504a036f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793531,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":101793531,
+    "wof:lastmodified":1527689279,
+    "wof:name":"Osekovo",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:population":1023,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.59498428898928,
+    45.51045649765575,
+    16.63193095171124,
+    45.51849238935301
+],
+  "geometry": {"coordinates":[[[16.5978565616785,45.51849238935301],[16.61824215571551,45.51721550709408],[16.61791703096708,45.51452441295419],[16.6204650466517,45.51436453553129],[16.62035663981089,45.51346750579364],[16.62672651764052,45.51306755128542],[16.6268350273603,45.51396457346618],[16.63193095171124,45.51364432763899],[16.63182235969271,45.5127473115088],[16.62927444535967,45.51290746208235],[16.62916589911157,45.51201044223654],[16.62534406423686,45.51225054849039],[16.62512710904048,45.51045649765575],[16.62385319853894,45.51053649936551],[16.62396165325544,45.51143352663934],[16.61886589552876,45.51175338610091],[16.61897427256514,45.5126504187283],[16.61515235746077,45.51289015675718],[16.6153690019176,45.51468422900314],[16.61409498238294,45.51476411401217],[16.61420329095108,45.51566115061075],[16.59764046581074,45.51669827902555],[16.59753242477734,45.51580122282945],[16.59498428898928,45.51596054786762],[16.59520029332975,45.51775466559343],[16.59774851144431,45.51759533453344],[16.5978565616785,45.51849238935301]]],"type":"Polygon"}
+}

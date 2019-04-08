@@ -1,0 +1,65 @@
+{
+  "id": 1360262217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35583,45.34778,14.35583,45.34778",
+    "geom:latitude":45.34778,
+    "geom:longitude":14.35583,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Turan",
+    "gn:country_code":"HR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214484,
+    "gn:latitude":45.34778,
+    "gn:longitude":14.35583,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Turan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3214484
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a39e53dc5e100c769f61f98e52999a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1360262217,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":1360262217,
+    "wof:lastmodified":1536690292,
+    "wof:name":"Turan",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35583,
+    45.34778,
+    14.35583,
+    45.34778
+],
+  "geometry": {"coordinates":[14.35583,45.34778],"type":"Point"}
+}

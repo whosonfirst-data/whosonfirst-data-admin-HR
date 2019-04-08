@@ -1,0 +1,71 @@
+{
+  "id": 1293171839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.76222,45.55556,16.76222,45.55556",
+    "geom:latitude":45.55556,
+    "geom:longitude":16.76222,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Srpsko Seliste",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3190070,
+    "gn:latitude":45.55556,
+    "gn:longitude":16.76222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Srpsko Seli\u0161te",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Srpsko Seli\u0161\u0107e",
+        "Srpsko Semi\u0161\u0107e",
+        "Srpsko Seli\u0161te"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3190070
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c72d3b8a84cc9578a5af4564496e5ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293171839,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1293171839,
+    "wof:lastmodified":1537625828,
+    "wof:name":"Srpsko Seliste",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.76222000000001,
+    45.55556,
+    16.76222000000001,
+    45.55556
+],
+  "geometry": {"coordinates":[16.76222000000001,45.55556],"type":"Point"}
+}

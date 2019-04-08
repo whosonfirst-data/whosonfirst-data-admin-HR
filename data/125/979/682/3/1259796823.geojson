@@ -1,0 +1,67 @@
+{
+  "id": 1259796823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83417,45.09833,17.83417,45.09833",
+    "geom:latitude":45.09833,
+    "geom:longitude":17.83417,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"11049480.0",
+    "gn:asciiname":"Bebrina",
+    "gn:country_code":"HR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3204391,
+    "gn:latitude":45.09833,
+    "gn:longitude":17.83417,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Bebrina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3204391,
+        "wk:page":"Bebrina"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3a775909c6874597b23b4ab9dcf43bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259796823,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":1259796823,
+    "wof:lastmodified":1537563311,
+    "wof:name":"Bebrina",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83417,
+    45.09833,
+    17.83417,
+    45.09833
+],
+  "geometry": {"coordinates":[17.83417,45.09833],"type":"Point"}
+}

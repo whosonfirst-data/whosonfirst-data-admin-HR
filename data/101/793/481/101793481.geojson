@@ -1,0 +1,156 @@
+{
+  "id": 101793481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":768262.080256,
+    "geom:bbox":"17.7197747262,45.4258506711,17.7385745196,45.4384825622",
+    "geom:latitude":45.433232,
+    "geom:longitude":17.726361,
+    "gn:population":1578,
+    "iso:country":"HR",
+    "lbl:latitude":45.433302,
+    "lbl:longitude":17.725435,
+    "mps:latitude":45.433302,
+    "mps:longitude":17.725435,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Kaptol"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043f\u0442\u043e\u043b"
+    ],
+    "name:deu_x_preferred":[
+        "Kaptol"
+    ],
+    "name:dut_x_preferred":[
+        "Kaptol"
+    ],
+    "name:eng_x_preferred":[
+        "Kaptol"
+    ],
+    "name:fra_x_preferred":[
+        "Kaptol"
+    ],
+    "name:fre_x_preferred":[
+        "Kaptol"
+    ],
+    "name:ger_x_preferred":[
+        "Kaptol"
+    ],
+    "name:hbs_x_preferred":[
+        "Kaptol"
+    ],
+    "name:hrv_x_preferred":[
+        "Kaptol"
+    ],
+    "name:ita_x_preferred":[
+        "Kaptol"
+    ],
+    "name:nld_x_preferred":[
+        "Kaptol"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Kaptol"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Kaptol"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u0442\u043e\u043b"
+    ],
+    "name:slv_x_preferred":[
+        "Kaptol"
+    ],
+    "name:spa_x_preferred":[
+        "Kaptol"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043f\u0442\u043e\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Kaptol"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043f\u0442\u043e\u043b"
+    ],
+    "name:und_x_preferred":[
+        "Kaptol"
+    ],
+    "name:unk_x_variant":[
+        "Pozsega-Szentp\u00e9ter"
+    ],
+    "name:war_x_preferred":[
+        "Kaptol"
+    ],
+    "qs:a0":"Republika Hrvatska",
+    "qs:a1":"*Po\u017ee\u0161ko-slavonska \u017eupanija",
+    "qs:a1r":"0",
+    "qs:adm0":"Republika Hrvatska",
+    "qs:id":0,
+    "qs:la":"Kaptol",
+    "qs:la_lc":"*HR1101775",
+    "qs:level":"locality",
+    "qs:loc":"Kaptol",
+    "qs:loc_alt":"Kaptol",
+    "qs:pop":0,
+    "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"115c0b3a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3198298,
+        "gp:id":848349,
+        "qs:id":628155,
+        "qs_pg:id":628155,
+        "wd:id":"Q1284387",
+        "wk:page":"Kaptol, Po\u017eega-Slavonia County"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5e427a0d88d77e4d9c372ef794837eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":101793481,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":101793481,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815507,
+    "wof:name":"Kaptol",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:population":1578,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71977472617033,
+    45.42585067109064,
+    17.73857451959526,
+    45.43848256216103
+],
+  "geometry": {"coordinates":[[[17.73209435032902,45.43504955174478],[17.73590663032542,45.43476948965997],[17.73603297826821,45.43566508794675],[17.73857451959526,45.43547829996874],[17.73844813091779,45.43458270519869],[17.73717738256255,45.4346761050698],[17.73692466203073,45.43288490975522],[17.73438323514068,45.43307165662299],[17.73450955199309,45.43396725817252],[17.72815581504284,45.43443386671669],[17.72765098710818,45.43085142086829],[17.73019233059745,45.43066483734435],[17.72993986731251,45.4288736169313],[17.72485732773839,45.42924670881223],[17.72473118558088,45.42835109045393],[17.7221899332697,45.42853754120722],[17.72181166108351,45.42585067109064],[17.72054109020354,45.42594386828512],[17.7210453823721,45.42952636728711],[17.71977472617033,45.42961955621922],[17.72027902249022,45.43320205020746],[17.72282049394698,45.43301564302726],[17.72319889458726,45.43570249509645],[17.72192809968999,45.43579571159194],[17.72230648740299,45.43848256216103],[17.72993156531464,45.43792300235862],[17.7296790570353,45.43613179046832],[17.73222063716798,45.43594515530413],[17.73209435032902,45.43504955174478]]],"type":"Polygon"}
+}

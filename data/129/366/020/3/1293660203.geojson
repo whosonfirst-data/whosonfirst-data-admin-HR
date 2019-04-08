@@ -1,0 +1,65 @@
+{
+  "id": 1293660203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.265,45.05694,16.265,45.05694",
+    "geom:latitude":45.05694,
+    "geom:longitude":16.265,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Srednja Socanica",
+    "gn:country_code":"HR",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3282064,
+    "gn:latitude":45.05694,
+    "gn:longitude":16.265,
+    "gn:modification_date":"2005-06-04",
+    "gn:name":"Srednja So\u010danica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3282064
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"87c37a98f24939085026f3f58256473c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1293660203,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":1293660203,
+    "wof:lastmodified":1537033900,
+    "wof:name":"Srednja Socanica",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.265,
+    45.05694,
+    16.265,
+    45.05694
+],
+  "geometry": {"coordinates":[16.265,45.05694],"type":"Point"}
+}

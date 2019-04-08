@@ -1,0 +1,78 @@
+{
+  "id": 1259466761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98339,45.78608,17.98339,45.78608",
+    "geom:latitude":45.78608,
+    "geom:longitude":17.98339,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"11054477.0",
+    "gn:asciiname":"Podravska Moslavina",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3194841,
+    "gn:latitude":45.78608,
+    "gn:longitude":17.98339,
+    "gn:modification_date":"2016-12-24",
+    "gn:name":"Podravska Moslavina",
+    "gn:population":798,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moszlavina",
+        "Moslavina",
+        "Moslavina-Crnac",
+        "Moslavina Podravska",
+        "Podravska Moslavina"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3194841,
+        "wk:page":"Podravska_Moslavina"
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a512e2f7a95dba514dad0a3acb81525f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259466761,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":1259466761,
+    "wof:lastmodified":1537625860,
+    "wof:name":"Podravska Moslavina",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:population":798,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98339,
+    45.78608,
+    17.98339,
+    45.78608
+],
+  "geometry": {"coordinates":[17.98339,45.78608],"type":"Point"}
+}

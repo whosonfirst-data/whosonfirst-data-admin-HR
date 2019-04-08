@@ -1,0 +1,70 @@
+{
+  "id": 1259507515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.85333,45.24083,13.85333,45.24083",
+    "geom:latitude":45.24083,
+    "geom:longitude":13.85333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ruhci",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3215322,
+    "gn:latitude":45.24083,
+    "gn:longitude":13.85333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ruhci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
+    "iso:country":"HR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ru\u0161ci",
+        "Ruhci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3215322
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c9816a8c0d3d370ad76c05ba1c6e3ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1259507515,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":1259507515,
+    "wof:lastmodified":1537625949,
+    "wof:name":"Ruhci",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.85333,
+    45.24083,
+    13.85333,
+    45.24083
+],
+  "geometry": {"coordinates":[13.85333,45.24083],"type":"Point"}
+}
