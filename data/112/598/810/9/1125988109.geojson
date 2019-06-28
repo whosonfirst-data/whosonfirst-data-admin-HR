@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Turkovi\u0107i Ogulinski"
     ],
-    "name:dut_x_preferred":[
-        "Turkovi\u0107i Ogulinski"
-    ],
     "name:eng_x_preferred":[
         "Turkovi\u0107i Ogulinski"
     ],
@@ -32,6 +29,9 @@
         "Turkovi\u0107i Ogulinski"
     ],
     "name:hun_x_preferred":[
+        "Turkovi\u0107i Ogulinski"
+    ],
+    "name:nld_x_preferred":[
         "Turkovi\u0107i Ogulinski"
     ],
     "name:slv_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125988109,
-    "wof:lastmodified":1514447665,
+    "wof:lastmodified":1561749621,
     "wof:name":"Turkovi\u0107i Ogulinski",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Lupoglav"
     ],
-    "name:dut_x_preferred":[
-        "Lupoglav"
-    ],
     "name:eng_x_preferred":[
         "Lupoglav"
     ],
@@ -120,7 +117,7 @@
         }
     ],
     "wof:id":101792405,
-    "wof:lastmodified":1553815506,
+    "wof:lastmodified":1561749607,
     "wof:name":"Lupoglav",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

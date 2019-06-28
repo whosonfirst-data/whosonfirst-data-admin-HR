@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Omi\u0161alj"
     ],
-    "name:dut_x_preferred":[
-        "Omi\u0161alj"
-    ],
     "name:eng_x_preferred":[
         "Omi\u0161alj"
     ],
@@ -36,12 +33,6 @@
         "Omi\u0161alj"
     ],
     "name:fra_x_preferred":[
-        "Omi\u0161alj"
-    ],
-    "name:fre_x_preferred":[
-        "Omi\u0161alj"
-    ],
-    "name:ger_x_preferred":[
         "Omi\u0161alj"
     ],
     "name:hrv_x_preferred":[
@@ -62,7 +53,7 @@
     "name:pol_x_preferred":[
         "Omi\u0161alj"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Omi\u0161alj"
     ],
     "name:rus_x_preferred":[
@@ -131,7 +122,7 @@
         }
     ],
     "wof:id":101794605,
-    "wof:lastmodified":1527689317,
+    "wof:lastmodified":1561749602,
     "wof:name":"Omi\u0161alj",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

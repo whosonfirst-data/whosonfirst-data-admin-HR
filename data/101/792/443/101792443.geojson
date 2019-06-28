@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":1007629.575972,
+    "geom:area_square_m":1007629.575973,
     "geom:bbox":"17.0194008987,45.7990902912,17.0966883238,45.8122273894",
     "geom:latitude":45.80334,
     "geom:longitude":17.056984,
@@ -19,16 +19,10 @@
     "name:bos_x_preferred":[
         "Velika Pisanica"
     ],
-    "name:dut_x_preferred":[
-        "Velika Pisanica"
-    ],
     "name:eng_x_preferred":[
         "Velika Pisanica"
     ],
     "name:fra_x_preferred":[
-        "Velika Pisanica"
-    ],
-    "name:fre_x_preferred":[
         "Velika Pisanica"
     ],
     "name:hbs_x_preferred":[
@@ -50,9 +44,6 @@
         "Velika Pisanica"
     ],
     "name:ron_x_preferred":[
-        "Comuna Velika Pisanica"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Velika Pisanica"
     ],
     "name:rus_x_preferred":[
@@ -120,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714638,
+    "wof:lastmodified":1561749607,
     "wof:name":"Velika Pisanica",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

@@ -22,19 +22,19 @@
     "name:bos_x_preferred":[
         "Punta Kri\u017ea"
     ],
-    "name:dut_x_preferred":[
-        "Punta Kri\u017ea"
-    ],
     "name:eng_x_preferred":[
         "Punta Kri\u017ea"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Punta Kri\u017ea"
     ],
     "name:hrv_x_preferred":[
         "Punta Kri\u017ea"
     ],
     "name:hun_x_preferred":[
+        "Punta Kri\u017ea"
+    ],
+    "name:nld_x_preferred":[
         "Punta Kri\u017ea"
     ],
     "name:slv_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125977917,
-    "wof:lastmodified":1514447606,
+    "wof:lastmodified":1561749620,
     "wof:name":"Punta Kri\u017ea",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

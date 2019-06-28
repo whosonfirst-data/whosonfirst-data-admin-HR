@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Mar\u010dana"
     ],
-    "name:dut_x_preferred":[
-        "Mar\u010dana"
-    ],
     "name:eng_x_preferred":[
         "Marzana D'istria"
     ],
@@ -34,12 +31,6 @@
         "Mar\u010dana"
     ],
     "name:fra_x_preferred":[
-        "Mar\u010dana"
-    ],
-    "name:fre_x_preferred":[
-        "Mar\u010dana"
-    ],
-    "name:ger_x_preferred":[
         "Mar\u010dana"
     ],
     "name:hrv_x_preferred":[
@@ -61,9 +52,6 @@
         "Mar\u010dana"
     ],
     "name:ron_x_preferred":[
-        "Comuna Mar\u010dana"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Mar\u010dana"
     ],
     "name:slv_x_preferred":[
@@ -141,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714611,
+    "wof:lastmodified":1561749605,
     "wof:name":"Mar\u010dana",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

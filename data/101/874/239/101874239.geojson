@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Palovec"
     ],
-    "name:dut_x_preferred":[
-        "Palovec"
-    ],
     "name:eng_x_preferred":[
         "Palovec"
     ],
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":101874239,
-    "wof:lastmodified":1544751615,
+    "wof:lastmodified":1561749592,
     "wof:name":"Palovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Dubrov\u010dan"
     ],
-    "name:dut_x_preferred":[
-        "Dubrov\u010dan"
-    ],
     "name:eng_x_preferred":[
         "Dubrov\u010dan"
     ],
@@ -32,6 +29,9 @@
         "Dubrov\u010dan"
     ],
     "name:hun_x_preferred":[
+        "Dubrov\u010dan"
+    ],
+    "name:nld_x_preferred":[
         "Dubrov\u010dan"
     ],
     "name:slv_x_preferred":[
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1125937235,
-    "wof:lastmodified":1514447434,
+    "wof:lastmodified":1561749610,
     "wof:name":"Dubrov\u010dan",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

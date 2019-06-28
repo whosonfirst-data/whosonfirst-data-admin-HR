@@ -23,13 +23,7 @@
     "name:deu_x_preferred":[
         "Ora\u0161ac"
     ],
-    "name:dut_x_preferred":[
-        "Ora\u0161ac"
-    ],
     "name:eng_x_preferred":[
-        "Ora\u0161ac"
-    ],
-    "name:ger_x_preferred":[
         "Ora\u0161ac"
     ],
     "name:hbs_x_preferred":[
@@ -43,6 +37,9 @@
     ],
     "name:ita_x_preferred":[
         "Valdinoce"
+    ],
+    "name:nld_x_preferred":[
+        "Ora\u0161ac"
     ],
     "name:nob_x_preferred":[
         "Ora\u0161ac"
@@ -106,7 +103,7 @@
         }
     ],
     "wof:id":101911595,
-    "wof:lastmodified":1527715543,
+    "wof:lastmodified":1561749609,
     "wof:name":"Ora\u00b5ac",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

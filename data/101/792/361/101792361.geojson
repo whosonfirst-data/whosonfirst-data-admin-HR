@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Pojatno"
     ],
-    "name:dut_x_preferred":[
-        "Pojatno"
-    ],
     "name:eng_x_preferred":[
         "Pojatno"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":101792361,
-    "wof:lastmodified":1527714637,
+    "wof:lastmodified":1561749607,
     "wof:name":"Pojatno",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

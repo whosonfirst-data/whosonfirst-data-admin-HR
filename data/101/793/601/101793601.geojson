@@ -23,9 +23,6 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u0441\u043b\u043e\u0432\u043e"
     ],
-    "name:dut_x_preferred":[
-        "Laslovo"
-    ],
     "name:eng_x_preferred":[
         "Laslovo"
     ],
@@ -33,9 +30,6 @@
         "Laslovo"
     ],
     "name:fra_x_preferred":[
-        "Laslovo"
-    ],
-    "name:fre_x_preferred":[
         "Laslovo"
     ],
     "name:hbs_x_preferred":[
@@ -46,6 +40,9 @@
     ],
     "name:hun_x_preferred":[
         "Szentl\u00e1szl\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "Laslovo"
     ],
     "name:slv_x_preferred":[
         "Laslovo"
@@ -106,7 +103,7 @@
         }
     ],
     "wof:id":101793601,
-    "wof:lastmodified":1527689281,
+    "wof:lastmodified":1561749600,
     "wof:name":"Laslovo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

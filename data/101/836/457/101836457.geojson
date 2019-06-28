@@ -19,16 +19,10 @@
     "name:bos_x_preferred":[
         "Dramalj"
     ],
-    "name:dut_x_preferred":[
-        "Dramalj"
-    ],
     "name:eng_x_preferred":[
         "Dramalj"
     ],
     "name:fra_x_preferred":[
-        "Dramalj"
-    ],
-    "name:fre_x_preferred":[
         "Dramalj"
     ],
     "name:hbs_x_preferred":[
@@ -42,6 +36,9 @@
     ],
     "name:ita_x_preferred":[
         "dramalj"
+    ],
+    "name:nld_x_preferred":[
+        "Dramalj"
     ],
     "name:slv_x_preferred":[
         "Dramalj"
@@ -95,7 +92,7 @@
         }
     ],
     "wof:id":101836457,
-    "wof:lastmodified":1527715158,
+    "wof:lastmodified":1561749609,
     "wof:name":"Dramalj",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

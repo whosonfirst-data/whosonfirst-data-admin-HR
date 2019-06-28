@@ -24,17 +24,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Zhupania e Dubrovnikut dhe Neretv\u00ebs"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062f\u0648\u0628\u0631\u0648\u0641\u0646\u064a\u0643-\u0646\u064a\u0631\u064a\u062a\u0641\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0582\u0562\u0580\u0578\u057e\u0576\u056b\u056f \u0546\u0565\u0580\u0565\u057f\u057e\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Dubrovnik-Neretva eskualdea"
     ],
     "name:bel_x_preferred":[
         "\u0414\u0443\u0431\u0440\u043e\u045e\u043d\u0456\u0446\u043a\u0430-\u041d\u0435\u0440\u044d\u0442\u0432\u0430\u043d\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
@@ -57,14 +48,8 @@
     "name:ces_x_preferred":[
         "Dubrovnicko-neretvansk\u00e1 \u017eupa"
     ],
-    "name:chi_x_preferred":[
-        "\u675c\u5e03\u7f85\u592b\u65af\u514b-\u5167\u96f7\u7279\u74e6\u7e23"
-    ],
     "name:cor_x_preferred":[
         "Konteth Dubrovnik-Neretva"
-    ],
-    "name:cze_x_preferred":[
-        "Dubrovnicko-neretvansk\u00e1 \u017eupa"
     ],
     "name:dan_x_preferred":[
         "Dubrovnik-Neretva County"
@@ -72,8 +57,8 @@
     "name:deu_x_preferred":[
         "Gespanschaft Dubrovnik-Neretva"
     ],
-    "name:dut_x_preferred":[
-        "Dubrovnik-Neretva"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03c5\u03bc\u03c0\u03c1\u03cc\u03b2\u03bd\u03b9\u03ba-\u039d\u03b5\u03c1\u03ad\u03c4\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Dubrovacko-neretvanska"
@@ -99,18 +84,6 @@
     "name:fra_x_variant":[
         "Dubrovnik-Neretva"
     ],
-    "name:fre_x_preferred":[
-        "Comitat de Dubrovnik-Neretva"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e3\u10d1\u10e0\u10dd\u10d5\u10dc\u10d8\u10d9-\u10dc\u10d4\u10e0\u10d4\u10e2\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Gespanschaft Dubrovnik-Neretva"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03bf\u03c5\u03bc\u03c0\u03c1\u03cc\u03b2\u03bd\u03b9\u03ba-\u039d\u03b5\u03c1\u03ad\u03c4\u03b2\u03b1"
-    ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac1\u0aac\u0acd\u0ab0\u0ac9\u0ab5\u0ac9\u0aa8\u0abf\u0a95-\u0aa8\u0ac7\u0ab0\u0ac7\u0a9f\u0acd\u0ab5\u0abe \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
     ],
@@ -125,6 +98,9 @@
     ],
     "name:hun_x_preferred":[
         "Dubrovnik-Neretva megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0562\u0580\u0578\u057e\u0576\u056b\u056f \u0546\u0565\u0580\u0565\u057f\u057e\u0561"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Dubrovnik-Neretva"
@@ -157,17 +133,14 @@
     "name:lit_x_preferred":[
         "Dubrovnik\u0173\u2013Neretvos apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0414\u0443\u0431\u0440\u043e\u0432\u043d\u0438\u0447\u043a\u043e-\u043d\u0435\u0440\u0435\u0442\u0432\u0430\u043d\u0441\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0921\u092c\u0930\u094b\u0935\u0928\u093f\u0915-\u0928\u0947\u0930\u0947\u0935\u093e \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
-        "Dubrovnik-Neretva County"
-    ],
     "name:mkd_x_preferred":[
         "\u0414\u0443\u0431\u0440\u043e\u0432\u043d\u0438\u0447\u043a\u043e-\u043d\u0435\u0440\u0435\u0442\u0432\u0430\u043d\u0441\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Dubrovnik-Neretva County"
     ],
     "name:nld_x_preferred":[
         "Dubrovnik-Neretva"
@@ -181,9 +154,6 @@
     "name:nor_x_preferred":[
         "Dubrovnik-Neretva"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0628\u0631\u0648\u0648\u0646\u06cc\u06a9 \u0646\u0631\u062a\u0648\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u062f\u0648\u0628\u0631\u0648\u0648\u0646\u06a9 \u0646\u06cc\u0631\u06cc\u062a\u0648\u0627"
     ],
@@ -196,9 +166,6 @@
     "name:ron_x_preferred":[
         "Cantonul Dubrovnik-Neretva"
     ],
-    "name:rum_x_preferred":[
-        "Cantonul Dubrovnik-Neretva"
-    ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u0431\u0440\u043e\u0432\u0430\u0447\u043a\u043e-\u041d\u0435\u0440\u0435\u0442\u0432\u0430\u043d\u0441\u043a\u0430"
     ],
@@ -206,9 +173,6 @@
         "\u0da9\u0db6\u0dca\u0dbb\u0ddd\u0dc0\u0dca\u0db1\u0dd2\u0d9a\u0dca \u0db1\u0dd9\u0dbb\u0dd9\u0da7\u0dca\u0dc0\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
     "name:slk_x_preferred":[
-        "Dubrovn\u00edcko-neretvianska \u017eupa"
-    ],
-    "name:slo_x_preferred":[
         "Dubrovn\u00edcko-neretvianska \u017eupa"
     ],
     "name:slv_x_preferred":[
@@ -268,6 +232,9 @@
     ],
     "name:zho_x_preferred":[
         "\u675c\u5e03\u7f85\u592b\u5c3c\u514b-\u5167\u96f7\u7279\u74e6\u7e23"
+    ],
+    "name:zho_x_variant":[
+        "\u675c\u5e03\u7f85\u592b\u65af\u514b-\u5167\u96f7\u7279\u74e6\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"HRV",
@@ -387,7 +354,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1553550778,
+    "wof:lastmodified":1561749557,
     "wof:name":"Dubrovacko-neretvanska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

@@ -159,9 +159,6 @@
     "name:cym_x_preferred":[
         "Croatia"
     ],
-    "name:cze_x_preferred":[
-        "Chorvatsko"
-    ],
     "name:dan_x_preferred":[
         "Kroatien"
     ],
@@ -648,9 +645,6 @@
     "name:rue_x_preferred":[
         "\u0425\u043e\u0440\u0432\u0430\u0442\u0456\u044f"
     ],
-    "name:rum_x_preferred":[
-        "Croa\u021bia"
-    ],
     "name:run_x_preferred":[
         "Croacia"
     ],
@@ -889,7 +883,6 @@
         "\u514b\u7f57\u5730\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u514b\u7f57\u5730\u4e9a",
         "\u514b\u7f85\u57c3\u897f\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
@@ -1052,7 +1045,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1544059118,
+    "wof:lastmodified":1561749552,
     "wof:name":"Croatia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

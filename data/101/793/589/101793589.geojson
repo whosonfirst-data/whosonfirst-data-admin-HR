@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000187,
-    "geom:area_square_m":1626350.810668,
+    "geom:area_square_m":1626350.810669,
     "geom:bbox":"18.5319151491,45.3438111102,18.5641797359,45.369198802",
     "geom:latitude":45.356647,
     "geom:longitude":18.548243,
@@ -23,19 +23,10 @@
     "name:deu_x_preferred":[
         "Semeljci"
     ],
-    "name:dut_x_preferred":[
-        "Semeljci"
-    ],
     "name:eng_x_preferred":[
         "Semeljci"
     ],
     "name:fra_x_preferred":[
-        "Semeljci"
-    ],
-    "name:fre_x_preferred":[
-        "Semeljci"
-    ],
-    "name:ger_x_preferred":[
         "Semeljci"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +45,6 @@
         "Semeljci"
     ],
     "name:ron_x_preferred":[
-        "Comuna Semeljci"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Semeljci"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689278,
+    "wof:lastmodified":1561749599,
     "wof:name":"Semeljci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

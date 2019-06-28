@@ -22,19 +22,10 @@
     "name:deu_x_preferred":[
         "Donja Moti\u010dina"
     ],
-    "name:dut_x_preferred":[
-        "Donja Moti\u010dina"
-    ],
     "name:eng_x_preferred":[
         "Moticina"
     ],
     "name:fra_x_preferred":[
-        "Donja Moti\u010dina"
-    ],
-    "name:fre_x_preferred":[
-        "Donja Moti\u010dina"
-    ],
-    "name:ger_x_preferred":[
         "Donja Moti\u010dina"
     ],
     "name:hbs_x_preferred":[
@@ -56,9 +47,6 @@
         "Donja Moti\u010dina"
     ],
     "name:ron_x_preferred":[
-        "Comuna Donja Moti\u010dina"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Donja Moti\u010dina"
     ],
     "name:slv_x_preferred":[
@@ -127,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689281,
+    "wof:lastmodified":1561749600,
     "wof:name":"Donja Moti\u010dina",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Pu\u0161\u0107ine"
     ],
-    "name:dut_x_preferred":[
-        "Pu\u0161\u0107ine"
-    ],
     "name:eng_x_preferred":[
         "Pu\u0161\u0107ine"
     ],
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":101791319,
-    "wof:lastmodified":1535390424,
+    "wof:lastmodified":1561749590,
     "wof:name":"Pu\u0161\u0107ine",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

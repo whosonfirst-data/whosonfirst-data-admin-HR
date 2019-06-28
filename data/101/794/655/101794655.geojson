@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":1227300.000874,
+    "geom:area_square_m":1227300.000876,
     "geom:bbox":"14.7383801045,45.1498315595,14.7783660363,45.1758909219",
     "geom:latitude":45.162652,
     "geom:longitude":14.76045,
@@ -20,25 +20,22 @@
     "name:bos_x_preferred":[
         "Bribir"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bribir"
     ],
     "name:deu_x_preferred":[
         "Bribir"
     ],
-    "name:dut_x_preferred":[
-        "Bribir"
-    ],
     "name:eng_x_preferred":[
-        "Bribir"
-    ],
-    "name:ger_x_preferred":[
         "Bribir"
     ],
     "name:hrv_x_preferred":[
         "Bribir"
     ],
     "name:hun_x_preferred":[
+        "Bribir"
+    ],
+    "name:nld_x_preferred":[
         "Bribir"
     ],
     "name:pol_x_preferred":[
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":101794655,
-    "wof:lastmodified":1527689321,
+    "wof:lastmodified":1561749603,
     "wof:name":"Bribir",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

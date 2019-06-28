@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
-    "geom:area_square_m":808077.531231,
+    "geom:area_square_m":808077.53123,
     "geom:bbox":"16.9246524999,45.9186365714,16.9499349907,45.9371255342",
     "geom:latitude":45.928992,
     "geom:longitude":16.932611,
@@ -19,16 +19,10 @@
     "name:bos_x_preferred":[
         "Veliko Trojstvo"
     ],
-    "name:dut_x_preferred":[
-        "Veliko Trojstvo"
-    ],
     "name:eng_x_preferred":[
         "Trojstvo Veliko"
     ],
     "name:fra_x_preferred":[
-        "Veliko Trojstvo"
-    ],
-    "name:fre_x_preferred":[
         "Veliko Trojstvo"
     ],
     "name:hbs_x_preferred":[
@@ -47,9 +41,6 @@
         "Veliko Trojstvo"
     ],
     "name:ron_x_preferred":[
-        "Comuna Veliko Trojstvo"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Veliko Trojstvo"
     ],
     "name:rus_x_preferred":[
@@ -117,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641957,
+    "wof:lastmodified":1561749589,
     "wof:name":"Veliko Trojstvo",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

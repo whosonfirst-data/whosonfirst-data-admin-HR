@@ -17,35 +17,23 @@
     "mps:longitude":16.618047,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Prelog"
-    ],
-    "name:arm_x_preferred":[
-        "\u054a\u0580\u0565\u056c\u0578\u0563"
-    ],
     "name:bos_x_preferred":[
         "Prelog"
     ],
     "name:ces_x_preferred":[
         "Prelog"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u96f7\u6d1b\u683c"
-    ],
     "name:ckb_x_preferred":[
         "\u067e\u0631\u06ce\u0644\u06c6\u06af"
-    ],
-    "name:cze_x_preferred":[
-        "Prelog"
     ],
     "name:deu_x_preferred":[
         "Prelog"
     ],
-    "name:dut_x_preferred":[
-        "Prelog"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03c1\u03ad\u03bb\u03bf\u03b3\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03c1\u03b5\u03bb\u03cc\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Prelog"
@@ -59,15 +47,6 @@
     "name:fra_x_preferred":[
         "Prelog"
     ],
-    "name:fre_x_preferred":[
-        "Prelog"
-    ],
-    "name:ger_x_preferred":[
-        "Prelog"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03c1\u03b5\u03bb\u03cc\u03b3\u03ba"
-    ],
     "name:hbs_x_preferred":[
         "Prelog"
     ],
@@ -76,6 +55,9 @@
     ],
     "name:hun_x_preferred":[
         "Perlak"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0580\u0565\u056c\u0578\u0563"
     ],
     "name:ita_x_preferred":[
         "Prelog"
@@ -86,16 +68,10 @@
     "name:nld_x_preferred":[
         "Prelog"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u0644\u06af\u060c \u06a9\u0631\u0648\u0627\u0633\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Prelog"
     ],
     "name:ron_x_preferred":[
-        "Prelog"
-    ],
-    "name:rum_x_preferred":[
         "Prelog"
     ],
     "name:rus_x_preferred":[
@@ -177,7 +153,7 @@
         }
     ],
     "wof:id":101790187,
-    "wof:lastmodified":1527641598,
+    "wof:lastmodified":1561749587,
     "wof:name":"Prelog",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

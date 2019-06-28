@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":1017809.193928,
+    "geom:area_square_m":1017809.193929,
     "geom:bbox":"15.1164563292,44.9924193605,15.1403631364,45.0064312942",
     "geom:latitude":44.998463,
     "geom:longitude":15.128347,
@@ -24,13 +24,7 @@
     "name:ces_x_preferred":[
         "Brinje"
     ],
-    "name:cze_x_preferred":[
-        "Brinje"
-    ],
     "name:deu_x_preferred":[
-        "Brinje"
-    ],
-    "name:dut_x_preferred":[
         "Brinje"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
         "Brinje"
     ],
     "name:fra_x_preferred":[
-        "Brinje"
-    ],
-    "name:fre_x_preferred":[
-        "Brinje"
-    ],
-    "name:ger_x_preferred":[
         "Brinje"
     ],
     "name:hbs_x_preferred":[
@@ -72,16 +60,10 @@
     "name:ron_x_preferred":[
         "Comuna Brinje"
     ],
-    "name:rum_x_preferred":[
-        "Comuna Brinje"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u0438\u043d\u044c\u0435"
     ],
     "name:slk_x_preferred":[
-        "Brinje"
-    ],
-    "name:slo_x_preferred":[
         "Brinje"
     ],
     "name:slv_x_preferred":[
@@ -146,7 +128,7 @@
         }
     ],
     "wof:id":101792341,
-    "wof:lastmodified":1527714636,
+    "wof:lastmodified":1561749606,
     "wof:name":"Brinje",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
-    "geom:area_square_m":917962.511669,
+    "geom:area_square_m":917962.511668,
     "geom:bbox":"17.48590151,45.2236178545,17.5416713605,45.2402286104",
     "geom:latitude":45.231688,
     "geom:longitude":17.515525,
@@ -22,19 +22,10 @@
     "name:deu_x_preferred":[
         "Staro Petrovo Selo"
     ],
-    "name:dut_x_preferred":[
-        "Staro Petrovo Selo"
-    ],
     "name:eng_x_preferred":[
         "Staro Petrovo Selo"
     ],
     "name:fra_x_preferred":[
-        "Staro Petrovo Selo"
-    ],
-    "name:fre_x_preferred":[
-        "Staro Petrovo Selo"
-    ],
-    "name:ger_x_preferred":[
         "Staro Petrovo Selo"
     ],
     "name:hbs_x_preferred":[
@@ -53,9 +44,6 @@
         "Staro Petrovo Selo"
     ],
     "name:ron_x_preferred":[
-        "Comuna Staro Petrovo Selo"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Staro Petrovo Selo"
     ],
     "name:slv_x_preferred":[
@@ -117,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689321,
+    "wof:lastmodified":1561749602,
     "wof:name":"Staro Petrovo Selo",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

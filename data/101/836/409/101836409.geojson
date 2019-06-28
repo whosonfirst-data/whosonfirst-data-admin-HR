@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000176,
-    "geom:area_square_m":1576898.891803,
+    "geom:area_square_m":1576898.891804,
     "geom:bbox":"16.1755980194,43.5067466766,16.2059407621,43.5185134617",
     "geom:latitude":43.512591,
     "geom:longitude":16.192425,
@@ -19,7 +19,7 @@
     "name:bos_x_preferred":[
         "Seget Vranjica"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Seget Vranjica"
     ],
     "name:eng_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":101836409,
-    "wof:lastmodified":1527715152,
+    "wof:lastmodified":1561749608,
     "wof:name":"Seget Vranjica",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

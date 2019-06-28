@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000191,
-    "geom:area_square_m":1666317.681244,
+    "geom:area_square_m":1666317.681245,
     "geom:bbox":"18.9220557742,45.214347659,18.9584334972,45.2383871392",
     "geom:latitude":45.225656,
     "geom:longitude":18.941937,
@@ -20,17 +20,11 @@
     "name:bos_x_preferred":[
         "Slakovci"
     ],
-    "name:dut_x_preferred":[
-        "Slakovci"
-    ],
     "name:eng_x_preferred":[
         "Slakovci"
     ],
     "name:hrv_x_preferred":[
         "Slakovci"
-    ],
-    "name:mac_x_preferred":[
-        "\u0421\u043b\u0430\u043a\u043e\u0432\u0446\u0438"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043b\u0430\u043a\u043e\u0432\u0446\u0438"
@@ -91,7 +85,7 @@
         }
     ],
     "wof:id":101793503,
-    "wof:lastmodified":1527689276,
+    "wof:lastmodified":1561749599,
     "wof:name":"Slakovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

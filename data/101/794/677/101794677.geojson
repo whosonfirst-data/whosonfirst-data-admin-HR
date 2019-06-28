@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Jadranovo"
     ],
-    "name:dut_x_preferred":[
-        "Jadranovo"
-    ],
     "name:eng_x_preferred":[
         "Jadranovo"
     ],
@@ -33,12 +30,6 @@
         "Jadranovo"
     ],
     "name:fra_x_preferred":[
-        "Jadranovo"
-    ],
-    "name:fre_x_preferred":[
-        "Jadranovo"
-    ],
-    "name:ger_x_preferred":[
         "Jadranovo"
     ],
     "name:hbs_x_preferred":[
@@ -112,7 +103,7 @@
         }
     ],
     "wof:id":101794677,
-    "wof:lastmodified":1527689321,
+    "wof:lastmodified":1561749603,
     "wof:name":"Jadranovo",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

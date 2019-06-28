@@ -22,7 +22,7 @@
     "name:bos_x_preferred":[
         "Kupari"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kupari"
     ],
     "name:eng_x_preferred":[
@@ -31,16 +31,16 @@
     "name:fin_x_preferred":[
         "Kupari"
     ],
-    "name:fre_x_preferred":[
-        "Kupari"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kupari"
     ],
     "name:hrv_x_preferred":[
         "Kupari"
     ],
     "name:hun_x_preferred":[
+        "Kupari"
+    ],
+    "name:nld_x_preferred":[
         "Kupari"
     ],
     "name:slv_x_preferred":[
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125987815,
-    "wof:lastmodified":1514447507,
+    "wof:lastmodified":1561749622,
     "wof:name":"Kupari",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

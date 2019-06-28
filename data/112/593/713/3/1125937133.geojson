@@ -22,13 +22,10 @@
     "name:bos_x_preferred":[
         "Antin"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Antin"
     ],
     "name:eng_x_preferred":[
-        "Antin"
-    ],
-    "name:ger_x_preferred":[
         "Antin"
     ],
     "name:hrv_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30c6\u30a3\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Antin"
     ],
     "name:por_x_preferred":[
         "Antin"
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125937133,
-    "wof:lastmodified":1553816643,
+    "wof:lastmodified":1561749610,
     "wof:name":"Antin",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

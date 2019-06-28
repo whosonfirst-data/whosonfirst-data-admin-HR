@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Ugljan"
     ],
-    "name:dut_x_preferred":[
-        "Ugljan"
-    ],
     "name:ell_x_preferred":[
         "\u039f\u03cd\u03b3\u03ba\u03bb\u03b9\u03b1\u03bd"
     ],
@@ -36,9 +33,6 @@
         "Ugljan"
     ],
     "name:fra_x_preferred":[
-        "Ugljan"
-    ],
-    "name:ger_x_preferred":[
         "Ugljan"
     ],
     "name:hbs_x_preferred":[
@@ -145,7 +139,7 @@
         }
     ],
     "wof:id":101795735,
-    "wof:lastmodified":1553815509,
+    "wof:lastmodified":1561749605,
     "wof:name":"Ugljan",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

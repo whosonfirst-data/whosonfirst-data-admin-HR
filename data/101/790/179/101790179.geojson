@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Mala Subotica"
     ],
-    "name:dut_x_preferred":[
-        "Mala Subotica"
-    ],
     "name:eng_x_preferred":[
         "Mala Subotica"
     ],
@@ -30,9 +27,6 @@
         "Mala Subotica"
     ],
     "name:fra_x_preferred":[
-        "Mala Subotica"
-    ],
-    "name:fre_x_preferred":[
         "Mala Subotica"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +45,6 @@
         "Mala Subotica"
     ],
     "name:ron_x_preferred":[
-        "Comuna Mala Subotica"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Mala Subotica"
     ],
     "name:slv_x_preferred":[
@@ -112,7 +103,7 @@
         }
     ],
     "wof:id":101790179,
-    "wof:lastmodified":1527641603,
+    "wof:lastmodified":1561749587,
     "wof:name":"Mala Subotica",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

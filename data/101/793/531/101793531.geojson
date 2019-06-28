@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000074,
-    "geom:area_square_m":638515.980498,
+    "geom:area_square_m":638515.980497,
     "geom:bbox":"16.594984289,45.5104564977,16.6319309517,45.5184923894",
     "geom:latitude":45.515275,
     "geom:longitude":16.613374,
@@ -22,9 +22,6 @@
     ],
     "name:bul_x_preferred":[
         "\u041e\u0441\u0435\u043a\u043e\u0432\u043e"
-    ],
-    "name:dut_x_preferred":[
-        "Osekovo"
     ],
     "name:eng_x_preferred":[
         "Osekovo"
@@ -100,7 +97,7 @@
         }
     ],
     "wof:id":101793531,
-    "wof:lastmodified":1527689279,
+    "wof:lastmodified":1561749600,
     "wof:name":"Osekovo",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000128,
-    "geom:area_square_m":1097307.093771,
+    "geom:area_square_m":1097307.093772,
     "geom:bbox":"16.8713797273,46.1877367686,16.9018461716,46.2032236645",
     "geom:latitude":46.194471,
     "geom:longitude":16.887861,
@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Peteranec"
     ],
-    "name:dut_x_preferred":[
-        "Peteranec"
-    ],
     "name:eng_x_preferred":[
         "Peteranac"
     ],
     "name:fra_x_preferred":[
-        "Peteranec"
-    ],
-    "name:fre_x_preferred":[
         "Peteranec"
     ],
     "name:hbs_x_preferred":[
@@ -48,9 +42,6 @@
         "Peteranec"
     ],
     "name:ron_x_preferred":[
-        "Comuna Peteranec"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Peteranec"
     ],
     "name:rus_x_preferred":[
@@ -125,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641957,
+    "wof:lastmodified":1561749589,
     "wof:name":"Peteranec",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

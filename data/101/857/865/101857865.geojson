@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Donja \u0160emnica"
     ],
-    "name:dut_x_preferred":[
-        "Donja \u0160emnica"
-    ],
     "name:eng_x_preferred":[
         "Donja \u0160emnica"
     ],
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":101857865,
-    "wof:lastmodified":1544744118,
+    "wof:lastmodified":1561749595,
     "wof:name":"Donja \u0160emnica",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

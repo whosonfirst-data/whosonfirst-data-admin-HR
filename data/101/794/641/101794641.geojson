@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Bukovlje"
     ],
-    "name:dut_x_preferred":[
-        "Bukovlje"
-    ],
     "name:eng_x_preferred":[
         "Bukovlje"
     ],
     "name:fra_x_preferred":[
-        "Bukovlje"
-    ],
-    "name:fre_x_preferred":[
         "Bukovlje"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +45,6 @@
         "Bukovlje"
     ],
     "name:ron_x_preferred":[
-        "Comuna Bukovlje"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Bukovlje"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689321,
+    "wof:lastmodified":1561749603,
     "wof:name":"Bukovlje",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

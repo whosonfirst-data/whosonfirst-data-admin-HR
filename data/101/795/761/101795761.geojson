@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000186,
-    "geom:area_square_m":1646741.517942,
+    "geom:area_square_m":1646741.517941,
     "geom:bbox":"15.4597851766,44.209434276,15.5032264152,44.2210803402",
     "geom:latitude":44.215232,
     "geom:longitude":15.478725,
@@ -23,19 +23,10 @@
     "name:deu_x_preferred":[
         "Posedarje"
     ],
-    "name:dut_x_preferred":[
-        "Posedarje"
-    ],
     "name:eng_x_preferred":[
         "Posedarje"
     ],
     "name:fra_x_preferred":[
-        "Posedarje"
-    ],
-    "name:fre_x_preferred":[
-        "Posedarje"
-    ],
-    "name:ger_x_preferred":[
         "Posedarje"
     ],
     "name:hbs_x_preferred":[
@@ -59,16 +50,10 @@
     "name:ron_x_preferred":[
         "Comuna Posedarje"
     ],
-    "name:rum_x_preferred":[
-        "Comuna Posedarje"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0441\u0435\u0434\u0430\u0440\u044c\u0435"
     ],
     "name:slk_x_preferred":[
-        "Posedarje"
-    ],
-    "name:slo_x_preferred":[
         "Posedarje"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +118,7 @@
         }
     ],
     "wof:id":101795761,
-    "wof:lastmodified":1527714609,
+    "wof:lastmodified":1561749605,
     "wof:name":"Posedarje",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

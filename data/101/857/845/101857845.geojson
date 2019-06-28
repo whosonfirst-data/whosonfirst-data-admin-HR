@@ -20,25 +20,13 @@
     "name:bos_x_preferred":[
         "Vo\u0107in"
     ],
-    "name:chi_x_preferred":[
-        "\u6c83\u94a6"
-    ],
     "name:deu_x_preferred":[
-        "Vo\u0107in"
-    ],
-    "name:dut_x_preferred":[
         "Vo\u0107in"
     ],
     "name:eng_x_preferred":[
         "Vo\u0107in"
     ],
     "name:fra_x_preferred":[
-        "Vo\u0107in"
-    ],
-    "name:fre_x_preferred":[
-        "Vo\u0107in"
-    ],
-    "name:ger_x_preferred":[
         "Vo\u0107in"
     ],
     "name:heb_x_preferred":[
@@ -65,9 +53,6 @@
     "name:ron_x_preferred":[
         "Comuna Vo\u0107in"
     ],
-    "name:rum_x_preferred":[
-        "Comuna Vo\u0107in"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u0447\u0438\u043d"
     ],
@@ -91,6 +76,9 @@
     ],
     "name:war_x_preferred":[
         "Vo\u0107in"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u94a6"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Viroviticko-podravska \u017eupanija",
@@ -137,7 +125,7 @@
         }
     ],
     "wof:id":101857845,
-    "wof:lastmodified":1544744108,
+    "wof:lastmodified":1561749594,
     "wof:name":"Vo\u0107in",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

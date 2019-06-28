@@ -21,19 +21,19 @@
     "name:bos_x_preferred":[
         "Lovre\u010dica"
     ],
-    "name:dut_x_preferred":[
-        "Lovre\u010dica"
-    ],
     "name:eng_x_preferred":[
         "Lovre\u010dica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lovre\u010dica"
     ],
     "name:hrv_x_preferred":[
         "Lovre\u010dica"
     ],
     "name:hun_x_preferred":[
+        "Lovre\u010dica"
+    ],
+    "name:nld_x_preferred":[
         "Lovre\u010dica"
     ],
     "name:slv_x_preferred":[
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125817445,
-    "wof:lastmodified":1514447523,
+    "wof:lastmodified":1561749616,
     "wof:name":"Lovre\u010dica",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

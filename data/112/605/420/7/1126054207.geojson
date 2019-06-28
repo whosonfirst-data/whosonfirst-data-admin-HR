@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Zasadbreg"
     ],
-    "name:dut_x_preferred":[
-        "Zasadbreg"
-    ],
     "name:eng_x_preferred":[
         "Zasadbreg"
     ],
@@ -33,6 +30,9 @@
     ],
     "name:hun_x_preferred":[
         "Gy\u00fcm\u00f6lcshegy"
+    ],
+    "name:nld_x_preferred":[
+        "Zasadbreg"
     ],
     "name:slv_x_preferred":[
         "Zasadbreg"
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1126054207,
-    "wof:lastmodified":1514447741,
+    "wof:lastmodified":1561749614,
     "wof:name":"Zasadbreg",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

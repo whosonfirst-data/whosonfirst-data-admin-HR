@@ -16,28 +16,16 @@
     "mps:longitude":16.437124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Mursko Sredi\u0161\u0107e"
-    ],
     "name:bos_x_preferred":[
         "Mursko Sredi\u0161\u0107e"
     ],
     "name:ces_x_preferred":[
         "Mursko Sredi\u0161\u0107e"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u723e\u65af\u79d1\u65af\u96f7\u8fea\u4ec0\u5207"
-    ],
     "name:ckb_x_preferred":[
         "\u0645\u0648\u0631\u0633\u06a9\u06c6 \u0633\u0631\u06ce\u062f\u06cc\u0634\u0686\u06ce"
     ],
-    "name:cze_x_preferred":[
-        "Mursko Sredi\u0161\u0107e"
-    ],
     "name:deu_x_preferred":[
-        "Mursko Sredi\u0161\u0107e"
-    ],
-    "name:dut_x_preferred":[
         "Mursko Sredi\u0161\u0107e"
     ],
     "name:eng_x_preferred":[
@@ -52,12 +40,6 @@
     "name:fra_x_preferred":[
         "Mursko Sredi\u0161\u0107e"
     ],
-    "name:fre_x_preferred":[
-        "Mursko Sredi\u0161\u0107e"
-    ],
-    "name:ger_x_preferred":[
-        "Mursko Sredi\u0161\u0107e"
-    ],
     "name:hrv_x_preferred":[
         "Mursko Sredi\u0161\u0107e"
     ],
@@ -67,19 +49,22 @@
     "name:ita_x_preferred":[
         "Mursko Sredi\u0161\u0107e"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0631\u0633\u06a9\u0648 \u0633\u0631\u062f\u06cc\u0634\u0686\u0647"
+    "name:nld_x_preferred":[
+        "Mursko Sredi\u0161\u0107e"
     ],
     "name:pol_x_preferred":[
         "Mursko Sredi\u0161\u0107e"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mursko Sredi\u0161\u0107e"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0440\u0441\u043a\u043e-\u0421\u0440\u0435\u0434\u0438\u0448\u0447\u0435"
     ],
     "name:slv_x_preferred":[
+        "Mursko Sredi\u0161\u0107e"
+    ],
+    "name:sqi_x_preferred":[
         "Mursko Sredi\u0161\u0107e"
     ],
     "name:srp_x_preferred":[
@@ -145,7 +130,7 @@
         }
     ],
     "wof:id":101790161,
-    "wof:lastmodified":1527641595,
+    "wof:lastmodified":1561749586,
     "wof:name":"Mursko Sredi\u0161\u0107e",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

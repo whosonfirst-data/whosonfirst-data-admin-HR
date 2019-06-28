@@ -22,10 +22,10 @@
     "name:bos_x_preferred":[
         "Veli I\u017e"
     ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Veli I\u017e"
     ],
-    "name:ger_x_preferred":[
+    "name:eng_x_preferred":[
         "Veli I\u017e"
     ],
     "name:hrv_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125922079,
-    "wof:lastmodified":1514447675,
+    "wof:lastmodified":1561749612,
     "wof:name":"Veli I\u017e",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

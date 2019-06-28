@@ -17,9 +17,6 @@
     "mps:longitude":15.478213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0555\u0566\u0561\u056c"
-    ],
     "name:bel_x_preferred":[
         "\u041e\u0437\u0430\u043b\u044c"
     ],
@@ -29,16 +26,13 @@
     "name:cat_x_preferred":[
         "Ozalj"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u624e\u5229"
-    ],
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u0632\u0627\u0644\u06cc"
     ],
-    "name:deu_x_preferred":[
+    "name:cym_x_preferred":[
         "Ozalj"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ozalj"
     ],
     "name:eng_x_preferred":[
@@ -53,12 +47,6 @@
     "name:fra_x_preferred":[
         "Ozalj"
     ],
-    "name:fre_x_preferred":[
-        "Ozalj"
-    ],
-    "name:ger_x_preferred":[
-        "Ozalj"
-    ],
     "name:hbs_x_preferred":[
         "Ozalj"
     ],
@@ -71,6 +59,9 @@
     "name:hun_x_preferred":[
         "Ozaly"
     ],
+    "name:hye_x_preferred":[
+        "\u0555\u0566\u0561\u056c"
+    ],
     "name:ita_x_preferred":[
         "Ozalj"
     ],
@@ -80,16 +71,10 @@
     "name:nld_x_preferred":[
         "Ozalj"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0632\u0627\u0644\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Ozalj"
     ],
     "name:ron_x_preferred":[
-        "Ozalj"
-    ],
-    "name:rum_x_preferred":[
         "Ozalj"
     ],
     "name:rus_x_preferred":[
@@ -117,9 +102,6 @@
         "Ozalj"
     ],
     "name:war_x_preferred":[
-        "Ozalj"
-    ],
-    "name:wel_x_preferred":[
         "Ozalj"
     ],
     "name:zho_x_preferred":[
@@ -174,7 +156,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689278,
+    "wof:lastmodified":1561749599,
     "wof:name":"Ozalj",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

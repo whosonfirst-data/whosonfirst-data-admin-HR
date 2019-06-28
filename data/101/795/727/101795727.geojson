@@ -41,7 +41,7 @@
     "name:fra_x_preferred":[
         "Murter"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Murter-Kornati"
     ],
     "name:hbs_x_preferred":[
@@ -74,13 +74,13 @@
     "name:por_x_preferred":[
         "Murter"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Murter-Kornati"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0440\u0442\u0435\u0440"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Murter"
     ],
     "name:slv_x_preferred":[
@@ -153,7 +153,7 @@
         }
     ],
     "wof:id":101795727,
-    "wof:lastmodified":1527714613,
+    "wof:lastmodified":1561749605,
     "wof:name":"Murter",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

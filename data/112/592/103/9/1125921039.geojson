@@ -22,19 +22,19 @@
     "name:bos_x_preferred":[
         "Loznati"
     ],
-    "name:dut_x_preferred":[
-        "Loznati"
-    ],
     "name:eng_x_preferred":[
         "Loznati"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Loznati"
     ],
     "name:hrv_x_preferred":[
         "Loznati"
     ],
     "name:hun_x_preferred":[
+        "Loznati"
+    ],
+    "name:nld_x_preferred":[
         "Loznati"
     ],
     "name:slv_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125921039,
-    "wof:lastmodified":1514447523,
+    "wof:lastmodified":1561749611,
     "wof:name":"Loznati",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

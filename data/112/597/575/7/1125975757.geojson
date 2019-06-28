@@ -22,13 +22,13 @@
     "name:bos_x_preferred":[
         "Dervi\u0161aga"
     ],
-    "name:dut_x_preferred":[
-        "Dervi\u0161aga"
-    ],
     "name:eng_x_preferred":[
         "Dervi\u0161aga"
     ],
     "name:hrv_x_preferred":[
+        "Dervi\u0161aga"
+    ],
+    "name:nld_x_preferred":[
         "Dervi\u0161aga"
     ],
     "name:slv_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125975757,
-    "wof:lastmodified":1514447414,
+    "wof:lastmodified":1561749620,
     "wof:name":"Dervi\u0161aga",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

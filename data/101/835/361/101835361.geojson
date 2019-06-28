@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000203,
-    "geom:area_square_m":1748908.486384,
+    "geom:area_square_m":1748908.486383,
     "geom:bbox":"15.7540197025,45.8553496106,15.7850376722,45.8750314266",
     "geom:latitude":45.866372,
     "geom:longitude":15.767312,
@@ -17,22 +17,13 @@
     "mps:longitude":15.768993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Brdovec"
-    ],
     "name:bos_x_preferred":[
-        "Brdovec"
-    ],
-    "name:dut_x_preferred":[
         "Brdovec"
     ],
     "name:eng_x_preferred":[
         "Brdovec"
     ],
     "name:fra_x_preferred":[
-        "Brdovec"
-    ],
-    "name:fre_x_preferred":[
         "Brdovec"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +45,6 @@
         "Brdovec"
     ],
     "name:ron_x_preferred":[
-        "Comuna Brdovec"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Brdovec"
     ],
     "name:rus_x_preferred":[
@@ -129,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642776,
+    "wof:lastmodified":1561749596,
     "wof:name":"Brdovec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

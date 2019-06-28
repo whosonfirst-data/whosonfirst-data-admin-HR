@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000289,
-    "geom:area_square_m":2514325.277942,
+    "geom:area_square_m":2514325.277943,
     "geom:bbox":"19.3531425698,45.212970009,19.4020668869,45.229508609",
     "geom:latitude":45.22226,
     "geom:longitude":19.374851,
@@ -17,9 +17,6 @@
     "mps:longitude":19.374851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Ilok"
-    ],
     "name:bos_x_preferred":[
         "Ilok"
     ],
@@ -32,19 +29,10 @@
     "name:ces_x_preferred":[
         "Ilok"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u6d1b\u514b"
-    ],
     "name:ckb_x_preferred":[
         "\u0626\u06cc\u0644\u06c6\u06a9"
     ],
-    "name:cze_x_preferred":[
-        "Ilok"
-    ],
     "name:deu_x_preferred":[
-        "Ilok"
-    ],
-    "name:dut_x_preferred":[
         "Ilok"
     ],
     "name:eng_x_preferred":[
@@ -60,12 +48,6 @@
         "\u0627\u06cc\u0644\u06a9"
     ],
     "name:fra_x_preferred":[
-        "Ilok"
-    ],
-    "name:fre_x_preferred":[
-        "Ilok"
-    ],
-    "name:ger_x_preferred":[
         "Ilok"
     ],
     "name:hbs_x_preferred":[
@@ -98,9 +80,6 @@
     "name:oci_x_preferred":[
         "Ilok"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0644\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Ilok"
     ],
@@ -108,9 +87,6 @@
         "Ilok"
     ],
     "name:ron_x_preferred":[
-        "Ilok"
-    ],
-    "name:rum_x_preferred":[
         "Ilok"
     ],
     "name:rus_x_preferred":[
@@ -209,7 +185,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689278,
+    "wof:lastmodified":1561749599,
     "wof:name":"Ilok",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

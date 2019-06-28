@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000887,
-    "geom:area_square_m":7712808.825962,
+    "geom:area_square_m":7712808.82596,
     "geom:bbox":"18.3797490396,45.2825092221,18.4377204309,45.337876982",
     "geom:latitude":45.311323,
     "geom:longitude":18.411306,
@@ -17,9 +17,6 @@
     "mps:longitude":18.413282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "\u0110akovo"
-    ],
     "name:bos_x_preferred":[
         "\u0110akovo"
     ],
@@ -29,22 +26,13 @@
     "name:ces_x_preferred":[
         "\u0110akovo"
     ],
-    "name:chi_x_preferred":[
-        "\u8cc8\u79d1\u6c83"
-    ],
     "name:ckb_x_preferred":[
         "\u062f\u0627\u06a9\u06c6\u06a4\u06c6"
-    ],
-    "name:cze_x_preferred":[
-        "\u0110akovo"
     ],
     "name:dan_x_preferred":[
         "\u0110akovo"
     ],
     "name:deu_x_preferred":[
-        "\u0110akovo"
-    ],
-    "name:dut_x_preferred":[
         "\u0110akovo"
     ],
     "name:eng_x_preferred":[
@@ -60,12 +48,6 @@
         "\u062c\u0627\u06a9\u0648\u0648"
     ],
     "name:fra_x_preferred":[
-        "\u0110akovo"
-    ],
-    "name:fre_x_preferred":[
-        "\u0110akovo"
-    ],
-    "name:ger_x_preferred":[
         "\u0110akovo"
     ],
     "name:hbs_x_preferred":[
@@ -95,16 +77,13 @@
     "name:lit_x_preferred":[
         "D\u017eakovas"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u0627\u06a9\u0648\u0648"
+    "name:nld_x_preferred":[
+        "\u0110akovo"
     ],
     "name:pol_x_preferred":[
         "\u0110akovo"
     ],
     "name:ron_x_preferred":[
-        "\u0110akovo"
-    ],
-    "name:rum_x_preferred":[
         "\u0110akovo"
     ],
     "name:rus_x_preferred":[
@@ -117,6 +96,9 @@
         "\u0110akovo"
     ],
     "name:spa_x_preferred":[
+        "\u0110akovo"
+    ],
+    "name:sqi_x_preferred":[
         "\u0110akovo"
     ],
     "name:srp_x_preferred":[
@@ -210,7 +192,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689275,
+    "wof:lastmodified":1561749598,
     "wof:name":"\u0110akovo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

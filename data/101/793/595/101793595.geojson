@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
-    "geom:area_square_m":668501.152776,
+    "geom:area_square_m":668501.152775,
     "geom:bbox":"18.3671438026,45.3441929845,18.3863384868,45.361813764",
     "geom:latitude":45.352938,
     "geom:longitude":18.376628,
@@ -19,16 +19,10 @@
     "name:bos_x_preferred":[
         "Satnica \u0110akova\u010dka"
     ],
-    "name:dut_x_preferred":[
-        "Satnica \u0110akova\u010dka"
-    ],
     "name:eng_x_preferred":[
         "Satnica \u0110akova\u010dka"
     ],
     "name:fra_x_preferred":[
-        "Satnica \u0110akova\u010dka"
-    ],
-    "name:fre_x_preferred":[
         "Satnica \u0110akova\u010dka"
     ],
     "name:hbs_x_preferred":[
@@ -47,9 +41,6 @@
         "Satnica \u0110akova\u010dka"
     ],
     "name:ron_x_preferred":[
-        "Comuna Satnica \u0110akova\u010dka"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Satnica \u0110akova\u010dka"
     ],
     "name:slv_x_preferred":[
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":101793595,
-    "wof:lastmodified":1527689275,
+    "wof:lastmodified":1561749598,
     "wof:name":"Satnica \u0110akova\u010dka",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

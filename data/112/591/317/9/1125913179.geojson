@@ -22,19 +22,19 @@
     "name:bos_x_preferred":[
         "Korni\u0107"
     ],
-    "name:dut_x_preferred":[
-        "Korni\u0107"
-    ],
     "name:eng_x_preferred":[
         "Korni\u0107"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Korni\u0107"
     ],
     "name:hrv_x_preferred":[
         "Korni\u0107"
     ],
     "name:hun_x_preferred":[
+        "Korni\u0107"
+    ],
+    "name:nld_x_preferred":[
         "Korni\u0107"
     ],
     "name:slv_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125913179,
-    "wof:lastmodified":1514447497,
+    "wof:lastmodified":1561749621,
     "wof:name":"Korni\u0107",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

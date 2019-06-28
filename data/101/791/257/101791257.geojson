@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000184,
-    "geom:area_square_m":1576199.452802,
+    "geom:area_square_m":1576199.452801,
     "geom:bbox":"16.9401377676,46.0674293445,16.9614060018,46.0891921022",
     "geom:latitude":46.077853,
     "geom:longitude":16.951323,
@@ -19,16 +19,10 @@
     "name:bos_x_preferred":[
         "Novigrad Podravski"
     ],
-    "name:dut_x_preferred":[
-        "Novigrad Podravski"
-    ],
     "name:eng_x_preferred":[
         "Novigrad Podravski"
     ],
     "name:fra_x_preferred":[
-        "Novigrad Podravski"
-    ],
-    "name:fre_x_preferred":[
         "Novigrad Podravski"
     ],
     "name:hbs_x_preferred":[
@@ -47,9 +41,6 @@
         "Novigrad Podravski"
     ],
     "name:ron_x_preferred":[
-        "Comuna Novigrad Podravski"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Novigrad Podravski"
     ],
     "name:rus_x_preferred":[
@@ -117,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641954,
+    "wof:lastmodified":1561749588,
     "wof:name":"Novigrad Podravski",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

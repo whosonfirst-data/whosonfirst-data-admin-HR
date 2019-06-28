@@ -19,16 +19,10 @@
     "name:bos_x_preferred":[
         "\u0110elekovec"
     ],
-    "name:dut_x_preferred":[
-        "\u0110elekovec"
-    ],
     "name:eng_x_preferred":[
         "\u0110elekovec"
     ],
     "name:fra_x_preferred":[
-        "\u0110elekovec"
-    ],
-    "name:fre_x_preferred":[
         "\u0110elekovec"
     ],
     "name:hbs_x_preferred":[
@@ -47,9 +41,6 @@
         "\u0110elekovec"
     ],
     "name:ron_x_preferred":[
-        "Comuna \u0110elekovec"
-    ],
-    "name:rum_x_preferred":[
         "Comuna \u0110elekovec"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":101791247,
-    "wof:lastmodified":1527641957,
+    "wof:lastmodified":1561749589,
     "wof:name":"\u0110elekovec",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

@@ -17,22 +17,13 @@
     "mps:longitude":18.841037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Nu\u0161tar"
-    ],
     "name:bos_x_preferred":[
-        "Nu\u0161tar"
-    ],
-    "name:dut_x_preferred":[
         "Nu\u0161tar"
     ],
     "name:eng_x_preferred":[
         "Nu\u0161tar"
     ],
     "name:fra_x_preferred":[
-        "Nu\u0161tar"
-    ],
-    "name:fre_x_preferred":[
         "Nu\u0161tar"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +42,6 @@
         "Nu\u0161tar"
     ],
     "name:ron_x_preferred":[
-        "Comuna Nu\u0161tar"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Nu\u0161tar"
     ],
     "name:rus_x_preferred":[
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":101793485,
-    "wof:lastmodified":1527689276,
+    "wof:lastmodified":1561749599,
     "wof:name":"Nu\u0161tar",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

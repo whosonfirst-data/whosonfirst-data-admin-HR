@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Ka\u0161ina"
     ],
-    "name:dut_x_preferred":[
-        "Ka\u0161ina"
-    ],
     "name:eng_x_preferred":[
         "Ka\u0161ina"
     ],
@@ -29,6 +26,9 @@
         "Ka\u0161ina"
     ],
     "name:hrv_x_preferred":[
+        "Ka\u0161ina"
+    ],
+    "name:nld_x_preferred":[
         "Ka\u0161ina"
     ],
     "name:slv_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":101835349,
-    "wof:lastmodified":1527642775,
+    "wof:lastmodified":1561749596,
     "wof:name":"Ka\u0161ina",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

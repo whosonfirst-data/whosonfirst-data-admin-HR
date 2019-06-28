@@ -26,20 +26,14 @@
     "name:deu_x_preferred":[
         "Gvozd"
     ],
-    "name:dut_x_preferred":[
-        "Vrginmost"
-    ],
     "name:eng_x_preferred":[
         "Gvozd / Vrginmost"
     ],
     "name:fra_x_preferred":[
         "Gvozd"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Vrginmost"
-    ],
-    "name:ger_x_preferred":[
-        "Gvozd"
     ],
     "name:hbs_x_preferred":[
         "Vrginmost"
@@ -59,10 +53,10 @@
     "name:nld_x_preferred":[
         "Gvozd"
     ],
-    "name:ron_x_preferred":[
-        "Comuna Gvozd"
+    "name:nld_x_variant":[
+        "Vrginmost"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Gvozd"
     ],
     "name:slv_x_preferred":[
@@ -134,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642632,
+    "wof:lastmodified":1561749594,
     "wof:name":"Gvozd",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

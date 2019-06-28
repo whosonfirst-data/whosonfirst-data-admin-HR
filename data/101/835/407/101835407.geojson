@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
-    "geom:area_square_m":2640339.30539,
+    "geom:area_square_m":2640339.305387,
     "geom:bbox":"18.3875997921,45.6765984541,18.4283187896,45.7027790752",
     "geom:latitude":45.688576,
     "geom:longitude":18.41101,
@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Bistrinci"
     ],
-    "name:dut_x_preferred":[
-        "Bistrinci"
-    ],
     "name:eng_x_preferred":[
         "Bistrinci"
     ],
@@ -30,6 +27,9 @@
         "Bistrinci"
     ],
     "name:hrv_x_preferred":[
+        "Bistrinci"
+    ],
+    "name:nld_x_preferred":[
         "Bistrinci"
     ],
     "name:slv_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101835407,
-    "wof:lastmodified":1527642774,
+    "wof:lastmodified":1561749596,
     "wof:name":"Bistrinci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

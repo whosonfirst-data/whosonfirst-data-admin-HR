@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":488837.351982,
+    "geom:area_square_m":488837.351983,
     "geom:bbox":"15.8865180633,45.914329425,15.9025159718,45.9241320928",
     "geom:latitude":45.919708,
     "geom:longitude":15.894376,
@@ -17,9 +17,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:bos_x_preferred":[
-        "Gornja Bistra"
-    ],
-    "name:dut_x_preferred":[
         "Gornja Bistra"
     ],
     "name:eng_x_preferred":[
@@ -92,7 +89,7 @@
         }
     ],
     "wof:id":101792377,
-    "wof:lastmodified":1527714636,
+    "wof:lastmodified":1561749606,
     "wof:name":"Gornja Bistra",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

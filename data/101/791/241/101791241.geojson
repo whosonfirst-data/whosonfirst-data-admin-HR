@@ -19,16 +19,10 @@
     "name:bos_x_preferred":[
         "Zlatar-Bistrica"
     ],
-    "name:dut_x_preferred":[
-        "Zlatar-Bistrica"
-    ],
     "name:eng_x_preferred":[
         "Zlatar Bistrica"
     ],
     "name:fra_x_preferred":[
-        "Zlatar-Bistrica"
-    ],
-    "name:fre_x_preferred":[
         "Zlatar-Bistrica"
     ],
     "name:hbs_x_preferred":[
@@ -47,9 +41,6 @@
         "Zlatar-Bistrica"
     ],
     "name:ron_x_preferred":[
-        "Comuna Zlatar Bistrica"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Zlatar Bistrica"
     ],
     "name:rus_x_preferred":[
@@ -108,7 +99,7 @@
         }
     ],
     "wof:id":101791241,
-    "wof:lastmodified":1527641956,
+    "wof:lastmodified":1561749589,
     "wof:name":"Zlatar-Bistrica",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

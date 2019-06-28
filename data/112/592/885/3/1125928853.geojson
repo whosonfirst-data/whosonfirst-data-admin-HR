@@ -22,16 +22,16 @@
     "name:bos_x_preferred":[
         "Adamovec"
     ],
-    "name:cze_x_preferred":[
-        "Adamovec"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Adamovec"
     ],
     "name:eng_x_preferred":[
         "Adamovec"
     ],
     "name:hrv_x_preferred":[
+        "Adamovec"
+    ],
+    "name:nld_x_preferred":[
         "Adamovec"
     ],
     "name:slv_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125928853,
-    "wof:lastmodified":1514447380,
+    "wof:lastmodified":1561749612,
     "wof:name":"Adamovec",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

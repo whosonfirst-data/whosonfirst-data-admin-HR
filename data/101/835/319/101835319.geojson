@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000238,
-    "geom:area_square_m":2071181.821878,
+    "geom:area_square_m":2071181.821877,
     "geom:bbox":"18.8989320895,45.2470680342,18.9197880571,45.2694987108",
     "geom:latitude":45.257447,
     "geom:longitude":18.909032,
@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Stari Jankovci"
     ],
-    "name:dut_x_preferred":[
-        "Stari Jankovci"
-    ],
     "name:eng_x_preferred":[
         "Stari Jankovci"
     ],
     "name:fra_x_preferred":[
-        "Stari Jankovci"
-    ],
-    "name:fre_x_preferred":[
         "Stari Jankovci"
     ],
     "name:hbs_x_preferred":[
@@ -45,9 +39,6 @@
         "Stari Jankovci"
     ],
     "name:ron_x_preferred":[
-        "Comuna Stari Jankovci"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Stari Jankovci"
     ],
     "name:slv_x_preferred":[
@@ -116,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642779,
+    "wof:lastmodified":1561749597,
     "wof:name":"Stari Jankovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

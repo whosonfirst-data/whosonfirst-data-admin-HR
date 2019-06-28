@@ -22,13 +22,13 @@
     "name:bos_x_preferred":[
         "Bu\u0161etina"
     ],
-    "name:dut_x_preferred":[
-        "Bu\u0161etina"
-    ],
     "name:eng_x_preferred":[
         "Bu\u0161etina"
     ],
     "name:hrv_x_preferred":[
+        "Bu\u0161etina"
+    ],
+    "name:nld_x_preferred":[
         "Bu\u0161etina"
     ],
     "name:slv_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125957981,
-    "wof:lastmodified":1514447408,
+    "wof:lastmodified":1561749612,
     "wof:name":"Bu\u00b5etina",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

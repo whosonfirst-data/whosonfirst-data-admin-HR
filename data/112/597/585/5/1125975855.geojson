@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Mad\u017earevo"
     ],
-    "name:dut_x_preferred":[
-        "Mad\u017earevo"
-    ],
     "name:eng_x_preferred":[
         "Mad\u017earevo"
     ],
@@ -32,6 +29,9 @@
         "Mad\u017earevo"
     ],
     "name:hun_x_preferred":[
+        "Mad\u017earevo"
+    ],
+    "name:nld_x_preferred":[
         "Mad\u017earevo"
     ],
     "name:slv_x_preferred":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125975855,
-    "wof:lastmodified":1514447525,
+    "wof:lastmodified":1561749620,
     "wof:name":"Madzarevo",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

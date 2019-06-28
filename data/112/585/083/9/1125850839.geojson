@@ -22,10 +22,7 @@
     "name:bos_x_preferred":[
         "Rogotin"
     ],
-    "name:cze_x_preferred":[
-        "Rogotin"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Rogotin"
     ],
     "name:eng_x_preferred":[
@@ -35,6 +32,9 @@
         "Rogotin"
     ],
     "name:hun_x_preferred":[
+        "Rogotin"
+    ],
+    "name:nld_x_preferred":[
         "Rogotin"
     ],
     "name:slv_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125850839,
-    "wof:lastmodified":1514447615,
+    "wof:lastmodified":1561749623,
     "wof:name":"Rogotin",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

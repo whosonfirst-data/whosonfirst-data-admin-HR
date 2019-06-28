@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000093,
-    "geom:area_square_m":808170.729085,
+    "geom:area_square_m":808170.729084,
     "geom:bbox":"18.6527841521,45.4379650457,18.6708357285,45.4574167958",
     "geom:latitude":45.447671,
     "geom:longitude":18.66168,
@@ -23,16 +23,10 @@
     "name:bul_x_preferred":[
         "\u0415\u0440\u043d\u0435\u0441\u0442\u0438\u043d\u043e\u0432\u043e"
     ],
-    "name:dut_x_preferred":[
-        "Ernestinovo"
-    ],
     "name:eng_x_preferred":[
         "Ernestinovo"
     ],
     "name:fra_x_preferred":[
-        "Ernestinovo"
-    ],
-    "name:fre_x_preferred":[
         "Ernestinovo"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +48,6 @@
         "Ernestinovo"
     ],
     "name:ron_x_preferred":[
-        "Comuna Ernestinovo"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Ernestinovo"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689279,
+    "wof:lastmodified":1561749599,
     "wof:name":"Ernestinovo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

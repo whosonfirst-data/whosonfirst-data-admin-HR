@@ -17,28 +17,16 @@
     "mps:longitude":15.50621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Pako\u0161tane"
-    ],
     "name:bos_x_preferred":[
         "Pako\u0161tane"
     ],
     "name:deu_x_preferred":[
         "Pako\u0161tane"
     ],
-    "name:dut_x_preferred":[
-        "Pako\u0161tane"
-    ],
     "name:eng_x_preferred":[
         "Pako\u0161tane"
     ],
     "name:fra_x_preferred":[
-        "Pako\u0161tane"
-    ],
-    "name:fre_x_preferred":[
-        "Pako\u0161tane"
-    ],
-    "name:ger_x_preferred":[
         "Pako\u0161tane"
     ],
     "name:hrv_x_preferred":[
@@ -62,13 +50,13 @@
     "name:ron_x_preferred":[
         "Comuna Pako\u0161tane"
     ],
-    "name:rum_x_preferred":[
-        "Comuna Pako\u0161tane"
-    ],
     "name:slv_x_preferred":[
         "Pako\u0161tane"
     ],
     "name:spa_x_preferred":[
+        "Pako\u0161tane"
+    ],
+    "name:sqi_x_preferred":[
         "Pako\u0161tane"
     ],
     "name:srp_x_preferred":[
@@ -124,7 +112,7 @@
         }
     ],
     "wof:id":101795781,
-    "wof:lastmodified":1527714612,
+    "wof:lastmodified":1561749605,
     "wof:name":"Pako\u0161tane",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

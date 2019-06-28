@@ -22,12 +22,6 @@
     "name:ces_x_preferred":[
         "Donji Vidovec"
     ],
-    "name:cze_x_preferred":[
-        "Donji Vidovec"
-    ],
-    "name:dut_x_preferred":[
-        "Donji Vidovec"
-    ],
     "name:eng_x_preferred":[
         "Donji Vidovec"
     ],
@@ -35,9 +29,6 @@
         "Donji Vidovec"
     ],
     "name:fra_x_preferred":[
-        "Donji Vidovec"
-    ],
-    "name:fre_x_preferred":[
         "Donji Vidovec"
     ],
     "name:hbs_x_preferred":[
@@ -56,9 +47,6 @@
         "Donji Vidovec"
     ],
     "name:ron_x_preferred":[
-        "Comuna Donji Vidovec"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Donji Vidovec"
     ],
     "name:slv_x_preferred":[
@@ -113,7 +101,7 @@
         }
     ],
     "wof:id":101790199,
-    "wof:lastmodified":1527641600,
+    "wof:lastmodified":1561749587,
     "wof:name":"Donji Vidovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

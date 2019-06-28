@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000343,
-    "geom:area_square_m":2953055.218009,
+    "geom:area_square_m":2953055.218008,
     "geom:bbox":"16.2776686414,45.8183700391,16.3120337012,45.8455752329",
     "geom:latitude":45.831278,
     "geom:longitude":16.298745,
@@ -23,19 +23,10 @@
     "name:deu_x_preferred":[
         "Brckovljani"
     ],
-    "name:dut_x_preferred":[
-        "Brckovljani"
-    ],
     "name:eng_x_preferred":[
         "Brckovljani"
     ],
     "name:fra_x_preferred":[
-        "Brckovljani"
-    ],
-    "name:fre_x_preferred":[
-        "Brckovljani"
-    ],
-    "name:ger_x_preferred":[
         "Brckovljani"
     ],
     "name:hbs_x_preferred":[
@@ -57,9 +48,6 @@
         "Brckovljani"
     ],
     "name:ron_x_preferred":[
-        "Comuna Brckovljani"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Brckovljani"
     ],
     "name:rus_x_preferred":[
@@ -131,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714635,
+    "wof:lastmodified":1561749606,
     "wof:name":"Brckovljani",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

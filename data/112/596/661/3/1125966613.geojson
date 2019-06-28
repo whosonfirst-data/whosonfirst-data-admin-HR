@@ -22,19 +22,19 @@
     "name:bos_x_preferred":[
         "Bubani"
     ],
-    "name:dut_x_preferred":[
-        "Bubani"
-    ],
     "name:eng_x_preferred":[
         "Bubani"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bubani"
     ],
     "name:hrv_x_preferred":[
         "Bubani"
     ],
     "name:hun_x_preferred":[
+        "Bubani"
+    ],
+    "name:nld_x_preferred":[
         "Bubani"
     ],
     "name:pol_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125966613,
-    "wof:lastmodified":1514447406,
+    "wof:lastmodified":1561749620,
     "wof:name":"Bubani",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

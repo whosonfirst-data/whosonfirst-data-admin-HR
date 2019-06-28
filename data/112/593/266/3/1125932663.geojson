@@ -22,19 +22,19 @@
     "name:bos_x_preferred":[
         "Pod\u0161pilje"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pod\u0161pilje"
     ],
     "name:eng_x_preferred":[
-        "Pod\u0161pilje"
-    ],
-    "name:ger_x_preferred":[
         "Pod\u0161pilje"
     ],
     "name:hrv_x_preferred":[
         "Pod\u0161pilje"
     ],
     "name:hun_x_preferred":[
+        "Pod\u0161pilje"
+    ],
+    "name:nld_x_preferred":[
         "Pod\u0161pilje"
     ],
     "name:slv_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125932663,
-    "wof:lastmodified":1514447574,
+    "wof:lastmodified":1561749610,
     "wof:name":"Pod\u00b5pilje",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

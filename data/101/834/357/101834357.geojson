@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Vinica"
     ],
-    "name:dut_x_preferred":[
-        "Vinica"
-    ],
     "name:eng_x_preferred":[
         "Vinica"
     ],
     "name:fra_x_preferred":[
-        "Vinica"
-    ],
-    "name:fre_x_preferred":[
         "Vinica"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +45,6 @@
         "Vinica"
     ],
     "name:ron_x_preferred":[
-        "Comuna Vinica"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Vinica"
     ],
     "name:rus_x_preferred":[
@@ -125,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815532,
+    "wof:lastmodified":1561749598,
     "wof:name":"Vinica",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

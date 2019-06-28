@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000215,
-    "geom:area_square_m":1875867.304964,
+    "geom:area_square_m":1875867.304965,
     "geom:bbox":"18.278325357,45.1800986018,18.3171431619,45.1943290542",
     "geom:latitude":45.187505,
     "geom:longitude":18.296965,
@@ -17,28 +17,16 @@
     "mps:longitude":18.296671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Donji Andrijevci"
-    ],
     "name:bos_x_preferred":[
         "Donji Andrijevci"
     ],
     "name:deu_x_preferred":[
         "Donji Andrijevci"
     ],
-    "name:dut_x_preferred":[
-        "Donji Andrijevci"
-    ],
     "name:eng_x_preferred":[
         "Donji Andrijevci"
     ],
     "name:fra_x_preferred":[
-        "Donji Andrijevci"
-    ],
-    "name:fre_x_preferred":[
-        "Donji Andrijevci"
-    ],
-    "name:ger_x_preferred":[
         "Donji Andrijevci"
     ],
     "name:hbs_x_preferred":[
@@ -57,9 +45,6 @@
         "Donji Andrijevci"
     ],
     "name:ron_x_preferred":[
-        "Comuna Donji Andrijevci"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Donji Andrijevci"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689322,
+    "wof:lastmodified":1561749603,
     "wof:name":"Donji Andrijevci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

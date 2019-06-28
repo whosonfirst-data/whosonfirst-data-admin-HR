@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000222,
-    "geom:area_square_m":1935802.06012,
+    "geom:area_square_m":1935802.060123,
     "geom:bbox":"18.3744795578,45.1476891891,18.4401780789,45.1634915246",
     "geom:latitude":45.15498,
     "geom:longitude":18.40309,
@@ -23,19 +23,10 @@
     "name:deu_x_preferred":[
         "Velika Kopanica"
     ],
-    "name:dut_x_preferred":[
-        "Velika Kopanica"
-    ],
     "name:eng_x_preferred":[
         "Velica Kopanica"
     ],
     "name:fra_x_preferred":[
-        "Velika Kopanica"
-    ],
-    "name:fre_x_preferred":[
-        "Velika Kopanica"
-    ],
-    "name:ger_x_preferred":[
         "Velika Kopanica"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +45,6 @@
         "Velika Kopanica"
     ],
     "name:ron_x_preferred":[
-        "Comuna Velika Kopanica"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Velika Kopanica"
     ],
     "name:spa_x_preferred":[
@@ -123,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689323,
+    "wof:lastmodified":1561749603,
     "wof:name":"Velika Kopanica",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

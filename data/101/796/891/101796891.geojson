@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
-    "geom:area_square_m":988232.147254,
+    "geom:area_square_m":988232.147255,
     "geom:bbox":"17.2007609185,43.4030825453,17.2205081315,43.4213837183",
     "geom:latitude":43.413065,
     "geom:longitude":17.210985,
@@ -26,25 +26,13 @@
     "name:ces_x_preferred":[
         "Zmijavci"
     ],
-    "name:cze_x_preferred":[
-        "Zmijavci"
-    ],
     "name:deu_x_preferred":[
-        "Zmijavci"
-    ],
-    "name:dut_x_preferred":[
         "Zmijavci"
     ],
     "name:eng_x_preferred":[
         "Zmijavci"
     ],
     "name:fra_x_preferred":[
-        "Zmijavci"
-    ],
-    "name:fre_x_preferred":[
-        "Zmijavci"
-    ],
-    "name:ger_x_preferred":[
         "Zmijavci"
     ],
     "name:hbs_x_preferred":[
@@ -66,9 +54,6 @@
         "Zmijavci"
     ],
     "name:ron_x_preferred":[
-        "Comuna Zmijavci"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Zmijavci"
     ],
     "name:slv_x_preferred":[
@@ -138,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642037,
+    "wof:lastmodified":1561749591,
     "wof:name":"Zmijavci",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1037411.682865,
+    "geom:area_square_m":1037411.682863,
     "geom:bbox":"16.5823110527,46.429309836,16.6134460184,46.4401646427",
     "geom:latitude":46.433889,
     "geom:longitude":16.597587,
@@ -23,13 +23,7 @@
     "name:ces_x_preferred":[
         "Doma\u0161inec"
     ],
-    "name:cze_x_preferred":[
-        "Doma\u0161inec"
-    ],
     "name:deu_x_preferred":[
-        "Doma\u0161inec"
-    ],
-    "name:dut_x_preferred":[
         "Doma\u0161inec"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "Doma\u0161inec"
     ],
     "name:fra_x_preferred":[
-        "Doma\u0161inec"
-    ],
-    "name:fre_x_preferred":[
-        "Doma\u0161inec"
-    ],
-    "name:ger_x_preferred":[
         "Doma\u0161inec"
     ],
     "name:hrv_x_preferred":[
@@ -60,9 +48,6 @@
         "Doma\u0161inec"
     ],
     "name:ron_x_preferred":[
-        "Comuna Doma\u0161inec"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Doma\u0161inec"
     ],
     "name:slv_x_preferred":[
@@ -124,7 +109,7 @@
         }
     ],
     "wof:id":101790185,
-    "wof:lastmodified":1527641604,
+    "wof:lastmodified":1561749587,
     "wof:name":"Doma\u0161inec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

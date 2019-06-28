@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Gornji Stupnik"
     ],
-    "name:dut_x_preferred":[
-        "Gornji Stupnik"
-    ],
     "name:eng_x_preferred":[
         "Gornji Stupnik"
     ],
@@ -89,7 +86,7 @@
         }
     ],
     "wof:id":101792371,
-    "wof:lastmodified":1527714636,
+    "wof:lastmodified":1561749606,
     "wof:name":"Gornji Stupnik",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

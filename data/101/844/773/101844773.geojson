@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Slobodnica"
     ],
-    "name:dut_x_preferred":[
-        "Slobodnica"
-    ],
     "name:eng_x_preferred":[
         "Slobodnica"
     ],
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":101844773,
-    "wof:lastmodified":1527642632,
+    "wof:lastmodified":1561749594,
     "wof:name":"Slobodnica",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

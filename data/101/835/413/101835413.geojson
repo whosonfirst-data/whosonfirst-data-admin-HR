@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000207,
-    "geom:area_square_m":1779581.293306,
+    "geom:area_square_m":1779581.293305,
     "geom:bbox":"16.8038697843,45.8560968039,16.8489624216,45.8843131",
     "geom:latitude":45.87177,
     "geom:longitude":16.827407,
@@ -18,9 +18,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:bos_x_preferred":[
-        "Brezovac"
-    ],
-    "name:dut_x_preferred":[
         "Brezovac"
     ],
     "name:eng_x_preferred":[
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":101835413,
-    "wof:lastmodified":1527642773,
+    "wof:lastmodified":1561749595,
     "wof:name":"Brezovac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

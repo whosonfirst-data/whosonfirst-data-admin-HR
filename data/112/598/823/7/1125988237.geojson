@@ -18,25 +18,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Suko\u0161an"
-    ],
     "name:bos_x_preferred":[
         "Suko\u0161an"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Suko\u0161an"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Suko\u0161an"
     ],
     "name:eng_x_preferred":[
         "Sukosan"
     ],
-    "name:fre_x_preferred":[
-        "Suko\u0161an"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Suko\u0161an"
     ],
     "name:hrv_x_preferred":[
@@ -48,16 +42,22 @@
     "name:ita_x_preferred":[
         "San Cassiano"
     ],
+    "name:nld_x_preferred":[
+        "Suko\u0161an"
+    ],
     "name:por_x_preferred":[
         "Suko\u0161an"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Suko\u0161an"
     ],
     "name:slv_x_preferred":[
         "Suko\u0161an"
     ],
     "name:spa_x_preferred":[
+        "Suko\u0161an"
+    ],
+    "name:sqi_x_preferred":[
         "Suko\u0161an"
     ],
     "name:srp_x_preferred":[
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":1125988237,
-    "wof:lastmodified":1514447657,
+    "wof:lastmodified":1561749621,
     "wof:name":"Suko\u00b5an",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

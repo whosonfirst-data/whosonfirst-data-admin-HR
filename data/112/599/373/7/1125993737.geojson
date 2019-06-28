@@ -28,16 +28,13 @@
     "name:cat_x_preferred":[
         "Ivanska"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ivanska"
     ],
     "name:eng_x_preferred":[
         "Ivanska"
     ],
-    "name:fre_x_preferred":[
-        "Ivanska"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ivanska"
     ],
     "name:hrv_x_preferred":[
@@ -46,10 +43,13 @@
     "name:ita_x_preferred":[
         "Ivanska"
     ],
+    "name:nld_x_preferred":[
+        "Ivanska"
+    ],
     "name:pol_x_preferred":[
         "Ivanska"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Ivanska"
     ],
     "name:rus_x_preferred":[
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1125993737,
-    "wof:lastmodified":1514447465,
+    "wof:lastmodified":1561749619,
     "wof:name":"Ivanska",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

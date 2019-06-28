@@ -25,7 +25,7 @@
     "name:eng_x_preferred":[
         "Zlobin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zlobin"
     ],
     "name:hrv_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125817609,
-    "wof:lastmodified":1514447743,
+    "wof:lastmodified":1561749616,
     "wof:name":"Zlobin",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

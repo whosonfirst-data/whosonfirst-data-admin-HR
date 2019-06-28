@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "O\u0161trice"
     ],
-    "name:dut_x_preferred":[
-        "O\u0161trice"
-    ],
     "name:eng_x_preferred":[
         "O\u0161trice"
     ],
@@ -32,6 +29,9 @@
         "O\u0161trice"
     ],
     "name:hun_x_preferred":[
+        "O\u0161trice"
+    ],
+    "name:nld_x_preferred":[
         "O\u0161trice"
     ],
     "name:slv_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125819375,
-    "wof:lastmodified":1514447564,
+    "wof:lastmodified":1561749616,
     "wof:name":"O\u00b5trice",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

@@ -21,9 +21,6 @@
     "name:afr_x_preferred":[
         "Zagreb"
     ],
-    "name:alb_x_preferred":[
-        "Zagrebi"
-    ],
     "name:amh_x_preferred":[
         "\u12db\u130d\u122c\u1265"
     ],
@@ -32,9 +29,6 @@
     ],
     "name:arg_x_preferred":[
         "Zagreb"
-    ],
-    "name:arm_x_preferred":[
-        "\u0536\u0561\u0563\u0580\u0565\u0562"
     ],
     "name:arz_x_preferred":[
         "\u0632\u0627\u062c\u0631\u064a\u0628"
@@ -47,9 +41,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0435\u0431"
-    ],
-    "name:baq_x_preferred":[
-        "Zagreb"
     ],
     "name:bar_x_preferred":[
         "Agram"
@@ -85,9 +76,6 @@
     "name:che_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0435\u0431"
     ],
-    "name:chi_x_preferred":[
-        "\u8428\u683c\u52d2\u5e03"
-    ],
     "name:chu_x_preferred":[
         "\ua640\u0430\u0433\u0440\u0454\u0431\u044a"
     ],
@@ -109,9 +97,6 @@
     "name:cym_x_preferred":[
         "Zagreb"
     ],
-    "name:cze_x_preferred":[
-        "Z\u00e1h\u0159eb"
-    ],
     "name:dan_x_preferred":[
         "Zagreb"
     ],
@@ -122,9 +107,6 @@
         "Agram"
     ],
     "name:dsb_x_preferred":[
-        "Zagreb"
-    ],
-    "name:dut_x_preferred":[
         "Zagreb"
     ],
     "name:ell_x_preferred":[
@@ -160,9 +142,6 @@
     "name:fra_x_preferred":[
         "Zagreb"
     ],
-    "name:fre_x_preferred":[
-        "Zagreb"
-    ],
     "name:frr_x_preferred":[
         "Zagreb"
     ],
@@ -170,12 +149,6 @@
         "Zagreb"
     ],
     "name:gag_x_preferred":[
-        "Zagreb"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10d0\u10d2\u10e0\u10d4\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Zagreb"
     ],
     "name:gla_x_preferred":[
@@ -189,9 +162,6 @@
     ],
     "name:glv_x_preferred":[
         "Zagreb"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03ac\u03b3\u03ba\u03c1\u03b5\u03bc\u03c0"
     ],
     "name:gsw_x_preferred":[
         "Zagreb"
@@ -228,9 +198,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0536\u0561\u0563\u0580\u0565\u0562"
-    ],
-    "name:ice_x_preferred":[
-        "Zagreb"
     ],
     "name:ido_x_preferred":[
         "Zagreb"
@@ -316,20 +283,11 @@
     "name:ltz_x_preferred":[
         "Zagreb"
     ],
-    "name:mac_x_preferred":[
-        "\u0417\u0430\u0433\u0440\u0435\u0431"
-    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3e\u0d17\u0d4d\u0d30\u0d46\u0d2c\u0d4d"
     ],
-    "name:mao_x_preferred":[
-        "Zagreb"
-    ],
     "name:mar_x_preferred":[
         "\u091d\u093e\u0917\u094d\u0930\u0947\u092c"
-    ],
-    "name:may_x_preferred":[
-        "Zagreb"
     ],
     "name:mhr_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0435\u0431"
@@ -397,9 +355,6 @@
     "name:pdc_x_preferred":[
         "Zagreb"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0627\u06af\u0631\u0628"
-    ],
     "name:pih_x_preferred":[
         "Sakreb"
     ],
@@ -421,9 +376,6 @@
     "name:ron_x_preferred":[
         "Zagreb"
     ],
-    "name:rum_x_preferred":[
-        "Zagreb"
-    ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0435\u0431"
     ],
@@ -443,9 +395,6 @@
         "\u0dc3\u0dcf\u0d9c\u0dca\u200d\u0dbb\u0db6\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Z\u00e1hreb"
-    ],
-    "name:slo_x_preferred":[
         "Z\u00e1hreb"
     ],
     "name:slv_x_preferred":[
@@ -501,9 +450,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e40\u0e01\u0e23\u0e47\u0e1a"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f5b\u0f42\u0f0b\u0f62\u0f7a\u0f56\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Zagreb"
@@ -564,9 +510,6 @@
     "name:war_x_preferred":[
         "Zagreb"
     ],
-    "name:wel_x_preferred":[
-        "Zagreb"
-    ],
     "name:wol_x_preferred":[
         "Sagreb"
     ],
@@ -589,7 +532,6 @@
         "\u8428\u683c\u52d2\u5e03"
     ],
     "name:zho_x_variant":[
-        "\u8428\u683c\u52d2\u5e03",
         "\u672d\u683c\u62c9\u5e03"
     ],
     "name:zho_yue_x_preferred":[
@@ -737,7 +679,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1536881195,
+    "wof:lastmodified":1561749603,
     "wof:megacity":0,
     "wof:name":"Zagreb",
     "wof:parent_id":85684811,

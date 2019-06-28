@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000156,
-    "geom:area_square_m":1334617.729788,
+    "geom:area_square_m":1334617.729787,
     "geom:bbox":"16.459500533,46.382747984,16.4920919987,46.4061303103",
     "geom:latitude":46.392421,
     "geom:longitude":16.4792,
@@ -17,19 +17,10 @@
     "mps:longitude":16.480711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Pribislavec"
-    ],
     "name:bos_x_preferred":[
         "Pribislavec"
     ],
     "name:ces_x_preferred":[
-        "Pribislavec"
-    ],
-    "name:cze_x_preferred":[
-        "Pribislavec"
-    ],
-    "name:dut_x_preferred":[
         "Pribislavec"
     ],
     "name:eng_x_preferred":[
@@ -39,9 +30,6 @@
         "Pribislavec"
     ],
     "name:fra_x_preferred":[
-        "Pribislavec"
-    ],
-    "name:fre_x_preferred":[
         "Pribislavec"
     ],
     "name:hbs_x_preferred":[
@@ -60,9 +48,6 @@
         "Pribislavec"
     ],
     "name:ron_x_preferred":[
-        "Comuna Pribislavec"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Pribislavec"
     ],
     "name:slv_x_preferred":[
@@ -127,7 +112,7 @@
         }
     ],
     "wof:id":101834381,
-    "wof:lastmodified":1527642938,
+    "wof:lastmodified":1561749598,
     "wof:name":"Pribislavec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

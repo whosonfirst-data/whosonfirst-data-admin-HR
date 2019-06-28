@@ -17,31 +17,16 @@
     "mps:longitude":16.615839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Ludbreg"
-    ],
-    "name:arm_x_preferred":[
-        "\u053c\u0578\u0582\u0564\u0562\u0580\u0565\u0563"
-    ],
     "name:bos_x_preferred":[
         "Ludbreg"
     ],
     "name:ces_x_preferred":[
         "Ludbreg"
     ],
-    "name:chi_x_preferred":[
-        "\u76e7\u5fb7\u5e03\u96f7\u683c"
-    ],
     "name:ckb_x_preferred":[
         "\u0644\u0648\u062f\u0628\u0631\u06ce\u06af"
     ],
-    "name:cze_x_preferred":[
-        "Ludbreg"
-    ],
     "name:deu_x_preferred":[
-        "Ludbreg"
-    ],
-    "name:dut_x_preferred":[
         "Ludbreg"
     ],
     "name:eng_x_preferred":[
@@ -56,12 +41,6 @@
     "name:fra_x_preferred":[
         "Ludbreg"
     ],
-    "name:fre_x_preferred":[
-        "Ludbreg"
-    ],
-    "name:ger_x_preferred":[
-        "Ludbreg"
-    ],
     "name:hbs_x_preferred":[
         "Ludbreg"
     ],
@@ -73,6 +52,9 @@
     ],
     "name:hun_x_preferred":[
         "Ludbreg"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0582\u0564\u0562\u0580\u0565\u0563"
     ],
     "name:ita_x_preferred":[
         "Ludbreg"
@@ -86,16 +68,10 @@
     "name:nld_x_preferred":[
         "Ludbreg"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u062f\u0628\u0631\u06af"
-    ],
     "name:pol_x_preferred":[
         "Ludbreg"
     ],
     "name:ron_x_preferred":[
-        "Ludbreg"
-    ],
-    "name:rum_x_preferred":[
         "Ludbreg"
     ],
     "name:rus_x_preferred":[
@@ -177,7 +153,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641958,
+    "wof:lastmodified":1561749590,
     "wof:name":"Ludbreg",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

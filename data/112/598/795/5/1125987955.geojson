@@ -22,14 +22,14 @@
     "name:bos_x_preferred":[
         "Veli Rat"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Veli Rat"
     ],
     "name:eng_x_preferred":[
         "Veli Rat"
     ],
-    "name:ger_x_preferred":[
-        "Veli Rat"
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc \u0631\u0627\u062a"
     ],
     "name:hrv_x_preferred":[
         "Veli Rat"
@@ -37,8 +37,8 @@
     "name:hun_x_preferred":[
         "Veli Rat"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u06cc \u0631\u0627\u062a"
+    "name:nld_x_preferred":[
+        "Veli Rat"
     ],
     "name:slv_x_preferred":[
         "Veli Rat"
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125987955,
-    "wof:lastmodified":1514447675,
+    "wof:lastmodified":1561749621,
     "wof:name":"Veli Rat",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

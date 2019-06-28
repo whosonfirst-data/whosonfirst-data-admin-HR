@@ -22,13 +22,13 @@
     "name:bos_x_preferred":[
         "Turanovac"
     ],
-    "name:dut_x_preferred":[
-        "Turanovac"
-    ],
     "name:eng_x_preferred":[
         "Turanovac"
     ],
     "name:hrv_x_preferred":[
+        "Turanovac"
+    ],
+    "name:nld_x_preferred":[
         "Turanovac"
     ],
     "name:pol_x_preferred":[
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1125858503,
-    "wof:lastmodified":1553816577,
+    "wof:lastmodified":1561749623,
     "wof:name":"Turanovac",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

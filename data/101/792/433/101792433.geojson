@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000101,
-    "geom:area_square_m":867976.463273,
+    "geom:area_square_m":867976.463274,
     "geom:bbox":"18.0562008763,45.7367812874,18.0668512905,45.7624235387",
     "geom:latitude":45.750394,
     "geom:longitude":18.062116,
@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Viljevo"
     ],
-    "name:dut_x_preferred":[
-        "Viljevo"
-    ],
     "name:eng_x_preferred":[
         "Viljevo"
     ],
     "name:fra_x_preferred":[
-        "Viljevo"
-    ],
-    "name:fre_x_preferred":[
         "Viljevo"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +45,6 @@
         "Viljevo"
     ],
     "name:ron_x_preferred":[
-        "Comuna Viljevo"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Viljevo"
     ],
     "name:rus_x_preferred":[
@@ -126,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714639,
+    "wof:lastmodified":1561749607,
     "wof:name":"Viljevo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -22,14 +22,14 @@
     "name:deu_x_preferred":[
         "NK Slavonac Stari Perkovci"
     ],
-    "name:dut_x_preferred":[
-        "Stari Perkovci"
-    ],
     "name:eng_x_preferred":[
         "Stari Perkovci"
     ],
     "name:hrv_x_preferred":[
         "NK Slavonac Stari Perkovci"
+    ],
+    "name:nld_x_preferred":[
+        "Stari Perkovci"
     ],
     "name:slv_x_preferred":[
         "Stari Perkovci"
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101793477,
-    "wof:lastmodified":1527689276,
+    "wof:lastmodified":1561749599,
     "wof:name":"Stari Perkovci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

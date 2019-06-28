@@ -21,19 +21,19 @@
     "name:bos_x_preferred":[
         "\u017dedno"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u017dedno"
     ],
     "name:eng_x_preferred":[
-        "\u017dedno"
-    ],
-    "name:ger_x_preferred":[
         "\u017dedno"
     ],
     "name:hrv_x_preferred":[
         "\u017dedno"
     ],
     "name:hun_x_preferred":[
+        "\u017dedno"
+    ],
+    "name:nld_x_preferred":[
         "\u017dedno"
     ],
     "name:slv_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125817593,
-    "wof:lastmodified":1514447762,
+    "wof:lastmodified":1561749616,
     "wof:name":"\u017dedno",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

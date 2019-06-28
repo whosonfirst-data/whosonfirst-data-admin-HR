@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":1207054.969313,
+    "geom:area_square_m":1207054.969314,
     "geom:bbox":"16.904058505,46.2018047464,16.9239837833,46.2228963136",
     "geom:latitude":46.213045,
     "geom:longitude":16.914588,
@@ -23,19 +23,10 @@
     "name:deu_x_preferred":[
         "Drnje"
     ],
-    "name:dut_x_preferred":[
-        "Drnje"
-    ],
     "name:eng_x_preferred":[
         "Drnje"
     ],
     "name:fra_x_preferred":[
-        "Drnje"
-    ],
-    "name:fre_x_preferred":[
-        "Drnje"
-    ],
-    "name:ger_x_preferred":[
         "Drnje"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +45,6 @@
         "Drnje"
     ],
     "name:ron_x_preferred":[
-        "Comuna Drnje"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Drnje"
     ],
     "name:rus_x_preferred":[
@@ -129,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641958,
+    "wof:lastmodified":1561749590,
     "wof:name":"Drnje",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

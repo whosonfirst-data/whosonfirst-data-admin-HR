@@ -23,25 +23,13 @@
     "name:ces_x_preferred":[
         "Selce"
     ],
-    "name:cze_x_preferred":[
-        "Selce"
-    ],
     "name:deu_x_preferred":[
-        "Selce"
-    ],
-    "name:dut_x_preferred":[
         "Selce"
     ],
     "name:eng_x_preferred":[
         "Selce"
     ],
     "name:fra_x_preferred":[
-        "Selce"
-    ],
-    "name:fre_x_preferred":[
-        "Selce"
-    ],
-    "name:ger_x_preferred":[
         "Selce"
     ],
     "name:hbs_x_preferred":[
@@ -57,9 +45,6 @@
         "Selce"
     ],
     "name:slk_x_preferred":[
-        "Selce"
-    ],
-    "name:slo_x_preferred":[
         "Selce"
     ],
     "name:slv_x_preferred":[
@@ -118,7 +103,7 @@
         }
     ],
     "wof:id":101836453,
-    "wof:lastmodified":1527715152,
+    "wof:lastmodified":1561749608,
     "wof:name":"Selce",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

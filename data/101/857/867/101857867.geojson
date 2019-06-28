@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Radoboj"
     ],
-    "name:dut_x_preferred":[
-        "Radoboj"
-    ],
     "name:eng_x_preferred":[
         "Radobolj"
     ],
     "name:fra_x_preferred":[
-        "Radoboj"
-    ],
-    "name:fre_x_preferred":[
         "Radoboj"
     ],
     "name:hbs_x_preferred":[
@@ -48,9 +42,6 @@
         "Radoboj"
     ],
     "name:ron_x_preferred":[
-        "Comuna Radoboj"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Radoboj"
     ],
     "name:rus_x_preferred":[
@@ -126,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744119,
+    "wof:lastmodified":1561749594,
     "wof:name":"Radoboj",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

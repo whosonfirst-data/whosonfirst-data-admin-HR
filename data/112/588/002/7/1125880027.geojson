@@ -22,10 +22,7 @@
     "name:bos_x_preferred":[
         "Kur\u0161anec"
     ],
-    "name:cze_x_preferred":[
-        "Kur\u0161anec"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Kur\u0161anec"
     ],
     "name:eng_x_preferred":[
@@ -39,6 +36,9 @@
     ],
     "name:hun_x_preferred":[
         "Zr\u00ednyifalva"
+    ],
+    "name:nld_x_preferred":[
+        "Kur\u0161anec"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0440\u0448\u0430\u043d\u0435\u0446"
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1125880027,
-    "wof:lastmodified":1514447508,
+    "wof:lastmodified":1561749617,
     "wof:name":"Kur\u00b5anec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

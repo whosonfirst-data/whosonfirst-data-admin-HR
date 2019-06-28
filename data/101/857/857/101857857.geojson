@@ -23,9 +23,6 @@
     "name:cat_x_preferred":[
         "Martin"
     ],
-    "name:dut_x_preferred":[
-        "Martin"
-    ],
     "name:eng_x_preferred":[
         "Martin"
     ],
@@ -33,6 +30,9 @@
         "Martin"
     ],
     "name:hrv_x_preferred":[
+        "Martin"
+    ],
+    "name:nld_x_preferred":[
         "Martin"
     ],
     "name:slv_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":101857857,
-    "wof:lastmodified":1544744114,
+    "wof:lastmodified":1561749594,
     "wof:name":"Martin",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

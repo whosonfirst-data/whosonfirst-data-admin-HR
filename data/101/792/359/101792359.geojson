@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
-    "geom:area_square_m":1027635.856134,
+    "geom:area_square_m":1027635.856135,
     "geom:bbox":"17.8609515681,45.5944978063,17.8790509176,45.6069371092",
     "geom:latitude":45.600648,
     "geom:longitude":17.869612,
@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "\u010ca\u010dinci"
     ],
-    "name:dut_x_preferred":[
-        "\u010ca\u010dinci"
-    ],
     "name:eng_x_preferred":[
         "\u010ca\u010dinci"
     ],
     "name:fra_x_preferred":[
-        "\u010ca\u010dinci"
-    ],
-    "name:fre_x_preferred":[
         "\u010ca\u010dinci"
     ],
     "name:hbs_x_preferred":[
@@ -45,9 +39,6 @@
         "\u010ca\u010dinci"
     ],
     "name:ron_x_preferred":[
-        "Comuna \u010ca\u010dinci"
-    ],
-    "name:rum_x_preferred":[
         "Comuna \u010ca\u010dinci"
     ],
     "name:rus_x_preferred":[
@@ -115,7 +106,7 @@
         }
     ],
     "wof:id":101792359,
-    "wof:lastmodified":1527714637,
+    "wof:lastmodified":1561749607,
     "wof:name":"\u010ca\u010dinci",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

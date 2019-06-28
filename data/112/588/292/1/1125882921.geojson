@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Lopud"
     ],
-    "name:dut_x_preferred":[
-        "Lopud"
-    ],
     "name:eng_x_preferred":[
         "Lopud"
     ],
@@ -32,6 +29,9 @@
         "Lopud"
     ],
     "name:hun_x_preferred":[
+        "Lopud"
+    ],
+    "name:nld_x_preferred":[
         "Lopud"
     ],
     "name:rus_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125882921,
-    "wof:lastmodified":1553816599,
+    "wof:lastmodified":1561749617,
     "wof:name":"Lopud",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

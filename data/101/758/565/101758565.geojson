@@ -16,25 +16,19 @@
     "mps:longitude":16.384125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Ka\u0161tel Kambelovac"
-    ],
     "name:bos_x_preferred":[
         "Ka\u0161tel Kambelovac"
     ],
     "name:cat_x_preferred":[
         "Ka\u0161tel Kambelovac"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ka\u0161tel Kambelovac"
     ],
     "name:eng_x_preferred":[
         "Ka\u0161tel Kambelovac"
     ],
-    "name:fre_x_preferred":[
-        "Ka\u0161tel Kambelovac"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ka\u0161tel Kambelovac"
     ],
     "name:hbs_x_preferred":[
@@ -116,7 +110,7 @@
         }
     ],
     "wof:id":101758565,
-    "wof:lastmodified":1527689309,
+    "wof:lastmodified":1561749601,
     "wof:name":"Ka\u0161tel Kambelovac",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

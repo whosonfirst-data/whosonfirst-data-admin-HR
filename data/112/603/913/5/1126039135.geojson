@@ -22,16 +22,13 @@
     "name:bos_x_preferred":[
         "Mikleu\u0161"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mikleu\u0161"
     ],
     "name:eng_x_preferred":[
         "Mikleu\u0161"
     ],
-    "name:fre_x_preferred":[
-        "Mikleu\u0161"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mikleu\u0161"
     ],
     "name:hrv_x_preferred":[
@@ -43,7 +40,10 @@
     "name:ita_x_preferred":[
         "Mikleu\u0161"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Mikleu\u0161"
+    ],
+    "name:ron_x_preferred":[
         "Comuna Mikleu\u0161"
     ],
     "name:rus_x_preferred":[
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1126039135,
-    "wof:lastmodified":1514447536,
+    "wof:lastmodified":1561749615,
     "wof:name":"Mikleu\u00b5",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

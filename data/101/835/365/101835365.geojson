@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000228,
-    "geom:area_square_m":1971636.363457,
+    "geom:area_square_m":1971636.363458,
     "geom:bbox":"16.499371651,45.6554832129,16.5286761463,45.6854798376",
     "geom:latitude":45.666535,
     "geom:longitude":16.517224,
@@ -23,19 +23,10 @@
     "name:deu_x_preferred":[
         "Kri\u017e"
     ],
-    "name:dut_x_preferred":[
-        "Kri\u017e"
-    ],
     "name:eng_x_preferred":[
         "Kri\u017e"
     ],
     "name:fra_x_preferred":[
-        "Kri\u017e"
-    ],
-    "name:fre_x_preferred":[
-        "Kri\u017e"
-    ],
-    "name:ger_x_preferred":[
         "Kri\u017e"
     ],
     "name:hrv_x_preferred":[
@@ -59,7 +50,7 @@
     "name:por_x_preferred":[
         "Kri\u017e"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Kri\u017e"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815534,
+    "wof:lastmodified":1561749595,
     "wof:name":"Kri\u017e",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

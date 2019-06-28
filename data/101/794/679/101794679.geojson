@@ -17,12 +17,6 @@
     "mps:longitude":14.278996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Lovran"
-    ],
-    "name:arm_x_preferred":[
-        "\u053c\u0578\u057e\u0580\u0561\u0576"
-    ],
     "name:bos_x_preferred":[
         "Lovran"
     ],
@@ -32,19 +26,10 @@
     "name:ces_x_preferred":[
         "Lovran"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u592b\u862d"
-    ],
-    "name:cze_x_preferred":[
-        "Lovran"
-    ],
     "name:dan_x_preferred":[
         "Lovran"
     ],
     "name:deu_x_preferred":[
-        "Lovran"
-    ],
-    "name:dut_x_preferred":[
         "Lovran"
     ],
     "name:eng_x_preferred":[
@@ -56,12 +41,6 @@
     "name:fra_x_preferred":[
         "Lovran"
     ],
-    "name:fre_x_preferred":[
-        "Lovran"
-    ],
-    "name:ger_x_preferred":[
-        "Lovran"
-    ],
     "name:hbs_x_preferred":[
         "Lovran"
     ],
@@ -70,6 +49,9 @@
     ],
     "name:hun_x_preferred":[
         "Lovran"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u057e\u0580\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Laurana"
@@ -87,9 +69,6 @@
         "Lovran"
     ],
     "name:ron_x_preferred":[
-        "Comuna Lovran"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Lovran"
     ],
     "name:rus_x_preferred":[
@@ -166,7 +145,7 @@
         }
     ],
     "wof:id":101794679,
-    "wof:lastmodified":1527689321,
+    "wof:lastmodified":1561749603,
     "wof:name":"Lovran",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

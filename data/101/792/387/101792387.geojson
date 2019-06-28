@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Mi\u010devec"
     ],
-    "name:dut_x_preferred":[
-        "Mi\u010devec"
-    ],
     "name:eng_x_preferred":[
         "Mi\u010devec"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":101792387,
-    "wof:lastmodified":1527714640,
+    "wof:lastmodified":1561749608,
     "wof:name":"Mi\u010devec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

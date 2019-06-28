@@ -19,16 +19,10 @@
     "name:bos_x_preferred":[
         "Hum na Sutli"
     ],
-    "name:dut_x_preferred":[
-        "Hum na Sutli"
-    ],
     "name:eng_x_preferred":[
         "Hum"
     ],
     "name:fra_x_preferred":[
-        "Hum na Sutli"
-    ],
-    "name:fre_x_preferred":[
         "Hum na Sutli"
     ],
     "name:hbs_x_preferred":[
@@ -47,9 +41,6 @@
         "Hum na Sutli"
     ],
     "name:ron_x_preferred":[
-        "Comuna Hum na Sutli"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Hum na Sutli"
     ],
     "name:rus_x_preferred":[
@@ -119,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744120,
+    "wof:lastmodified":1561749594,
     "wof:name":"Hum na Sutli",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

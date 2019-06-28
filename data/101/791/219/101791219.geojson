@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Branjin Vrh"
     ],
-    "name:dut_x_preferred":[
-        "Branjin Vrh"
-    ],
     "name:eng_x_preferred":[
         "Branjin Vrh"
     ],
@@ -39,6 +36,9 @@
     ],
     "name:hun_x_variant":[
         "Baranyavar"
+    ],
+    "name:nld_x_preferred":[
+        "Branjin Vrh"
     ],
     "name:ota_x_preferred":[
         "\u0628\u0631\u0646\u0648\u0627\u0631"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":101791219,
-    "wof:lastmodified":1527641954,
+    "wof:lastmodified":1561749588,
     "wof:name":"Branjin Vrh",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

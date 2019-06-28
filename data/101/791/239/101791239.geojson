@@ -22,20 +22,11 @@
     "name:deu_x_preferred":[
         "Krapinske toplice"
     ],
-    "name:dut_x_preferred":[
-        "Krapinske Toplice"
-    ],
     "name:eng_x_preferred":[
         "Krapinske Toplice"
     ],
     "name:fra_x_preferred":[
         "Krapinske Toplice"
-    ],
-    "name:fre_x_preferred":[
-        "Krapinske Toplice"
-    ],
-    "name:ger_x_preferred":[
-        "Krapinske toplice"
     ],
     "name:hbs_x_preferred":[
         "Krapinske Toplice"
@@ -53,9 +44,6 @@
         "Krapinske Toplice"
     ],
     "name:ron_x_preferred":[
-        "Comuna Krapinske Toplice"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Krapinske Toplice"
     ],
     "name:rus_x_preferred":[
@@ -123,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641957,
+    "wof:lastmodified":1561749590,
     "wof:name":"Krapinske Toplice",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

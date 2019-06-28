@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Kerestinec"
     ],
-    "name:dut_x_preferred":[
-        "Kerestinec"
-    ],
     "name:eng_x_preferred":[
         "Kerestinec"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":101844799,
-    "wof:lastmodified":1527642618,
+    "wof:lastmodified":1561749592,
     "wof:name":"Kerestinec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

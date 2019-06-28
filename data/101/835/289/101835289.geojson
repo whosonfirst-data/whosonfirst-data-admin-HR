@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00005,
-    "geom:area_square_m":436788.519063,
+    "geom:area_square_m":436788.519062,
     "geom:bbox":"17.8257516293,45.168337967,17.8545499659,45.1782792497",
     "geom:latitude":45.17342,
     "geom:longitude":17.838982,
@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Stari Slatinik"
     ],
-    "name:dut_x_preferred":[
-        "Stari Slatinik"
-    ],
     "name:eng_x_preferred":[
         "Stari Slatinik"
     ],
@@ -29,6 +26,9 @@
         "Stari Slatinik"
     ],
     "name:hrv_x_preferred":[
+        "Stari Slatinik"
+    ],
+    "name:nld_x_preferred":[
         "Stari Slatinik"
     ],
     "name:slv_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":101835289,
-    "wof:lastmodified":1527642774,
+    "wof:lastmodified":1561749596,
     "wof:name":"Stari Slatinik",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Zaklopatica"
     ],
-    "name:dut_x_preferred":[
-        "Zaklopatica"
-    ],
     "name:eng_x_preferred":[
         "Zaklopatica"
     ],
@@ -29,6 +26,9 @@
         "Zaklopatica"
     ],
     "name:hun_x_preferred":[
+        "Zaklopatica"
+    ],
+    "name:nld_x_preferred":[
         "Zaklopatica"
     ],
     "name:slv_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1126026421,
-    "wof:lastmodified":1514447740,
+    "wof:lastmodified":1561749614,
     "wof:name":"Zaklopatica",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

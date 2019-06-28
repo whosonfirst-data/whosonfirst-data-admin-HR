@@ -17,14 +17,8 @@
     "mps:longitude":16.546192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Supetar"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u0648\u0628\u064a\u062a\u0627\u0631"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u0578\u0582\u057a\u0565\u057f\u0561\u0580"
     ],
     "name:bel_x_preferred":[
         "\u0421\u0443\u043f\u0435\u0442\u0430\u0440"
@@ -38,19 +32,10 @@
     "name:ces_x_preferred":[
         "Supetar"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u4f69\u5854\u723e"
-    ],
     "name:ckb_x_preferred":[
         "\u0633\u0648\u067e\u06ce\u062a\u0627\u0631"
     ],
-    "name:cze_x_preferred":[
-        "Supetar"
-    ],
     "name:deu_x_preferred":[
-        "Supetar"
-    ],
-    "name:dut_x_preferred":[
         "Supetar"
     ],
     "name:eng_x_preferred":[
@@ -70,12 +55,6 @@
     "name:fra_x_preferred":[
         "Supetar"
     ],
-    "name:fre_x_preferred":[
-        "Supetar"
-    ],
-    "name:ger_x_preferred":[
-        "Supetar"
-    ],
     "name:hbs_x_preferred":[
         "Supetar"
     ],
@@ -87,6 +66,9 @@
     ],
     "name:hun_x_preferred":[
         "Supetar"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u057a\u0565\u057f\u0561\u0580"
     ],
     "name:ind_x_preferred":[
         "Supetar"
@@ -109,25 +91,16 @@
     "name:oci_x_preferred":[
         "Supetar"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u067e\u062a\u0627\u0631"
-    ],
     "name:pol_x_preferred":[
         "Supetar"
     ],
     "name:ron_x_preferred":[
         "Supetar"
     ],
-    "name:rum_x_preferred":[
-        "Supetar"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u043f\u0435\u0442\u0430\u0440"
     ],
     "name:slk_x_preferred":[
-        "Supetar"
-    ],
-    "name:slo_x_preferred":[
         "Supetar"
     ],
     "name:slv_x_preferred":[
@@ -226,7 +199,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714713,
+    "wof:lastmodified":1561749608,
     "wof:name":"Supetar",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -25,7 +25,7 @@
     "name:eng_x_preferred":[
         "Tar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tar"
     ],
     "name:hrv_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125938413,
-    "wof:lastmodified":1514447661,
+    "wof:lastmodified":1561749611,
     "wof:name":"Tar",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

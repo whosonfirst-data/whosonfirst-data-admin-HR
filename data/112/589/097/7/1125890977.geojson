@@ -25,13 +25,7 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0442\u043e\u0432\u0443\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u6258\u6587"
-    ],
     "name:deu_x_preferred":[
-        "Motovun"
-    ],
-    "name:dut_x_preferred":[
         "Motovun"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +34,7 @@
     "name:fin_x_preferred":[
         "Motovun"
     ],
-    "name:fre_x_preferred":[
-        "Motovun"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Motovun"
     ],
     "name:hrv_x_preferred":[
@@ -70,7 +61,7 @@
     "name:pol_x_preferred":[
         "Motovun"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Motovun"
     ],
     "name:rus_x_preferred":[
@@ -99,6 +90,9 @@
     ],
     "name:war_x_preferred":[
         "Motovun"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u6258\u6587"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -151,7 +145,7 @@
         }
     ],
     "wof:id":1125890977,
-    "wof:lastmodified":1514447538,
+    "wof:lastmodified":1561749617,
     "wof:name":"Motovun",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

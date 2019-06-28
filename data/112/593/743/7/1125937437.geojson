@@ -22,13 +22,13 @@
     "name:bos_x_preferred":[
         "Sedlarica"
     ],
-    "name:dut_x_preferred":[
-        "Sedlarica"
-    ],
     "name:eng_x_preferred":[
         "Sedlarica"
     ],
     "name:hrv_x_preferred":[
+        "Sedlarica"
+    ],
+    "name:nld_x_preferred":[
         "Sedlarica"
     ],
     "name:slv_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1125937437,
-    "wof:lastmodified":1514447620,
+    "wof:lastmodified":1561749611,
     "wof:name":"Sedlarica",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

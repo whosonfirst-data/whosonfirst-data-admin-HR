@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000499,
-    "geom:area_square_m":4370653.705225,
+    "geom:area_square_m":4370653.705224,
     "geom:bbox":"13.800236593,44.8895145729,13.836126922,44.9386724747",
     "geom:latitude":44.91154,
     "geom:longitude":13.814379,
@@ -23,13 +23,7 @@
     "name:ces_x_preferred":[
         "Fa\u017eana"
     ],
-    "name:cze_x_preferred":[
-        "Fa\u017eana"
-    ],
     "name:deu_x_preferred":[
-        "Fa\u017eana"
-    ],
-    "name:dut_x_preferred":[
         "Fa\u017eana"
     ],
     "name:eng_x_preferred":[
@@ -40,12 +34,6 @@
         "Fa\u017eana"
     ],
     "name:fra_x_preferred":[
-        "Fa\u017eana"
-    ],
-    "name:fre_x_preferred":[
-        "Fa\u017eana"
-    ],
-    "name:ger_x_preferred":[
         "Fa\u017eana"
     ],
     "name:hrv_x_preferred":[
@@ -66,7 +54,7 @@
     "name:pol_x_preferred":[
         "Fa\u017eana"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Fa\u017eana"
     ],
     "name:rus_x_preferred":[
@@ -148,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714611,
+    "wof:lastmodified":1561749605,
     "wof:name":"Fa\u017eana",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

@@ -22,10 +22,7 @@
     "name:bos_x_preferred":[
         "Potomje"
     ],
-    "name:cze_x_preferred":[
-        "Potomje"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Potomje"
     ],
     "name:eng_x_preferred":[
@@ -35,6 +32,9 @@
         "Potomje"
     ],
     "name:hun_x_preferred":[
+        "Potomje"
+    ],
+    "name:nld_x_preferred":[
         "Potomje"
     ],
     "name:slv_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125922031,
-    "wof:lastmodified":1514447579,
+    "wof:lastmodified":1561749611,
     "wof:name":"Potomje",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

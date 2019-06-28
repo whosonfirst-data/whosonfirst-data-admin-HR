@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000164,
-    "geom:area_square_m":1477449.13982,
+    "geom:area_square_m":1477449.139819,
     "geom:bbox":"16.6813746627,43.1561442009,16.7065431308,43.1678259025",
     "geom:latitude":43.16184,
     "geom:longitude":16.692517,
@@ -29,25 +29,13 @@
     "name:ces_x_preferred":[
         "Jelsa"
     ],
-    "name:cze_x_preferred":[
-        "Jelsa"
-    ],
     "name:deu_x_preferred":[
-        "Jelsa"
-    ],
-    "name:dut_x_preferred":[
         "Jelsa"
     ],
     "name:eng_x_preferred":[
         "Jelsa"
     ],
     "name:fra_x_preferred":[
-        "Jelsa"
-    ],
-    "name:fre_x_preferred":[
-        "Jelsa"
-    ],
-    "name:ger_x_preferred":[
         "Jelsa"
     ],
     "name:hbs_x_preferred":[
@@ -75,9 +63,6 @@
         "Jelsa"
     ],
     "name:ron_x_preferred":[
-        "Comuna Jelsa"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Jelsa"
     ],
     "name:slv_x_preferred":[
@@ -167,7 +152,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534379334,
+    "wof:lastmodified":1561749591,
     "wof:name":"Jelsa",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

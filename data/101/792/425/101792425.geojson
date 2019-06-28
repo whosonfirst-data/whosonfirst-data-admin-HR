@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000497,
-    "geom:area_square_m":4300085.102351,
+    "geom:area_square_m":4300085.102354,
     "geom:bbox":"18.6830134088,45.6024812006,18.7286942314,45.6449697051",
     "geom:latitude":45.626382,
     "geom:longitude":18.70251,
@@ -17,16 +17,10 @@
     "mps:longitude":18.692647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Darda"
-    ],
     "name:bos_x_preferred":[
         "Darda"
     ],
     "name:deu_x_preferred":[
-        "Darda"
-    ],
-    "name:dut_x_preferred":[
         "Darda"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "Darda"
     ],
     "name:fra_x_preferred":[
-        "Darda"
-    ],
-    "name:fre_x_preferred":[
-        "Darda"
-    ],
-    "name:ger_x_preferred":[
         "Darda"
     ],
     "name:hbs_x_preferred":[
@@ -69,9 +57,6 @@
         "Darda"
     ],
     "name:ron_x_preferred":[
-        "Comuna Darda"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Darda"
     ],
     "name:slv_x_preferred":[
@@ -143,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815506,
+    "wof:lastmodified":1561749606,
     "wof:name":"Darda",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

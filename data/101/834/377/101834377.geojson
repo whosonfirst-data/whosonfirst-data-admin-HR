@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000205,
-    "geom:area_square_m":1750109.872006,
+    "geom:area_square_m":1750109.872005,
     "geom:bbox":"16.4030001314,46.3626763411,16.4205858425,46.3870774913",
     "geom:latitude":46.374602,
     "geom:longitude":16.411586,
@@ -17,13 +17,7 @@
     "mps:longitude":16.41072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Strahoninec"
-    ],
     "name:bos_x_preferred":[
-        "Strahoninec"
-    ],
-    "name:dut_x_preferred":[
         "Strahoninec"
     ],
     "name:eng_x_preferred":[
@@ -33,9 +27,6 @@
         "Strahoninec"
     ],
     "name:fra_x_preferred":[
-        "Strahoninec"
-    ],
-    "name:fre_x_preferred":[
         "Strahoninec"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +45,6 @@
         "Strahoninec"
     ],
     "name:ron_x_preferred":[
-        "Comuna Strahoninec"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Strahoninec"
     ],
     "name:slv_x_preferred":[
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":101834377,
-    "wof:lastmodified":1527642933,
+    "wof:lastmodified":1561749598,
     "wof:name":"Strahoninec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

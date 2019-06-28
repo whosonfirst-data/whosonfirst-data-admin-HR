@@ -25,16 +25,10 @@
     "name:deu_x_preferred":[
         "Korenica"
     ],
-    "name:dut_x_preferred":[
-        "Korenica"
-    ],
     "name:eng_x_preferred":[
         "Korenica"
     ],
     "name:epo_x_preferred":[
-        "Korenica"
-    ],
-    "name:ger_x_preferred":[
         "Korenica"
     ],
     "name:hbs_x_preferred":[
@@ -114,7 +108,7 @@
         }
     ],
     "wof:id":101795789,
-    "wof:lastmodified":1527714613,
+    "wof:lastmodified":1561749605,
     "wof:name":"Korenica",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

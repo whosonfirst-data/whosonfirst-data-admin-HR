@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Palovec"
     ],
-    "name:dut_x_preferred":[
-        "Palovec"
-    ],
     "name:eng_x_preferred":[
         "Palovec"
     ],
@@ -36,6 +33,9 @@
     ],
     "name:hun_x_preferred":[
         "Fels\u0151p\u00e1lfa"
+    ],
+    "name:nld_x_preferred":[
+        "Palovec"
     ],
     "name:slv_x_preferred":[
         "Palovec"
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1126021523,
-    "wof:lastmodified":1514447744,
+    "wof:lastmodified":1561749614,
     "wof:name":"\u00c5 Alovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

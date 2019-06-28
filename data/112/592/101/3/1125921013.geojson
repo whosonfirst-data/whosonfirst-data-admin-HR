@@ -22,16 +22,13 @@
     "name:bos_x_preferred":[
         "Li\u017enjan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Li\u017enjan"
     ],
     "name:eng_x_preferred":[
         "Li\u017enjan"
     ],
-    "name:fre_x_preferred":[
-        "Li\u017enjan"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Li\u017enjan"
     ],
     "name:hrv_x_preferred":[
@@ -46,10 +43,13 @@
     "name:lat_x_preferred":[
         "Lisinianum"
     ],
+    "name:nld_x_preferred":[
+        "Li\u017enjan"
+    ],
     "name:pol_x_preferred":[
         "Li\u017enjan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Li\u017enjan"
     ],
     "name:slv_x_preferred":[
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1125921013,
-    "wof:lastmodified":1514447520,
+    "wof:lastmodified":1561749612,
     "wof:name":"Li\u017enjan",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

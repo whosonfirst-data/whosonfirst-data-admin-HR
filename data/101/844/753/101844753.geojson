@@ -26,19 +26,10 @@
     "name:deu_x_preferred":[
         "Kistanje"
     ],
-    "name:dut_x_preferred":[
-        "Kistanje"
-    ],
     "name:eng_x_preferred":[
         "Kistanje"
     ],
     "name:fra_x_preferred":[
-        "Kistanje"
-    ],
-    "name:fre_x_preferred":[
-        "Kistanje"
-    ],
-    "name:ger_x_preferred":[
         "Kistanje"
     ],
     "name:hbs_x_preferred":[
@@ -60,9 +51,6 @@
         "Kistanje"
     ],
     "name:ron_x_preferred":[
-        "Comuna Kistanje"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Kistanje"
     ],
     "name:slv_x_preferred":[
@@ -127,7 +115,7 @@
         }
     ],
     "wof:id":101844753,
-    "wof:lastmodified":1527642619,
+    "wof:lastmodified":1561749592,
     "wof:name":"Kistanje",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

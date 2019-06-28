@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Stinica"
     ],
-    "name:dut_x_preferred":[
-        "Stinica"
-    ],
     "name:eng_x_preferred":[
         "Stinica"
     ],
@@ -35,6 +32,9 @@
         "Stinica"
     ],
     "name:ita_x_preferred":[
+        "Stinica"
+    ],
+    "name:nld_x_preferred":[
         "Stinica"
     ],
     "name:slv_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125938509,
-    "wof:lastmodified":1514447655,
+    "wof:lastmodified":1561749610,
     "wof:name":"Stinica",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

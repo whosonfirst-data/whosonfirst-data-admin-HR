@@ -23,22 +23,19 @@
     "name:deu_x_preferred":[
         "Ladimirevci"
     ],
-    "name:dut_x_preferred":[
-        "Ladimirevci"
-    ],
     "name:eng_x_preferred":[
         "Ladimirevci"
     ],
-    "name:fre_x_preferred":[
-        "Ladimirevci"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ladimirevci"
     ],
     "name:hbs_x_preferred":[
         "Ladimirevci"
     ],
     "name:hrv_x_preferred":[
+        "Ladimirevci"
+    ],
+    "name:nld_x_preferred":[
         "Ladimirevci"
     ],
     "name:slv_x_preferred":[
@@ -97,7 +94,7 @@
         }
     ],
     "wof:id":101792407,
-    "wof:lastmodified":1527714635,
+    "wof:lastmodified":1561749606,
     "wof:name":"Ladimirevci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

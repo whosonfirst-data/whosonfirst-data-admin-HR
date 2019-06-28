@@ -25,22 +25,22 @@
     "name:bos_x_preferred":[
         "Valun"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Valun"
     ],
     "name:eng_x_preferred":[
         "Valun"
     ],
-    "name:fre_x_preferred":[
-        "Valun"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Valun"
     ],
     "name:hrv_x_preferred":[
         "Valun"
     ],
     "name:hun_x_preferred":[
+        "Valun"
+    ],
+    "name:nld_x_preferred":[
         "Valun"
     ],
     "name:slv_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1126003349,
-    "wof:lastmodified":1514447668,
+    "wof:lastmodified":1561749622,
     "wof:name":"Valun",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

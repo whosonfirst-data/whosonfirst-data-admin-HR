@@ -19,16 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Borovo"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0648\u0641\u0648"
     ],
     "name:bos_x_preferred":[
         "Borovo"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
+        "Borovo"
+    ],
+    "name:deu_x_preferred":[
         "Borovo"
     ],
     "name:eng_x_preferred":[
@@ -37,10 +37,7 @@
     "name:fin_x_preferred":[
         "Borovo Selo"
     ],
-    "name:fre_x_preferred":[
-        "Borovo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Borovo"
     ],
     "name:hrv_x_preferred":[
@@ -49,16 +46,22 @@
     "name:ita_x_preferred":[
         "Borovo"
     ],
+    "name:nld_x_preferred":[
+        "Borovo"
+    ],
+    "name:ron_x_preferred":[
+        "Borovo"
+    ],
     "name:rue_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u043e"
-    ],
-    "name:rum_x_preferred":[
-        "Borovo"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u043e"
     ],
     "name:spa_x_preferred":[
+        "Borovo"
+    ],
+    "name:sqi_x_preferred":[
         "Borovo"
     ],
     "name:srp_x_preferred":[
@@ -74,9 +77,6 @@
         "Borovo"
     ],
     "name:war_x_preferred":[
-        "Borovo"
-    ],
-    "name:wel_x_preferred":[
         "Borovo"
     ],
     "qs_pg:aaroncc":"HR",
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1125784775,
-    "wof:lastmodified":1553816532,
+    "wof:lastmodified":1561749624,
     "wof:name":"Borovo Selo",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

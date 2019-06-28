@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
-    "geom:area_square_m":917978.061724,
+    "geom:area_square_m":917978.061723,
     "geom:bbox":"13.8509658163,45.1791983934,13.8750765736,45.1913167205",
     "geom:latitude":45.184718,
     "geom:longitude":13.862326,
@@ -22,19 +22,10 @@
     "name:deu_x_preferred":[
         "Sveti Petar u \u0160umi"
     ],
-    "name:dut_x_preferred":[
-        "Sveti Petar u \u0160umi"
-    ],
     "name:eng_x_preferred":[
         "Sveti Petar u \u0160umi"
     ],
     "name:fra_x_preferred":[
-        "Sveti Petar u \u0160umi"
-    ],
-    "name:fre_x_preferred":[
-        "Sveti Petar u \u0160umi"
-    ],
-    "name:ger_x_preferred":[
         "Sveti Petar u \u0160umi"
     ],
     "name:hbs_x_preferred":[
@@ -58,10 +49,7 @@
     "name:ron_x_preferred":[
         "Comuna Sveti Petar u \u0160umi"
     ],
-    "name:rum_x_preferred":[
-        "Comuna Sveti Petar u \u0160umi"
-    ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sveti Petar u \u0160umi"
     ],
     "name:slv_x_preferred":[
@@ -119,7 +107,7 @@
         }
     ],
     "wof:id":101794615,
-    "wof:lastmodified":1527689321,
+    "wof:lastmodified":1561749602,
     "wof:name":"Sveti Petar u \u0160umi",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

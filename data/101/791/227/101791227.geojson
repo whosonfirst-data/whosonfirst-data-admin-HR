@@ -17,25 +17,16 @@
     "mps:longitude":15.905439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Zabok"
-    ],
     "name:bos_x_preferred":[
         "Zabok"
     ],
     "name:cat_x_preferred":[
         "Zabok"
     ],
-    "name:chi_x_preferred":[
-        "\u624e\u535a\u514b"
-    ],
     "name:ckb_x_preferred":[
         "\u0632\u0627\u0628\u06c6\u06a9"
     ],
     "name:deu_x_preferred":[
-        "Zabok"
-    ],
-    "name:dut_x_preferred":[
         "Zabok"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "Zabok"
     ],
     "name:fra_x_preferred":[
-        "Zabok"
-    ],
-    "name:fre_x_preferred":[
-        "Zabok"
-    ],
-    "name:ger_x_preferred":[
         "Zabok"
     ],
     "name:hbs_x_preferred":[
@@ -83,9 +68,6 @@
     "name:oci_x_preferred":[
         "Zabok"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0627\u0628\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Zabok"
     ],
@@ -93,9 +75,6 @@
         "Zabok"
     ],
     "name:ron_x_preferred":[
-        "Zabok"
-    ],
-    "name:rum_x_preferred":[
         "Zabok"
     ],
     "name:rus_x_preferred":[
@@ -184,7 +163,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641954,
+    "wof:lastmodified":1561749588,
     "wof:name":"Zabok",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

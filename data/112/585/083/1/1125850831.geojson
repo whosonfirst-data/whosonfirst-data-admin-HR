@@ -21,16 +21,13 @@
     "name:bos_x_preferred":[
         "Povlja"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Povlja"
     ],
     "name:eng_x_preferred":[
         "Povlja"
     ],
-    "name:fre_x_preferred":[
-        "Povlja"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Povlja"
     ],
     "name:hrv_x_preferred":[
@@ -39,10 +36,13 @@
     "name:hun_x_preferred":[
         "Povlja"
     ],
+    "name:nld_x_preferred":[
+        "Povlja"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0432\u043b\u044f"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Povlja"
     ],
     "name:slv_x_preferred":[
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1125850831,
-    "wof:lastmodified":1514447579,
+    "wof:lastmodified":1561749623,
     "wof:name":"Povlja",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

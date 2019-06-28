@@ -19,16 +19,10 @@
     "name:bos_x_preferred":[
         "Koprivni\u010dki Bregi"
     ],
-    "name:dut_x_preferred":[
-        "Koprivni\u010dki Bregi"
-    ],
     "name:eng_x_preferred":[
         "Bregi"
     ],
     "name:fra_x_preferred":[
-        "Koprivni\u010dki Bregi"
-    ],
-    "name:fre_x_preferred":[
         "Koprivni\u010dki Bregi"
     ],
     "name:hbs_x_preferred":[
@@ -47,9 +41,6 @@
         "Koprivni\u010dki Bregi"
     ],
     "name:ron_x_preferred":[
-        "Comuna Koprivni\u010dki Bregi"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Koprivni\u010dki Bregi"
     ],
     "name:rus_x_preferred":[
@@ -127,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1535390424,
+    "wof:lastmodified":1561749590,
     "wof:name":"Koprivni\u010dki Bregi",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

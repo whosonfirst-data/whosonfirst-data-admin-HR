@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "\u017drnovnica"
     ],
-    "name:dut_x_preferred":[
-        "\u017drnovnica"
-    ],
     "name:eng_x_preferred":[
         "\u017drnovnica"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":101844749,
-    "wof:lastmodified":1527642624,
+    "wof:lastmodified":1561749593,
     "wof:name":"\u017drnovnica",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

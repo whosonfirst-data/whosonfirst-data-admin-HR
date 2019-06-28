@@ -22,22 +22,22 @@
     "name:bos_x_preferred":[
         "Banjole"
     ],
-    "name:cze_x_preferred":[
-        "Banjole"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Banjole"
     ],
     "name:eng_x_preferred":[
         "Banjole"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Banjole"
     ],
     "name:hrv_x_preferred":[
         "Banjole"
     ],
     "name:hun_x_preferred":[
+        "Banjole"
+    ],
+    "name:nld_x_preferred":[
         "Banjole"
     ],
     "name:slv_x_preferred":[
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1126023061,
-    "wof:lastmodified":1514447382,
+    "wof:lastmodified":1561749614,
     "wof:name":"Banjole",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

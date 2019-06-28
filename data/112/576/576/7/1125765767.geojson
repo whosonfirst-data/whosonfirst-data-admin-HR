@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Lopatinec"
     ],
-    "name:dut_x_preferred":[
-        "Lopatinec"
-    ],
     "name:eng_x_preferred":[
         "Lopatinec"
     ],
@@ -36,6 +33,9 @@
     ],
     "name:hun_x_preferred":[
         "Lap\u00e1thegy"
+    ],
+    "name:nld_x_preferred":[
+        "Lopatinec"
     ],
     "name:slv_x_preferred":[
         "Lopatinec"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125765767,
-    "wof:lastmodified":1514447521,
+    "wof:lastmodified":1561749623,
     "wof:name":"Lopatinec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

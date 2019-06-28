@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Rezovac"
     ],
-    "name:dut_x_preferred":[
-        "Rezovac"
-    ],
     "name:eng_x_preferred":[
         "Rezovac"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":101792353,
-    "wof:lastmodified":1527714633,
+    "wof:lastmodified":1561749606,
     "wof:name":"Rezovac",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

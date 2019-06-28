@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Vrbanj"
     ],
-    "name:dut_x_preferred":[
-        "Vrbanj"
-    ],
     "name:eng_x_preferred":[
         "Vrbanj"
     ],
@@ -32,6 +29,9 @@
         "Vrbanj"
     ],
     "name:hun_x_preferred":[
+        "Vrbanj"
+    ],
+    "name:nld_x_preferred":[
         "Vrbanj"
     ],
     "name:slv_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125913447,
-    "wof:lastmodified":1514447690,
+    "wof:lastmodified":1561749621,
     "wof:name":"Vrbanj",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

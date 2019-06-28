@@ -25,7 +25,7 @@
     "name:eng_x_preferred":[
         "Nakovanj"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nakovanj"
     ],
     "name:hrv_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125768507,
-    "wof:lastmodified":1553816521,
+    "wof:lastmodified":1561749623,
     "wof:name":"Nakovanj",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

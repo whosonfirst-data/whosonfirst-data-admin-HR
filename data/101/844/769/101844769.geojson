@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000051,
-    "geom:area_square_m":449051.232867,
+    "geom:area_square_m":449051.232868,
     "geom:bbox":"14.716414841,44.7970266524,14.7357368326,44.8122727102",
     "geom:latitude":44.803852,
     "geom:longitude":14.726858,
@@ -23,22 +23,13 @@
     "name:ces_x_preferred":[
         "Supetarska Draga"
     ],
-    "name:cze_x_preferred":[
-        "Supetarska Draga"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Supetarska Draga"
     ],
     "name:eng_x_preferred":[
         "Supetarska Draga"
     ],
     "name:fra_x_preferred":[
-        "Supetarska Draga"
-    ],
-    "name:fre_x_preferred":[
-        "Supetarska Draga"
-    ],
-    "name:ger_x_preferred":[
         "Supetarska Draga"
     ],
     "name:hbs_x_preferred":[
@@ -112,7 +103,7 @@
         }
     ],
     "wof:id":101844769,
-    "wof:lastmodified":1527642626,
+    "wof:lastmodified":1561749593,
     "wof:name":"Supetarska Draga",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -17,34 +17,19 @@
     "mps:longitude":15.315338,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Suko\u0161an"
-    ],
     "name:bos_x_preferred":[
         "Suko\u0161an"
     ],
     "name:ces_x_preferred":[
         "Suko\u0161an"
     ],
-    "name:cze_x_preferred":[
-        "Suko\u0161an"
-    ],
     "name:deu_x_preferred":[
-        "Suko\u0161an"
-    ],
-    "name:dut_x_preferred":[
         "Suko\u0161an"
     ],
     "name:eng_x_preferred":[
         "Sukosan"
     ],
     "name:fra_x_preferred":[
-        "Suko\u0161an"
-    ],
-    "name:fre_x_preferred":[
-        "Suko\u0161an"
-    ],
-    "name:ger_x_preferred":[
         "Suko\u0161an"
     ],
     "name:hrv_x_preferred":[
@@ -65,13 +50,13 @@
     "name:ron_x_preferred":[
         "Comuna Suko\u0161an"
     ],
-    "name:rum_x_preferred":[
-        "Comuna Suko\u0161an"
-    ],
     "name:slv_x_preferred":[
         "Suko\u0161an"
     ],
     "name:spa_x_preferred":[
+        "Suko\u0161an"
+    ],
+    "name:sqi_x_preferred":[
         "Suko\u0161an"
     ],
     "name:srp_x_preferred":[
@@ -128,7 +113,7 @@
         }
     ],
     "wof:id":101754499,
-    "wof:lastmodified":1527641856,
+    "wof:lastmodified":1561749587,
     "wof:name":"Suko\u0161an",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

@@ -20,22 +20,13 @@
     "name:afr_x_preferred":[
         "Po\u017eega"
     ],
-    "name:alb_x_preferred":[
-        "Po\u017eega"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0632\u064a\u063a\u0627"
     ],
     "name:arg_x_preferred":[
         "Po\u017eega"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u056a\u0565\u0563\u0561"
-    ],
     "name:ast_x_preferred":[
-        "Po\u017eega"
-    ],
-    "name:baq_x_preferred":[
         "Po\u017eega"
     ],
     "name:bar_x_preferred":[
@@ -59,22 +50,16 @@
     "name:che_x_preferred":[
         "\u041f\u043e\u0436\u0435\u0433\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u71b1\u52a0"
-    ],
     "name:ckb_x_preferred":[
         "\u067e\u06c6\u0698\u06ce\u06af\u0627"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Po\u017eega"
     ],
     "name:dan_x_preferred":[
         "Po\u017eega"
     ],
     "name:deu_x_preferred":[
-        "Po\u017eega"
-    ],
-    "name:dut_x_preferred":[
         "Po\u017eega"
     ],
     "name:eml_x_preferred":[
@@ -89,6 +74,9 @@
     "name:est_x_preferred":[
         "Po\u017eega"
     ],
+    "name:eus_x_preferred":[
+        "Po\u017eega"
+    ],
     "name:fao_x_preferred":[
         "Po\u017eega"
     ],
@@ -101,16 +89,7 @@
     "name:fra_x_preferred":[
         "Po\u017eega"
     ],
-    "name:fre_x_preferred":[
-        "Po\u017eega"
-    ],
     "name:frr_x_preferred":[
-        "Po\u017eega"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10df\u10d4\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Po\u017eega"
     ],
     "name:glg_x_preferred":[
@@ -131,10 +110,13 @@
     "name:hun_x_preferred":[
         "Pozsega"
     ],
-    "name:ice_x_preferred":[
-        "Po\u017eega"
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u056a\u0565\u0563\u0561"
     ],
     "name:ind_x_preferred":[
+        "Po\u017eega"
+    ],
+    "name:isl_x_preferred":[
         "Po\u017eega"
     ],
     "name:ita_x_preferred":[
@@ -167,6 +149,9 @@
     "name:nds_x_preferred":[
         "Po\u017eega"
     ],
+    "name:nld_x_preferred":[
+        "Po\u017eega"
+    ],
     "name:nno_x_preferred":[
         "Po\u017eega"
     ],
@@ -175,9 +160,6 @@
     ],
     "name:ota_x_preferred":[
         "\u067e\u0648\u0698\u0647\u063a\u0647"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0698\u06af\u0627\u060c \u06a9\u0631\u0648\u0627\u0633\u06cc"
     ],
     "name:pol_x_preferred":[
         "Po\u017eega"
@@ -191,22 +173,22 @@
     "name:ron_x_preferred":[
         "Po\u017eega"
     ],
-    "name:rum_x_preferred":[
-        "Po\u017eega"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0436\u0435\u0433\u0430"
     ],
     "name:sco_x_preferred":[
         "Po\u017eega"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Po\u017eega"
     ],
     "name:slv_x_preferred":[
         "Po\u017eega"
     ],
     "name:spa_x_preferred":[
+        "Po\u017eega"
+    ],
+    "name:sqi_x_preferred":[
         "Po\u017eega"
     ],
     "name:srp_x_preferred":[
@@ -240,9 +222,6 @@
         "\u067e\u0648\u0698\u06cc\u06af\u0627\u060c \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"
     ],
     "name:war_x_preferred":[
-        "Po\u017eega"
-    ],
-    "name:wel_x_preferred":[
         "Po\u017eega"
     ],
     "name:zho_x_preferred":[
@@ -296,7 +275,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642772,
+    "wof:lastmodified":1561749595,
     "wof:name":"Po\u017eega",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Kupinec"
     ],
-    "name:dut_x_preferred":[
-        "Kupinec"
-    ],
     "name:eng_x_preferred":[
         "Kupinec"
     ],
@@ -32,6 +29,9 @@
         "Kupinec"
     ],
     "name:hun_x_preferred":[
+        "Kupinec"
+    ],
+    "name:nld_x_preferred":[
         "Kupinec"
     ],
     "name:slv_x_preferred":[
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1125958499,
-    "wof:lastmodified":1514447508,
+    "wof:lastmodified":1561749613,
     "wof:name":"Kupinec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

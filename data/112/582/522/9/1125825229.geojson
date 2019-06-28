@@ -19,16 +19,13 @@
     "name:bos_x_preferred":[
         "Pra\u017enica"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pra\u017enica"
     ],
     "name:eng_x_preferred":[
         "Pra\u017enica"
     ],
-    "name:fre_x_preferred":[
-        "Pra\u017enica"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pra\u017enica"
     ],
     "name:hrv_x_preferred":[
@@ -37,7 +34,10 @@
     "name:hun_x_preferred":[
         "Pra\u017enica"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Pra\u017enica"
+    ],
+    "name:slk_x_preferred":[
         "Pra\u017enica"
     ],
     "name:slv_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125825229,
-    "wof:lastmodified":1514447585,
+    "wof:lastmodified":1561749623,
     "wof:name":"Pra\u017enica",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000155,
-    "geom:area_square_m":1324648.873419,
+    "geom:area_square_m":1324648.873418,
     "geom:bbox":"16.2110469977,46.3362789814,16.2527491623,46.3589785192",
     "geom:latitude":46.346682,
     "geom:longitude":16.230358,
@@ -20,19 +20,13 @@
     "name:bos_x_preferred":[
         "Petrijanec"
     ],
-    "name:cze_x_preferred":[
-        "Petrijanec"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Petrijanec"
     ],
     "name:eng_x_preferred":[
         "Petriyanets"
     ],
     "name:fra_x_preferred":[
-        "Petrijanec"
-    ],
-    "name:fre_x_preferred":[
         "Petrijanec"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +45,6 @@
         "Petrijanec"
     ],
     "name:ron_x_preferred":[
-        "Comuna Petrijanec"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Petrijanec"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642934,
+    "wof:lastmodified":1561749598,
     "wof:name":"Petrijanec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

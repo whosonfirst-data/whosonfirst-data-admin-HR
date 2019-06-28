@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Popovac"
     ],
-    "name:dut_x_preferred":[
-        "Popovac"
-    ],
     "name:eng_x_preferred":[
         "Popovac"
     ],
@@ -29,9 +26,6 @@
         "Popovac"
     ],
     "name:fra_x_preferred":[
-        "Popovac"
-    ],
-    "name:fre_x_preferred":[
         "Popovac"
     ],
     "name:hbs_x_preferred":[
@@ -53,9 +47,6 @@
         "Popovac"
     ],
     "name:ron_x_preferred":[
-        "Comuna Popovac"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Popovac"
     ],
     "name:spa_x_preferred":[
@@ -111,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815540,
+    "wof:lastmodified":1561749593,
     "wof:name":"Popovac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

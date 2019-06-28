@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Jalkovec"
     ],
-    "name:dut_x_preferred":[
-        "Jalkovec"
-    ],
     "name:eng_x_preferred":[
         "Jalkovec"
     ],
@@ -101,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642930,
+    "wof:lastmodified":1561749597,
     "wof:name":"Jalkovec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

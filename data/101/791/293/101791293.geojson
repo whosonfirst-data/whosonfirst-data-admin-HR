@@ -20,19 +20,13 @@
     "name:bos_x_preferred":[
         "Beretinec"
     ],
-    "name:cze_x_preferred":[
-        "Beretinec"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Beretinec"
     ],
     "name:eng_x_preferred":[
         "Bertinec"
     ],
     "name:fra_x_preferred":[
-        "Beretinec"
-    ],
-    "name:fre_x_preferred":[
         "Beretinec"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +45,6 @@
         "Beretinec"
     ],
     "name:ron_x_preferred":[
-        "Comuna Beretinec"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Beretinec"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641955,
+    "wof:lastmodified":1561749589,
     "wof:name":"Beretinec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

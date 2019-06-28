@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Gradi\u0107i"
     ],
-    "name:dut_x_preferred":[
-        "Gradi\u0107i"
-    ],
     "name:eng_x_preferred":[
         "Gradi\u0107i"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":101835379,
-    "wof:lastmodified":1527642775,
+    "wof:lastmodified":1561749596,
     "wof:name":"Gradi\u0107i",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

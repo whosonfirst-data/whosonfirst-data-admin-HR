@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Ferdinandovac"
     ],
-    "name:dut_x_preferred":[
-        "Ferdinandovac"
-    ],
     "name:eng_x_preferred":[
         "Ferdinandorf"
     ],
     "name:fra_x_preferred":[
-        "Ferdinandovac"
-    ],
-    "name:fre_x_preferred":[
         "Ferdinandovac"
     ],
     "name:hbs_x_preferred":[
@@ -48,9 +42,6 @@
         "Ferdinandovac"
     ],
     "name:ron_x_preferred":[
-        "Comuna Ferdinandovac"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Ferdinandovac"
     ],
     "name:rus_x_preferred":[
@@ -125,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641954,
+    "wof:lastmodified":1561749588,
     "wof:name":"Ferdinandovac",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

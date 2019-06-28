@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000115,
-    "geom:area_square_m":1003184.268619,
+    "geom:area_square_m":1003184.268618,
     "geom:bbox":"17.3755365445,45.2696452754,17.3909244043,45.2940963383",
     "geom:latitude":45.281715,
     "geom:longitude":17.382151,
@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Cernik"
     ],
-    "name:dut_x_preferred":[
-        "Cernik"
-    ],
     "name:eng_x_preferred":[
         "Cernik"
     ],
     "name:fra_x_preferred":[
-        "Cernik"
-    ],
-    "name:fre_x_preferred":[
         "Cernik"
     ],
     "name:hbs_x_preferred":[
@@ -48,9 +42,6 @@
         "Cernik"
     ],
     "name:ron_x_preferred":[
-        "Comuna Cernik"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Cernik"
     ],
     "name:slv_x_preferred":[
@@ -119,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642778,
+    "wof:lastmodified":1561749597,
     "wof:name":"Cernik",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

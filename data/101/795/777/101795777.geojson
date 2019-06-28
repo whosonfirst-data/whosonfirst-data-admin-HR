@@ -23,19 +23,10 @@
     "name:deu_x_preferred":[
         "Ra\u017eanac"
     ],
-    "name:dut_x_preferred":[
-        "Ra\u017eanac"
-    ],
     "name:eng_x_preferred":[
         "Ra\u017eanac"
     ],
     "name:fra_x_preferred":[
-        "Ra\u017eanac"
-    ],
-    "name:fre_x_preferred":[
-        "Ra\u017eanac"
-    ],
-    "name:ger_x_preferred":[
         "Ra\u017eanac"
     ],
     "name:hrv_x_preferred":[
@@ -57,9 +48,6 @@
         "Ra\u017eanac"
     ],
     "name:ron_x_preferred":[
-        "Comuna Ra\u017eanac"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Ra\u017eanac"
     ],
     "name:rus_x_preferred":[
@@ -124,7 +112,7 @@
         }
     ],
     "wof:id":101795777,
-    "wof:lastmodified":1527714608,
+    "wof:lastmodified":1561749605,
     "wof:name":"Ra\u017eanac",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

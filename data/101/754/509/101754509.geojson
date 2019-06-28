@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001135,
-    "geom:area_square_m":9863762.812503,
+    "geom:area_square_m":9863762.812505,
     "geom:bbox":"14.3774158037,45.3421745,14.4469000852,45.3814626398",
     "geom:latitude":45.35733,
     "geom:longitude":14.408355,
@@ -17,13 +17,10 @@
     "mps:longitude":14.400707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Marini\u0107i"
-    ],
     "name:bos_x_preferred":[
         "Marini\u0107i"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Marini\u0107i"
     ],
     "name:eng_x_preferred":[
@@ -32,16 +29,19 @@
     "name:fra_x_preferred":[
         "Marini\u0107i"
     ],
-    "name:ger_x_preferred":[
-        "Marini\u0107i"
-    ],
     "name:hrv_x_preferred":[
         "Marini\u0107i"
     ],
     "name:hun_x_preferred":[
         "Marini\u0107i"
     ],
+    "name:nld_x_preferred":[
+        "Marini\u0107i"
+    ],
     "name:slv_x_preferred":[
+        "Marini\u0107i"
+    ],
+    "name:sqi_x_preferred":[
         "Marini\u0107i"
     ],
     "name:srp_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":101754509,
-    "wof:lastmodified":1527641862,
+    "wof:lastmodified":1561749588,
     "wof:name":"Marini\u0107i",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -26,20 +26,11 @@
     "name:deu_x_preferred":[
         "Op\u0107ina De\u017eanovac"
     ],
-    "name:dut_x_preferred":[
-        "De\u017eanovac"
-    ],
     "name:eng_x_preferred":[
         "De\u017eanovac"
     ],
     "name:fra_x_preferred":[
         "De\u017eanovac"
-    ],
-    "name:fre_x_preferred":[
-        "De\u017eanovac"
-    ],
-    "name:ger_x_preferred":[
-        "Op\u0107ina De\u017eanovac"
     ],
     "name:hrv_x_preferred":[
         "De\u017eanovac"
@@ -54,9 +45,6 @@
         "De\u017eanovac"
     ],
     "name:ron_x_preferred":[
-        "Comuna De\u017eanovac"
-    ],
-    "name:rum_x_preferred":[
         "Comuna De\u017eanovac"
     ],
     "name:rus_x_preferred":[
@@ -138,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744116,
+    "wof:lastmodified":1561749594,
     "wof:name":"De\u017eanovac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

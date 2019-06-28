@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Nova Kapela"
     ],
-    "name:dut_x_preferred":[
-        "Nova Kapela"
-    ],
     "name:eng_x_preferred":[
         "Nova Kapela"
     ],
@@ -29,9 +26,6 @@
         "Nova Kapela"
     ],
     "name:fra_x_preferred":[
-        "Nova Kapela"
-    ],
-    "name:fre_x_preferred":[
         "Nova Kapela"
     ],
     "name:hbs_x_preferred":[
@@ -50,9 +44,6 @@
         "Nova Kapela"
     ],
     "name:ron_x_preferred":[
-        "Comuna Nova Kapela"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Nova Kapela"
     ],
     "name:rus_x_preferred":[
@@ -117,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689316,
+    "wof:lastmodified":1561749601,
     "wof:name":"Nova Kapela",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "\u010crnkovci"
     ],
-    "name:dut_x_preferred":[
-        "\u010crnkovci"
-    ],
     "name:eng_x_preferred":[
         "\u010crnkovci"
     ],
@@ -32,6 +29,9 @@
         "\u010crnkovci"
     ],
     "name:hun_x_preferred":[
+        "\u010crnkovci"
+    ],
+    "name:nld_x_preferred":[
         "\u010crnkovci"
     ],
     "name:slv_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125909347,
-    "wof:lastmodified":1514447748,
+    "wof:lastmodified":1561749619,
     "wof:name":"\u010crnkovci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

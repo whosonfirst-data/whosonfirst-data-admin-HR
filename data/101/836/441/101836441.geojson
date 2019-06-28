@@ -22,20 +22,11 @@
     "name:deu_x_preferred":[
         "Barbat"
     ],
-    "name:dut_x_preferred":[
-        "Barbat"
-    ],
     "name:eng_x_preferred":[
         "Barbat"
     ],
     "name:fra_x_preferred":[
         "Barbat na Rabu"
-    ],
-    "name:fre_x_preferred":[
-        "Barbat na Rabu"
-    ],
-    "name:ger_x_preferred":[
-        "Barbat"
     ],
     "name:hbs_x_preferred":[
         "Barbat na Rabu"
@@ -45,6 +36,9 @@
     ],
     "name:hun_x_preferred":[
         "Barbat na Rabu"
+    ],
+    "name:nld_x_preferred":[
+        "Barbat"
     ],
     "name:slv_x_preferred":[
         "Barbat na Rabu"
@@ -101,7 +95,7 @@
         }
     ],
     "wof:id":101836441,
-    "wof:lastmodified":1553815534,
+    "wof:lastmodified":1561749608,
     "wof:name":"Barbat na Rabu",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

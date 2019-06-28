@@ -24,14 +24,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Zhupania e Zagrebit"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0632\u063a\u0631\u0628"
-    ],
-    "name:baq_x_preferred":[
-        "Zagreb eskualdea"
     ],
     "name:bel_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0430\u0431\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
@@ -48,14 +42,11 @@
     "name:cat_x_preferred":[
         "Comtat de Zagreb"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u683c\u52d2\u5e03\u7e23"
+    "name:ces_x_preferred":[
+        "Z\u00e1h\u0159ebsk\u00e1 \u017eupa"
     ],
     "name:cor_x_preferred":[
         "Konteth Zagreb"
-    ],
-    "name:cze_x_preferred":[
-        "Z\u00e1h\u0159ebsk\u00e1 \u017eupa"
     ],
     "name:dan_x_preferred":[
         "Zagreb County"
@@ -63,8 +54,11 @@
     "name:deu_x_preferred":[
         "Zagreb Stadt"
     ],
-    "name:dut_x_preferred":[
-        "Zagreb"
+    "name:deu_x_variant":[
+        "Gespanschaft Zagreb"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03ac\u03b3\u03ba\u03c1\u03b5\u03bc\u03c0"
     ],
     "name:eng_x_preferred":[
         "Grad Zagreb"
@@ -79,26 +73,23 @@
     "name:est_x_preferred":[
         "Zagrebi maakond"
     ],
+    "name:eus_x_preferred":[
+        "Zagreb eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0632\u0627\u06af\u0631\u0628"
+    ],
     "name:fin_x_preferred":[
         "Zagreb"
     ],
     "name:fra_x_preferred":[
         "Zagreb"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Comitat de Zagreb"
     ],
     "name:frr_x_preferred":[
         "Zagreb lun"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10d0\u10d2\u10e0\u10d4\u10d1\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gespanschaft Zagreb"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03ac\u03b3\u03ba\u03c1\u03b5\u03bc\u03c0"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0a97\u0acd\u0ab0\u0ac7\u0aac \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -124,6 +115,9 @@
     "name:kan_x_preferred":[
         "\u0c9d\u0cbe\u0c97\u0ccd\u0cb0\u0cc6\u0cac\u0ccd \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10d2\u10e0\u10d4\u10d1\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc790\uadf8\ub808\ube0c \uc9c1\ud560\uc2dc"
     ],
@@ -136,23 +130,23 @@
     "name:lit_x_preferred":[
         "Zagrebo apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0417\u0430\u0433\u0440\u0435\u043f\u0441\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u091d\u0917\u093e\u092c\u0947\u092c \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0417\u0430\u0433\u0440\u0435\u043f\u0441\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Zagreb County"
+    ],
+    "name:nld_x_preferred":[
+        "Zagreb"
     ],
     "name:nno_x_preferred":[
         "Grad Zagreb"
     ],
     "name:nob_x_preferred":[
         "Grad Zagreb"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0632\u0627\u06af\u0631\u0628"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0632\u0627\u063a\u0631\u0628"
@@ -163,7 +157,7 @@
     "name:por_x_preferred":[
         "Condado de Zagreb"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cantonul Zagreb"
     ],
     "name:rus_x_preferred":[
@@ -175,7 +169,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0d9c\u0dca\u200d\u0dbb\u0dd9\u0db6\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Z\u00e1hrebsk\u00e1 \u017eupa"
     ],
     "name:slv_x_preferred":[
@@ -186,6 +180,9 @@
     ],
     "name:spa_x_preferred":[
         "Zagreb"
+    ],
+    "name:sqi_x_preferred":[
+        "Zhupania e Zagrebit"
     ],
     "name:srp_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0435\u0431\u0430\u0447\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0438\u0458\u0430"
@@ -216,6 +213,9 @@
     ],
     "name:war_x_preferred":[
         "Zagreb"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u683c\u52d2\u5e03\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"HRV",
@@ -335,7 +335,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1553550762,
+    "wof:lastmodified":1561749555,
     "wof:name":"Grad Zagreb",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

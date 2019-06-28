@@ -25,22 +25,16 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u043e\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u901a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ston"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ston"
     ],
     "name:eng_x_preferred":[
         "Ston"
     ],
-    "name:fre_x_preferred":[
-        "Ston"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ston"
     ],
     "name:hrv_x_preferred":[
@@ -58,19 +52,19 @@
     "name:lat_x_preferred":[
         "Stagnum"
     ],
+    "name:nld_x_preferred":[
+        "Ston"
+    ],
     "name:pol_x_preferred":[
         "Ston"
     ],
     "name:ron_x_preferred":[
         "Comuna Ston"
     ],
-    "name:rum_x_preferred":[
-        "Comuna Ston"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u043e\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ston"
     ],
     "name:slv_x_preferred":[
@@ -93,6 +87,9 @@
     ],
     "name:war_x_preferred":[
         "Ston"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u901a"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -145,7 +142,7 @@
         }
     ],
     "wof:id":1126027633,
-    "wof:lastmodified":1514447656,
+    "wof:lastmodified":1561749613,
     "wof:name":"Ston",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Reka"
     ],
-    "name:dut_x_preferred":[
-        "Reka"
-    ],
     "name:eng_x_preferred":[
         "Reka"
     ],
@@ -102,7 +99,7 @@
         }
     ],
     "wof:id":101791253,
-    "wof:lastmodified":1527641957,
+    "wof:lastmodified":1561749590,
     "wof:name":"Reka",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

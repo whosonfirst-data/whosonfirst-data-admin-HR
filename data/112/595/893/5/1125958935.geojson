@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Podev\u010devo"
     ],
-    "name:dut_x_preferred":[
-        "Podev\u010devo"
-    ],
     "name:eng_x_preferred":[
         "Podev\u010devo"
     ],
@@ -32,6 +29,9 @@
         "Podev\u010devo"
     ],
     "name:hun_x_preferred":[
+        "Podev\u010devo"
+    ],
+    "name:nld_x_preferred":[
         "Podev\u010devo"
     ],
     "name:slv_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125958935,
-    "wof:lastmodified":1514447572,
+    "wof:lastmodified":1561749612,
     "wof:name":"Podev\u010devo",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

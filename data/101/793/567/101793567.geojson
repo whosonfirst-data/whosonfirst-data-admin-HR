@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000063,
-    "geom:area_square_m":548736.884083,
+    "geom:area_square_m":548736.884084,
     "geom:bbox":"17.9683755669,45.5210512533,17.9954891744,45.5308020739",
     "geom:latitude":45.524436,
     "geom:longitude":17.980081,
@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Feri\u010danci"
     ],
-    "name:dut_x_preferred":[
-        "Feri\u010danci"
-    ],
     "name:eng_x_preferred":[
         "Feri\u010danci"
     ],
     "name:fra_x_preferred":[
-        "Feri\u010danci"
-    ],
-    "name:fre_x_preferred":[
         "Feri\u010danci"
     ],
     "name:hbs_x_preferred":[
@@ -48,9 +42,6 @@
         "Feri\u010danci"
     ],
     "name:ron_x_preferred":[
-        "Comuna Feri\u010danci"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Feri\u010danci"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689275,
+    "wof:lastmodified":1561749598,
     "wof:name":"Feri\u010danci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

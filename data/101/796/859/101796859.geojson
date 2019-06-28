@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
-    "geom:area_square_m":948417.609117,
+    "geom:area_square_m":948417.609116,
     "geom:bbox":"17.1613123374,42.9193240353,17.1845464425,42.9272833288",
     "geom:latitude":42.923048,
     "geom:longitude":17.172485,
@@ -26,19 +26,10 @@
     "name:deu_x_preferred":[
         "Lumbarda"
     ],
-    "name:dut_x_preferred":[
-        "Lumbarda"
-    ],
     "name:eng_x_preferred":[
         "Lumbarda"
     ],
     "name:fra_x_preferred":[
-        "Lumbarda"
-    ],
-    "name:fre_x_preferred":[
-        "Lumbarda"
-    ],
-    "name:ger_x_preferred":[
         "Lumbarda"
     ],
     "name:hbs_x_preferred":[
@@ -63,9 +54,6 @@
         "Lumbarda"
     ],
     "name:ron_x_preferred":[
-        "Comuna Lumbarda"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Lumbarda"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642030,
+    "wof:lastmodified":1561749591,
     "wof:name":"Lumbarda",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

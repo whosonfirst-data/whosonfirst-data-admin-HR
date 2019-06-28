@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000246,
-    "geom:area_square_m":2145271.900048,
+    "geom:area_square_m":2145271.900051,
     "geom:bbox":"18.8204296966,45.1826339829,18.8548300916,45.2074136373",
     "geom:latitude":45.193265,
     "geom:longitude":18.839173,
@@ -17,28 +17,16 @@
     "mps:longitude":18.838001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Privlaka"
-    ],
     "name:bos_x_preferred":[
         "Privlaka"
     ],
     "name:deu_x_preferred":[
         "Privlaka"
     ],
-    "name:dut_x_preferred":[
-        "Privlaka"
-    ],
     "name:eng_x_preferred":[
         "Privlaka"
     ],
     "name:fra_x_preferred":[
-        "Privlaka"
-    ],
-    "name:fre_x_preferred":[
-        "Privlaka"
-    ],
-    "name:ger_x_preferred":[
         "Privlaka"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +42,6 @@
         "Privlaka"
     ],
     "name:ron_x_preferred":[
-        "Comuna Privlaka"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Privlaka"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689277,
+    "wof:lastmodified":1561749599,
     "wof:name":"Privlaka",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

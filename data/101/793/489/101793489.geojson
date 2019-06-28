@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Br\u0161adin"
     ],
-    "name:dut_x_preferred":[
-        "Br\u0161adin"
-    ],
     "name:eng_x_preferred":[
         "Br\u0161adin"
     ],
     "name:fra_x_preferred":[
-        "Br\u0161adin"
-    ],
-    "name:fre_x_preferred":[
         "Br\u0161adin"
     ],
     "name:hbs_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":101793489,
-    "wof:lastmodified":1527689280,
+    "wof:lastmodified":1561749600,
     "wof:name":"Br\u0161adin",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

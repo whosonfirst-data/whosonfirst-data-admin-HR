@@ -20,19 +20,10 @@
     "name:bos_x_preferred":[
         "Komin"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u654f"
-    ],
-    "name:dut_x_preferred":[
-        "Komin"
-    ],
     "name:eng_x_preferred":[
         "Komin"
     ],
     "name:fra_x_preferred":[
-        "Komin"
-    ],
-    "name:fre_x_preferred":[
         "Komin"
     ],
     "name:hbs_x_preferred":[
@@ -44,6 +35,9 @@
     "name:hun_x_preferred":[
         "Komin"
     ],
+    "name:nld_x_preferred":[
+        "Komin"
+    ],
     "name:slv_x_preferred":[
         "Komin"
     ],
@@ -52,6 +46,9 @@
     ],
     "name:swe_x_preferred":[
         "Komin"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u654f"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Dubrovacko-neretvanska \u017eupanija",
@@ -98,7 +95,7 @@
         }
     ],
     "wof:id":101857801,
-    "wof:lastmodified":1553815551,
+    "wof:lastmodified":1561749595,
     "wof:name":"Komin",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

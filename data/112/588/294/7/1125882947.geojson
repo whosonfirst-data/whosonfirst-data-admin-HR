@@ -22,10 +22,7 @@
     "name:bos_x_preferred":[
         "Trako\u0161\u0107an"
     ],
-    "name:cze_x_preferred":[
-        "Trako\u0161\u0107an"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Trako\u0161\u0107an"
     ],
     "name:eng_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:hun_x_preferred":[
         "Trakosty\u00e1n"
+    ],
+    "name:nld_x_preferred":[
+        "Trako\u0161\u0107an"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u0430\u043a\u043e\u0448\u0447\u0430\u043d"
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125882947,
-    "wof:lastmodified":1514447663,
+    "wof:lastmodified":1561749617,
     "wof:name":"Trako\u0161\u0107an",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

@@ -26,19 +26,10 @@
     "name:deu_x_preferred":[
         "Sikirevci"
     ],
-    "name:dut_x_preferred":[
-        "Sikirevci"
-    ],
     "name:eng_x_preferred":[
         "Sikirevci"
     ],
     "name:fra_x_preferred":[
-        "Sikirevci"
-    ],
-    "name:fre_x_preferred":[
-        "Sikirevci"
-    ],
-    "name:ger_x_preferred":[
         "Sikirevci"
     ],
     "name:hbs_x_preferred":[
@@ -57,9 +48,6 @@
         "Sikirevci"
     ],
     "name:ron_x_preferred":[
-        "Comuna Sikirevci"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Sikirevci"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689317,
+    "wof:lastmodified":1561749602,
     "wof:name":"Sikirevci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

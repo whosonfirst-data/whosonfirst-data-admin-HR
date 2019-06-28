@@ -22,22 +22,22 @@
     "name:bos_x_preferred":[
         "Moko\u0161ica"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Moko\u0161ica"
     ],
     "name:eng_x_preferred":[
         "Moko\u0161ica"
     ],
-    "name:fre_x_preferred":[
-        "Moko\u0161ica"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Moko\u0161ica"
     ],
     "name:hrv_x_preferred":[
         "Moko\u0161ica"
     ],
     "name:hun_x_preferred":[
+        "Moko\u0161ica"
+    ],
+    "name:nld_x_preferred":[
         "Moko\u0161ica"
     ],
     "name:pol_x_preferred":[
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1126033619,
-    "wof:lastmodified":1514447537,
+    "wof:lastmodified":1561749615,
     "wof:name":"Moko\u00b5ica",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

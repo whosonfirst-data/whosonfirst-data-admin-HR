@@ -27,26 +27,17 @@
     "name:bos_x_preferred":[
         "Gradec"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u62c9\u4ee3\u8328"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Gradec"
     ],
-    "name:dut_x_preferred":[
-        "Gradec"
+    "name:deu_x_preferred":[
+        "Gornji Grad"
     ],
     "name:eng_x_preferred":[
         "Gradec"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gradec"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e0\u10d0\u10d3\u10d4\u10ea\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gornji Grad"
     ],
     "name:hrv_x_preferred":[
         "Gornji Grad"
@@ -54,13 +45,19 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30c7\u30c4"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e0\u10d0\u10d3\u10d4\u10ea\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uadf8\ub77c\ub370\uce20"
+    ],
+    "name:nld_x_preferred":[
+        "Gradec"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0435\u0446"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gradec"
     ],
     "name:spa_x_preferred":[
@@ -77,6 +74,9 @@
     ],
     "name:unk_x_variant":[
         "Gornji Grad"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u62c9\u4ee3\u8328"
     ],
     "qs:gn_adm0_cc":"HR",
     "qs:gn_id":0,
@@ -133,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553814913,
+    "wof:lastmodified":1561749551,
     "wof:name":"Gornji grad",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

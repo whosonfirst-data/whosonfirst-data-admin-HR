@@ -23,25 +23,13 @@
     "name:ces_x_preferred":[
         "Lopar"
     ],
-    "name:cze_x_preferred":[
-        "Lopar"
-    ],
     "name:deu_x_preferred":[
-        "Lopar"
-    ],
-    "name:dut_x_preferred":[
         "Lopar"
     ],
     "name:eng_x_preferred":[
         "Lopar"
     ],
     "name:fra_x_preferred":[
-        "Lopar"
-    ],
-    "name:fre_x_preferred":[
-        "Lopar"
-    ],
-    "name:ger_x_preferred":[
         "Lopar"
     ],
     "name:hbs_x_preferred":[
@@ -65,16 +53,10 @@
     "name:ron_x_preferred":[
         "Comuna Lopar"
     ],
-    "name:rum_x_preferred":[
-        "Comuna Lopar"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u043f\u0430\u0440"
     ],
     "name:slk_x_preferred":[
-        "Lopar"
-    ],
-    "name:slo_x_preferred":[
         "Lopar"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +121,7 @@
         }
     ],
     "wof:id":101844767,
-    "wof:lastmodified":1527642626,
+    "wof:lastmodified":1561749593,
     "wof:name":"Lopar",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

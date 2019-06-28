@@ -20,26 +20,17 @@
     "name:bos_x_preferred":[
         "Ljube\u0161\u0107ica"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ljube\u0161\u0107ica"
     ],
     "name:deu_x_preferred":[
         "Ljube\u0161\u010dica"
-    ],
-    "name:dut_x_preferred":[
-        "Ljube\u0161\u0107ica"
     ],
     "name:eng_x_preferred":[
         "Ljube\u0161\u0107ica"
     ],
     "name:fra_x_preferred":[
         "Ljube\u0161\u0107ica"
-    ],
-    "name:fre_x_preferred":[
-        "Ljube\u0161\u0107ica"
-    ],
-    "name:ger_x_preferred":[
-        "Ljube\u0161\u010dica"
     ],
     "name:hbs_x_preferred":[
         "Ljube\u0161\u0107ica"
@@ -57,9 +48,6 @@
         "Ljube\u0161\u0107ica"
     ],
     "name:ron_x_preferred":[
-        "Comuna Ljube\u0161\u0107ica"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Ljube\u0161\u0107ica"
     ],
     "name:rus_x_preferred":[
@@ -125,7 +113,7 @@
         }
     ],
     "wof:id":101791309,
-    "wof:lastmodified":1527641952,
+    "wof:lastmodified":1561749588,
     "wof:name":"Ljube\u0161\u0107ica",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

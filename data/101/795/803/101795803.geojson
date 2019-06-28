@@ -17,19 +17,10 @@
     "mps:longitude":13.643526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Rovinji"
-    ],
     "name:ara_x_preferred":[
         "\u0631\u0648\u0641\u064a\u0646\u062c"
     ],
     "name:arg_x_preferred":[
-        "Rovinj"
-    ],
-    "name:arm_x_preferred":[
-        "\u054c\u0578\u057e\u056b\u0576"
-    ],
-    "name:baq_x_preferred":[
         "Rovinj"
     ],
     "name:bel_x_preferred":[
@@ -47,19 +38,10 @@
     "name:ces_x_preferred":[
         "Rovinj"
     ],
-    "name:chi_x_preferred":[
-        "\u7f85\u7dad\u5c3c"
-    ],
-    "name:cze_x_preferred":[
-        "Rovinj"
-    ],
     "name:dan_x_preferred":[
         "Rovinj"
     ],
     "name:deu_x_preferred":[
-        "Rovinj"
-    ],
-    "name:dut_x_preferred":[
         "Rovinj"
     ],
     "name:ell_x_preferred":[
@@ -77,6 +59,9 @@
     "name:est_x_preferred":[
         "Rovinj"
     ],
+    "name:eus_x_preferred":[
+        "Rovinj"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0648\u0648\u06cc\u0646\u06cc"
     ],
@@ -88,18 +73,6 @@
     ],
     "name:fra_x_preferred":[
         "Rovinj"
-    ],
-    "name:fre_x_preferred":[
-        "Rovinj"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10dd\u10d5\u10d8\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rovinj"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03cc\u03b2\u03b9\u03bd\u03b9"
     ],
     "name:hbs_x_preferred":[
         "Rovinj"
@@ -113,11 +86,17 @@
     "name:hun_x_preferred":[
         "Rovinj"
     ],
+    "name:hye_x_preferred":[
+        "\u054c\u0578\u057e\u056b\u0576"
+    ],
     "name:ita_x_preferred":[
         "Rovigno"
     ],
     "name:jpn_x_preferred":[
         "\u30ed\u30f4\u30a3\u30cb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10dd\u10d5\u10d8\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub85c\ube48"
@@ -134,7 +113,7 @@
     "name:ltz_x_preferred":[
         "Rovinj"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0420\u043e\u0432\u0438\u045a"
     ],
     "name:nld_x_preferred":[
@@ -152,9 +131,6 @@
     "name:oss_x_preferred":[
         "\u0420\u043e\u0432\u0438\u043d\u044c"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u0648\u06cc\u0646\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Rovinj"
     ],
@@ -164,16 +140,13 @@
     "name:ron_x_preferred":[
         "Rovinj"
     ],
-    "name:rum_x_preferred":[
-        "Rovinj"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0432\u0438\u043d\u044c"
     ],
     "name:sco_x_preferred":[
         "Rovinj"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Rovinj"
     ],
     "name:slv_x_preferred":[
@@ -274,7 +247,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714605,
+    "wof:lastmodified":1561749604,
     "wof:name":"Rovinj",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

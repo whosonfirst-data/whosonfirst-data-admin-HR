@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Sigetec Ludbre\u0161ki"
     ],
-    "name:dut_x_preferred":[
-        "Sigetec Ludbre\u0161ki"
-    ],
     "name:eng_x_preferred":[
         "Sigetec Ludbre\u0161ki"
     ],
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":101791261,
-    "wof:lastmodified":1527641954,
+    "wof:lastmodified":1561749589,
     "wof:name":"Sigetec",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

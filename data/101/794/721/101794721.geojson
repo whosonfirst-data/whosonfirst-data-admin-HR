@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000176,
-    "geom:area_square_m":1536642.023028,
+    "geom:area_square_m":1536642.023027,
     "geom:bbox":"15.5740560446,45.1063383497,15.5923222458,45.1290690488",
     "geom:latitude":45.117488,
     "geom:longitude":15.583114,
@@ -17,25 +17,16 @@
     "mps:longitude":15.582353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u056c\u0578\u0582\u0576"
-    ],
     "name:bos_x_preferred":[
         "Slunj"
     ],
     "name:cat_x_preferred":[
         "Slunj"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u76e7\u5c3c"
-    ],
     "name:ckb_x_preferred":[
         "\u0633\u0644\u0648\u0646\u06cc"
     ],
     "name:deu_x_preferred":[
-        "Slunj"
-    ],
-    "name:dut_x_preferred":[
         "Slunj"
     ],
     "name:eng_x_preferred":[
@@ -50,12 +41,6 @@
     "name:fra_x_preferred":[
         "Slunj"
     ],
-    "name:fre_x_preferred":[
-        "Slunj"
-    ],
-    "name:ger_x_preferred":[
-        "Slunj"
-    ],
     "name:hbs_x_preferred":[
         "Slunj"
     ],
@@ -64,6 +49,9 @@
     ],
     "name:hun_x_preferred":[
         "Szluin"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056c\u0578\u0582\u0576"
     ],
     "name:ita_x_preferred":[
         "Slunj"
@@ -77,16 +65,10 @@
     "name:nld_x_preferred":[
         "Slunj"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0644\u0648\u0646\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Slunj"
     ],
     "name:ron_x_preferred":[
-        "Slunj"
-    ],
-    "name:rum_x_preferred":[
         "Slunj"
     ],
     "name:rus_x_preferred":[
@@ -175,7 +157,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689323,
+    "wof:lastmodified":1561749603,
     "wof:name":"Slunj",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

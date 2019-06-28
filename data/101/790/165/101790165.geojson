@@ -29,7 +29,7 @@
     "name:deu_x_preferred":[
         "Podture\u0148"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Podturen"
     ],
     "name:eng_x_preferred":[
@@ -41,10 +41,7 @@
     "name:fra_x_preferred":[
         "Podture\u0148"
     ],
-    "name:fre_x_preferred":[
-        "Podturen"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Podturen"
     ],
     "name:hbs_x_preferred":[
@@ -65,7 +62,10 @@
     "name:nld_x_preferred":[
         "Podture\u0148"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_variant":[
+        "Podturen"
+    ],
+    "name:ron_x_preferred":[
         "Podturen"
     ],
     "name:slv_x_preferred":[
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":101790165,
-    "wof:lastmodified":1553815504,
+    "wof:lastmodified":1561749587,
     "wof:name":"Podturen",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

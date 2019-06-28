@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Potirna"
     ],
-    "name:dut_x_preferred":[
-        "Potirna"
-    ],
     "name:eng_x_preferred":[
         "Potirna"
     ],
@@ -35,6 +32,9 @@
         "Potirna"
     ],
     "name:hun_x_preferred":[
+        "Potirna"
+    ],
+    "name:nld_x_preferred":[
         "Potirna"
     ],
     "name:slv_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125962827,
-    "wof:lastmodified":1514447579,
+    "wof:lastmodified":1561749620,
     "wof:name":"Potirna",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

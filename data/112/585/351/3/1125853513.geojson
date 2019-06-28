@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Sobra"
     ],
-    "name:dut_x_preferred":[
-        "Sobra"
-    ],
     "name:eng_x_preferred":[
         "Sobra"
     ],
@@ -32,6 +29,9 @@
         "Sobra"
     ],
     "name:hun_x_preferred":[
+        "Sobra"
+    ],
+    "name:nld_x_preferred":[
         "Sobra"
     ],
     "name:pol_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1125853513,
-    "wof:lastmodified":1514447635,
+    "wof:lastmodified":1561749623,
     "wof:name":"Sovra",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

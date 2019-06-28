@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000173,
-    "geom:area_square_m":1506656.946244,
+    "geom:area_square_m":1506656.946243,
     "geom:bbox":"18.9863938556,45.2697675539,19.0086356195,45.2933305305",
     "geom:latitude":45.280136,
     "geom:longitude":18.998524,
@@ -29,16 +29,10 @@
     "name:cym_x_preferred":[
         "Negoslavci"
     ],
-    "name:dut_x_preferred":[
-        "Negoslavci"
-    ],
     "name:eng_x_preferred":[
         "Negoslavci"
     ],
     "name:fra_x_preferred":[
-        "Negoslavci"
-    ],
-    "name:fre_x_preferred":[
         "Negoslavci"
     ],
     "name:hbs_x_preferred":[
@@ -59,9 +53,6 @@
     "name:rue_x_preferred":[
         "\u041d\u0435\u0433\u043e\u0441\u043b\u0430\u0432\u0446\u0438"
     ],
-    "name:rum_x_preferred":[
-        "Comuna Negoslavci"
-    ],
     "name:slv_x_preferred":[
         "Negoslavci"
     ],
@@ -81,9 +72,6 @@
         "Negoslavci"
     ],
     "name:war_x_preferred":[
-        "Negoslavci"
-    ],
-    "name:wel_x_preferred":[
         "Negoslavci"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -134,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689280,
+    "wof:lastmodified":1561749600,
     "wof:name":"Negoslavci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

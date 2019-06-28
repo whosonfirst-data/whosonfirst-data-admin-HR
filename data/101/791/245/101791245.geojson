@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Legrad"
     ],
-    "name:dut_x_preferred":[
-        "Legrad"
-    ],
     "name:eng_x_preferred":[
         "Legrad"
     ],
@@ -36,12 +33,6 @@
         "Legrad"
     ],
     "name:fra_x_preferred":[
-        "Legrad"
-    ],
-    "name:fre_x_preferred":[
-        "Legrad"
-    ],
-    "name:ger_x_preferred":[
         "Legrad"
     ],
     "name:hbs_x_preferred":[
@@ -63,9 +54,6 @@
         "Legrad"
     ],
     "name:ron_x_preferred":[
-        "Comuna Legrad"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Legrad"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641954,
+    "wof:lastmodified":1561749588,
     "wof:name":"Legrad",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

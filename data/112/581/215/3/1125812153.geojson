@@ -22,10 +22,10 @@
     "name:bos_x_preferred":[
         "Ri\u010dice"
     ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Ri\u010dice"
     ],
-    "name:ger_x_preferred":[
+    "name:eng_x_preferred":[
         "Ri\u010dice"
     ],
     "name:hrv_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125812153,
-    "wof:lastmodified":1553816550,
+    "wof:lastmodified":1561749616,
     "wof:name":"Ri\u010dice",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

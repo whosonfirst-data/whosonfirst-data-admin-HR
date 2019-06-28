@@ -22,7 +22,7 @@
     "name:bos_x_preferred":[
         "Trstenik"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Trstenik"
     ],
     "name:eng_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125837013,
-    "wof:lastmodified":1553816561,
+    "wof:lastmodified":1561749625,
     "wof:name":"Trstenik",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

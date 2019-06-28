@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Novi Jankovci"
     ],
-    "name:dut_x_preferred":[
-        "Novi Jankovci"
-    ],
     "name:eng_x_preferred":[
         "Novi Jankovci"
     ],
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":101835321,
-    "wof:lastmodified":1527642779,
+    "wof:lastmodified":1561749597,
     "wof:name":"Novi Jankovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

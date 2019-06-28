@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000339,
-    "geom:area_square_m":2953533.345622,
+    "geom:area_square_m":2953533.345621,
     "geom:bbox":"14.7628022134,45.1143599446,14.8302060873,45.1410700722",
     "geom:latitude":45.127306,
     "geom:longitude":14.793329,
@@ -17,9 +17,6 @@
     "mps:longitude":14.791031,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Novi Vinodolski"
-    ],
     "name:bel_x_preferred":[
         "\u041d\u043e\u0432\u0456-\u0412\u0456\u043d\u0430\u0434\u043e\u043b\u044c\u0441\u043a\u0456"
     ],
@@ -29,19 +26,10 @@
     "name:ces_x_preferred":[
         "Novi Vinodolski"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u7dad\u8afe\u591a\u723e\u65af\u57fa"
-    ],
     "name:ckb_x_preferred":[
         "\u0646\u06c6\u06a4\u06cc \u06a4\u06cc\u0646\u06c6\u062f\u06c6\u0644\u0633\u06a9\u06cc"
     ],
-    "name:cze_x_preferred":[
-        "Novi Vinodolski"
-    ],
     "name:deu_x_preferred":[
-        "Novi Vinodolski"
-    ],
-    "name:dut_x_preferred":[
         "Novi Vinodolski"
     ],
     "name:eng_x_preferred":[
@@ -55,12 +43,6 @@
         "\u0646\u0648\u06cc \u0648\u06cc\u0646\u062f\u0648\u0644\u0633\u06a9\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Novi Vinodolski"
-    ],
-    "name:fre_x_preferred":[
-        "Novi Vinodolski"
-    ],
-    "name:ger_x_preferred":[
         "Novi Vinodolski"
     ],
     "name:hbs_x_preferred":[
@@ -84,16 +66,10 @@
     "name:nld_x_preferred":[
         "Novi Vinodolski"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u06cc \u0648\u06cc\u0646\u062f\u0648\u0644\u0633\u06a9\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Novi Vinodolski"
     ],
     "name:ron_x_preferred":[
-        "Novi Vinodolski"
-    ],
-    "name:rum_x_preferred":[
         "Novi Vinodolski"
     ],
     "name:rus_x_preferred":[
@@ -103,9 +79,6 @@
         "\u041d\u043e\u0432\u0438 \u0412\u0438\u043d\u043e\u0434\u043e\u043b\u044c\u0441\u043a\u0438"
     ],
     "name:slk_x_preferred":[
-        "Novi Vinodolski"
-    ],
-    "name:slo_x_preferred":[
         "Novi Vinodolski"
     ],
     "name:slv_x_preferred":[
@@ -189,7 +162,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689318,
+    "wof:lastmodified":1561749602,
     "wof:name":"Novi Vinodolski",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

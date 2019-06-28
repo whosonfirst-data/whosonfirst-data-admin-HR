@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000514,
-    "geom:area_square_m":4550938.760141,
+    "geom:area_square_m":4550938.760142,
     "geom:bbox":"15.0707496849,44.2846567556,15.1234133107,44.3120522717",
     "geom:latitude":44.300808,
     "geom:longitude":15.094727,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Vir"
     ],
-    "name:dut_x_preferred":[
-        "Vir"
-    ],
     "name:ell_x_preferred":[
         "\u0392\u03b9\u03c1"
     ],
@@ -36,12 +33,6 @@
         "Vir"
     ],
     "name:fra_x_preferred":[
-        "Vir"
-    ],
-    "name:fre_x_preferred":[
-        "Vir"
-    ],
-    "name:ger_x_preferred":[
         "Vir"
     ],
     "name:hbs_x_preferred":[
@@ -74,7 +65,7 @@
     "name:por_x_preferred":[
         "Vir"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Vir"
     ],
     "name:rus_x_preferred":[
@@ -151,7 +142,7 @@
         }
     ],
     "wof:id":101795749,
-    "wof:lastmodified":1527714607,
+    "wof:lastmodified":1561749604,
     "wof:name":"Vir",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

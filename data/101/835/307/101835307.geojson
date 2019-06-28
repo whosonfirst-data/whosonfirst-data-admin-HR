@@ -17,14 +17,8 @@
     "mps:longitude":17.190039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Pakrac"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643\u0631\u0627\u062a\u0634"
-    ],
-    "name:arm_x_preferred":[
-        "\u054a\u0561\u056f\u0580\u0561\u0581"
     ],
     "name:bos_x_preferred":[
         "Pakrac"
@@ -32,20 +26,17 @@
     "name:cat_x_preferred":[
         "Pakrac"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u514b\u62c9\u8328"
+    "name:ces_x_preferred":[
+        "Pakrac"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u06a9\u0631\u0627\u062a\u0633"
     ],
-    "name:cze_x_preferred":[
-        "Pakrac"
-    ],
     "name:deu_x_preferred":[
         "Pakrac"
     ],
-    "name:dut_x_preferred":[
-        "Pakrac"
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03ba\u03c1\u03b1\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Pakrac"
@@ -53,20 +44,14 @@
     "name:epo_x_preferred":[
         "Pakrac"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06a9\u0631\u0627\u062a\u0633"
+    ],
     "name:fin_x_preferred":[
         "Pakrac"
     ],
     "name:fra_x_preferred":[
         "Pakrac"
-    ],
-    "name:fre_x_preferred":[
-        "Pakrac"
-    ],
-    "name:ger_x_preferred":[
-        "Pakrac"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03ac\u03ba\u03c1\u03b1\u03c4\u03c2"
     ],
     "name:hbs_x_preferred":[
         "Pakrac"
@@ -80,22 +65,22 @@
     "name:hun_x_preferred":[
         "Pakr\u00e1c"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u056f\u0580\u0561\u0581"
+    ],
     "name:ita_x_preferred":[
         "Pakrac"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30af\u30e9\u30c4"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u06a9\u0631\u0627\u062a\u0633"
+    "name:nld_x_preferred":[
+        "Pakrac"
     ],
     "name:pol_x_preferred":[
         "Pakrac"
     ],
     "name:ron_x_preferred":[
-        "Pakrac"
-    ],
-    "name:rum_x_preferred":[
         "Pakrac"
     ],
     "name:rus_x_preferred":[
@@ -108,6 +93,9 @@
         "Pakrac"
     ],
     "name:spa_x_preferred":[
+        "Pakrac"
+    ],
+    "name:sqi_x_preferred":[
         "Pakrac"
     ],
     "name:srp_x_preferred":[
@@ -133,6 +121,9 @@
     ],
     "name:war_x_preferred":[
         "Pakrac"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u514b\u62c9\u8328"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Po\u017ee\u0161ko-slavonska \u017eupanija",
@@ -183,7 +174,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642772,
+    "wof:lastmodified":1561749595,
     "wof:name":"Pakrac",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

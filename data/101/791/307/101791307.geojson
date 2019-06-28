@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
-    "geom:area_square_m":1037450.274338,
+    "geom:area_square_m":1037450.274339,
     "geom:bbox":"16.3628077331,46.2831550694,16.3836073724,46.3040914939",
     "geom:latitude":46.292409,
     "geom:longitude":16.370928,
@@ -17,9 +17,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:bos_x_preferred":[
-        "Ku\u0107an Marof"
-    ],
-    "name:dut_x_preferred":[
         "Ku\u0107an Marof"
     ],
     "name:eng_x_preferred":[
@@ -93,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641952,
+    "wof:lastmodified":1561749588,
     "wof:name":"Ku\u0107an Marof",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

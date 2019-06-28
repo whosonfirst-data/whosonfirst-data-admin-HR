@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000041,
-    "geom:area_square_m":359193.000635,
+    "geom:area_square_m":359193.000636,
     "geom:bbox":"17.7868583289,45.4045816792,17.794736796,45.4242834027",
     "geom:latitude":45.415179,
     "geom:longitude":17.790903,
@@ -23,9 +23,6 @@
     "name:cat_x_preferred":[
         "Vetovo"
     ],
-    "name:dut_x_preferred":[
-        "Vetovo"
-    ],
     "name:eng_x_preferred":[
         "Vetovo"
     ],
@@ -36,6 +33,9 @@
         "Vetovo"
     ],
     "name:hrv_x_preferred":[
+        "Vetovo"
+    ],
+    "name:nld_x_preferred":[
         "Vetovo"
     ],
     "name:slv_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":101844779,
-    "wof:lastmodified":1527642625,
+    "wof:lastmodified":1561749593,
     "wof:name":"Vetovo",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

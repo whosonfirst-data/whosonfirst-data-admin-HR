@@ -22,19 +22,19 @@
     "name:bos_x_preferred":[
         "Ko\u017eino"
     ],
-    "name:dut_x_preferred":[
-        "Ko\u017eino"
-    ],
     "name:eng_x_preferred":[
         "Ko\u017eino"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ko\u017eino"
     ],
     "name:hrv_x_preferred":[
         "Ko\u017eino"
     ],
     "name:hun_x_preferred":[
+        "Ko\u017eino"
+    ],
+    "name:nld_x_preferred":[
         "Ko\u017eino"
     ],
     "name:slv_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125817411,
-    "wof:lastmodified":1514447499,
+    "wof:lastmodified":1561749616,
     "wof:name":"Ko\u017eino",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

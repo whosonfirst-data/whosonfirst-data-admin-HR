@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Mravince"
     ],
-    "name:dut_x_preferred":[
-        "Mravince"
-    ],
     "name:eng_x_preferred":[
         "Mravince"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":101796905,
-    "wof:lastmodified":1527642034,
+    "wof:lastmodified":1561749591,
     "wof:name":"Mravince",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",
