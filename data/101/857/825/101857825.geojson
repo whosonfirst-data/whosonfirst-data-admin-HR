@@ -22,25 +22,13 @@
     "name:ces_x_preferred":[
         "Jasenice"
     ],
-    "name:cze_x_preferred":[
-        "Jasenice"
-    ],
     "name:deu_x_preferred":[
-        "Jasenice"
-    ],
-    "name:dut_x_preferred":[
         "Jasenice"
     ],
     "name:eng_x_preferred":[
         "Jasenice"
     ],
     "name:fra_x_preferred":[
-        "Jasenice"
-    ],
-    "name:fre_x_preferred":[
-        "Jasenice"
-    ],
-    "name:ger_x_preferred":[
         "Jasenice"
     ],
     "name:hbs_x_preferred":[
@@ -62,9 +50,6 @@
         "Jasenice"
     ],
     "name:ron_x_preferred":[
-        "Comuna Jasenice"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Jasenice"
     ],
     "name:slv_x_preferred":[
@@ -126,7 +111,7 @@
         }
     ],
     "wof:id":101857825,
-    "wof:lastmodified":1544744098,
+    "wof:lastmodified":1561749594,
     "wof:name":"Jasenice",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

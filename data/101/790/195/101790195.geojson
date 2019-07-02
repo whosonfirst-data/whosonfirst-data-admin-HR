@@ -22,10 +22,7 @@
     "name:ces_x_preferred":[
         "Sveta Marija"
     ],
-    "name:cze_x_preferred":[
-        "Sveta Marija"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sveta Marija"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +32,6 @@
         "Sveta Marija"
     ],
     "name:fra_x_preferred":[
-        "Sveta Marija"
-    ],
-    "name:fre_x_preferred":[
-        "Sveta Marija"
-    ],
-    "name:ger_x_preferred":[
         "Sveta Marija"
     ],
     "name:hbs_x_preferred":[
@@ -59,9 +50,6 @@
         "Sveta Marija"
     ],
     "name:ron_x_preferred":[
-        "Comuna Sveta Marija"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Sveta Marija"
     ],
     "name:spa_x_preferred":[
@@ -117,7 +105,7 @@
         }
     ],
     "wof:id":101790195,
-    "wof:lastmodified":1527641595,
+    "wof:lastmodified":1561749586,
     "wof:name":"Sveta Marija",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

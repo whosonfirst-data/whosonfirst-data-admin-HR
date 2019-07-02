@@ -25,19 +25,16 @@
     "name:bul_x_preferred":[
         "\u0422\u043a\u043e\u043d"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tkon"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tkon"
     ],
     "name:eng_x_preferred":[
         "Tkon"
     ],
-    "name:fre_x_preferred":[
-        "Tkon"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tkon"
     ],
     "name:hrv_x_preferred":[
@@ -49,10 +46,13 @@
     "name:ita_x_preferred":[
         "Tuconio"
     ],
+    "name:nld_x_preferred":[
+        "Tkon"
+    ],
     "name:por_x_preferred":[
         "Tkon"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Tkon"
     ],
     "name:rus_x_preferred":[
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1125913137,
-    "wof:lastmodified":1553816623,
+    "wof:lastmodified":1561749621,
     "wof:name":"Tkon",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

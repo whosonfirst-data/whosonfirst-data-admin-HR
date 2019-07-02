@@ -21,20 +21,17 @@
     "name:bos_x_preferred":[
         "Oprtalj"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Oprtalj"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c0\u03c1\u03c4\u03ac\u03bb\u03c4\u03b6"
     ],
     "name:eng_x_preferred":[
         "Oprtalj"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oprtalj"
-    ],
-    "name:ger_x_preferred":[
-        "Oprtalj"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c0\u03c1\u03c4\u03ac\u03bb\u03c4\u03b6"
     ],
     "name:hrv_x_preferred":[
         "Oprtalj"
@@ -48,13 +45,13 @@
     "name:lat_x_preferred":[
         "Portulae"
     ],
+    "name:nld_x_preferred":[
+        "Oprtalj"
+    ],
     "name:pol_x_preferred":[
         "Oprtalj"
     ],
     "name:ron_x_preferred":[
-        "Comuna Oprtalj"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Oprtalj"
     ],
     "name:rus_x_preferred":[
@@ -131,7 +128,7 @@
         }
     ],
     "wof:id":1125809431,
-    "wof:lastmodified":1514447554,
+    "wof:lastmodified":1561749618,
     "wof:name":"Oprtalj",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

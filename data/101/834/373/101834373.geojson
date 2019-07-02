@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Savska Ves"
     ],
-    "name:dut_x_preferred":[
-        "Savska Ves"
-    ],
     "name:eng_x_preferred":[
         "Savska Ves"
     ],
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":101834373,
-    "wof:lastmodified":1527642937,
+    "wof:lastmodified":1561749598,
     "wof:name":"Savska Ves",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000522,
-    "geom:area_square_m":4522559.670827,
+    "geom:area_square_m":4522559.670826,
     "geom:bbox":"18.5398021081,45.5135702107,18.597142964,45.5356867457",
     "geom:latitude":45.52545,
     "geom:longitude":18.566579,
@@ -17,28 +17,16 @@
     "mps:longitude":18.566141,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "\u010cepin"
-    ],
     "name:bos_x_preferred":[
         "\u010cepin"
     ],
     "name:deu_x_preferred":[
         "\u010cepin"
     ],
-    "name:dut_x_preferred":[
-        "\u010cepin"
-    ],
     "name:eng_x_preferred":[
         "\u010cepin"
     ],
     "name:fra_x_preferred":[
-        "\u010cepin"
-    ],
-    "name:fre_x_preferred":[
-        "\u010cepin"
-    ],
-    "name:ger_x_preferred":[
         "\u010cepin"
     ],
     "name:hbs_x_preferred":[
@@ -62,9 +50,6 @@
     "name:ron_x_preferred":[
         "Comuna \u010cepin"
     ],
-    "name:rum_x_preferred":[
-        "Comuna \u010cepin"
-    ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u043f\u0438\u043d"
     ],
@@ -72,6 +57,9 @@
         "\u010cepin"
     ],
     "name:spa_x_preferred":[
+        "\u010cepin"
+    ],
+    "name:sqi_x_preferred":[
         "\u010cepin"
     ],
     "name:srp_x_preferred":[
@@ -140,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642773,
+    "wof:lastmodified":1561749595,
     "wof:name":"\u010cepin",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

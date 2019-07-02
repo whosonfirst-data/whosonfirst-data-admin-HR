@@ -26,19 +26,10 @@
     "name:deu_x_preferred":[
         "Kaptol"
     ],
-    "name:dut_x_preferred":[
-        "Kaptol"
-    ],
     "name:eng_x_preferred":[
         "Kaptol"
     ],
     "name:fra_x_preferred":[
-        "Kaptol"
-    ],
-    "name:fre_x_preferred":[
-        "Kaptol"
-    ],
-    "name:ger_x_preferred":[
         "Kaptol"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +45,6 @@
         "Kaptol"
     ],
     "name:ron_x_preferred":[
-        "Comuna Kaptol"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Kaptol"
     ],
     "name:rus_x_preferred":[
@@ -135,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815507,
+    "wof:lastmodified":1561749600,
     "wof:name":"Kaptol",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

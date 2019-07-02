@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000259,
-    "geom:area_square_m":2319219.976877,
+    "geom:area_square_m":2319219.976876,
     "geom:bbox":"16.2489101343,43.4839863563,16.2821166773,43.5119358962",
     "geom:latitude":43.494198,
     "geom:longitude":16.264217,
@@ -16,22 +16,16 @@
     "mps:longitude":16.265349,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Okrug Gornji"
-    ],
     "name:bos_x_preferred":[
         "Okrug Gornji"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Okrug Gornji"
     ],
     "name:eng_x_preferred":[
         "Okrug Gornji"
     ],
     "name:fin_x_preferred":[
-        "Okrug Gornji"
-    ],
-    "name:ger_x_preferred":[
         "Okrug Gornji"
     ],
     "name:hbs_x_preferred":[
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":101836407,
-    "wof:lastmodified":1527715152,
+    "wof:lastmodified":1561749608,
     "wof:name":"Okrug Gornji",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

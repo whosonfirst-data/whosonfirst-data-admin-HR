@@ -17,17 +17,8 @@
     "mps:longitude":16.359176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Sisak"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u064a\u0633\u0627\u0643"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u057d\u0561\u056f"
-    ],
-    "name:baq_x_preferred":[
-        "Sisak"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0456\u0441\u0430\u043a"
@@ -50,22 +41,13 @@
     "name:che_x_preferred":[
         "\u0421\u0438\u0441\u0430\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u85a9\u514b"
-    ],
     "name:ckb_x_preferred":[
         "\u0633\u06cc\u0633\u0627\u06a9"
-    ],
-    "name:cze_x_preferred":[
-        "Sisak"
     ],
     "name:dan_x_preferred":[
         "Sisak"
     ],
     "name:deu_x_preferred":[
-        "Sisak"
-    ],
-    "name:dut_x_preferred":[
         "Sisak"
     ],
     "name:ell_x_preferred":[
@@ -89,20 +71,8 @@
     "name:fra_x_preferred":[
         "Sisak"
     ],
-    "name:fre_x_preferred":[
-        "Sisak"
-    ],
     "name:fry_x_preferred":[
         "Sisak"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10e1\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sisak"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03af\u03c3\u03b1\u03ba"
     ],
     "name:hbs_x_preferred":[
         "Sisak"
@@ -112,6 +82,9 @@
     ],
     "name:hun_x_preferred":[
         "Sziszek"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u057d\u0561\u056f"
     ],
     "name:ita_x_preferred":[
         "Sisak"
@@ -131,9 +104,6 @@
     "name:lit_x_preferred":[
         "Sisakas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0438\u0441\u0430\u043a"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0438\u0441\u0430\u043a"
     ],
@@ -149,9 +119,6 @@
     "name:nor_x_preferred":[
         "Sisak"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0633\u0627\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Sisak"
     ],
@@ -161,9 +128,6 @@
     "name:ron_x_preferred":[
         "Sisak"
     ],
-    "name:rum_x_preferred":[
-        "Sisak"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u0441\u0430\u043a"
     ],
@@ -171,9 +135,6 @@
         "Sisak"
     ],
     "name:slk_x_preferred":[
-        "Sisak"
-    ],
-    "name:slo_x_preferred":[
         "Sisak"
     ],
     "name:slv_x_preferred":[
@@ -269,7 +230,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544751612,
+    "wof:lastmodified":1561749592,
     "wof:name":"Sisak",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

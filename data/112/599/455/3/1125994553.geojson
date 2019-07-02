@@ -21,16 +21,13 @@
     "name:bos_x_preferred":[
         "Savudrija"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Savudrija"
     ],
     "name:eng_x_preferred":[
         "Savudrija"
     ],
-    "name:fre_x_preferred":[
-        "Savudrija"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Savudrija"
     ],
     "name:hrv_x_preferred":[
@@ -41,6 +38,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f4\u30c9\u30ea\u30a2"
+    ],
+    "name:nld_x_preferred":[
+        "Savudrija"
     ],
     "name:slv_x_preferred":[
         "Savudrija"
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1125994553,
-    "wof:lastmodified":1514447620,
+    "wof:lastmodified":1561749618,
     "wof:name":"Savudrija",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

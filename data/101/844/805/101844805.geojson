@@ -23,9 +23,6 @@
     "name:cym_x_preferred":[
         "Jagodnjak"
     ],
-    "name:dut_x_preferred":[
-        "Jagodnjak"
-    ],
     "name:eng_x_preferred":[
         "Jagodnja"
     ],
@@ -33,9 +30,6 @@
         "Jagodnjak"
     ],
     "name:fra_x_preferred":[
-        "Jagodnjak"
-    ],
-    "name:fre_x_preferred":[
         "Jagodnjak"
     ],
     "name:hbs_x_preferred":[
@@ -57,9 +51,6 @@
         "Jagodnjak"
     ],
     "name:ron_x_preferred":[
-        "Comuna Jagodnjak"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Jagodnjak"
     ],
     "name:rus_x_preferred":[
@@ -84,9 +75,6 @@
         "\u062c\u06af\u0648\u062f\u0646\u062c\u06a9"
     ],
     "name:war_x_preferred":[
-        "Jagodnjak"
-    ],
-    "name:wel_x_preferred":[
         "Jagodnjak"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -137,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642623,
+    "wof:lastmodified":1561749593,
     "wof:name":"Jagodnjak",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

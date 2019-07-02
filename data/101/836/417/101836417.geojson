@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000303,
-    "geom:area_square_m":2716566.911185,
+    "geom:area_square_m":2716566.911187,
     "geom:bbox":"16.632087692,43.4365320944,16.7036499064,43.4520364211",
     "geom:latitude":43.442764,
     "geom:longitude":16.667473,
@@ -16,9 +16,6 @@
     "mps:longitude":16.667473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Dugi Rat"
-    ],
     "name:bos_x_preferred":[
         "Dugi Rat"
     ],
@@ -28,19 +25,10 @@
     "name:deu_x_preferred":[
         "Dugi Rat"
     ],
-    "name:dut_x_preferred":[
-        "Dugi Rat"
-    ],
     "name:eng_x_preferred":[
         "Dugi Rat"
     ],
     "name:fra_x_preferred":[
-        "Dugi Rat"
-    ],
-    "name:fre_x_preferred":[
-        "Dugi Rat"
-    ],
-    "name:ger_x_preferred":[
         "Dugi Rat"
     ],
     "name:hbs_x_preferred":[
@@ -62,9 +50,6 @@
         "Dugi Rat"
     ],
     "name:ron_x_preferred":[
-        "Comuna Dugi Rat"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Dugi Rat"
     ],
     "name:slv_x_preferred":[
@@ -132,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715156,
+    "wof:lastmodified":1561749608,
     "wof:name":"Dugi Rat",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

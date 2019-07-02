@@ -25,19 +25,19 @@
     "name:cat_x_preferred":[
         "Gornje Selo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gornje Selo"
     ],
     "name:eng_x_preferred":[
-        "Gornje Selo"
-    ],
-    "name:ger_x_preferred":[
         "Gornje Selo"
     ],
     "name:hrv_x_preferred":[
         "Gornje Selo"
     ],
     "name:hun_x_preferred":[
+        "Gornje Selo"
+    ],
+    "name:nld_x_preferred":[
         "Gornje Selo"
     ],
     "name:slv_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125792631,
-    "wof:lastmodified":1553816537,
+    "wof:lastmodified":1561749624,
     "wof:name":"Gornje Selo",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

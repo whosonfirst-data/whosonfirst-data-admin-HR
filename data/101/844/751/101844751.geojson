@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000461,
-    "geom:area_square_m":4092049.635782,
+    "geom:area_square_m":4092049.635787,
     "geom:bbox":"15.1388211961,44.0469902714,15.2234419812,44.1077416381",
     "geom:latitude":44.082437,
     "geom:longitude":15.182992,
@@ -23,19 +23,10 @@
     "name:deu_x_preferred":[
         "Kali"
     ],
-    "name:dut_x_preferred":[
-        "Kali"
-    ],
     "name:eng_x_preferred":[
         "Kali"
     ],
     "name:fra_x_preferred":[
-        "Kali"
-    ],
-    "name:fre_x_preferred":[
-        "Kali"
-    ],
-    "name:ger_x_preferred":[
         "Kali"
     ],
     "name:hbs_x_preferred":[
@@ -60,9 +51,6 @@
         "Kali"
     ],
     "name:ron_x_preferred":[
-        "Comuna Kali"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Kali"
     ],
     "name:slv_x_preferred":[
@@ -124,7 +112,7 @@
         }
     ],
     "wof:id":101844751,
-    "wof:lastmodified":1527642626,
+    "wof:lastmodified":1561749593,
     "wof:name":"Kali",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

@@ -22,13 +22,10 @@
     "name:bos_x_preferred":[
         "Zdenci"
     ],
-    "name:dut_x_preferred":[
-        "Zdenci"
-    ],
     "name:eng_x_preferred":[
         "Zdenci"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zdenci"
     ],
     "name:hrv_x_preferred":[
@@ -37,7 +34,10 @@
     "name:ita_x_preferred":[
         "Zdenci"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Zdenci"
+    ],
+    "name:ron_x_preferred":[
         "Comuna Zdenci"
     ],
     "name:rus_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1125974589,
-    "wof:lastmodified":1514447742,
+    "wof:lastmodified":1561749620,
     "wof:name":"Zdenci Brodski",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

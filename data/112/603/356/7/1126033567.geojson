@@ -25,13 +25,10 @@
     "name:cat_x_preferred":[
         "Tisno"
     ],
-    "name:dut_x_preferred":[
-        "Tisno"
-    ],
     "name:eng_x_preferred":[
         "Tisno"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tisno"
     ],
     "name:hrv_x_preferred":[
@@ -43,7 +40,10 @@
     "name:ita_x_preferred":[
         "Stretto"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Tisno"
+    ],
+    "name:ron_x_preferred":[
         "Comuna Tisno"
     ],
     "name:rus_x_preferred":[
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":1126033567,
-    "wof:lastmodified":1553816715,
+    "wof:lastmodified":1561749615,
     "wof:name":"Tijesno",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

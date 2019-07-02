@@ -23,9 +23,6 @@
     "name:ceb_x_preferred":[
         "Voloder"
     ],
-    "name:dut_x_preferred":[
-        "Voloder"
-    ],
     "name:eng_x_preferred":[
         "Voloder"
     ],
@@ -39,6 +36,9 @@
         "Voloder"
     ],
     "name:hun_x_preferred":[
+        "Voloder"
+    ],
+    "name:nld_x_preferred":[
         "Voloder"
     ],
     "name:slv_x_preferred":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101844791,
-    "wof:lastmodified":1553815540,
+    "wof:lastmodified":1561749592,
     "wof:name":"Voloder",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

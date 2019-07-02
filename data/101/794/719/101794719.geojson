@@ -23,16 +23,10 @@
     "name:cat_x_preferred":[
         "Pla\u0161ki"
     ],
-    "name:dut_x_preferred":[
-        "Pla\u0161ki"
-    ],
     "name:eng_x_preferred":[
         "Pla\u0161ki"
     ],
     "name:fra_x_preferred":[
-        "Pla\u0161ki"
-    ],
-    "name:fre_x_preferred":[
         "Pla\u0161ki"
     ],
     "name:heb_x_preferred":[
@@ -60,9 +54,6 @@
         "Pla\u0161ki"
     ],
     "name:ron_x_preferred":[
-        "Comuna Pla\u0161ki"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Pla\u0161ki"
     ],
     "name:rus_x_preferred":[
@@ -127,7 +118,7 @@
         }
     ],
     "wof:id":101794719,
-    "wof:lastmodified":1527689323,
+    "wof:lastmodified":1561749603,
     "wof:name":"Pla\u0161ki",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

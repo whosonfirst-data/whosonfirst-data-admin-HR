@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Gare\u0161ni\u010dki Brestovac"
     ],
-    "name:dut_x_preferred":[
-        "Gare\u0161ni\u010dki Brestovac"
-    ],
     "name:eng_x_preferred":[
         "Gare\u0161ni\u010dki Brestovac"
     ],
@@ -77,7 +74,7 @@
         }
     ],
     "wof:id":101835419,
-    "wof:lastmodified":1527642777,
+    "wof:lastmodified":1561749597,
     "wof:name":"Gare\u0161ni\u010dki Brestovac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "\u010ciba\u010da"
     ],
-    "name:dut_x_preferred":[
-        "\u010ciba\u010da"
-    ],
     "name:eng_x_preferred":[
         "\u010ciba\u010da"
     ],
@@ -32,6 +29,9 @@
         "\u010ciba\u010da"
     ],
     "name:hun_x_preferred":[
+        "\u010ciba\u010da"
+    ],
+    "name:nld_x_preferred":[
         "\u010ciba\u010da"
     ],
     "name:slv_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1125871877,
-    "wof:lastmodified":1514447748,
+    "wof:lastmodified":1561749618,
     "wof:name":"\u010ciba\u010da",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

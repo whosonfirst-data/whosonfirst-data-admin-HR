@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000155,
-    "geom:area_square_m":1354896.185678,
+    "geom:area_square_m":1354896.185679,
     "geom:bbox":"17.8904871563,45.1793172175,17.9454531416,45.1973813974",
     "geom:latitude":45.186906,
     "geom:longitude":17.911931,
@@ -17,22 +17,13 @@
     "mps:longitude":17.906935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Sibinj"
-    ],
     "name:bos_x_preferred":[
-        "Sibinj"
-    ],
-    "name:dut_x_preferred":[
         "Sibinj"
     ],
     "name:eng_x_preferred":[
         "Sibinj"
     ],
     "name:fra_x_preferred":[
-        "Sibinj"
-    ],
-    "name:fre_x_preferred":[
         "Sibinj"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +42,6 @@
         "Sibinj"
     ],
     "name:ron_x_preferred":[
-        "Comuna Sibinj"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Sibinj"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689314,
+    "wof:lastmodified":1561749601,
     "wof:name":"Sibinj",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

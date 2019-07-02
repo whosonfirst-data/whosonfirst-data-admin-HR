@@ -24,20 +24,11 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Zhupania e Istr\u00ebs"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0625\u0633\u062a\u0631\u064a\u0627"
     ],
     "name:arg_x_preferred":[
         "Condato d'Istria"
-    ],
-    "name:arm_x_preferred":[
-        "\u053b\u057d\u057f\u0580\u056b\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Istria eskualdea"
     ],
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09cd\u09a4\u09cd\u09b0\u09bf\u09af\u09bc\u09be \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
@@ -51,20 +42,20 @@
     "name:cat_x_preferred":[
         "Comtat d'\u00cdstria"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u65af\u7279\u62c9\u7e23"
+    "name:ces_x_preferred":[
+        "Istrijsk\u00e1 \u017eupa"
     ],
     "name:cor_x_preferred":[
         "Konteth Istri"
     ],
-    "name:cze_x_preferred":[
-        "Istrijsk\u00e1 \u017eupa"
-    ],
     "name:dan_x_preferred":[
         "Istria County"
     ],
-    "name:dut_x_preferred":[
-        "Istri\u00eb"
+    "name:deu_x_preferred":[
+        "Gespanschaft Istrien"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03c3\u03c4\u03c1\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Istarska"
@@ -75,20 +66,17 @@
     "name:est_x_preferred":[
         "Istra maakond"
     ],
+    "name:eus_x_preferred":[
+        "Istria eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u062a\u0631\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Istrian piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Comitat d'Istrie"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10e1\u10e2\u10e0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Gespanschaft Istrien"
-    ],
-    "name:gre_x_preferred":[
-        "\u038a\u03c3\u03c4\u03c1\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0a87\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0abf\u0aaf\u0abe \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -102,6 +90,9 @@
     "name:hun_x_preferred":[
         "Isztria megye"
     ],
+    "name:hye_x_preferred":[
+        "\u053b\u057d\u057f\u0580\u056b\u0561"
+    ],
     "name:ind_x_preferred":[
         "Kabupaten Istria"
     ],
@@ -113,6 +104,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c87\u0cb8\u0ccd\u0c9f\u0ccd\u0cb0\u0cbf\u0caf\u0cbe \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e1\u10e2\u10e0\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uc774\uc2a4\ud2b8\ub77c \uc8fc"
@@ -126,14 +120,17 @@
     "name:lit_x_preferred":[
         "Istrijos apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0418\u0441\u0442\u0430\u0440\u0441\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0907\u0938\u094d\u0930\u0940\u092f\u093e \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0418\u0441\u0442\u0430\u0440\u0441\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Istria County"
+    ],
+    "name:nld_x_preferred":[
+        "Istri\u00eb"
     ],
     "name:nno_x_preferred":[
         "Fylket Istria"
@@ -144,9 +141,6 @@
     "name:oci_x_preferred":[
         "Comtat d'Istria"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0633\u062a\u0631\u06cc\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0627\u0633\u062a\u0631\u06cc\u0627"
     ],
@@ -156,7 +150,7 @@
     "name:por_x_preferred":[
         "Condado de \u00cdstria"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cantonul Istria"
     ],
     "name:rus_x_preferred":[
@@ -165,7 +159,7 @@
     "name:sin_x_preferred":[
         "\u0d89\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Istrijsk\u00e1 \u017eupa"
     ],
     "name:slv_x_preferred":[
@@ -176,6 +170,9 @@
     ],
     "name:spa_x_preferred":[
         "Istria"
+    ],
+    "name:sqi_x_preferred":[
+        "Zhupania e Istr\u00ebs"
     ],
     "name:srp_x_preferred":[
         "\u0418\u0441\u0442\u0430\u0440\u0441\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0438\u0458\u0430"
@@ -212,6 +209,9 @@
     ],
     "name:war_x_preferred":[
         "Istria"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u7279\u62c9\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"HRV",
@@ -331,7 +331,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1553550754,
+    "wof:lastmodified":1561749555,
     "wof:name":"Istarska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

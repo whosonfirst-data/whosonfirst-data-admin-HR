@@ -23,13 +23,10 @@
     "name:cat_x_preferred":[
         "Sunja"
     ],
-    "name:dut_x_preferred":[
-        "Sunja"
-    ],
     "name:eng_x_preferred":[
         "Sunja"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sunja"
     ],
     "name:hrv_x_preferred":[
@@ -41,7 +38,10 @@
     "name:ita_x_preferred":[
         "Sunja"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Sunja"
+    ],
+    "name:ron_x_preferred":[
         "Comuna Sunja"
     ],
     "name:rus_x_preferred":[
@@ -112,7 +112,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815507,
+    "wof:lastmodified":1561749598,
     "wof:name":"Sunja",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

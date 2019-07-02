@@ -22,13 +22,10 @@
     "name:bos_x_preferred":[
         "Tordinci"
     ],
-    "name:dut_x_preferred":[
-        "Tordinci"
-    ],
     "name:eng_x_preferred":[
         "Tordinci"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tordinci"
     ],
     "name:hrv_x_preferred":[
@@ -37,7 +34,10 @@
     "name:ita_x_preferred":[
         "Tordinci"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Tordinci"
+    ],
+    "name:ron_x_preferred":[
         "Comuna Tordinci"
     ],
     "name:slv_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1125947723,
-    "wof:lastmodified":1514447662,
+    "wof:lastmodified":1561749610,
     "wof:name":"Tordinci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

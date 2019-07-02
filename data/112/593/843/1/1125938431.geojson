@@ -21,19 +21,16 @@
     "name:bos_x_preferred":[
         "Trpanj"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Trpanj"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Trpanj"
     ],
     "name:eng_x_preferred":[
         "Trpanj"
     ],
-    "name:fre_x_preferred":[
-        "Trpanj"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Trpanj"
     ],
     "name:hrv_x_preferred":[
@@ -45,19 +42,19 @@
     "name:ita_x_preferred":[
         "Trappano"
     ],
+    "name:nld_x_preferred":[
+        "Trpanj"
+    ],
     "name:pol_x_preferred":[
         "Trpanj"
     ],
     "name:ron_x_preferred":[
         "Comuna Trpanj"
     ],
-    "name:rum_x_preferred":[
-        "Comuna Trpanj"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u043f\u0430\u043d\u044c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Trpanj"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +122,7 @@
         }
     ],
     "wof:id":1125938431,
-    "wof:lastmodified":1514447664,
+    "wof:lastmodified":1561749610,
     "wof:name":"Trpanj",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

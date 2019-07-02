@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000228,
-    "geom:area_square_m":1975467.251345,
+    "geom:area_square_m":1975467.251346,
     "geom:bbox":"16.1987739532,45.5691524571,16.2252144069,45.5938349193",
     "geom:latitude":45.585376,
     "geom:longitude":16.212816,
@@ -29,25 +29,13 @@
     "name:ces_x_preferred":[
         "Lekenik"
     ],
-    "name:cze_x_preferred":[
-        "Lekenik"
-    ],
     "name:deu_x_preferred":[
-        "Lekenik"
-    ],
-    "name:dut_x_preferred":[
         "Lekenik"
     ],
     "name:eng_x_preferred":[
         "Lekenik"
     ],
     "name:fra_x_preferred":[
-        "Lekenik"
-    ],
-    "name:fre_x_preferred":[
-        "Lekenik"
-    ],
-    "name:ger_x_preferred":[
         "Lekenik"
     ],
     "name:hbs_x_preferred":[
@@ -72,9 +60,6 @@
         "Lekenik"
     ],
     "name:ron_x_preferred":[
-        "Comuna Lekenik"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Lekenik"
     ],
     "name:rus_x_preferred":[
@@ -146,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689282,
+    "wof:lastmodified":1561749601,
     "wof:name":"Lekenik",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

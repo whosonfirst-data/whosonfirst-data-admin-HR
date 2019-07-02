@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":1187361.313784,
+    "geom:area_square_m":1187361.313785,
     "geom:bbox":"14.5606170798,45.2671694372,14.5764581363,45.2828989976",
     "geom:latitude":45.275326,
     "geom:longitude":14.569217,
@@ -17,25 +17,16 @@
     "mps:longitude":14.569337,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kraljevica"
-    ],
     "name:bos_x_preferred":[
         "Kraljevica"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0440\u0430\u043b\u0435\u0432\u0438\u0446\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u62c9\u5217\u7dad\u5bdf"
-    ],
     "name:ckb_x_preferred":[
         "\u06a9\u0631\u0627\u0644\u06ce\u06a4\u06cc\u062a\u0633\u0627"
     ],
     "name:deu_x_preferred":[
-        "Kraljevica"
-    ],
-    "name:dut_x_preferred":[
         "Kraljevica"
     ],
     "name:eng_x_preferred":[
@@ -49,12 +40,6 @@
         "\u06a9\u0631\u0627\u0644\u06cc\u0648\u06cc\u062a\u0633\u0627"
     ],
     "name:fra_x_preferred":[
-        "Kraljevica"
-    ],
-    "name:fre_x_preferred":[
-        "Kraljevica"
-    ],
-    "name:ger_x_preferred":[
         "Kraljevica"
     ],
     "name:hbs_x_preferred":[
@@ -75,16 +60,10 @@
     "name:nld_x_preferred":[
         "Kraljevica"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u0627\u0644\u06cc\u0648\u06cc\u062a\u0633\u0627"
-    ],
     "name:pol_x_preferred":[
         "Kraljevica"
     ],
     "name:ron_x_preferred":[
-        "Kraljevica"
-    ],
-    "name:rum_x_preferred":[
         "Kraljevica"
     ],
     "name:rus_x_preferred":[
@@ -173,7 +152,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689318,
+    "wof:lastmodified":1561749602,
     "wof:name":"Kraljevica",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

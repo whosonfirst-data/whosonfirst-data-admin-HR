@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Kupine\u010dki Kraljevec"
     ],
-    "name:dut_x_preferred":[
-        "Kupine\u010dki Kraljevec"
-    ],
     "name:eng_x_preferred":[
         "Kupine\u010dki Kraljevec"
     ],
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":101857841,
-    "wof:lastmodified":1544744106,
+    "wof:lastmodified":1561749594,
     "wof:name":"Kupine\u010dki Kraljevec",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

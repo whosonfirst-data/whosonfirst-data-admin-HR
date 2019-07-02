@@ -25,7 +25,7 @@
     "name:bos_x_preferred":[
         "Omi\u0161alj"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Omi\u0161alj"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +34,7 @@
     "name:epo_x_preferred":[
         "Omi\u0161alj"
     ],
-    "name:fre_x_preferred":[
-        "Omi\u0161alj"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Omi\u0161alj"
     ],
     "name:hrv_x_preferred":[
@@ -52,10 +49,13 @@
     "name:lat_x_preferred":[
         "Castri Musculi"
     ],
+    "name:nld_x_preferred":[
+        "Omi\u0161alj"
+    ],
     "name:pol_x_preferred":[
         "Omi\u0161alj"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Omi\u0161alj"
     ],
     "name:rus_x_preferred":[
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1125890051,
-    "wof:lastmodified":1514447551,
+    "wof:lastmodified":1561749617,
     "wof:name":"Omi\u00b5alj",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

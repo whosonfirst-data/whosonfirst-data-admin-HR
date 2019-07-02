@@ -17,34 +17,19 @@
     "mps:longitude":15.287683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Bibinje"
-    ],
     "name:bos_x_preferred":[
         "Bibinje"
     ],
     "name:ces_x_preferred":[
         "Bibinje"
     ],
-    "name:cze_x_preferred":[
-        "Bibinje"
-    ],
     "name:deu_x_preferred":[
-        "Bibinje"
-    ],
-    "name:dut_x_preferred":[
         "Bibinje"
     ],
     "name:eng_x_preferred":[
         "Bibinje"
     ],
     "name:fra_x_preferred":[
-        "Bibinje"
-    ],
-    "name:fre_x_preferred":[
-        "Bibinje"
-    ],
-    "name:ger_x_preferred":[
         "Bibinje"
     ],
     "name:hbs_x_preferred":[
@@ -69,9 +54,6 @@
         "Bibinje"
     ],
     "name:ron_x_preferred":[
-        "Comuna Bibinje"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Bibinje"
     ],
     "name:slv_x_preferred":[
@@ -138,7 +120,7 @@
         }
     ],
     "wof:id":101754497,
-    "wof:lastmodified":1527641856,
+    "wof:lastmodified":1561749587,
     "wof:name":"Bibinje",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

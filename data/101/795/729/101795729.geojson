@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
-    "geom:area_square_m":808503.706743,
+    "geom:area_square_m":808503.706744,
     "geom:bbox":"16.7204132644,43.6795491434,16.742428023,43.6927786001",
     "geom:latitude":43.685599,
     "geom:longitude":16.732704,
@@ -23,22 +23,16 @@
     "name:cat_x_preferred":[
         "Otok"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Otok Dalmatinski"
     ],
     "name:deu_x_preferred":[
-        "Otok"
-    ],
-    "name:dut_x_preferred":[
         "Otok"
     ],
     "name:eng_x_preferred":[
         "Isola"
     ],
     "name:fra_x_preferred":[
-        "Otok"
-    ],
-    "name:fre_x_preferred":[
         "Otok"
     ],
     "name:hbs_x_preferred":[
@@ -65,7 +59,7 @@
     "name:ron_x_preferred":[
         "Otok"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Comuna Otok"
     ],
     "name:rus_x_preferred":[
@@ -139,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714613,
+    "wof:lastmodified":1561749605,
     "wof:name":"Otok",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

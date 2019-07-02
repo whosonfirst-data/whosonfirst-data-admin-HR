@@ -25,19 +25,13 @@
     "name:cat_x_preferred":[
         "Bale"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u5c14"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bale"
     ],
     "name:eng_x_preferred":[
         "Bale"
     ],
-    "name:fre_x_preferred":[
-        "Bale"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bale"
     ],
     "name:glg_x_preferred":[
@@ -55,16 +49,19 @@
     "name:lat_x_preferred":[
         "Castrum Vallis"
     ],
+    "name:nld_x_preferred":[
+        "Bale"
+    ],
     "name:pol_x_preferred":[
         "Bale - Valle"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Bale"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bale"
     ],
     "name:slv_x_preferred":[
@@ -84,6 +81,9 @@
     ],
     "name:war_x_preferred":[
         "Bale"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":1125853577,
-    "wof:lastmodified":1553816573,
+    "wof:lastmodified":1561749623,
     "wof:name":"Bale",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

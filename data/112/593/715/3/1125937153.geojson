@@ -22,16 +22,16 @@
     "name:bos_x_preferred":[
         "Badljevina"
     ],
-    "name:dut_x_preferred":[
-        "Badljevina"
-    ],
     "name:eng_x_preferred":[
         "Badljevina"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Badljevina"
     ],
     "name:hrv_x_preferred":[
+        "Badljevina"
+    ],
+    "name:nld_x_preferred":[
         "Badljevina"
     ],
     "name:slv_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125937153,
-    "wof:lastmodified":1514447382,
+    "wof:lastmodified":1561749610,
     "wof:name":"Badljevina",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000183,
-    "geom:area_square_m":1606566.441236,
+    "geom:area_square_m":1606566.441234,
     "geom:bbox":"18.8955693269,44.9051244631,18.922575221,44.9291593919",
     "geom:latitude":44.91902,
     "geom:longitude":18.910501,
@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Drenovci"
     ],
-    "name:dut_x_preferred":[
-        "Drenovci"
-    ],
     "name:eng_x_preferred":[
         "Drenovci"
     ],
     "name:fra_x_preferred":[
-        "Drenovci"
-    ],
-    "name:fre_x_preferred":[
         "Drenovci"
     ],
     "name:hbs_x_preferred":[
@@ -45,9 +39,6 @@
         "Drenovci"
     ],
     "name:ron_x_preferred":[
-        "Comuna Drenovci"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Drenovci"
     ],
     "name:slv_x_preferred":[
@@ -107,7 +98,7 @@
         }
     ],
     "wof:id":101794705,
-    "wof:lastmodified":1527689319,
+    "wof:lastmodified":1561749602,
     "wof:name":"Drenovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

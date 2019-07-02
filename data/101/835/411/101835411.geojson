@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
-    "geom:area_square_m":1254062.395861,
+    "geom:area_square_m":1254062.395862,
     "geom:bbox":"16.86007842,45.874543738,16.8842773975,45.8951630533",
     "geom:latitude":45.885106,
     "geom:longitude":16.869557,
@@ -18,9 +18,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:bos_x_preferred":[
-        "\u017ddralovi"
-    ],
-    "name:dut_x_preferred":[
         "\u017ddralovi"
     ],
     "name:eng_x_preferred":[
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":101835411,
-    "wof:lastmodified":1527642777,
+    "wof:lastmodified":1561749597,
     "wof:name":"\u017ddralovi",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Vrati\u0161inec"
     ],
-    "name:dut_x_preferred":[
-        "Vrati\u0161inec"
-    ],
     "name:eng_x_preferred":[
         "Vrati\u0161inec"
     ],
@@ -30,9 +27,6 @@
         "Vrati\u0161inec"
     ],
     "name:fra_x_preferred":[
-        "Vrati\u0161inec"
-    ],
-    "name:fre_x_preferred":[
         "Vrati\u0161inec"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +45,6 @@
         "Vrati\u0161inec"
     ],
     "name:ron_x_preferred":[
-        "Comuna Vrati\u0161inec"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Vrati\u0161inec"
     ],
     "name:slv_x_preferred":[
@@ -112,7 +103,7 @@
         }
     ],
     "wof:id":101790175,
-    "wof:lastmodified":1527641599,
+    "wof:lastmodified":1561749587,
     "wof:name":"Vrati\u0161inec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

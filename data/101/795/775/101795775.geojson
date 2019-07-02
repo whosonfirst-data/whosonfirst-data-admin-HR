@@ -23,16 +23,10 @@
     "name:deu_x_preferred":[
         "Vrsi"
     ],
-    "name:dut_x_preferred":[
-        "Vrsi"
-    ],
     "name:eng_x_preferred":[
         "Vrsi"
     ],
-    "name:fre_x_preferred":[
-        "Vrsi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vrsi"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +45,6 @@
         "Vrsi"
     ],
     "name:ron_x_preferred":[
-        "Comuna Vrsi"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Vrsi"
     ],
     "name:slv_x_preferred":[
@@ -115,7 +106,7 @@
         }
     ],
     "wof:id":101795775,
-    "wof:lastmodified":1527714612,
+    "wof:lastmodified":1561749605,
     "wof:name":"Vrsi",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

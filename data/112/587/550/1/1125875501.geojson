@@ -22,13 +22,13 @@
     "name:bos_x_preferred":[
         "Beravci"
     ],
-    "name:dut_x_preferred":[
-        "Beravci"
-    ],
     "name:eng_x_preferred":[
         "Beravci"
     ],
     "name:hrv_x_preferred":[
+        "Beravci"
+    ],
+    "name:nld_x_preferred":[
         "Beravci"
     ],
     "name:slv_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1125875501,
-    "wof:lastmodified":1514447387,
+    "wof:lastmodified":1561749618,
     "wof:name":"Beravci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

@@ -22,13 +22,13 @@
     "name:bos_x_preferred":[
         "Mala Barna"
     ],
-    "name:dut_x_preferred":[
-        "Mala Barna"
-    ],
     "name:eng_x_preferred":[
         "Mala Barna"
     ],
     "name:hrv_x_preferred":[
+        "Mala Barna"
+    ],
+    "name:nld_x_preferred":[
         "Mala Barna"
     ],
     "name:slv_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1125882745,
-    "wof:lastmodified":1514447527,
+    "wof:lastmodified":1561749616,
     "wof:name":"Mala Barna",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

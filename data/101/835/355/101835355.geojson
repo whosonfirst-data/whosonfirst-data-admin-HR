@@ -17,28 +17,16 @@
     "mps:longitude":17.49756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Suhopolje"
-    ],
     "name:bos_x_preferred":[
         "Suhopolje"
     ],
     "name:deu_x_preferred":[
         "Suhopolje"
     ],
-    "name:dut_x_preferred":[
-        "Suhopolje"
-    ],
     "name:eng_x_preferred":[
         "Suhopolje"
     ],
     "name:fra_x_preferred":[
-        "Suhopolje"
-    ],
-    "name:fre_x_preferred":[
-        "Suhopolje"
-    ],
-    "name:ger_x_preferred":[
         "Suhopolje"
     ],
     "name:hbs_x_preferred":[
@@ -57,9 +45,6 @@
         "Suhopolje"
     ],
     "name:ron_x_preferred":[
-        "Comuna Suhopolje"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Suhopolje"
     ],
     "name:rus_x_preferred":[
@@ -130,7 +115,7 @@
         }
     ],
     "wof:id":101835355,
-    "wof:lastmodified":1527642773,
+    "wof:lastmodified":1561749595,
     "wof:name":"Suhopolje",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

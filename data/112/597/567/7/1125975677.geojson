@@ -22,13 +22,13 @@
     "name:bos_x_preferred":[
         "Bartolovci"
     ],
-    "name:dut_x_preferred":[
-        "Bartolovci"
-    ],
     "name:eng_x_preferred":[
         "Bartolovci"
     ],
     "name:hrv_x_preferred":[
+        "Bartolovci"
+    ],
+    "name:nld_x_preferred":[
         "Bartolovci"
     ],
     "name:slv_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125975677,
-    "wof:lastmodified":1514447383,
+    "wof:lastmodified":1561749619,
     "wof:name":"Bartolovci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

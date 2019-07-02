@@ -21,16 +21,13 @@
     "name:bos_x_preferred":[
         "Sveti Petar u \u0160umi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sveti Petar u \u0160umi"
     ],
     "name:eng_x_preferred":[
         "Sveti Petar u \u0160umi"
     ],
-    "name:fre_x_preferred":[
-        "Sveti Petar u \u0160umi"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sveti Petar u \u0160umi"
     ],
     "name:hrv_x_preferred":[
@@ -45,10 +42,13 @@
     "name:lat_x_preferred":[
         "Fanum Sancti Petri in Silvis"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
+    "name:ron_x_preferred":[
         "Comuna Sveti Petar u \u0160umi"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sveti Petar u \u0160umi"
     ],
     "name:slv_x_preferred":[
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1125913371,
-    "wof:lastmodified":1514447660,
+    "wof:lastmodified":1561749620,
     "wof:name":"Sveti Petar U \u00c5 Umi",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Gudovac"
     ],
-    "name:dut_x_preferred":[
-        "Gudovac"
-    ],
     "name:eng_x_preferred":[
         "Gudovac"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":101835415,
-    "wof:lastmodified":1527642774,
+    "wof:lastmodified":1561749596,
     "wof:name":"Gudovac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

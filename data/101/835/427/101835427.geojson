@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000212,
-    "geom:area_square_m":1820989.100201,
+    "geom:area_square_m":1820989.1002,
     "geom:bbox":"15.9140363,45.9643504457,15.9444885072,46.0012109966",
     "geom:latitude":45.979297,
     "geom:longitude":15.927559,
@@ -17,20 +17,14 @@
     "mps:longitude":15.923635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u057f\u0578\u0582\u0562\u056b\u0579\u056f\u0565 \u054f\u0578\u057a\u056c\u056b\u0581\u0565"
-    ],
     "name:bos_x_preferred":[
         "Stubi\u010dke Toplice"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Stubi\u010dke Toplice"
     ],
     "name:deu_x_preferred":[
         "Stubi\u010dke toplice"
-    ],
-    "name:dut_x_preferred":[
-        "Stubi\u010dke Toplice"
     ],
     "name:eng_x_preferred":[
         "Stubi\u010dke Toplice"
@@ -41,17 +35,14 @@
     "name:fra_x_preferred":[
         "Stubi\u010dke Toplice"
     ],
-    "name:fre_x_preferred":[
-        "Stubi\u010dke Toplice"
-    ],
-    "name:ger_x_preferred":[
-        "Stubi\u010dke toplice"
-    ],
     "name:hrv_x_preferred":[
         "Stubi\u010dke Toplice"
     ],
     "name:hun_x_preferred":[
         "Stubi\u010dke Toplice"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057f\u0578\u0582\u0562\u056b\u0579\u056f\u0565 \u054f\u0578\u057a\u056c\u056b\u0581\u0565"
     ],
     "name:ita_x_preferred":[
         "Stubi\u010dke Toplice"
@@ -62,7 +53,7 @@
     "name:pol_x_preferred":[
         "Stubi\u010dke Toplice"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Stubi\u010dke Toplice"
     ],
     "name:rus_x_preferred":[
@@ -124,7 +115,7 @@
         }
     ],
     "wof:id":101835427,
-    "wof:lastmodified":1527642778,
+    "wof:lastmodified":1561749597,
     "wof:name":"Stubi\u010dke Toplice",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

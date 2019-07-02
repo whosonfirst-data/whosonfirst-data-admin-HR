@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Ku\u010de"
     ],
-    "name:dut_x_preferred":[
-        "Ku\u010de"
-    ],
     "name:eng_x_preferred":[
         "Ku\u010de"
     ],
@@ -33,6 +30,9 @@
         "Ku\u010de"
     ],
     "name:hun_x_preferred":[
+        "Ku\u010de"
+    ],
+    "name:nld_x_preferred":[
         "Ku\u010de"
     ],
     "name:slv_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101793553,
-    "wof:lastmodified":1527689279,
+    "wof:lastmodified":1561749600,
     "wof:name":"Ku\u010de",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

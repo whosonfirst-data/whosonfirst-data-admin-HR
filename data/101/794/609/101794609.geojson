@@ -23,25 +23,13 @@
     "name:ces_x_preferred":[
         "Rabac"
     ],
-    "name:cze_x_preferred":[
-        "Rabac"
-    ],
     "name:deu_x_preferred":[
-        "Rabac"
-    ],
-    "name:dut_x_preferred":[
         "Rabac"
     ],
     "name:eng_x_preferred":[
         "Rabac"
     ],
     "name:fra_x_preferred":[
-        "Rabac"
-    ],
-    "name:fre_x_preferred":[
-        "Rabac"
-    ],
-    "name:ger_x_preferred":[
         "Rabac"
     ],
     "name:hbs_x_preferred":[
@@ -127,7 +115,7 @@
         }
     ],
     "wof:id":101794609,
-    "wof:lastmodified":1527689323,
+    "wof:lastmodified":1561749603,
     "wof:name":"Rabac",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

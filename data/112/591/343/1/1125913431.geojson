@@ -22,10 +22,10 @@
     "name:bos_x_preferred":[
         "Vinjerac"
     ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Vinjerac"
     ],
-    "name:ger_x_preferred":[
+    "name:eng_x_preferred":[
         "Vinjerac"
     ],
     "name:hrv_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125913431,
-    "wof:lastmodified":1514447679,
+    "wof:lastmodified":1561749621,
     "wof:name":"Vinjerac",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

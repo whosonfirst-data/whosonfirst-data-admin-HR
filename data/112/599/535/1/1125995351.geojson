@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Lozovac"
     ],
-    "name:dut_x_preferred":[
-        "Lozovac"
-    ],
     "name:eng_x_preferred":[
         "Lozovac"
     ],
@@ -32,6 +29,9 @@
         "Lozovac"
     ],
     "name:hun_x_preferred":[
+        "Lozovac"
+    ],
+    "name:nld_x_preferred":[
         "Lozovac"
     ],
     "name:slv_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125995351,
-    "wof:lastmodified":1514447523,
+    "wof:lastmodified":1561749618,
     "wof:name":"Lozovac",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

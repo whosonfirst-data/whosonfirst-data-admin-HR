@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000656,
-    "geom:area_square_m":5885461.54784,
+    "geom:area_square_m":5885461.547841,
     "geom:bbox":"16.471779,43.4981882833,16.532161698,43.5230445",
     "geom:latitude":43.508699,
     "geom:longitude":16.500285,
@@ -17,25 +17,16 @@
     "mps:longitude":16.498227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Stobre\u010d"
-    ],
     "name:bos_x_preferred":[
         "Stobre\u010d"
     ],
     "name:deu_x_preferred":[
         "Stobre\u010d"
     ],
-    "name:dut_x_preferred":[
-        "Stobre\u010d"
-    ],
     "name:eng_x_preferred":[
         "Stobre\u010d"
     ],
-    "name:fre_x_preferred":[
-        "Stobre\u010d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Stobre\u010d"
     ],
     "name:hbs_x_preferred":[
@@ -115,7 +106,7 @@
         }
     ],
     "wof:id":101754493,
-    "wof:lastmodified":1527641866,
+    "wof:lastmodified":1561749588,
     "wof:name":"Stobre\u010d",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

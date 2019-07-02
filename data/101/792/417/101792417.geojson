@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "\u010ceminac"
     ],
-    "name:dut_x_preferred":[
-        "\u010ceminac"
-    ],
     "name:eng_x_preferred":[
         "\u010ceminac"
     ],
@@ -30,9 +27,6 @@
         "\u010ceminac"
     ],
     "name:fra_x_preferred":[
-        "\u010ceminac"
-    ],
-    "name:fre_x_preferred":[
         "\u010ceminac"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +48,6 @@
         "\u010ceminac"
     ],
     "name:ron_x_preferred":[
-        "Comuna \u010ceminac"
-    ],
-    "name:rum_x_preferred":[
         "Comuna \u010ceminac"
     ],
     "name:spa_x_preferred":[
@@ -125,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1535390514,
+    "wof:lastmodified":1561749607,
     "wof:name":"\u010ceminac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

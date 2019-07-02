@@ -21,13 +21,10 @@
     "name:bos_x_preferred":[
         "Doli"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Doli"
     ],
     "name:eng_x_preferred":[
-        "Doli"
-    ],
-    "name:ger_x_preferred":[
         "Doli"
     ],
     "name:hrv_x_preferred":[
@@ -36,7 +33,10 @@
     "name:hun_x_preferred":[
         "Doli"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Doli"
+    ],
+    "name:slk_x_preferred":[
         "Doli"
     ],
     "name:slv_x_preferred":[
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125768471,
-    "wof:lastmodified":1514447744,
+    "wof:lastmodified":1561749623,
     "wof:name":"\u00d0onta Doli",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

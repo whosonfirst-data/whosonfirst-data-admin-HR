@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
-    "geom:area_square_m":2332497.089373,
+    "geom:area_square_m":2332497.089372,
     "geom:bbox":"16.4085405958,43.543658374,16.4381341613,43.5603070472",
     "geom:latitude":43.55036,
     "geom:longitude":16.423589,
@@ -16,25 +16,19 @@
     "mps:longitude":16.423589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Ka\u0161tel Su\u0107urac"
-    ],
     "name:bos_x_preferred":[
         "Ka\u0161tel Su\u0107urac"
     ],
     "name:cat_x_preferred":[
         "Ka\u0161tel Su\u0107urac"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ka\u0161tel Su\u0107urac"
     ],
     "name:eng_x_preferred":[
         "Ka\u0161tel Su\u0107urac"
     ],
-    "name:fre_x_preferred":[
-        "Ka\u0161tel Su\u0107urac"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ka\u0161tel Su\u0107urac"
     ],
     "name:hbs_x_preferred":[
@@ -48,6 +42,9 @@
     ],
     "name:ita_x_preferred":[
         "Castel San Giorgio"
+    ],
+    "name:nld_x_preferred":[
+        "Ka\u0161tel Su\u0107urac"
     ],
     "name:por_x_preferred":[
         "Ka\u0161tel Su\u0107urac"
@@ -116,7 +113,7 @@
         }
     ],
     "wof:id":101758569,
-    "wof:lastmodified":1527689301,
+    "wof:lastmodified":1561749601,
     "wof:name":"Ka\u0161tel Su\u0107urac",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

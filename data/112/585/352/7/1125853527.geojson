@@ -22,19 +22,19 @@
     "name:bos_x_preferred":[
         "\u0160mrika"
     ],
-    "name:dut_x_preferred":[
-        "\u0160mrika"
-    ],
     "name:eng_x_preferred":[
         "\u0160mrika"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u0160mrika"
     ],
     "name:hrv_x_preferred":[
         "\u0160mrika"
     ],
     "name:hun_x_preferred":[
+        "\u0160mrika"
+    ],
+    "name:nld_x_preferred":[
         "\u0160mrika"
     ],
     "name:slv_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1125853527,
-    "wof:lastmodified":1514447761,
+    "wof:lastmodified":1561749623,
     "wof:name":"\u0160mrika",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

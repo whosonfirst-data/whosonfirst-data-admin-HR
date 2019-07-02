@@ -22,16 +22,10 @@
     "name:bos_x_preferred":[
         "Vi\u0161kovo"
     ],
-    "name:dut_x_preferred":[
-        "Vi\u0161kovo"
-    ],
     "name:eng_x_preferred":[
         "Vi\u0161kovo"
     ],
     "name:fra_x_preferred":[
-        "Vi\u0161kovo"
-    ],
-    "name:fre_x_preferred":[
         "Vi\u0161kovo"
     ],
     "name:hbs_x_preferred":[
@@ -50,9 +44,6 @@
         "Vi\u0161kovo"
     ],
     "name:ron_x_preferred":[
-        "Comuna Vi\u0161kovo"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Vi\u0161kovo"
     ],
     "name:rus_x_preferred":[
@@ -107,7 +98,7 @@
         }
     ],
     "wof:id":101758583,
-    "wof:lastmodified":1527689314,
+    "wof:lastmodified":1561749601,
     "wof:name":"Vi\u0161kovo",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

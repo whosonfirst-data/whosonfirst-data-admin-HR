@@ -22,13 +22,10 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0430\u043b\u0438\u044f"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u7d0d\u7dad\u723e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Konavle"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Konavle"
     ],
     "name:eng_x_preferred":[
@@ -37,10 +34,7 @@
     "name:fin_x_preferred":[
         "Konavle"
     ],
-    "name:fre_x_preferred":[
-        "Konavle"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Konavle"
     ],
     "name:hrv_x_preferred":[
@@ -55,13 +49,16 @@
     "name:jpn_x_preferred":[
         "\u30b3\u30ca\u30f4\u30ec"
     ],
+    "name:nld_x_preferred":[
+        "Konavle"
+    ],
     "name:nob_x_preferred":[
         "Konavle"
     ],
     "name:pol_x_preferred":[
         "Konavle"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Konavle"
     ],
     "name:rus_x_preferred":[
@@ -81,6 +78,9 @@
     ],
     "name:war_x_preferred":[
         "Konavle"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u7d0d\u7dad\u723e"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Dubrovacko-neretvanska \u017eupanija",
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":101912585,
-    "wof:lastmodified":1553815582,
+    "wof:lastmodified":1561749598,
     "wof:name":"Konavle",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

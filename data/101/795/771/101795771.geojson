@@ -23,16 +23,7 @@
     "name:ces_x_preferred":[
         "Privlaka"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u91cc\u592b\u62c9\u5361"
-    ],
-    "name:cze_x_preferred":[
-        "Privlaka"
-    ],
     "name:deu_x_preferred":[
-        "Privlaka"
-    ],
-    "name:dut_x_preferred":[
         "Privlaka"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Privlaka"
     ],
     "name:fra_x_preferred":[
-        "Privlaka"
-    ],
-    "name:fre_x_preferred":[
-        "Privlaka"
-    ],
-    "name:ger_x_preferred":[
         "Privlaka"
     ],
     "name:hrv_x_preferred":[
@@ -71,7 +56,7 @@
     "name:ron_x_preferred":[
         "Privlaka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Comuna Privlaka"
     ],
     "name:slv_x_preferred":[
@@ -88,6 +73,9 @@
     ],
     "name:war_x_preferred":[
         "Privlaka"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u91cc\u592b\u62c9\u5361"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Zadarska \u017eupanija",
@@ -131,7 +119,7 @@
         }
     ],
     "wof:id":101795771,
-    "wof:lastmodified":1553815509,
+    "wof:lastmodified":1561749604,
     "wof:name":"Privlaka",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

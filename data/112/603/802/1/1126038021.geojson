@@ -22,13 +22,10 @@
     "name:bos_x_preferred":[
         "Gola"
     ],
-    "name:dut_x_preferred":[
-        "Gola"
-    ],
     "name:eng_x_preferred":[
         "Gola"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gola"
     ],
     "name:hrv_x_preferred":[
@@ -40,7 +37,10 @@
     "name:ita_x_preferred":[
         "Gola"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Gola"
+    ],
+    "name:ron_x_preferred":[
         "Comuna Gola"
     ],
     "name:rus_x_preferred":[
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1126038021,
-    "wof:lastmodified":1553816718,
+    "wof:lastmodified":1561749615,
     "wof:name":"Gola",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

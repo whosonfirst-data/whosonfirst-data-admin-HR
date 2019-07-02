@@ -22,16 +22,13 @@
     "name:bos_x_preferred":[
         "Brtonigla"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Brtonigla"
     ],
     "name:eng_x_preferred":[
         "Brtonigla"
     ],
-    "name:fre_x_preferred":[
-        "Brtonigla"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Brtonigla"
     ],
     "name:hrv_x_preferred":[
@@ -46,16 +43,19 @@
     "name:lat_x_preferred":[
         "Vertex Niger"
     ],
+    "name:nld_x_preferred":[
+        "Brtonigla"
+    ],
     "name:pol_x_preferred":[
         "Brtonigla"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Brtonigla"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u0442\u043e\u043d\u0438\u0433\u043b\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Brtonigla"
     ],
     "name:slv_x_preferred":[
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1125878783,
-    "wof:lastmodified":1553816594,
+    "wof:lastmodified":1561749618,
     "wof:name":"Brtonigla",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

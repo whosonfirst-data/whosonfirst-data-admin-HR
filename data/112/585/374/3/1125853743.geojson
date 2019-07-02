@@ -22,13 +22,10 @@
     "name:bos_x_preferred":[
         "Vo\u0111inci"
     ],
-    "name:dut_x_preferred":[
-        "Vo\u0111inci"
-    ],
     "name:eng_x_preferred":[
         "Vo\u0111inci"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vo\u0111inci"
     ],
     "name:hrv_x_preferred":[
@@ -37,7 +34,10 @@
     "name:ita_x_preferred":[
         "Vo\u0111inci"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Vo\u0111inci"
+    ],
+    "name:ron_x_preferred":[
         "Comuna Vo\u0111inci"
     ],
     "name:spa_x_preferred":[
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1125853743,
-    "wof:lastmodified":1514447689,
+    "wof:lastmodified":1561749624,
     "wof:name":"Vo\u00f0inci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

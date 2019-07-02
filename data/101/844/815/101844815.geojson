@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Ivanovec"
     ],
-    "name:dut_x_preferred":[
-        "Ivanovec"
-    ],
     "name:eng_x_preferred":[
         "Ivanovec"
     ],
@@ -97,7 +94,7 @@
         }
     ],
     "wof:id":101844815,
-    "wof:lastmodified":1527642628,
+    "wof:lastmodified":1561749593,
     "wof:name":"Ivanovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

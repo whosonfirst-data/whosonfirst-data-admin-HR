@@ -23,19 +23,10 @@
     "name:deu_x_preferred":[
         "Galovac"
     ],
-    "name:dut_x_preferred":[
-        "Galovac"
-    ],
     "name:eng_x_preferred":[
         "Galovac"
     ],
     "name:fra_x_preferred":[
-        "Galovac"
-    ],
-    "name:fre_x_preferred":[
-        "Galovac"
-    ],
-    "name:ger_x_preferred":[
         "Galovac"
     ],
     "name:hbs_x_preferred":[
@@ -57,9 +48,6 @@
         "Galovac"
     ],
     "name:ron_x_preferred":[
-        "Comuna Galovac"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Galovac"
     ],
     "name:spa_x_preferred":[
@@ -119,7 +107,7 @@
         }
     ],
     "wof:id":101844759,
-    "wof:lastmodified":1527642627,
+    "wof:lastmodified":1561749593,
     "wof:name":"Galovac",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

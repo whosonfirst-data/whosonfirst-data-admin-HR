@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
-    "geom:area_square_m":998175.82004,
+    "geom:area_square_m":998175.820042,
     "geom:bbox":"15.9172188072,43.5820486067,15.9352431601,43.5943786346",
     "geom:latitude":43.588334,
     "geom:longitude":15.926537,
@@ -26,13 +26,7 @@
     "name:ces_x_preferred":[
         "Primo\u0161ten"
     ],
-    "name:cze_x_preferred":[
-        "Primo\u0161ten"
-    ],
     "name:deu_x_preferred":[
-        "Primo\u0161ten"
-    ],
-    "name:dut_x_preferred":[
         "Primo\u0161ten"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +36,6 @@
         "Primo\u0161ten"
     ],
     "name:fra_x_preferred":[
-        "Primo\u0161ten"
-    ],
-    "name:fre_x_preferred":[
-        "Primo\u0161ten"
-    ],
-    "name:ger_x_preferred":[
         "Primo\u0161ten"
     ],
     "name:hrv_x_preferred":[
@@ -65,10 +53,13 @@
     "name:lat_x_preferred":[
         "Caput Cistae"
     ],
+    "name:nld_x_preferred":[
+        "Primo\u0161ten"
+    ],
     "name:pol_x_preferred":[
         "Primo\u0161ten"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Primo\u0161ten"
     ],
     "name:rus_x_preferred":[
@@ -136,7 +127,7 @@
         }
     ],
     "wof:id":101796909,
-    "wof:lastmodified":1527642027,
+    "wof:lastmodified":1561749590,
     "wof:name":"Primo\u0161ten",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

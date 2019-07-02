@@ -28,16 +28,16 @@
     "name:cha_x_preferred":[
         "Erdut"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
+        "Erdut"
+    ],
+    "name:deu_x_preferred":[
         "Erdut"
     ],
     "name:eng_x_preferred":[
         "Erdut"
     ],
-    "name:fre_x_preferred":[
-        "Erdut"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Erdut"
     ],
     "name:hrv_x_preferred":[
@@ -49,10 +49,13 @@
     "name:ita_x_preferred":[
         "Erdut"
     ],
+    "name:nld_x_preferred":[
+        "Erdut"
+    ],
     "name:pol_x_preferred":[
         "Erdut"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Erdut"
     ],
     "name:rus_x_preferred":[
@@ -77,9 +80,6 @@
         "Erd\u0151d"
     ],
     "name:war_x_preferred":[
-        "Erdut"
-    ],
-    "name:wel_x_preferred":[
         "Erdut"
     ],
     "qs_pg:aaroncc":"HR",
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":1125936893,
-    "wof:lastmodified":1514447436,
+    "wof:lastmodified":1561749610,
     "wof:name":"Erdut",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

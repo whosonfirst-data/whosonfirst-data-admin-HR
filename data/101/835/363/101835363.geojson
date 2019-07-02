@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000264,
-    "geom:area_square_m":2278537.694244,
+    "geom:area_square_m":2278537.694245,
     "geom:bbox":"16.522110521,45.6116357422,16.559573742,45.6619682036",
     "geom:latitude":45.64166,
     "geom:longitude":16.53467,
@@ -18,9 +18,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:bos_x_preferred":[
-        "Novoselec"
-    ],
-    "name:dut_x_preferred":[
         "Novoselec"
     ],
     "name:eng_x_preferred":[
@@ -98,7 +95,7 @@
         }
     ],
     "wof:id":101835363,
-    "wof:lastmodified":1527642773,
+    "wof:lastmodified":1561749595,
     "wof:name":"Novoselec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

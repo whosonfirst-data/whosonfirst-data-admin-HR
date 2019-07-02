@@ -25,19 +25,16 @@
     "name:cat_x_preferred":[
         "Sumartin"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sumartin"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sumartin"
     ],
     "name:eng_x_preferred":[
         "Sumartin"
     ],
-    "name:fre_x_preferred":[
-        "Sumartin"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sumartin"
     ],
     "name:hrv_x_preferred":[
@@ -49,13 +46,16 @@
     "name:ita_x_preferred":[
         "Sumartin"
     ],
+    "name:nld_x_preferred":[
+        "Sumartin"
+    ],
     "name:oci_x_preferred":[
         "Sumartin"
     ],
     "name:pol_x_preferred":[
         "Sumartin"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sumartin"
     ],
     "name:slv_x_preferred":[
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1125994567,
-    "wof:lastmodified":1514447657,
+    "wof:lastmodified":1561749619,
     "wof:name":"Sumartin",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

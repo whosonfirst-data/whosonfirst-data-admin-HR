@@ -21,9 +21,6 @@
     "name:bos_x_preferred":[
         "Stara Novalja"
     ],
-    "name:dut_x_preferred":[
-        "Stara Novalja"
-    ],
     "name:eng_x_preferred":[
         "Stara Novalja"
     ],
@@ -31,6 +28,9 @@
         "Stara Novalja"
     ],
     "name:hun_x_preferred":[
+        "Stara Novalja"
+    ],
+    "name:nld_x_preferred":[
         "Stara Novalja"
     ],
     "name:slv_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125767263,
-    "wof:lastmodified":1514447653,
+    "wof:lastmodified":1561749623,
     "wof:name":"Stara Novalja",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

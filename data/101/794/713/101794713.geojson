@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00013,
-    "geom:area_square_m":1137564.191625,
+    "geom:area_square_m":1137564.191626,
     "geom:bbox":"18.7694270941,44.9160298269,18.7895637761,44.9310797489",
     "geom:latitude":44.924829,
     "geom:longitude":18.778165,
@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Rajevo Selo"
     ],
-    "name:dut_x_preferred":[
-        "Rajevo Selo"
-    ],
     "name:eng_x_preferred":[
         "Rajevo Selo"
     ],
@@ -32,6 +29,9 @@
         "Rajevo Selo"
     ],
     "name:hun_x_preferred":[
+        "Rajevo Selo"
+    ],
+    "name:nld_x_preferred":[
         "Rajevo Selo"
     ],
     "name:slv_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101794713,
-    "wof:lastmodified":1527689318,
+    "wof:lastmodified":1561749602,
     "wof:name":"Rajevo Selo",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

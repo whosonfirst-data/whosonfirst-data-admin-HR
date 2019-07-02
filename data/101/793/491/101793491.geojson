@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
-    "geom:area_square_m":1516579.010313,
+    "geom:area_square_m":1516579.010314,
     "geom:bbox":"18.891083905,45.407299433,18.9096772252,45.4271437206",
     "geom:latitude":45.416853,
     "geom:longitude":18.900246,
@@ -38,16 +38,10 @@
     "name:cym_x_preferred":[
         "Trpinja"
     ],
-    "name:cze_x_preferred":[
-        "Trpinja"
-    ],
     "name:dan_x_preferred":[
         "Trpinja"
     ],
     "name:deu_x_preferred":[
-        "Trpinja"
-    ],
-    "name:dut_x_preferred":[
         "Trpinja"
     ],
     "name:eng_x_preferred":[
@@ -62,13 +56,7 @@
     "name:fra_x_preferred":[
         "Trpinja"
     ],
-    "name:fre_x_preferred":[
-        "Trpinja"
-    ],
     "name:ful_x_preferred":[
-        "Trpinja"
-    ],
-    "name:ger_x_preferred":[
         "Trpinja"
     ],
     "name:hbs_x_preferred":[
@@ -89,9 +77,6 @@
     "name:lez_x_preferred":[
         "\u0422\u0440\u043f\u0438\u043d\u044f"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0440\u043f\u0438\u045a\u0430"
-    ],
     "name:mkd_x_preferred":[
         "\u0422\u0440\u043f\u0438\u045a\u0430"
     ],
@@ -101,20 +86,17 @@
     "name:nya_x_preferred":[
         "Trpinja"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u067e\u06cc\u0646\u06cc\u0627"
-    ],
     "name:pol_x_preferred":[
         "Trpinja"
     ],
     "name:ron_x_preferred":[
         "Comuna Trpinja"
     ],
+    "name:ron_x_variant":[
+        "Trpinja"
+    ],
     "name:rue_x_preferred":[
         "\u0422\u0440\u043f\u0456\u043d\u044f"
-    ],
-    "name:rum_x_preferred":[
-        "Trpinja"
     ],
     "name:run_x_preferred":[
         "Trpinja"
@@ -156,9 +138,6 @@
         "Trpin'"
     ],
     "name:war_x_preferred":[
-        "Trpinja"
-    ],
-    "name:wel_x_preferred":[
         "Trpinja"
     ],
     "name:xho_x_preferred":[
@@ -215,7 +194,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689277,
+    "wof:lastmodified":1561749599,
     "wof:name":"Trpinja",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

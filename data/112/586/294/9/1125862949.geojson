@@ -22,13 +22,10 @@
     "name:bos_x_preferred":[
         "Roga\u010d"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Roga\u010d"
     ],
     "name:eng_x_preferred":[
-        "Roga\u010d"
-    ],
-    "name:ger_x_preferred":[
         "Roga\u010d"
     ],
     "name:hrv_x_preferred":[
@@ -37,8 +34,11 @@
     "name:hun_x_preferred":[
         "Roga\u010d"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "rogac"
+    ],
+    "name:nld_x_preferred":[
+        "Roga\u010d"
     ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0433\u0430\u0447"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125862949,
-    "wof:lastmodified":1553816581,
+    "wof:lastmodified":1561749616,
     "wof:name":"Roga\u010d",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

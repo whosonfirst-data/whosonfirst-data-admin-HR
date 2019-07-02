@@ -17,13 +17,7 @@
     "mps:longitude":15.811661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Bestovje"
-    ],
     "name:bos_x_preferred":[
-        "Bestovje"
-    ],
-    "name:dut_x_preferred":[
         "Bestovje"
     ],
     "name:eng_x_preferred":[
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":101835385,
-    "wof:lastmodified":1527642775,
+    "wof:lastmodified":1561749596,
     "wof:name":"Bestovje",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

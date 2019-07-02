@@ -17,13 +17,7 @@
     "mps:longitude":15.829583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Rakitje"
-    ],
     "name:bos_x_preferred":[
-        "Rakitje"
-    ],
-    "name:dut_x_preferred":[
         "Rakitje"
     ],
     "name:eng_x_preferred":[
@@ -98,7 +92,7 @@
         }
     ],
     "wof:id":101857855,
-    "wof:lastmodified":1544744112,
+    "wof:lastmodified":1561749595,
     "wof:name":"Rakitje",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

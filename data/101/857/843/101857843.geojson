@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Horvati"
     ],
-    "name:dut_x_preferred":[
-        "Horvati"
-    ],
     "name:eng_x_preferred":[
         "Horvati"
     ],
@@ -30,6 +27,9 @@
         "Horvati"
     ],
     "name:hrv_x_preferred":[
+        "Horvati"
+    ],
+    "name:nld_x_preferred":[
         "Horvati"
     ],
     "name:slv_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":101857843,
-    "wof:lastmodified":1544744107,
+    "wof:lastmodified":1561749594,
     "wof:name":"Horvati",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

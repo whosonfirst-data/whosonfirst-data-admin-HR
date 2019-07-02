@@ -23,25 +23,13 @@
     "name:ces_x_preferred":[
         "Sveti Filip i Jakov"
     ],
-    "name:cze_x_preferred":[
-        "Sveti Filip i Jakov"
-    ],
     "name:deu_x_preferred":[
-        "Sveti Filip i Jakov"
-    ],
-    "name:dut_x_preferred":[
         "Sveti Filip i Jakov"
     ],
     "name:eng_x_preferred":[
         "Sv. Filipi i Jakov"
     ],
     "name:fra_x_preferred":[
-        "Sveti Filip i Jakov"
-    ],
-    "name:fre_x_preferred":[
-        "Sveti Filip i Jakov"
-    ],
-    "name:ger_x_preferred":[
         "Sveti Filip i Jakov"
     ],
     "name:hbs_x_preferred":[
@@ -69,9 +57,6 @@
         "Sveti Filip i Jakov"
     ],
     "name:ron_x_preferred":[
-        "Comuna Sveti Filip i Jakov"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Sveti Filip i Jakov"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +121,7 @@
         }
     ],
     "wof:id":101836435,
-    "wof:lastmodified":1527715158,
+    "wof:lastmodified":1561749609,
     "wof:name":"Sveti Filip i Jakov",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

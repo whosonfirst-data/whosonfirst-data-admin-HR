@@ -17,13 +17,7 @@
     "mps:longitude":15.890802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Lu\u010dko"
-    ],
     "name:bos_x_preferred":[
-        "Lu\u010dko"
-    ],
-    "name:dut_x_preferred":[
         "Lu\u010dko"
     ],
     "name:eng_x_preferred":[
@@ -42,9 +36,6 @@
         "Lu\u010dko"
     ],
     "name:slk_x_preferred":[
-        "Lu\u010dko"
-    ],
-    "name:slo_x_preferred":[
         "Lu\u010dko"
     ],
     "name:slv_x_preferred":[
@@ -105,7 +96,7 @@
         }
     ],
     "wof:id":101792345,
-    "wof:lastmodified":1527714640,
+    "wof:lastmodified":1561749607,
     "wof:name":"Lu\u010dko",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

@@ -25,7 +25,7 @@
     "name:eng_x_preferred":[
         "Promajna"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Promajna"
     ],
     "name:hrv_x_preferred":[
@@ -37,7 +37,7 @@
     "name:pol_x_preferred":[
         "Promajna"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Promajna"
     ],
     "name:slv_x_preferred":[
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125913029,
-    "wof:lastmodified":1514447604,
+    "wof:lastmodified":1561749621,
     "wof:name":"Promajna",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

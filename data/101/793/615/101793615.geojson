@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000074,
-    "geom:area_square_m":638539.203397,
+    "geom:area_square_m":638539.203398,
     "geom:bbox":"17.2385768357,45.5191419843,17.2607021149,45.530596505",
     "geom:latitude":45.525683,
     "geom:longitude":17.251782,
@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Sira\u010d"
     ],
-    "name:dut_x_preferred":[
-        "Sira\u010d"
-    ],
     "name:eng_x_preferred":[
         "Sira\u010d"
     ],
     "name:fra_x_preferred":[
-        "Sira\u010d"
-    ],
-    "name:fre_x_preferred":[
         "Sira\u010d"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +45,6 @@
         "Sira\u010d"
     ],
     "name:ron_x_preferred":[
-        "Comuna Sira\u010d"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Sira\u010d"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815507,
+    "wof:lastmodified":1561749600,
     "wof:name":"Sira\u010d",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

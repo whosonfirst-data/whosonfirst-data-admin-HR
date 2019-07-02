@@ -22,22 +22,22 @@
     "name:bos_x_preferred":[
         "Porozina"
     ],
-    "name:dut_x_preferred":[
-        "Porozina"
-    ],
     "name:eng_x_preferred":[
         "Porozina"
     ],
     "name:est_x_preferred":[
         "Porozina"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Porozina"
     ],
     "name:hrv_x_preferred":[
         "Porozina"
     ],
     "name:hun_x_preferred":[
+        "Porozina"
+    ],
+    "name:nld_x_preferred":[
         "Porozina"
     ],
     "name:rus_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1126023243,
-    "wof:lastmodified":1514447577,
+    "wof:lastmodified":1561749614,
     "wof:name":"Porozina",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

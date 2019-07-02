@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002319,
-    "geom:area_square_m":20582639.606064,
+    "geom:area_square_m":20582639.606067,
     "geom:bbox":"15.196050362,44.0842019988,15.298689228,44.1587567376",
     "geom:latitude":44.118144,
     "geom:longitude":15.245726,
@@ -18,9 +18,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
-    "name:alb_x_preferred":[
-        "Zara"
-    ],
     "name:amh_x_preferred":[
         "\u12db\u12f3\u122d"
     ],
@@ -29,12 +26,6 @@
     ],
     "name:arg_x_preferred":[
         "Chadra"
-    ],
-    "name:arm_x_preferred":[
-        "\u0536\u0561\u0564\u0561\u0580"
-    ],
-    "name:baq_x_preferred":[
-        "Zadar"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0417\u0430\u0434\u0430\u0440"
@@ -60,13 +51,10 @@
     "name:che_x_preferred":[
         "\u0417\u0430\u0434\u0430\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u624e\u9054\u723e"
-    ],
     "name:ckb_x_preferred":[
         "\u0632\u0627\u062f\u0627\u0631"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Zadar"
     ],
     "name:dan_x_preferred":[
@@ -76,9 +64,6 @@
         "Zadar"
     ],
     "name:dsb_x_preferred":[
-        "Zadar"
-    ],
-    "name:dut_x_preferred":[
         "Zadar"
     ],
     "name:ell_x_preferred":[
@@ -93,6 +78,9 @@
     "name:est_x_preferred":[
         "Zadar"
     ],
+    "name:eus_x_preferred":[
+        "Zadar"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u0627\u062f\u0627\u0631"
     ],
@@ -105,15 +93,6 @@
     "name:fra_x_preferred":[
         "Zadar"
     ],
-    "name:fre_x_preferred":[
-        "Zadar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10d0\u10d3\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Zadar"
-    ],
     "name:gla_x_preferred":[
         "Zadar"
     ],
@@ -122,9 +101,6 @@
     ],
     "name:glg_x_preferred":[
         "Zadar"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03b1\u03bd\u03c4\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0aa6\u0ab0"
@@ -146,6 +122,9 @@
     ],
     "name:hun_x_preferred":[
         "Zadar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u0564\u0561\u0580"
     ],
     "name:ile_x_preferred":[
         "Zadar"
@@ -177,17 +156,14 @@
     "name:lit_x_preferred":[
         "Zadaras"
     ],
-    "name:mac_x_preferred":[
-        "\u0417\u0430\u0434\u0430\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u091d\u0926\u0930"
     ],
-    "name:may_x_preferred":[
-        "Zadar"
-    ],
     "name:mkd_x_preferred":[
         "\u0417\u0430\u0434\u0430\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Zadar"
     ],
     "name:nld_x_preferred":[
         "Zadar"
@@ -201,9 +177,6 @@
     "name:oci_x_preferred":[
         "Zadar"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0627\u062f\u0627\u0631"
-    ],
     "name:pol_x_preferred":[
         "Zadar"
     ],
@@ -211,9 +184,6 @@
         "Zadar"
     ],
     "name:ron_x_preferred":[
-        "Zadar"
-    ],
-    "name:rum_x_preferred":[
         "Zadar"
     ],
     "name:rus_x_preferred":[
@@ -231,9 +201,6 @@
     "name:slk_x_preferred":[
         "Zadar"
     ],
-    "name:slo_x_preferred":[
-        "Zadar"
-    ],
     "name:slv_x_preferred":[
         "Zadar"
     ],
@@ -242,6 +209,9 @@
     ],
     "name:spa_x_preferred":[
         "Zadar"
+    ],
+    "name:sqi_x_preferred":[
+        "Zara"
     ],
     "name:srd_x_preferred":[
         "Zadar"
@@ -295,9 +265,6 @@
         "Zadar"
     ],
     "name:war_x_preferred":[
-        "Zadar"
-    ],
-    "name:wel_x_preferred":[
         "Zadar"
     ],
     "name:zho_x_preferred":[
@@ -439,7 +406,7 @@
         }
     ],
     "wof:id":101751769,
-    "wof:lastmodified":1527714361,
+    "wof:lastmodified":1561749604,
     "wof:name":"Zadar",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

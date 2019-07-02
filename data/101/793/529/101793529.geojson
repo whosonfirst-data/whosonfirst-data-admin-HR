@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00033,
-    "geom:area_square_m":2863551.254565,
+    "geom:area_square_m":2863551.254566,
     "geom:bbox":"16.8689071385,45.3799108771,16.9076734599,45.4102988065",
     "geom:latitude":45.395389,
     "geom:longitude":16.89136,
@@ -17,9 +17,6 @@
     "mps:longitude":16.89136,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Lipovljani"
-    ],
     "name:bos_x_preferred":[
         "Lipovljani"
     ],
@@ -29,19 +26,13 @@
     "name:dan_x_preferred":[
         "Lipovljani"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lipovljani"
     ],
     "name:eng_x_preferred":[
         "Lipovljani"
     ],
     "name:fra_x_preferred":[
-        "Lipovljani"
-    ],
-    "name:fre_x_preferred":[
-        "Lipovljani"
-    ],
-    "name:ger_x_preferred":[
         "Lipovljani"
     ],
     "name:hbs_x_preferred":[
@@ -60,9 +51,6 @@
         "Lipovljani"
     ],
     "name:ron_x_preferred":[
-        "Comuna Lipovljani"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Lipovljani"
     ],
     "name:rus_x_preferred":[
@@ -140,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689278,
+    "wof:lastmodified":1561749599,
     "wof:name":"Lipovljani",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

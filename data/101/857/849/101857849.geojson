@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Veliko Polje"
     ],
-    "name:dut_x_preferred":[
-        "Veliko Polje"
-    ],
     "name:eng_x_preferred":[
         "Veliko Polje"
     ],
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":101857849,
-    "wof:lastmodified":1544744110,
+    "wof:lastmodified":1561749594,
     "wof:name":"Veliko Polje",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

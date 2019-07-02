@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000103,
-    "geom:area_square_m":904514.992492,
+    "geom:area_square_m":904514.992494,
     "geom:bbox":"14.7696233556,44.7399060522,14.7966959432,44.7585624493",
     "geom:latitude":44.74822,
     "geom:longitude":14.784021,
@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Banjol"
     ],
-    "name:dut_x_preferred":[
-        "Banjol"
-    ],
     "name:eng_x_preferred":[
         "Banjol"
     ],
     "name:fra_x_preferred":[
-        "Banjol"
-    ],
-    "name:fre_x_preferred":[
         "Banjol"
     ],
     "name:hbs_x_preferred":[
@@ -39,6 +33,9 @@
         "Banjol"
     ],
     "name:hun_x_preferred":[
+        "Banjol"
+    ],
+    "name:nld_x_preferred":[
         "Banjol"
     ],
     "name:slv_x_preferred":[
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":101836439,
-    "wof:lastmodified":1527715151,
+    "wof:lastmodified":1561749608,
     "wof:name":"Banjol",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

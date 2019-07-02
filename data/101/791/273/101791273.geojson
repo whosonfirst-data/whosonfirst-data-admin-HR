@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000071,
-    "geom:area_square_m":608540.963234,
+    "geom:area_square_m":608540.963233,
     "geom:bbox":"17.1068357773,46.0149842328,17.1226455013,46.0368701242",
     "geom:latitude":46.024717,
     "geom:longitude":17.114856,
@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Kalinovac"
     ],
-    "name:dut_x_preferred":[
-        "Kalinovac"
-    ],
     "name:eng_x_preferred":[
         "Kalinovac"
     ],
     "name:fra_x_preferred":[
-        "Kalinovac"
-    ],
-    "name:fre_x_preferred":[
         "Kalinovac"
     ],
     "name:hbs_x_preferred":[
@@ -48,9 +42,6 @@
         "Kalinovac"
     ],
     "name:ron_x_preferred":[
-        "Comuna Kalinovac"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Kalinovac"
     ],
     "name:rus_x_preferred":[
@@ -122,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815505,
+    "wof:lastmodified":1561749588,
     "wof:name":"Kalinovac",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

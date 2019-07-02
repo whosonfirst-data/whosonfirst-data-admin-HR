@@ -19,16 +19,10 @@
     "name:bos_x_preferred":[
         "Koprivni\u010dki Ivanec"
     ],
-    "name:dut_x_preferred":[
-        "Koprivni\u010dki Ivanec"
-    ],
     "name:eng_x_preferred":[
         "Koprivni\u010dki Ivanec"
     ],
     "name:fra_x_preferred":[
-        "Koprivni\u010dki Ivanec"
-    ],
-    "name:fre_x_preferred":[
         "Koprivni\u010dki Ivanec"
     ],
     "name:hbs_x_preferred":[
@@ -47,9 +41,6 @@
         "Koprivni\u010dki Ivanec"
     ],
     "name:ron_x_preferred":[
-        "Comuna Koprivni\u010dki Ivanec"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Koprivni\u010dki Ivanec"
     ],
     "name:rus_x_preferred":[
@@ -110,7 +101,7 @@
         }
     ],
     "wof:id":101844813,
-    "wof:lastmodified":1527642629,
+    "wof:lastmodified":1561749593,
     "wof:name":"Koprivni\u010dki Ivanec",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

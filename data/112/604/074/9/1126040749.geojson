@@ -22,22 +22,22 @@
     "name:bos_x_preferred":[
         "\u017duljana"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u017duljana"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u017duljana"
     ],
     "name:eng_x_preferred":[
-        "\u017duljana"
-    ],
-    "name:ger_x_preferred":[
         "\u017duljana"
     ],
     "name:hrv_x_preferred":[
         "\u017duljana"
     ],
     "name:hun_x_preferred":[
+        "\u017duljana"
+    ],
+    "name:nld_x_preferred":[
         "\u017duljana"
     ],
     "name:slv_x_preferred":[
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1126040749,
-    "wof:lastmodified":1514447762,
+    "wof:lastmodified":1561749615,
     "wof:name":"\u017duljana",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

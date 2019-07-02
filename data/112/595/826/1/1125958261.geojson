@@ -22,19 +22,19 @@
     "name:bos_x_preferred":[
         "Gorica"
     ],
-    "name:dut_x_preferred":[
-        "Gorica"
-    ],
     "name:eng_x_preferred":[
         "Gorica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gorica"
     ],
     "name:hrv_x_preferred":[
         "Gorica"
     ],
     "name:hun_x_preferred":[
+        "Gorica"
+    ],
+    "name:nld_x_preferred":[
         "Gorica"
     ],
     "name:slv_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125958261,
-    "wof:lastmodified":1514447441,
+    "wof:lastmodified":1561749612,
     "wof:name":"Gorica",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000098,
-    "geom:area_square_m":848028.94702,
+    "geom:area_square_m":848028.947019,
     "geom:bbox":"16.1093140265,45.7009867411,16.149367518,45.708684001",
     "geom:latitude":45.704595,
     "geom:longitude":16.12437,
@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Novo \u010ci\u010de"
     ],
-    "name:dut_x_preferred":[
-        "Novo \u010ci\u010de"
-    ],
     "name:eng_x_preferred":[
         "Novo \u010ci\u010de"
     ],
@@ -32,6 +29,9 @@
         "Novo \u010ci\u010de"
     ],
     "name:hun_x_preferred":[
+        "Novo \u010ci\u010de"
+    ],
+    "name:nld_x_preferred":[
         "Novo \u010ci\u010de"
     ],
     "name:slv_x_preferred":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101792379,
-    "wof:lastmodified":1527714636,
+    "wof:lastmodified":1561749606,
     "wof:name":"Novo \u010ci\u010de",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

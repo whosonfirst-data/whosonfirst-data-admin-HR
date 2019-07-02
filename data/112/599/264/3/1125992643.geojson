@@ -25,13 +25,10 @@
     "name:cat_x_preferred":[
         "Lovre\u0107"
     ],
-    "name:dut_x_preferred":[
-        "Lovre\u0107"
-    ],
     "name:eng_x_preferred":[
         "Lovre\u0107"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lovre\u0107"
     ],
     "name:hrv_x_preferred":[
@@ -43,10 +40,13 @@
     "name:ita_x_preferred":[
         "Lovre\u0107"
     ],
+    "name:nld_x_preferred":[
+        "Lovre\u0107"
+    ],
     "name:pol_x_preferred":[
         "Lovre\u0107"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Lovre\u0107"
     ],
     "name:spa_x_preferred":[
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1125992643,
-    "wof:lastmodified":1514447522,
+    "wof:lastmodified":1561749619,
     "wof:name":"Lovre\u0107",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

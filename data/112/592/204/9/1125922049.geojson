@@ -24,16 +24,13 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0440\u0435\u043d\u0438\u0446\u0430"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Korenica"
     ],
     "name:eng_x_preferred":[
         "Korenica"
     ],
     "name:epo_x_preferred":[
-        "Korenica"
-    ],
-    "name:ger_x_preferred":[
         "Korenica"
     ],
     "name:hrv_x_preferred":[
@@ -47,6 +44,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30ec\u30cb\u30c4\u30a1"
+    ],
+    "name:nld_x_preferred":[
+        "Korenica"
     ],
     "name:pol_x_preferred":[
         "Korenica"
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1125922049,
-    "wof:lastmodified":1553816631,
+    "wof:lastmodified":1561749611,
     "wof:name":"Titova Korenica",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

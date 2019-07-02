@@ -23,9 +23,6 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0442\u0440\u0438\u043d\u0430"
     ],
-    "name:dut_x_preferred":[
-        "Batrina"
-    ],
     "name:eng_x_preferred":[
         "Batrina"
     ],
@@ -92,7 +89,7 @@
         }
     ],
     "wof:id":101857831,
-    "wof:lastmodified":1544744101,
+    "wof:lastmodified":1561749595,
     "wof:name":"Batrina",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00023,
-    "geom:area_square_m":1965126.871498,
+    "geom:area_square_m":1965126.871499,
     "geom:bbox":"16.8022936017,46.3459945755,16.8314390174,46.3616321457",
     "geom:latitude":46.354617,
     "geom:longitude":16.816377,
@@ -17,9 +17,6 @@
     "mps:longitude":16.814941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Kotoriba"
-    ],
     "name:bos_x_preferred":[
         "Kotoriba"
     ],
@@ -29,12 +26,6 @@
     "name:ces_x_preferred":[
         "Kotoriba"
     ],
-    "name:cze_x_preferred":[
-        "Kotoriba"
-    ],
-    "name:dut_x_preferred":[
-        "Kotoriba"
-    ],
     "name:eng_x_preferred":[
         "Kotoriba"
     ],
@@ -42,9 +33,6 @@
         "Kotoriba"
     ],
     "name:fra_x_preferred":[
-        "Kotoriba"
-    ],
-    "name:fre_x_preferred":[
         "Kotoriba"
     ],
     "name:hbs_x_preferred":[
@@ -63,9 +51,6 @@
         "Kotoriba"
     ],
     "name:ron_x_preferred":[
-        "Comuna Kotoriba"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Kotoriba"
     ],
     "name:slv_x_preferred":[
@@ -133,7 +118,7 @@
         }
     ],
     "wof:id":101790193,
-    "wof:lastmodified":1527641595,
+    "wof:lastmodified":1561749586,
     "wof:name":"Kotoriba",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

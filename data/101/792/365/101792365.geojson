@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1237071.465046,
+    "geom:area_square_m":1237071.465047,
     "geom:bbox":"15.8428575073,45.8654325445,15.8690842987,45.8927660034",
     "geom:latitude":45.882005,
     "geom:longitude":15.855711,
@@ -18,9 +18,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:bos_x_preferred":[
-        "Jablanovec"
-    ],
-    "name:dut_x_preferred":[
         "Jablanovec"
     ],
     "name:eng_x_preferred":[
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":101792365,
-    "wof:lastmodified":1527714633,
+    "wof:lastmodified":1561749606,
     "wof:name":"Jablanovec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1047455.442676,
+    "geom:area_square_m":1047455.442677,
     "geom:bbox":"16.9569837804,46.1422097925,16.9750339986,46.1647836112",
     "geom:latitude":46.153874,
     "geom:longitude":16.965835,
@@ -29,19 +29,10 @@
     "name:deu_x_preferred":[
         "Hlebine"
     ],
-    "name:dut_x_preferred":[
-        "Hlebine"
-    ],
     "name:eng_x_preferred":[
         "Hlebine"
     ],
     "name:fra_x_preferred":[
-        "Hlebine"
-    ],
-    "name:fre_x_preferred":[
-        "Hlebine"
-    ],
-    "name:ger_x_preferred":[
         "Hlebine"
     ],
     "name:hbs_x_preferred":[
@@ -60,9 +51,6 @@
         "Hlebine"
     ],
     "name:ron_x_preferred":[
-        "Comuna Hlebine"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Hlebine"
     ],
     "name:rus_x_preferred":[
@@ -134,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641954,
+    "wof:lastmodified":1561749589,
     "wof:name":"Hlebine",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

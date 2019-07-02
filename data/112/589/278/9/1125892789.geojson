@@ -24,9 +24,6 @@
     "name:cat_x_preferred":[
         "Mali Ston"
     ],
-    "name:dut_x_preferred":[
-        "Mali Ston"
-    ],
     "name:eng_x_preferred":[
         "Mali Ston"
     ],
@@ -34,6 +31,9 @@
         "Mali Ston"
     ],
     "name:hun_x_preferred":[
+        "Mali Ston"
+    ],
+    "name:nld_x_preferred":[
         "Mali Ston"
     ],
     "name:slv_x_preferred":[
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125892789,
-    "wof:lastmodified":1514447528,
+    "wof:lastmodified":1561749617,
     "wof:name":"Mali Ston",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

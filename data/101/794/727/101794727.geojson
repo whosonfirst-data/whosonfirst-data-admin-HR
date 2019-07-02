@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000061,
-    "geom:area_square_m":528814.27141,
+    "geom:area_square_m":528814.271411,
     "geom:bbox":"15.6861379194,45.3225602357,15.7080177277,45.3301582963",
     "geom:latitude":45.325991,
     "geom:longitude":15.695247,
@@ -23,9 +23,6 @@
     "name:cat_x_preferred":[
         "Vojni\u0107"
     ],
-    "name:dut_x_preferred":[
-        "Vojni\u0107"
-    ],
     "name:eng_x_preferred":[
         "Vojni\u0107"
     ],
@@ -33,9 +30,6 @@
         "Vojni\u0107"
     ],
     "name:fra_x_preferred":[
-        "Vojni\u0107"
-    ],
-    "name:fre_x_preferred":[
         "Vojni\u0107"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +48,6 @@
         "Vojni\u0107"
     ],
     "name:ron_x_preferred":[
-        "Comuna Vojni\u0107"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Vojni\u0107"
     ],
     "name:rus_x_preferred":[
@@ -133,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689324,
+    "wof:lastmodified":1561749603,
     "wof:name":"Vojni\u0107",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

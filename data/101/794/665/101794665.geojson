@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00062,
-    "geom:area_square_m":5387890.267266,
+    "geom:area_square_m":5387890.267268,
     "geom:bbox":"14.4574411443,45.3744222991,14.5323296023,45.3971217215",
     "geom:latitude":45.384519,
     "geom:longitude":14.494248,
@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Podhum"
     ],
-    "name:dut_x_preferred":[
-        "Podhum"
-    ],
     "name:eng_x_preferred":[
         "Podhum"
     ],
     "name:fra_x_preferred":[
-        "Podhum"
-    ],
-    "name:fre_x_preferred":[
         "Podhum"
     ],
     "name:hbs_x_preferred":[
@@ -106,7 +100,7 @@
         }
     ],
     "wof:id":101794665,
-    "wof:lastmodified":1527689322,
+    "wof:lastmodified":1561749603,
     "wof:name":"Podhum",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

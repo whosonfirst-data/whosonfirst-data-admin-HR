@@ -21,16 +21,13 @@
     "name:bos_x_preferred":[
         "Kolan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kolan"
     ],
     "name:eng_x_preferred":[
         "Kolan"
     ],
-    "name:fre_x_preferred":[
-        "Kolan"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kolan"
     ],
     "name:hrv_x_preferred":[
@@ -42,7 +39,10 @@
     "name:ita_x_preferred":[
         "Colane"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Kolan"
+    ],
+    "name:ron_x_preferred":[
         "Comuna Kolan"
     ],
     "name:slv_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1126023171,
-    "wof:lastmodified":1514447489,
+    "wof:lastmodified":1561749614,
     "wof:name":"Kolan",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

@@ -22,22 +22,22 @@
     "name:bos_x_preferred":[
         "Ra\u010di\u0161\u0107e"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ra\u010di\u0161\u0107e"
     ],
     "name:eng_x_preferred":[
         "Ra\u010di\u0161\u0107e"
     ],
-    "name:fre_x_preferred":[
-        "Ra\u010di\u0161\u0107e"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ra\u010di\u0161\u0107e"
     ],
     "name:hrv_x_preferred":[
         "Ra\u010di\u0161\u0107e"
     ],
     "name:hun_x_preferred":[
+        "Ra\u010di\u0161\u0107e"
+    ],
+    "name:nld_x_preferred":[
         "Ra\u010di\u0161\u0107e"
     ],
     "name:por_x_preferred":[
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1125988003,
-    "wof:lastmodified":1514447610,
+    "wof:lastmodified":1561749622,
     "wof:name":"Ra\u010di\u0161\u0107e",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

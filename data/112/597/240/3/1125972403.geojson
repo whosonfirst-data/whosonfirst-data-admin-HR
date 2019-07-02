@@ -22,16 +22,13 @@
     "name:bos_x_preferred":[
         "Preko"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Preko"
     ],
     "name:eng_x_preferred":[
         "Preko"
     ],
-    "name:fre_x_preferred":[
-        "Preko"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Preko"
     ],
     "name:hrv_x_preferred":[
@@ -46,10 +43,13 @@
     "name:lat_x_preferred":[
         "Ultra"
     ],
+    "name:nld_x_preferred":[
+        "Preko"
+    ],
     "name:por_x_preferred":[
         "Preko"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Preko"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":1125972403,
-    "wof:lastmodified":1534379334,
+    "wof:lastmodified":1561749620,
     "wof:name":"Preko",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

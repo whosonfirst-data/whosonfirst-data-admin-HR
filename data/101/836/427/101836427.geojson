@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000843,
-    "geom:area_square_m":7536490.314911,
+    "geom:area_square_m":7536490.314913,
     "geom:bbox":"15.8771653043,43.6977307272,15.9313609617,43.7528827913",
     "geom:latitude":43.7248,
     "geom:longitude":15.904301,
@@ -18,19 +18,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
-    "name:alb_x_preferred":[
-        "Shibeniku"
-    ],
     "name:ara_x_preferred":[
         "\u0634\u064a\u0628\u064a\u0646\u064a\u0643"
     ],
     "name:arg_x_preferred":[
-        "\u0160ibenik"
-    ],
-    "name:arm_x_preferred":[
-        "\u0547\u056b\u0562\u0565\u0576\u056b\u056f"
-    ],
-    "name:baq_x_preferred":[
         "\u0160ibenik"
     ],
     "name:bel_x_preferred":[
@@ -51,13 +42,10 @@
     "name:che_x_preferred":[
         "\u0428\u0438\u0431\u0435\u043d\u0438\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u8d1d\u5c3c\u514b"
-    ],
     "name:ckb_x_preferred":[
         "\u0634\u06cc\u0628\u06ce\u0646\u06cc\u06a9"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "\u0160ibenik"
     ],
     "name:dan_x_preferred":[
@@ -66,8 +54,8 @@
     "name:deu_x_preferred":[
         "\u0160ibenik"
     ],
-    "name:dut_x_preferred":[
-        "\u0160ibenik"
+    "name:ell_x_preferred":[
+        "\u03a3\u03af\u03bc\u03c0\u03b5\u03bd\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "\u0160ibenik"
@@ -76,6 +64,9 @@
         "\u0160ibenik"
     ],
     "name:est_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:eus_x_preferred":[
         "\u0160ibenik"
     ],
     "name:fas_x_preferred":[
@@ -87,20 +78,11 @@
     "name:fra_x_preferred":[
         "Sibenik"
     ],
-    "name:fre_x_preferred":[
-        "\u0160ibenik"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d8\u10d1\u10d4\u10dc\u10d8\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "\u0160ibenik"
     ],
     "name:glg_x_preferred":[
         "\u0160ibenik"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03af\u03bc\u03c0\u03b5\u03bd\u03b9\u03ba"
     ],
     "name:hbs_x_preferred":[
         "\u0160ibenik"
@@ -114,6 +96,9 @@
     "name:hun_x_preferred":[
         "\u0160ibenik"
     ],
+    "name:hye_x_preferred":[
+        "\u0547\u056b\u0562\u0565\u0576\u056b\u056f"
+    ],
     "name:ind_x_preferred":[
         "\u0160ibenik"
     ],
@@ -122,6 +107,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30d9\u30cb\u30af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d8\u10d1\u10d4\u10dc\u10d8\u10d9\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc2dc\ubca0\ub2c8\ud06c"
@@ -135,7 +123,7 @@
     "name:lmo_x_preferred":[
         "Sebenico"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0428\u0438\u0431\u0435\u043d\u0438\u043a"
     ],
     "name:nld_x_preferred":[
@@ -150,9 +138,6 @@
     "name:oci_x_preferred":[
         "\u0160ibenik"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0628\u0646\u06cc\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Szybenik"
     ],
@@ -162,9 +147,6 @@
     "name:ron_x_preferred":[
         "\u0160ibenik"
     ],
-    "name:rum_x_preferred":[
-        "\u0160ibenik"
-    ],
     "name:rus_x_preferred":[
         "\u0428\u0438\u0431\u0435\u043d\u0438\u043a"
     ],
@@ -172,9 +154,6 @@
         "\u0160ibenik"
     ],
     "name:slk_x_preferred":[
-        "\u0160ibenik"
-    ],
-    "name:slo_x_preferred":[
         "\u0160ibenik"
     ],
     "name:slv_x_preferred":[
@@ -217,9 +196,6 @@
         "Sebenico"
     ],
     "name:war_x_preferred":[
-        "\u0160ibenik"
-    ],
-    "name:wel_x_preferred":[
         "\u0160ibenik"
     ],
     "name:zho_x_preferred":[
@@ -361,7 +337,7 @@
         }
     ],
     "wof:id":101836427,
-    "wof:lastmodified":1527715157,
+    "wof:lastmodified":1561749608,
     "wof:name":"\u0160ibenik",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

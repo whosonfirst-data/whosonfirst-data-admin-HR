@@ -26,12 +26,6 @@
     "name:ces_x_preferred":[
         "Hrvace"
     ],
-    "name:cze_x_preferred":[
-        "Hrvace"
-    ],
-    "name:dut_x_preferred":[
-        "Hrvace"
-    ],
     "name:eng_x_preferred":[
         "Hrvatice"
     ],
@@ -40,9 +34,6 @@
         "Hrvace"
     ],
     "name:fra_x_preferred":[
-        "Hrvace"
-    ],
-    "name:fre_x_preferred":[
         "Hrvace"
     ],
     "name:hbs_x_preferred":[
@@ -64,9 +55,6 @@
         "Hrvace"
     ],
     "name:ron_x_preferred":[
-        "Comuna Hrvace"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Hrvace"
     ],
     "name:slv_x_preferred":[
@@ -139,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744093,
+    "wof:lastmodified":1561749594,
     "wof:name":"Hrvace",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

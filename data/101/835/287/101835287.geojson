@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Brodski Stupnik"
     ],
-    "name:dut_x_preferred":[
-        "Brodski Stupnik"
-    ],
     "name:eng_x_preferred":[
         "Stupnik Brodski"
     ],
@@ -30,9 +27,6 @@
         "Brodski Stupnik"
     ],
     "name:fra_x_preferred":[
-        "Brodski Stupnik"
-    ],
-    "name:fre_x_preferred":[
         "Brodski Stupnik"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +45,6 @@
         "Brodski Stupnik"
     ],
     "name:ron_x_preferred":[
-        "Comuna Brodski Stupnik"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Brodski Stupnik"
     ],
     "name:slv_x_preferred":[
@@ -118,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642773,
+    "wof:lastmodified":1561749595,
     "wof:name":"Brodski Stupnik",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

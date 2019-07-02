@@ -22,13 +22,13 @@
     "name:bos_x_preferred":[
         "Petrovci"
     ],
-    "name:dut_x_preferred":[
-        "Petrovci"
-    ],
     "name:eng_x_preferred":[
         "Petrovci"
     ],
     "name:hrv_x_preferred":[
+        "Petrovci"
+    ],
+    "name:nld_x_preferred":[
         "Petrovci"
     ],
     "name:rue_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125860543,
-    "wof:lastmodified":1514447569,
+    "wof:lastmodified":1561749616,
     "wof:name":"Petrovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

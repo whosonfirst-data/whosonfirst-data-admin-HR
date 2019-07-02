@@ -19,16 +19,10 @@
     "name:bos_x_preferred":[
         "Gornja Vrba"
     ],
-    "name:dut_x_preferred":[
-        "Gornja Vrba"
-    ],
     "name:eng_x_preferred":[
         "Vrba Gornja"
     ],
     "name:fra_x_preferred":[
-        "Gornja Vrba"
-    ],
-    "name:fre_x_preferred":[
         "Gornja Vrba"
     ],
     "name:hbs_x_preferred":[
@@ -47,9 +41,6 @@
         "Gornja Vrba"
     ],
     "name:ron_x_preferred":[
-        "Comuna Gornja Vrba"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Gornja Vrba"
     ],
     "name:slv_x_preferred":[
@@ -114,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641860,
+    "wof:lastmodified":1561749587,
     "wof:name":"Gornja Vrba",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

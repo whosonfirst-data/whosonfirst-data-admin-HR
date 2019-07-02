@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000154,
-    "geom:area_square_m":1337029.881278,
+    "geom:area_square_m":1337029.881277,
     "geom:bbox":"17.1860750106,45.2434198231,17.2144074934,45.2725407705",
     "geom:latitude":45.258014,
     "geom:longitude":17.202285,
@@ -26,12 +26,6 @@
     "name:ces_x_preferred":[
         "Oku\u010dani"
     ],
-    "name:cze_x_preferred":[
-        "Oku\u010dani"
-    ],
-    "name:dut_x_preferred":[
-        "Oku\u010dani"
-    ],
     "name:eng_x_preferred":[
         "Oku\u010dani"
     ],
@@ -39,9 +33,6 @@
         "Oku\u010dani"
     ],
     "name:fra_x_preferred":[
-        "Oku\u010dani"
-    ],
-    "name:fre_x_preferred":[
         "Oku\u010dani"
     ],
     "name:hrv_x_preferred":[
@@ -60,9 +51,6 @@
         "Oku\u010dani"
     ],
     "name:ron_x_preferred":[
-        "Comuna Oku\u010dani"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Oku\u010dani"
     ],
     "name:rus_x_preferred":[
@@ -140,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689317,
+    "wof:lastmodified":1561749602,
     "wof:name":"Oku\u010dani",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

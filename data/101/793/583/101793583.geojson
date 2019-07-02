@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Vuka"
     ],
-    "name:dut_x_preferred":[
-        "Vuka"
-    ],
     "name:eng_x_preferred":[
         "Vuka"
     ],
     "name:fra_x_preferred":[
-        "Vuka"
-    ],
-    "name:fre_x_preferred":[
         "Vuka"
     ],
     "name:hbs_x_preferred":[
@@ -48,9 +42,6 @@
         "Vuka"
     ],
     "name:ron_x_preferred":[
-        "Comuna Vuka"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Vuka"
     ],
     "name:rus_x_preferred":[
@@ -116,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689281,
+    "wof:lastmodified":1561749600,
     "wof:name":"Vuka",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

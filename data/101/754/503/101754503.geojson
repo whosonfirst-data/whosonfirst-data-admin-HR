@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000193,
-    "geom:area_square_m":1685446.330403,
+    "geom:area_square_m":1685446.330402,
     "geom:bbox":"18.0103187396,45.1834748215,18.0441138819,45.2039773549",
     "geom:latitude":45.190468,
     "geom:longitude":18.028238,
@@ -17,22 +17,16 @@
     "mps:longitude":18.02375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
+    "name:bos_x_preferred":[
         "Podvinje"
     ],
-    "name:bos_x_preferred":[
+    "name:deu_x_preferred":[
         "Podvinje"
     ],
     "name:eng_x_preferred":[
         "Podvinje"
     ],
     "name:fra_x_preferred":[
-        "Podvinje"
-    ],
-    "name:fre_x_preferred":[
-        "Podvinje"
-    ],
-    "name:ger_x_preferred":[
         "Podvinje"
     ],
     "name:hbs_x_preferred":[
@@ -51,6 +45,9 @@
         "Podvinje"
     ],
     "name:spa_x_preferred":[
+        "Podvinje"
+    ],
+    "name:sqi_x_preferred":[
         "Podvinje"
     ],
     "name:srp_x_preferred":[
@@ -105,7 +102,7 @@
         }
     ],
     "wof:id":101754503,
-    "wof:lastmodified":1527641852,
+    "wof:lastmodified":1561749587,
     "wof:name":"Podvinje",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000155,
-    "geom:area_square_m":1345204.279386,
+    "geom:area_square_m":1345204.279384,
     "geom:bbox":"18.1061995559,45.4899927407,18.1300950116,45.5078794931",
     "geom:latitude":45.496717,
     "geom:longitude":18.117557,
@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Markovac Na\u0161i\u010dki"
     ],
-    "name:dut_x_preferred":[
-        "Markovac Na\u0161i\u010dki"
-    ],
     "name:eng_x_preferred":[
         "Markovac Na\u0161i\u010dki"
     ],
@@ -29,6 +26,9 @@
         "Markovac Na\u0161i\u010dki"
     ],
     "name:hrv_x_preferred":[
+        "Markovac Na\u0161i\u010dki"
+    ],
+    "name:nld_x_preferred":[
         "Markovac Na\u0161i\u010dki"
     ],
     "name:slv_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101835401,
-    "wof:lastmodified":1527642774,
+    "wof:lastmodified":1561749596,
     "wof:name":"Markovac Na\u0161i\u010dki",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000129,
-    "geom:area_square_m":1117416.365849,
+    "geom:area_square_m":1117416.365851,
     "geom:bbox":"16.1310930043,45.6429625058,16.1456521747,45.6662236418",
     "geom:latitude":45.653136,
     "geom:longitude":16.139028,
@@ -26,16 +26,10 @@
     "name:deu_x_preferred":[
         "Turopolje"
     ],
-    "name:dut_x_preferred":[
-        "Turopolje"
-    ],
     "name:eng_x_preferred":[
         "Turopolje"
     ],
-    "name:fre_x_preferred":[
-        "Turopolje"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Turopolje"
     ],
     "name:hbs_x_preferred":[
@@ -48,6 +42,9 @@
         "Turopolje"
     ],
     "name:ita_x_preferred":[
+        "Turopolje"
+    ],
+    "name:nld_x_preferred":[
         "Turopolje"
     ],
     "name:por_x_preferred":[
@@ -115,7 +112,7 @@
         }
     ],
     "wof:id":101793557,
-    "wof:lastmodified":1527689275,
+    "wof:lastmodified":1561749599,
     "wof:name":"Turopolje",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

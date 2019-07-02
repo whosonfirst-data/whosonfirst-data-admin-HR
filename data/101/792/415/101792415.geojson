@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000145,
-    "geom:area_square_m":1247083.163125,
+    "geom:area_square_m":1247083.163126,
     "geom:bbox":"18.7228701461,45.740413402,18.7434761769,45.7593958661",
     "geom:latitude":45.75056,
     "geom:longitude":18.731846,
@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Kne\u017eevi Vinogradi"
     ],
-    "name:dut_x_preferred":[
-        "Kne\u017eevi Vinogradi"
-    ],
     "name:eng_x_preferred":[
         "Kne\u017eevi Vinogradi"
     ],
@@ -30,9 +27,6 @@
         "Kne\u017eevi Vinogradi"
     ],
     "name:fra_x_preferred":[
-        "Kne\u017eevi Vinogradi"
-    ],
-    "name:fre_x_preferred":[
         "Kne\u017eevi Vinogradi"
     ],
     "name:hrv_x_preferred":[
@@ -54,9 +48,6 @@
         "Kne\u017eevi Vinogradi"
     ],
     "name:ron_x_preferred":[
-        "Comuna Kne\u017eevi Vinogradi"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Kne\u017eevi Vinogradi"
     ],
     "name:slv_x_preferred":[
@@ -125,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714634,
+    "wof:lastmodified":1561749606,
     "wof:name":"Kne\u017eevi Vinogradi",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

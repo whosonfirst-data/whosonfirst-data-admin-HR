@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Hodo\u0161an"
     ],
-    "name:dut_x_preferred":[
-        "Hodo\u0161an"
-    ],
     "name:eng_x_preferred":[
         "Hodo\u0161an"
     ],
@@ -30,9 +27,6 @@
         "Hodo\u0161an"
     ],
     "name:fra_x_preferred":[
-        "Hodo\u0161an"
-    ],
-    "name:fre_x_preferred":[
         "Hodo\u0161an"
     ],
     "name:hbs_x_preferred":[
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":101790181,
-    "wof:lastmodified":1527641599,
+    "wof:lastmodified":1561749587,
     "wof:name":"Hodo\u0161an",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000192,
-    "geom:area_square_m":1676334.754995,
+    "geom:area_square_m":1676334.754997,
     "geom:bbox":"18.1309889458,45.1595172814,18.2234267547,45.1899182924",
     "geom:latitude":45.181197,
     "geom:longitude":18.179034,
@@ -23,19 +23,10 @@
     "name:deu_x_preferred":[
         "Gar\u010din"
     ],
-    "name:dut_x_preferred":[
-        "Gar\u010din"
-    ],
     "name:eng_x_preferred":[
         "Gar\u010din"
     ],
     "name:fra_x_preferred":[
-        "Gar\u010din"
-    ],
-    "name:fre_x_preferred":[
-        "Gar\u010din"
-    ],
-    "name:ger_x_preferred":[
         "Gar\u010din"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +45,6 @@
         "Gar\u010din"
     ],
     "name:ron_x_preferred":[
-        "Comuna Gar\u010din"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Gar\u010din"
     ],
     "name:slv_x_preferred":[
@@ -128,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689322,
+    "wof:lastmodified":1561749603,
     "wof:name":"Gar\u010din",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

@@ -21,9 +21,6 @@
     "name:bos_x_preferred":[
         "Veliki Gr\u0111evac"
     ],
-    "name:dut_x_preferred":[
-        "Veliki Gr\u0111evac"
-    ],
     "name:eng_x_preferred":[
         "Veliki Gr\u0111evac"
     ],
@@ -31,9 +28,6 @@
         "\u0648\u0644\u06cc\u06a9\u06cc \u06af\u0631\u062f\u0648\u06a9"
     ],
     "name:fra_x_preferred":[
-        "Veliki Gr\u0111evac"
-    ],
-    "name:fre_x_preferred":[
         "Veliki Gr\u0111evac"
     ],
     "name:hrv_x_preferred":[
@@ -48,16 +42,10 @@
     "name:nld_x_preferred":[
         "Veliki Gr\u0111evac"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u06cc\u06a9\u06cc \u06af\u0631\u062f\u0648\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Veliki Gr\u0111evac"
     ],
     "name:ron_x_preferred":[
-        "Comuna Veliki Gr\u0111evac"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Veliki Gr\u0111evac"
     ],
     "name:rus_x_preferred":[
@@ -122,7 +110,7 @@
         }
     ],
     "wof:id":101792445,
-    "wof:lastmodified":1527714638,
+    "wof:lastmodified":1561749607,
     "wof:name":"Veliki Gr\u0111evac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

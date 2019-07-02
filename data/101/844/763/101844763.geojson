@@ -20,19 +20,10 @@
     "name:afr_x_preferred":[
         "Novalja"
     ],
-    "name:alb_x_preferred":[
-        "Novalja"
-    ],
     "name:arg_x_preferred":[
         "Novalja"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u0578\u057e\u0561\u056c\u0575\u0561"
-    ],
     "name:ast_x_preferred":[
-        "Novalja"
-    ],
-    "name:baq_x_preferred":[
         "Novalja"
     ],
     "name:bar_x_preferred":[
@@ -47,8 +38,8 @@
     "name:cat_x_preferred":[
         "Novalja"
     ],
-    "name:chi_x_preferred":[
-        "\u8afe\u74e6\u5229\u4e9e"
+    "name:ces_x_preferred":[
+        "Novalja"
     ],
     "name:ckb_x_preferred":[
         "\u0646\u06c6\u06a4\u0627\u0644\u0627"
@@ -59,16 +50,10 @@
     "name:cym_x_preferred":[
         "Novalja"
     ],
-    "name:cze_x_preferred":[
-        "Novalja"
-    ],
     "name:dan_x_preferred":[
         "Novalja"
     ],
     "name:deu_x_preferred":[
-        "Novalja"
-    ],
-    "name:dut_x_preferred":[
         "Novalja"
     ],
     "name:eng_x_preferred":[
@@ -92,16 +77,10 @@
     "name:fra_x_preferred":[
         "Novalja"
     ],
-    "name:fre_x_preferred":[
-        "Novalja"
-    ],
     "name:frp_x_preferred":[
         "Novalja"
     ],
     "name:fur_x_preferred":[
-        "Novalja"
-    ],
-    "name:ger_x_preferred":[
         "Novalja"
     ],
     "name:gla_x_preferred":[
@@ -125,8 +104,8 @@
     "name:hun_x_preferred":[
         "Novalja"
     ],
-    "name:ice_x_preferred":[
-        "Novalja"
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u057e\u0561\u056c\u0575\u0561"
     ],
     "name:ido_x_preferred":[
         "Novalja"
@@ -138,6 +117,9 @@
         "Novalja"
     ],
     "name:ind_x_preferred":[
+        "Novalja"
+    ],
+    "name:isl_x_preferred":[
         "Novalja"
     ],
     "name:ita_x_preferred":[
@@ -161,13 +143,13 @@
     "name:ltz_x_preferred":[
         "Novalja"
     ],
-    "name:may_x_preferred":[
-        "Novalja"
-    ],
     "name:min_x_preferred":[
         "Novalja"
     ],
     "name:mlg_x_preferred":[
+        "Novalja"
+    ],
+    "name:msa_x_preferred":[
         "Novalja"
     ],
     "name:nap_x_preferred":[
@@ -194,9 +176,6 @@
     "name:pcd_x_preferred":[
         "Novalja"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u0627\u0644\u06cc\u0627"
-    ],
     "name:pms_x_preferred":[
         "Novalja"
     ],
@@ -212,9 +191,6 @@
     "name:ron_x_preferred":[
         "Novalja"
     ],
-    "name:rum_x_preferred":[
-        "Novalja"
-    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u0430\u043b\u044f"
     ],
@@ -224,7 +200,7 @@
     "name:sco_x_preferred":[
         "Novalja"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Novalja"
     ],
     "name:slv_x_preferred":[
@@ -273,9 +249,6 @@
         "Novalja"
     ],
     "name:war_x_preferred":[
-        "Novalja"
-    ],
-    "name:wel_x_preferred":[
         "Novalja"
     ],
     "name:wln_x_preferred":[
@@ -342,7 +315,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642617,
+    "wof:lastmodified":1561749592,
     "wof:name":"Novalja",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

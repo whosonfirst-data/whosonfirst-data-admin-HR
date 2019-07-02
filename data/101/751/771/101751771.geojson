@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000672,
-    "geom:area_square_m":5893389.96201,
+    "geom:area_square_m":5893389.962009,
     "geom:bbox":"13.8290215,44.8475225,13.868678,44.8829725",
     "geom:latitude":44.865308,
     "geom:longitude":13.850389,
@@ -21,19 +21,10 @@
     "name:afr_x_preferred":[
         "Pula"
     ],
-    "name:alb_x_preferred":[
-        "Pula"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u0582\u056c\u0561"
-    ],
     "name:aze_x_preferred":[
-        "Pula"
-    ],
-    "name:baq_x_preferred":[
         "Pula"
     ],
     "name:bel_x_variant":[
@@ -54,25 +45,16 @@
     "name:ces_x_preferred":[
         "Pula"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u62c9"
-    ],
     "name:ckb_x_preferred":[
         "\u067e\u0648\u0644\u0627"
     ],
     "name:cym_x_preferred":[
         "Pula"
     ],
-    "name:cze_x_preferred":[
-        "Pula"
-    ],
     "name:dan_x_preferred":[
         "Pula"
     ],
     "name:deu_x_preferred":[
-        "Pula"
-    ],
-    "name:dut_x_preferred":[
         "Pula"
     ],
     "name:ell_x_preferred":[
@@ -107,20 +89,8 @@
     "name:fra_x_preferred":[
         "Pula"
     ],
-    "name:fre_x_preferred":[
-        "Pula"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10da\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Pula"
-    ],
     "name:gle_x_preferred":[
         "Pula"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03cd\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac1\u0ab2\u0abe"
@@ -146,10 +116,10 @@
     "name:hye_x_preferred":[
         "\u054a\u0578\u0582\u056c\u0561"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Pula"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Pula"
     ],
     "name:ita_x_preferred":[
@@ -182,14 +152,8 @@
     "name:ltz_x_preferred":[
         "Pula"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0443\u043b\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u0941\u0932\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Pula"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0443\u043b\u0430"
@@ -215,9 +179,6 @@
     "name:oci_x_preferred":[
         "Pula"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0644\u0627"
-    ],
     "name:pol_x_preferred":[
         "Pula"
     ],
@@ -230,9 +191,6 @@
     "name:ron_x_variant":[
         "Pola"
     ],
-    "name:rum_x_preferred":[
-        "Pula"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0443\u043b\u0430"
     ],
@@ -243,9 +201,6 @@
         "\u0db4\u0dd4\u0dbd\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Pula"
-    ],
-    "name:slo_x_preferred":[
         "Pula"
     ],
     "name:slv_x_preferred":[
@@ -318,9 +273,6 @@
         "Pula"
     ],
     "name:war_x_preferred":[
-        "Pula"
-    ],
-    "name:wel_x_preferred":[
         "Pula"
     ],
     "name:yid_x_preferred":[
@@ -476,7 +428,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714360,
+    "wof:lastmodified":1561749604,
     "wof:name":"Pula",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

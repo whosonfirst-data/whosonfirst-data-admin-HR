@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000154,
-    "geom:area_square_m":1347064.787467,
+    "geom:area_square_m":1347064.787468,
     "geom:bbox":"17.7230057791,45.0909464597,17.7470034776,45.1150400829",
     "geom:latitude":45.099393,
     "geom:longitude":17.736252,
@@ -17,9 +17,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:bos_x_preferred":[
-        "Slavonski Koba\u0161"
-    ],
-    "name:dut_x_preferred":[
         "Slavonski Koba\u0161"
     ],
     "name:eng_x_preferred":[
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":101794643,
-    "wof:lastmodified":1527689316,
+    "wof:lastmodified":1561749601,
     "wof:name":"Slavonski Koba\u0161",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

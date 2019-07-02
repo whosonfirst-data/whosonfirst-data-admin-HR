@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000061,
-    "geom:area_square_m":538937.681597,
+    "geom:area_square_m":538937.681598,
     "geom:bbox":"15.6746201085,44.1928878264,15.692057886,44.2022193862",
     "geom:latitude":44.198432,
     "geom:longitude":15.682393,
@@ -23,19 +23,10 @@
     "name:ces_x_preferred":[
         "Obrovac"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u5e03\u7f85\u74e6\u8328"
-    ],
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u0628\u0631\u06c6\u06a4\u0627\u062a\u0633"
     ],
-    "name:cze_x_preferred":[
-        "Obrovac"
-    ],
     "name:deu_x_preferred":[
-        "Obrovac"
-    ],
-    "name:dut_x_preferred":[
         "Obrovac"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "\u0627\u0628\u0631\u0648\u0627\u062a\u0633\u060c \u06a9\u0631\u0648\u0627\u0633\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Obrovac"
-    ],
-    "name:fre_x_preferred":[
-        "Obrovac"
-    ],
-    "name:ger_x_preferred":[
         "Obrovac"
     ],
     "name:hbs_x_preferred":[
@@ -71,9 +56,6 @@
     "name:nld_x_preferred":[
         "Obrovac"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0628\u0631\u0648\u0627\u062a\u0633\u060c \u06a9\u0631\u0648\u0627\u0633\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Obrovac"
     ],
@@ -81,9 +63,6 @@
         "Obrovac"
     ],
     "name:ron_x_preferred":[
-        "Obrovac"
-    ],
-    "name:rum_x_preferred":[
         "Obrovac"
     ],
     "name:rus_x_preferred":[
@@ -162,7 +141,7 @@
         }
     ],
     "wof:id":101795779,
-    "wof:lastmodified":1527714608,
+    "wof:lastmodified":1561749605,
     "wof:name":"Obrovac",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

@@ -25,16 +25,13 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0438\u043d\u0441\u043a\u0430"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Malinska"
     ],
     "name:eng_x_preferred":[
         "Malinska"
     ],
-    "name:fre_x_preferred":[
-        "Malinska"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Malinska"
     ],
     "name:hrv_x_preferred":[
@@ -44,6 +41,9 @@
         "Malinska"
     ],
     "name:ita_x_preferred":[
+        "Malinska"
+    ],
+    "name:nld_x_preferred":[
         "Malinska"
     ],
     "name:rus_x_preferred":[
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1125809405,
-    "wof:lastmodified":1514447528,
+    "wof:lastmodified":1561749617,
     "wof:name":"Malinska",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

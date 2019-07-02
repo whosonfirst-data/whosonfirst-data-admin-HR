@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000486,
-    "geom:area_square_m":4190230.544467,
+    "geom:area_square_m":4190230.544466,
     "geom:bbox":"15.9730304155,45.7236350351,16.0344685779,45.7540094147",
     "geom:latitude":45.736428,
     "geom:longitude":16.00674,
@@ -16,13 +16,7 @@
     "mps:longitude":15.996644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Velika Mlaka"
-    ],
     "name:bos_x_preferred":[
-        "Velika Mlaka"
-    ],
-    "name:dut_x_preferred":[
         "Velika Mlaka"
     ],
     "name:eng_x_preferred":[
@@ -40,8 +34,8 @@
     "name:hun_x_preferred":[
         "Velika Mlaka"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u06cc\u06a9\u0627 \u0645\u0644\u06a9\u0627"
+    "name:nld_x_preferred":[
+        "Velika Mlaka"
     ],
     "name:slv_x_preferred":[
         "Velika Mlaka"
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":101792347,
-    "wof:lastmodified":1527714636,
+    "wof:lastmodified":1561749607,
     "wof:name":"Velika Mlaka",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

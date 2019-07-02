@@ -22,19 +22,19 @@
     "name:bos_x_preferred":[
         "\u0160krljevo"
     ],
-    "name:dut_x_preferred":[
-        "\u0160krljevo"
-    ],
     "name:eng_x_preferred":[
         "\u0160krljevo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u0160krljevo"
     ],
     "name:hrv_x_preferred":[
         "\u0160krljevo"
     ],
     "name:hun_x_preferred":[
+        "\u0160krljevo"
+    ],
+    "name:nld_x_preferred":[
         "\u0160krljevo"
     ],
     "name:slv_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125951173,
-    "wof:lastmodified":1553816652,
+    "wof:lastmodified":1561749612,
     "wof:name":"Skrljevo",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

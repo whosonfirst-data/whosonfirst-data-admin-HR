@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002352,
-    "geom:area_square_m":20393637.909344,
+    "geom:area_square_m":20393637.909348,
     "geom:bbox":"16.2649926188,45.4121049305,16.4051570329,45.5387666303",
     "geom:latitude":45.472906,
     "geom:longitude":16.36368,
@@ -16,14 +16,8 @@
     "mps:longitude":16.36854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Mo\u0161\u010denica"
-    ],
     "name:bos_x_preferred":[
         "Mo\u0161\u010denica"
-    ],
-    "name:dut_x_preferred":[
-        "Mo\u0161\u0107enica"
     ],
     "name:eng_x_preferred":[
         "Mo\u0161\u0107enica"
@@ -98,7 +92,7 @@
         }
     ],
     "wof:id":101835337,
-    "wof:lastmodified":1527642773,
+    "wof:lastmodified":1561749595,
     "wof:name":"Mo\u0161\u010denica",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

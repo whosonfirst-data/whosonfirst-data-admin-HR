@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000439,
-    "geom:area_square_m":3811372.760363,
+    "geom:area_square_m":3811372.760362,
     "geom:bbox":"13.5083024133,45.4257280388,13.5349757512,45.4684947393",
     "geom:latitude":45.445207,
     "geom:longitude":13.52052,
@@ -20,16 +20,10 @@
     "name:afr_x_preferred":[
         "Umag"
     ],
-    "name:alb_x_preferred":[
-        "Umag"
-    ],
     "name:arg_x_preferred":[
         "Umag"
     ],
     "name:ast_x_preferred":[
-        "Umag"
-    ],
-    "name:baq_x_preferred":[
         "Umag"
     ],
     "name:bar_x_preferred":[
@@ -50,25 +44,19 @@
     "name:ces_x_preferred":[
         "Umag"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u99ac\u683c"
-    ],
     "name:ckb_x_preferred":[
         "\u0626\u0648\u0645\u0627\u06af"
     ],
     "name:cos_x_preferred":[
         "Umag"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Umag"
     ],
     "name:dan_x_preferred":[
         "Umag"
     ],
     "name:deu_x_preferred":[
-        "Umag"
-    ],
-    "name:dut_x_preferred":[
         "Umag"
     ],
     "name:ell_x_preferred":[
@@ -86,6 +74,9 @@
     "name:est_x_preferred":[
         "Umag"
     ],
+    "name:eus_x_preferred":[
+        "Umag"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0645\u0627\u06af"
     ],
@@ -95,16 +86,10 @@
     "name:fra_x_preferred":[
         "Umag"
     ],
-    "name:fre_x_preferred":[
-        "Umag"
-    ],
     "name:frp_x_preferred":[
         "Umag"
     ],
     "name:fur_x_preferred":[
-        "Umag"
-    ],
-    "name:ger_x_preferred":[
         "Umag"
     ],
     "name:gla_x_preferred":[
@@ -115,9 +100,6 @@
     ],
     "name:glg_x_preferred":[
         "Umag"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03cd\u03bc\u03b1\u03b3\u03ba"
     ],
     "name:gsw_x_preferred":[
         "Umag"
@@ -131,9 +113,6 @@
     "name:hun_x_preferred":[
         "Umag"
     ],
-    "name:ice_x_preferred":[
-        "Umag"
-    ],
     "name:ido_x_preferred":[
         "Umag"
     ],
@@ -144,6 +123,9 @@
         "Umag"
     ],
     "name:ind_x_preferred":[
+        "Umag"
+    ],
+    "name:isl_x_preferred":[
         "Umag"
     ],
     "name:ita_x_preferred":[
@@ -170,16 +152,16 @@
     "name:ltz_x_preferred":[
         "Umag"
     ],
-    "name:mac_x_preferred":[
-        "\u0423\u043c\u0430\u0433"
-    ],
-    "name:may_x_preferred":[
-        "Umag"
-    ],
     "name:min_x_preferred":[
         "Umag"
     ],
+    "name:mkd_x_preferred":[
+        "\u0423\u043c\u0430\u0433"
+    ],
     "name:mlg_x_preferred":[
+        "Umag"
+    ],
+    "name:msa_x_preferred":[
         "Umag"
     ],
     "name:nap_x_preferred":[
@@ -209,9 +191,6 @@
     "name:pcd_x_preferred":[
         "Umag"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0645\u0627\u06af"
-    ],
     "name:pms_x_preferred":[
         "Umag"
     ],
@@ -227,9 +206,6 @@
     "name:ron_x_preferred":[
         "Umag"
     ],
-    "name:rum_x_preferred":[
-        "Umag"
-    ],
     "name:rus_x_preferred":[
         "\u0423\u043c\u0430\u0433"
     ],
@@ -240,9 +216,6 @@
         "Umag"
     ],
     "name:slk_x_preferred":[
-        "Umag"
-    ],
-    "name:slo_x_preferred":[
         "Umag"
     ],
     "name:slv_x_preferred":[
@@ -294,9 +267,6 @@
         "Umag"
     ],
     "name:war_x_preferred":[
-        "Umag"
-    ],
-    "name:wel_x_preferred":[
         "Umag"
     ],
     "name:wln_x_preferred":[
@@ -361,7 +331,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689316,
+    "wof:lastmodified":1561749601,
     "wof:name":"Umag",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

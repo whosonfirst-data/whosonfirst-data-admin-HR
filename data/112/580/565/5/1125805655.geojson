@@ -22,13 +22,13 @@
     "name:bos_x_preferred":[
         "\u0160i\u0161kovci"
     ],
-    "name:dut_x_preferred":[
-        "\u0160i\u0161kovci"
-    ],
     "name:eng_x_preferred":[
         "\u0160i\u0161kovci"
     ],
     "name:hrv_x_preferred":[
+        "\u0160i\u0161kovci"
+    ],
+    "name:nld_x_preferred":[
         "\u0160i\u0161kovci"
     ],
     "name:slv_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125805655,
-    "wof:lastmodified":1514447760,
+    "wof:lastmodified":1561749618,
     "wof:name":"\u0160i\u0161kovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Brbinj"
     ],
-    "name:dut_x_preferred":[
-        "Brbinj"
-    ],
     "name:eng_x_preferred":[
         "Brbinj"
     ],
@@ -32,6 +29,9 @@
         "Brbinj"
     ],
     "name:hun_x_preferred":[
+        "Brbinj"
+    ],
+    "name:nld_x_preferred":[
         "Brbinj"
     ],
     "name:slv_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125783935,
-    "wof:lastmodified":1514447398,
+    "wof:lastmodified":1561749624,
     "wof:name":"Brbinj",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

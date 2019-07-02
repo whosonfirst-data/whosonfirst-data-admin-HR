@@ -22,22 +22,22 @@
     "name:bos_x_preferred":[
         "Premantura"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Premantura"
     ],
     "name:eng_x_preferred":[
         "Premantura"
     ],
-    "name:fre_x_preferred":[
-        "Premantura"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Premantura"
     ],
     "name:hrv_x_preferred":[
         "Premantura"
     ],
     "name:hun_x_preferred":[
+        "Premantura"
+    ],
+    "name:nld_x_preferred":[
         "Premantura"
     ],
     "name:slv_x_preferred":[
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125987925,
-    "wof:lastmodified":1553816680,
+    "wof:lastmodified":1561749621,
     "wof:name":"Premantura",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

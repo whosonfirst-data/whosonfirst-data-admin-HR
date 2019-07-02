@@ -17,16 +17,10 @@
     "mps:longitude":15.84535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Gra\u010dac"
-    ],
     "name:bos_x_preferred":[
         "Gra\u010dac"
     ],
     "name:deu_x_preferred":[
-        "Gra\u010dac"
-    ],
-    "name:dut_x_preferred":[
         "Gra\u010dac"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "Gra\u010dac"
     ],
     "name:fra_x_preferred":[
-        "Gra\u010dac"
-    ],
-    "name:fre_x_preferred":[
-        "Gra\u010dac"
-    ],
-    "name:ger_x_preferred":[
         "Gra\u010dac"
     ],
     "name:hrv_x_preferred":[
@@ -65,16 +53,19 @@
     "name:por_x_preferred":[
         "Gra\u010dac"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Gra\u010dac"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gra\u010dac"
     ],
     "name:slv_x_preferred":[
         "Gra\u010dac"
     ],
     "name:spa_x_preferred":[
+        "Gra\u010dac"
+    ],
+    "name:sqi_x_preferred":[
         "Gra\u010dac"
     ],
     "name:srp_x_preferred":[
@@ -130,7 +121,7 @@
         }
     ],
     "wof:id":101844757,
-    "wof:lastmodified":1553815540,
+    "wof:lastmodified":1561749593,
     "wof:name":"Gra\u010dac",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

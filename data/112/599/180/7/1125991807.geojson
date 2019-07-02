@@ -21,9 +21,6 @@
     "name:bos_x_preferred":[
         "Tribanj"
     ],
-    "name:dut_x_preferred":[
-        "Tribanj"
-    ],
     "name:eng_x_preferred":[
         "Tribanj"
     ],
@@ -31,6 +28,9 @@
         "Tribanj"
     ],
     "name:hun_x_preferred":[
+        "Tribanj"
+    ],
+    "name:nld_x_preferred":[
         "Tribanj"
     ],
     "name:slv_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125991807,
-    "wof:lastmodified":1514447663,
+    "wof:lastmodified":1561749619,
     "wof:name":"Tribanj-Kru\u0161\u0107ica",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

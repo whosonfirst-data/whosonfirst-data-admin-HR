@@ -25,7 +25,7 @@
     "name:eng_x_preferred":[
         "Ledenice"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ledenice"
     ],
     "name:hrv_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125963007,
-    "wof:lastmodified":1553816659,
+    "wof:lastmodified":1561749620,
     "wof:name":"Ledenice",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

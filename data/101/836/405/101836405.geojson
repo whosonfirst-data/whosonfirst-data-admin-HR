@@ -17,17 +17,8 @@
     "mps:longitude":16.246854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Trogir"
-    ],
     "name:ara_x_preferred":[
         "\u062a\u0631\u0648\u063a\u064a\u0631"
-    ],
-    "name:arm_x_preferred":[
-        "\u054f\u0580\u0578\u0563\u056b\u0580"
-    ],
-    "name:baq_x_preferred":[
-        "Trogir"
     ],
     "name:bos_x_preferred":[
         "Trogir"
@@ -41,22 +32,13 @@
     "name:ces_x_preferred":[
         "Trogir"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u7f57\u5409\u5c14"
-    ],
     "name:ckb_x_preferred":[
         "\u062a\u0631\u06c6\u06af\u06cc\u0631"
-    ],
-    "name:cze_x_preferred":[
-        "Trogir"
     ],
     "name:dan_x_preferred":[
         "Trogir"
     ],
     "name:deu_x_preferred":[
-        "Trogir"
-    ],
-    "name:dut_x_preferred":[
         "Trogir"
     ],
     "name:ell_x_preferred":[
@@ -71,6 +53,9 @@
     "name:epo_x_preferred":[
         "Trogir"
     ],
+    "name:eus_x_preferred":[
+        "Trogir"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0631\u0648\u06af\u06cc\u0631"
     ],
@@ -79,18 +64,6 @@
     ],
     "name:fra_x_preferred":[
         "Trogir"
-    ],
-    "name:fre_x_preferred":[
-        "Trogir"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e0\u10dd\u10d2\u10d8\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Trogir"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c1\u03bf\u03b3\u03ba\u03af\u03c1"
     ],
     "name:hbs_x_preferred":[
         "Trogir"
@@ -106,6 +79,9 @@
     ],
     "name:hun_x_variant":[
         "Trogir"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0580\u0578\u0563\u056b\u0580"
     ],
     "name:ind_x_preferred":[
         "Trogir"
@@ -128,17 +104,11 @@
     "name:lit_x_preferred":[
         "Trogiras"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0440\u043e\u0433\u0438\u0440"
-    ],
     "name:mkd_x_preferred":[
         "\u0422\u0440\u043e\u0433\u0438\u0440"
     ],
     "name:nld_x_preferred":[
         "Trogir"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u0648\u06af\u06cc\u0631"
     ],
     "name:pol_x_preferred":[
         "Trogir"
@@ -149,22 +119,22 @@
     "name:ron_x_preferred":[
         "Trogir"
     ],
-    "name:rum_x_preferred":[
-        "Trogir"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u043e\u0433\u0438\u0440"
     ],
     "name:sco_x_preferred":[
         "Trogir"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Trogir"
     ],
     "name:slv_x_preferred":[
         "Trogir"
     ],
     "name:spa_x_preferred":[
+        "Trogir"
+    ],
+    "name:sqi_x_preferred":[
         "Trogir"
     ],
     "name:srp_x_preferred":[
@@ -244,7 +214,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527715158,
+    "wof:lastmodified":1561749609,
     "wof:name":"Trogir",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
-    "geom:area_square_m":778278.594122,
+    "geom:area_square_m":778278.594123,
     "geom:bbox":"15.2618826877,45.212584339,15.2812410687,45.2314488039",
     "geom:latitude":45.223388,
     "geom:longitude":15.271828,
@@ -21,9 +21,6 @@
         "O\u0161tarije"
     ],
     "name:cat_x_preferred":[
-        "O\u0161tarije"
-    ],
-    "name:dut_x_preferred":[
         "O\u0161tarije"
     ],
     "name:eng_x_preferred":[
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":101794723,
-    "wof:lastmodified":1527689319,
+    "wof:lastmodified":1561749602,
     "wof:name":"O\u0161tarije",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

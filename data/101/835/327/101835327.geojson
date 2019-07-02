@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Rokovci"
     ],
-    "name:dut_x_preferred":[
-        "Rokovci"
-    ],
     "name:eng_x_preferred":[
         "Rokovci"
     ],
@@ -30,6 +27,9 @@
         "Rokovci"
     ],
     "name:hrv_x_preferred":[
+        "Rokovci"
+    ],
+    "name:nld_x_preferred":[
         "Rokovci"
     ],
     "name:slv_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":101835327,
-    "wof:lastmodified":1527642779,
+    "wof:lastmodified":1561749597,
     "wof:name":"Rokovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

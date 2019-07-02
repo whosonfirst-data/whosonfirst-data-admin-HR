@@ -35,19 +35,10 @@
     "name:ces_x_preferred":[
         "Cres"
     ],
-    "name:chi_x_preferred":[
-        "\u8328\u96f7\u65af"
-    ],
     "name:ckb_x_preferred":[
         "\u062a\u0633\u0631\u06ce\u0633"
     ],
-    "name:cze_x_preferred":[
-        "Cres"
-    ],
     "name:deu_x_preferred":[
-        "Cres"
-    ],
-    "name:dut_x_preferred":[
         "Cres"
     ],
     "name:ell_x_preferred":[
@@ -68,16 +59,13 @@
     "name:eus_x_preferred":[
         "Cres"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0633"
+    ],
     "name:fin_x_preferred":[
         "Cres"
     ],
     "name:fra_x_preferred":[
-        "Cres"
-    ],
-    "name:fre_x_preferred":[
-        "Cres"
-    ],
-    "name:ger_x_preferred":[
         "Cres"
     ],
     "name:glg_x_preferred":[
@@ -131,9 +119,6 @@
     "name:oci_x_preferred":[
         "Cres"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u0633"
-    ],
     "name:pol_x_preferred":[
         "Cres"
     ],
@@ -143,9 +128,6 @@
     "name:ron_x_preferred":[
         "Cres"
     ],
-    "name:rum_x_preferred":[
-        "Cres"
-    ],
     "name:rus_x_preferred":[
         "\u0426\u0440\u0435\u0441"
     ],
@@ -153,9 +135,6 @@
         "Cres"
     ],
     "name:slk_x_preferred":[
-        "Cres"
-    ],
-    "name:slo_x_preferred":[
         "Cres"
     ],
     "name:slv_x_preferred":[
@@ -206,6 +185,9 @@
     "name:zho_x_preferred":[
         "\u8328\u96f7\u65af\u5cf6"
     ],
+    "name:zho_x_variant":[
+        "\u8328\u96f7\u65af"
+    ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Primorsko-goranska \u017eupanija",
     "qs:a1r":"0",
@@ -254,7 +236,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815509,
+    "wof:lastmodified":1561749604,
     "wof:name":"Cres",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

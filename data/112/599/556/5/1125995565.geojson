@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Mastrinka"
     ],
-    "name:dut_x_preferred":[
-        "Mastrinka"
-    ],
     "name:eng_x_preferred":[
         "Mastrinka"
     ],
@@ -32,6 +29,9 @@
         "Mastrinka"
     ],
     "name:hun_x_preferred":[
+        "Mastrinka"
+    ],
+    "name:nld_x_preferred":[
         "Mastrinka"
     ],
     "name:slv_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125995565,
-    "wof:lastmodified":1553816686,
+    "wof:lastmodified":1561749618,
     "wof:name":"Mastrinka",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

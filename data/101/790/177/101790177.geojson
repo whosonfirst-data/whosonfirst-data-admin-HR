@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00017,
-    "geom:area_square_m":1446398.341847,
+    "geom:area_square_m":1446398.341848,
     "geom:bbox":"16.4975995489,46.3963869781,16.5326968939,46.4102101856",
     "geom:latitude":46.403795,
     "geom:longitude":16.513464,
@@ -23,13 +23,7 @@
     "name:ces_x_preferred":[
         "Belica"
     ],
-    "name:cze_x_preferred":[
-        "Belica"
-    ],
     "name:deu_x_preferred":[
-        "Belica"
-    ],
-    "name:dut_x_preferred":[
         "Belica"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "Belica"
     ],
     "name:fra_x_preferred":[
-        "Belica"
-    ],
-    "name:fre_x_preferred":[
-        "Belica"
-    ],
-    "name:ger_x_preferred":[
         "Belica"
     ],
     "name:hrv_x_preferred":[
@@ -62,7 +50,7 @@
     "name:nld_x_preferred":[
         "Belica"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Belica"
     ],
     "name:slv_x_preferred":[
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":101790177,
-    "wof:lastmodified":1553815504,
+    "wof:lastmodified":1561749587,
     "wof:name":"Belica",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

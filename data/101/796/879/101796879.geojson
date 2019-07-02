@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000424,
-    "geom:area_square_m":3833480.372652,
+    "geom:area_square_m":3833480.372654,
     "geom:bbox":"17.422590144,43.0310128608,17.4546599455,43.0697938537",
     "geom:latitude":43.046578,
     "geom:longitude":17.4334,
@@ -16,9 +16,6 @@
     "mps:longitude":17.434494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Plo\u010de"
-    ],
     "name:bos_x_preferred":[
         "Plo\u010de"
     ],
@@ -28,19 +25,10 @@
     "name:ces_x_preferred":[
         "Plo\u010de"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u6d1b\u5207"
-    ],
     "name:ckb_x_preferred":[
         "\u067e\u0644\u06c6\u0686\u06ce"
     ],
-    "name:cze_x_preferred":[
-        "Plo\u010de"
-    ],
     "name:deu_x_preferred":[
-        "Plo\u010de"
-    ],
-    "name:dut_x_preferred":[
         "Plo\u010de"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +45,6 @@
         "\u067e\u0644\u0686\u0647"
     ],
     "name:fra_x_preferred":[
-        "Plo\u010de"
-    ],
-    "name:fre_x_preferred":[
-        "Plo\u010de"
-    ],
-    "name:ger_x_preferred":[
         "Plo\u010de"
     ],
     "name:hbs_x_preferred":[
@@ -89,11 +71,11 @@
     "name:lat_x_preferred":[
         "Ploca"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "Plo\u010de"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0644\u0686\u0647"
+    "name:oci_x_preferred":[
+        "Plo\u010de"
     ],
     "name:pol_x_preferred":[
         "Plo\u010de"
@@ -104,22 +86,22 @@
     "name:ron_x_preferred":[
         "Plo\u010de"
     ],
-    "name:rum_x_preferred":[
-        "Plo\u010de"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u043b\u043e\u0447\u0435"
     ],
     "name:sco_x_preferred":[
         "Plo\u010de"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Plo\u010de"
     ],
     "name:slv_x_preferred":[
         "Plo\u010de"
     ],
     "name:spa_x_preferred":[
+        "Plo\u010de"
+    ],
+    "name:sqi_x_preferred":[
         "Plo\u010de"
     ],
     "name:srp_x_preferred":[
@@ -154,6 +136,9 @@
     ],
     "name:war_x_preferred":[
         "Plo\u010de"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u6d1b\u5207"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Dubrovacko-neretvanska \u017eupanija",
@@ -201,7 +186,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642035,
+    "wof:lastmodified":1561749591,
     "wof:name":"Plo\u010de",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

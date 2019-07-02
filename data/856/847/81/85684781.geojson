@@ -24,17 +24,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:alb_x_preferred":[
-        "Zhupania e Splitit dhe e Dalmacis\u00eb"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0628\u0644\u064a\u062a-\u062f\u0627\u0644\u0645\u0627\u0633\u064a\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u057a\u056c\u056b\u057f\u057d\u056f\u0578 \u0534\u0561\u056c\u0574\u0561\u057f\u056b\u0576\u057d\u056f\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Split-Dalmazia eskualdea"
     ],
     "name:bel_x_preferred":[
         "\u0421\u043f\u043b\u0456\u0446\u043a\u0430-\u0414\u0430\u043b\u043c\u0430\u0446\u0456\u043d\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
@@ -54,14 +45,8 @@
     "name:ces_x_preferred":[
         "Splitsko-dalmatsk\u00e1 \u017eupa"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u666e\u5229\u7279-\u9054\u723e\u99ac\u63d0\u4e9e\u7e23"
-    ],
     "name:cor_x_preferred":[
         "Konteth Split-Dalmati"
-    ],
-    "name:cze_x_preferred":[
-        "Splitsko-dalmatsk\u00e1 \u017eupa"
     ],
     "name:dan_x_preferred":[
         "Split-Dalmatia County"
@@ -69,8 +54,8 @@
     "name:deu_x_preferred":[
         "Gespanschaft Split-Dalmatien"
     ],
-    "name:dut_x_preferred":[
-        "Split-Dalmati\u00eb"
+    "name:ell_x_preferred":[
+        "\u03a3\u03c0\u03bb\u03b9\u03c4-\u039d\u03c4\u03b1\u03bb\u03bc\u03b1\u03c4\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Splitsko-dalmatinska"
@@ -93,15 +78,6 @@
     "name:fra_x_variant":[
         "Split-Dalmatie"
     ],
-    "name:fre_x_preferred":[
-        "Comitat de Split-Dalmatie"
-    ],
-    "name:ger_x_preferred":[
-        "Gespanschaft Split-Dalmatien"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c0\u03bb\u03b9\u03c4-\u039d\u03c4\u03b1\u03bb\u03bc\u03b1\u03c4\u03af\u03b1"
-    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0aaa\u0acd\u0ab2\u0abf\u0a9f-\u0aa1\u0ab2\u0acd\u0aae\u0abe\u0a9f\u0abf\u0aaf\u0abe \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
     ],
@@ -116,6 +92,9 @@
     ],
     "name:hun_x_preferred":[
         "Split-Dalm\u00e1cia megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057a\u056c\u056b\u057f\u057d\u056f\u0578 \u0534\u0561\u056c\u0574\u0561\u057f\u056b\u0576\u057d\u056f\u0561"
     ],
     "name:ile_x_preferred":[
         "Comtia Split-Dalmatia"
@@ -148,17 +127,14 @@
     "name:lit_x_preferred":[
         "Splito\u2013Dalmatijos apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u043f\u043b\u0438\u0442\u0441\u043a\u043e-\u0434\u0430\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u092a\u094d\u0932\u093f\u091f-\u0921\u0932\u094d\u092e\u0945\u091f\u093f\u092f\u093e \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
-        "Split-Dalmatia County"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u043f\u043b\u0438\u0442\u0441\u043a\u043e-\u0434\u0430\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Split-Dalmatia County"
     ],
     "name:nld_x_preferred":[
         "Split-Dalmati\u00eb"
@@ -184,9 +160,6 @@
     "name:ron_x_preferred":[
         "Cantonul Split-Dalma\u021bia"
     ],
-    "name:rum_x_preferred":[
-        "Cantonul Split-Dalma\u021bia"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043f\u043b\u0438\u0442\u0441\u043a\u043e-\u0414\u0430\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430"
     ],
@@ -194,9 +167,6 @@
         "\u0dc3\u0dca\u0db4\u0dca\u0dbd\u0dd2\u0da7\u0dca \u0da9\u0dbd\u0dca\u0db8\u0da7\u0dd2\u0dba\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
     "name:slk_x_preferred":[
-        "Splitsko-dalmat\u00ednska \u017eupa"
-    ],
-    "name:slo_x_preferred":[
         "Splitsko-dalmat\u00ednska \u017eupa"
     ],
     "name:slv_x_preferred":[
@@ -378,7 +348,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1553550778,
+    "wof:lastmodified":1561749557,
     "wof:name":"Splitsko-dalmatinska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

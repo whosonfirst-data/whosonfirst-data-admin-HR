@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Buda\u0161evo"
     ],
-    "name:dut_x_preferred":[
-        "Buda\u0161evo"
-    ],
     "name:eng_x_preferred":[
         "Buda\u0161evo"
     ],
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":101835339,
-    "wof:lastmodified":1535390433,
+    "wof:lastmodified":1561749595,
     "wof:name":"Buda\u0161evo",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

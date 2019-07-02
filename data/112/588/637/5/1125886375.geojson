@@ -28,19 +28,10 @@
     "name:deu_x_preferred":[
         "Slatine"
     ],
-    "name:dut_x_preferred":[
-        "Slatine"
-    ],
     "name:eng_x_preferred":[
         "Slatine"
     ],
     "name:fra_x_preferred":[
-        "Slatine"
-    ],
-    "name:fre_x_preferred":[
-        "Slatine"
-    ],
-    "name:ger_x_preferred":[
         "Slatine"
     ],
     "name:hrv_x_preferred":[
@@ -51,6 +42,9 @@
     ],
     "name:ita_x_preferred":[
         "Bagno di Bua"
+    ],
+    "name:nld_x_preferred":[
+        "Slatine"
     ],
     "name:pol_x_preferred":[
         "Slatine"
@@ -101,7 +95,7 @@
         }
     ],
     "wof:id":1125886375,
-    "wof:lastmodified":1553816602,
+    "wof:lastmodified":1561749617,
     "wof:name":"Slatine",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -17,9 +17,6 @@
     "mps:longitude":17.060824,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054f\u0578\u0582\u0579\u0565\u057a\u056b"
-    ],
     "name:bos_x_preferred":[
         "Tu\u010depi"
     ],
@@ -29,13 +26,7 @@
     "name:ces_x_preferred":[
         "Tu\u010depi"
     ],
-    "name:cze_x_preferred":[
-        "Tu\u010depi"
-    ],
     "name:deu_x_preferred":[
-        "Tu\u010depi"
-    ],
-    "name:dut_x_preferred":[
         "Tu\u010depi"
     ],
     "name:eng_x_preferred":[
@@ -50,17 +41,14 @@
     "name:fra_x_preferred":[
         "Tu\u010depi"
     ],
-    "name:fre_x_preferred":[
-        "Tu\u010depi"
-    ],
-    "name:ger_x_preferred":[
-        "Tu\u010depi"
-    ],
     "name:hrv_x_preferred":[
         "Tu\u010depi"
     ],
     "name:hun_x_preferred":[
         "Tu\u010depi"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0582\u0579\u0565\u057a\u056b"
     ],
     "name:ita_x_preferred":[
         "Tu\u010depi"
@@ -77,13 +65,13 @@
     "name:pol_x_preferred":[
         "Tu\u010depi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tucepi"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u0447\u0435\u043f\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tu\u010depi"
     ],
     "name:slv_x_preferred":[
@@ -158,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714633,
+    "wof:lastmodified":1561749606,
     "wof:name":"Tu\u010depi",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

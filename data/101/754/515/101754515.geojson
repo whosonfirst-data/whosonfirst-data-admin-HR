@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":2278285.268195,
+    "geom:area_square_m":2278285.268196,
     "geom:bbox":"18.5938660681,45.5598165553,18.6321663755,45.5752306961",
     "geom:latitude":45.567666,
     "geom:longitude":18.614503,
@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Vi\u0161njevac"
     ],
-    "name:dut_x_preferred":[
-        "Vi\u0161njevac"
-    ],
     "name:eng_x_preferred":[
         "Vi\u0161njevac"
     ],
     "name:fra_x_preferred":[
-        "Vi\u0161njevac"
-    ],
-    "name:fre_x_preferred":[
         "Vi\u0161njevac"
     ],
     "name:hbs_x_preferred":[
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":101754515,
-    "wof:lastmodified":1527641870,
+    "wof:lastmodified":1561749588,
     "wof:name":"Vi\u0161njevac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

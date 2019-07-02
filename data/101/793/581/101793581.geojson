@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000123,
-    "geom:area_square_m":1067595.139962,
+    "geom:area_square_m":1067595.139961,
     "geom:bbox":"18.3612760856,45.3914395527,18.381853942,45.4042680831",
     "geom:latitude":45.399041,
     "geom:longitude":18.372372,
@@ -23,19 +23,10 @@
     "name:deu_x_preferred":[
         "Gorjani"
     ],
-    "name:dut_x_preferred":[
-        "Gorjani"
-    ],
     "name:eng_x_preferred":[
         "Gorjan"
     ],
     "name:fra_x_preferred":[
-        "Gorjani"
-    ],
-    "name:fre_x_preferred":[
-        "Gorjani"
-    ],
-    "name:ger_x_preferred":[
         "Gorjani"
     ],
     "name:hbs_x_preferred":[
@@ -57,9 +48,6 @@
         "Gorjani"
     ],
     "name:ron_x_preferred":[
-        "Comuna Gorjani"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Gorjani"
     ],
     "name:spa_x_preferred":[
@@ -128,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815507,
+    "wof:lastmodified":1561749599,
     "wof:name":"Gorjani",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

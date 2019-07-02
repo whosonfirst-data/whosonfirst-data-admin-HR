@@ -22,13 +22,10 @@
     "name:bos_x_preferred":[
         "Vidovec"
     ],
-    "name:dut_x_preferred":[
-        "Vidovec"
-    ],
     "name:eng_x_preferred":[
         "Vidovec"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vidovec"
     ],
     "name:hrv_x_preferred":[
@@ -40,7 +37,10 @@
     "name:ita_x_preferred":[
         "Vidovec"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Vidovec"
+    ],
+    "name:ron_x_preferred":[
         "Comuna Vidovec"
     ],
     "name:rus_x_preferred":[
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1125975567,
-    "wof:lastmodified":1514447686,
+    "wof:lastmodified":1561749619,
     "wof:name":"Vitovec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

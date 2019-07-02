@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Gundinci"
     ],
-    "name:dut_x_preferred":[
-        "Gundinci"
-    ],
     "name:eng_x_preferred":[
         "Gundinci"
     ],
@@ -30,9 +27,6 @@
         "Gundinci"
     ],
     "name:fra_x_preferred":[
-        "Gundinci"
-    ],
-    "name:fre_x_preferred":[
         "Gundinci"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +45,6 @@
         "Gundinci"
     ],
     "name:ron_x_preferred":[
-        "Comuna Gundinci"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Gundinci"
     ],
     "name:slv_x_preferred":[
@@ -122,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689317,
+    "wof:lastmodified":1561749602,
     "wof:name":"Gundinci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

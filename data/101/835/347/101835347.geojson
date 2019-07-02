@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":1141168.889491,
+    "geom:area_square_m":1141168.88949,
     "geom:bbox":"16.1065344486,45.8468094058,16.1222961214,45.8787615313",
     "geom:latitude":45.86255,
     "geom:longitude":16.114169,
@@ -17,9 +17,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:bos_x_preferred":[
-        "Markovo Polje"
-    ],
-    "name:dut_x_preferred":[
         "Markovo Polje"
     ],
     "name:eng_x_preferred":[
@@ -78,7 +75,7 @@
         }
     ],
     "wof:id":101835347,
-    "wof:lastmodified":1527642775,
+    "wof:lastmodified":1561749596,
     "wof:name":"Markovo Polje",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000162,
-    "geom:area_square_m":1437199.908995,
+    "geom:area_square_m":1437199.908996,
     "geom:bbox":"15.3529525928,44.0996741918,15.3862633141,44.1237083023",
     "geom:latitude":44.11009,
     "geom:longitude":15.369972,
@@ -22,19 +22,10 @@
     "name:deu_x_preferred":[
         "Zemunik Donji"
     ],
-    "name:dut_x_preferred":[
-        "Zemunik Donji"
-    ],
     "name:eng_x_preferred":[
         "Zemunik Donji"
     ],
     "name:fra_x_preferred":[
-        "Zemunik Donji"
-    ],
-    "name:fre_x_preferred":[
-        "Zemunik Donji"
-    ],
-    "name:ger_x_preferred":[
         "Zemunik Donji"
     ],
     "name:hbs_x_preferred":[
@@ -59,9 +50,6 @@
         "Zemunik Donji"
     ],
     "name:ron_x_preferred":[
-        "Comuna Zemunik Donji"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Zemunik Donji"
     ],
     "name:rus_x_preferred":[
@@ -120,7 +108,7 @@
         }
     ],
     "wof:id":101795757,
-    "wof:lastmodified":1527714609,
+    "wof:lastmodified":1561749605,
     "wof:name":"Zemunik Donji",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

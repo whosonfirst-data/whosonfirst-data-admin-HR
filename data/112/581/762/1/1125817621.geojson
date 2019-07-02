@@ -22,16 +22,13 @@
     "name:bos_x_preferred":[
         "\u017dminj"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u017dminj"
     ],
     "name:eng_x_preferred":[
         "\u017dminj"
     ],
-    "name:fre_x_preferred":[
-        "\u017dminj"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u017dminj"
     ],
     "name:hrv_x_preferred":[
@@ -49,10 +46,10 @@
     "name:lat_x_preferred":[
         "Geminium"
     ],
-    "name:ron_x_preferred":[
-        "Comuna \u017dminj"
+    "name:nld_x_preferred":[
+        "\u017dminj"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna \u017dminj"
     ],
     "name:rus_x_preferred":[
@@ -130,7 +127,7 @@
         }
     ],
     "wof:id":1125817621,
-    "wof:lastmodified":1514447762,
+    "wof:lastmodified":1561749616,
     "wof:name":"\u017dminj",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

@@ -17,31 +17,16 @@
     "mps:longitude":18.606191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Beli Manastir"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u056c\u056b \u0544\u0561\u0576\u0561\u057d\u057f\u056b\u0580"
-    ],
     "name:bos_x_preferred":[
         "Beli Manastir"
     ],
     "name:ces_x_preferred":[
         "Beli Manastir"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u5229\u99ac\u7d0d\u65af\u8482\u723e"
-    ],
     "name:ckb_x_preferred":[
         "\u0628\u06ce\u0644\u06cc \u0645\u0627\u0646\u0627\u0633\u062a\u06cc\u0631"
     ],
-    "name:cze_x_preferred":[
-        "Beli Manastir"
-    ],
     "name:deu_x_preferred":[
-        "Beli Manastir"
-    ],
-    "name:dut_x_preferred":[
         "Beli Manastir"
     ],
     "name:eng_x_preferred":[
@@ -58,12 +43,6 @@
         "\u0628\u0644\u06cc \u0645\u0627\u0646\u0627\u0633\u062a\u06cc\u0631"
     ],
     "name:fra_x_preferred":[
-        "Beli Manastir"
-    ],
-    "name:fre_x_preferred":[
-        "Beli Manastir"
-    ],
-    "name:ger_x_preferred":[
         "Beli Manastir"
     ],
     "name:hbs_x_preferred":[
@@ -96,9 +75,6 @@
     "name:nor_x_preferred":[
         "Beli Manastir"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0644\u06cc \u0645\u0627\u0646\u0627\u0633\u062a\u06cc\u0631"
-    ],
     "name:pol_x_preferred":[
         "Beli Manastir"
     ],
@@ -107,9 +83,6 @@
     ],
     "name:ron_x_variant":[
         "\u0411\u0435\u043b\u0438 \u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440"
-    ],
-    "name:rum_x_preferred":[
-        "Beli Manastir"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u0438-\u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440"
@@ -201,7 +174,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527677696,
+    "wof:lastmodified":1561749598,
     "wof:name":"Beli Manastir",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

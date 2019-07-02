@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000138,
-    "geom:area_square_m":1197269.121062,
+    "geom:area_square_m":1197269.121063,
     "geom:bbox":"18.2561120221,45.5404461648,18.3102365878,45.5483100576",
     "geom:latitude":45.544712,
     "geom:longitude":18.28512,
@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Ko\u0161ka"
     ],
-    "name:dut_x_preferred":[
-        "Ko\u0161ka"
-    ],
     "name:eng_x_preferred":[
         "Ko\u0161ka"
     ],
     "name:fra_x_preferred":[
-        "Ko\u0161ka"
-    ],
-    "name:fre_x_preferred":[
         "Ko\u0161ka"
     ],
     "name:hbs_x_preferred":[
@@ -48,9 +42,6 @@
         "Ko\u0161ka"
     ],
     "name:ron_x_preferred":[
-        "Comuna Ko\u0161ka"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Ko\u0161ka"
     ],
     "name:slv_x_preferred":[
@@ -115,7 +106,7 @@
         }
     ],
     "wof:id":101792431,
-    "wof:lastmodified":1527714635,
+    "wof:lastmodified":1561749606,
     "wof:name":"Ko\u0161ka",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

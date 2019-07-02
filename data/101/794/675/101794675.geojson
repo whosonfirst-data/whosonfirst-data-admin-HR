@@ -17,25 +17,13 @@
     "mps:longitude":14.800675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Delnice"
-    ],
-    "name:arm_x_preferred":[
-        "\u0534\u0565\u056c\u0576\u056b\u0581\u0565"
-    ],
     "name:bos_x_preferred":[
         "Delnice"
-    ],
-    "name:chi_x_preferred":[
-        "\u4ee3\u723e\u5c3c\u91c7"
     ],
     "name:ckb_x_preferred":[
         "\u062f\u06ce\u0644\u0646\u06cc\u062a\u0633\u06ce"
     ],
     "name:deu_x_preferred":[
-        "Delnice"
-    ],
-    "name:dut_x_preferred":[
         "Delnice"
     ],
     "name:eng_x_preferred":[
@@ -50,12 +38,6 @@
     "name:fra_x_preferred":[
         "Delnice"
     ],
-    "name:fre_x_preferred":[
-        "Delnice"
-    ],
-    "name:ger_x_preferred":[
-        "Delnice"
-    ],
     "name:hbs_x_preferred":[
         "Delnice"
     ],
@@ -65,14 +47,14 @@
     "name:hun_x_preferred":[
         "Delnice"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u056c\u0576\u056b\u0581\u0565"
+    ],
     "name:ita_x_preferred":[
         "Delnice"
     ],
     "name:nld_x_preferred":[
         "Delnice"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0644\u0646\u06cc\u062a\u0633\u0647"
     ],
     "name:pol_x_preferred":[
         "Delnice"
@@ -80,16 +62,10 @@
     "name:ron_x_preferred":[
         "Delnice"
     ],
-    "name:rum_x_preferred":[
-        "Delnice"
-    ],
     "name:rus_x_preferred":[
         "\u0414\u0435\u043b\u043d\u0438\u0446\u0435"
     ],
     "name:slk_x_preferred":[
-        "Delnice"
-    ],
-    "name:slo_x_preferred":[
         "Delnice"
     ],
     "name:slv_x_preferred":[
@@ -175,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689316,
+    "wof:lastmodified":1561749601,
     "wof:name":"Delnice",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

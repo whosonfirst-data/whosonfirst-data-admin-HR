@@ -24,10 +24,7 @@
     "name:cat_x_preferred":[
         "Jasenovac"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9a\u585e\u8bfa\u74e6\u8328"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jasenovac"
     ],
     "name:eng_x_preferred":[
@@ -36,10 +33,7 @@
     "name:epo_x_preferred":[
         "Jasenovac"
     ],
-    "name:fre_x_preferred":[
-        "Jasenovac"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Jasenovac"
     ],
     "name:heb_x_preferred":[
@@ -57,6 +51,9 @@
     "name:kor_x_preferred":[
         "\uc57c\uc138\ub178\ubc14\uce20"
     ],
+    "name:nld_x_preferred":[
+        "Jasenovac"
+    ],
     "name:nob_x_preferred":[
         "Jasenovac"
     ],
@@ -64,9 +61,6 @@
         "Jasenovac"
     ],
     "name:ron_x_preferred":[
-        "Comuna Jasenovac"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Jasenovac"
     ],
     "name:rus_x_preferred":[
@@ -146,7 +140,7 @@
         }
     ],
     "wof:id":1126023149,
-    "wof:lastmodified":1514447469,
+    "wof:lastmodified":1561749614,
     "wof:name":"Jasenovac",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

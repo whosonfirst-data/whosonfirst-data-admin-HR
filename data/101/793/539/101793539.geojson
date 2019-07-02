@@ -16,28 +16,16 @@
     "mps:longitude":15.496072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Duga Resa"
-    ],
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0582\u0563\u0561 \u054c\u0565\u057d\u0561"
-    ],
     "name:bos_x_preferred":[
         "Duga Resa"
     ],
     "name:cat_x_preferred":[
         "Duga Resa"
     ],
-    "name:chi_x_preferred":[
-        "\u675c\u52a0\u96f7\u85a9"
-    ],
     "name:ckb_x_preferred":[
         "\u062f\u0648\u06af\u0627 \u0695\u06ce\u0633\u0627"
     ],
     "name:deu_x_preferred":[
-        "Duga Resa"
-    ],
-    "name:dut_x_preferred":[
         "Duga Resa"
     ],
     "name:eng_x_preferred":[
@@ -52,12 +40,6 @@
     "name:fra_x_preferred":[
         "Duga Resa"
     ],
-    "name:fre_x_preferred":[
-        "Duga Resa"
-    ],
-    "name:ger_x_preferred":[
-        "Duga Resa"
-    ],
     "name:hbs_x_preferred":[
         "Duga Resa"
     ],
@@ -67,22 +49,19 @@
     "name:hun_x_preferred":[
         "Duga Resa"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0563\u0561 \u054c\u0565\u057d\u0561"
+    ],
     "name:ita_x_preferred":[
         "Duga Resa"
     ],
     "name:nld_x_preferred":[
         "Duga Resa"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u06af\u0627 \u0631\u0633\u0627"
-    ],
     "name:pol_x_preferred":[
         "Duga Resa"
     ],
     "name:ron_x_preferred":[
-        "Duga Resa"
-    ],
-    "name:rum_x_preferred":[
         "Duga Resa"
     ],
     "name:rus_x_preferred":[
@@ -170,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689279,
+    "wof:lastmodified":1561749599,
     "wof:name":"Duga Resa",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

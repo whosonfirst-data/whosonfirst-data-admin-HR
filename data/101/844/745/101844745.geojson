@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Srinjine"
     ],
-    "name:dut_x_preferred":[
-        "Srinjine"
-    ],
     "name:eng_x_preferred":[
         "Srinjine"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":101844745,
-    "wof:lastmodified":1527642632,
+    "wof:lastmodified":1561749594,
     "wof:name":"Srinjine",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

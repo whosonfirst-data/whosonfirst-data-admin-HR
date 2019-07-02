@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Dr\u017eimurec"
     ],
-    "name:dut_x_preferred":[
-        "Dr\u017eimurec"
-    ],
     "name:eng_x_preferred":[
         "Dr\u017eimurec"
     ],
@@ -36,6 +33,9 @@
     ],
     "name:hun_x_preferred":[
         "Dezs\u00e9rlaka"
+    ],
+    "name:nld_x_preferred":[
+        "Dr\u017eimurec"
     ],
     "name:slv_x_preferred":[
         "Dr\u017eimurec"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125805597,
-    "wof:lastmodified":1514447421,
+    "wof:lastmodified":1561749617,
     "wof:name":"Dr\u017eimurec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

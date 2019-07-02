@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00024,
-    "geom:area_square_m":2085301.535218,
+    "geom:area_square_m":2085301.535219,
     "geom:bbox":"13.9583404405,45.4006909697,13.9876417771,45.4262180215",
     "geom:latitude":45.411397,
     "geom:longitude":13.97085,
@@ -20,28 +20,16 @@
     "name:arg_x_preferred":[
         "Buzet"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0582\u0566\u0565\u057f"
-    ],
     "name:bos_x_preferred":[
         "Buzet"
     ],
     "name:ces_x_preferred":[
         "Buzet"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u6fa4\u7279"
-    ],
     "name:ckb_x_preferred":[
         "\u0628\u0648\u0632\u06ce\u062a"
     ],
-    "name:cze_x_preferred":[
-        "Buzet"
-    ],
     "name:deu_x_preferred":[
-        "Buzet"
-    ],
-    "name:dut_x_preferred":[
         "Buzet"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +42,6 @@
         "\u0628\u0648\u0632\u062a"
     ],
     "name:fra_x_preferred":[
-        "Buzet"
-    ],
-    "name:fre_x_preferred":[
-        "Buzet"
-    ],
-    "name:ger_x_preferred":[
         "Buzet"
     ],
     "name:hbs_x_preferred":[
@@ -89,25 +71,16 @@
     "name:nld_x_preferred":[
         "Buzet"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0632\u062a"
-    ],
     "name:pol_x_preferred":[
         "Buzet"
     ],
     "name:ron_x_preferred":[
         "Buzet"
     ],
-    "name:rum_x_preferred":[
-        "Buzet"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0437\u0435\u0442"
     ],
     "name:slk_x_preferred":[
-        "Buzet"
-    ],
-    "name:slo_x_preferred":[
         "Buzet"
     ],
     "name:slv_x_preferred":[
@@ -196,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689321,
+    "wof:lastmodified":1561749602,
     "wof:name":"Buzet",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

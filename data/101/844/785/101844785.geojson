@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
-    "geom:area_square_m":778277.711404,
+    "geom:area_square_m":778277.711405,
     "geom:bbox":"19.1631958129,45.2191335751,19.1787331289,45.2320759421",
     "geom:latitude":45.226278,
     "geom:longitude":19.170666,
@@ -20,12 +20,6 @@
     "name:bos_x_preferred":[
         "Lovas"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u6c83\u4ec0"
-    ],
-    "name:dut_x_preferred":[
-        "Lovas"
-    ],
     "name:eng_x_preferred":[
         "Lovas"
     ],
@@ -33,9 +27,6 @@
         "Lovas"
     ],
     "name:fra_x_preferred":[
-        "Lovas"
-    ],
-    "name:fre_x_preferred":[
         "Lovas"
     ],
     "name:hbs_x_preferred":[
@@ -54,9 +45,6 @@
         "Lovas"
     ],
     "name:ron_x_preferred":[
-        "Comuna Lovas"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Lovas"
     ],
     "name:slv_x_preferred":[
@@ -131,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642624,
+    "wof:lastmodified":1561749593,
     "wof:name":"Lovas",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

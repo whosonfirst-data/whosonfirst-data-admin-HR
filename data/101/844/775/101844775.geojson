@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "\u0160krljevo"
     ],
-    "name:dut_x_preferred":[
-        "\u0160krljevo"
-    ],
     "name:eng_x_preferred":[
         "\u0160krljevo"
     ],
     "name:fra_x_preferred":[
-        "\u0160krljevo"
-    ],
-    "name:fre_x_preferred":[
         "\u0160krljevo"
     ],
     "name:hbs_x_preferred":[
@@ -39,6 +33,9 @@
         "\u0160krljevo"
     ],
     "name:hun_x_preferred":[
+        "\u0160krljevo"
+    ],
+    "name:nld_x_preferred":[
         "\u0160krljevo"
     ],
     "name:slv_x_preferred":[
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":101844775,
-    "wof:lastmodified":1527642631,
+    "wof:lastmodified":1561749593,
     "wof:name":"\u0160krljevo",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

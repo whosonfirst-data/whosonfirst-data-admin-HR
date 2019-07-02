@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
-    "geom:area_square_m":718297.524517,
+    "geom:area_square_m":718297.524518,
     "geom:bbox":"15.8693558473,45.8935683771,15.887330482,45.9071753432",
     "geom:latitude":45.90029,
     "geom:longitude":15.878124,
@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Poljanica Bistranska"
     ],
-    "name:dut_x_preferred":[
-        "Poljanica Bistranska"
-    ],
     "name:eng_x_preferred":[
         "Poljanica Bistranska"
     ],
@@ -29,6 +26,9 @@
         "Poljanica Bistranska"
     ],
     "name:hun_x_preferred":[
+        "Poljanica Bistranska"
+    ],
+    "name:nld_x_preferred":[
         "Poljanica Bistranska"
     ],
     "name:slv_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":101792375,
-    "wof:lastmodified":1527714640,
+    "wof:lastmodified":1561749608,
     "wof:name":"Poljanica Bistranska",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

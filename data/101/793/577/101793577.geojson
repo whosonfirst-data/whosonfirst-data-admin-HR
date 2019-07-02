@@ -20,9 +20,6 @@
     "name:bos_x_preferred":[
         "Jelisavac"
     ],
-    "name:dut_x_preferred":[
-        "Jelisavac"
-    ],
     "name:eng_x_preferred":[
         "Jelisavac"
     ],
@@ -30,6 +27,9 @@
         "Jelisavac"
     ],
     "name:hrv_x_preferred":[
+        "Jelisavac"
+    ],
+    "name:nld_x_preferred":[
         "Jelisavac"
     ],
     "name:slk_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101793577,
-    "wof:lastmodified":1527689281,
+    "wof:lastmodified":1561749600,
     "wof:name":"Jelisavac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

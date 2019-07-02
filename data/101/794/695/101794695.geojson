@@ -23,19 +23,10 @@
     "name:deu_x_preferred":[
         "Bo\u0161njaci"
     ],
-    "name:dut_x_preferred":[
-        "Bo\u0161njaci"
-    ],
     "name:eng_x_preferred":[
         "Bo\u0161njaci"
     ],
     "name:fra_x_preferred":[
-        "Bo\u0161njaci"
-    ],
-    "name:fre_x_preferred":[
-        "Bo\u0161njaci"
-    ],
-    "name:ger_x_preferred":[
         "Bo\u0161njaci"
     ],
     "name:hbs_x_preferred":[
@@ -51,9 +42,6 @@
         "Bo\u0161njaci"
     ],
     "name:ron_x_preferred":[
-        "Comuna Bo\u0161njaci"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Bo\u0161njaci"
     ],
     "name:slv_x_preferred":[
@@ -112,7 +100,7 @@
         }
     ],
     "wof:id":101794695,
-    "wof:lastmodified":1553815508,
+    "wof:lastmodified":1561749602,
     "wof:name":"Bo\u0161njaci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

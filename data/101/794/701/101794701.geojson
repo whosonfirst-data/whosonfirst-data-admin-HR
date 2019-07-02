@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":1237341.570011,
+    "geom:area_square_m":1237341.570012,
     "geom:bbox":"18.9576465749,44.9423055102,18.9877769231,44.9568843294",
     "geom:latitude":44.95056,
     "geom:longitude":18.973141,
@@ -26,19 +26,10 @@
     "name:ces_x_preferred":[
         "Soljani"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u5c14\u96c5\u5c3c"
-    ],
-    "name:cze_x_preferred":[
-        "Soljani"
-    ],
     "name:dan_x_preferred":[
         "Soljani"
     ],
     "name:deu_x_preferred":[
-        "Soljani"
-    ],
-    "name:dut_x_preferred":[
         "Soljani"
     ],
     "name:ell_x_preferred":[
@@ -53,15 +44,6 @@
     "name:fra_x_preferred":[
         "Soljani"
     ],
-    "name:fre_x_preferred":[
-        "Soljani"
-    ],
-    "name:ger_x_preferred":[
-        "Soljani"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03bb\u03b9\u03ac\u03bd\u03b9"
-    ],
     "name:hbs_x_preferred":[
         "Soljani"
     ],
@@ -72,12 +54,6 @@
         "Soljani"
     ],
     "name:ita_x_preferred":[
-        "Soljani"
-    ],
-    "name:mac_x_preferred":[
-        "\u0421\u043e\u0459\u0430\u043d\u0438"
-    ],
-    "name:may_x_preferred":[
         "Soljani"
     ],
     "name:mkd_x_preferred":[
@@ -95,16 +71,10 @@
     "name:ron_x_preferred":[
         "Soljani"
     ],
-    "name:rum_x_preferred":[
-        "Soljani"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u043b\u044f\u043d\u0438"
     ],
     "name:slk_x_preferred":[
-        "So\u013eany"
-    ],
-    "name:slo_x_preferred":[
         "So\u013eany"
     ],
     "name:slv_x_preferred":[
@@ -166,7 +136,7 @@
         }
     ],
     "wof:id":101794701,
-    "wof:lastmodified":1527689315,
+    "wof:lastmodified":1561749601,
     "wof:name":"Soljani",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

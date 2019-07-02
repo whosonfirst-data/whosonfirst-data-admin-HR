@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Rakov Potok"
     ],
-    "name:dut_x_preferred":[
-        "Rakov Potok"
-    ],
     "name:eng_x_preferred":[
         "Rakov Potok"
     ],
@@ -89,7 +86,7 @@
         }
     ],
     "wof:id":101792389,
-    "wof:lastmodified":1527714639,
+    "wof:lastmodified":1561749607,
     "wof:name":"Rakov Potok",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

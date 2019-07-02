@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Topolovac"
     ],
-    "name:dut_x_preferred":[
-        "Topolovac"
-    ],
     "name:eng_x_preferred":[
         "Topolovac"
     ],
@@ -32,6 +29,9 @@
         "Topolovac"
     ],
     "name:hun_x_preferred":[
+        "Topolovac"
+    ],
+    "name:nld_x_preferred":[
         "Topolovac"
     ],
     "name:slv_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1126038121,
-    "wof:lastmodified":1553816718,
+    "wof:lastmodified":1561749615,
     "wof:name":"Topolovac",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

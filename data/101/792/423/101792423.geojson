@@ -17,22 +17,13 @@
     "mps:longitude":18.743083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Bilje"
-    ],
     "name:bos_x_preferred":[
         "Bilje"
     ],
     "name:ces_x_preferred":[
         "Bilje"
     ],
-    "name:cze_x_preferred":[
-        "Bilje"
-    ],
     "name:deu_x_preferred":[
-        "Bilje"
-    ],
-    "name:dut_x_preferred":[
         "Bilje"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +33,6 @@
         "Bilje"
     ],
     "name:fra_x_preferred":[
-        "Bilje"
-    ],
-    "name:fre_x_preferred":[
-        "Bilje"
-    ],
-    "name:ger_x_preferred":[
         "Bilje"
     ],
     "name:hbs_x_preferred":[
@@ -69,9 +54,6 @@
         "Bilje"
     ],
     "name:ron_x_preferred":[
-        "Comuna Bilje"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Bilje"
     ],
     "name:rus_x_preferred":[
@@ -149,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714635,
+    "wof:lastmodified":1561749606,
     "wof:name":"Bilje",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

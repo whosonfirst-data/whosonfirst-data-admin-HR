@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
-    "geom:area_square_m":2015070.118277,
+    "geom:area_square_m":2015070.118278,
     "geom:bbox":"16.3381940311,46.2434313057,16.3868693686,46.2670631585",
     "geom:latitude":46.256343,
     "geom:longitude":16.368226,
@@ -19,19 +19,13 @@
     "name:bos_x_preferred":[
         "Gornji Kneginec"
     ],
-    "name:cze_x_preferred":[
-        "Gornji Kneginec"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Gornji Kneginec"
     ],
     "name:eng_x_preferred":[
         "Gornji Kneginec"
     ],
     "name:fra_x_preferred":[
-        "Gornji Kneginec"
-    ],
-    "name:fre_x_preferred":[
         "Gornji Kneginec"
     ],
     "name:hbs_x_preferred":[
@@ -50,9 +44,6 @@
         "Gornji Kneginec"
     ],
     "name:ron_x_preferred":[
-        "Comuna Gornji Kneginec"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Gornji Kneginec"
     ],
     "name:rus_x_preferred":[
@@ -120,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641958,
+    "wof:lastmodified":1561749590,
     "wof:name":"Gornji Kneginec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

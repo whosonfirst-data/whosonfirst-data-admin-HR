@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000244,
-    "geom:area_square_m":2125301.143279,
+    "geom:area_square_m":2125301.143281,
     "geom:bbox":"18.3940506287,45.202186271,18.4680973448,45.2355786465",
     "geom:latitude":45.222322,
     "geom:longitude":18.42093,
@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Vrpolje"
     ],
-    "name:dut_x_preferred":[
-        "Vrpolje"
-    ],
     "name:eng_x_preferred":[
         "Vrpolje"
     ],
     "name:fra_x_preferred":[
-        "Vrpolje"
-    ],
-    "name:fre_x_preferred":[
         "Vrpolje"
     ],
     "name:hbs_x_preferred":[
@@ -53,7 +47,7 @@
     "name:ron_x_preferred":[
         "Comuna Vrpolje"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Vrpolje"
     ],
     "name:rus_x_preferred":[
@@ -126,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689279,
+    "wof:lastmodified":1561749600,
     "wof:name":"Vrpolje",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

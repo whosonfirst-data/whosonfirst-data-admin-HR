@@ -19,16 +19,13 @@
     "name:bos_x_preferred":[
         "Donja Lomnica"
     ],
+    "name:deu_x_preferred":[
+        "Donja Lomnica"
+    ],
     "name:eng_x_preferred":[
         "Donja Lomnica"
     ],
     "name:fra_x_preferred":[
-        "Donja Lomnica"
-    ],
-    "name:fre_x_preferred":[
-        "Donja Lomnica"
-    ],
-    "name:ger_x_preferred":[
         "Donja Lomnica"
     ],
     "name:hrv_x_preferred":[
@@ -100,7 +97,7 @@
         }
     ],
     "wof:id":101792383,
-    "wof:lastmodified":1527714636,
+    "wof:lastmodified":1561749606,
     "wof:name":"Donja Lomnica",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

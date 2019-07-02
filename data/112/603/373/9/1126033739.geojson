@@ -22,13 +22,7 @@
     "name:afr_x_preferred":[
         "Davor"
     ],
-    "name:alb_x_preferred":[
-        "Davor"
-    ],
     "name:arg_x_preferred":[
-        "Davor"
-    ],
-    "name:baq_x_preferred":[
         "Davor"
     ],
     "name:bel_x_preferred":[
@@ -46,13 +40,13 @@
     "name:cat_x_preferred":[
         "Davor"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Davor"
     ],
     "name:dan_x_preferred":[
         "Davor"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Davor"
     ],
     "name:eng_x_preferred":[
@@ -64,13 +58,13 @@
     "name:est_x_preferred":[
         "Davor"
     ],
+    "name:eus_x_preferred":[
+        "Davor"
+    ],
     "name:fin_x_preferred":[
         "Davor"
     ],
-    "name:fre_x_preferred":[
-        "Davor"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Davor"
     ],
     "name:gle_x_preferred":[
@@ -91,7 +85,7 @@
     "name:hun_x_preferred":[
         "Davor"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Davor"
     ],
     "name:ita_x_preferred":[
@@ -104,6 +98,9 @@
         "Davor"
     ],
     "name:ltz_x_preferred":[
+        "Davor"
+    ],
+    "name:nld_x_preferred":[
         "Davor"
     ],
     "name:nno_x_preferred":[
@@ -121,19 +118,22 @@
     "name:por_x_preferred":[
         "Davor"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Davor"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0432\u043e\u0440"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Davor"
     ],
     "name:slv_x_preferred":[
         "Davor"
     ],
     "name:spa_x_preferred":[
+        "Davor"
+    ],
+    "name:sqi_x_preferred":[
         "Davor"
     ],
     "name:srp_x_preferred":[
@@ -200,7 +200,7 @@
         }
     ],
     "wof:id":1126033739,
-    "wof:lastmodified":1514447414,
+    "wof:lastmodified":1561749615,
     "wof:name":"Davor",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

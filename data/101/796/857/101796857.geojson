@@ -26,19 +26,10 @@
     "name:deu_x_preferred":[
         "Smokvica"
     ],
-    "name:dut_x_preferred":[
-        "Smokvica"
-    ],
     "name:eng_x_preferred":[
         "Smoquizza"
     ],
     "name:fra_x_preferred":[
-        "Smokvica"
-    ],
-    "name:fre_x_preferred":[
-        "Smokvica"
-    ],
-    "name:ger_x_preferred":[
         "Smokvica"
     ],
     "name:hbs_x_preferred":[
@@ -60,9 +51,6 @@
         "Smokvica"
     ],
     "name:ron_x_preferred":[
-        "Comuna Smokvica"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Smokvica"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642030,
+    "wof:lastmodified":1561749591,
     "wof:name":"Smokvica",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

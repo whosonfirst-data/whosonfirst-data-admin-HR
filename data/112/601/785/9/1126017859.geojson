@@ -22,9 +22,6 @@
     "name:bos_x_preferred":[
         "Poznanovec"
     ],
-    "name:dut_x_preferred":[
-        "Poznanovec"
-    ],
     "name:eng_x_preferred":[
         "Poznanovec"
     ],
@@ -32,6 +29,9 @@
         "Poznanovec"
     ],
     "name:hun_x_preferred":[
+        "Poznanovec"
+    ],
+    "name:nld_x_preferred":[
         "Poznanovec"
     ],
     "name:pol_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1126017859,
-    "wof:lastmodified":1514447579,
+    "wof:lastmodified":1561749622,
     "wof:name":"Poznanovec",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

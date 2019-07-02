@@ -18,17 +18,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
-    "name:alb_x_preferred":[
-        "Osijeku"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u064a\u064a\u0643"
-    ],
-    "name:arm_x_preferred":[
-        "\u0555\u057d\u056b\u0565\u056f"
-    ],
-    "name:baq_x_preferred":[
-        "Osijek"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041e\u0441\u0456\u0435\u043a"
@@ -57,14 +48,8 @@
     "name:che_x_preferred":[
         "\u041e\u0441\u0438\u0435\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u897f\u8036\u514b"
-    ],
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u0633\u06cc\u06ce\u06a9"
-    ],
-    "name:cze_x_preferred":[
-        "Osijek"
     ],
     "name:dan_x_preferred":[
         "Osijek"
@@ -76,9 +61,6 @@
         "Esseg"
     ],
     "name:dsb_x_preferred":[
-        "Osijek"
-    ],
-    "name:dut_x_preferred":[
         "Osijek"
     ],
     "name:ell_x_preferred":[
@@ -117,20 +99,8 @@
     "name:fra_x_preferred":[
         "Osijek"
     ],
-    "name:fre_x_preferred":[
-        "Osijek"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e1\u10d8\u10d4\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Osijek"
-    ],
     "name:glg_x_preferred":[
         "Osijek"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03c3\u03b9\u03b3\u03b9\u03b5\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab8\u0abe\u0aaf\u0a9c\u0ac7\u0a95"
@@ -152,6 +122,9 @@
     ],
     "name:hun_x_preferred":[
         "Esz\u00e9k"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u057d\u056b\u0565\u056f"
     ],
     "name:ile_x_preferred":[
         "Osijek"
@@ -186,17 +159,14 @@
     "name:lmo_x_preferred":[
         "Osijek"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u0441\u0438\u0435\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u0913\u0938\u094d\u091c\u0947\u0915"
     ],
-    "name:may_x_preferred":[
-        "Osijek"
-    ],
     "name:mkd_x_preferred":[
         "\u041e\u0441\u0438\u0435\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Osijek"
     ],
     "name:nld_x_preferred":[
         "Osijek"
@@ -213,9 +183,6 @@
     "name:oci_x_preferred":[
         "Osijek"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0633\u06cc\u06cc\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Osijek"
     ],
@@ -223,9 +190,6 @@
         "Osijek"
     ],
     "name:ron_x_preferred":[
-        "Osijek"
-    ],
-    "name:rum_x_preferred":[
         "Osijek"
     ],
     "name:rup_x_preferred":[
@@ -241,9 +205,6 @@
         "\u0d94\u0dc3\u0dd2\u0da2\u0dd9\u0d9a\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Osijek"
-    ],
-    "name:slo_x_preferred":[
         "Osijek"
     ],
     "name:slv_x_preferred":[
@@ -454,7 +415,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714360,
+    "wof:lastmodified":1561749604,
     "wof:name":"Osijek",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

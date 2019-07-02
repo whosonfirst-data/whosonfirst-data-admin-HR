@@ -22,13 +22,10 @@
     "name:bos_x_preferred":[
         "Bogdanovci"
     ],
-    "name:dut_x_preferred":[
-        "Bogdanovci"
-    ],
     "name:eng_x_preferred":[
         "Bogdanovci"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bogdanovci"
     ],
     "name:hrv_x_preferred":[
@@ -40,7 +37,10 @@
     "name:ita_x_preferred":[
         "Bogdanovci"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Bogdanovci"
+    ],
+    "name:ron_x_preferred":[
         "Comuna Bogdanovci"
     ],
     "name:spa_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1126008751,
-    "wof:lastmodified":1514447396,
+    "wof:lastmodified":1561749622,
     "wof:name":"Bogdanovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

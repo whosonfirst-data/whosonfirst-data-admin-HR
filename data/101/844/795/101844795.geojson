@@ -20,16 +20,10 @@
     "name:bos_x_preferred":[
         "Zdenci"
     ],
-    "name:dut_x_preferred":[
-        "Zdenci"
-    ],
     "name:eng_x_preferred":[
         "Zdenci"
     ],
     "name:fra_x_preferred":[
-        "Zdenci"
-    ],
-    "name:fre_x_preferred":[
         "Zdenci"
     ],
     "name:hbs_x_preferred":[
@@ -45,9 +39,6 @@
         "Zdenci"
     ],
     "name:ron_x_preferred":[
-        "Comuna Zdenci"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Zdenci"
     ],
     "name:rus_x_preferred":[
@@ -112,7 +103,7 @@
         }
     ],
     "wof:id":101844795,
-    "wof:lastmodified":1527642627,
+    "wof:lastmodified":1561749593,
     "wof:name":"Zdenci",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

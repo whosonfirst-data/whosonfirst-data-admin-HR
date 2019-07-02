@@ -22,19 +22,19 @@
     "name:bos_x_preferred":[
         "Draga Ba\u0161\u0107anska"
     ],
-    "name:dut_x_preferred":[
-        "Draga Ba\u0161\u0107anska"
-    ],
     "name:eng_x_preferred":[
         "Draga Ba\u0161\u0107anska"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Draga Ba\u0161\u0107anska"
     ],
     "name:hrv_x_preferred":[
         "Draga Ba\u0161\u0107anska"
     ],
     "name:hun_x_preferred":[
+        "Draga Ba\u0161\u0107anska"
+    ],
+    "name:nld_x_preferred":[
         "Draga Ba\u0161\u0107anska"
     ],
     "name:slv_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125921877,
-    "wof:lastmodified":1514447419,
+    "wof:lastmodified":1561749611,
     "wof:name":"Draga Ba\u0161\u0107anska",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",
