@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Markovac Na\u0161i\u010dki"
     ],
+    "name:fra_x_preferred":[
+        "Markovac Na\u0161i\u010dki"
+    ],
     "name:hbs_x_preferred":[
         "Markovac Na\u0161i\u010dki"
     ],
@@ -34,8 +37,14 @@
     "name:slv_x_preferred":[
         "Markovac Na\u0161i\u010dki"
     ],
+    "name:spa_x_preferred":[
+        "Markovac Na\u0161i\u010dki"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0440\u043a\u043e\u0432\u0430\u0446 \u041d\u0430\u0448\u0438\u0447\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u043e\u0432\u0430\u0446\u044c-\u041d\u0430\u0448\u0438\u0446\u044c\u043a\u0438\u0439"
     ],
     "name:unk_x_variant":[
         "Na\u0161i\u010dki Markovac"
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":101835401,
-    "wof:lastmodified":1561749596,
+    "wof:lastmodified":1563577431,
     "wof:name":"Markovac Na\u0161i\u010dki",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

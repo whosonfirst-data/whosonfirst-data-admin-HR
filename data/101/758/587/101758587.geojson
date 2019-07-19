@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Matulji"
     ],
+    "name:ceb_x_preferred":[
+        "Matulji"
+    ],
     "name:deu_x_preferred":[
         "Matulji"
     ],
@@ -50,8 +53,14 @@
     "name:nld_x_preferred":[
         "Matulji"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Matulji"
+    ],
     "name:ron_x_preferred":[
         "Comuna Matulji"
+    ],
+    "name:ron_x_variant":[
+        "Matulji"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0442\u0443\u043b\u044c\u0438"
@@ -70,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "Matulji"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0442\u0443\u043b\u0456"
     ],
     "name:und_x_preferred":[
         "Matulji"
@@ -132,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749601,
+    "wof:lastmodified":1563577508,
     "wof:name":"Matulji",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:slv_x_preferred":[
         "Trako\u0161\u0107an"
     ],
+    "name:spa_x_preferred":[
+        "Trako\u0161\u0107an"
+    ],
     "name:swe_x_preferred":[
         "Trako\u0161\u0107an"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125882947,
-    "wof:lastmodified":1561749617,
+    "wof:lastmodified":1563577774,
     "wof:name":"Trako\u0161\u0107an",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

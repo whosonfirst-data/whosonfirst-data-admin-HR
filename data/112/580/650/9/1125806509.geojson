@@ -25,10 +25,16 @@
     "name:eng_x_preferred":[
         "Osilnica"
     ],
+    "name:fra_x_preferred":[
+        "Osilnica"
+    ],
     "name:hrv_x_preferred":[
         "Osilnica"
     ],
     "name:nld_x_preferred":[
+        "Osilnica"
+    ],
+    "name:pol_x_preferred":[
         "Osilnica"
     ],
     "name:ron_x_preferred":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125806509,
-    "wof:lastmodified":1561749617,
+    "wof:lastmodified":1563577782,
     "wof:name":"Osilnica",
     "wof:parent_id":1108959563,
     "wof:placetype":"locality",

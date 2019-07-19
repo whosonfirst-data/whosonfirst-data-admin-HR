@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Donji Miholjac"
     ],
+    "name:ceb_x_preferred":[
+        "Donji Miholjac"
+    ],
     "name:ces_x_preferred":[
         "Donji Miholjac"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "Donja Miholjac"
+    ],
+    "name:eng_x_variant":[
+        "Donji Miholjac"
     ],
     "name:epo_x_preferred":[
         "Donji Miholjac"
@@ -58,6 +64,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c9\u30cb\u30fb\u30df\u30db\u30ea\u30e3\u30c4"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d \u041c\u0438\u0445\u043e\u0459\u0430\u0446"
     ],
     "name:nld_x_preferred":[
         "Donji Miholjac"
@@ -88,6 +97,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043d\u0456-\u041c\u0456\u0445\u043e\u043b\u044f\u0446"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u043e\u043d\u0456\u0439 \u041c\u0438\u0445\u043e\u043b\u044f\u0446\u044c"
     ],
     "name:und_x_colloquial":[
         "Alsomiholjacz"
@@ -158,7 +170,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749607,
+    "wof:lastmodified":1563577612,
     "wof:name":"Donji Miholjac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

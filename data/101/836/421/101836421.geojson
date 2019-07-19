@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Imotski"
     ],
+    "name:ceb_x_preferred":[
+        "Imotski"
+    ],
     "name:ces_x_preferred":[
         "Imotski"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:deu_x_preferred":[
         "Imotski"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03bc\u03bf\u03c4\u03c3\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Imoschi"
@@ -58,6 +64,9 @@
     ],
     "name:hbs_x_preferred":[
         "Imotski"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05de\u05d5\u05d8\u05e1\u05e7\u05d9"
     ],
     "name:hrv_x_preferred":[
         "Imotski"
@@ -107,6 +116,9 @@
     "name:tat_x_preferred":[
         "\u0418\u043c\u043e\u0442\u0441\u043a\u0438"
     ],
+    "name:tur_x_preferred":[
+        "Imotski"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u043c\u043e\u0442\u0441\u044c\u043a\u0438\u0439"
     ],
@@ -115,6 +127,9 @@
     ],
     "name:unk_x_variant":[
         "Imoschi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645\u0648\u062a\u0633\u06a9\u06cc"
     ],
     "name:war_x_preferred":[
         "Imotski"
@@ -172,7 +187,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749608,
+    "wof:lastmodified":1563577626,
     "wof:name":"Imotski",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:srp_x_preferred":[
         "\u0412\u0435\u043b\u043e \u0413\u0440\u0430\u0431\u0459\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u043e \u0413\u0440\u0430\u0431\u043b\u0454"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125995017,
-    "wof:lastmodified":1514447678,
+    "wof:lastmodified":1563577797,
     "wof:name":"Velo Grablje",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00016,
+    "geom:area_square_m":1386882.757861,
     "geom:bbox":"14.9164170977,45.3689840031,14.9577013336,45.3815090954",
     "geom:latitude":45.37464,
     "geom:longitude":14.9379,
@@ -18,8 +19,17 @@
     "name:bos_x_preferred":[
         "Ravna Gora"
     ],
+    "name:cat_x_preferred":[
+        "Ravna Gora"
+    ],
+    "name:deu_x_preferred":[
+        "Ravna Gora"
+    ],
     "name:eng_x_preferred":[
         "Gora"
+    ],
+    "name:eng_x_variant":[
+        "Ravna Gora"
     ],
     "name:fra_x_preferred":[
         "Ravna Gora"
@@ -39,13 +49,22 @@
     "name:nld_x_preferred":[
         "Ravna Gora"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Ravna Gora"
+    ],
     "name:ron_x_preferred":[
         "Comuna Ravna Gora"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0432\u043d\u0430-\u0413\u043e\u0440\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Ravna Gora"
+    ],
     "name:srp_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u0430 \u0413\u043e\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
         "\u0420\u0430\u0432\u043d\u0430 \u0413\u043e\u0440\u0430"
     ],
     "name:und_x_preferred":[
@@ -101,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689317,
+    "wof:lastmodified":1563577519,
     "wof:name":"Ravna Gora",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:cat_x_preferred":[
         "Zagvozd"
     ],
+    "name:ceb_x_preferred":[
+        "Zagvozd"
+    ],
+    "name:ces_x_preferred":[
+        "Zagvozd"
+    ],
     "name:deu_x_preferred":[
         "Zagvozd"
     ],
@@ -38,6 +44,9 @@
         "Zagvozd"
     ],
     "name:hrv_x_preferred":[
+        "Zagvozd"
+    ],
+    "name:hsb_x_preferred":[
         "Zagvozd"
     ],
     "name:hun_x_preferred":[
@@ -70,11 +79,17 @@
     "name:swe_x_preferred":[
         "Zagvozd"
     ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0433\u0432\u043e\u0437\u0434"
+    ],
     "name:unk_x_variant":[
         "Zagost"
     ],
     "name:war_x_preferred":[
         "Zagvozd"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u683c\u6c83\u8332\u5fb7"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":1126017871,
-    "wof:lastmodified":1561749622,
+    "wof:lastmodified":1563577832,
     "wof:name":"Zagvozd",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

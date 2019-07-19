@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Velica Kopanica"
     ],
+    "name:eng_x_variant":[
+        "Velika Kopanica"
+    ],
     "name:fra_x_preferred":[
         "Velika Kopanica"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u041a\u043e\u043f\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u041a\u043e\u043f\u0430\u043d\u0438\u0446\u044f"
     ],
     "name:und_x_preferred":[
         "Velika Kopanica"
@@ -111,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749603,
+    "wof:lastmodified":1563577544,
     "wof:name":"Velika Kopanica",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

@@ -17,7 +17,13 @@
     "mps:longitude":16.399919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Kur\u015fane\u00e7"
+    ],
     "name:bos_x_preferred":[
+        "Kur\u0161anec"
+    ],
+    "name:ceb_x_preferred":[
         "Kur\u0161anec"
     ],
     "name:ces_x_preferred":[
@@ -52,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "Kur\u0161anec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0440\u0448\u0430\u043d\u0435\u0446\u044c"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Medimurska \u017eupanija",
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":101858921,
-    "wof:lastmodified":1561749597,
+    "wof:lastmodified":1563577459,
     "wof:name":"Kur\u0161anec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

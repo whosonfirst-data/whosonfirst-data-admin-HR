@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Bilje"
     ],
+    "name:ceb_x_preferred":[
+        "Bilje"
+    ],
     "name:ces_x_preferred":[
         "Bilje"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:eng_x_preferred":[
         "Belje"
+    ],
+    "name:eng_x_variant":[
+        "Bilje"
     ],
     "name:epo_x_preferred":[
         "Bilje"
@@ -73,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "Bilje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u043b\u0454"
     ],
     "name:und_x_preferred":[
         "Bilje"
@@ -131,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749606,
+    "wof:lastmodified":1563577597,
     "wof:name":"Bilje",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -38,8 +38,14 @@
     "name:slv_x_preferred":[
         "Sigetec Ludbre\u0161ki"
     ],
+    "name:spa_x_preferred":[
+        "Sigetec Ludbre\u0161ki"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0438\u0433\u0435\u0442\u0435\u0446 \u041b\u0443\u0434\u0431\u0440\u0435\u0448\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u0433\u0435\u0442\u0435\u0446\u044c-\u041b\u0443\u0434\u0431\u0440\u0435\u0441\u044c\u043a\u0438\u0439"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Koprivnicko-kri\u017eevacka \u017eupanija",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":101791261,
-    "wof:lastmodified":1561749589,
+    "wof:lastmodified":1563577346,
     "wof:name":"Sigetec",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

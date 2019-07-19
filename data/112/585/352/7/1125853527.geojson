@@ -22,6 +22,12 @@
     "name:bos_x_preferred":[
         "\u0160mrika"
     ],
+    "name:cat_x_preferred":[
+        "\u0160mrika"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160mrika"
+    ],
     "name:eng_x_preferred":[
         "\u0160mrika"
     ],
@@ -40,11 +46,17 @@
     "name:slv_x_preferred":[
         "\u0160mrika"
     ],
+    "name:spa_x_preferred":[
+        "\u0160mrika"
+    ],
     "name:srp_x_preferred":[
         "\u0428\u043c\u0440\u0438\u043a\u0430"
     ],
     "name:swe_x_preferred":[
         "\u0160mrika"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043c\u0440\u0438\u043a\u0430"
     ],
     "name:unk_x_variant":[
         "\u0160mrika Burice"
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1125853527,
-    "wof:lastmodified":1561749623,
+    "wof:lastmodified":1563577846,
     "wof:name":"\u0160mrika",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

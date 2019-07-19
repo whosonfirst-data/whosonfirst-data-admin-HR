@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Ku\u010de"
     ],
+    "name:ceb_x_preferred":[
+        "Ku\u010de"
+    ],
     "name:eng_x_preferred":[
         "Ku\u010de"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:swe_x_preferred":[
         "Ku\u010de"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0447\u0435"
     ],
     "name:unk_x_variant":[
         "Ku\u0107e"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":101793553,
-    "wof:lastmodified":1561749600,
+    "wof:lastmodified":1563577491,
     "wof:name":"Ku\u010de",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

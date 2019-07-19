@@ -57,11 +57,20 @@
     "name:slv_x_preferred":[
         "Korenica"
     ],
+    "name:spa_x_preferred":[
+        "Korenica"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0440\u0435\u043d\u0438\u0446\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u043d\u0438\u0446\u044f"
+    ],
     "name:unk_x_variant":[
         "Korenica"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u745e\u5c3c\u5bdf"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":1125922049,
-    "wof:lastmodified":1561749611,
+    "wof:lastmodified":1563577717,
     "wof:name":"Titova Korenica",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

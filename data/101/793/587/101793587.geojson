@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000077,
-    "geom:area_square_m":668498.872356,
+    "geom:area_square_m":668498.872355,
     "geom:bbox":"18.4477372308,45.3354345592,18.4649056855,45.3505405554",
     "geom:latitude":45.344186,
     "geom:longitude":18.455355,
@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "name:bos_x_preferred":[
+        "Vi\u0161kovci"
+    ],
+    "name:ceb_x_preferred":[
+        "Vi\u0161kovci"
+    ],
+    "name:eng_x_preferred":[
         "Vi\u0161kovci"
     ],
     "name:fra_x_preferred":[
@@ -44,8 +50,20 @@
     "name:rus_x_preferred":[
         "\u0412\u0438\u0448\u043a\u043e\u0432\u0446\u044b"
     ],
+    "name:spa_x_preferred":[
+        "Vi\u0161kovci"
+    ],
     "name:srp_x_preferred":[
         "\u0412\u0438\u0448\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vi\u0161kovci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0448\u043a\u043e\u0432\u0446\u0456"
+    ],
+    "name:war_x_preferred":[
+        "Vi\u0161kovci"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Osjecko-baranjska \u017eupanija",
@@ -91,7 +109,7 @@
         }
     ],
     "wof:id":101793587,
-    "wof:lastmodified":1527689278,
+    "wof:lastmodified":1563577486,
     "wof:name":"Vi\u0161kovci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -40,6 +40,12 @@
     "name:slv_x_preferred":[
         "Loznati"
     ],
+    "name:spa_x_preferred":[
+        "Loznati"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0437\u043d\u0430\u0442\u0438"
+    ],
     "name:unk_x_variant":[
         "San Giovanni di Vigna"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125921039,
-    "wof:lastmodified":1561749611,
+    "wof:lastmodified":1563577714,
     "wof:name":"Loznati",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

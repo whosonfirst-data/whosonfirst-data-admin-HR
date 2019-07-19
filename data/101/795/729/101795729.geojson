@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Isola"
     ],
+    "name:eng_x_variant":[
+        "Otok"
+    ],
     "name:fra_x_preferred":[
         "Otok"
     ],
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749605,
+    "wof:lastmodified":1563577588,
     "wof:name":"Otok",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

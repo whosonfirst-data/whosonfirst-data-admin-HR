@@ -64,6 +64,9 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0430\u0432\u043b\u0435"
     ],
+    "name:slv_x_preferred":[
+        "Konavle"
+    ],
     "name:spa_x_preferred":[
         "Konavle"
     ],
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101912585,
-    "wof:lastmodified":1561749598,
+    "wof:lastmodified":1563577469,
     "wof:name":"Konavle",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

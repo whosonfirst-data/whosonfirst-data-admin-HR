@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Nerezine"
     ],
+    "name:ceb_x_preferred":[
+        "Nerezine"
+    ],
     "name:deu_x_preferred":[
         "Nerezine"
     ],
@@ -49,11 +52,17 @@
     "name:slv_x_preferred":[
         "Nerezine"
     ],
+    "name:spa_x_preferred":[
+        "Nerezine"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u0435\u0440\u0435\u0437\u0438\u043d\u0435"
     ],
     "name:swe_x_preferred":[
         "Nerezine"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0440\u0435\u0437\u0438\u043d\u0435"
     ],
     "name:unk_x_variant":[
         "Neresine"
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":1126023203,
-    "wof:lastmodified":1561749614,
+    "wof:lastmodified":1563577746,
     "wof:name":"Nerezine",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

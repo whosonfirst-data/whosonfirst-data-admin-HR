@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Zmajevac"
     ],
+    "name:ceb_x_preferred":[
+        "Zmajevac"
+    ],
     "name:eng_x_preferred":[
         "Zmajevac"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:swe_x_preferred":[
         "Zmajevac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043c\u0430\u0454\u0432\u0430\u0446\u044c"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125853185,
-    "wof:lastmodified":1561749624,
+    "wof:lastmodified":1563577853,
     "wof:name":"Zmajevac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

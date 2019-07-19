@@ -37,8 +37,14 @@
     "name:slv_x_preferred":[
         "O\u0161trice"
     ],
+    "name:spa_x_preferred":[
+        "O\u0161trice"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u0448\u0442\u0440\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0448\u0442\u0440\u0438\u0446\u0454"
     ],
     "name:unk_x_variant":[
         "O\u0161trice"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125819375,
-    "wof:lastmodified":1561749616,
+    "wof:lastmodified":1563577764,
     "wof:name":"O\u00b5trice",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

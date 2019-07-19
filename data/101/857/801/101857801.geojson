@@ -20,6 +20,12 @@
     "name:bos_x_preferred":[
         "Komin"
     ],
+    "name:ceb_x_preferred":[
+        "Komin"
+    ],
+    "name:ces_x_preferred":[
+        "Komin"
+    ],
     "name:eng_x_preferred":[
         "Komin"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Komin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0438\u043d"
     ],
     "name:zho_x_preferred":[
         "\u514b\u654f"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":101857801,
-    "wof:lastmodified":1561749595,
+    "wof:lastmodified":1563577418,
     "wof:name":"Komin",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

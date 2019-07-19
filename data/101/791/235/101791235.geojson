@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Krapina"
     ],
+    "name:ceb_x_preferred":[
+        "Grad Krapina"
+    ],
     "name:ces_x_preferred":[
         "Krapina"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:deu_x_preferred":[
         "Krapina"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03ac\u03c0\u03b9\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Krapina"
@@ -74,6 +80,9 @@
     "name:hun_x_preferred":[
         "Krapina"
     ],
+    "name:hun_x_variant":[
+        "Korpona"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0580\u0561\u057a\u056b\u0576\u0561"
     ],
@@ -99,6 +108,9 @@
         "Krapina"
     ],
     "name:nno_x_preferred":[
+        "Krapina"
+    ],
+    "name:nob_x_preferred":[
         "Krapina"
     ],
     "name:pol_x_preferred":[
@@ -129,6 +141,9 @@
         "\u041a\u0440\u0430\u043f\u0438\u043d\u0430"
     ],
     "name:swe_x_preferred":[
+        "Krapina"
+    ],
+    "name:szl_x_preferred":[
         "Krapina"
     ],
     "name:tat_x_preferred":[
@@ -199,7 +214,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749589,
+    "wof:lastmodified":1563577348,
     "wof:name":"Krapina",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

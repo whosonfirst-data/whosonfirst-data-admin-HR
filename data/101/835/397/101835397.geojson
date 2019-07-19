@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "\u010cepin"
     ],
+    "name:ceb_x_preferred":[
+        "\u010cepin"
+    ],
     "name:deu_x_preferred":[
         "\u010cepin"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "\u010cepin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u043f\u0438\u043d"
     ],
     "name:und_x_colloquial":[
         "Cepin"
@@ -128,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749595,
+    "wof:lastmodified":1563577427,
     "wof:name":"\u010cepin",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

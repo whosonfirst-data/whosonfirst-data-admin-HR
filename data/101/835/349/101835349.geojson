@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Ka\u0161ina"
     ],
+    "name:ceb_x_preferred":[
+        "Ka\u0161ina"
+    ],
     "name:eng_x_preferred":[
         "Ka\u0161ina"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:swe_x_preferred":[
         "Ka\u0161ina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0448\u0438\u043d\u0430"
     ],
     "name:unk_x_variant":[
         "Gornja Ka\u0161ina"
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":101835349,
-    "wof:lastmodified":1561749596,
+    "wof:lastmodified":1563577437,
     "wof:name":"Ka\u0161ina",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:bos_x_preferred":[
         "Delnice"
     ],
+    "name:ceb_x_preferred":[
+        "Delnice"
+    ],
+    "name:ces_x_preferred":[
+        "Delnice"
+    ],
     "name:ckb_x_preferred":[
         "\u062f\u06ce\u0644\u0646\u06cc\u062a\u0633\u06ce"
     ],
@@ -71,6 +77,9 @@
     "name:slv_x_preferred":[
         "Delnice"
     ],
+    "name:spa_x_preferred":[
+        "Delnice"
+    ],
     "name:sqi_x_preferred":[
         "Delnice"
     ],
@@ -88,6 +97,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043b\u043d\u0456\u0446\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0435\u043b\u043d\u0438\u0446\u0435"
     ],
     "name:und_x_preferred":[
         "Delnice"
@@ -151,7 +163,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749601,
+    "wof:lastmodified":1563577516,
     "wof:name":"Delnice",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

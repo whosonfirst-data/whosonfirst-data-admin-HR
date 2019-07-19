@@ -40,6 +40,9 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0456\u0436\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u043d\u0438\u0436\u0430"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125958399,
-    "wof:lastmodified":1561749613,
+    "wof:lastmodified":1563577732,
     "wof:name":"Kani\u017ea",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

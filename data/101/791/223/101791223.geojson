@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Trojstvo Veliko"
     ],
+    "name:eng_x_variant":[
+        "Veliko Trojstvo"
+    ],
     "name:fra_x_preferred":[
         "Veliko Trojstvo"
     ],
@@ -29,6 +32,9 @@
         "Veliko Trojstvo"
     ],
     "name:hrv_x_preferred":[
+        "Veliko Trojstvo"
+    ],
+    "name:hun_x_preferred":[
         "Veliko Trojstvo"
     ],
     "name:ita_x_preferred":[
@@ -54,6 +60,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u0440\u043e\u0458\u0441\u0442\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u0440\u043e\u0439\u0441\u0442\u0432\u043e"
     ],
     "name:und_x_preferred":[
         "Veliko Trojstvo"
@@ -108,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749589,
+    "wof:lastmodified":1563577353,
     "wof:name":"Veliko Trojstvo",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

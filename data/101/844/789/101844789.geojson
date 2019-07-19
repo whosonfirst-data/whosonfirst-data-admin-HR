@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Gvozd"
     ],
+    "name:ceb_x_preferred":[
+        "Gvozd"
+    ],
     "name:deu_x_preferred":[
         "Gvozd"
     ],
@@ -56,8 +59,17 @@
     "name:nld_x_variant":[
         "Vrginmost"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Gvozd"
+    ],
     "name:ron_x_preferred":[
         "Comuna Gvozd"
+    ],
+    "name:ron_x_variant":[
+        "Gvozd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0432\u043e\u0437\u0434"
     ],
     "name:slv_x_preferred":[
         "Gvozd"
@@ -71,6 +83,9 @@
     "name:swe_x_preferred":[
         "Gvozd"
     ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0432\u043e\u0437\u0434"
+    ],
     "name:und_x_preferred":[
         "Gvozd"
     ],
@@ -79,6 +94,12 @@
     ],
     "name:war_x_preferred":[
         "Gvozd"
+    ],
+    "name:war_x_variant":[
+        "Vrginmost"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u4f5b\u8332\u5fb7"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Sisacko-moslavacka \u017eupanija",
@@ -128,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749594,
+    "wof:lastmodified":1563577403,
     "wof:name":"Gvozd",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

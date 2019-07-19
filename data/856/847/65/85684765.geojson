@@ -27,6 +27,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0632\u063a\u0631\u0628"
     ],
+    "name:bar_x_preferred":[
+        "Gspanschoft Zagreb"
+    ],
     "name:bel_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0430\u0431\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:cat_x_preferred":[
         "Comtat de Zagreb"
+    ],
+    "name:ceb_x_preferred":[
+        "Zagreb County"
     ],
     "name:ces_x_preferred":[
         "Z\u00e1h\u0159ebsk\u00e1 \u017eupa"
@@ -60,8 +66,14 @@
     "name:eng_x_preferred":[
         "Zagrebacka"
     ],
+    "name:eng_x_variant":[
+        "Zagreb County"
+    ],
     "name:epo_x_preferred":[
         "Provinco Zagrebo"
+    ],
+    "name:epo_x_variant":[
+        "Zagreba provinco"
     ],
     "name:est_x_preferred":[
         "Zagrebi maakond"
@@ -81,8 +93,14 @@
     "name:fra_x_preferred":[
         "Comitat de Zagreb"
     ],
+    "name:fra_x_variant":[
+        "Zagreb"
+    ],
     "name:frr_x_preferred":[
         "Zagreb lun"
+    ],
+    "name:gle_x_preferred":[
+        "Contae S\u00e1grab"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0a97\u0acd\u0ab0\u0ac7\u0aac \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -121,6 +139,9 @@
     "name:kor_x_preferred":[
         "\uc790\uadf8\ub808\ube0c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc790\uadf8\ub808\ube0c\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Zagrebiensis"
     ],
@@ -138,6 +159,9 @@
     ],
     "name:msa_x_preferred":[
         "Zagreb County"
+    ],
+    "name:nan_x_preferred":[
+        "Zagreb K\u016bn"
     ],
     "name:nld_x_preferred":[
         "Zagreb"
@@ -163,6 +187,9 @@
     "name:rus_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0435\u0431\u0430\u0447\u043a\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0417\u0430\u0433\u0440\u0435\u0431\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f"
+    ],
     "name:sco_x_preferred":[
         "Zagreb Coonty"
     ],
@@ -180,6 +207,9 @@
     ],
     "name:spa_x_preferred":[
         "Condado de Zagreb"
+    ],
+    "name:spa_x_variant":[
+        "Zagreb"
     ],
     "name:sqi_x_preferred":[
         "Zhupania e Zagrebit"
@@ -213,6 +243,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0632\u063a\u0631\u0628 \u06a9\u0627\u0624\u0646\u0679\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0632\u06af\u0631\u06cc\u0628 \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
     "name:vie_x_preferred":[
         "Zagreb"
@@ -341,7 +374,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1561749557,
+    "wof:lastmodified":1563576620,
     "wof:name":"Zagrebacka",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

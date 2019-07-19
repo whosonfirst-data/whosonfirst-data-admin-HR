@@ -26,7 +26,13 @@
     "name:bos_x_preferred":[
         "Hvar"
     ],
+    "name:bul_x_preferred":[
+        "\u0425\u0432\u0430\u0440"
+    ],
     "name:cat_x_preferred":[
+        "Hvar"
+    ],
+    "name:ceb_x_preferred":[
         "Hvar"
     ],
     "name:ces_x_preferred":[
@@ -38,8 +44,14 @@
     "name:deu_x_preferred":[
         "Hvar"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b2\u03b1\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Lesina"
+    ],
+    "name:eng_x_variant":[
+        "Hvar"
     ],
     "name:fas_x_preferred":[
         "\u062e\u0648\u0627\u0631"
@@ -62,14 +74,23 @@
     "name:ile_x_preferred":[
         "Hvar"
     ],
+    "name:ind_x_preferred":[
+        "Hvar"
+    ],
     "name:ita_x_preferred":[
         "Lesina"
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30f4\u30a1\u30eb"
     ],
+    "name:kor_x_preferred":[
+        "\ud750\ubc14\ub974"
+    ],
     "name:lat_x_preferred":[
         "Pharus"
+    ],
+    "name:lat_x_variant":[
+        "Pharina"
     ],
     "name:nld_x_preferred":[
         "Hvar"
@@ -112,6 +133,9 @@
     ],
     "name:und_x_preferred":[
         "Hvar"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0648\u0627\u0631"
     ],
     "name:war_x_preferred":[
         "Hvar"
@@ -172,7 +196,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749591,
+    "wof:lastmodified":1563577368,
     "wof:name":"Hvar",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

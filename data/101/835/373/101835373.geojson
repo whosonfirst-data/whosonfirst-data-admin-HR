@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000249,
+    "geom:area_square_m":2148323.73784,
     "geom:bbox":"16.250038805,45.787887587,16.2816533596,45.8263833088",
     "geom:latitude":45.810753,
     "geom:longitude":16.26635,
@@ -15,6 +16,93 @@
     "mps:longitude":16.262994,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:ceb_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:ces_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0648\u06af\u06c6 \u0633\u06ce\u0644\u06c6"
+    ],
+    "name:deu_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:eng_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:epo_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u06af\u0648 \u0633\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:hun_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:ita_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30b4\u30fb\u30bb\u30ed"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0443\u0433\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:pol_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:por_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:ron_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0433\u043e-\u0421\u0435\u043b\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:spa_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:sqi_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:srd_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0433\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0443\u0433\u043e-\u0421\u0435\u043b\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0433\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:war_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u6208\u6751"
+    ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Zagrebacka \u017eupanija",
     "qs:a1r":"0",
@@ -56,7 +144,7 @@
         }
     ],
     "wof:id":101835373,
-    "wof:lastmodified":1527642779,
+    "wof:lastmodified":1563577455,
     "wof:name":"Kozin\u0161\u010dak",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

@@ -49,6 +49,9 @@
     "name:srp_x_preferred":[
         "\u0410\u043d\u0442\u0438\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0442\u0438\u043d"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125937133,
-    "wof:lastmodified":1561749610,
+    "wof:lastmodified":1563577703,
     "wof:name":"Antin",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

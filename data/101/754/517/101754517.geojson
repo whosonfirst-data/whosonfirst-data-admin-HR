@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00048,
+    "geom:area_square_m":4157154.891613,
     "geom:bbox":"18.6063260923,45.5164628406,18.6732695,45.5532749023",
     "geom:latitude":45.538324,
     "geom:longitude":18.643031,
@@ -18,10 +19,16 @@
     "name:bos_x_preferred":[
         "Klisa"
     ],
+    "name:eng_x_preferred":[
+        "Klisa"
+    ],
     "name:hbs_x_preferred":[
         "Klisa"
     ],
     "name:hrv_x_preferred":[
+        "Klisa"
+    ],
+    "name:nld_x_preferred":[
         "Klisa"
     ],
     "name:slv_x_preferred":[
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":101754517,
-    "wof:lastmodified":1527641858,
+    "wof:lastmodified":1563577334,
     "wof:name":"Brije\u0161\u0107e",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

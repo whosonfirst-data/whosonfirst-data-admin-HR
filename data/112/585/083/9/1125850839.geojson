@@ -43,6 +43,9 @@
     "name:srp_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0442\u0438\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0442\u0438\u043d"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125850839,
-    "wof:lastmodified":1561749623,
+    "wof:lastmodified":1563577848,
     "wof:name":"Rogotin",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

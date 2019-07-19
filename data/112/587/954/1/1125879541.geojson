@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043c\u0435\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Pomena"
+    ],
     "name:eng_x_preferred":[
         "Pomena"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:swe_x_preferred":[
         "Pomena"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043c\u0435\u043d\u0430"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125879541,
-    "wof:lastmodified":1561749618,
+    "wof:lastmodified":1563577788,
     "wof:name":"Pomena",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

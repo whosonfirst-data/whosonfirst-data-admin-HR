@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Novi Jankovci"
     ],
+    "name:ceb_x_preferred":[
+        "Novi Jankovci"
+    ],
     "name:eng_x_preferred":[
         "Novi Jankovci"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:swe_x_preferred":[
         "Novi Jankovci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0456 \u042f\u043d\u043a\u043e\u0432\u0446\u0456"
     ],
     "name:unk_x_variant":[
         "\u00dajjankov\u00e1c"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":101835321,
-    "wof:lastmodified":1561749597,
+    "wof:lastmodified":1563577456,
     "wof:name":"Novi Jankovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

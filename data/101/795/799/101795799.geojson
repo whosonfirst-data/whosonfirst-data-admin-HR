@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0443\u043d\u0430\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Punat"
+    ],
     "name:ces_x_preferred":[
         "Punat"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:swe_x_preferred":[
         "Punat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043d\u0430\u0442"
     ],
     "name:und_x_preferred":[
         "Punat"
@@ -136,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749604,
+    "wof:lastmodified":1563577562,
     "wof:name":"Punat",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

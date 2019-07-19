@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Oroslavje"
     ],
+    "name:ceb_x_preferred":[
+        "Oroslavje"
+    ],
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u0631\u06c6\u0633\u0644\u0627\u06a4\u06cc\u06ce"
     ],
@@ -143,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749595,
+    "wof:lastmodified":1563577428,
     "wof:name":"Oroslavje",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

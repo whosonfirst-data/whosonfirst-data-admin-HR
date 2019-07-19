@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0628\u064a\u062a\u0627\u0631"
     ],
+    "name:bak_x_preferred":[
+        "\u0421\u0443\u043f\u0435\u0442\u0430\u0440"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0443\u043f\u0435\u0442\u0430\u0440"
     ],
@@ -27,6 +30,9 @@
         "Supetar"
     ],
     "name:cat_x_preferred":[
+        "Supetar"
+    ],
+    "name:ceb_x_preferred":[
         "Supetar"
     ],
     "name:ces_x_preferred":[
@@ -44,6 +50,9 @@
     "name:eng_x_variant":[
         "S. Pietro Della Brazza",
         "San Pietro Della Brazza",
+        "Supetar"
+    ],
+    "name:est_x_preferred":[
         "Supetar"
     ],
     "name:fas_x_preferred":[
@@ -199,7 +208,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749608,
+    "wof:lastmodified":1563577618,
     "wof:name":"Supetar",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

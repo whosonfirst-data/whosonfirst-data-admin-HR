@@ -19,7 +19,16 @@
     "name:bos_x_preferred":[
         "Novo \u010ci\u010de"
     ],
+    "name:ces_x_preferred":[
+        "Novo \u010ci\u010de"
+    ],
+    "name:deu_x_preferred":[
+        "Novo \u010ci\u010de"
+    ],
     "name:eng_x_preferred":[
+        "Novo \u010ci\u010de"
+    ],
+    "name:fra_x_preferred":[
         "Novo \u010ci\u010de"
     ],
     "name:hbs_x_preferred":[
@@ -34,10 +43,16 @@
     "name:nld_x_preferred":[
         "Novo \u010ci\u010de"
     ],
+    "name:slk_x_preferred":[
+        "Novo \u010ci\u010de"
+    ],
     "name:slv_x_preferred":[
         "Novo \u010ci\u010de"
     ],
     "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0427\u0438\u0447\u0435"
+    ],
+    "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e \u0427\u0438\u0447\u0435"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -79,7 +94,7 @@
         }
     ],
     "wof:id":101792379,
-    "wof:lastmodified":1561749606,
+    "wof:lastmodified":1563577601,
     "wof:name":"Novo \u010ci\u010de",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

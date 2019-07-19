@@ -34,10 +34,16 @@
     "name:hun_x_preferred":[
         "F\u0151herceglak"
     ],
+    "name:nld_x_preferred":[
+        "Kne\u017eevo"
+    ],
     "name:slv_x_preferred":[
         "Kne\u017eevo"
     ],
     "name:srp_x_preferred":[
+        "\u041a\u043d\u0435\u0436\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
         "\u041a\u043d\u0435\u0436\u0435\u0432\u043e"
     ],
     "name:unk_x_variant":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125937331,
-    "wof:lastmodified":1514447488,
+    "wof:lastmodified":1563577706,
     "wof:name":"Kne\u017eevo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

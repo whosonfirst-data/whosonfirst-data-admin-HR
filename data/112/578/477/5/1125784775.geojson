@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Borovo"
     ],
+    "name:ceb_x_preferred":[
+        "Borovo"
+    ],
     "name:cym_x_preferred":[
         "Borovo"
     ],
@@ -47,6 +50,9 @@
         "Borovo"
     ],
     "name:nld_x_preferred":[
+        "Borovo"
+    ],
+    "name:pol_x_preferred":[
         "Borovo"
     ],
     "name:ron_x_preferred":[
@@ -72,6 +78,9 @@
     ],
     "name:tur_x_preferred":[
         "Borovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Borovo"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":1125784775,
-    "wof:lastmodified":1561749624,
+    "wof:lastmodified":1563577856,
     "wof:name":"Borovo Selo",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

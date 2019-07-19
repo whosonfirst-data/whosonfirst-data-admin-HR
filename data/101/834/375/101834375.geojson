@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "\u0160enkovec"
     ],
+    "name:ceb_x_preferred":[
+        "\u0160enkovec"
+    ],
     "name:eng_x_preferred":[
         "\u0160enkovec"
     ],
@@ -44,6 +47,9 @@
     "name:nld_x_preferred":[
         "\u0160enkovec"
     ],
+    "name:pol_x_preferred":[
+        "Gmina \u0160enkovec"
+    ],
     "name:ron_x_preferred":[
         "Comuna \u0160enkovec"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:swe_x_preferred":[
         "\u0160enkovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043d\u043a\u043e\u0432\u0435\u0446\u044c"
     ],
     "name:war_x_preferred":[
         "\u0160enkovec"
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":101834375,
-    "wof:lastmodified":1561749598,
+    "wof:lastmodified":1563577467,
     "wof:name":"\u0160enkovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

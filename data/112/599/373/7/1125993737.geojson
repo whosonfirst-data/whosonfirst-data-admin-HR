@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Ivanska"
     ],
+    "name:ceb_x_preferred":[
+        "Ivanska"
+    ],
     "name:deu_x_preferred":[
         "Ivanska"
     ],
@@ -38,6 +41,9 @@
         "Ivanska"
     ],
     "name:hrv_x_preferred":[
+        "Ivanska"
+    ],
+    "name:hun_x_preferred":[
         "Ivanska"
     ],
     "name:ita_x_preferred":[
@@ -66,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Ivanska"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0432\u0430\u043d\u0441\u044c\u043a\u0430"
     ],
     "name:war_x_preferred":[
         "Ivanska"
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125993737,
-    "wof:lastmodified":1561749619,
+    "wof:lastmodified":1563577801,
     "wof:name":"Ivanska",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

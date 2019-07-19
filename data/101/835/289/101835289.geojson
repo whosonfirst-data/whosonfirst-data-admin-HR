@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Stari Slatinik"
     ],
+    "name:ceb_x_preferred":[
+        "Stari Slatnik"
+    ],
     "name:eng_x_preferred":[
         "Stari Slatinik"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:swe_x_preferred":[
         "Stari Slatnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u0439 \u0421\u043b\u0430\u0442\u0438\u043d\u0438\u043a"
     ],
     "name:unk_x_variant":[
         "Stari Slatnik"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":101835289,
-    "wof:lastmodified":1561749596,
+    "wof:lastmodified":1563577430,
     "wof:name":"Stari Slatinik",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

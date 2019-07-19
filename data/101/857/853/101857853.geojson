@@ -23,8 +23,14 @@
     "name:arz_x_preferred":[
         "\u0648\u0642\u0627\u062d\u0629"
     ],
+    "name:arz_x_variant":[
+        "\u0642\u0644\u0629 \u0627\u062f\u0628"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "rudeness"
     ],
     "name:eus_x_preferred":[
         "Zakarkeria"
@@ -32,8 +38,20 @@
     "name:fas_x_preferred":[
         "\u0628\u06cc\u200c\u0627\u062f\u0628\u06cc"
     ],
+    "name:fra_x_preferred":[
+        "impolitesse"
+    ],
     "name:heb_x_preferred":[
         "\u05d2\u05e1\u05d5\u05ea \u05e8\u05d5\u05d7"
+    ],
+    "name:ind_x_preferred":[
+        "kasar"
+    ],
+    "name:ita_x_preferred":[
+        "villania"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0cb8\u0cad\u0ccd\u0caf\u0ca4\u0cc6"
     ],
     "name:pol_x_preferred":[
         "Chamstwo"
@@ -41,11 +59,20 @@
     "name:rus_x_preferred":[
         "\u0425\u0430\u043c\u0441\u0442\u0432\u043e"
     ],
+    "name:slv_x_preferred":[
+        "grobost"
+    ],
     "name:spa_x_preferred":[
         "Groser\u00eda"
     ],
+    "name:srp_x_preferred":[
+        "\u0433\u0440\u0443\u0431\u043e\u0441\u0442"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043c\u0441\u0442\u0432\u043e"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u043e\u043d\u044f \u0428\u0435\u043c\u043d\u0438\u0446\u044f"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Zagrebacka \u017eupanija",
@@ -91,7 +118,7 @@
         }
     ],
     "wof:id":101857853,
-    "wof:lastmodified":1544744111,
+    "wof:lastmodified":1563577417,
     "wof:name":"Rude",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

@@ -22,10 +22,19 @@
     "name:cat_x_preferred":[
         "Donji Vinjani"
     ],
+    "name:eng_x_preferred":[
+        "Donji Vinjani"
+    ],
     "name:hbs_x_preferred":[
         "Donji Vinjani"
     ],
     "name:hrv_x_preferred":[
+        "Donji Vinjani"
+    ],
+    "name:hun_x_preferred":[
+        "Donji Vinjani"
+    ],
+    "name:nld_x_preferred":[
         "Donji Vinjani"
     ],
     "name:slv_x_preferred":[
@@ -36,6 +45,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u045a\u0438 \u0412\u0438\u045a\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u0456 \u0412\u0438\u043d\u044f\u043d\u0438"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":101857811,
-    "wof:lastmodified":1544744091,
+    "wof:lastmodified":1563577404,
     "wof:name":"Donji Vinjani",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

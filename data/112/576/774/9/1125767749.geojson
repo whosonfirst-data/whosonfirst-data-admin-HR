@@ -43,11 +43,20 @@
     "name:ita_x_preferred":[
         "Caisole"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30ea"
+    ],
     "name:nld_x_preferred":[
         "Beli"
     ],
     "name:slv_x_preferred":[
         "Beli"
+    ],
+    "name:spa_x_preferred":[
+        "Beli"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0456"
     ],
     "name:unk_x_variant":[
         "Caisole"
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1125767749,
-    "wof:lastmodified":1561749623,
+    "wof:lastmodified":1563577844,
     "wof:name":"Beli",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

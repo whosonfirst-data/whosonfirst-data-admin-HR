@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Ko\u0161ka"
     ],
+    "name:ceb_x_preferred":[
+        "Ko\u0161ka"
+    ],
     "name:eng_x_preferred":[
         "Ko\u0161ka"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "Ko\u0161ka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0448\u043a\u0430"
     ],
     "name:unk_x_variant":[
         "Koszka"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":101792431,
-    "wof:lastmodified":1561749606,
+    "wof:lastmodified":1563577600,
     "wof:name":"Ko\u0161ka",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

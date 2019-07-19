@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Zlatar-Bistrica"
     ],
+    "name:ceb_x_preferred":[
+        "Grad Zlatar"
+    ],
     "name:eng_x_preferred":[
         "Zlatar Bistrica"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Grad Zlatar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u0430\u0440-\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u044f"
     ],
     "name:war_x_preferred":[
         "Zlatar Bistrica"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101791241,
-    "wof:lastmodified":1561749589,
+    "wof:lastmodified":1563577352,
     "wof:name":"Zlatar-Bistrica",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

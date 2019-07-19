@@ -26,6 +26,12 @@
     "name:cat_x_preferred":[
         "Vodnjan"
     ],
+    "name:ceb_x_preferred":[
+        "Vodnjan"
+    ],
+    "name:ces_x_preferred":[
+        "Vodnjan"
+    ],
     "name:ckb_x_preferred":[
         "\u06a4\u06c6\u062f\u0646\u06cc\u0627\u0646"
     ],
@@ -62,6 +68,9 @@
     ],
     "name:lat_x_preferred":[
         "Adinianum"
+    ],
+    "name:lat_x_variant":[
+        "Praedium Athenianum"
     ],
     "name:nld_x_preferred":[
         "Vodnjan"
@@ -158,7 +167,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749605,
+    "wof:lastmodified":1563577583,
     "wof:name":"Vodnjan",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

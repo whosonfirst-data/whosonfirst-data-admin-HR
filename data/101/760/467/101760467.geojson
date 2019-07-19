@@ -23,7 +23,13 @@
     "name:bos_x_preferred":[
         "Klis"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u043b\u0438\u0441"
+    ],
     "name:cat_x_preferred":[
+        "Klis"
+    ],
+    "name:ceb_x_preferred":[
         "Klis"
     ],
     "name:ces_x_preferred":[
@@ -34,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "Clissa"
+    ],
+    "name:eng_x_variant":[
+        "Klis"
     ],
     "name:fra_x_preferred":[
         "Klis"
@@ -83,6 +92,9 @@
     "name:tur_x_preferred":[
         "Kilis"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u0438\u0441"
+    ],
     "name:und_x_preferred":[
         "Klis"
     ],
@@ -91,6 +103,9 @@
     ],
     "name:war_x_preferred":[
         "Klis"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5229\u65af"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
@@ -140,7 +155,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749603,
+    "wof:lastmodified":1563577549,
     "wof:name":"Klis",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

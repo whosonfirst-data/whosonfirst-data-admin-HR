@@ -20,11 +20,17 @@
     "name:bos_x_preferred":[
         "Beretinec"
     ],
+    "name:ceb_x_preferred":[
+        "Beretinec"
+    ],
     "name:ces_x_preferred":[
         "Beretinec"
     ],
     "name:eng_x_preferred":[
         "Bertinec"
+    ],
+    "name:eng_x_variant":[
+        "Beretinec"
     ],
     "name:fra_x_preferred":[
         "Beretinec"
@@ -44,6 +50,9 @@
     "name:nld_x_preferred":[
         "Beretinec"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Beretinec"
+    ],
     "name:ron_x_preferred":[
         "Comuna Beretinec"
     ],
@@ -61,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Beretinec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0442\u0438\u043d\u0435\u0446\u044c"
     ],
     "name:und_x_preferred":[
         "Beretinec"
@@ -119,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749589,
+    "wof:lastmodified":1563577349,
     "wof:name":"Beretinec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

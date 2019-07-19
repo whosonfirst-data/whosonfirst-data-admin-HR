@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Gali\u017eana"
     ],
+    "name:ceb_x_preferred":[
+        "Gali\u017eana"
+    ],
     "name:eng_x_preferred":[
         "Gali\u017eana"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Gali\u017eana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043b\u0438\u0436\u0430\u043d\u0430"
     ],
     "name:unk_x_variant":[
         "Gale\u017ean"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":101795801,
-    "wof:lastmodified":1561749605,
+    "wof:lastmodified":1563577584,
     "wof:name":"Gali\u017eana",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

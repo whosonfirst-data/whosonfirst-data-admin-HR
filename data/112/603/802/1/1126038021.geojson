@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Gola"
     ],
+    "name:ceb_x_preferred":[
+        "Gola"
+    ],
     "name:eng_x_preferred":[
         "Gola"
     ],
@@ -40,6 +43,9 @@
     "name:nld_x_preferred":[
         "Gola"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Gola"
+    ],
     "name:ron_x_preferred":[
         "Comuna Gola"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:swe_x_preferred":[
         "Gola"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u0430"
     ],
     "name:war_x_preferred":[
         "Gola"
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":1126038021,
-    "wof:lastmodified":1561749615,
+    "wof:lastmodified":1563577753,
     "wof:name":"Gola",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

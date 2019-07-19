@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Jablanovec"
     ],
+    "name:ceb_x_preferred":[
+        "Jablanovec"
+    ],
     "name:eng_x_preferred":[
         "Jablanovec"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:swe_x_preferred":[
         "Jablanovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0431\u043b\u0430\u043d\u043e\u0432\u0435\u0446\u044c"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Zagrebacka \u017eupanija",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":101792365,
-    "wof:lastmodified":1561749606,
+    "wof:lastmodified":1563577590,
     "wof:name":"Jablanovec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

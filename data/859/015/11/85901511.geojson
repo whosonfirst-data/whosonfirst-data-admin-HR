@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":33324744.470756,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.439673,45.329569,14.439673,45.329569",
     "geom:latitude":45.329569,
     "geom:longitude":14.439673,
@@ -28,6 +28,12 @@
     "name:bos_x_preferred":[
         "Susak"
     ],
+    "name:bul_x_preferred":[
+        "\u0421\u0443\u0441\u0430\u043a"
+    ],
+    "name:ces_x_preferred":[
+        "Susak"
+    ],
     "name:deu_x_preferred":[
         "Susak"
     ],
@@ -35,7 +41,7 @@
         "Sussak"
     ],
     "name:eng_x_variant":[
-        "Sussak"
+        "Susak"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0633\u0627\u06a9"
@@ -52,8 +58,14 @@
     "name:hrv_x_preferred":[
         "Susak"
     ],
+    "name:ind_x_preferred":[
+        "Susak"
+    ],
     "name:ita_x_preferred":[
         "Sansego"
+    ],
+    "name:kor_x_preferred":[
+        "\uc218\uc0ac\ud06c\uc12c"
     ],
     "name:lat_x_preferred":[
         "Eucomium"
@@ -157,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932520,
+    "wof:lastmodified":1563576600,
     "wof:name":"Su\u00b5ak",
     "wof:parent_id":101751775,
     "wof:placetype":"neighbourhood",

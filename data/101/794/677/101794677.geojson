@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Jadranovo"
     ],
+    "name:ceb_x_preferred":[
+        "Jadranovo"
+    ],
     "name:deu_x_preferred":[
         "Jadranovo"
     ],
@@ -47,11 +50,17 @@
     "name:slv_x_preferred":[
         "Jadranovo"
     ],
+    "name:spa_x_preferred":[
+        "Jadranovo"
+    ],
     "name:srp_x_preferred":[
         "\u0408\u0430\u0434\u0440\u0430\u043d\u043e\u0432\u043e"
     ],
     "name:swe_x_preferred":[
         "Jadranovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0434\u0440\u0430\u043d\u043e\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Sveti Jakob"
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":101794677,
-    "wof:lastmodified":1561749603,
+    "wof:lastmodified":1563577537,
     "wof:name":"Jadranovo",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

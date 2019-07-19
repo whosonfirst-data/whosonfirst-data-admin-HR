@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Fu\u017eine"
     ],
+    "name:ceb_x_preferred":[
+        "Fu\u017eine"
+    ],
     "name:deu_x_preferred":[
         "Fu\u017eine"
     ],
@@ -49,6 +52,9 @@
     "name:nob_x_preferred":[
         "Fu\u017eine"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Fu\u017eine"
+    ],
     "name:ron_x_preferred":[
         "Comuna Fu\u017eine"
     ],
@@ -66,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Fu\u017eine"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0443\u0436\u0438\u043d\u0435"
     ],
     "name:unk_x_variant":[
         "Fusine"
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":1125921907,
-    "wof:lastmodified":1561749612,
+    "wof:lastmodified":1563577719,
     "wof:name":"Fu\u017eine",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:srp_x_preferred":[
         "\u0418\u0432\u0430\u043d \u0414\u043e\u043b\u0430\u0446"
     ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0432\u0430\u043d-\u0414\u043e\u043b\u0430\u0446\u044c"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125922709,
-    "wof:lastmodified":1514447464,
+    "wof:lastmodified":1563577721,
     "wof:name":"Ivan Dolac",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

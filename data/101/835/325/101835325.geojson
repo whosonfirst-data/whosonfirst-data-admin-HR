@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Vukovar"
     ],
+    "name:ceb_x_preferred":[
+        "Grad Vukovar"
+    ],
     "name:ces_x_preferred":[
         "Vukovar"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:deu_x_preferred":[
         "Vukovar"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03cd\u03ba\u03bf\u03b2\u03b1\u03c1"
     ],
     "name:eng_x_preferred":[
         "Vukovar"
@@ -74,13 +80,22 @@
     "name:gla_x_preferred":[
         "Vukovar"
     ],
+    "name:gle_x_preferred":[
+        "Vukovar"
+    ],
     "name:hbs_x_preferred":[
         "Vukovar"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d5\u05e7\u05d5\u05d1\u05e8"
     ],
+    "name:heb_x_variant":[
+        "\u05d5\u05d5\u05e7\u05d5\u05d1\u05d0\u05e8"
+    ],
     "name:hrv_x_preferred":[
+        "Vukovar"
+    ],
+    "name:hsb_x_preferred":[
         "Vukovar"
     ],
     "name:hun_x_preferred":[
@@ -103,6 +118,9 @@
     ],
     "name:lat_x_preferred":[
         "Cornacum"
+    ],
+    "name:lav_x_preferred":[
+        "Vukovara"
     ],
     "name:lit_x_preferred":[
         "Vukovaras"
@@ -240,7 +258,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749596,
+    "wof:lastmodified":1563577440,
     "wof:name":"Vukovar",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

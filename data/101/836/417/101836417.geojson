@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Dugi Rat"
     ],
+    "name:ces_x_preferred":[
+        "Dugi Rat"
+    ],
     "name:deu_x_preferred":[
         "Dugi Rat"
     ],
@@ -43,6 +46,9 @@
     "name:ita_x_preferred":[
         "Punta Lunga"
     ],
+    "name:ita_x_variant":[
+        "Dugi Rat"
+    ],
     "name:nld_x_preferred":[
         "Dugi Rat"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:ron_x_preferred":[
         "Comuna Dugi Rat"
+    ],
+    "name:slk_x_preferred":[
+        "Dugi Rat"
     ],
     "name:slv_x_preferred":[
         "Dugi Rat"
@@ -64,11 +73,17 @@
     "name:srp_x_preferred":[
         "\u0414\u0443\u0433\u0438 \u0420\u0430\u0442"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0433\u0438\u0439 \u0420\u0430\u0442"
+    ],
     "name:und_x_preferred":[
         "Dugi Rat"
     ],
     "name:war_x_preferred":[
         "Dugi Rat"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u57fa\u62c9\u7279"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
@@ -117,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749608,
+    "wof:lastmodified":1563577627,
     "wof:name":"Dugi Rat",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

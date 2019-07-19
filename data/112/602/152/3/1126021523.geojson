@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Palovec"
     ],
+    "name:ceb_x_preferred":[
+        "Palovec"
+    ],
     "name:eng_x_preferred":[
         "Palovec"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u043b\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Palovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043b\u043e\u0432\u0435\u0446\u044c"
     ],
     "name:unk_x_variant":[
         "Palovec"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1126021523,
-    "wof:lastmodified":1561749614,
+    "wof:lastmodified":1563577743,
     "wof:name":"\u00c5 Alovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

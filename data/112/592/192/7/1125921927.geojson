@@ -43,6 +43,9 @@
     "name:srp_x_preferred":[
         "\u0413\u0430\u0442\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0442\u0430"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125921927,
-    "wof:lastmodified":1561749611,
+    "wof:lastmodified":1563577714,
     "wof:name":"Gata",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

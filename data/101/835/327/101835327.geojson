@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Rokovci"
     ],
+    "name:ceb_x_preferred":[
+        "Rokovci"
+    ],
     "name:eng_x_preferred":[
         "Rokovci"
     ],
@@ -32,6 +35,9 @@
     "name:nld_x_preferred":[
         "Rokovci"
     ],
+    "name:pol_x_preferred":[
+        "Rokovci"
+    ],
     "name:slv_x_preferred":[
         "Rokovci"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:swe_x_preferred":[
         "Rokovci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u043a\u043e\u0432\u0446\u0456"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Vukovarsko-srijemska \u017eupanija",
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":101835327,
-    "wof:lastmodified":1561749597,
+    "wof:lastmodified":1563577452,
     "wof:name":"Rokovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

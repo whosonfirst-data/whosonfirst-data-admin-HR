@@ -22,10 +22,19 @@
     "name:bos_x_preferred":[
         "Bu\u0161etina"
     ],
+    "name:ceb_x_preferred":[
+        "Bu\u0161etina"
+    ],
     "name:eng_x_preferred":[
         "Bu\u0161etina"
     ],
+    "name:fra_x_preferred":[
+        "Bu\u0161etina"
+    ],
     "name:hrv_x_preferred":[
+        "Bu\u0161etina"
+    ],
+    "name:hun_x_preferred":[
         "Bu\u0161etina"
     ],
     "name:nld_x_preferred":[
@@ -34,11 +43,17 @@
     "name:slv_x_preferred":[
         "Bu\u0161etina"
     ],
+    "name:spa_x_preferred":[
+        "Bu\u0161etina"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0443\u0448\u0435\u0442\u0438\u043d\u0430"
     ],
     "name:swe_x_preferred":[
         "Bu\u0161etina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0448\u0435\u0442\u0438\u043d\u0430"
     ],
     "name:unk_x_variant":[
         "Bussetina"
@@ -90,7 +105,7 @@
         }
     ],
     "wof:id":1125957981,
-    "wof:lastmodified":1561749612,
+    "wof:lastmodified":1563577723,
     "wof:name":"Bu\u00b5etina",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

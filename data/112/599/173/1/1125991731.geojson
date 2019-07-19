@@ -55,6 +55,9 @@
     "name:slv_x_preferred":[
         "Ka\u0161tel Kambelovac"
     ],
+    "name:slv_x_variant":[
+        "Tribanj-Kru\u0161\u0107ica"
+    ],
     "name:spa_x_preferred":[
         "Ka\u0161tel Kambelovac"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:swe_x_preferred":[
         "Ka\u0161tel Kambelovac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b-\u041a\u0430\u043c\u0431\u0435\u043b\u043e\u0432\u0430\u0446\u044c"
     ],
     "name:unk_x_variant":[
         "Selo Ka\u0161tel Kambelovac"
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1125991731,
-    "wof:lastmodified":1561749619,
+    "wof:lastmodified":1563577797,
     "wof:name":"Ka\u00b5tel Kambelovac",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

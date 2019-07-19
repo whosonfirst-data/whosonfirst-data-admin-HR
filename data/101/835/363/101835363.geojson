@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Novoselec"
     ],
+    "name:ceb_x_preferred":[
+        "Novoselec"
+    ],
     "name:eng_x_preferred":[
         "Novoselec"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Novoselec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0435\u0446\u044c"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Zagrebacka \u017eupanija",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":101835363,
-    "wof:lastmodified":1561749595,
+    "wof:lastmodified":1563577428,
     "wof:name":"Novoselec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

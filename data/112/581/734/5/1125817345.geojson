@@ -28,10 +28,16 @@
     "name:cat_x_preferred":[
         "Igrane"
     ],
+    "name:ceb_x_preferred":[
+        "Igrane"
+    ],
     "name:ces_x_preferred":[
         "Igrane"
     ],
     "name:eng_x_preferred":[
+        "Igrane"
+    ],
+    "name:fra_x_preferred":[
         "Igrane"
     ],
     "name:hrv_x_preferred":[
@@ -57,6 +63,9 @@
     ],
     "name:swe_x_preferred":[
         "Igrane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0433\u0440\u0430\u043d\u0435"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":1125817345,
-    "wof:lastmodified":1561749616,
+    "wof:lastmodified":1563577767,
     "wof:name":"Igrane",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

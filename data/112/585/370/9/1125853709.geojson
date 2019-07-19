@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Vuka"
     ],
+    "name:ceb_x_preferred":[
+        "Vuka"
+    ],
     "name:eng_x_preferred":[
         "Vuka"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Vuka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0443\u043a\u0430"
     ],
     "name:unk_x_variant":[
         "Vuka"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1125853709,
-    "wof:lastmodified":1561749623,
+    "wof:lastmodified":1563577850,
     "wof:name":"Va\u00b5ka",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Karojba"
     ],
+    "name:ceb_x_preferred":[
+        "Karojba"
+    ],
     "name:deu_x_preferred":[
         "Karojba"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:swe_x_preferred":[
         "Karojba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u043e\u0439\u0431\u0430"
     ],
     "name:unk_x_variant":[
         "Caroiba Subiente"
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":1126017839,
-    "wof:lastmodified":1561749622,
+    "wof:lastmodified":1563577830,
     "wof:name":"Karojba",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "name:cat_x_preferred":[
         "Ozalj"
     ],
+    "name:ceb_x_preferred":[
+        "Grad Ozalj"
+    ],
+    "name:ces_x_preferred":[
+        "Ozalj"
+    ],
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u0632\u0627\u0644\u06cc"
     ],
@@ -156,7 +162,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749599,
+    "wof:lastmodified":1563577483,
     "wof:name":"Ozalj",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

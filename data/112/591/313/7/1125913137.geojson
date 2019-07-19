@@ -25,11 +25,17 @@
     "name:bul_x_preferred":[
         "\u0422\u043a\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Tkon"
+    ],
     "name:ces_x_preferred":[
         "Tkon"
     ],
     "name:deu_x_preferred":[
         "Tkon"
+    ],
+    "name:deu_x_variant":[
+        "Techun"
     ],
     "name:eng_x_preferred":[
         "Tkon"
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":1125913137,
-    "wof:lastmodified":1561749621,
+    "wof:lastmodified":1563577817,
     "wof:name":"Tkon",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

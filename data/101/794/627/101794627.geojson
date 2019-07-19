@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0437\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Pazin"
+    ],
     "name:ces_x_preferred":[
         "Pazin"
     ],
@@ -35,8 +38,14 @@
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0632\u06cc\u0646"
     ],
+    "name:dan_x_preferred":[
+        "Pazin"
+    ],
     "name:deu_x_preferred":[
         "Pazin"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03b6\u03b9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Pisino"
@@ -54,6 +63,9 @@
         "\u067e\u0627\u0632\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
+        "Pazin"
+    ],
+    "name:gle_x_preferred":[
         "Pazin"
     ],
     "name:hbs_x_preferred":[
@@ -86,6 +98,9 @@
     "name:lat_x_preferred":[
         "Pisinum"
     ],
+    "name:lat_x_variant":[
+        "Castrum Pisinium"
+    ],
     "name:lit_x_preferred":[
         "Pazinas"
     ],
@@ -93,6 +108,9 @@
         "Pazin"
     ],
     "name:nno_x_preferred":[
+        "Pazin"
+    ],
+    "name:nob_x_preferred":[
         "Pazin"
     ],
     "name:oci_x_preferred":[
@@ -205,7 +223,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749602,
+    "wof:lastmodified":1563577521,
     "wof:name":"Pazin",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

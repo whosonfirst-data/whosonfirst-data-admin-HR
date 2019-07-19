@@ -49,6 +49,9 @@
     "name:srp_x_preferred":[
         "\u0411\u0435\u0440\u0430\u043c"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0430\u043c"
+    ],
     "name:unk_x_variant":[
         "Vermo"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125962949,
-    "wof:lastmodified":1561749620,
+    "wof:lastmodified":1563577813,
     "wof:name":"Beram",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

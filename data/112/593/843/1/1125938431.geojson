@@ -21,6 +21,9 @@
     "name:bos_x_preferred":[
         "Trpanj"
     ],
+    "name:bul_x_preferred":[
+        "\u0422\u044a\u0440\u043f\u0430\u043d"
+    ],
     "name:ces_x_preferred":[
         "Trpanj"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u043f\u0430\u045a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u043f\u0430\u043d\u044c"
     ],
     "name:unk_x_variant":[
         "Trappano"
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":1125938431,
-    "wof:lastmodified":1561749610,
+    "wof:lastmodified":1563577701,
     "wof:name":"Trpanj",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

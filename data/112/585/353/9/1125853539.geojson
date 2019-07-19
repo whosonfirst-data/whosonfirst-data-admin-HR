@@ -22,7 +22,13 @@
     "name:bos_x_preferred":[
         "Slivnica"
     ],
+    "name:ceb_x_preferred":[
+        "Slivnica"
+    ],
     "name:eng_x_preferred":[
+        "Slivnica"
+    ],
+    "name:fra_x_preferred":[
         "Slivnica"
     ],
     "name:hrv_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:swe_x_preferred":[
         "Slivnica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043d\u0438\u0446\u044f"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1125853539,
-    "wof:lastmodified":1561749623,
+    "wof:lastmodified":1563577845,
     "wof:name":"Slivnica",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

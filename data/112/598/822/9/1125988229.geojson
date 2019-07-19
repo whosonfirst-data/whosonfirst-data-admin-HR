@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Sali"
     ],
+    "name:ceb_x_preferred":[
+        "Sali"
+    ],
     "name:deu_x_preferred":[
         "Sali"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:swe_x_preferred":[
         "Sali"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043b\u0438"
     ],
     "name:unk_x_variant":[
         "Sale"
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1125988229,
-    "wof:lastmodified":1561749621,
+    "wof:lastmodified":1563577827,
     "wof:name":"Sali",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

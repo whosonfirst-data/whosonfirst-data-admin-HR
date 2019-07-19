@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000802,
-    "geom:area_square_m":6984492.171259,
+    "geom:area_square_m":6984492.171264,
     "geom:bbox":"15.1992759724,45.2329687912,15.2510813685,45.2823195194",
     "geom:latitude":45.258767,
     "geom:longitude":15.226812,
@@ -23,7 +23,13 @@
     "name:bos_x_preferred":[
         "Ogulin"
     ],
+    "name:bul_x_preferred":[
+        "\u041e\u0433\u0443\u043b\u0438\u043d"
+    ],
     "name:cat_x_preferred":[
+        "Ogulin"
+    ],
+    "name:ceb_x_preferred":[
         "Ogulin"
     ],
     "name:ces_x_preferred":[
@@ -32,7 +38,13 @@
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u06af\u0648\u0644\u06cc\u0646"
     ],
+    "name:cym_x_preferred":[
+        "Ogulin"
+    ],
     "name:deu_x_preferred":[
+        "Ogulin"
+    ],
+    "name:eng_x_preferred":[
         "Ogulin"
     ],
     "name:epo_x_preferred":[
@@ -94,6 +106,12 @@
     ],
     "name:swe_x_preferred":[
         "Ogulin"
+    ],
+    "name:szl_x_preferred":[
+        "Ogulin"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0433\u0443\u043b\u0438\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0433\u0443\u043b\u0456\u043d"
@@ -157,7 +175,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689324,
+    "wof:lastmodified":1563577547,
     "wof:name":"Ogulin",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

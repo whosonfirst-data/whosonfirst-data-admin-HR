@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0440\u0430\u0441\u0442\u043e\u0432\u0441\u043a\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Hrastovsko"
+    ],
     "name:eng_x_preferred":[
         "Hrastovsko"
     ],
@@ -40,11 +43,17 @@
     "name:slv_x_preferred":[
         "Hrastovsko"
     ],
+    "name:spa_x_preferred":[
+        "Hrastovsko"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u0440\u0430\u0441\u0442\u043e\u0432\u0441\u043a\u043e"
     ],
     "name:swe_x_preferred":[
         "Hrastovsko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0440\u0430\u0441\u0442\u043e\u0432\u0441\u044c\u043a\u043e"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1125958373,
-    "wof:lastmodified":1561749613,
+    "wof:lastmodified":1563577732,
     "wof:name":"Hrastovsko",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

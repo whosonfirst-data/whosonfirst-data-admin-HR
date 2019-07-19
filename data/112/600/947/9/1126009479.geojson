@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Stobre\u010d"
     ],
+    "name:ceb_x_preferred":[
+        "Stobre\u010d"
+    ],
     "name:deu_x_preferred":[
         "Stobre\u010d"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:hun_x_preferred":[
         "Stobre\u010d"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30d6\u30ec\u30c1"
     ],
     "name:lit_x_preferred":[
         "Stobre\u010das"
@@ -63,6 +69,9 @@
     ],
     "name:swe_x_preferred":[
         "Stobre\u010d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u043e\u0431\u0440\u0435\u0447"
     ],
     "name:unk_x_variant":[
         "Stobre\u010d"
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":1126009479,
-    "wof:lastmodified":1561749622,
+    "wof:lastmodified":1563577835,
     "wof:name":"Stobre\u0107",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

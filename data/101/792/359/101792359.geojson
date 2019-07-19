@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "\u010ca\u010dinci"
     ],
+    "name:ceb_x_preferred":[
+        "\u010ca\u010dinci"
+    ],
     "name:eng_x_preferred":[
         "\u010ca\u010dinci"
     ],
@@ -32,11 +35,17 @@
     "name:hrv_x_preferred":[
         "\u010ca\u010dinci"
     ],
+    "name:hun_x_preferred":[
+        "Csacsince"
+    ],
     "name:ita_x_preferred":[
         "\u010ca\u010dinci"
     ],
     "name:nld_x_preferred":[
         "\u010ca\u010dinci"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u010ca\u010dinci"
     ],
     "name:ron_x_preferred":[
         "Comuna \u010ca\u010dinci"
@@ -55,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "\u010ca\u010dinci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u0447\u0438\u043d\u0446\u0456"
     ],
     "name:unk_x_variant":[
         "Csacsince"
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":101792359,
-    "wof:lastmodified":1561749607,
+    "wof:lastmodified":1563577605,
     "wof:name":"\u010ca\u010dinci",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

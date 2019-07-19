@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043b\u0435\u043d\u043e\u0432\u043d\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Klenovnik"
+    ],
     "name:eng_x_preferred":[
         "Klenovnik"
     ],
@@ -44,6 +47,9 @@
     "name:nld_x_preferred":[
         "Klenovnik"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Klenovnik"
+    ],
     "name:ron_x_preferred":[
         "Comuna Klenovnik"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:swe_x_preferred":[
         "Klenovnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u0435\u043d\u043e\u0432\u043d\u0438\u043a"
     ],
     "name:und_x_preferred":[
         "Klenovnik"
@@ -115,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749594,
+    "wof:lastmodified":1563577408,
     "wof:name":"Klenovnik",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

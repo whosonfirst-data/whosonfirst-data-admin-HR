@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Vela Luka"
     ],
+    "name:ceb_x_preferred":[
+        "Vela Luka"
+    ],
     "name:ces_x_preferred":[
         "Vela Luka"
     ],
@@ -95,6 +98,9 @@
     "name:war_x_preferred":[
         "Vela Luka"
     ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4e9e\u76e7\u5361"
+    ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Dubrovacko-neretvanska \u017eupanija",
     "qs:a1r":"0",
@@ -144,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749592,
+    "wof:lastmodified":1563577378,
     "wof:name":"Vela Luka",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

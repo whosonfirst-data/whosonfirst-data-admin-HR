@@ -20,6 +20,12 @@
     "name:bos_x_preferred":[
         "Remetinec"
     ],
+    "name:ceb_x_preferred":[
+        "Remetinec"
+    ],
+    "name:eng_x_preferred":[
+        "Remetinec"
+    ],
     "name:hbs_x_preferred":[
         "Remetinec"
     ],
@@ -40,6 +46,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0420\u0435\u043c\u0435\u0442\u0438\u043d\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Remetinec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043c\u0435\u0442\u0438\u043d\u0435\u0446\u044c"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Vara\u017edinska \u017eupanija",
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":101857879,
-    "wof:lastmodified":1544744125,
+    "wof:lastmodified":1563577413,
     "wof:name":"Remetinec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

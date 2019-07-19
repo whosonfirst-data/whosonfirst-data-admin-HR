@@ -22,7 +22,13 @@
     "name:bos_x_preferred":[
         "Dinji\u0161ka"
     ],
+    "name:ceb_x_preferred":[
+        "Dinji\u0161ka"
+    ],
     "name:eng_x_preferred":[
+        "Dinji\u0161ka"
+    ],
+    "name:fra_x_preferred":[
         "Dinji\u0161ka"
     ],
     "name:hrv_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:swe_x_preferred":[
         "Dinji\u0161ka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0438\u043d\u0456\u0448\u043a\u0430"
     ],
     "name:unk_x_variant":[
         "Dini\u0161ka"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1125999465,
-    "wof:lastmodified":1561749619,
+    "wof:lastmodified":1563577797,
     "wof:name":"Dinji\u00b5ka",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

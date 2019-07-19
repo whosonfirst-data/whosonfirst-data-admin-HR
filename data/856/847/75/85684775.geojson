@@ -30,9 +30,6 @@
     "name:bel_x_preferred":[
         "\u0414\u0443\u0431\u0440\u043e\u045e\u043d\u0456\u0446\u043a\u0430-\u041d\u0435\u0440\u044d\u0442\u0432\u0430\u043d\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
     ],
-    "name:bel_x_variant":[
-        "\u0414\u0443\u0431\u0440\u043e\u045e\u043d\u0456\u0446\u043a\u0430-\u041d\u0435\u0440\u044d\u0442\u0432\u0430\u043d\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
-    ],
     "name:ben_x_preferred":[
         "\u09a6\u09c1\u09ac\u09cd\u09b0\u09ad\u09a8\u09bf\u0995-\u09a8\u09c7\u09b0\u09c7\u09a4\u09ad\u09be \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
@@ -44,6 +41,9 @@
     ],
     "name:cat_x_preferred":[
         "Comtat de Dubrovnik-Neretva"
+    ],
+    "name:ceb_x_preferred":[
+        "Dubrova\u010dko-Neretvanska \u017dupanija"
     ],
     "name:ces_x_preferred":[
         "Dubrovnicko-neretvansk\u00e1 \u017eupa"
@@ -62,6 +62,9 @@
     ],
     "name:eng_x_preferred":[
         "Dubrovacko-neretvanska"
+    ],
+    "name:eng_x_variant":[
+        "Dubrovnik-Neretva County"
     ],
     "name:epo_x_preferred":[
         "Dubrovnik-Neretva"
@@ -84,11 +87,17 @@
     "name:fra_x_variant":[
         "Dubrovnik-Neretva"
     ],
+    "name:gle_x_preferred":[
+        "Contae Dubrovnik-Neretva"
+    ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac1\u0aac\u0acd\u0ab0\u0ac9\u0ab5\u0ac9\u0aa8\u0abf\u0a95-\u0aa8\u0ac7\u0ab0\u0ac7\u0a9f\u0acd\u0ab5\u0abe \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
     ],
     "name:hbs_x_preferred":[
         "Dubrova\u010dko-neretvanska \u017eupanija"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d3\u05d5\u05d1\u05e8\u05d5\u05d1\u05e0\u05d9\u05e7-\u05e0\u05e8\u05d8\u05d1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0921\u0942\u092c\u094d\u0930\u094b\u0935\u094d\u0928\u093f\u0915-\u0928\u0947\u0930\u0947\u091f\u094d\u0935\u093e \u0915\u093e\u0909\u0902\u091f\u0940"
@@ -124,6 +133,9 @@
     "name:kor_x_preferred":[
         "\ub450\ube0c\ub85c\ube0c\ub2c8\ud06c\ub124\ub808\ud2b8\ubc14 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub450\ube0c\ub85c\ube0c\ub2c8\ud06c\ub124\ub808\ud2b8\ubc14\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Ragusina-Narentina"
     ],
@@ -141,6 +153,9 @@
     ],
     "name:msa_x_preferred":[
         "Dubrovnik-Neretva County"
+    ],
+    "name:nan_x_preferred":[
+        "Dubrovnik-Neretva K\u016bn"
     ],
     "name:nld_x_preferred":[
         "Dubrovnik-Neretva"
@@ -168,6 +183,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u0431\u0440\u043e\u0432\u0430\u0447\u043a\u043e-\u041d\u0435\u0440\u0435\u0442\u0432\u0430\u043d\u0441\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0443\u0431\u0440\u043e\u0432\u043d\u0438\u0446\u043a\u043e-\u041d\u0435\u0440\u0435\u0442\u0432\u0430\u043d\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f"
     ],
     "name:sin_x_preferred":[
         "\u0da9\u0db6\u0dca\u0dbb\u0ddd\u0dc0\u0dca\u0db1\u0dd2\u0d9a\u0dca \u0db1\u0dd9\u0dbb\u0dd9\u0da7\u0dca\u0dc0\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
@@ -354,7 +372,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1561749557,
+    "wof:lastmodified":1563576618,
     "wof:name":"Dubrovacko-neretvanska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

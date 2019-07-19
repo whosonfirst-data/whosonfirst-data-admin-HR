@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Adamovec"
     ],
+    "name:ceb_x_preferred":[
+        "Adamovec"
+    ],
     "name:ces_x_preferred":[
         "Adamovec"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "Adamovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0434\u0430\u043c\u043e\u0432\u0435\u0446\u044c"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125928853,
-    "wof:lastmodified":1561749612,
+    "wof:lastmodified":1563577721,
     "wof:name":"Adamovec",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

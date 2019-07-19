@@ -22,7 +22,13 @@
     "name:bos_x_preferred":[
         "Repu\u0161nica"
     ],
+    "name:ceb_x_preferred":[
+        "Repu\u0161nica"
+    ],
     "name:eng_x_preferred":[
+        "Repu\u0161nica"
+    ],
+    "name:fra_x_preferred":[
         "Repu\u0161nica"
     ],
     "name:hrv_x_preferred":[
@@ -45,6 +51,9 @@
     ],
     "name:swe_x_preferred":[
         "Repu\u0161nica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043f\u0443\u0448\u043d\u0438\u0446\u044f"
     ],
     "name:unk_x_variant":[
         "Repu\u0161nica"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1125915499,
-    "wof:lastmodified":1561749621,
+    "wof:lastmodified":1563577819,
     "wof:name":"Repu\u00b5nica",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

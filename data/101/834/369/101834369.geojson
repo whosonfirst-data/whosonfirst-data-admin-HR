@@ -20,11 +20,17 @@
     "name:bos_x_preferred":[
         "Petrijanec"
     ],
+    "name:ceb_x_preferred":[
+        "Petrijanec"
+    ],
     "name:ces_x_preferred":[
         "Petrijanec"
     ],
     "name:eng_x_preferred":[
         "Petriyanets"
+    ],
+    "name:eng_x_variant":[
+        "Petrijanec"
     ],
     "name:fra_x_preferred":[
         "Petrijanec"
@@ -44,6 +50,9 @@
     "name:nld_x_preferred":[
         "Petrijanec"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Petrijanec"
+    ],
     "name:ron_x_preferred":[
         "Comuna Petrijanec"
     ],
@@ -61,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Petrijanec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0456\u044f\u043d\u0435\u0446\u044c"
     ],
     "name:und_x_preferred":[
         "Petrijanec"
@@ -119,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749598,
+    "wof:lastmodified":1563577465,
     "wof:name":"Petrijanec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

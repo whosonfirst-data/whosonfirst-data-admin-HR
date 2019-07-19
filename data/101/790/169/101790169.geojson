@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Peklenica"
     ],
+    "name:ceb_x_preferred":[
+        "Peklenica"
+    ],
     "name:deu_x_preferred":[
         "Peklenica"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Peklenica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u043a\u043b\u0435\u043d\u0438\u0446\u044f"
     ],
     "name:unk_x_variant":[
         "Peklenicza"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":101790169,
-    "wof:lastmodified":1561749587,
+    "wof:lastmodified":1563577326,
     "wof:name":"Peklenica",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

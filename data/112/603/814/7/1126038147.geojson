@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Vrlika"
     ],
+    "name:ceb_x_preferred":[
+        "Vrlika"
+    ],
     "name:ces_x_preferred":[
         "Vrlika"
     ],
@@ -88,6 +91,9 @@
     "name:unk_x_variant":[
         "Verlicca"
     ],
+    "name:urd_x_preferred":[
+        "\u0648\u0631\u0644\u06cc\u06a9\u0627"
+    ],
     "name:war_x_preferred":[
         "Vrlika"
     ],
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1126038147,
-    "wof:lastmodified":1561749615,
+    "wof:lastmodified":1563577756,
     "wof:name":"Vrlika",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

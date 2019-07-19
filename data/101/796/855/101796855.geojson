@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
+    "geom:area_square_m":1477525.455438,
     "geom:bbox":"16.7767320628,42.9332874685,16.8012965679,42.943254042",
     "geom:latitude":42.938337,
     "geom:longitude":16.789008,
@@ -24,6 +25,9 @@
     "name:deu_x_preferred":[
         "Blato"
     ],
+    "name:eng_x_preferred":[
+        "Blato"
+    ],
     "name:epo_x_preferred":[
         "Blato"
     ],
@@ -31,6 +35,9 @@
         "Blato"
     ],
     "name:hrv_x_preferred":[
+        "Blato"
+    ],
+    "name:hun_x_preferred":[
         "Blato"
     ],
     "name:ita_x_preferred":[
@@ -45,8 +52,35 @@
     "name:pol_x_preferred":[
         "Blato"
     ],
+    "name:ron_x_preferred":[
+        "Comuna Blato"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Blato"
+    ],
+    "name:spa_x_preferred":[
+        "Blato"
+    ],
+    "name:sqi_x_preferred":[
+        "Blato"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Blato"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043e"
+    ],
     "name:unk_x_variant":[
         "Blatta"
+    ],
+    "name:war_x_preferred":[
+        "Blato"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Dubrovacko-neretvanska \u017eupanija",
@@ -91,7 +125,7 @@
         }
     ],
     "wof:id":101796855,
-    "wof:lastmodified":1527642037,
+    "wof:lastmodified":1563577378,
     "wof:name":"Blato",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

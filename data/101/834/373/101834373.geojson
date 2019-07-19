@@ -46,6 +46,9 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u0432\u0441\u043a\u0430 \u0412\u0435\u0441"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0432\u0441\u044c\u043a\u0430 \u0412\u0435\u0441"
+    ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Medimurska \u017eupanija",
     "qs:a1r":"0",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101834373,
-    "wof:lastmodified":1561749598,
+    "wof:lastmodified":1563577466,
     "wof:name":"Savska Ves",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

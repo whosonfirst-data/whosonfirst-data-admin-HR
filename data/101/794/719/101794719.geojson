@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Pla\u0161ki"
     ],
+    "name:ceb_x_preferred":[
+        "Pla\u0161ki"
+    ],
     "name:eng_x_preferred":[
         "Pla\u0161ki"
     ],
@@ -53,6 +56,9 @@
     "name:nld_x_preferred":[
         "Pla\u0161ki"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Pla\u0161ki"
+    ],
     "name:ron_x_preferred":[
         "Comuna Pla\u0161ki"
     ],
@@ -71,8 +77,14 @@
     "name:swe_x_preferred":[
         "Pla\u0161ki"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0430\u0448\u043a\u0438"
+    ],
     "name:war_x_preferred":[
         "Pla\u0161ki"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u62c9\u5e0c\u5947"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Karlovacka \u017eupanija",
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":101794719,
-    "wof:lastmodified":1561749603,
+    "wof:lastmodified":1563577545,
     "wof:name":"Pla\u0161ki",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

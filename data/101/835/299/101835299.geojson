@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Re\u0161etari"
     ],
+    "name:ceb_x_preferred":[
+        "Re\u0161etari"
+    ],
     "name:deu_x_preferred":[
         "Re\u0161etari"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "Re\u0161etari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0448\u0435\u0442\u0430\u0440\u0456"
     ],
     "name:war_x_preferred":[
         "Re\u0161etari"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":101835299,
-    "wof:lastmodified":1561749597,
+    "wof:lastmodified":1563577452,
     "wof:name":"Re\u0161etari",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

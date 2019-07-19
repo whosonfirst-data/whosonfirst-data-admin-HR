@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Kutjevo"
     ],
+    "name:ceb_x_preferred":[
+        "Kutjevo"
+    ],
     "name:ckb_x_preferred":[
         "\u06a9\u0648\u062a\u06cc\u06ce\u06a4\u06c6"
     ],
@@ -49,6 +52,9 @@
     "name:ita_x_preferred":[
         "Kutjevo"
     ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u0442\u0458\u0435\u0432\u043e"
+    ],
     "name:nld_x_preferred":[
         "Kutjevo"
     ],
@@ -62,6 +68,9 @@
         "\u041a\u0443\u0442\u044c\u0435\u0432\u043e"
     ],
     "name:slv_x_preferred":[
+        "Kutjevo"
+    ],
+    "name:spa_x_preferred":[
         "Kutjevo"
     ],
     "name:sqi_x_preferred":[
@@ -137,7 +146,7 @@
         }
     ],
     "wof:id":1126038077,
-    "wof:lastmodified":1561749615,
+    "wof:lastmodified":1563577758,
     "wof:name":"Kutjevo",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

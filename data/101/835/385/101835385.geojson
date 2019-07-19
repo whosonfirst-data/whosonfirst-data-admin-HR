@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Bestovje"
     ],
+    "name:ceb_x_preferred":[
+        "Bestovje"
+    ],
     "name:eng_x_preferred":[
         "Bestovje"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:swe_x_preferred":[
         "Bestovje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0441\u0442\u043e\u0432'\u0454"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Zagrebacka \u017eupanija",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":101835385,
-    "wof:lastmodified":1561749596,
+    "wof:lastmodified":1563577436,
     "wof:name":"Bestovje",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

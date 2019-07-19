@@ -37,8 +37,14 @@
     "name:slv_x_preferred":[
         "Poljanec"
     ],
+    "name:spa_x_preferred":[
+        "Poljanec"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u0459\u0430\u043d\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u044f\u043d\u0435\u0446\u044c"
     ],
     "name:unk_x_variant":[
         "Poljanec"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125806531,
-    "wof:lastmodified":1561749618,
+    "wof:lastmodified":1563577785,
     "wof:name":"Polj\u010dane",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

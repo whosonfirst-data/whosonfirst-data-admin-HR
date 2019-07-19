@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Zadubravlje"
     ],
+    "name:ceb_x_preferred":[
+        "Zadubravlje"
+    ],
     "name:eng_x_preferred":[
         "Zadubravlje"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:swe_x_preferred":[
         "Zadubravlje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0434\u0443\u0431\u0440\u0430\u0432\u043b\u0454"
     ],
     "name:unk_x_variant":[
         "Zadubravje"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125937477,
-    "wof:lastmodified":1561749610,
+    "wof:lastmodified":1563577704,
     "wof:name":"Zadubravlje",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

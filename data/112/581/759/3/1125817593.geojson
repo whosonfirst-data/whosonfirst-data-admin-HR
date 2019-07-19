@@ -42,6 +42,12 @@
     "name:srp_x_preferred":[
         "\u0416\u0435\u0434\u043d\u043e"
     ],
+    "name:swe_x_preferred":[
+        "\u017dedno"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0435\u0434\u043d\u043e"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125817593,
-    "wof:lastmodified":1561749616,
+    "wof:lastmodified":1563577768,
     "wof:name":"\u017dedno",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

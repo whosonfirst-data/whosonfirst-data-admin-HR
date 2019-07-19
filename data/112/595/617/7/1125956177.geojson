@@ -58,6 +58,9 @@
     "name:spa_x_preferred":[
         "Ka\u0161tel Stari"
     ],
+    "name:spa_x_variant":[
+        "Bu\u00b5etina"
+    ],
     "name:sqi_x_preferred":[
         "Ka\u0161tel Stari"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:swe_x_preferred":[
         "Ka\u0161tel Stari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b-\u0421\u0442\u0430\u0440\u0438\u0439"
     ],
     "name:unk_x_variant":[
         "Castel Vecchio"
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1125956177,
-    "wof:lastmodified":1561749612,
+    "wof:lastmodified":1563577724,
     "wof:name":"Ka\u00b5tel Stari",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

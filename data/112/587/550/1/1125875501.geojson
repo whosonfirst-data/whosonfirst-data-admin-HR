@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Beravci"
     ],
+    "name:ceb_x_preferred":[
+        "Beravci"
+    ],
     "name:eng_x_preferred":[
         "Beravci"
     ],
@@ -36,6 +39,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u0440\u0430\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Beravci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0430\u0432\u0446\u0456"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":1125875501,
-    "wof:lastmodified":1561749618,
+    "wof:lastmodified":1563577789,
     "wof:name":"Beravci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

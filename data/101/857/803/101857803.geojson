@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Pu\u010di\u0161\u0107a"
     ],
+    "name:ceb_x_preferred":[
+        "Pu\u010di\u0161\u0107a"
+    ],
     "name:deu_x_preferred":[
         "Pu\u010di\u0161\u0107a"
     ],
@@ -67,11 +70,17 @@
     "name:swe_x_preferred":[
         "Pu\u010di\u0161\u0107a"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0447\u0438\u0449\u0430"
+    ],
     "name:unk_x_variant":[
         "Pu\u010dis\u010da"
     ],
     "name:war_x_preferred":[
         "Pu\u010di\u0161\u0107a"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5951\u4ec0\u67e5"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":101857803,
-    "wof:lastmodified":1561749594,
+    "wof:lastmodified":1563577410,
     "wof:name":"Pu\u010di\u0161\u0107a",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

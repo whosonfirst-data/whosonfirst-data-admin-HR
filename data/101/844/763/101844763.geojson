@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Novalja"
     ],
+    "name:ceb_x_preferred":[
+        "Novalja"
+    ],
     "name:ces_x_preferred":[
         "Novalja"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Novaglia"
+    ],
+    "name:eng_x_variant":[
+        "Novalja"
     ],
     "name:epo_x_preferred":[
         "Novalja"
@@ -315,7 +321,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749592,
+    "wof:lastmodified":1563577388,
     "wof:name":"Novalja",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:hrv_x_preferred":[
         "Kup\u010dina"
     ],
+    "name:hrv_x_variant":[
+        "Donja Kup\u010dina"
+    ],
     "name:hun_x_preferred":[
         "Donja Kup\u010dina"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:slv_x_preferred":[
         "Kup\u010dina"
+    ],
+    "name:slv_x_variant":[
+        "Donja Kup\u010dina"
     ],
     "name:spa_x_preferred":[
         "Donja Kup\u010dina"
@@ -45,6 +51,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043f\u0447\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u043e\u043d\u044f \u041a\u0443\u043f\u0447\u0438\u043d\u0430"
     ],
     "name:unk_x_variant":[
         "Donji Kup\u010dina"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":101793551,
-    "wof:lastmodified":1561749598,
+    "wof:lastmodified":1563577470,
     "wof:name":"Donja Kup\u010dina",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

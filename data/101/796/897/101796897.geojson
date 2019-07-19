@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000063,
-    "geom:area_square_m":568978.916494,
+    "geom:area_square_m":568978.916493,
     "geom:bbox":"17.1491974429,43.4265444614,17.1702875407,43.4334307347",
     "geom:latitude":43.429839,
     "geom:longitude":17.159539,
@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:bos_x_preferred":[
+        "Grubine"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0443\u0431\u0438\u043d\u0435"
+    ],
+    "name:ceb_x_preferred":[
         "Grubine"
     ],
     "name:eng_x_preferred":[
@@ -33,6 +39,12 @@
         "Grubine"
     ],
     "name:srp_x_preferred":[
+        "\u0413\u0440\u0443\u0431\u0438\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Grubine"
+    ],
+    "name:ukr_x_preferred":[
         "\u0413\u0440\u0443\u0431\u0438\u043d\u0435"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -77,7 +89,7 @@
         }
     ],
     "wof:id":101796897,
-    "wof:lastmodified":1514447449,
+    "wof:lastmodified":1563577381,
     "wof:name":"Grubine",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

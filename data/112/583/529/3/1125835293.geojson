@@ -39,14 +39,26 @@
     "name:nld_x_preferred":[
         "Lo\u017ei\u0161\u0107a"
     ],
+    "name:nno_x_preferred":[
+        "Lo\u017ei\u0161\u0107a"
+    ],
+    "name:nob_x_preferred":[
+        "Lo\u017ei\u0161\u0107a"
+    ],
     "name:slk_x_preferred":[
         "Lo\u017ei\u0161\u0107a"
     ],
     "name:slv_x_preferred":[
         "Lo\u017ei\u0161\u0107a"
     ],
+    "name:sme_x_preferred":[
+        "Lo\u017ei\u0161\u0107a"
+    ],
     "name:srp_x_preferred":[
         "\u041b\u043e\u0436\u0438\u0448\u045b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0436\u0438\u0449\u0430"
     ],
     "name:unk_x_variant":[
         "Lo\u017ei\u0161\u0107a"
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1125835293,
-    "wof:lastmodified":1561749625,
+    "wof:lastmodified":1563577869,
     "wof:name":"Lo\u017ei\u0161\u0107e",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -22,7 +22,13 @@
     "name:bos_x_preferred":[
         "Vukojevci"
     ],
+    "name:ceb_x_preferred":[
+        "Vukojevci"
+    ],
     "name:eng_x_preferred":[
+        "Vukojevci"
+    ],
+    "name:fra_x_preferred":[
         "Vukojevci"
     ],
     "name:hrv_x_preferred":[
@@ -34,11 +40,17 @@
     "name:slv_x_preferred":[
         "Vukojevci"
     ],
+    "name:spa_x_preferred":[
+        "Vukojevci"
+    ],
     "name:srp_x_preferred":[
         "\u0412\u0443\u043a\u043e\u0458\u0435\u0432\u0446\u0438"
     ],
     "name:swe_x_preferred":[
         "Vukojevci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0454\u0432\u0446\u0456"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1126005469,
-    "wof:lastmodified":1561749622,
+    "wof:lastmodified":1563577838,
     "wof:name":"Vukojevci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

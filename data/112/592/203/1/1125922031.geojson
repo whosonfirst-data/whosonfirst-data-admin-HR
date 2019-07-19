@@ -43,6 +43,9 @@
     "name:srp_x_preferred":[
         "\u041f\u043e\u0442\u043e\u043c\u0458\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0442\u043e\u043c'\u0454"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125922031,
-    "wof:lastmodified":1561749611,
+    "wof:lastmodified":1563577717,
     "wof:name":"Potomje",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

@@ -49,6 +49,9 @@
     "name:srp_x_preferred":[
         "\u0414\u0440\u0430\u0447\u0435\u0432\u0438\u0446\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u0447\u0435\u0432\u0438\u0446\u044f"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125938275,
-    "wof:lastmodified":1561749610,
+    "wof:lastmodified":1563577699,
     "wof:name":"Dra\u010devica",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

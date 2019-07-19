@@ -20,6 +20,15 @@
     "name:bos_x_preferred":[
         "Krasica"
     ],
+    "name:cat_x_preferred":[
+        "Krasica"
+    ],
+    "name:ceb_x_preferred":[
+        "Krasica"
+    ],
+    "name:eng_x_preferred":[
+        "Krasica"
+    ],
     "name:fra_x_preferred":[
         "Krasica"
     ],
@@ -29,7 +38,13 @@
     "name:hun_x_preferred":[
         "Krasica"
     ],
+    "name:nld_x_preferred":[
+        "Krasica"
+    ],
     "name:slv_x_preferred":[
+        "Krasica"
+    ],
+    "name:spa_x_preferred":[
         "Krasica"
     ],
     "name:srp_x_preferred":[
@@ -37,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Krasica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u0438\u0446\u044f"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Primorsko-goranska \u017eupanija",
@@ -82,7 +100,7 @@
         }
     ],
     "wof:id":101794659,
-    "wof:lastmodified":1527689318,
+    "wof:lastmodified":1563577526,
     "wof:name":"Krasica",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Kistanje"
     ],
+    "name:ceb_x_preferred":[
+        "Kistanje"
+    ],
     "name:deu_x_preferred":[
         "Kistanje"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:swe_x_preferred":[
         "Kistanje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0441\u0442\u0430\u043d\u0454"
     ],
     "name:unk_x_variant":[
         "Chistagne"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":101844753,
-    "wof:lastmodified":1561749592,
+    "wof:lastmodified":1563577390,
     "wof:name":"Kistanje",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

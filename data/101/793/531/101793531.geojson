@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0441\u0435\u043a\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Osekovo"
+    ],
     "name:eng_x_preferred":[
         "Osekovo"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Osekovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0435\u043a\u043e\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Oszekovo"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":101793531,
-    "wof:lastmodified":1561749600,
+    "wof:lastmodified":1563577489,
     "wof:name":"Osekovo",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

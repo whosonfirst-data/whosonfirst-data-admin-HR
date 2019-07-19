@@ -52,6 +52,9 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u0442\u043d\u0438\u0446\u0430 \u0402\u0430\u043a\u043e\u0432\u0430\u0447\u043a\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0442\u043d\u0438\u0446\u044f \u0414\u0436\u0430\u043a\u043e\u0432\u0430\u0446\u044c\u043a\u0430"
+    ],
     "name:unk_x_variant":[
         "\u00d0akova\u010dka Slatnica"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101793595,
-    "wof:lastmodified":1561749598,
+    "wof:lastmodified":1563577474,
     "wof:name":"Satnica \u0110akova\u010dka",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

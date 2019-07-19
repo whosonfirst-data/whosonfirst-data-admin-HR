@@ -27,6 +27,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0632\u063a\u0631\u0628"
     ],
+    "name:bar_x_preferred":[
+        "Gspanschoft Zagreb"
+    ],
     "name:bel_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0430\u0431\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:cat_x_preferred":[
         "Comtat de Zagreb"
+    ],
+    "name:ceb_x_preferred":[
+        "Zagreb County"
     ],
     "name:ces_x_preferred":[
         "Z\u00e1h\u0159ebsk\u00e1 \u017eupa"
@@ -59,6 +65,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0396\u03ac\u03b3\u03ba\u03c1\u03b5\u03bc\u03c0"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03bf\u03c5\u03c0\u03b1\u03bd\u03af\u03b1 \u03c4\u03bf\u03c5 \u0396\u03ac\u03b3\u03ba\u03c1\u03b5\u03bc\u03c0"
     ],
     "name:eng_x_preferred":[
         "Grad Zagreb"
@@ -91,6 +100,9 @@
     "name:frr_x_preferred":[
         "Zagreb lun"
     ],
+    "name:gle_x_preferred":[
+        "Contae S\u00e1grab"
+    ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0a97\u0acd\u0ab0\u0ac7\u0aac \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
     ],
@@ -121,6 +133,9 @@
     "name:kor_x_preferred":[
         "\uc790\uadf8\ub808\ube0c \uc9c1\ud560\uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc790\uadf8\ub808\ube0c\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Zagrebiensis"
     ],
@@ -139,6 +154,9 @@
     "name:msa_x_preferred":[
         "Zagreb County"
     ],
+    "name:nan_x_preferred":[
+        "Zagreb K\u016bn"
+    ],
     "name:nld_x_preferred":[
         "Zagreb"
     ],
@@ -148,11 +166,17 @@
     "name:nob_x_preferred":[
         "Grad Zagreb"
     ],
+    "name:nob_x_variant":[
+        "Zagreb"
+    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0632\u0627\u063a\u0631\u0628"
     ],
     "name:pol_x_preferred":[
         "Zagreba\u010dka \u017eupanija"
+    ],
+    "name:pol_x_variant":[
+        "\u017bupania zagrzebska"
     ],
     "name:por_x_preferred":[
         "Condado de Zagreb"
@@ -189,6 +213,9 @@
     ],
     "name:swe_x_preferred":[
         "Zagreb stad"
+    ],
+    "name:swe_x_variant":[
+        "Zagrebs l\u00e4n"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0b95\u0bcd\u0bb0\u0bc7\u0baa\u0bcd  \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
@@ -335,7 +362,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1561749555,
+    "wof:lastmodified":1563576613,
     "wof:name":"Grad Zagreb",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

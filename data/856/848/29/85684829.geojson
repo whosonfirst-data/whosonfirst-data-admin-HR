@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Comtat d'\u00cdstria"
     ],
+    "name:ceb_x_preferred":[
+        "Istarska \u017dupanija"
+    ],
     "name:ces_x_preferred":[
         "Istrijsk\u00e1 \u017eupa"
     ],
@@ -60,6 +63,9 @@
     "name:eng_x_preferred":[
         "Istarska"
     ],
+    "name:eng_x_variant":[
+        "Istria County"
+    ],
     "name:epo_x_preferred":[
         "Istrio"
     ],
@@ -77,6 +83,12 @@
     ],
     "name:fra_x_preferred":[
         "Comitat d'Istrie"
+    ],
+    "name:fra_x_variant":[
+        "Istrie"
+    ],
+    "name:frr_x_preferred":[
+        "Istrien"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0a87\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0abf\u0aaf\u0abe \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -99,6 +111,9 @@
     "name:ita_x_preferred":[
         "Istria"
     ],
+    "name:ita_x_variant":[
+        "regione istriana"
+    ],
     "name:jpn_x_preferred":[
         "\u30a4\u30b9\u30c8\u30e9\u90e1"
     ],
@@ -110,6 +125,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc774\uc2a4\ud2b8\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc774\uc2a4\ud2b8\ub77c\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Histriana"
@@ -129,6 +147,9 @@
     "name:msa_x_preferred":[
         "Istria County"
     ],
+    "name:nan_x_preferred":[
+        "Istria K\u016bn"
+    ],
     "name:nld_x_preferred":[
         "Istri\u00eb"
     ],
@@ -147,11 +168,17 @@
     "name:pol_x_preferred":[
         "Istarska \u017eupanija"
     ],
+    "name:pol_x_variant":[
+        "\u017bupania istryjska"
+    ],
     "name:por_x_preferred":[
         "Condado de \u00cdstria"
     ],
     "name:ron_x_preferred":[
         "Cantonul Istria"
+    ],
+    "name:ron_x_variant":[
+        "Istria"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0441\u0442\u0440\u0438\u0439\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f"
@@ -179,6 +206,9 @@
     ],
     "name:swe_x_preferred":[
         "Istrien"
+    ],
+    "name:swe_x_variant":[
+        "Istriens l\u00e4n"
     ],
     "name:tam_x_preferred":[
         "\u0b87\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0baf\u0bbe  \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
@@ -331,7 +361,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1561749555,
+    "wof:lastmodified":1563576614,
     "wof:name":"Istarska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

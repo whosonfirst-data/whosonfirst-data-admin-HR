@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Cavtat"
     ],
+    "name:ceb_x_preferred":[
+        "Cavtat"
+    ],
     "name:ces_x_preferred":[
         "Cavtat"
     ],
@@ -107,6 +110,9 @@
     "name:unk_x_variant":[
         "Ragusa Vecchia"
     ],
+    "name:zho_x_preferred":[
+        "\u5bdf\u592b\u5854\u7279"
+    ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Dubrovacko-neretvanska \u017eupanija",
     "qs:a1r":"0",
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":101846135,
-    "wof:lastmodified":1561749608,
+    "wof:lastmodified":1563577617,
     "wof:name":"Cavtat",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

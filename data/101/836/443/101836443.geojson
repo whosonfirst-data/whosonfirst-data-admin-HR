@@ -20,7 +20,13 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0628\u064a\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u041b\u0430\u0431\u0456\u043d"
+    ],
     "name:bos_x_preferred":[
+        "Labin"
+    ],
+    "name:ceb_x_preferred":[
         "Labin"
     ],
     "name:ces_x_preferred":[
@@ -69,6 +75,9 @@
     "name:ita_x_preferred":[
         "Albona"
     ],
+    "name:kor_x_preferred":[
+        "\ub77c\ube48"
+    ],
     "name:lat_x_preferred":[
         "Albona"
     ],
@@ -108,8 +117,14 @@
     "name:tat_x_preferred":[
         "\u041b\u0430\u0431\u0438\u043d"
     ],
+    "name:tur_x_preferred":[
+        "Labin"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0431\u0456\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0430\u0431\u0438\u043d"
     ],
     "name:und_x_preferred":[
         "Labin"
@@ -177,7 +192,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749608,
+    "wof:lastmodified":1563577628,
     "wof:name":"Labin",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

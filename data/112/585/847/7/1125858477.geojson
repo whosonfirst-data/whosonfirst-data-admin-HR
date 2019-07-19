@@ -22,7 +22,13 @@
     "name:bos_x_preferred":[
         "Ku\u0161evac"
     ],
+    "name:ceb_x_preferred":[
+        "Ku\u0161evac"
+    ],
     "name:eng_x_preferred":[
+        "Ku\u0161evac"
+    ],
+    "name:fra_x_preferred":[
         "Ku\u0161evac"
     ],
     "name:hrv_x_preferred":[
@@ -39,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "Ku\u0161evac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0448\u0435\u0432\u0430\u0446\u044c"
     ],
     "name:unk_x_variant":[
         "Ku\u0161evac"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1125858477,
-    "wof:lastmodified":1561749624,
+    "wof:lastmodified":1563577853,
     "wof:name":"Ku\u00b5evac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

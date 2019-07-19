@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Slakovci"
     ],
+    "name:ceb_x_preferred":[
+        "Slakovci"
+    ],
     "name:eng_x_preferred":[
         "Slakovci"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:swe_x_preferred":[
         "Slakovci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0430\u043a\u043e\u0432\u0446\u0456"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Vukovarsko-srijemska \u017eupanija",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":101793503,
-    "wof:lastmodified":1561749599,
+    "wof:lastmodified":1563577475,
     "wof:name":"Slakovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

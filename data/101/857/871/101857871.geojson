@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Hum"
     ],
+    "name:eng_x_variant":[
+        "Hum na Sutli"
+    ],
     "name:fra_x_preferred":[
         "Hum na Sutli"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u0443\u043c \u043d\u0430 \u0421\u0443\u0442\u043b\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u043c-\u043d\u0430-\u0421\u0443\u0442\u043b\u0456"
     ],
     "name:und_x_preferred":[
         "Hum Na Sutli"
@@ -110,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749594,
+    "wof:lastmodified":1563577414,
     "wof:name":"Hum na Sutli",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

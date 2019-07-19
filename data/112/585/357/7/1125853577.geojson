@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Bale"
     ],
+    "name:ceb_x_preferred":[
+        "Bale"
+    ],
     "name:deu_x_preferred":[
         "Bale"
     ],
@@ -55,6 +58,9 @@
     "name:pol_x_preferred":[
         "Bale - Valle"
     ],
+    "name:pol_x_variant":[
+        "Bale"
+    ],
     "name:ron_x_preferred":[
         "Comuna Bale"
     ],
@@ -75,6 +81,9 @@
     ],
     "name:swe_x_preferred":[
         "Bale"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0435"
     ],
     "name:unk_x_variant":[
         "Valle"
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":1125853577,
-    "wof:lastmodified":1561749623,
+    "wof:lastmodified":1563577850,
     "wof:name":"Bale",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

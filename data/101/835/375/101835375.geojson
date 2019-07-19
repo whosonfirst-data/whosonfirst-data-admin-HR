@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000532,
+    "geom:area_square_m":4586313.794242,
     "geom:bbox":"16.2069668089,45.7825877384,16.2537164438,45.8139251425",
     "geom:latitude":45.802417,
     "geom:longitude":16.233975,
@@ -18,6 +19,9 @@
     "name:bos_x_preferred":[
         "Dugo Selo"
     ],
+    "name:ceb_x_preferred":[
+        "Dugo Selo"
+    ],
     "name:ces_x_preferred":[
         "Dugo Selo"
     ],
@@ -25,6 +29,9 @@
         "\u062f\u0648\u06af\u06c6 \u0633\u06ce\u0644\u06c6"
     ],
     "name:deu_x_preferred":[
+        "Dugo Selo"
+    ],
+    "name:eng_x_preferred":[
         "Dugo Selo"
     ],
     "name:epo_x_preferred":[
@@ -47,6 +54,12 @@
     ],
     "name:ita_x_preferred":[
         "Dugo Selo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30b4\u30fb\u30bb\u30ed"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0443\u0433\u043e \u0421\u0435\u043b\u043e"
     ],
     "name:nld_x_preferred":[
         "Dugo Selo"
@@ -81,8 +94,14 @@
     "name:swe_x_preferred":[
         "Dugo Selo"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u0443\u0433\u043e-\u0421\u0435\u043b\u043e"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0433\u043e-\u0421\u0435\u043b\u043e"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u0443\u0433\u043e \u0421\u0435\u043b\u043e"
     ],
     "name:und_x_preferred":[
         "Dugo Selo"
@@ -140,7 +159,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642780,
+    "wof:lastmodified":1563577457,
     "wof:name":"Dugo Selo",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

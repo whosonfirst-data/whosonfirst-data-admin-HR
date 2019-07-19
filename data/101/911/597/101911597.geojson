@@ -37,6 +37,9 @@
     "name:ita_x_preferred":[
         "Svogoschia"
     ],
+    "name:ita_x_variant":[
+        "\u017divogo\u0161\u0107e"
+    ],
     "name:nld_x_preferred":[
         "\u017divogo\u0161\u0107e"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "\u017divogo\u0161\u0107e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0438\u0432\u043e\u0433\u043e\u0449\u0435"
     ],
     "name:unk_x_variant":[
         "Zvogoschia"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":101911597,
-    "wof:lastmodified":1561749609,
+    "wof:lastmodified":1563577635,
     "wof:name":"\u017divogo\u0161\u0107e",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

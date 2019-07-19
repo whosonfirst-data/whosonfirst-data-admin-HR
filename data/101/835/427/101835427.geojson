@@ -23,6 +23,9 @@
     "name:ces_x_preferred":[
         "Stubi\u010dke Toplice"
     ],
+    "name:cym_x_preferred":[
+        "Stubi\u010dke Toplice"
+    ],
     "name:deu_x_preferred":[
         "Stubi\u010dke toplice"
     ],
@@ -71,6 +74,9 @@
     "name:swe_x_preferred":[
         "Stubi\u010dke Toplice"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0443\u0431\u0438\u0446\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
+    ],
     "name:war_x_preferred":[
         "Stubi\u010dke Toplice"
     ],
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":101835427,
-    "wof:lastmodified":1561749597,
+    "wof:lastmodified":1563577450,
     "wof:name":"Stubi\u010dke Toplice",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

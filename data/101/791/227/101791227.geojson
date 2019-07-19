@@ -23,6 +23,12 @@
     "name:cat_x_preferred":[
         "Zabok"
     ],
+    "name:ceb_x_preferred":[
+        "Grad Zabok"
+    ],
+    "name:ces_x_preferred":[
+        "Zabok"
+    ],
     "name:ckb_x_preferred":[
         "\u0632\u0627\u0628\u06c6\u06a9"
     ],
@@ -163,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749588,
+    "wof:lastmodified":1563577340,
     "wof:name":"Zabok",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

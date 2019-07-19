@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Banjol"
     ],
+    "name:ceb_x_preferred":[
+        "Banjol"
+    ],
     "name:eng_x_preferred":[
         "Banjol"
     ],
@@ -41,11 +44,17 @@
     "name:slv_x_preferred":[
         "Banjol"
     ],
+    "name:spa_x_preferred":[
+        "Banjol"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u045a\u043e\u043b"
     ],
     "name:swe_x_preferred":[
         "Banjol"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u044c\u043e\u043b"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Primorsko-goranska \u017eupanija",
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":101836439,
-    "wof:lastmodified":1561749608,
+    "wof:lastmodified":1563577623,
     "wof:name":"Banjol",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

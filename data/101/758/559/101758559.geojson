@@ -67,6 +67,12 @@
     "name:swe_x_preferred":[
         "Ka\u0161tel Stari"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b-\u0413\u043e\u043c\u0438\u043b\u0438\u0446\u044f"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b-\u0421\u0442\u0430\u0440\u0438\u0439"
+    ],
     "name:unk_x_variant":[
         "Castel Vecchio"
     ],
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":101758559,
-    "wof:lastmodified":1561749601,
+    "wof:lastmodified":1563577505,
     "wof:name":"Ka\u0161tel Stari",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

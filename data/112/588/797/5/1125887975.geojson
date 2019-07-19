@@ -40,8 +40,14 @@
     "name:srp_x_preferred":[
         "\u041b\u0438\u0447\u043a\u0430 \u0408\u0435\u0441\u0435\u043d\u0438\u0446\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u0446\u044c\u043a\u0430 \u0404\u0441\u0435\u043d\u0438\u0446\u044f"
+    ],
     "name:unk_x_variant":[
         "Jesenica Li\u010dka"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u5947\u5361\u8036\u585e\u5c3c\u5361"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125887975,
-    "wof:lastmodified":1514447520,
+    "wof:lastmodified":1563577772,
     "wof:name":"Li\u010dka Jesenica",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "\u010crnkovci"
     ],
+    "name:ceb_x_preferred":[
+        "\u010crnkovci"
+    ],
     "name:eng_x_preferred":[
         "\u010crnkovci"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "\u010crnkovci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0440\u043d\u043a\u043e\u0432\u0446\u0456"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125909347,
-    "wof:lastmodified":1561749619,
+    "wof:lastmodified":1563577804,
     "wof:name":"\u010crnkovci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

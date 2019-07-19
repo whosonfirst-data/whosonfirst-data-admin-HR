@@ -43,8 +43,14 @@
     "name:slv_x_preferred":[
         "Klenovica"
     ],
+    "name:spa_x_preferred":[
+        "Klenovica"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u043b\u0435\u043d\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u0435\u0439\u043d\u043e\u0432\u0438\u0446\u044f"
     ],
     "name:unk_x_variant":[
         "Klenovica"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125788459,
-    "wof:lastmodified":1561749624,
+    "wof:lastmodified":1563577856,
     "wof:name":"Klenovica-\u017drnovnica",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

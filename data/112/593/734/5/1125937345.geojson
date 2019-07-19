@@ -22,6 +22,12 @@
     "name:bos_x_preferred":[
         "Kukuljanovo"
     ],
+    "name:cat_x_preferred":[
+        "Kukuljanovo"
+    ],
+    "name:ceb_x_preferred":[
+        "Kukuljanovo"
+    ],
     "name:eng_x_preferred":[
         "Kukuljanovo"
     ],
@@ -43,11 +49,17 @@
     "name:slv_x_preferred":[
         "Kukuljanovo"
     ],
+    "name:spa_x_preferred":[
+        "Kukuljanovo"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u043a\u0443\u0459\u0430\u043d\u043e\u0432\u043e"
     ],
     "name:swe_x_preferred":[
         "Kukuljanovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043a\u0443\u043b\u044f\u043d\u043e\u0432\u043e"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":1125937345,
-    "wof:lastmodified":1561749610,
+    "wof:lastmodified":1563577706,
     "wof:name":"Kukuljanovo",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

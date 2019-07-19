@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Tenja"
     ],
+    "name:ceb_x_preferred":[
+        "Tenja"
+    ],
     "name:eng_x_preferred":[
         "Tenja"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Tenja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043d\u044f"
     ],
     "name:unk_x_variant":[
         "Sveta Ana"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":101793561,
-    "wof:lastmodified":1561749599,
+    "wof:lastmodified":1563577474,
     "wof:name":"Tenja",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

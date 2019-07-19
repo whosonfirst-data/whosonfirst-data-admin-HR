@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0443\u0441\u0442\u0438\u043a\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Pustike"
+    ],
     "name:eng_x_preferred":[
         "Pustike"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:swe_x_preferred":[
         "Pustike"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0441\u0442\u0438\u043a\u0435"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1125838659,
-    "wof:lastmodified":1561749625,
+    "wof:lastmodified":1563577869,
     "wof:name":"Pustike",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

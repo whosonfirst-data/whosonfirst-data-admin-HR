@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Lu\u010dko"
     ],
+    "name:ceb_x_preferred":[
+        "Lu\u010dko"
+    ],
     "name:eng_x_preferred":[
         "Lu\u010dko"
     ],
@@ -27,6 +30,9 @@
         "Lu\u010dko"
     ],
     "name:hrv_x_preferred":[
+        "Lu\u010dko"
+    ],
+    "name:ita_x_preferred":[
         "Lu\u010dko"
     ],
     "name:jpn_x_preferred":[
@@ -49,6 +55,9 @@
     ],
     "name:swe_x_preferred":[
         "Lu\u010dko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0446\u044c\u043a\u043e"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Grad Zagreb",
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":101792345,
-    "wof:lastmodified":1561749607,
+    "wof:lastmodified":1563577613,
     "wof:name":"Lu\u010dko",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

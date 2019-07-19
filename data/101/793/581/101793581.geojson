@@ -20,11 +20,17 @@
     "name:bos_x_preferred":[
         "Gorjani"
     ],
+    "name:ceb_x_preferred":[
+        "Gorjani"
+    ],
     "name:deu_x_preferred":[
         "Gorjani"
     ],
     "name:eng_x_preferred":[
         "Gorjan"
+    ],
+    "name:eng_x_variant":[
+        "Gorjani"
     ],
     "name:fra_x_preferred":[
         "Gorjani"
@@ -58,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "Gorjani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u044f\u043d\u0438"
     ],
     "name:und_x_preferred":[
         "Gorjani"
@@ -116,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749599,
+    "wof:lastmodified":1563577482,
     "wof:name":"Gorjani",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Ga\u0161inci"
     ],
+    "name:ceb_x_preferred":[
+        "Ga\u0161inci"
+    ],
     "name:eng_x_preferred":[
         "Ga\u0161inci"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0413\u0430\u0448\u0438\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ga\u0161inci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0448\u0438\u043d\u0446\u0456"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":1125956183,
-    "wof:lastmodified":1561749612,
+    "wof:lastmodified":1563577725,
     "wof:name":"Ga\u0161inci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

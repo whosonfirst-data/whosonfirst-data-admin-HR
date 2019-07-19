@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Njivice"
     ],
+    "name:ceb_x_preferred":[
+        "Njivice"
+    ],
     "name:deu_x_preferred":[
         "Njivice"
     ],
@@ -47,11 +50,17 @@
     "name:slv_x_preferred":[
         "Njivice"
     ],
+    "name:spa_x_preferred":[
+        "Njivice"
+    ],
     "name:srp_x_preferred":[
         "\u040a\u0438\u0432\u0438\u0446\u0435"
     ],
     "name:swe_x_preferred":[
         "Njivice"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u0432\u0438\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "Gnivizze"
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":101794603,
-    "wof:lastmodified":1561749602,
+    "wof:lastmodified":1563577526,
     "wof:name":"Njivice",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

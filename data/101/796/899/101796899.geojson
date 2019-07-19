@@ -29,6 +29,9 @@
     "name:ast_x_preferred":[
         "Makarska"
     ],
+    "name:bak_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0440\u0441\u043a\u0430"
+    ],
     "name:bar_x_preferred":[
         "Makarska"
     ],
@@ -44,6 +47,9 @@
     "name:cat_x_preferred":[
         "Makarska"
     ],
+    "name:ceb_x_preferred":[
+        "Grad Makarska"
+    ],
     "name:ces_x_preferred":[
         "Makarska"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:dan_x_preferred":[
         "Makarska og Podgora"
+    ],
+    "name:dan_x_variant":[
+        "Makarska"
     ],
     "name:deu_x_preferred":[
         "Makarska"
@@ -172,6 +181,9 @@
     ],
     "name:msa_x_preferred":[
         "Makarska"
+    ],
+    "name:myv_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0440\u0441\u043a\u0430 \u043e\u0448"
     ],
     "name:nap_x_preferred":[
         "Makarska"
@@ -339,7 +351,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749592,
+    "wof:lastmodified":1563577379,
     "wof:name":"Makarska",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

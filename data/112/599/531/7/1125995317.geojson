@@ -46,6 +46,9 @@
     "name:srp_x_preferred":[
         "\u041b\u0443\u0433"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0433"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125995317,
-    "wof:lastmodified":1561749619,
+    "wof:lastmodified":1563577798,
     "wof:name":"Lug",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

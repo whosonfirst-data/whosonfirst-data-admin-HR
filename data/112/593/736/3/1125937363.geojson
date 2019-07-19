@@ -22,10 +22,16 @@
     "name:bos_x_preferred":[
         "Mece"
     ],
+    "name:ceb_x_preferred":[
+        "Mece"
+    ],
     "name:eng_x_preferred":[
         "Mece"
     ],
     "name:epo_x_preferred":[
+        "Mece"
+    ],
+    "name:fra_x_preferred":[
         "Mece"
     ],
     "name:hrv_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:swe_x_preferred":[
         "Mece"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "Mece Pustara"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1125937363,
-    "wof:lastmodified":1561749610,
+    "wof:lastmodified":1563577699,
     "wof:name":"Mece",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

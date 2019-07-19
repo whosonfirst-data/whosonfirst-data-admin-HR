@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Zmijavci"
     ],
+    "name:ceb_x_preferred":[
+        "Zmijavci"
+    ],
     "name:ces_x_preferred":[
         "Zmijavci"
     ],
@@ -56,6 +59,9 @@
     "name:ron_x_preferred":[
         "Comuna Zmijavci"
     ],
+    "name:slk_x_preferred":[
+        "Zmijavci"
+    ],
     "name:slv_x_preferred":[
         "Zmijavci"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:swe_x_preferred":[
         "Zmijavci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043c\u0456\u044f\u0432\u0446\u0456"
     ],
     "name:und_x_preferred":[
         "Zmijavci"
@@ -123,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749591,
+    "wof:lastmodified":1563577377,
     "wof:name":"Zmijavci",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

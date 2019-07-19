@@ -37,6 +37,9 @@
     "name:srp_x_preferred":[
         "\u041a\u0443\u0447\u0438\u045b\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0447\u0438\u0447\u0435"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125959223,
-    "wof:lastmodified":1514447510,
+    "wof:lastmodified":1563577728,
     "wof:name":"Ku\u010di\u0107e",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

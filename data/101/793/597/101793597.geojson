@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Budrovci"
     ],
+    "name:fra_x_preferred":[
+        "Budrovci"
+    ],
     "name:hbs_x_preferred":[
         "Budrovci"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0443\u0434\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0434\u0440\u043e\u0432\u0446\u0456"
     ],
     "name:unk_x_variant":[
         "Budrovce"
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":101793597,
-    "wof:lastmodified":1561749600,
+    "wof:lastmodified":1563577488,
     "wof:name":"Budrovci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

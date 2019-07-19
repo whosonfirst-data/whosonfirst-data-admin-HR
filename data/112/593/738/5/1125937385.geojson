@@ -37,6 +37,9 @@
     "name:srp_x_preferred":[
         "\u041c\u0440\u0447\u0435\u0432\u043e"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0440\u0447\u0435\u0432\u043e"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1125937385,
-    "wof:lastmodified":1553816643,
+    "wof:lastmodified":1563577699,
     "wof:name":"Mr\u010devo",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

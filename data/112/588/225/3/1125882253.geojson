@@ -37,8 +37,14 @@
     "name:slv_x_preferred":[
         "Zubovi\u0107i"
     ],
+    "name:spa_x_preferred":[
+        "Zubovi\u0107i"
+    ],
     "name:srp_x_preferred":[
         "\u0417\u0443\u0431\u043e\u0432\u0438\u045b\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0443\u0431\u043e\u0432\u0438\u0447\u0456"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125882253,
-    "wof:lastmodified":1561749617,
+    "wof:lastmodified":1563577774,
     "wof:name":"Zubovi\u0107i",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

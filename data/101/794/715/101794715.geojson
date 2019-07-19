@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00031,
-    "geom:area_square_m":2704015.423754,
+    "geom:area_square_m":2704015.423753,
     "geom:bbox":"16.5251629575,45.2117898321,16.5651960483,45.2331382656",
     "geom:latitude":45.222638,
     "geom:longitude":16.543639,
@@ -21,6 +21,9 @@
         "Hrvatska Kostajnica"
     ],
     "name:cat_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
+    "name:ceb_x_preferred":[
         "Hrvatska Kostajnica"
     ],
     "name:ces_x_preferred":[
@@ -50,8 +53,14 @@
     "name:hrv_x_preferred":[
         "Hrvatska Kostajnica"
     ],
+    "name:hsb_x_preferred":[
+        "Hrvatska Kostajnica"
+    ],
     "name:hun_x_preferred":[
         "Hrvatska Kostajnica"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0580\u057e\u0561\u0569\u057d\u056f\u0561 \u053f\u0578\u057d\u057f\u0561\u0575\u0576\u056b\u0581\u0561"
     ],
     "name:ita_x_preferred":[
         "Hrvatska Kostajnica"
@@ -88,6 +97,9 @@
     ],
     "name:swe_x_preferred":[
         "Hrvatska Kostajnica"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0440\u0432\u0430\u0442\u0441\u043a\u0430-\u041a\u043e\u0441\u0442\u0430\u0439\u043d\u0438\u0442\u0441\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0440\u0432\u0430\u0442\u0441\u044c\u043a\u0430 \u041a\u043e\u0441\u0442\u0430\u0439\u043d\u0438\u0446\u044f"
@@ -156,7 +168,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527689319,
+    "wof:lastmodified":1563577529,
     "wof:name":"Hrvatska Kostajnica",
     "wof:parent_id":1108759139,
     "wof:placetype":"locality",

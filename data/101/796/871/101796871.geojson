@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Orebi\u0107"
     ],
+    "name:ceb_x_preferred":[
+        "Orebi\u0107"
+    ],
     "name:ces_x_preferred":[
         "Orebi\u0107"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:eng_x_preferred":[
         "Sabbioncello"
+    ],
+    "name:eng_x_variant":[
+        "Orebi\u0107"
     ],
     "name:eus_x_preferred":[
         "Orebi\u0107"
@@ -141,7 +147,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749591,
+    "wof:lastmodified":1563577376,
     "wof:name":"Orebi\u0107",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

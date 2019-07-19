@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Privlaka"
     ],
+    "name:ceb_x_preferred":[
+        "Privlaka"
+    ],
     "name:deu_x_preferred":[
         "Privlaka"
     ],
@@ -41,6 +44,9 @@
     "name:nld_x_preferred":[
         "Privlaka"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Privlaka"
+    ],
     "name:ron_x_preferred":[
         "Comuna Privlaka"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "Privlaka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u0432\u043b\u0430\u043a\u0430"
     ],
     "name:und_x_preferred":[
         "Privlaka"
@@ -113,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749599,
+    "wof:lastmodified":1563577479,
     "wof:name":"Privlaka",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

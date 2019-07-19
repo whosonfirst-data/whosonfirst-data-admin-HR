@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Hrvace"
     ],
+    "name:ceb_x_preferred":[
+        "Hrvace"
+    ],
     "name:ces_x_preferred":[
         "Hrvace"
     ],
@@ -48,6 +51,9 @@
     "name:ita_x_preferred":[
         "Ervazza"
     ],
+    "name:ita_x_variant":[
+        "Hrvace"
+    ],
     "name:nld_x_preferred":[
         "Hrvace"
     ],
@@ -56,6 +62,9 @@
     ],
     "name:ron_x_preferred":[
         "Comuna Hrvace"
+    ],
+    "name:slk_x_preferred":[
+        "Hrvace"
     ],
     "name:slv_x_preferred":[
         "Hrvace"
@@ -69,6 +78,9 @@
     "name:swe_x_preferred":[
         "Hrvace"
     ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0440\u0432\u0430\u0446\u0435"
+    ],
     "name:und_x_preferred":[
         "Hrvace"
     ],
@@ -77,6 +89,9 @@
     ],
     "name:war_x_preferred":[
         "Hrvace"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u723e\u74e6\u91c7"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
@@ -127,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749594,
+    "wof:lastmodified":1563577406,
     "wof:name":"Hrvace",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

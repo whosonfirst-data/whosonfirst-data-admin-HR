@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Strmec"
     ],
+    "name:eng_x_preferred":[
+        "Strmec"
+    ],
     "name:hrv_x_preferred":[
         "Strmec"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101835381,
-    "wof:lastmodified":1527642780,
+    "wof:lastmodified":1563577457,
     "wof:name":"Strmec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

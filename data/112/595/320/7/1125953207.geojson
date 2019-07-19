@@ -25,6 +25,12 @@
     "name:cat_x_preferred":[
         "O\u0161tarije"
     ],
+    "name:ceb_x_preferred":[
+        "O\u0161tarije"
+    ],
+    "name:deu_x_preferred":[
+        "O\u0161tarije"
+    ],
     "name:eng_x_preferred":[
         "O\u0161tarije"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "O\u0161tarije"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0448\u0442\u0430\u0440\u0456\u0454"
     ],
     "name:unk_x_variant":[
         "O\u0161tarije"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1125953207,
-    "wof:lastmodified":1561749613,
+    "wof:lastmodified":1563577734,
     "wof:name":"O\u00b5tarije",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

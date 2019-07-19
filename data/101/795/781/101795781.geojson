@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Pako\u0161tane"
     ],
+    "name:ceb_x_preferred":[
+        "Pako\u0161tane"
+    ],
     "name:deu_x_preferred":[
         "Pako\u0161tane"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:swe_x_preferred":[
         "Pako\u0161tane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043a\u043e\u0448\u0442\u0430\u043d\u0435"
     ],
     "name:unk_x_variant":[
         "Pacostane"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":101795781,
-    "wof:lastmodified":1561749605,
+    "wof:lastmodified":1563577585,
     "wof:name":"Pako\u0161tane",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

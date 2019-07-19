@@ -22,6 +22,12 @@
     "name:bos_x_preferred":[
         "Dunjkovec"
     ],
+    "name:ceb_x_preferred":[
+        "Dunjkovec"
+    ],
+    "name:deu_x_preferred":[
+        "Dunjkovec"
+    ],
     "name:eng_x_preferred":[
         "Dunjkovec"
     ],
@@ -42,6 +48,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u0443\u045a\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Dunjkovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u043d\u044c\u043a\u043e\u0432\u0435\u0446\u044c"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":1125937255,
-    "wof:lastmodified":1561749610,
+    "wof:lastmodified":1563577703,
     "wof:name":"Dunjkovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

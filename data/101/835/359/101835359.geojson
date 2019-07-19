@@ -40,6 +40,9 @@
     "name:srp_x_preferred":[
         "\u0417\u0434\u0435\u043d\u0446\u0438 \u0411\u0440\u0434\u043e\u0432\u0435\u0447\u043a\u0438"
     ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0434\u0435\u043d\u0446\u0456-\u0411\u0440\u0434\u043e\u0432\u0435\u0446\u044c\u043a\u0456"
+    ],
     "name:unk_x_variant":[
         "Brdove\u010dki Zdenci"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101835359,
-    "wof:lastmodified":1561749596,
+    "wof:lastmodified":1563577441,
     "wof:name":"Zdenci Brdove\u010dki",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

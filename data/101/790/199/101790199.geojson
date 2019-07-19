@@ -46,6 +46,9 @@
     "name:nld_x_preferred":[
         "Donji Vidovec"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Donji Vidovec"
+    ],
     "name:ron_x_preferred":[
         "Comuna Donji Vidovec"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u045a\u0438 \u0412\u0438\u0434\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u0456\u0439 \u0412\u0438\u0434\u043e\u0432\u0435\u0446\u044c"
     ],
     "name:war_x_preferred":[
         "Donji Vidovec"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":101790199,
-    "wof:lastmodified":1561749587,
+    "wof:lastmodified":1563577330,
     "wof:name":"Donji Vidovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:hun_x_preferred":[
         "Radu\u010di\u0107"
     ],
+    "name:nld_x_preferred":[
+        "Radu\u010di\u0107"
+    ],
     "name:pol_x_preferred":[
         "Radu\u010di\u0107"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u0434\u0443\u0447\u0438\u045b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0434\u0443\u0447\u0438\u0447"
     ],
     "name:unk_x_variant":[
         "Redu\u010dic"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125954943,
-    "wof:lastmodified":1514447609,
+    "wof:lastmodified":1563577731,
     "wof:name":"Radu\u010di\u0107",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

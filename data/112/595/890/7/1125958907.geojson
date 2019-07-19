@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Petlovac"
     ],
+    "name:ceb_x_preferred":[
+        "Petlovac"
+    ],
     "name:eng_x_preferred":[
         "Petlovac"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:swe_x_preferred":[
         "Petlovac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u043b\u043e\u0432\u0430\u0446\u044c"
     ],
     "name:war_x_preferred":[
         "Petlovac"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1125958907,
-    "wof:lastmodified":1561749613,
+    "wof:lastmodified":1563577733,
     "wof:name":"Petlovac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

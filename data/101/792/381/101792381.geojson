@@ -23,13 +23,22 @@
     "name:bos_x_preferred":[
         "Lukavec"
     ],
+    "name:ceb_x_preferred":[
+        "Lukavec"
+    ],
     "name:ces_x_preferred":[
         "Lukavec"
     ],
     "name:deu_x_preferred":[
         "Lukavec"
     ],
+    "name:eng_x_preferred":[
+        "Lukavec"
+    ],
     "name:epo_x_preferred":[
+        "Lukavec"
+    ],
+    "name:fra_x_preferred":[
         "Lukavec"
     ],
     "name:hrv_x_preferred":[
@@ -44,6 +53,9 @@
     "name:nld_x_preferred":[
         "Lukavec"
     ],
+    "name:pol_x_preferred":[
+        "Lukavec"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u043a\u0430\u0432\u0435\u0446"
     ],
@@ -55,6 +67,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u0443\u043a\u0430\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Lukavec"
     ],
     "name:unk_x_variant":[
         "Gornji Lukavec"
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":101792381,
-    "wof:lastmodified":1534379334,
+    "wof:lastmodified":1563577615,
     "wof:name":"Lukavec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

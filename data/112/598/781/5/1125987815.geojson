@@ -52,6 +52,9 @@
     "name:swe_x_preferred":[
         "Kupari"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043f\u0430\u0440\u0456"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125987815,
-    "wof:lastmodified":1561749622,
+    "wof:lastmodified":1563577828,
     "wof:name":"Kupari",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

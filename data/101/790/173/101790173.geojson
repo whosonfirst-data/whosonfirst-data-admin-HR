@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000035,
+    "geom:area_square_m":299248.921589,
     "geom:bbox":"16.3965413179,46.488367685,16.4044336294,46.4981541237",
     "geom:latitude":46.49334,
     "geom:longitude":16.400023,
@@ -19,6 +20,12 @@
         "Selnica"
     ],
     "name:ces_x_preferred":[
+        "Selnica"
+    ],
+    "name:deu_x_preferred":[
+        "Selnica"
+    ],
+    "name:eng_x_preferred":[
         "Selnica"
     ],
     "name:epo_x_preferred":[
@@ -42,11 +49,29 @@
     "name:nld_x_preferred":[
         "Selnica"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Selnica"
+    ],
     "name:ron_x_preferred":[
         "Comuna Selnica"
     ],
+    "name:slv_x_preferred":[
+        "Selnica"
+    ],
+    "name:spa_x_preferred":[
+        "Selnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043b\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u043d\u0438\u0446\u044f"
+    ],
     "name:unk_x_variant":[
         "Szelenczehegy"
+    ],
+    "name:war_x_preferred":[
+        "Selnica"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Medimurska \u017eupanija",
@@ -91,7 +116,7 @@
         }
     ],
     "wof:id":101790173,
-    "wof:lastmodified":1527641598,
+    "wof:lastmodified":1563577327,
     "wof:name":"Selnica",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Ko\u0161ute"
     ],
+    "name:ceb_x_preferred":[
+        "Ko\u0161ute"
+    ],
     "name:eng_x_preferred":[
         "Ko\u0161ute"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:swe_x_preferred":[
         "Ko\u0161ute"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0448\u0443\u0442\u0435"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":101857805,
-    "wof:lastmodified":1561749594,
+    "wof:lastmodified":1563577412,
     "wof:name":"Ko\u0161ute",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

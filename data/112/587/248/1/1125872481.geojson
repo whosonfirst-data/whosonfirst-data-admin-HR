@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Hr\u017eenica"
     ],
+    "name:ceb_x_preferred":[
+        "Hr\u017eenica"
+    ],
     "name:eng_x_preferred":[
         "Hr\u017eenica"
     ],
@@ -37,11 +40,17 @@
     "name:slv_x_preferred":[
         "Hr\u017eenica"
     ],
+    "name:spa_x_preferred":[
+        "Hr\u017eenica"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u0440\u0436\u0435\u043d\u0438\u0446\u0430"
     ],
     "name:swe_x_preferred":[
         "Hr\u017eenica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0440\u0436\u0435\u043d\u0438\u0446\u044f"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1125872481,
-    "wof:lastmodified":1561749618,
+    "wof:lastmodified":1563577792,
     "wof:name":"Hr\u017eenica",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

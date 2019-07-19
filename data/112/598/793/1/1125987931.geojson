@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Selca"
     ],
+    "name:ceb_x_preferred":[
+        "Selca"
+    ],
     "name:deu_x_preferred":[
         "Selca"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Selca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u0446\u044f"
     ],
     "name:war_x_preferred":[
         "Selca"
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1125987931,
-    "wof:lastmodified":1561749621,
+    "wof:lastmodified":1563577823,
     "wof:name":"Selca",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

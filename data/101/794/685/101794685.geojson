@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Komletinci"
     ],
+    "name:ceb_x_preferred":[
+        "Komletinci"
+    ],
     "name:eng_x_preferred":[
         "Komletinci"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:swe_x_preferred":[
         "Komletinci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u043b\u0435\u0442\u0438\u043d\u0446\u0456"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Vukovarsko-srijemska \u017eupanija",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":101794685,
-    "wof:lastmodified":1561749602,
+    "wof:lastmodified":1563577534,
     "wof:name":"Komletinci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",
