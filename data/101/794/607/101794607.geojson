@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Ra\u0161a"
     ],
+    "name:ceb_x_preferred":[
+        "Ra\u0161a"
+    ],
     "name:deu_x_preferred":[
         "Ra\u0161a"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:swe_x_preferred":[
         "Ra\u0161a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0448\u0430"
     ],
     "name:unk_x_variant":[
         "Arsia"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":101794607,
-    "wof:lastmodified":1561749603,
+    "wof:lastmodified":1563577542,
     "wof:name":"Ra\u0161a",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

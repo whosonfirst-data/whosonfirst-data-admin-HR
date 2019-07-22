@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Privlaka"
     ],
+    "name:ceb_x_preferred":[
+        "Privlaka"
+    ],
     "name:ces_x_preferred":[
         "Privlaka"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:ita_x_preferred":[
         "Privlaka"
+    ],
+    "name:ita_x_variant":[
+        "Brevilacqua"
     ],
     "name:nld_x_preferred":[
         "Privlaka"
@@ -70,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Privlaka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u0432\u043b\u0430\u043a\u0430"
     ],
     "name:war_x_preferred":[
         "Privlaka"
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":101795771,
-    "wof:lastmodified":1561749604,
+    "wof:lastmodified":1563577574,
     "wof:name":"Privlaka",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

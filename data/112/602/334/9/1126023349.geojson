@@ -40,6 +40,9 @@
     "name:srp_x_preferred":[
         "\u0417\u0430\u043a\u0443\u0447\u0430\u0446"
     ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043a\u0443\u0447\u0430\u0446\u044c"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126023349,
-    "wof:lastmodified":1561749614,
+    "wof:lastmodified":1563577743,
     "wof:name":"Zaku\u010dac",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

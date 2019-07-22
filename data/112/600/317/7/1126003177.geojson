@@ -25,7 +25,19 @@
     "name:bul_x_preferred":[
         "\u041c\u043b\u0438\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Mlini"
+    ],
+    "name:dan_x_preferred":[
+        "Mlini"
+    ],
+    "name:deu_x_preferred":[
+        "Mlini"
+    ],
     "name:eng_x_preferred":[
+        "Mlini"
+    ],
+    "name:fao_x_preferred":[
         "Mlini"
     ],
     "name:fra_x_preferred":[
@@ -37,7 +49,19 @@
     "name:hun_x_preferred":[
         "Mlini"
     ],
+    "name:isl_x_preferred":[
+        "Mlini"
+    ],
+    "name:kal_x_preferred":[
+        "Mlini"
+    ],
     "name:nld_x_preferred":[
+        "Mlini"
+    ],
+    "name:nno_x_preferred":[
+        "Mlini"
+    ],
+    "name:nob_x_preferred":[
         "Mlini"
     ],
     "name:slv_x_preferred":[
@@ -48,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Mlini"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043b\u0438\u043d\u0438"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -100,7 +127,7 @@
         }
     ],
     "wof:id":1126003177,
-    "wof:lastmodified":1561749622,
+    "wof:lastmodified":1563577837,
     "wof:name":"Mlini",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

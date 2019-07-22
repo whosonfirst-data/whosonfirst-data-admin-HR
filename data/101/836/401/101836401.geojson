@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Moko\u0161ica"
     ],
+    "name:ceb_x_preferred":[
+        "Moko\u0161ica"
+    ],
     "name:deu_x_preferred":[
         "Moko\u0161ica"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:swe_x_preferred":[
         "Moko\u0161ica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043a\u043e\u0448\u0438\u0446\u044f"
     ],
     "name:unk_x_variant":[
         "Moccosizza"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":101836401,
-    "wof:lastmodified":1561749608,
+    "wof:lastmodified":1563577622,
     "wof:name":"Moko\u0161ica",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

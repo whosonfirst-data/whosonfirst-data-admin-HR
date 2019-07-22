@@ -51,6 +51,9 @@
     "name:srp_x_preferred":[
         "\u041f\u043e\u0432\u0459\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0432\u043b\u044f"
+    ],
     "name:unk_x_variant":[
         "Povia"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125850831,
-    "wof:lastmodified":1561749623,
+    "wof:lastmodified":1563577848,
     "wof:name":"Povlja",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

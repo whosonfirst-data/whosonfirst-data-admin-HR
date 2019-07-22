@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Kampor"
     ],
+    "name:ceb_x_preferred":[
+        "Kampor"
+    ],
     "name:eng_x_preferred":[
         "Kampor"
     ],
@@ -44,11 +47,17 @@
     "name:slv_x_preferred":[
         "Kampor"
     ],
+    "name:spa_x_preferred":[
+        "Kampor"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043c\u043f\u043e\u0440"
     ],
     "name:swe_x_preferred":[
         "Kampor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u043e\u0440"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Primorsko-goranska \u017eupanija",
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":101857829,
-    "wof:lastmodified":1561749594,
+    "wof:lastmodified":1563577404,
     "wof:name":"Kampor",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Zagreb"
     ],
+    "name:ava_x_preferred":[
+        "\u0417\u0430\u0433\u0440\u0435\u0431"
+    ],
     "name:aze_x_preferred":[
         "Zaqreb"
     ],
@@ -68,6 +71,12 @@
         "\u0417\u0430\u0433\u0440\u0435\u0431"
     ],
     "name:cat_x_preferred":[
+        "Zagreb"
+    ],
+    "name:cdo_x_preferred":[
+        "Zagreb"
+    ],
+    "name:ceb_x_preferred":[
         "Zagreb"
     ],
     "name:ces_x_preferred":[
@@ -106,6 +115,9 @@
     "name:deu_x_variant":[
         "Agram"
     ],
+    "name:diq_x_preferred":[
+        "Zagreb"
+    ],
     "name:dsb_x_preferred":[
         "Zagreb"
     ],
@@ -135,6 +147,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0632\u0627\u06af\u0631\u0628"
+    ],
+    "name:fij_x_preferred":[
+        "Zagreb"
     ],
     "name:fin_x_preferred":[
         "Zagreb"
@@ -186,6 +201,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u0917\u094d\u0930\u0947\u092c"
+    ],
+    "name:hin_x_variant":[
+        "\u091c\u093c\u093e\u0917\u094d\u0930\u0947\u092c"
     ],
     "name:hrv_x_preferred":[
         "Zagreb"
@@ -346,11 +364,17 @@
     "name:oci_x_preferred":[
         "Zagr\u00e8b"
     ],
+    "name:olo_x_preferred":[
+        "Zagrebu"
+    ],
     "name:oss_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0435\u0431"
     ],
     "name:pan_x_preferred":[
         "\u0a1c\u0a3c\u0a3e\u0a17\u0a30\u0a2c"
+    ],
+    "name:pap_x_preferred":[
+        "Zagreb"
     ],
     "name:pdc_x_preferred":[
         "Zagreb"
@@ -364,17 +388,29 @@
     "name:pnb_x_preferred":[
         "\u0632\u0627\u063a\u0631\u0628"
     ],
+    "name:pnb_x_variant":[
+        "\u0632\u063a\u0631\u06cc\u0628"
+    ],
     "name:pol_x_preferred":[
         "Zagrzeb"
     ],
     "name:por_x_preferred":[
         "Zagreb"
     ],
+    "name:pus_x_preferred":[
+        "\u0632\u06ab\u0631\u064a\u0628"
+    ],
     "name:que_x_preferred":[
+        "Zagreb"
+    ],
+    "name:roh_x_preferred":[
         "Zagreb"
     ],
     "name:ron_x_preferred":[
         "Zagreb"
+    ],
+    "name:rue_x_preferred":[
+        "\u0417\u0430\u0491\u0440\u0435\u0431"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0435\u0431"
@@ -489,6 +525,9 @@
     "name:urd_x_preferred":[
         "\u0632\u063a\u0631\u0628"
     ],
+    "name:urd_x_variant":[
+        "\u0632\u06af\u0631\u06cc\u0628"
+    ],
     "name:uzb_x_preferred":[
         "Zagreb"
     ],
@@ -510,8 +549,14 @@
     "name:war_x_preferred":[
         "Zagreb"
     ],
+    "name:wln_x_preferred":[
+        "Zagreb"
+    ],
     "name:wol_x_preferred":[
         "Sagreb"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d6\u10d0\u10d2\u10e0\u10d4\u10d1\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05d6\u05d0\u05d2\u05e8\u05e2\u05d1"
@@ -679,7 +724,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749603,
+    "wof:lastmodified":1563577552,
     "wof:megacity":0,
     "wof:name":"Zagreb",
     "wof:parent_id":85684811,

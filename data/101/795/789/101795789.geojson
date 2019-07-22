@@ -58,11 +58,20 @@
     "name:slv_x_preferred":[
         "Korenica"
     ],
+    "name:spa_x_preferred":[
+        "Korenica"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0440\u0435\u043d\u0438\u0446\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u043d\u0438\u0446\u044f"
+    ],
     "name:unk_x_variant":[
         "Titova Korenica"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u745e\u5c3c\u5bdf"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Licko-senjska \u017eupanija",
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":101795789,
-    "wof:lastmodified":1561749605,
+    "wof:lastmodified":1563577587,
     "wof:name":"Korenica",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

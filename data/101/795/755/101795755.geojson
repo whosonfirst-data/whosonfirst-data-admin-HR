@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000245,
-    "geom:area_square_m":2165680.128175,
+    "geom:area_square_m":2165680.128176,
     "geom:bbox":"15.4218900826,44.2793489907,15.4685772604,44.3091212032",
     "geom:latitude":44.291986,
     "geom:longitude":15.445215,
@@ -20,11 +20,20 @@
     "name:bos_x_preferred":[
         "Starigrad"
     ],
+    "name:ceb_x_preferred":[
+        "Starigrad"
+    ],
     "name:ces_x_preferred":[
+        "Starigrad"
+    ],
+    "name:dan_x_preferred":[
         "Starigrad"
     ],
     "name:deu_x_preferred":[
         "Starigrad-Paklenica"
+    ],
+    "name:eng_x_preferred":[
+        "Starigrad"
     ],
     "name:fra_x_preferred":[
         "Starigrad"
@@ -43,6 +52,9 @@
     ],
     "name:ita_x_variant":[
         "Cittavecchia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30bf\u30ea\u30b0\u30e9\u30fc\u30c9"
     ],
     "name:nld_x_preferred":[
         "Starigrad"
@@ -73,6 +85,9 @@
     ],
     "name:swe_x_preferred":[
         "Starigrad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u0433\u0440\u0430\u0434"
     ],
     "name:unk_x_variant":[
         "Velika Paklenica"
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":101795755,
-    "wof:lastmodified":1527714602,
+    "wof:lastmodified":1563577563,
     "wof:name":"Starigrad",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

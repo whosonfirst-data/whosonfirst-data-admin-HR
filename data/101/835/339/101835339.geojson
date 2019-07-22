@@ -20,7 +20,13 @@
     "name:bos_x_preferred":[
         "Buda\u0161evo"
     ],
+    "name:ceb_x_preferred":[
+        "Buda\u0161evo"
+    ],
     "name:eng_x_preferred":[
+        "Buda\u0161evo"
+    ],
+    "name:fra_x_preferred":[
         "Buda\u0161evo"
     ],
     "name:hbs_x_preferred":[
@@ -43,6 +49,9 @@
     ],
     "name:swe_x_preferred":[
         "Buda\u0161evo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0434\u0430\u0448\u0435\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Veliko Buda\u0161evo"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":101835339,
-    "wof:lastmodified":1561749595,
+    "wof:lastmodified":1563577426,
     "wof:name":"Buda\u0161evo",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

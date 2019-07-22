@@ -22,11 +22,17 @@
     "name:bos_x_preferred":[
         "Veli Lo\u0161inj"
     ],
+    "name:ceb_x_preferred":[
+        "Veli Lo\u0161inj"
+    ],
     "name:deu_x_preferred":[
         "Veli Lo\u0161inj"
     ],
     "name:eng_x_preferred":[
         "Veli Losinj"
+    ],
+    "name:eng_x_variant":[
+        "Veli Lo\u0161inj"
     ],
     "name:fra_x_preferred":[
         "Veli Lo\u0161inj"
@@ -49,14 +55,26 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u043b\u0438 \u041b\u043e\u0448\u0438\u043d\u044c"
     ],
+    "name:rus_x_variant":[
+        "\u0412\u0435\u043b\u0438-\u041b\u043e\u0448\u0438\u043d\u044c"
+    ],
     "name:slv_x_preferred":[
+        "Veli Lo\u0161inj"
+    ],
+    "name:spa_x_preferred":[
         "Veli Lo\u0161inj"
     ],
     "name:srp_x_preferred":[
         "\u0412\u0435\u043b\u0438 \u041b\u043e\u0448\u0438\u045a"
     ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u0439 \u041b\u043e\u0448\u0438\u043d\u044c"
+    ],
     "name:unk_x_variant":[
         "Lussingrande"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6d1b\u5e0c\u5c3c"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -109,7 +127,7 @@
         }
     ],
     "wof:id":1126003371,
-    "wof:lastmodified":1561749622,
+    "wof:lastmodified":1563577833,
     "wof:name":"Veli Lo\u00b5inj",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

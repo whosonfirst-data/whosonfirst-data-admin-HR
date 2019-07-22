@@ -45,6 +45,9 @@
     "name:nld_x_preferred":[
         "Sveti Petar u \u0160umi"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Sveti Petar u \u0160umi"
+    ],
     "name:ron_x_preferred":[
         "Comuna Sveti Petar u \u0160umi"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1125913371,
-    "wof:lastmodified":1561749620,
+    "wof:lastmodified":1563577816,
     "wof:name":"Sveti Petar U \u00c5 Umi",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

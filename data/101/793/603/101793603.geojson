@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00006,
+    "geom:area_square_m":518820.835081,
     "geom:bbox":"18.6307696244,45.4754049522,18.6561787563,45.4892201411",
     "geom:latitude":45.48264,
     "geom:longitude":18.642041,
@@ -15,6 +16,54 @@
     "mps:longitude":18.642907,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Antunovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Antunovac"
+    ],
+    "name:eng_x_preferred":[
+        "Antunovac"
+    ],
+    "name:fra_x_preferred":[
+        "Antunovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Antunovac"
+    ],
+    "name:ita_x_preferred":[
+        "Antunovac"
+    ],
+    "name:nld_x_preferred":[
+        "Antunovac"
+    ],
+    "name:pol_x_preferred":[
+        "Antunovac"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Antunovac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u0443\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:spa_x_preferred":[
+        "Antunovac"
+    ],
+    "name:sqi_x_preferred":[
+        "Antunovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043d\u0442\u0443\u043d\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Antunovac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0442\u0443\u043d\u043e\u0432\u0430\u0446\u044c"
+    ],
+    "name:war_x_preferred":[
+        "Antunovac"
+    ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Osjecko-baranjska \u017eupanija",
     "qs:a1r":"0",
@@ -53,7 +102,7 @@
         }
     ],
     "wof:id":101793603,
-    "wof:lastmodified":1527689277,
+    "wof:lastmodified":1563577479,
     "wof:name":"Ivanovac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

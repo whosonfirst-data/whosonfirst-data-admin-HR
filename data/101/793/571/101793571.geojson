@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Moticina"
     ],
+    "name:eng_x_variant":[
+        "Donja Moti\u010dina"
+    ],
     "name:fra_x_preferred":[
         "Donja Moti\u010dina"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u045a\u0430 \u041c\u043e\u0442\u0438\u0447\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u044f \u041c\u043e\u0442\u0438\u0447\u0438\u043d\u0430"
     ],
     "name:und_x_colloquial":[
         "Donja Moticina"
@@ -115,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749600,
+    "wof:lastmodified":1563577496,
     "wof:name":"Donja Moti\u010dina",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

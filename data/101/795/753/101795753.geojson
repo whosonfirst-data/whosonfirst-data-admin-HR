@@ -20,6 +20,12 @@
     "name:bos_x_preferred":[
         "Pag"
     ],
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Pag"
+    ],
     "name:ces_x_preferred":[
         "Pag"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:ita_x_preferred":[
         "Isola di Pago"
+    ],
+    "name:ita_x_variant":[
+        "Pago"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30b0"
@@ -81,6 +90,9 @@
         "Pag"
     ],
     "name:slv_x_preferred":[
+        "Pag"
+    ],
+    "name:sqi_x_preferred":[
         "Pag"
     ],
     "name:srp_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":101795753,
-    "wof:lastmodified":1561749604,
+    "wof:lastmodified":1563577567,
     "wof:name":"Pag",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

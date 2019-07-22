@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Kri\u017e"
     ],
+    "name:ceb_x_preferred":[
+        "Kri\u017e"
+    ],
     "name:deu_x_preferred":[
         "Kri\u017e"
     ],
@@ -47,6 +50,9 @@
     "name:nor_x_preferred":[
         "Kri\u017e"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Kri\u017e"
+    ],
     "name:por_x_preferred":[
         "Kri\u017e"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:swe_x_preferred":[
         "Kri\u017e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u0436"
     ],
     "name:und_x_colloquial":[
         "Kriz"
@@ -128,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749595,
+    "wof:lastmodified":1563577423,
     "wof:name":"Kri\u017e",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

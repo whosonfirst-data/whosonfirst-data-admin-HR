@@ -23,6 +23,9 @@
     "name:bos_x_preferred":[
         "Buzet"
     ],
+    "name:ceb_x_preferred":[
+        "Buzet"
+    ],
     "name:ces_x_preferred":[
         "Buzet"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Pinguente"
+    ],
+    "name:eng_x_variant":[
+        "Buzet"
     ],
     "name:est_x_preferred":[
         "Buzet"
@@ -169,7 +175,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749602,
+    "wof:lastmodified":1563577534,
     "wof:name":"Buzet",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

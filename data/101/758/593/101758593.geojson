@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u041e\u043f\u0430\u0442\u0438\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Grad Opatija"
+    ],
     "name:ces_x_preferred":[
         "Opatija"
     ],
@@ -118,6 +121,9 @@
     "name:rus_x_preferred":[
         "\u041e\u043f\u0430\u0442\u0438\u044f"
     ],
+    "name:sah_x_preferred":[
+        "\u041e\u043f\u0430\u0442\u0438\u044f"
+    ],
     "name:slk_x_preferred":[
         "Opatija"
     ],
@@ -132,6 +138,9 @@
     ],
     "name:srp_x_preferred":[
         "Opatija"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u043f\u0430\u0442\u0438\u0458\u0430"
     ],
     "name:swe_x_preferred":[
         "Opatija"
@@ -150,6 +159,9 @@
     ],
     "name:unk_x_variant":[
         "Abacija"
+    ],
+    "name:vie_x_preferred":[
+        "Opatija"
     ],
     "name:war_x_preferred":[
         "Opatija"
@@ -205,7 +217,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749601,
+    "wof:lastmodified":1563577504,
     "wof:name":"Opatija",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

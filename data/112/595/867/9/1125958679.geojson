@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Marku\u0161ica"
     ],
+    "name:ceb_x_preferred":[
+        "Marku\u0161ica"
+    ],
     "name:cym_x_preferred":[
         "Marku\u0161ica"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:nld_x_preferred":[
         "Marku\u0161ica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Marku\u0161ica"
     ],
     "name:ron_x_preferred":[
         "Comuna Marku\u0161ica"
@@ -63,6 +69,9 @@
     ],
     "name:tur_x_preferred":[
         "Marku\u015fica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0443\u0448\u0438\u0446\u044f"
     ],
     "name:unk_x_variant":[
         "Marku\u0161ica"
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125958679,
-    "wof:lastmodified":1561749612,
+    "wof:lastmodified":1563577727,
     "wof:name":"Marku\u00b5ica",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

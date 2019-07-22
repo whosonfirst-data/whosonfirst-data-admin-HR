@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Strahoninec"
     ],
+    "name:ceb_x_preferred":[
+        "Strahoninec"
+    ],
     "name:eng_x_preferred":[
         "Strahoninec"
     ],
@@ -44,6 +47,9 @@
     "name:nld_x_preferred":[
         "Strahoninec"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Strahoninec"
+    ],
     "name:ron_x_preferred":[
         "Comuna Strahoninec"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:swe_x_preferred":[
         "Strahoninec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0445\u043e\u043d\u0438\u043d\u0435\u0446\u044c"
     ],
     "name:war_x_preferred":[
         "Strahoninec"
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":101834377,
-    "wof:lastmodified":1561749598,
+    "wof:lastmodified":1563577462,
     "wof:name":"Strahoninec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

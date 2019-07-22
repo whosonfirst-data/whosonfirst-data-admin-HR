@@ -25,6 +25,12 @@
     "name:cat_x_preferred":[
         "Kon\u010danica"
     ],
+    "name:ceb_x_preferred":[
+        "Kon\u010danica"
+    ],
+    "name:ces_x_preferred":[
+        "Kon\u010denice"
+    ],
     "name:eng_x_preferred":[
         "Kon\u010danica"
     ],
@@ -32,6 +38,9 @@
         "Kon\u010danica"
     ],
     "name:hrv_x_preferred":[
+        "Kon\u010danica"
+    ],
+    "name:hun_x_preferred":[
         "Kon\u010danica"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0447\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Kon\u010danica"
     ],
     "name:spa_x_preferred":[
         "Kon\u010danica"
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":1126038055,
-    "wof:lastmodified":1561749615,
+    "wof:lastmodified":1563577753,
     "wof:name":"Kon\u010danica",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

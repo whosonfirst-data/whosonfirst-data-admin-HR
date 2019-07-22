@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "De\u017eanovac"
     ],
+    "name:ceb_x_preferred":[
+        "De\u017eanovac"
+    ],
     "name:deu_x_preferred":[
         "Op\u0107ina De\u017eanovac"
     ],
@@ -33,6 +36,9 @@
         "De\u017eanovac"
     ],
     "name:hrv_x_preferred":[
+        "De\u017eanovac"
+    ],
+    "name:hun_x_preferred":[
         "De\u017eanovac"
     ],
     "name:ita_x_preferred":[
@@ -58,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "De\u017eanovac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0436\u0430\u043d\u043e\u0432\u0430\u0446\u044c"
     ],
     "name:und_x_colloquial":[
         "Dezanovac",
@@ -126,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749594,
+    "wof:lastmodified":1563577409,
     "wof:name":"De\u017eanovac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

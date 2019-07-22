@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
+    "geom:area_square_m":698370.232653,
     "geom:bbox":"15.9214583858,45.7096416729,15.95571006,45.7228186545",
     "geom:latitude":45.717022,
     "geom:longitude":15.938604,
@@ -16,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "name:bos_x_preferred":[
+        "Odranski Obre\u017e"
+    ],
+    "name:eng_x_preferred":[
         "Odranski Obre\u017e"
     ],
     "name:hbs_x_preferred":[
@@ -32,6 +36,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041e\u0434\u0440\u0430\u043d\u0441\u043a\u0438 \u041e\u0431\u0440\u0435\u0436"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0434\u0440\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u041e\u0431\u0440\u0435\u0436"
     ],
     "name:unk_x_variant":[
         "Stupni\u010dki Obre\u017e"
@@ -76,7 +83,7 @@
         }
     ],
     "wof:id":101844793,
-    "wof:lastmodified":1527642626,
+    "wof:lastmodified":1563577395,
     "wof:name":"Odranski Obre\u017e",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

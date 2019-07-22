@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Podture\u0148"
     ],
+    "name:ceb_x_preferred":[
+        "Podturen"
+    ],
     "name:ces_x_preferred":[
         "Podture\u0148"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:epo_x_preferred":[
         "Podture\u0148"
+    ],
+    "name:epo_x_variant":[
+        "Podturen"
     ],
     "name:fra_x_preferred":[
         "Podture\u0148"
@@ -53,8 +59,14 @@
     "name:hun_x_preferred":[
         "Pottornya"
     ],
+    "name:hun_x_variant":[
+        "Bottornya"
+    ],
     "name:ita_x_preferred":[
         "Podture\u0148"
+    ],
+    "name:ita_x_variant":[
+        "Podturen"
     ],
     "name:msa_x_preferred":[
         "Podture\u0148"
@@ -64,6 +76,9 @@
     ],
     "name:nld_x_variant":[
         "Podturen"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Podturen"
     ],
     "name:ron_x_preferred":[
         "Podturen"
@@ -79,6 +94,9 @@
     ],
     "name:swe_x_preferred":[
         "Podturen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0442\u0443\u0440\u0435\u043d"
     ],
     "name:war_x_preferred":[
         "Podturen"
@@ -127,7 +145,7 @@
         }
     ],
     "wof:id":101790165,
-    "wof:lastmodified":1561749587,
+    "wof:lastmodified":1563577328,
     "wof:name":"Podturen",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

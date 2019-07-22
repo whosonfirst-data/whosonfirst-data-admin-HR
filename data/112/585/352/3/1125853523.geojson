@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Kalinovac"
     ],
+    "name:ceb_x_preferred":[
+        "Kalinovac"
+    ],
     "name:eng_x_preferred":[
         "Kalinovac"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:nld_x_preferred":[
         "Kalinovac"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Kalinovac"
     ],
     "name:ron_x_preferred":[
         "Comuna Kalinovac"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1125853523,
-    "wof:lastmodified":1561749623,
+    "wof:lastmodified":1563577846,
     "wof:name":"Katinovac",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

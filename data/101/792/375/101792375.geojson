@@ -40,6 +40,9 @@
     "name:srp_x_preferred":[
         "\u041f\u043e\u0459\u0430\u043d\u0438\u0446\u0430 \u0411\u0438\u0441\u0442\u0440\u0430\u043d\u0441\u043a\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u044f\u043d\u0438\u0446\u044f-\u0411\u0438\u0441\u0442\u0440\u0430\u043d\u0441\u044c\u043a\u0430"
+    ],
     "name:unk_x_variant":[
         "Bistranska Poljanica"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101792375,
-    "wof:lastmodified":1561749608,
+    "wof:lastmodified":1563577615,
     "wof:name":"Poljanica Bistranska",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

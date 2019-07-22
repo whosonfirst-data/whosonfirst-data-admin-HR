@@ -20,6 +20,12 @@
     "name:bos_x_preferred":[
         "Vrpolje"
     ],
+    "name:ceb_x_preferred":[
+        "Vrpolje"
+    ],
+    "name:ces_x_preferred":[
+        "Vrpolje"
+    ],
     "name:eng_x_preferred":[
         "Vrpolje"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Vrpolje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u043f\u043e\u043b\u0454"
     ],
     "name:und_x_preferred":[
         "Vrpolje"
@@ -120,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749600,
+    "wof:lastmodified":1563577490,
     "wof:name":"Vrpolje",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

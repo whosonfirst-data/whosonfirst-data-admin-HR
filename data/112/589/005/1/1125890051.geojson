@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Omi\u0161alj"
     ],
+    "name:ceb_x_preferred":[
+        "Omi\u0161alj"
+    ],
     "name:deu_x_preferred":[
         "Omi\u0161alj"
     ],
@@ -76,11 +79,17 @@
     "name:ukr_x_preferred":[
         "\u041e\u043c\u0456\u0448\u0430\u043b\u044c"
     ],
+    "name:ukr_x_variant":[
+        "\u041e\u043c\u0438\u0448\u0430\u043b\u044c"
+    ],
     "name:unk_x_variant":[
         "Castelmuschio"
     ],
     "name:war_x_preferred":[
         "Omi\u0161alj"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u7c73\u6c99\u5229"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":1125890051,
-    "wof:lastmodified":1561749617,
+    "wof:lastmodified":1563577779,
     "wof:name":"Omi\u00b5alj",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:ita_x_preferred":[
         "Castel Cambi"
     ],
+    "name:ita_x_variant":[
+        "Castel Cambio"
+    ],
     "name:nld_x_preferred":[
         "Ka\u0161tel Kambelovac"
     ],
@@ -66,6 +69,12 @@
     ],
     "name:swe_x_preferred":[
         "Ka\u0161tel Kambelovac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0419\u043e\u0441\u0438\u043f\u043e\u0432\u0430\u0446\u044c"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b-\u041a\u0430\u043c\u0431\u0435\u043b\u043e\u0432\u0430\u0446\u044c"
     ],
     "name:unk_x_variant":[
         "Selo Ka\u0161tel Kambelovac"
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":101758565,
-    "wof:lastmodified":1561749601,
+    "wof:lastmodified":1563577510,
     "wof:name":"Ka\u0161tel Kambelovac",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

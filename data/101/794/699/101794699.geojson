@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
-    "geom:area_square_m":1277233.723252,
+    "geom:area_square_m":1277233.723251,
     "geom:bbox":"19.0576815867,45.0482467932,19.0834713337,45.0615252404",
     "geom:latitude":45.055313,
     "geom:longitude":19.072204,
@@ -22,16 +22,28 @@
     "name:deu_x_preferred":[
         "Lipovac"
     ],
+    "name:eng_x_preferred":[
+        "Lipovac"
+    ],
+    "name:fra_x_preferred":[
+        "Lipovac"
+    ],
     "name:hbs_x_preferred":[
         "Lipovac"
     ],
     "name:hrv_x_preferred":[
         "Lipovac"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30dd\u30f4\u30a1\u30c4"
+    ],
     "name:mkd_x_preferred":[
         "\u041b\u0438\u043f\u043e\u0432\u0430\u0446"
     ],
     "name:nld_x_preferred":[
+        "Lipovac"
+    ],
+    "name:pol_x_preferred":[
         "Lipovac"
     ],
     "name:slv_x_preferred":[
@@ -42,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Lipovac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432\u0430\u0446\u044c"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Vukovarsko-srijemska \u017eupanija",
@@ -87,7 +102,7 @@
         }
     ],
     "wof:id":101794699,
-    "wof:lastmodified":1527689322,
+    "wof:lastmodified":1563577538,
     "wof:name":"Lipovac",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

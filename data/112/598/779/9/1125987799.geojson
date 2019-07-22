@@ -57,6 +57,9 @@
     "name:srp_x_preferred":[
         "\u041a\u0443\u043a\u0459\u0438\u0446\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043a\u043b\u0456\u0446\u044f"
+    ],
     "name:war_x_preferred":[
         "Kukljica"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125987799,
-    "wof:lastmodified":1561749621,
+    "wof:lastmodified":1563577823,
     "wof:name":"Kukljica",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

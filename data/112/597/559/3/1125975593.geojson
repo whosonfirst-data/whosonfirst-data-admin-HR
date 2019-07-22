@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Sta\u0161evica"
     ],
+    "name:ceb_x_preferred":[
+        "Sta\u0161evica"
+    ],
     "name:deu_x_preferred":[
         "Sta\u0161evica"
     ],
@@ -57,6 +60,12 @@
     ],
     "name:swe_x_preferred":[
         "Sta\u0161evica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0440\u0442\u043e\u043b\u043e\u0432\u0446\u0456"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0442\u0430\u0448\u0435\u0432\u0438\u0446\u044f"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1125975593,
-    "wof:lastmodified":1561749619,
+    "wof:lastmodified":1563577806,
     "wof:name":"Sta\u0161evica",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

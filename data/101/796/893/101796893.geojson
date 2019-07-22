@@ -59,6 +59,9 @@
     "name:srp_x_preferred":[
         "\u0420\u0443\u043d\u043e\u0432\u0438\u045b\u0438"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u043d\u043e\u0432\u0438\u0447\u0456"
+    ],
     "name:war_x_preferred":[
         "Runovi\u0107"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101796893,
-    "wof:lastmodified":1561749591,
+    "wof:lastmodified":1563577372,
     "wof:name":"Runovi\u0107",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

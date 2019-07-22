@@ -24,11 +24,17 @@
     "name:arg_x_preferred":[
         "Split"
     ],
+    "name:ast_x_preferred":[
+        "Split"
+    ],
     "name:aze_x_preferred":[
         "Split"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u043f\u043b\u0456\u0442"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u043f\u043b\u0456\u0442"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09aa\u09bf\u09b2\u09bf\u099f"
@@ -43,6 +49,9 @@
         "\u0421\u043f\u043b\u0438\u0442"
     ],
     "name:cat_x_preferred":[
+        "Split"
+    ],
+    "name:ceb_x_preferred":[
         "Split"
     ],
     "name:ces_x_preferred":[
@@ -132,10 +141,16 @@
     "name:hye_x_preferred":[
         "\u054d\u057a\u056c\u056b\u057f"
     ],
+    "name:hyw_x_preferred":[
+        "\u054d\u0583\u056c\u056b\u0569"
+    ],
     "name:ile_x_preferred":[
         "Split"
     ],
     "name:ind_x_preferred":[
+        "Split"
+    ],
+    "name:isl_x_preferred":[
         "Split"
     ],
     "name:ita_x_preferred":[
@@ -265,6 +280,9 @@
     "name:tha_x_preferred":[
         "Split"
     ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e1b\u0e25\u0e34\u0e15"
+    ],
     "name:tur_x_preferred":[
         "Split"
     ],
@@ -280,6 +298,9 @@
     "name:urd_x_preferred":[
         "\u0633\u067e\u0644\u0679\u060c \u06a9\u0631\u0648\u0634\u06cc\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u067e\u0644\u0679"
+    ],
     "name:vec_x_preferred":[
         "Sp\u00e0lato"
     ],
@@ -294,6 +315,15 @@
     ],
     "name:war_x_preferred":[
         "Split"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8272\u6ce2\u7279"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10de\u10da\u10d8\u10e2\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u65bd\u666e\u5229\u7279"
     ],
     "name:zho_x_preferred":[
         "\u65af\u666e\u5229\u7279"
@@ -441,7 +471,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749604,
+    "wof:lastmodified":1563577556,
     "wof:name":"Split",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

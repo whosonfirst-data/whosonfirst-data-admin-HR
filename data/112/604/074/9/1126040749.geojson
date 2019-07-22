@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "\u017duljana"
     ],
+    "name:ceb_x_preferred":[
+        "\u017duljana"
+    ],
     "name:ces_x_preferred":[
         "\u017duljana"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:swe_x_preferred":[
         "\u017duljana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0443\u043b\u044f\u043d\u0430"
     ],
     "name:unk_x_variant":[
         "Giuliana"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1126040749,
-    "wof:lastmodified":1561749615,
+    "wof:lastmodified":1563577751,
     "wof:name":"\u017duljana",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

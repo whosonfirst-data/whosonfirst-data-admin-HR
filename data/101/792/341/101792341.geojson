@@ -21,6 +21,9 @@
     "name:bos_x_preferred":[
         "Brinje"
     ],
+    "name:ceb_x_preferred":[
+        "Brinje"
+    ],
     "name:ces_x_preferred":[
         "Brinje"
     ],
@@ -81,8 +84,14 @@
     "name:swe_x_preferred":[
         "Brinje"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0438\u043d\u0454"
+    ],
     "name:war_x_preferred":[
         "Brinje"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u6797\u6d85"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Licko-senjska \u017eupanija",
@@ -128,7 +137,7 @@
         }
     ],
     "wof:id":101792341,
-    "wof:lastmodified":1561749606,
+    "wof:lastmodified":1563577602,
     "wof:name":"Brinje",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

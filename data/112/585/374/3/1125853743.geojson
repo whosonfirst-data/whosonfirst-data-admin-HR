@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Vo\u0111inci"
     ],
+    "name:ceb_x_preferred":[
+        "Vo\u0111inci"
+    ],
     "name:eng_x_preferred":[
         "Vo\u0111inci"
     ],
@@ -37,6 +40,9 @@
     "name:nld_x_preferred":[
         "Vo\u0111inci"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Vo\u0111inci"
+    ],
     "name:ron_x_preferred":[
         "Comuna Vo\u0111inci"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Vo\u0111inci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0434\u0436\u0438\u043d\u0446\u0456"
     ],
     "name:unk_x_variant":[
         "Vodjinci"
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":1125853743,
-    "wof:lastmodified":1561749624,
+    "wof:lastmodified":1563577854,
     "wof:name":"Vo\u00f0inci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

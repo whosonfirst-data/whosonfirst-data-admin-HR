@@ -23,6 +23,9 @@
     "name:bos_x_preferred":[
         "Mali Lo\u0161inj"
     ],
+    "name:ceb_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
     "name:ces_x_preferred":[
         "Mali Lo\u0161inj"
     ],
@@ -92,6 +95,9 @@
     "name:slv_x_preferred":[
         "Mali Lo\u0161inj"
     ],
+    "name:spa_x_preferred":[
+        "Mali Lo\u0161inj"
+    ],
     "name:sqi_x_preferred":[
         "Mali Lo\u0161inj"
     ],
@@ -109,6 +115,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0456-\u041b\u043e\u0448\u0438\u043d\u044c"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0430\u043b\u0438\u0439 \u041b\u043e\u0448\u0438\u043d\u044c"
     ],
     "name:unk_x_variant":[
         "Lusinpikolo"
@@ -165,7 +174,7 @@
         }
     ],
     "wof:id":101795783,
-    "wof:lastmodified":1561749604,
+    "wof:lastmodified":1563577575,
     "wof:name":"Mali Lo\u0161inj",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

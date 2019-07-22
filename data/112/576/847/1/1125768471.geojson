@@ -45,6 +45,9 @@
     "name:srp_x_preferred":[
         "\u0414\u043e\u043b\u0438"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0438\u0439"
+    ],
     "name:unk_x_variant":[
         "Doli"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125768471,
-    "wof:lastmodified":1561749623,
+    "wof:lastmodified":1563577843,
     "wof:name":"\u00d0onta Doli",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

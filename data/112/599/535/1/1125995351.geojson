@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Lozovac"
     ],
+    "name:ceb_x_preferred":[
+        "Lozovac"
+    ],
     "name:eng_x_preferred":[
         "Lozovac"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u043e\u0437\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Lozovac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0437\u043e\u0432\u0430\u0446\u044c"
     ],
     "name:unk_x_variant":[
         "Tvornica"
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1125995351,
-    "wof:lastmodified":1561749618,
+    "wof:lastmodified":1563577795,
     "wof:name":"Lozovac",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

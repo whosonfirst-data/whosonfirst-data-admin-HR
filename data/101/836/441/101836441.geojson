@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Barbat na Rabu"
     ],
+    "name:ceb_x_preferred":[
+        "Barbat"
+    ],
     "name:deu_x_preferred":[
         "Barbat"
     ],
@@ -43,11 +46,17 @@
     "name:slv_x_preferred":[
         "Barbat na Rabu"
     ],
+    "name:spa_x_preferred":[
+        "Barbat na Rabu"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0442 \u043d\u0430 \u0420\u0430\u0431\u0443"
     ],
     "name:swe_x_preferred":[
         "Barbat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0440\u0431\u0430\u0442-\u043d\u0430-\u0420\u0430\u0431\u0443"
     ],
     "name:unk_x_variant":[
         "Barbato"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":101836441,
-    "wof:lastmodified":1561749608,
+    "wof:lastmodified":1563577620,
     "wof:name":"Barbat na Rabu",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

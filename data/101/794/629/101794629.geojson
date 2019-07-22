@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Sikirevci"
     ],
+    "name:ceb_x_preferred":[
+        "Sikirevci"
+    ],
     "name:deu_x_preferred":[
         "Sikirevci"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "Sikirevci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u043a\u0438\u0440\u0435\u0432\u0446\u0456"
     ],
     "name:und_x_preferred":[
         "Sikirevci"
@@ -116,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749602,
+    "wof:lastmodified":1563577521,
     "wof:name":"Sikirevci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

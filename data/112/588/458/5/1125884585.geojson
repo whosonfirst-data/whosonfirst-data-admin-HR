@@ -58,8 +58,14 @@
     "name:srp_x_preferred":[
         "\u041f\u043b\u043e\u0447\u0438\u0446\u0435"
     ],
+    "name:srp_x_variant":[
+        "\u0417\u0443\u0431\u043e\u0432\u0438\u045b\u0438"
+    ],
     "name:swe_x_preferred":[
         "Plo\u010dice"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u043e\u0447\u0438\u0446\u0435"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1125884585,
-    "wof:lastmodified":1561749617,
+    "wof:lastmodified":1563577775,
     "wof:name":"Plo\u010dice",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

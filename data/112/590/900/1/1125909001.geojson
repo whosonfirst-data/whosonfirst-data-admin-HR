@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Bilice"
     ],
+    "name:ceb_x_preferred":[
+        "Kadanovci"
+    ],
     "name:eng_x_preferred":[
         "Bilice"
     ],
@@ -34,11 +37,17 @@
     "name:slv_x_preferred":[
         "Bilice"
     ],
+    "name:spa_x_preferred":[
+        "Bilice"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0438\u043b\u0438\u0446\u0435"
     ],
     "name:swe_x_preferred":[
         "Kadanovci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u043b\u0438\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "Belice"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1125909001,
-    "wof:lastmodified":1561749619,
+    "wof:lastmodified":1563577802,
     "wof:name":"Bilice",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

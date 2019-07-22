@@ -46,6 +46,9 @@
     "name:srp_x_preferred":[
         "\u0421\u043e\u0431\u0440\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0431\u0440\u0430"
+    ],
     "name:unk_x_variant":[
         "Sobra"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125853513,
-    "wof:lastmodified":1561749623,
+    "wof:lastmodified":1563577851,
     "wof:name":"Sovra",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

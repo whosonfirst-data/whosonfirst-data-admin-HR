@@ -20,7 +20,16 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u041d\u0456\u043d"
+    ],
     "name:bos_x_preferred":[
+        "Nin"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0438\u043d"
+    ],
+    "name:ceb_x_preferred":[
         "Nin"
     ],
     "name:ces_x_preferred":[
@@ -107,6 +116,9 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u041d\u0438\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0646"
     ],
@@ -161,7 +173,7 @@
         }
     ],
     "wof:id":101795773,
-    "wof:lastmodified":1561749605,
+    "wof:lastmodified":1563577586,
     "wof:name":"Nin",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

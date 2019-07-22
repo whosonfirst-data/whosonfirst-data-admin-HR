@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "\u0160ibenik"
     ],
+    "name:ceb_x_preferred":[
+        "Grad \u0160ibenik"
+    ],
     "name:ces_x_preferred":[
         "\u0160ibenik"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:dan_x_preferred":[
         "Sibenik"
+    ],
+    "name:dan_x_variant":[
+        "\u0160ibenik"
     ],
     "name:deu_x_preferred":[
         "\u0160ibenik"
@@ -117,6 +123,9 @@
     "name:lat_x_preferred":[
         "Sebenicum"
     ],
+    "name:lav_x_preferred":[
+        "\u0160ibenika"
+    ],
     "name:lit_x_preferred":[
         "\u0160ibenikas"
     ],
@@ -177,8 +186,14 @@
     "name:swe_x_preferred":[
         "\u0160ibenik"
     ],
+    "name:szl_x_preferred":[
+        "\u0160ibenik"
+    ],
     "name:tat_x_preferred":[
         "\u0428\u0438\u0431\u0435\u043d\u0438\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e34\u0e40\u0e1a\u0e19\u0e35\u0e01"
     ],
     "name:tur_x_preferred":[
         "\u015eibenik"
@@ -337,7 +352,7 @@
         }
     ],
     "wof:id":101836427,
-    "wof:lastmodified":1561749608,
+    "wof:lastmodified":1563577630,
     "wof:name":"\u0160ibenik",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Banjole"
     ],
+    "name:ceb_x_preferred":[
+        "Banjole"
+    ],
     "name:ces_x_preferred":[
         "Banjole"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:swe_x_preferred":[
         "Banjole"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u044c\u043e\u043b\u0435"
     ],
     "name:unk_x_variant":[
         "Bagnole"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1126023061,
-    "wof:lastmodified":1561749614,
+    "wof:lastmodified":1563577739,
     "wof:name":"Banjole",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

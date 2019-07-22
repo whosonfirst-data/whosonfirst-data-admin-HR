@@ -31,7 +31,8 @@
         "\u0411'\u0435\u043b\u0430\u0432\u0430\u0440\u0441\u043a\u0430-\u0411\u0456\u043b\u0430\u0433\u043e\u0440\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
     ],
     "name:bel_x_variant":[
-        "\u0411\u0435\u043b\u0430\u0432\u0430\u0440\u0441\u043a\u0430-\u0411\u0456\u043b\u0430\u0433\u043e\u0440\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
+        "\u0411\u0435\u043b\u0430\u0432\u0430\u0440\u0441\u043a\u0430-\u0411\u0456\u043b\u0430\u0433\u043e\u0440\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0456\u044f",
+        "\u0411\u2019\u0435\u043b\u0430\u0432\u0430\u0440\u0441\u043a\u0430-\u0411\u0456\u043b\u0430\u0433\u043e\u0440\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b2\u09cb\u09ad\u09be\u09b0-\u09ac\u09bf\u09b2\u09cb\u0997\u09cb\u09b0\u09be \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
@@ -44,6 +45,9 @@
     ],
     "name:cat_x_preferred":[
         "Comtat de Bjelovar-Bilogora"
+    ],
+    "name:ceb_x_preferred":[
+        "Bjelovarsko-Bilogorska \u017dupanija"
     ],
     "name:ces_x_preferred":[
         "Bjelovarsko-bilogorsk\u00e1 \u017eupa"
@@ -66,6 +70,9 @@
     "name:eng_x_preferred":[
         "Bjelovarsko-bilogorska"
     ],
+    "name:eng_x_variant":[
+        "Bjelovar-Bilogora County"
+    ],
     "name:epo_x_preferred":[
         "Bjelovar-Bilogora"
     ],
@@ -83,6 +90,9 @@
     ],
     "name:fra_x_preferred":[
         "Comitat de Bjelovar-Bilogora"
+    ],
+    "name:fra_x_variant":[
+        "Bjelovar-Bilogora"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0a9c\u0ac7\u0ab2\u0acb\u0ab5\u0ab0-\u0aac\u0abf\u0ab2\u0acb\u0a97\u0acb\u0ab0\u0abe \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -121,8 +131,14 @@
     "name:kor_x_preferred":[
         "\ubca8\ub85c\ubc14\ub974\ube4c\ub85c\uace0\ub77c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubca8\ub85c\ubc14\ub974\ube4c\ub85c\uace0\ub77c\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Bellovariensis-Bilogorensis"
+    ],
+    "name:lat_x_variant":[
+        "Lentulana-Bilogorensis"
     ],
     "name:lav_x_preferred":[
         "Bjelovaras-Bilogoras \u017eup\u0101nija"
@@ -138,6 +154,9 @@
     ],
     "name:msa_x_preferred":[
         "Bjelovar-Bilogora County"
+    ],
+    "name:nan_x_preferred":[
+        "Bjelovar-Bilogora K\u016bn"
     ],
     "name:nld_x_preferred":[
         "Bjelovar-Bilogora"
@@ -166,6 +185,9 @@
     "name:rus_x_preferred":[
         "\u0411\u044c\u0435\u043b\u043e\u0432\u0430\u0440\u0441\u043a\u043e-\u0411\u0438\u043b\u043e\u0433\u043e\u0440\u0441\u043a\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u043b\u043e\u0432\u0430\u0440\u0441\u043a\u043e-\u0411\u0438\u043b\u043e\u0433\u043e\u0440\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f"
+    ],
     "name:sin_x_preferred":[
         "\u0db6\u0dca\u0da2\u0dd9\u0dbd\u0ddc\u0dc0\u0dcf\u0dbb\u0dca-\u0db6\u0dd2\u0dbd\u0ddc\u0d9c\u0ddc\u0dbb\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
@@ -180,6 +202,9 @@
     ],
     "name:spa_x_preferred":[
         "Condado de Bjelovar-Bilogora"
+    ],
+    "name:spa_x_variant":[
+        "Bjelovar-Bilogora"
     ],
     "name:sqi_x_preferred":[
         "Zhupania e Bjellovarit dhe Billogorit"
@@ -341,7 +366,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1561749557,
+    "wof:lastmodified":1563576620,
     "wof:name":"Bjelovarsko-bilogorska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

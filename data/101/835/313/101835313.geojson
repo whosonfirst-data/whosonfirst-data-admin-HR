@@ -32,6 +32,12 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u043d\u043a\u043e\u0432\u0446\u0438"
     ],
+    "name:cat_x_preferred":[
+        "Vinkovci"
+    ],
+    "name:ceb_x_preferred":[
+        "Grad Vinkovci"
+    ],
     "name:ces_x_preferred":[
         "Vinkovci"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:deu_x_preferred":[
         "Vinkovci"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b9\u03bd\u03ba\u03cc\u03b2\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Vinkovcze"
@@ -88,6 +97,9 @@
     ],
     "name:lit_x_preferred":[
         "Vinkovcai"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0438\u043d\u043a\u043e\u0432\u0446\u0438"
     ],
     "name:nld_x_preferred":[
         "Vinkovci"
@@ -149,11 +161,17 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043d\u043a\u043e\u0432\u0446\u0456"
     ],
+    "name:ukr_x_variant":[
+        "\u0412\u0438\u043d\u043a\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_preferred":[
         "Vinkovci"
     ],
     "name:unk_x_variant":[
         "Winkowitz"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0646\u06a9\u0648\u0648\u062a\u0633\u06cc"
     ],
     "name:vol_x_preferred":[
         "Vinkovci"
@@ -208,7 +226,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749596,
+    "wof:lastmodified":1563577438,
     "wof:name":"Vinkovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

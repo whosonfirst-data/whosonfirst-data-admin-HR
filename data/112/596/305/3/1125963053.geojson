@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Lupoglav"
     ],
+    "name:ceb_x_preferred":[
+        "Lupoglav"
+    ],
     "name:deu_x_preferred":[
         "Lupoglav"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:swe_x_preferred":[
         "Lupoglav"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043f\u043e\u0433\u043b\u0430\u0432"
     ],
     "name:unk_x_variant":[
         "Castel Lupogliano"
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1125963053,
-    "wof:lastmodified":1561749620,
+    "wof:lastmodified":1563577814,
     "wof:name":"Lupoglav",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

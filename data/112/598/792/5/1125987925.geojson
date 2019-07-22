@@ -22,6 +22,12 @@
     "name:bos_x_preferred":[
         "Premantura"
     ],
+    "name:ceb_x_preferred":[
+        "Premantura"
+    ],
+    "name:ces_x_preferred":[
+        "Premantura"
+    ],
     "name:deu_x_preferred":[
         "Premantura"
     ],
@@ -48,6 +54,12 @@
     ],
     "name:swe_x_preferred":[
         "Premantura"
+    ],
+    "name:szl_x_preferred":[
+        "Premantura"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u043c\u0430\u043d\u0442\u0443\u0440\u0430"
     ],
     "name:unk_x_variant":[
         "Prematuri"
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":1125987925,
-    "wof:lastmodified":1561749621,
+    "wof:lastmodified":1563577824,
     "wof:name":"Premantura",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

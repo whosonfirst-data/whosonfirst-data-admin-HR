@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Comtat de Koprivnica-Kri\u017eevci"
     ],
+    "name:ceb_x_preferred":[
+        "Koprivni\u010dko-Kri\u017eeva\u010dka \u017dupanija"
+    ],
     "name:ces_x_preferred":[
         "Koprivnicko-kri\u017eeveck\u00e1 \u017eupa"
     ],
@@ -60,6 +63,9 @@
     "name:eng_x_preferred":[
         "Koprivnica-Krizevci"
     ],
+    "name:eng_x_variant":[
+        "Koprivnica-Kri\u017eevci County"
+    ],
     "name:epo_x_preferred":[
         "Koprivnica-Kri\u017eevci"
     ],
@@ -78,6 +84,9 @@
     "name:fra_x_preferred":[
         "Comitat de Koprivnica-Kri\u017eevci"
     ],
+    "name:fra_x_variant":[
+        "Koprivnica-Kri\u017eevci"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aaa\u0acd\u0ab0\u0ac0\u0ab5\u0acd\u0aa8\u0abf\u0a95\u0abe-\u0a95\u0acd\u0ab0\u0abf\u0a9d\u0ac7\u0ab5\u0acd\u0a95\u0ac0 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
     ],
@@ -89,6 +98,9 @@
     ],
     "name:hun_x_preferred":[
         "Kapronca-K\u00f6r\u00f6s megye"
+    ],
+    "name:hun_x_variant":[
+        "Kapronca-K\u0151r\u00f6s megye"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Koprivnica-Kri\u017eevci"
@@ -104,6 +116,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucf54\ud504\ub9ac\ube0c\ub2c8\ucc28\ud06c\ub9ac\uc81c\ube0c\uce58 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ucf54\ud504\ub9ac\ube0c\ub2c8\ucc28\ud06c\ub9ac\uc81c\ube0c\uce58\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Copriunisana-Crisiensis"
@@ -123,6 +138,9 @@
     "name:msa_x_preferred":[
         "Koprivnica-Krizevci County"
     ],
+    "name:nan_x_preferred":[
+        "Koprivnica-Kri\u017eevci K\u016bn"
+    ],
     "name:nld_x_preferred":[
         "Koprivnica-Kri\u017eevci"
     ],
@@ -137,6 +155,9 @@
     ],
     "name:pol_x_preferred":[
         "Koprivni\u010dko-kri\u017eeva\u010dka \u017eupanija"
+    ],
+    "name:pol_x_variant":[
+        "\u017bupania kopriwnicko-kri\u017cewczy\u0144ska"
     ],
     "name:por_x_preferred":[
         "Condado de Koprivnica-Kri\u017eevci"
@@ -162,6 +183,9 @@
     "name:spa_x_preferred":[
         "Condado de Koprivnica-Kri\u017eevci"
     ],
+    "name:spa_x_variant":[
+        "Koprivnica-Kri\u017eevci"
+    ],
     "name:sqi_x_preferred":[
         "Zhupania e Koprivnic\u00ebs dhe Krizhevcit"
     ],
@@ -170,6 +194,9 @@
     ],
     "name:swe_x_preferred":[
         "Koprivnica-Kri\u017eevci"
+    ],
+    "name:swe_x_variant":[
+        "Koprivnica-Kri\u017eevcis l\u00e4n"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0baa\u0bcd\u0bb0\u0bbf\u0bb5\u0ba9\u0bbf\u0b95\u0bcd\u0b95\u0bbe -\u0b95\u0bcd\u0bb0\u0bbf\u0bb8\u0bbf\u0bb5\u0b9a\u0bbf  \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
@@ -319,7 +346,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1561749558,
+    "wof:lastmodified":1563576621,
     "wof:name":"Koprivnicko-kri\u017eevacka",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

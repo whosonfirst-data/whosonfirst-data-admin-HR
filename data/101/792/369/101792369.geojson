@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Prigorje Brdove\u010dko"
     ],
+    "name:ceb_x_preferred":[
+        "Prigorje Brdove\u010dko"
+    ],
     "name:eng_x_preferred":[
         "Prigorje Brdove\u010dko"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:swe_x_preferred":[
         "Prigorje Brdove\u010dko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u0433\u043e\u0440'\u0454-\u0411\u0440\u0434\u043e\u0432\u0435\u0446\u044c\u043a\u043e"
     ],
     "name:unk_x_variant":[
         "Brdove\u010dko Prigorje"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":101792369,
-    "wof:lastmodified":1561749607,
+    "wof:lastmodified":1563577606,
     "wof:name":"Prigorje Brdove\u010dko",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

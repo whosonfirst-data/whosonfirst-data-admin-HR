@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Gradi\u0161te"
     ],
+    "name:ceb_x_preferred":[
+        "Gradi\u0161te"
+    ],
     "name:deu_x_preferred":[
         "Gradi\u0161te"
     ],
@@ -41,6 +44,9 @@
     "name:nld_x_preferred":[
         "Gradi\u0161te"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Gradi\u0161te"
+    ],
     "name:ron_x_preferred":[
         "Comuna Gradi\u0161te"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "Gradi\u0161te"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0438\u0449\u0435"
     ],
     "name:war_x_preferred":[
         "Gradi\u0161te"
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":101794687,
-    "wof:lastmodified":1561749602,
+    "wof:lastmodified":1563577520,
     "wof:name":"Gradi\u0161te",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

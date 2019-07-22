@@ -43,6 +43,9 @@
     "name:ita_x_preferred":[
         "Jasenice"
     ],
+    "name:ita_x_variant":[
+        "Giassenizza"
+    ],
     "name:nld_x_preferred":[
         "Jasenice"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0408\u0430\u0441\u0435\u043d\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0441\u0435\u043d\u0438\u0446\u0435"
     ],
     "name:unk_x_variant":[
         "Jasenica"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":101857825,
-    "wof:lastmodified":1561749594,
+    "wof:lastmodified":1563577416,
     "wof:name":"Jasenice",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Mi\u010devec"
     ],
+    "name:ceb_x_preferred":[
+        "Mi\u010devec"
+    ],
     "name:eng_x_preferred":[
         "Mi\u010devec"
     ],
@@ -35,6 +38,9 @@
     "name:nld_x_preferred":[
         "Mi\u010devec"
     ],
+    "name:pol_x_preferred":[
+        "Mi\u010devec"
+    ],
     "name:slv_x_preferred":[
         "Mi\u010devec"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:swe_x_preferred":[
         "Mi\u010devec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0447\u0435\u0432\u0435\u0446\u044c"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Zagrebacka \u017eupanija",
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":101792387,
-    "wof:lastmodified":1561749608,
+    "wof:lastmodified":1563577614,
     "wof:name":"Mi\u010devec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

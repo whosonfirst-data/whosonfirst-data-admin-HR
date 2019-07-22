@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":25007944.164402,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.886965,45.815077,15.886965,45.815077",
     "geom:latitude":45.815077,
     "geom:longitude":15.886965,
@@ -33,6 +33,9 @@
     ],
     "name:hun_x_preferred":[
         "Podsused"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30c9\u30b9\u30bb\u30c9\uff1d\u30f4\u30e9\u30d7\u30c1\u30a7"
     ],
     "name:nld_x_preferred":[
         "Podsused - Vrap\u010de"
@@ -113,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939122,
+    "wof:lastmodified":1563576603,
     "wof:name":"Podsused-Vrap\u010de",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

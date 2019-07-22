@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Mursko Sredi\u0161\u0107e"
     ],
+    "name:ceb_x_preferred":[
+        "Mursko Sredi\u0161\u0107e"
+    ],
     "name:ces_x_preferred":[
         "Mursko Sredi\u0161\u0107e"
     ],
@@ -49,6 +52,9 @@
     "name:ita_x_preferred":[
         "Mursko Sredi\u0161\u0107e"
     ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0443\u0440\u0441\u043a\u043e \u0421\u0440\u0435\u0434\u0438\u0448\u045c\u0435"
+    ],
     "name:nld_x_preferred":[
         "Mursko Sredi\u0161\u0107e"
     ],
@@ -78,6 +84,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0440\u0441\u043a\u043e \u0421\u0440\u0435\u0434\u0456\u0449\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0443\u0440\u0441\u044c\u043a\u043e \u0421\u0440\u0435\u0434\u0438\u0449\u0435"
     ],
     "name:unk_x_variant":[
         "Muraszerdahely"
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":101790161,
-    "wof:lastmodified":1561749586,
+    "wof:lastmodified":1563577324,
     "wof:name":"Mursko Sredi\u0161\u0107e",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

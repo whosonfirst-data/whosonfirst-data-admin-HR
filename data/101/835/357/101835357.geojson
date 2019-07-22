@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Zapre\u0161i\u0107"
     ],
+    "name:ceb_x_preferred":[
+        "Zapre\u0161i\u0107"
+    ],
     "name:ces_x_preferred":[
         "Zapre\u0161i\u0107"
     ],
@@ -80,6 +83,9 @@
     "name:pol_x_preferred":[
         "Zapre\u0161i\u0107"
     ],
+    "name:por_x_preferred":[
+        "Zapre\u0161i\u0107"
+    ],
     "name:ron_x_preferred":[
         "Zapre\u0161i\u0107"
     ],
@@ -118,6 +124,9 @@
     ],
     "name:und_x_preferred":[
         "Zapre\u0161i\u0107"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0627\u067e\u0631\u06cc\u0634\u06cc\u0686"
     ],
     "name:vie_x_preferred":[
         "Zapre\u0161i\u0107"
@@ -178,7 +187,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749596,
+    "wof:lastmodified":1563577442,
     "wof:name":"Zapre\u0161i\u0107",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

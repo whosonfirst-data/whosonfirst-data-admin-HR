@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0416\u0443\u043f\u0430\u043d\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "\u017dupanja"
+    ],
     "name:ces_x_preferred":[
         "\u017dupanja"
     ],
@@ -165,7 +168,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749602,
+    "wof:lastmodified":1563577526,
     "wof:name":"\u017dupanja",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

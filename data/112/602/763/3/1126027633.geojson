@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Ston"
+    ],
     "name:ces_x_preferred":[
         "Ston"
     ],
@@ -49,6 +52,9 @@
     "name:jpn_x_preferred":[
         "\u30b9\u30c8\u30f3"
     ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud1a4"
+    ],
     "name:lat_x_preferred":[
         "Stagnum"
     ],
@@ -71,6 +77,9 @@
         "Ston"
     ],
     "name:spa_x_preferred":[
+        "Ston"
+    ],
+    "name:sqi_x_preferred":[
         "Ston"
     ],
     "name:srp_x_preferred":[
@@ -142,7 +151,7 @@
         }
     ],
     "wof:id":1126027633,
-    "wof:lastmodified":1561749613,
+    "wof:lastmodified":1563577736,
     "wof:name":"Ston",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

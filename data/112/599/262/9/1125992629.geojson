@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Debeljak"
     ],
+    "name:fra_x_preferred":[
+        "Debeljak"
+    ],
     "name:hrv_x_preferred":[
         "Debeljak"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0414\u0435\u0431\u0435\u0459\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0431\u0435\u043b\u044f\u043a"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125992629,
-    "wof:lastmodified":1514447414,
+    "wof:lastmodified":1563577799,
     "wof:name":"Debeljak",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

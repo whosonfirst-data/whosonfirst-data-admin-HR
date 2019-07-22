@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Beli Manastir"
     ],
+    "name:ceb_x_preferred":[
+        "Beli Manastir"
+    ],
     "name:ces_x_preferred":[
         "Beli Manastir"
     ],
@@ -66,6 +69,9 @@
     "name:jpn_x_preferred":[
         "\u30d9\u30ea\u30fb\u30de\u30ca\u30b9\u30c6\u30a3\u30eb"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u043b\u0438 \u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440"
+    ],
     "name:nld_x_preferred":[
         "Beli Manastir"
     ],
@@ -86,6 +92,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u0438-\u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u043b\u0438-\u041c\u043e\u043d\u0430\u0441\u0442\u0438\u0440"
     ],
     "name:slv_x_preferred":[
         "Beli Manastir"
@@ -113,6 +122,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0456 \u041c\u0430\u043d\u0430\u0441\u0442\u0456\u0440"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0456\u043b\u0438\u0439 \u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440"
     ],
     "name:und_x_preferred":[
         "Beli Manastir"
@@ -174,7 +186,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749598,
+    "wof:lastmodified":1563577470,
     "wof:name":"Beli Manastir",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

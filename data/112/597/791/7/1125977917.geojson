@@ -40,8 +40,14 @@
     "name:slv_x_preferred":[
         "Punta Kri\u017ea"
     ],
+    "name:spa_x_preferred":[
+        "Punta Kri\u017ea"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0443\u043d\u0442\u0430 \u041a\u0440\u0438\u0436\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430-\u041a\u0440\u0438\u0436\u0430"
     ],
     "name:unk_x_variant":[
         "Rt Kri\u017e"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125977917,
-    "wof:lastmodified":1561749620,
+    "wof:lastmodified":1563577807,
     "wof:name":"Punta Kri\u017ea",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

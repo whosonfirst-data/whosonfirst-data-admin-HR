@@ -20,7 +20,19 @@
     "name:bos_x_preferred":[
         "Mihovljan"
     ],
+    "name:ceb_x_preferred":[
+        "Mihovljan"
+    ],
+    "name:deu_x_preferred":[
+        "Mihovljan"
+    ],
+    "name:eng_x_preferred":[
+        "Mihovljan"
+    ],
     "name:fra_x_preferred":[
+        "Mihovljan"
+    ],
+    "name:frr_x_preferred":[
         "Mihovljan"
     ],
     "name:hun_x_preferred":[
@@ -34,6 +46,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0438\u0445\u043e\u0432\u0459\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Mihovljan"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Medimurska \u017eupanija",
@@ -79,7 +94,7 @@
         }
     ],
     "wof:id":101874241,
-    "wof:lastmodified":1544751616,
+    "wof:lastmodified":1563577385,
     "wof:name":"Mihovljan",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

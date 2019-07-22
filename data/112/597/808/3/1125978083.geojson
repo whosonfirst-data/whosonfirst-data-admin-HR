@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Beletinec"
     ],
+    "name:ceb_x_preferred":[
+        "Beletinec"
+    ],
     "name:eng_x_preferred":[
         "Beletinec"
     ],
@@ -37,11 +40,17 @@
     "name:slv_x_preferred":[
         "Beletinec"
     ],
+    "name:spa_x_preferred":[
+        "Beletinec"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u043b\u0435\u0442\u0438\u043d\u0435\u0446"
     ],
     "name:swe_x_preferred":[
         "Beletinec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u0442\u0438\u043d\u0435\u0446\u044c"
     ],
     "name:unk_x_variant":[
         "Beletinec"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1125978083,
-    "wof:lastmodified":1561749620,
+    "wof:lastmodified":1563577810,
     "wof:name":"Be\u00b5linec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

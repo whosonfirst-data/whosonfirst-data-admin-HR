@@ -22,10 +22,19 @@
     "name:bos_x_preferred":[
         "Turanovac"
     ],
+    "name:ceb_x_preferred":[
+        "Turanovac"
+    ],
     "name:eng_x_preferred":[
         "Turanovac"
     ],
+    "name:fra_x_preferred":[
+        "Turanovac"
+    ],
     "name:hrv_x_preferred":[
+        "Turanovac"
+    ],
+    "name:hun_x_preferred":[
         "Turanovac"
     ],
     "name:nld_x_preferred":[
@@ -37,11 +46,17 @@
     "name:slv_x_preferred":[
         "Turanovac"
     ],
+    "name:spa_x_preferred":[
+        "Turanovac"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0443\u0440\u0430\u043d\u043e\u0432\u0430\u0446"
     ],
     "name:swe_x_preferred":[
         "Turanovac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0440\u0430\u043d\u043e\u0432\u0430\u0446\u044c"
     ],
     "name:unk_x_variant":[
         "Turanovacz"
@@ -93,7 +108,7 @@
         }
     ],
     "wof:id":1125858503,
-    "wof:lastmodified":1561749623,
+    "wof:lastmodified":1563577849,
     "wof:name":"Turanovac",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

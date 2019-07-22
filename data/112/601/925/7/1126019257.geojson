@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Ku\u010di\u0161te"
     ],
+    "name:ces_x_preferred":[
+        "Ku\u0107i\u0161te"
+    ],
     "name:deu_x_preferred":[
         "Ku\u0107i\u0161te"
     ],
@@ -44,6 +47,9 @@
         "Ku\u0107i\u0161te"
     ],
     "name:srp_x_preferred":[
+        "\u041a\u0443\u0447\u0438\u0448\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
         "\u041a\u0443\u0447\u0438\u0448\u0442\u0435"
     ],
     "name:unk_x_variant":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1126019257,
-    "wof:lastmodified":1561749622,
+    "wof:lastmodified":1563577830,
     "wof:name":"Ku\u010di\u0161te",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

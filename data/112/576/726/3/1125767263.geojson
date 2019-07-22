@@ -36,8 +36,14 @@
     "name:slv_x_preferred":[
         "Stara Novalja"
     ],
+    "name:spa_x_preferred":[
+        "Stara Novalja"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u041d\u043e\u0432\u0430\u0459\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u041d\u043e\u0432\u0430\u043b\u044f"
     ],
     "name:unk_x_variant":[
         "Novaglia Vecchia"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125767263,
-    "wof:lastmodified":1561749623,
+    "wof:lastmodified":1563577844,
     "wof:name":"Stara Novalja",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

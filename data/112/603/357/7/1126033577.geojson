@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Stari Grad"
     ],
+    "name:ceb_x_preferred":[
+        "Stari Grad"
+    ],
     "name:ces_x_preferred":[
         "Stari Grad"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:hrv_x_preferred":[
         "Starigrad"
+    ],
+    "name:hrv_x_variant":[
+        "Stari Grad"
     ],
     "name:hun_x_preferred":[
         "Stari Grad"
@@ -181,7 +187,7 @@
         }
     ],
     "wof:id":1126033577,
-    "wof:lastmodified":1561749615,
+    "wof:lastmodified":1563577755,
     "wof:name":"Starigrad",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

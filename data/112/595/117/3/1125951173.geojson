@@ -22,6 +22,12 @@
     "name:bos_x_preferred":[
         "\u0160krljevo"
     ],
+    "name:cat_x_preferred":[
+        "\u0160krljevo"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160krljevo"
+    ],
     "name:eng_x_preferred":[
         "\u0160krljevo"
     ],
@@ -40,11 +46,17 @@
     "name:slv_x_preferred":[
         "\u0160krljevo"
     ],
+    "name:spa_x_preferred":[
+        "\u0160krljevo"
+    ],
     "name:srp_x_preferred":[
         "\u0428\u043a\u0440\u0459\u0435\u0432\u043e"
     ],
     "name:swe_x_preferred":[
         "\u0160krljevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043a\u0440\u043b\u0454\u0432\u043e"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1125951173,
-    "wof:lastmodified":1561749612,
+    "wof:lastmodified":1563577729,
     "wof:name":"Skrljevo",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

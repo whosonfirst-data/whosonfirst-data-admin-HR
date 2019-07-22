@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Lepajci"
     ],
+    "name:fra_x_preferred":[
+        "Lepajci"
+    ],
     "name:hrv_x_preferred":[
         "Lepajci"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u0435\u043f\u0430\u0458\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043f\u0430\u0439\u0446\u0456"
     ],
     "name:unk_x_variant":[
         "Sveti Juraj"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125862737,
-    "wof:lastmodified":1561749615,
+    "wof:lastmodified":1563577759,
     "wof:name":"Lepajci",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

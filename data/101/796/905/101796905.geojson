@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Mravince"
     ],
+    "name:ceb_x_preferred":[
+        "Mravince"
+    ],
     "name:eng_x_preferred":[
         "Mravince"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:swe_x_preferred":[
         "Mravince"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0440\u0430\u0432\u0438\u043d\u0446\u0435"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":101796905,
-    "wof:lastmodified":1561749591,
+    "wof:lastmodified":1563577373,
     "wof:name":"Mravince",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "\u0160ibenik-Knin"
     ],
+    "name:ceb_x_preferred":[
+        "\u0160ibensko-Kninska \u017dupanija"
+    ],
     "name:ces_x_preferred":[
         "\u0160ibenicko-kninsk\u00e1 \u017eupa"
     ],
@@ -60,6 +63,9 @@
     "name:eng_x_preferred":[
         "Sibenik"
     ],
+    "name:eng_x_variant":[
+        "\u0160ibenik-Knin County"
+    ],
     "name:epo_x_preferred":[
         "\u0160ibenik-Knin"
     ],
@@ -69,11 +75,17 @@
     "name:eus_x_preferred":[
         "\u0160ibenik-Knin eskualdea"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u06cc\u0628\u0646\u06cc\u06a9-\u06a9\u0646\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "\u0160ibenik-Knin"
     ],
     "name:fra_x_preferred":[
         "Comitat de \u0160ibenik-Knin"
+    ],
+    "name:fra_x_variant":[
+        "\u0160ibenik-Knin"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0aac\u0ac7\u0aa8\u0ac0\u0a95-\u0aa8\u0abf\u0aa8 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -105,11 +117,17 @@
     "name:kor_x_preferred":[
         "\uc2dc\ubca0\ub2c8\ud06c\ud06c\ub2cc \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc2dc\ubca0\ub2c8\ud06c\ud06c\ub2cc\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Sibenicensis - Tininensis"
     ],
     "name:lav_x_preferred":[
         "\u0160ibenikas-Kninas \u017eup\u0101nija"
+    ],
+    "name:lav_x_variant":[
+        "\u0160ibenikas-Kninas \u017eupanija"
     ],
     "name:lit_x_preferred":[
         "\u0160ibeniko\u2013Knino apskritis"
@@ -123,6 +141,9 @@
     "name:msa_x_preferred":[
         "Sibenik-Knin County"
     ],
+    "name:nan_x_preferred":[
+        "\u0160ibenik-Knin K\u016bn"
+    ],
     "name:nld_x_preferred":[
         "\u0160ibenik-Knin"
     ],
@@ -134,6 +155,9 @@
     ],
     "name:pol_x_preferred":[
         "\u0160ibensko-kninska \u017eupanija"
+    ],
+    "name:pol_x_variant":[
+        "\u017bupania szybenicko-kni\u0144ska"
     ],
     "name:por_x_preferred":[
         "Condado de \u0160ibenik-Knin"
@@ -174,6 +198,9 @@
     ],
     "name:swe_x_preferred":[
         "\u0160ibenik-Knin"
+    ],
+    "name:swe_x_variant":[
+        "\u0160ibenik-Knins l\u00e4n"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0baa\u0bc7\u0ba9\u0bbf\u0b95\u0bcd -\u0b95\u0bbe\u0ba9\u0bbf\u0ba9\u0bcd \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
@@ -323,7 +350,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1561749558,
+    "wof:lastmodified":1563576622,
     "wof:name":"\u0160ibensko-kninska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

@@ -133,6 +133,9 @@
     "name:tur_x_preferred":[
         "Novo Selo"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
     "name:wln_x_preferred":[
         "Novo Selo"
     ],
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":1125945463,
-    "wof:lastmodified":1561749610,
+    "wof:lastmodified":1563577698,
     "wof:name":"Novo Selo",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

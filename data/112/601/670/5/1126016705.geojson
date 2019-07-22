@@ -48,6 +48,9 @@
     "name:nld_x_preferred":[
         "Rakovica"
     ],
+    "name:pol_x_preferred":[
+        "Rakovica"
+    ],
     "name:sco_x_preferred":[
         "Rakovica"
     ],
@@ -63,8 +66,14 @@
     "name:swe_x_preferred":[
         "Rakovica"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:war_x_preferred":[
         "Rakovica"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u79d1\u7dad\u5bdf"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":1126016705,
-    "wof:lastmodified":1561749622,
+    "wof:lastmodified":1563577831,
     "wof:name":"Rakovica",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

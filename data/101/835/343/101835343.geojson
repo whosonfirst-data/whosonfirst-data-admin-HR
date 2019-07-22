@@ -20,7 +20,13 @@
     "name:bos_x_preferred":[
         "Repu\u0161nica"
     ],
+    "name:ceb_x_preferred":[
+        "Repu\u0161nica"
+    ],
     "name:eng_x_preferred":[
+        "Repu\u0161nica"
+    ],
+    "name:fra_x_preferred":[
         "Repu\u0161nica"
     ],
     "name:hbs_x_preferred":[
@@ -46,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Repu\u0161nica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043f\u0443\u0448\u043d\u0438\u0446\u044f"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Sisacko-moslavacka \u017eupanija",
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":101835343,
-    "wof:lastmodified":1561749597,
+    "wof:lastmodified":1563577458,
     "wof:name":"Repu\u0161nica",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

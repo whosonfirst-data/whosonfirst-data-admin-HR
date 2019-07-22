@@ -37,6 +37,9 @@
     "name:srp_x_preferred":[
         "\u0412\u0440\u0441\u0438\u043d\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0441\u0438\u043d\u0435"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125817575,
-    "wof:lastmodified":1514447694,
+    "wof:lastmodified":1563577768,
     "wof:name":"Vrsine",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

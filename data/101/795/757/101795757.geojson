@@ -67,6 +67,9 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u043c\u0443\u043d\u0456\u043a-\u0414\u043e\u043d\u0456"
     ],
+    "name:ukr_x_variant":[
+        "\u0417\u0435\u043c\u0443\u043d\u0438\u043a-\u0414\u043e\u043d\u0456\u0439"
+    ],
     "name:war_x_preferred":[
         "Zemunik Donji"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101795757,
-    "wof:lastmodified":1561749605,
+    "wof:lastmodified":1563577580,
     "wof:name":"Zemunik Donji",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

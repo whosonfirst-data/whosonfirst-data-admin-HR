@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Ba\u0161ka Voda"
     ],
+    "name:ceb_x_preferred":[
+        "Ba\u0161ka Voda"
+    ],
     "name:ces_x_preferred":[
         "Ba\u0161ka Voda"
     ],
@@ -91,6 +94,9 @@
     "name:war_x_preferred":[
         "Ba\u0161ka Voda"
     ],
+    "name:zho_x_preferred":[
+        "\u5df4\u4ec0\u5361\u6c83\u9054"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1125990377,
-    "wof:lastmodified":1561749619,
+    "wof:lastmodified":1563577796,
     "wof:name":"Ba\u00b5ka Voda",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

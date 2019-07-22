@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Skrivena Luka"
     ],
+    "name:ceb_x_preferred":[
+        "Skrivena Luka"
+    ],
     "name:ces_x_preferred":[
         "Skrivena Luka"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:swe_x_preferred":[
         "Skrivena Luka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u0440\u0438\u0432\u0435\u043d\u0430 \u041b\u0443\u043a\u0430"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125863173,
-    "wof:lastmodified":1561749616,
+    "wof:lastmodified":1563577762,
     "wof:name":"Skrivena Luka",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u041e\u043f\u0443\u0437\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Opuzen"
+    ],
     "name:ces_x_preferred":[
         "Opuzen"
     ],
@@ -166,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749591,
+    "wof:lastmodified":1563577375,
     "wof:name":"Opuzen",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

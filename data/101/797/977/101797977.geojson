@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000766,
-    "geom:area_square_m":6968812.675664,
+    "geom:area_square_m":6968812.675665,
     "geom:bbox":"18.0564748428,42.638147945,18.128482772,42.6673436449",
     "geom:latitude":42.652457,
     "geom:longitude":18.085446,
@@ -26,6 +26,9 @@
     ],
     "name:arg_x_preferred":[
         "Ragusa"
+    ],
+    "name:ast_x_preferred":[
+        "Dubrovnik"
     ],
     "name:aze_x_preferred":[
         "Dubrovnik"
@@ -54,6 +57,9 @@
     "name:cat_x_variant":[
         "Ragusa"
     ],
+    "name:ceb_x_preferred":[
+        "Dubrovnik"
+    ],
     "name:ces_x_preferred":[
         "Dubrovn\u00edk"
     ],
@@ -69,6 +75,9 @@
     "name:ckb_x_preferred":[
         "\u062f\u0648\u0628\u0631\u06c6\u06a4\u0646\u06cc\u06a9"
     ],
+    "name:cym_x_preferred":[
+        "Dubrovnik"
+    ],
     "name:dan_x_preferred":[
         "Dubrovnik"
     ],
@@ -77,6 +86,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03bf\u03c5\u03bc\u03c0\u03c1\u03cc\u03b2\u03bd\u03b9\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03c4\u03bf\u03cd\u03bc\u03c0\u03c1\u03bf\u03b2\u03bd\u03b9\u03ba"
     ],
     "name:eng_x_colloquial":[
         "Pearl of the Adriatic"
@@ -112,7 +124,16 @@
     "name:fin_x_preferred":[
         "Dubrovnik"
     ],
+    "name:fit_x_preferred":[
+        "Dubrovnik"
+    ],
     "name:fra_x_preferred":[
+        "Dubrovnik"
+    ],
+    "name:fry_x_preferred":[
+        "Dubrovnik"
+    ],
+    "name:gle_x_preferred":[
         "Dubrovnik"
     ],
     "name:glg_x_preferred":[
@@ -124,12 +145,18 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05d1\u05e8\u05d5\u05d1\u05e0\u05d9\u05e7"
     ],
+    "name:hin_x_preferred":[
+        "\u0921\u0941\u092c\u094d\u0930\u094b\u0935\u0928\u093f\u0915"
+    ],
     "name:hrv_x_preferred":[
         "Dubrovnik"
     ],
     "name:hrv_x_variant":[
         "D\u00f9br\u014dvnik",
         "Dubrova\u010dka Republika"
+    ],
+    "name:hsb_x_preferred":[
+        "Dubrovnik"
     ],
     "name:hun_x_preferred":[
         "Dubrovnik"
@@ -138,6 +165,9 @@
         "\u0534\u0578\u0582\u0562\u0580\u0578\u057e\u0576\u056b\u056f"
     ],
     "name:ind_x_preferred":[
+        "Dubrovnik"
+    ],
+    "name:isl_x_preferred":[
         "Dubrovnik"
     ],
     "name:ita_x_historical":[
@@ -156,6 +186,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10e3\u10d1\u10e0\u10dd\u10d5\u10dc\u10d8\u10d9\u10d8"
+    ],
+    "name:kir_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u043e\u0432\u043d\u0438\u043a"
     ],
     "name:kor_x_preferred":[
         "\ub450\ube0c\ub85c\ube0c\ub2c8\ud06c"
@@ -191,10 +224,19 @@
     "name:mkd_x_preferred":[
         "\u0414\u0443\u0431\u0440\u043e\u0432\u043d\u0438\u043a"
     ],
+    "name:msa_x_preferred":[
+        "Dubrovnik"
+    ],
+    "name:mya_x_preferred":[
+        "\u1012\u1030\u1017\u101b\u1031\u102c\u1037\u1017\u103a\u1014\u1005\u103a\u1001\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:nld_x_preferred":[
         "Dubrovnik"
     ],
     "name:nno_x_preferred":[
+        "Dubrovnik"
+    ],
+    "name:nob_x_preferred":[
         "Dubrovnik"
     ],
     "name:nor_x_preferred":[
@@ -270,6 +312,9 @@
     "name:tat_x_preferred":[
         "\u0414\u0443\u0431\u0440\u043e\u0432\u043d\u0438\u043a"
     ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e39\u0e1a\u0e23\u0e2d\u0e1f\u0e19\u0e35\u0e01"
+    ],
     "name:tur_x_preferred":[
         "Dubrovnik"
     ],
@@ -296,6 +341,9 @@
     ],
     "name:war_x_preferred":[
         "Dubrovnik"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10e3\u10d1\u10e0\u10dd\u10d5\u10dc\u10d8\u10d9\u10d8"
     ],
     "name:yid_x_preferred":[
         "\u05e8\u05d0\u05d2\u05d5\u05d6\u05d0"
@@ -449,7 +497,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527641525,
+    "wof:lastmodified":1563577323,
     "wof:name":"Dubrovnik",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

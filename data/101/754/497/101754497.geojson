@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Bibinje"
     ],
+    "name:ceb_x_preferred":[
+        "Bibinje"
+    ],
     "name:ces_x_preferred":[
         "Bibinje"
     ],
@@ -71,6 +74,9 @@
     "name:swe_x_preferred":[
         "Bibinje"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u0431\u0438\u043d\u0454"
+    ],
     "name:unk_x_variant":[
         "Bibigne"
     ],
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":101754497,
-    "wof:lastmodified":1561749587,
+    "wof:lastmodified":1563577334,
     "wof:name":"Bibinje",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

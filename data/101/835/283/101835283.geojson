@@ -20,6 +20,12 @@
     "name:bos_x_preferred":[
         "Lu\u017eani"
     ],
+    "name:ceb_x_preferred":[
+        "Lu\u017eani"
+    ],
+    "name:eng_x_preferred":[
+        "Lu\u017eani"
+    ],
     "name:hbs_x_preferred":[
         "Lu\u017eani"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:swe_x_preferred":[
         "Lu\u017eani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0436\u0430\u043d\u0438"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Brodsko-posavska \u017eupanija",
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":101835283,
-    "wof:lastmodified":1527642777,
+    "wof:lastmodified":1563577447,
     "wof:name":"Lu\u017eani",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

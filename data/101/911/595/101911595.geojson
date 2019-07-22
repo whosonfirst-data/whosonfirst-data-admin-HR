@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Ora\u0161ac"
     ],
+    "name:ceb_x_preferred":[
+        "Ora\u0161ac"
+    ],
     "name:deu_x_preferred":[
         "Ora\u0161ac"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "Ora\u0161ac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0430\u0448\u0430\u0446\u044c"
     ],
     "name:unk_x_variant":[
         "Valdinoce"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":101911595,
-    "wof:lastmodified":1561749609,
+    "wof:lastmodified":1563577634,
     "wof:name":"Ora\u00b5ac",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

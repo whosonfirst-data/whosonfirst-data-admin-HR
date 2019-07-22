@@ -22,6 +22,9 @@
     "name:arg_x_preferred":[
         "\u0160ibenik"
     ],
+    "name:bel_x_preferred":[
+        "\u0428\u044b\u0431\u0435\u043d\u0456\u043a"
+    ],
     "name:bel_x_variant":[
         "\u0428\u044b\u0431\u044d\u043d\u0456\u043a"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:cat_x_preferred":[
         "\u0160ibenik"
+    ],
+    "name:ceb_x_preferred":[
+        "Grad \u0160ibenik"
     ],
     "name:ces_x_preferred":[
         "\u0160ibenik"
@@ -46,8 +52,155 @@
     "name:cym_x_preferred":[
         "\u0160ibenik"
     ],
+    "name:dan_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03af\u03bc\u03c0\u03b5\u03bd\u03b9\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:est_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:eus_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0628\u0646\u06cc\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:glg_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05d1\u05e0\u05d9\u05e7"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:hun_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u056b\u0562\u0565\u0576\u056b\u056f"
+    ],
+    "name:ind_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:ita_x_preferred":[
+        "Sebenico"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30d9\u30cb\u30af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d8\u10d1\u10d4\u10dc\u10d8\u10d9\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ubca0\ub2c8\ud06c"
+    ],
+    "name:lat_x_preferred":[
+        "Sebenicum"
+    ],
+    "name:lav_x_preferred":[
+        "\u0160ibenika"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160ibenikas"
+    ],
+    "name:lmo_x_preferred":[
+        "Sebenico"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0438\u0431\u0435\u043d\u0438\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:nob_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:oci_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:pol_x_preferred":[
+        "Szybenik"
+    ],
+    "name:por_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:ron_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0431\u0435\u043d\u0438\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:slk_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:sqi_x_preferred":[
+        "Shibeniku"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0438\u0431\u0435\u043d\u0438\u043a"
+    ],
+    "name:swa_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:szl_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0438\u0431\u0435\u043d\u0438\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e34\u0e40\u0e1a\u0e19\u0e35\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eibenik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0438\u0431\u0435\u043d\u0438\u043a"
+    ],
     "name:unk_x_variant":[
         "Dubrava kod \u0160benika"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06cc\u0628\u06cc\u0646\u06a9"
+    ],
+    "name:vec_x_preferred":[
+        "Sebenico"
+    ],
+    "name:war_x_preferred":[
+        "\u0160ibenik"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u8d1d\u5c3c\u514b"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*\u0160ibensko-kninska \u017eupanija",
@@ -90,7 +243,7 @@
         }
     ],
     "wof:id":101857823,
-    "wof:lastmodified":1544744097,
+    "wof:lastmodified":1563577413,
     "wof:name":"Dubrava kod \u0160ibenika",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

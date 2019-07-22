@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Rakitovica"
     ],
+    "name:fra_x_preferred":[
+        "Rakitovica"
+    ],
     "name:hrv_x_preferred":[
         "Rakitovica"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u043a\u0438\u0442\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043a\u0438\u0442\u043e\u0432\u0438\u0446\u044f"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1125770861,
-    "wof:lastmodified":1514447609,
+    "wof:lastmodified":1563577867,
     "wof:name":"Rakitovica",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

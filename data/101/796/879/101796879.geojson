@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Plo\u010de"
     ],
+    "name:ceb_x_preferred":[
+        "Grad Plo\u010de"
+    ],
     "name:ces_x_preferred":[
         "Plo\u010de"
     ],
@@ -134,6 +137,9 @@
     "name:unk_x_variant":[
         "Kardeljevo"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u0644\u0648\u0686\u06d2"
+    ],
     "name:war_x_preferred":[
         "Plo\u010de"
     ],
@@ -186,7 +192,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749591,
+    "wof:lastmodified":1563577374,
     "wof:name":"Plo\u010de",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

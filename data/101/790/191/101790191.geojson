@@ -20,7 +20,13 @@
     "name:bos_x_preferred":[
         "Gori\u010dan"
     ],
+    "name:ceb_x_preferred":[
+        "Gori\u010dan"
+    ],
     "name:ces_x_preferred":[
+        "Gori\u010dan"
+    ],
+    "name:eng_x_preferred":[
         "Gori\u010dan"
     ],
     "name:epo_x_preferred":[
@@ -47,8 +53,35 @@
     "name:ron_x_preferred":[
         "Comuna Gori\u010dan"
     ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0447\u0430\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Gori\u010dan"
+    ],
+    "name:slv_x_preferred":[
+        "Gori\u010dan"
+    ],
+    "name:spa_x_preferred":[
+        "Gori\u010dan"
+    ],
+    "name:sqi_x_preferred":[
+        "Gori\u010dan"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0447\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Gori\u010dan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0447\u0430\u043d"
+    ],
     "name:unk_x_variant":[
         "Muracs\u00e1ny"
+    ],
+    "name:war_x_preferred":[
+        "Gori\u010dan"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Medimurska \u017eupanija",
@@ -94,7 +127,7 @@
         }
     ],
     "wof:id":101790191,
-    "wof:lastmodified":1527641600,
+    "wof:lastmodified":1563577329,
     "wof:name":"Gori\u010dan",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

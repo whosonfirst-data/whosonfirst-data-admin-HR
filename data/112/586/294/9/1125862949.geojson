@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Roga\u010d"
     ],
+    "name:ces_x_preferred":[
+        "Roga\u010d"
+    ],
     "name:deu_x_preferred":[
         "Roga\u010d"
     ],
@@ -47,6 +50,9 @@
         "Roga\u010d"
     ],
     "name:srp_x_preferred":[
+        "\u0420\u043e\u0433\u0430\u0447"
+    ],
+    "name:ukr_x_preferred":[
         "\u0420\u043e\u0433\u0430\u0447"
     ],
     "qs_pg:aaroncc":"HR",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1125862949,
-    "wof:lastmodified":1561749616,
+    "wof:lastmodified":1563577760,
     "wof:name":"Roga\u010d",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

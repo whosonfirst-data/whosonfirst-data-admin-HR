@@ -52,6 +52,9 @@
     "name:cat_x_preferred":[
         "Rijeka"
     ],
+    "name:ceb_x_preferred":[
+        "Grad Rijeka"
+    ],
     "name:ces_x_preferred":[
         "Rijeka"
     ],
@@ -145,6 +148,9 @@
     "name:ind_x_preferred":[
         "Rijeka"
     ],
+    "name:isl_x_preferred":[
+        "Rijeka"
+    ],
     "name:ita_x_preferred":[
         "Fiume"
     ],
@@ -175,7 +181,13 @@
     "name:lij_x_preferred":[
         "Sciumme"
     ],
+    "name:lij_x_variant":[
+        "Rijeka"
+    ],
     "name:lit_x_preferred":[
+        "Rijeka"
+    ],
+    "name:ltz_x_preferred":[
         "Rijeka"
     ],
     "name:mar_x_preferred":[
@@ -258,6 +270,9 @@
     "name:swe_x_preferred":[
         "Rijeka"
     ],
+    "name:szl_x_preferred":[
+        "Rijeka"
+    ],
     "name:tam_x_preferred":[
         "\u0bb0\u0bbf\u0b9c\u0bc6\u0b95\u0bbe"
     ],
@@ -282,6 +297,9 @@
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0626\u06a9\u0627"
     ],
+    "name:uzb_x_preferred":[
+        "Riyeka"
+    ],
     "name:vec_x_preferred":[
         "Fiume"
     ],
@@ -291,8 +309,14 @@
     "name:vie_x_preferred":[
         "Rijeka"
     ],
+    "name:vol_x_preferred":[
+        "Rijeka"
+    ],
     "name:war_x_preferred":[
         "Rijeka"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e0\u10d8\u10d4\u10d9\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u91cc\u8036\u5361"
@@ -433,7 +457,7 @@
         }
     ],
     "wof:id":101751775,
-    "wof:lastmodified":1561749604,
+    "wof:lastmodified":1563577559,
     "wof:name":"Rijeka",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

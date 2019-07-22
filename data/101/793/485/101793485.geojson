@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Nu\u0161tar"
     ],
+    "name:ceb_x_preferred":[
+        "Nu\u0161tar"
+    ],
     "name:eng_x_preferred":[
         "Nu\u0161tar"
     ],
@@ -41,6 +44,9 @@
     "name:nld_x_preferred":[
         "Nu\u0161tar"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Nu\u0161tar"
+    ],
     "name:ron_x_preferred":[
         "Comuna Nu\u0161tar"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "Nu\u0161tar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u0448\u0442\u0430\u0440"
     ],
     "name:unk_x_variant":[
         "Berz\u00e9te-Monostor"
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":101793485,
-    "wof:lastmodified":1561749599,
+    "wof:lastmodified":1563577476,
     "wof:name":"Nu\u0161tar",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

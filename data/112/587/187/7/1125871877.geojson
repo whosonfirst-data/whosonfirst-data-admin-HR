@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "\u010ciba\u010da"
     ],
+    "name:ceb_x_preferred":[
+        "\u010ciba\u010da"
+    ],
     "name:eng_x_preferred":[
         "\u010ciba\u010da"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "\u010ciba\u010da"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u0431\u0430\u0447\u0430"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1125871877,
-    "wof:lastmodified":1561749618,
+    "wof:lastmodified":1563577791,
     "wof:name":"\u010ciba\u010da",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

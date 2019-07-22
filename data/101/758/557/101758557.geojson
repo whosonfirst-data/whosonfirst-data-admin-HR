@@ -70,6 +70,9 @@
     "name:tur_x_preferred":[
         "Ka\u0161tel Novi"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b-\u041d\u043e\u0432\u0438\u0439"
+    ],
     "name:unk_x_variant":[
         "Novi"
     ],
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101758557,
-    "wof:lastmodified":1561749601,
+    "wof:lastmodified":1563577506,
     "wof:name":"Ka\u0161tel Novi",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

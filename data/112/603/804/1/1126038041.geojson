@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Grabovac"
     ],
+    "name:fra_x_preferred":[
+        "Grabovac"
+    ],
     "name:hrv_x_preferred":[
         "Grabovac"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0413\u0440\u0430\u0431\u043e\u0432\u0430\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u0431\u043e\u0432\u0430\u0446\u044c"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1126038041,
-    "wof:lastmodified":1561749615,
+    "wof:lastmodified":1563577752,
     "wof:name":"Grabovac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0633\u0627\u0643"
     ],
+    "name:bak_x_preferred":[
+        "\u0421\u0438\u0441\u0430\u043a"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0456\u0441\u0430\u043a"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:cat_x_preferred":[
         "Sisak"
+    ],
+    "name:ceb_x_preferred":[
+        "Grad Sisak"
     ],
     "name:ces_x_preferred":[
         "Sisak"
@@ -76,6 +82,9 @@
     ],
     "name:hbs_x_preferred":[
         "Sisak"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05e1\u05d0\u05e7"
     ],
     "name:hrv_x_preferred":[
         "Sisak"
@@ -230,7 +239,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749592,
+    "wof:lastmodified":1563577385,
     "wof:name":"Sisak",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

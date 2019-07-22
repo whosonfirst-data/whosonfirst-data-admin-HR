@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Gare\u0161nica"
     ],
+    "name:ceb_x_preferred":[
+        "Gare\u0161nica"
+    ],
     "name:ces_x_preferred":[
         "Gare\u0161nica"
     ],
@@ -49,6 +52,9 @@
     "name:hrv_x_preferred":[
         "Gare\u0161nica"
     ],
+    "name:hun_x_preferred":[
+        "Gerzence"
+    ],
     "name:ita_x_preferred":[
         "Gare\u0161nica"
     ],
@@ -68,6 +74,9 @@
         "\u0413\u0430\u0440\u0435\u0448\u043d\u0438\u0446\u0430"
     ],
     "name:slv_x_preferred":[
+        "Gare\u0161nica"
+    ],
+    "name:spa_x_preferred":[
         "Gare\u0161nica"
     ],
     "name:sqi_x_preferred":[
@@ -143,7 +152,7 @@
         }
     ],
     "wof:id":1125880673,
-    "wof:lastmodified":1561749617,
+    "wof:lastmodified":1563577776,
     "wof:name":"Gare\u00b5nica",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

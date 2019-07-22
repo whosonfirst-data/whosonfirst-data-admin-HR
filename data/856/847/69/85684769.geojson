@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Comtat de Sisak-Moslavina"
     ],
+    "name:ceb_x_preferred":[
+        "Sisa\u010dko-Moslava\u010dka \u017dupanija"
+    ],
     "name:ces_x_preferred":[
         "Sisacko-moslavinsk\u00e1 \u017eupa"
     ],
@@ -57,6 +60,9 @@
     "name:eng_x_preferred":[
         "Sisacko-moslavacka"
     ],
+    "name:eng_x_variant":[
+        "Sisak-Moslavina County"
+    ],
     "name:epo_x_preferred":[
         "Sisak-Moslavina"
     ],
@@ -66,17 +72,26 @@
     "name:eus_x_preferred":[
         "Sisak-Moslavina eskualdea"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0633\u06cc\u0633\u0627\u06a9-\u0645\u0648\u0633\u0644\u0627\u0648\u06cc\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Sisak-Moslavina"
     ],
     "name:fra_x_preferred":[
         "Comitat de Sisak-Moslavina"
     ],
+    "name:fra_x_variant":[
+        "Sisak-Moslavina"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0ab8\u0ac7\u0a95-\u0aae\u0acb\u0ab8\u0acd\u0ab2\u0abe\u0ab5\u0abf\u0aa8\u0abe \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
     ],
     "name:hbs_x_preferred":[
         "Sisa\u010dko-moslava\u010dka \u017eupanija"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e1\u05d9\u05e1\u05d0\u05e7-\u05de\u05d5\u05e1\u05dc\u05d0\u05d1\u05d9\u05e0\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0938\u093f\u0938\u093e\u0915-\u092e\u094b\u0938\u094d\u0932\u093e\u0935\u093f\u0928\u093e \u0915\u093e\u0909\u0902\u091f\u0940"
@@ -106,6 +121,9 @@
     "name:kor_x_preferred":[
         "\uc2dc\uc0ac\ud06c\ubaa8\uc2ac\ub77c\ube44\ub098 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc2dc\uc0ac\ud06c\ubaa8\uc2ac\ub77c\ube44\ub098\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Sisciensis-Moslavinensis"
     ],
@@ -126,6 +144,9 @@
     ],
     "name:msa_x_preferred":[
         "Sisak-Moslavina County"
+    ],
+    "name:nan_x_preferred":[
+        "Sisak-Moslavina K\u016bn"
     ],
     "name:nld_x_preferred":[
         "Sisak-Moslavina"
@@ -150,6 +171,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u0441\u0430\u0447\u043a\u043e-\u041c\u043e\u0441\u043b\u0430\u0432\u0430\u0447\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0438\u0441\u0430\u0446\u043a\u043e-\u041c\u043e\u0441\u043b\u0430\u0432\u0438\u043d\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f"
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd2\u0dc3\u0d9a\u0dca-\u0db8\u0ddc\u0dc3\u0dca\u0dbd\u0dc0\u0dd2\u0db1\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
@@ -329,7 +353,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1561749556,
+    "wof:lastmodified":1563576616,
     "wof:name":"Sisacko-moslavacka",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

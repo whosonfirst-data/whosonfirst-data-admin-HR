@@ -37,6 +37,9 @@
     "name:srp_x_preferred":[
         "\u041a\u043e\u0440\u0438\u0442\u043d\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0438\u0442\u043d\u0430"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125945919,
-    "wof:lastmodified":1561749610,
+    "wof:lastmodified":1563577697,
     "wof:name":"Koritna",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

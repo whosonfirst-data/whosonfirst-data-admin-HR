@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041f\u043b\u043e\u043c\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Plomin"
+    ],
     "name:deu_x_preferred":[
         "Plomin"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:swe_x_preferred":[
         "Plomin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u043e\u043c\u0438\u043d"
     ],
     "name:unk_x_variant":[
         "Fianona d\u2019Istria"
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1125938383,
-    "wof:lastmodified":1561749611,
+    "wof:lastmodified":1563577710,
     "wof:name":"Plomin",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

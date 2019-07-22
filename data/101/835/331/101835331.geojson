@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Stari Mikanovci"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Stari Mikanovci"
+    ],
     "name:ron_x_preferred":[
         "Comuna Stari Mikanovci"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438 \u041c\u0438\u043a\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0456 \u041c\u0456\u043a\u0430\u043d\u043e\u0432\u0446\u0456"
     ],
     "name:und_x_preferred":[
         "Stari Mikanovci"
@@ -106,7 +112,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749595,
+    "wof:lastmodified":1563577422,
     "wof:name":"Stari Mikanovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

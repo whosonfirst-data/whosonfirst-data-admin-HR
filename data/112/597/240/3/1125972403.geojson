@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Preko"
     ],
+    "name:ceb_x_preferred":[
+        "Preko"
+    ],
     "name:deu_x_preferred":[
         "Preko"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:swe_x_preferred":[
         "Preko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u043a\u043e"
     ],
     "name:unk_x_variant":[
         "Oltre"
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":1125972403,
-    "wof:lastmodified":1561749620,
+    "wof:lastmodified":1563577809,
     "wof:name":"Preko",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

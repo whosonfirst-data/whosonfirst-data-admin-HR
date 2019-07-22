@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000051,
+    "geom:area_square_m":449014.415187,
     "geom:bbox":"14.658227159,45.1433252811,14.6716588682,45.1529359907",
     "geom:latitude":45.147288,
     "geom:longitude":14.664648,
@@ -17,6 +18,12 @@
     "mz:is_current":-1,
     "name:ces_x_preferred":[
         "B\u016fh ostrova"
+    ],
+    "name:eng_x_preferred":[
+        "The Island God"
+    ],
+    "name:fra_x_preferred":[
+        "The Island God"
     ],
     "name:spa_x_preferred":[
         "The Island God"
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":101911575,
-    "wof:lastmodified":1527715545,
+    "wof:lastmodified":1563577635,
     "wof:name":"\u00c5 Ilo",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

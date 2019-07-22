@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "\u017drnovo"
     ],
+    "name:ceb_x_preferred":[
+        "\u017drnovo"
+    ],
     "name:deu_x_preferred":[
         "\u017drnovo"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "\u017drnovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0440\u043d\u043e\u0432\u043e"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Dubrovacko-neretvanska \u017eupanija",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":101796861,
-    "wof:lastmodified":1561749591,
+    "wof:lastmodified":1563577371,
     "wof:name":"\u017drnovo",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

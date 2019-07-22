@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Domaslovec"
     ],
+    "name:ceb_x_preferred":[
+        "Domaslovec"
+    ],
     "name:eng_x_preferred":[
         "Domaslovec"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "Domaslovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043c\u0430\u0441\u043b\u043e\u0432\u0435\u0446\u044c"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125958123,
-    "wof:lastmodified":1561749613,
+    "wof:lastmodified":1563577730,
     "wof:name":"Domaslovec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

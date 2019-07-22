@@ -42,6 +42,9 @@
     "name:swe_x_preferred":[
         "Plat"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0430\u0442"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125987883,
-    "wof:lastmodified":1561749622,
+    "wof:lastmodified":1563577827,
     "wof:name":"Plat",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

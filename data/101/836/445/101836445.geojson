@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Vine\u017e"
     ],
+    "name:ceb_x_preferred":[
+        "Vine\u017e"
+    ],
     "name:eng_x_preferred":[
         "Vine\u017e"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Vine\u017e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u043d\u0435\u0436"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Istarska \u017eupanija",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":101836445,
-    "wof:lastmodified":1561749609,
+    "wof:lastmodified":1563577630,
     "wof:name":"Vine\u017e",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

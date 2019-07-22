@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Poli\u010dnik"
     ],
+    "name:ceb_x_preferred":[
+        "Poli\u010dnik"
+    ],
     "name:deu_x_preferred":[
         "Poli\u010dnik"
     ],
@@ -50,6 +53,9 @@
     "name:ron_x_preferred":[
         "Comuna Poli\u010dnik"
     ],
+    "name:slv_x_preferred":[
+        "Poli\u010dnik"
+    ],
     "name:spa_x_preferred":[
         "Poli\u010dnik"
     ],
@@ -59,11 +65,17 @@
     "name:swe_x_preferred":[
         "Poli\u010dnik"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u0438\u0447\u043d\u0438\u043a"
+    ],
     "name:unk_x_variant":[
         "Polisseno"
     ],
     "name:war_x_preferred":[
         "Poli\u010dnik"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u91cc\u5947\u5c3c\u514b"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Zadarska \u017eupanija",
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":101795763,
-    "wof:lastmodified":1561749604,
+    "wof:lastmodified":1563577562,
     "wof:name":"Poli\u010dnik",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

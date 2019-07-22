@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Plitvi\u010dka Jezera"
     ],
+    "name:ceb_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
     "name:deu_x_preferred":[
         "Plitvi\u010dka Jezera"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Plitvi\u010dka Jezera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0438\u0442\u0432\u0438\u0446\u044c\u043a\u0430 \u0404\u0437\u0435\u0440\u0430"
     ],
     "name:unk_x_variant":[
         "Plitvice Seen"
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":1125851243,
-    "wof:lastmodified":1561749624,
+    "wof:lastmodified":1563577854,
     "wof:name":"Plitvi\u010dka Jezera",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

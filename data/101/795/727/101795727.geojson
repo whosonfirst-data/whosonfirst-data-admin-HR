@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Illa de Murter"
     ],
+    "name:cat_x_variant":[
+        "Murter"
+    ],
     "name:ces_x_preferred":[
         "Murter"
     ],
@@ -50,11 +53,17 @@
     "name:hrv_x_preferred":[
         "Murter"
     ],
+    "name:hrv_x_variant":[
+        "Murter-Kornati"
+    ],
     "name:hun_x_preferred":[
         "Murter-Kornati"
     ],
     "name:ita_x_preferred":[
         "Morter"
+    ],
+    "name:ita_x_variant":[
+        "Morter-Incoronate"
     ],
     "name:lat_x_preferred":[
         "Colentum"
@@ -92,6 +101,9 @@
     "name:srp_x_preferred":[
         "\u041c\u0443\u0440\u0442\u0435\u0440"
     ],
+    "name:srp_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0443\u0440\u0442\u0435\u0440-\u041a\u043e\u0440\u043d\u0430\u0442\u0438"
+    ],
     "name:swe_x_preferred":[
         "Murter"
     ],
@@ -100,6 +112,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0440\u0442\u0435\u0440"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0443\u0440\u0442\u0435\u0440-\u041a\u043e\u0440\u043d\u0430\u0442\u0438"
     ],
     "name:unk_x_variant":[
         "Morter"
@@ -153,7 +168,7 @@
         }
     ],
     "wof:id":101795727,
-    "wof:lastmodified":1561749605,
+    "wof:lastmodified":1563577589,
     "wof:name":"Murter",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

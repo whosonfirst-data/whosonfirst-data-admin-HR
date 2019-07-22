@@ -44,6 +44,9 @@
     "name:srp_x_preferred":[
         "\u0414\u043e\u045a\u0438 \u041f\u0440\u043e\u043b\u043e\u0436\u0430\u0446"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u0456\u0439 \u041f\u0440\u043e\u043b\u043e\u0436\u0430\u0446\u044c"
+    ],
     "name:unk_x_variant":[
         "Prolo\u017eac Donji"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101796895,
-    "wof:lastmodified":1561749591,
+    "wof:lastmodified":1563577370,
     "wof:name":"Donji Prolo\u017eac",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

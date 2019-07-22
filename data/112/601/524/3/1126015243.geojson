@@ -43,6 +43,9 @@
     "name:srp_x_preferred":[
         "\u0413\u043e\u043b\u0443\u0431\u0438\u045b"
     ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u0443\u0431\u0438\u0447"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPLL",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1126015243,
-    "wof:lastmodified":1561749622,
+    "wof:lastmodified":1563577833,
     "wof:name":"Golubi\u0107",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

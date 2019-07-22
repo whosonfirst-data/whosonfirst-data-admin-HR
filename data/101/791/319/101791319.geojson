@@ -43,6 +43,9 @@
     "name:srp_x_preferred":[
         "\u041f\u0443\u0448\u045b\u0438\u043d\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0449\u0438\u043d\u0435"
+    ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Medimurska \u017eupanija",
     "qs:a1r":"0",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101791319,
-    "wof:lastmodified":1561749590,
+    "wof:lastmodified":1563577364,
     "wof:name":"Pu\u0161\u0107ine",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

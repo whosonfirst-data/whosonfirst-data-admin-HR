@@ -20,6 +20,12 @@
     "name:bos_x_preferred":[
         "Na\u0161ice"
     ],
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u0448\u0438\u0446\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Grad Na\u0161ice"
+    ],
     "name:ces_x_preferred":[
         "Na\u0161ice"
     ],
@@ -71,6 +77,9 @@
     "name:kor_x_preferred":[
         "\ub098\uc2dc\uccb4"
     ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0430\u0448\u0438\u0446\u0435"
+    ],
     "name:nld_x_preferred":[
         "Na\u0161ice"
     ],
@@ -87,6 +96,9 @@
         "\u041d\u0430\u0448\u0438\u0446\u0435"
     ],
     "name:slv_x_preferred":[
+        "Na\u0161ice"
+    ],
+    "name:spa_x_preferred":[
         "Na\u0161ice"
     ],
     "name:sqi_x_preferred":[
@@ -161,7 +173,7 @@
         }
     ],
     "wof:id":101835403,
-    "wof:lastmodified":1561749597,
+    "wof:lastmodified":1563577452,
     "wof:name":"Na\u0161ice",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -19,6 +19,12 @@
     "name:bos_x_preferred":[
         "Li\u010dki Osik"
     ],
+    "name:ceb_x_preferred":[
+        "Li\u010dki Osik"
+    ],
+    "name:ces_x_preferred":[
+        "Li\u010dki Osik"
+    ],
     "name:eng_x_preferred":[
         "Li\u010dki Osik"
     ],
@@ -37,14 +43,23 @@
     "name:slv_x_preferred":[
         "Li\u010dki Osik"
     ],
+    "name:spa_x_preferred":[
+        "Li\u010dki Osik"
+    ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u0447\u043a\u0438 \u041e\u0441\u0438\u043a"
     ],
     "name:swe_x_preferred":[
         "Li\u010dki Osik"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u0446\u044c\u043a\u0438\u0439 \u041e\u0441\u0438\u043a"
+    ],
     "name:unk_x_variant":[
         "Teslingrad"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u8328\u5947\u6b50\u5e0c\u514b"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Licko-senjska \u017eupanija",
@@ -86,7 +101,7 @@
         }
     ],
     "wof:id":101795791,
-    "wof:lastmodified":1561749604,
+    "wof:lastmodified":1563577568,
     "wof:name":"Li\u010dki Osik",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

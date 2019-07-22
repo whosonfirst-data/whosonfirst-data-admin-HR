@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Branjin Vrh"
     ],
+    "name:fra_x_preferred":[
+        "Branjin Vrh"
+    ],
     "name:hbs_x_preferred":[
         "Branjin Vrh"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0440\u0430\u045a\u0438\u043d \u0412\u0440\u0445"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0456\u043d \u0412\u0440\u0445"
     ],
     "name:unk_x_variant":[
         "Baranyavar"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":101791219,
-    "wof:lastmodified":1561749588,
+    "wof:lastmodified":1563577343,
     "wof:name":"Branjin Vrh",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

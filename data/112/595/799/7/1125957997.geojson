@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Bu\u0161evec"
     ],
+    "name:ceb_x_preferred":[
+        "Bu\u0161evec"
+    ],
     "name:deu_x_preferred":[
         "Bu\u0161evec"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:swe_x_preferred":[
         "Bu\u0161evec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0448\u0435\u0432\u0435\u0446\u044c"
     ],
     "name:unk_x_variant":[
         "Bu\u0161evac"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1125957997,
-    "wof:lastmodified":1561749612,
+    "wof:lastmodified":1563577723,
     "wof:name":"Bu\u00b5evec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

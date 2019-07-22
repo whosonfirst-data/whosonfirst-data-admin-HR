@@ -12,6 +12,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Aerodrom Vara\u017edin"
+    ],
+    "name:ceb_x_preferred":[
+        "Varazdin"
+    ],
+    "name:deu_x_preferred":[
+        "Flugplatz Vara\u017edin"
+    ],
+    "name:eng_x_preferred":[
+        "Vara\u017edin Airport"
+    ],
+    "name:hrv_x_preferred":[
+        "Zra\u010dna luka Vara\u017edin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30e9\u30b8\u30e5\u30c7\u30a3\u30f3\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Varazdin"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Vara\u017edin"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Vara\u017edin"
+    ],
     "oa:elevation_ft":"548",
     "oa:type":"small_airport",
     "src:geom":"wikidata",
@@ -43,7 +70,7 @@
         }
     ],
     "wof:id":102541285,
-    "wof:lastmodified":1543846096,
+    "wof:lastmodified":1563576451,
     "wof:name":"Varazdin Airport",
     "wof:parent_id":85684835,
     "wof:placetype":"campus",

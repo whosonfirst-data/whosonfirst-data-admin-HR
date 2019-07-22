@@ -43,6 +43,9 @@
     "name:srp_x_preferred":[
         "\u041f\u043e\u0434\u0448\u043f\u0438\u0459\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0448\u043f\u0438\u043b\u0454"
+    ],
     "name:unk_x_variant":[
         "Pospilje"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125932663,
-    "wof:lastmodified":1561749610,
+    "wof:lastmodified":1563577701,
     "wof:name":"Pod\u00b5pilje",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

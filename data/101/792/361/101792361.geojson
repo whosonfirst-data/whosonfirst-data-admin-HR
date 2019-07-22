@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Pojatno"
     ],
+    "name:ceb_x_preferred":[
+        "Pojatno"
+    ],
     "name:eng_x_preferred":[
         "Pojatno"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:swe_x_preferred":[
         "Pojatno"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u044f\u0442\u043d\u043e"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Zagrebacka \u017eupanija",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":101792361,
-    "wof:lastmodified":1561749607,
+    "wof:lastmodified":1563577604,
     "wof:name":"Pojatno",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

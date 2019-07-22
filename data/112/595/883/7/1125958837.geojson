@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Oprisavci"
     ],
+    "name:ceb_x_preferred":[
+        "Oprisavci"
+    ],
     "name:eng_x_preferred":[
         "Oprisavci"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Oprisavci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043f\u0440\u0438\u0441\u0430\u0432\u0446\u0456"
     ],
     "name:unk_x_variant":[
         "Oprisovci"
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1125958837,
-    "wof:lastmodified":1561749613,
+    "wof:lastmodified":1563577730,
     "wof:name":"Oprisavci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

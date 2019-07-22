@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
+    "geom:area_square_m":479083.262481,
     "geom:bbox":"15.3774681909,43.9495988523,15.3899583382,43.9595574067",
     "geom:latitude":43.955514,
     "geom:longitude":15.384279,
@@ -18,6 +19,9 @@
     "name:bre_x_preferred":[
         "Pa\u0161man"
     ],
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0448\u043c\u0430\u043d"
+    ],
     "name:ces_x_preferred":[
         "Pa\u0161man"
     ],
@@ -26,6 +30,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03ac\u03c3\u03bc\u03b1\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Pa\u0161man"
     ],
     "name:fin_x_preferred":[
         "Pa\u0161man"
@@ -39,14 +46,65 @@
     "name:hsb_x_preferred":[
         "Pa\u0161man"
     ],
+    "name:hun_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:ind_x_preferred":[
+        "Pa\u0161man"
+    ],
     "name:ita_x_preferred":[
         "Pasman"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30b7\u30e5\u30de\u30f3\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\uc288\ub9cc\uc12c"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u0448\u043c\u0430\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:nno_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:nob_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:pol_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:por_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0448\u043c\u0430\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Pa\u0161man"
     ],
     "name:spa_x_preferred":[
         "Pa\u0161man"
     ],
+    "name:swe_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:tur_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0448\u043c\u0430\u043d"
+    ],
     "name:unk_x_variant":[
         "Pa\u0161man"
+    ],
+    "name:war_x_preferred":[
+        "Pa\u0161man"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u4ec0\u66fc\u5cf6"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Zadarska \u017eupanija",
@@ -91,7 +149,7 @@
         }
     ],
     "wof:id":101911001,
-    "wof:lastmodified":1527715545,
+    "wof:lastmodified":1563577634,
     "wof:name":"Pa\u00b5man",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

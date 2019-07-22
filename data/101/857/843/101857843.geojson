@@ -20,6 +20,12 @@
     "name:bos_x_preferred":[
         "Horvati"
     ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0440\u0432\u0430\u0442\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Horvati"
+    ],
     "name:eng_x_preferred":[
         "Horvati"
     ],
@@ -36,6 +42,12 @@
         "Horvati"
     ],
     "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u0432\u0430\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Horvati"
+    ],
+    "name:ukr_x_preferred":[
         "\u0425\u043e\u0440\u0432\u0430\u0442\u0438"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":101857843,
-    "wof:lastmodified":1561749594,
+    "wof:lastmodified":1563577408,
     "wof:name":"Horvati",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

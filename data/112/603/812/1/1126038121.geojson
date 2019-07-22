@@ -22,7 +22,13 @@
     "name:bos_x_preferred":[
         "Topolovac"
     ],
+    "name:ceb_x_preferred":[
+        "Topolovac"
+    ],
     "name:eng_x_preferred":[
+        "Topolovac"
+    ],
+    "name:fra_x_preferred":[
         "Topolovac"
     ],
     "name:hrv_x_preferred":[
@@ -30,6 +36,9 @@
     ],
     "name:hun_x_preferred":[
         "Topolovac"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30dd\u30ed\u30f4\u30a1\u30c4"
     ],
     "name:nld_x_preferred":[
         "Topolovac"
@@ -42,6 +51,9 @@
     ],
     "name:swe_x_preferred":[
         "Topolovac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u043e\u0432\u0430\u0446\u044c"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1126038121,
-    "wof:lastmodified":1561749615,
+    "wof:lastmodified":1563577756,
     "wof:name":"Topolovac",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

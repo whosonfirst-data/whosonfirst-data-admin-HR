@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Sira\u010d"
     ],
+    "name:ceb_x_preferred":[
+        "Sira\u010d"
+    ],
     "name:eng_x_preferred":[
         "Sira\u010d"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "Sira\u010d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u0440\u0430\u0447"
     ],
     "name:und_x_colloquial":[
         "Sirac"
@@ -119,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749600,
+    "wof:lastmodified":1563577493,
     "wof:name":"Sira\u010d",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

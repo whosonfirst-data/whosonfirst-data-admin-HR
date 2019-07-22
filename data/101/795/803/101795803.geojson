@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Rovinj"
     ],
+    "name:ceb_x_preferred":[
+        "Rovinj"
+    ],
     "name:ces_x_preferred":[
         "Rovinj"
     ],
@@ -74,6 +77,9 @@
     "name:fra_x_preferred":[
         "Rovinj"
     ],
+    "name:gle_x_preferred":[
+        "Rovinj"
+    ],
     "name:hbs_x_preferred":[
         "Rovinj"
     ],
@@ -88,6 +94,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054c\u0578\u057e\u056b\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Rovinj"
     ],
     "name:ita_x_preferred":[
         "Rovigno"
@@ -247,7 +256,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749604,
+    "wof:lastmodified":1563577572,
     "wof:name":"Rovinj",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

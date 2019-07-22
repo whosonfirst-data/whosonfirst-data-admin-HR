@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Suhopolje"
     ],
+    "name:ceb_x_preferred":[
+        "Suhopolje"
+    ],
     "name:deu_x_preferred":[
         "Suhopolje"
     ],
@@ -35,14 +38,23 @@
     "name:hrv_x_preferred":[
         "Suhopolje"
     ],
+    "name:hun_x_preferred":[
+        "Suhopolje"
+    ],
     "name:ita_x_preferred":[
         "Suhopolje"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30db\u30dd\u30ea\u30a7"
     ],
     "name:lit_x_preferred":[
         "Suhopol\u0117"
     ],
     "name:nld_x_preferred":[
         "Suhopolje"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Suhopolje"
     ],
     "name:ron_x_preferred":[
         "Comuna Suhopolje"
@@ -64,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Suhopolje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0445\u043e\u043f\u043e\u043b\u0454"
     ],
     "name:unk_x_variant":[
         "Theresowatz"
@@ -115,7 +130,7 @@
         }
     ],
     "wof:id":101835355,
-    "wof:lastmodified":1561749595,
+    "wof:lastmodified":1563577427,
     "wof:name":"Suhopolje",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

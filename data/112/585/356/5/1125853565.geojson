@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Greba\u0161tica"
     ],
+    "name:ceb_x_preferred":[
+        "Greba\u0161tica"
+    ],
     "name:ces_x_preferred":[
         "Greba\u0161tica"
     ],
@@ -202,6 +205,9 @@
     "name:swe_x_preferred":[
         "Greba\u0161tica"
     ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0435\u0431\u0430\u0449\u0438\u0446\u044f"
+    ],
     "name:vec_x_preferred":[
         "Greba\u0161tica"
     ],
@@ -260,7 +266,7 @@
         }
     ],
     "wof:id":1125853565,
-    "wof:lastmodified":1561749623,
+    "wof:lastmodified":1563577851,
     "wof:name":"Greba\u0161tica",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

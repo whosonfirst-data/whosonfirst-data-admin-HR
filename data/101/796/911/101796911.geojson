@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Stari Grad"
     ],
+    "name:ceb_x_preferred":[
+        "Stari Grad"
+    ],
     "name:ces_x_preferred":[
         "Stari Grad"
     ],
@@ -79,6 +82,9 @@
     ],
     "name:lat_x_preferred":[
         "Civitas Vetus"
+    ],
+    "name:lat_x_variant":[
+        "Civitas Vetus Pharensis"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438 \u0413\u0440\u0430\u0434"
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":101796911,
-    "wof:lastmodified":1561749592,
+    "wof:lastmodified":1563577382,
     "wof:name":"Stari Grad",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

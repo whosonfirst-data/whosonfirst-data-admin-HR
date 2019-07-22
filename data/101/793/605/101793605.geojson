@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Selci \u0110akova\u010dki"
     ],
+    "name:fra_x_preferred":[
+        "Selci \u0110akova\u010dki"
+    ],
     "name:hbs_x_preferred":[
         "Selci \u0110akova\u010dki"
     ],
@@ -37,8 +40,14 @@
     "name:srp_x_preferred":[
         "\u0421\u0435\u043b\u0446\u0438 \u0402\u0430\u043a\u043e\u0432\u0430\u0447\u043a\u0438"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u0446\u0456 \u0414\u0436\u0430\u043a\u043e\u0432\u0430\u0446\u044c\u043a\u0456"
+    ],
     "name:unk_x_variant":[
         "\u00d0akova\u010dki Selci"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u5229"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Osjecko-baranjska \u017eupanija",
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":101793605,
-    "wof:lastmodified":1561749599,
+    "wof:lastmodified":1563577478,
     "wof:name":"Selci \u0110akova\u010dki",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

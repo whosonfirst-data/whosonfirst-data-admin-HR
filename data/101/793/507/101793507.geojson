@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Retkovci"
     ],
+    "name:ceb_x_preferred":[
+        "Retkovci"
+    ],
     "name:eng_x_preferred":[
         "Retkovci"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:swe_x_preferred":[
         "Retkovci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0442\u043a\u043e\u0432\u0446\u0456"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Vukovarsko-srijemska \u017eupanija",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":101793507,
-    "wof:lastmodified":1561749600,
+    "wof:lastmodified":1563577489,
     "wof:name":"Retkovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

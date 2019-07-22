@@ -37,7 +37,13 @@
     "name:slv_x_preferred":[
         "Prozor"
     ],
+    "name:spa_x_preferred":[
+        "Prozor"
+    ],
     "name:srp_x_preferred":[
+        "\u041f\u0440\u043e\u0437\u043e\u0440"
+    ],
+    "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0437\u043e\u0440"
     ],
     "name:unk_x_variant":[
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1125867013,
-    "wof:lastmodified":1561749615,
+    "wof:lastmodified":1563577759,
     "wof:name":"Gornji Prozor",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

@@ -49,11 +49,17 @@
     "name:ron_x_preferred":[
         "Comuna Popovac"
     ],
+    "name:slv_x_preferred":[
+        "Popovac"
+    ],
     "name:spa_x_preferred":[
         "Popovac"
     ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u043f\u043e\u0432\u0430\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0430\u0446\u044c"
     ],
     "name:und_x_preferred":[
         "Popovac"
@@ -102,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749593,
+    "wof:lastmodified":1563577400,
     "wof:name":"Popovac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

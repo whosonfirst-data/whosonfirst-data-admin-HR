@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0442\u043e\u0432\u0443\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Motovun"
+    ],
     "name:deu_x_preferred":[
         "Motovun"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:hun_x_preferred":[
         "Motovun"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u057f\u0578\u057e\u0578\u0582\u0576"
     ],
     "name:ita_x_preferred":[
         "Montona"
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1125890977,
-    "wof:lastmodified":1561749617,
+    "wof:lastmodified":1563577778,
     "wof:name":"Motovun",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

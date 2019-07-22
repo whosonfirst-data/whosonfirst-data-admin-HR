@@ -19,7 +19,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u0431\u0430\u0440"
+    ],
     "name:bos_x_preferred":[
+        "\u010cabar"
+    ],
+    "name:ceb_x_preferred":[
         "\u010cabar"
     ],
     "name:ckb_x_preferred":[
@@ -45,6 +51,9 @@
     ],
     "name:hun_x_preferred":[
         "\u010cabar"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u0562\u0561\u0580"
     ],
     "name:ita_x_preferred":[
         "\u010cabar"
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":1125937201,
-    "wof:lastmodified":1561749611,
+    "wof:lastmodified":1563577713,
     "wof:name":"\u010cabar",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

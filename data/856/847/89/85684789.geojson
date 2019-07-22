@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Comtat de Primorje \u2013 Gorski Kotar"
     ],
+    "name:ceb_x_preferred":[
+        "Primorsko-Goranska \u017dupanija"
+    ],
     "name:ces_x_preferred":[
         "P\u0159\u00edmo\u0159sko-gorskokotarsk\u00e1 \u017eupa"
     ],
@@ -69,11 +72,17 @@
     "name:eus_x_preferred":[
         "Primorje-Gorski Kotar eskualdea"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0631\u06cc\u0645\u0648\u0631\u06cc-\u06af\u0648\u0631\u0633\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Primorje-Gorski Kotar"
     ],
     "name:fra_x_preferred":[
         "Comitat de Primorje-Gorski Kotar"
+    ],
+    "name:fra_x_variant":[
+        "Primorje-Gorski Kotar"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab0\u0abf\u0aae\u0acb\u0ab0\u0acd\u0a9c\u0ac7-\u0a97\u0acb\u0ab0\u0acd\u0ab8\u0acd\u0a95\u0ac0 \u0a95\u0acb\u0a9f\u0abe\u0ab0 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -115,6 +124,9 @@
     "name:kor_x_preferred":[
         "\ud504\ub9ac\ubaa8\ub840\uace0\ub974\uc2a4\ud0a4\ucf54\ud0c0\ub974 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud504\ub9ac\ubaa8\ub808\uace0\ub974\uc2a4\ud0a4\ucf54\ud0c0\ub974\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Litoralis-Montana"
     ],
@@ -154,8 +166,14 @@
     "name:ron_x_preferred":[
         "Cantonul Primorje-Gorski Kotar"
     ],
+    "name:ron_x_variant":[
+        "Primorje-Gorski Kotar"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u043e-\u0413\u043e\u0440\u0430\u043d\u0441\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u043e-\u0413\u043e\u0440\u0430\u043d\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0438\u044f"
     ],
     "name:sco_x_preferred":[
         "Primorje-Gorski Kotar Coonty"
@@ -342,7 +360,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1561749556,
+    "wof:lastmodified":1563576618,
     "wof:name":"Primorsko-goranska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

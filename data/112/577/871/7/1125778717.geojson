@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "\u010cilipi"
     ],
+    "name:ceb_x_preferred":[
+        "\u010cilipi"
+    ],
     "name:eng_x_preferred":[
         "\u010cilipi"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125778717,
-    "wof:lastmodified":1561749624,
+    "wof:lastmodified":1563577866,
     "wof:name":"\u010cilipi",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

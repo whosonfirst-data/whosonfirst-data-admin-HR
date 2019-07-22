@@ -46,6 +46,15 @@
     "name:slv_x_preferred":[
         "Valun"
     ],
+    "name:spa_x_preferred":[
+        "Valun"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u0431\u0430\u0447\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0430\u043b\u0443\u043d"
+    ],
     "name:unk_x_variant":[
         "Vallon"
     ],
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1126003349,
-    "wof:lastmodified":1561749622,
+    "wof:lastmodified":1563577835,
     "wof:name":"Valun",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

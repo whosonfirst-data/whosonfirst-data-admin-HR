@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Lovi\u0161te"
     ],
+    "name:ces_x_preferred":[
+        "Lovi\u0161te"
+    ],
     "name:deu_x_preferred":[
         "Lovi\u0161te"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125774307,
-    "wof:lastmodified":1561749624,
+    "wof:lastmodified":1563577865,
     "wof:name":"Lovi\u00b5te",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

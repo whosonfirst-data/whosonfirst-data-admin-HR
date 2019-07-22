@@ -40,6 +40,9 @@
     "name:srp_x_preferred":[
         "\u0408\u0430\u0441\u0435\u043d\u0438\u0446\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0441\u0435\u043d\u0438\u0446\u0435"
+    ],
     "name:unk_x_variant":[
         "Jasenice"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1126029397,
-    "wof:lastmodified":1561749613,
+    "wof:lastmodified":1563577738,
     "wof:name":"Jasenica",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

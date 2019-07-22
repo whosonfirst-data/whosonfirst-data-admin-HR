@@ -45,6 +45,9 @@
     "name:srp_x_preferred":[
         "\u041b\u0438\u0432\u0430\u0434\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u0432\u0430\u0434\u0435"
+    ],
     "name:unk_x_variant":[
         "Levade"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125817459,
-    "wof:lastmodified":1561749616,
+    "wof:lastmodified":1563577771,
     "wof:name":"Livade",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

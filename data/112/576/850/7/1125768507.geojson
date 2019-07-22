@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Nakovanj"
     ],
+    "name:ces_x_preferred":[
+        "Nakovanj"
+    ],
     "name:eng_x_preferred":[
         "Nakovanj"
     ],
@@ -34,11 +37,17 @@
     "name:hun_x_preferred":[
         "Nakovanj"
     ],
+    "name:nld_x_preferred":[
+        "Nakovanj"
+    ],
     "name:slv_x_preferred":[
         "Nakovanj"
     ],
     "name:srp_x_preferred":[
         "\u041d\u0430\u043a\u043e\u0432\u0430\u045a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u043a\u043e\u0432\u0430\u043d\u044c"
     ],
     "name:unk_x_variant":[
         "Nakovan"
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1125768507,
-    "wof:lastmodified":1561749623,
+    "wof:lastmodified":1563577841,
     "wof:name":"Nakovanj",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

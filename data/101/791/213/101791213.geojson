@@ -20,8 +20,17 @@
     "name:bos_x_preferred":[
         "Pitoma\u010da"
     ],
+    "name:ceb_x_preferred":[
+        "Pitoma\u010da"
+    ],
+    "name:ces_x_preferred":[
+        "Pitoma\u010da"
+    ],
     "name:deu_x_preferred":[
         "Pitoma\u010da"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03c4\u03cc\u03bc\u03b1\u03c4\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Pitoma\u010da"
@@ -35,17 +44,26 @@
     "name:hrv_x_preferred":[
         "Pitoma\u010da"
     ],
+    "name:hun_x_preferred":[
+        "Pitomacsa"
+    ],
     "name:ita_x_preferred":[
         "Pitoma\u010da"
     ],
     "name:nld_x_preferred":[
         "Pitoma\u010da"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Pitoma\u010da"
+    ],
     "name:ron_x_preferred":[
         "Comuna Pitoma\u010da"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u0442\u043e\u043c\u0430\u0447\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Pitoma\u010da"
     ],
     "name:slv_x_preferred":[
         "Pitoma\u010da"
@@ -64,6 +82,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0442\u043e\u043c\u0430\u0447\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0438\u0442\u043e\u043c\u0430\u0447\u0430"
     ],
     "name:unk_x_variant":[
         "Pittomacha"
@@ -115,7 +136,7 @@
         }
     ],
     "wof:id":101791213,
-    "wof:lastmodified":1561749589,
+    "wof:lastmodified":1563577357,
     "wof:name":"Pitoma\u010da",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Lukoran"
     ],
+    "name:fra_x_preferred":[
+        "Lukoran"
+    ],
     "name:hrv_x_preferred":[
         "Lukoran"
     ],
@@ -41,6 +44,9 @@
         "Lukoran"
     ],
     "name:srp_x_preferred":[
+        "\u041b\u0443\u043a\u043e\u0440\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
         "\u041b\u0443\u043a\u043e\u0440\u0430\u043d"
     ],
     "qs_pg:aaroncc":"HR",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125987839,
-    "wof:lastmodified":1561749621,
+    "wof:lastmodified":1563577822,
     "wof:name":"Lukoran",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

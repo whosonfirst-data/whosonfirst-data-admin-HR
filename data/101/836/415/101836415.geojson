@@ -65,6 +65,9 @@
     "name:srp_x_preferred":[
         "\u0408\u0435\u0441\u0435\u043d\u0438\u0446\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0441\u0435\u043d\u0438\u0446\u0435"
+    ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Splitsko-dalmatinska \u017eupanija",
     "qs:a1r":"0",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101836415,
-    "wof:lastmodified":1553815534,
+    "wof:lastmodified":1563577621,
     "wof:name":"Jesenice",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Mio\u010dinovi\u0107i"
     ],
+    "name:fra_x_preferred":[
+        "Mio\u010dinovi\u0107i"
+    ],
     "name:hrv_x_preferred":[
         "Mio\u010dinovi\u0107i"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0438\u043e\u0447\u0438\u043d\u043e\u0432\u0438\u045b\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043e\u0447\u0438\u043d\u043e\u0432\u0438\u0447\u0456"
     ],
     "name:unk_x_variant":[
         "Miocinovici"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1125784585,
-    "wof:lastmodified":1561749624,
+    "wof:lastmodified":1563577859,
     "wof:name":"Mio\u010dinovi\u0107i",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000305,
+    "geom:area_square_m":2620623.286999,
     "geom:bbox":"16.8471801616,45.9007503913,16.8757797419,45.9240994817",
     "geom:latitude":45.914962,
     "geom:longitude":16.862257,
@@ -18,10 +19,19 @@
     "name:bos_x_preferred":[
         "Trojstveni Markovac"
     ],
+    "name:eng_x_preferred":[
+        "Trojstveni Markovac"
+    ],
+    "name:fra_x_preferred":[
+        "Trojstveni Markovac"
+    ],
     "name:hbs_x_preferred":[
         "Trojstveni Markovac"
     ],
     "name:hrv_x_preferred":[
+        "Trojstveni Markovac"
+    ],
+    "name:hun_x_preferred":[
         "Trojstveni Markovac"
     ],
     "name:nld_x_preferred":[
@@ -30,8 +40,14 @@
     "name:slv_x_preferred":[
         "Trojstveni Markovac"
     ],
+    "name:spa_x_preferred":[
+        "Trojstveni Markovac"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u043e\u0458\u0441\u0442\u0432\u0435\u043d\u0438 \u041c\u0430\u0440\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u043e\u0439\u0441\u0442\u0432\u0435\u043d\u0438\u0439 \u041c\u0430\u0440\u043a\u043e\u0432\u0430\u0446\u044c"
     ],
     "name:unk_x_variant":[
         "Markovac"
@@ -75,7 +91,7 @@
         }
     ],
     "wof:id":101835409,
-    "wof:lastmodified":1527642774,
+    "wof:lastmodified":1563577431,
     "wof:name":"Trojstveni Markovac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

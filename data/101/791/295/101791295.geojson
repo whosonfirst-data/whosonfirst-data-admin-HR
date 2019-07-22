@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Beletinec"
     ],
+    "name:ceb_x_preferred":[
+        "Beletinec"
+    ],
     "name:eng_x_preferred":[
         "Beletinec"
     ],
@@ -38,11 +41,17 @@
     "name:slv_x_preferred":[
         "Beletinec"
     ],
+    "name:spa_x_preferred":[
+        "Beletinec"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u043b\u0435\u0442\u0438\u043d\u0435\u0446"
     ],
     "name:swe_x_preferred":[
         "Beletinec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u0442\u0438\u043d\u0435\u0446\u044c"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Vara\u017edinska \u017eupanija",
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":101791295,
-    "wof:lastmodified":1561749589,
+    "wof:lastmodified":1563577347,
     "wof:name":"Beletinec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

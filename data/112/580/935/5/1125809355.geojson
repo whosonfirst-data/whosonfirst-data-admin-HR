@@ -19,11 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0646\u062a\u0627\u0646\u0627"
+    ],
     "name:bos_x_preferred":[
         "Funtana"
     ],
     "name:bul_x_preferred":[
         "\u0424\u0443\u043d\u0442\u0430\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Funtana"
+    ],
+    "name:ces_x_preferred":[
+        "Funtana"
     ],
     "name:deu_x_preferred":[
         "Funtana"
@@ -58,6 +67,9 @@
     "name:rus_x_preferred":[
         "\u0424\u0443\u043d\u0442\u0430\u043d\u0430"
     ],
+    "name:slk_x_preferred":[
+        "Funtana"
+    ],
     "name:slv_x_preferred":[
         "Funtana"
     ],
@@ -69,6 +81,9 @@
     ],
     "name:swe_x_preferred":[
         "Funtana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0443\u043d\u0442\u0430\u043d\u0430"
     ],
     "name:unk_x_variant":[
         "Fontane"
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":1125809355,
-    "wof:lastmodified":1561749618,
+    "wof:lastmodified":1563577784,
     "wof:name":"Funtana",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Doma\u0161inec"
     ],
+    "name:ceb_x_preferred":[
+        "Doma\u0161inec"
+    ],
     "name:ces_x_preferred":[
         "Doma\u0161inec"
     ],
@@ -47,6 +50,9 @@
     "name:nld_x_preferred":[
         "Doma\u0161inec"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Doma\u0161inec"
+    ],
     "name:ron_x_preferred":[
         "Comuna Doma\u0161inec"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:swe_x_preferred":[
         "Doma\u0161inec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043c\u0430\u0448\u0438\u043d\u0435\u0446\u044c"
     ],
     "name:war_x_preferred":[
         "Doma\u0161inec"
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":101790185,
-    "wof:lastmodified":1561749587,
+    "wof:lastmodified":1563577332,
     "wof:name":"Doma\u0161inec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

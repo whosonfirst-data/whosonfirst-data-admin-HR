@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Vrsi"
     ],
+    "name:ceb_x_preferred":[
+        "Vrsi"
+    ],
     "name:deu_x_preferred":[
         "Vrsi"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:swe_x_preferred":[
         "Vrsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0441\u0438"
     ],
     "name:unk_x_variant":[
         "Verch\u00e9"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":101795775,
-    "wof:lastmodified":1561749605,
+    "wof:lastmodified":1563577585,
     "wof:name":"Vrsi",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

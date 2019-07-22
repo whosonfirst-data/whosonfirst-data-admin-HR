@@ -22,6 +22,12 @@
     "name:bos_x_preferred":[
         "Ko\u017eino"
     ],
+    "name:ceb_x_preferred":[
+        "Ko\u017eino"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03b6\u03b9\u03bd\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Ko\u017eino"
     ],
@@ -40,11 +46,17 @@
     "name:slv_x_preferred":[
         "Ko\u017eino"
     ],
+    "name:spa_x_preferred":[
+        "Mala U\u010dka"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0436\u0438\u043d\u043e"
     ],
     "name:swe_x_preferred":[
         "Ko\u017eino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0436\u0438\u043d\u043e"
     ],
     "name:unk_x_variant":[
         "Ko\u017ein"
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":1125817411,
-    "wof:lastmodified":1561749616,
+    "wof:lastmodified":1563577767,
     "wof:name":"Ko\u017eino",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

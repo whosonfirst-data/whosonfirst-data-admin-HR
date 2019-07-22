@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "\u0160kari\u0107evo"
     ],
+    "name:ceb_x_preferred":[
+        "\u0160kari\u0107evo"
+    ],
     "name:deu_x_preferred":[
         "\u0160kari\u0107evo"
     ],
@@ -55,6 +58,9 @@
     "name:slv_x_preferred":[
         "\u0160kari\u0107evo"
     ],
+    "name:slv_x_variant":[
+        "Marku\u00b5ica"
+    ],
     "name:spa_x_preferred":[
         "\u0160kari\u0107evo"
     ],
@@ -63,6 +69,9 @@
     ],
     "name:swe_x_preferred":[
         "\u0160kari\u0107evo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043a\u0430\u0440\u0438\u0447\u0435\u0432\u043e"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1125959127,
-    "wof:lastmodified":1561749612,
+    "wof:lastmodified":1563577727,
     "wof:name":"\u0160kari\u0107evo",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

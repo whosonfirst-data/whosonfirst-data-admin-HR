@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Jalkovec"
     ],
+    "name:ceb_x_preferred":[
+        "Jalkovec"
+    ],
     "name:eng_x_preferred":[
         "Jalkovec"
     ],
@@ -38,11 +41,17 @@
     "name:slv_x_preferred":[
         "Jalkovec"
     ],
+    "name:spa_x_preferred":[
+        "Jalkovec"
+    ],
     "name:srp_x_preferred":[
         "\u0408\u0430\u043b\u043a\u043e\u0432\u0435\u0446"
     ],
     "name:swe_x_preferred":[
         "Jalkovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043b\u043a\u043e\u0432\u0435\u0446\u044c"
     ],
     "name:und_x_preferred":[
         "Jalkovec"
@@ -98,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749597,
+    "wof:lastmodified":1563577459,
     "wof:name":"Jalkovec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

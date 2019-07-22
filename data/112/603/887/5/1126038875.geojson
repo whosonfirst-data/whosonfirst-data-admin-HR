@@ -22,10 +22,16 @@
     "name:bos_x_preferred":[
         "Lu\u010dko"
     ],
+    "name:ceb_x_preferred":[
+        "Lu\u010dko"
+    ],
     "name:eng_x_preferred":[
         "Lu\u010dko"
     ],
     "name:hrv_x_preferred":[
+        "Lu\u010dko"
+    ],
+    "name:ita_x_preferred":[
         "Lu\u010dko"
     ],
     "name:jpn_x_preferred":[
@@ -48,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Lu\u010dko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0446\u044c\u043a\u043e"
     ],
     "name:unk_x_variant":[
         "Lu\u010dko"
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1126038875,
-    "wof:lastmodified":1561749615,
+    "wof:lastmodified":1563577751,
     "wof:name":"La\u00b5ko",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

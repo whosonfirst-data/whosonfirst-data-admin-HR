@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "\u0160emovec"
     ],
+    "name:ceb_x_preferred":[
+        "\u0160emovec"
+    ],
     "name:eng_x_preferred":[
         "\u0160emovec"
     ],
@@ -37,11 +40,17 @@
     "name:slv_x_preferred":[
         "\u0160emovec"
     ],
+    "name:spa_x_preferred":[
+        "\u0160emovec"
+    ],
     "name:srp_x_preferred":[
         "\u0428\u0435\u043c\u043e\u0432\u0435\u0446"
     ],
     "name:swe_x_preferred":[
         "\u0160emovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043c\u043e\u0432\u0435\u0446\u044c"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1126038005,
-    "wof:lastmodified":1561749615,
+    "wof:lastmodified":1563577757,
     "wof:name":"\u0160emovec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Ogulinec"
     ],
+    "name:ceb_x_preferred":[
+        "Ogulinec"
+    ],
     "name:eng_x_preferred":[
         "Ogulinec"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "Ogulinec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0433\u0443\u043b\u0438\u043d\u0435\u0446\u044c"
     ],
     "name:unk_x_variant":[
         "Oqulina"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1126019625,
-    "wof:lastmodified":1561749622,
+    "wof:lastmodified":1563577829,
     "wof:name":"Ogulinac",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

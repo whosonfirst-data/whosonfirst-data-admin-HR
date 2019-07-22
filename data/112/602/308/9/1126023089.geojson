@@ -22,6 +22,9 @@
     "name:bos_x_preferred":[
         "Gro\u017enjan"
     ],
+    "name:ceb_x_preferred":[
+        "Gro\u017enjan"
+    ],
     "name:deu_x_preferred":[
         "Gro\u017enjan"
     ],
@@ -73,11 +76,17 @@
     "name:swe_x_preferred":[
         "Gro\u017enjan"
     ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u0436\u043d\u044f\u043d"
+    ],
     "name:unk_x_variant":[
         "Grisignana"
     ],
     "name:war_x_preferred":[
         "Gro\u017enjan"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u7f57\u65e5\u5e74"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":1126023089,
-    "wof:lastmodified":1561749613,
+    "wof:lastmodified":1563577739,
     "wof:name":"Gro\u017enjan",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

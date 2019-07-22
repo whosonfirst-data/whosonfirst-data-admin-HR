@@ -19,6 +19,9 @@
     "name:bos_x_preferred":[
         "Petr\u010dane"
     ],
+    "name:ceb_x_preferred":[
+        "Petrcane"
+    ],
     "name:deu_x_preferred":[
         "Petr\u010dane"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Petrcane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0447\u0430\u043d\u0435"
     ],
     "name:unk_x_variant":[
         "Petr\u010dane"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":101912587,
-    "wof:lastmodified":1561749598,
+    "wof:lastmodified":1563577468,
     "wof:name":"Punta Skala",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

@@ -23,7 +23,13 @@
     "name:bos_x_preferred":[
         "Krk"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u044a\u043a"
+    ],
     "name:cat_x_preferred":[
+        "Krk"
+    ],
+    "name:ceb_x_preferred":[
         "Krk"
     ],
     "name:ces_x_preferred":[
@@ -182,7 +188,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561749608,
+    "wof:lastmodified":1563577616,
     "wof:name":"Krk",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

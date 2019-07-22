@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0440\u0431\u043e\u0441\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Vrboska"
+    ],
     "name:ces_x_preferred":[
         "Vrboska"
     ],
@@ -32,6 +35,12 @@
         "Vrboska"
     ],
     "name:eng_x_preferred":[
+        "Vrboska"
+    ],
+    "name:fra_x_preferred":[
+        "Vrboska"
+    ],
+    "name:frc_x_preferred":[
         "Vrboska"
     ],
     "name:hrv_x_preferred":[
@@ -49,6 +58,9 @@
     "name:pol_x_preferred":[
         "Vrboska"
     ],
+    "name:ron_x_preferred":[
+        "Vrboska"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0440\u0431\u043e\u0441\u043a\u0430"
     ],
@@ -60,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "Vrboska"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0431\u043e\u0441\u044c\u043a\u0430"
     ],
     "name:unk_x_variant":[
         "Vrbovska"
@@ -115,7 +130,7 @@
         }
     ],
     "wof:id":1125809461,
-    "wof:lastmodified":1561749617,
+    "wof:lastmodified":1563577782,
     "wof:name":"Vrboska",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

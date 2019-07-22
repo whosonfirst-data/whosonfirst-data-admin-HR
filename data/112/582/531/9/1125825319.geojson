@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Sljeme"
     ],
+    "name:fra_x_preferred":[
+        "Sljeme"
+    ],
     "name:hrv_x_preferred":[
         "Sljeme"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:spa_x_preferred":[
         "Sljeme"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0454\u043c\u0435"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":null,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1125825319,
-    "wof:lastmodified":1561749623,
+    "wof:lastmodified":1563577840,
     "wof:name":"Sljeme",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

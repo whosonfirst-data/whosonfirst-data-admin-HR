@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u0440\u043e\u0432\u0438\u0442\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Grad Virovitica"
+    ],
     "name:ces_x_preferred":[
         "Virovitica"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:deu_x_preferred":[
         "Virovitica"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b9\u03c1\u03bf\u03b2\u03af\u03c4\u03b9\u03c4\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Virovitica"
@@ -64,6 +70,9 @@
     ],
     "name:hun_x_preferred":[
         "Ver\u0151ce"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u0580\u0578\u057e\u056b\u057f\u056b\u0581\u0561"
     ],
     "name:ita_x_preferred":[
         "Virovitica"
@@ -185,7 +194,7 @@
         }
     ],
     "wof:id":101835353,
-    "wof:lastmodified":1561749595,
+    "wof:lastmodified":1563577424,
     "wof:name":"Virovitica",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",
