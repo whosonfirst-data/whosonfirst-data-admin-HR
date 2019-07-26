@@ -26,8 +26,41 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vrbje"
+    ],
+    "name:fra_x_preferred":[
+        "Vrbje"
+    ],
+    "name:hrv_x_preferred":[
+        "Vrbje"
+    ],
+    "name:ita_x_preferred":[
+        "Vrbje"
+    ],
+    "name:nld_x_preferred":[
+        "Vrbje"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Vrbje"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Vrbje"
+    ],
+    "name:slv_x_preferred":[
+        "Vrbje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0431\u0458\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0431\u0454"
+    ],
     "name:und_x_variant":[
         "Vrblje",
+        "Vrbje"
+    ],
+    "name:war_x_preferred":[
         "Vrbje"
     ],
     "src:geom":"geonames",
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1309812373,
-    "wof:lastmodified":1537625808,
+    "wof:lastmodified":1564154772,
     "wof:name":"Vrbje",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

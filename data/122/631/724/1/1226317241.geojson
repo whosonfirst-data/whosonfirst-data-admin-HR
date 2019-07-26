@@ -26,6 +26,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Harmica"
+    ],
+    "name:ceb_x_preferred":[
+        "Harmica"
+    ],
+    "name:ces_x_preferred":[
+        "Harmica"
+    ],
+    "name:deu_x_preferred":[
+        "Harmica"
+    ],
+    "name:hrv_x_preferred":[
+        "Harmica"
+    ],
+    "name:hun_x_preferred":[
+        "Harmica"
+    ],
+    "name:slv_x_preferred":[
+        "Harmica"
+    ],
+    "name:spa_x_preferred":[
+        "Harmica"
+    ],
+    "name:swe_x_preferred":[
+        "Harmica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0440\u043c\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1226317241,
-    "wof:lastmodified":1537563299,
+    "wof:lastmodified":1564155314,
     "wof:name":"Harmica",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

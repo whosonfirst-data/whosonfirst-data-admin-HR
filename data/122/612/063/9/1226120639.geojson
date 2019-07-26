@@ -27,6 +27,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bekte\u017e"
+    ],
+    "name:ceb_x_preferred":[
+        "Bekte\u017e"
+    ],
+    "name:hrv_x_preferred":[
+        "Bekte\u017e"
+    ],
+    "name:slv_x_preferred":[
+        "Bekte\u017e"
+    ],
+    "name:spa_x_preferred":[
+        "Bekte\u017e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043a\u0442\u0435\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Bekte\u017e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043a\u0442\u0435\u0436"
+    ],
     "name:und_x_variant":[
         "Bekte\u017ee",
         "Bekte\u017e"
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1226120639,
-    "wof:lastmodified":1537625936,
+    "wof:lastmodified":1564155269,
     "wof:name":"Bektez",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

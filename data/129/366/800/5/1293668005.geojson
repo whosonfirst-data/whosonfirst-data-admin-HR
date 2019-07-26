@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lijevo Trebarjevo"
+    ],
+    "name:fra_x_preferred":[
+        "Lijevo Trebarjevo"
+    ],
+    "name:hrv_x_preferred":[
+        "Lijevo Trebarjevo"
+    ],
+    "name:hun_x_preferred":[
+        "Lijevo Trebarjevo"
+    ],
+    "name:nld_x_preferred":[
+        "Lijevo Trebarjevo"
+    ],
+    "name:slv_x_preferred":[
+        "Lijevo Trebarjevo"
+    ],
+    "name:spa_x_preferred":[
+        "Lijevo Trebarjevo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0458\u0435\u0432\u043e \u0422\u0440\u0435\u0431\u0430\u0440\u0458\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0454\u0432\u043e \u0422\u0440\u0435\u0431\u0430\u0440'\u0454\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Trebarjevo Lijevo",
         "Trebarjevo",
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1293668005,
-    "wof:lastmodified":1537625873,
+    "wof:lastmodified":1564153948,
     "wof:name":"Lijevo Trebarjevo",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

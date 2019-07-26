@@ -27,6 +27,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Koljane"
+    ],
+    "name:fra_x_preferred":[
+        "Koljane"
+    ],
+    "name:hrv_x_preferred":[
+        "Koljane"
+    ],
+    "name:hun_x_preferred":[
+        "Koljane"
+    ],
+    "name:slv_x_preferred":[
+        "Koljane"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0459\u0430\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u044f\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Koljani",
         "Koljane"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1226425363,
-    "wof:lastmodified":1537625885,
+    "wof:lastmodified":1564155169,
     "wof:name":"Koljane",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

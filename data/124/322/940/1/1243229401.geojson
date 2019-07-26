@@ -25,6 +25,45 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sveti Rok"
+    ],
+    "name:ceb_x_preferred":[
+        "Sveti Rok"
+    ],
+    "name:ces_x_preferred":[
+        "Sveti Rok"
+    ],
+    "name:deu_x_preferred":[
+        "Sveti Rok"
+    ],
+    "name:hrv_x_preferred":[
+        "Sveti Rok"
+    ],
+    "name:hun_x_preferred":[
+        "Sveti Rok"
+    ],
+    "name:pol_x_preferred":[
+        "Sveti Rok"
+    ],
+    "name:slk_x_preferred":[
+        "Sveti Rok"
+    ],
+    "name:slv_x_preferred":[
+        "Sveti Rok"
+    ],
+    "name:spa_x_preferred":[
+        "Sveti Rok"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u0420\u043e\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Sveti Rok"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438\u0439 \u0420\u043e\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +85,7 @@
         }
     ],
     "wof:id":1243229401,
-    "wof:lastmodified":1536619404,
+    "wof:lastmodified":1564154912,
     "wof:name":"Sveti Rok",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

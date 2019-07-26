@@ -26,6 +26,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Punitovci"
+    ],
+    "name:fra_x_preferred":[
+        "Punitovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Punitovci"
+    ],
+    "name:ita_x_preferred":[
+        "Punitovci"
+    ],
+    "name:nld_x_preferred":[
+        "Punitovci"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Punitovci"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Punitovci"
+    ],
+    "name:slv_x_preferred":[
+        "Punitovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u043d\u0438\u0442\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043d\u0438\u0442\u043e\u0432\u0446\u0456"
+    ],
+    "name:war_x_preferred":[
+        "Punitovci"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1259672693,
-    "wof:lastmodified":1537563284,
+    "wof:lastmodified":1564155092,
     "wof:name":"Punitovci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

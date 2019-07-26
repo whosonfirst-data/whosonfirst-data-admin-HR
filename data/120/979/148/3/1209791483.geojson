@@ -26,6 +26,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Srijemske Laze"
+    ],
+    "name:ceb_x_preferred":[
+        "Srijemske Laze"
+    ],
+    "name:fra_x_preferred":[
+        "Srijemske Laze"
+    ],
+    "name:hrv_x_preferred":[
+        "Srijemske Laze"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0440\u0438\u0458\u0435\u043c\u0441\u043a\u0435 \u041b\u0430\u0437\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Srijemske Laze"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u0440\u0438\u0458\u0435\u043c\u0441\u043a\u0435 \u041b\u0430\u0437\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Srijemske Laze"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0435 \u041b\u0430\u0437\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Srijemske Laze"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0440\u0456\u0454\u043c\u0441\u044c\u043a\u0435 \u041b\u0430\u0437\u0435"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1209791483,
-    "wof:lastmodified":1537563280,
+    "wof:lastmodified":1564154268,
     "wof:name":"Srijemske Laze",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

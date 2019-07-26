@@ -26,6 +26,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Veleniki"
+    ],
+    "name:ceb_x_preferred":[
+        "Veleniki"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0646\u06cc\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Veleniki"
+    ],
+    "name:hrv_x_preferred":[
+        "Veleniki"
+    ],
+    "name:hun_x_preferred":[
+        "Veleniki"
+    ],
+    "name:nld_x_preferred":[
+        "Veleniki"
+    ],
+    "name:slv_x_preferred":[
+        "Veleniki"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u043d\u0438\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Veleniki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u043d\u0438\u043a\u0438"
+    ],
     "name:und_x_variant":[
         "Veleni\u0107i",
         "Velenichi",
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1344057275,
-    "wof:lastmodified":1537625815,
+    "wof:lastmodified":1564153827,
     "wof:name":"Veleniki",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kukavice"
+    ],
+    "name:ceb_x_preferred":[
+        "Kukavice"
+    ],
+    "name:fra_x_preferred":[
+        "Kukavice"
+    ],
+    "name:hrv_x_preferred":[
+        "Kukavice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u043a\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kukavice"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1293171233,
-    "wof:lastmodified":1536745872,
+    "wof:lastmodified":1564154022,
     "wof:name":"Kukavice",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

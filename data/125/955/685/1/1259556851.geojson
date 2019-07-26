@@ -26,7 +26,58 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Su\u0107uraj"
+    ],
+    "name:cat_x_preferred":[
+        "Su\u0107uraj"
+    ],
+    "name:ceb_x_preferred":[
+        "Su\u0107uraj"
+    ],
+    "name:ces_x_preferred":[
+        "Su\u0107uraj"
+    ],
+    "name:deu_x_preferred":[
+        "Su\u0107uraj"
+    ],
+    "name:fra_x_preferred":[
+        "Su\u0107uraj"
+    ],
+    "name:hrv_x_preferred":[
+        "Su\u0107uraj"
+    ],
+    "name:hun_x_preferred":[
+        "Su\u0107uraj"
+    ],
+    "name:ita_x_preferred":[
+        "San Giorgio"
+    ],
+    "name:nld_x_preferred":[
+        "Su\u0107uraj"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Su\u0107uraj"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Su\u0107uraj"
+    ],
+    "name:slv_x_preferred":[
+        "Su\u0107uraj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u045b\u0443\u0440\u0430\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Su\u0107uraj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0447\u0443\u0440\u0430\u0439"
+    ],
     "name:und_x_variant":[
+        "Su\u0107uraj"
+    ],
+    "name:war_x_preferred":[
         "Su\u0107uraj"
     ],
     "src:geom":"geonames",
@@ -51,7 +102,7 @@
         }
     ],
     "wof:id":1259556851,
-    "wof:lastmodified":1537625824,
+    "wof:lastmodified":1564155047,
     "wof:name":"Sucuraj",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

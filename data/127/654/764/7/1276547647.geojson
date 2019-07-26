@@ -27,6 +27,12 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dimini\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Dimini\u0107i"
+    ],
     "name:und_x_variant":[
         "Villa Diminici",
         "San Lorenzo d\u2019Albona",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1276547647,
-    "wof:lastmodified":1537625920,
+    "wof:lastmodified":1564154200,
     "wof:name":"Diminici",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

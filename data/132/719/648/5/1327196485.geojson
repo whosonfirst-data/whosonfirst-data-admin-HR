@@ -27,6 +27,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Murvica"
+    ],
+    "name:hrv_x_preferred":[
+        "Murvica"
+    ],
+    "name:hun_x_preferred":[
+        "Murvica"
+    ],
+    "name:slk_x_preferred":[
+        "Murvica"
+    ],
+    "name:slv_x_preferred":[
+        "Murvica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0443\u0440\u0432\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Murvizza",
         "Murvica"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1327196485,
-    "wof:lastmodified":1537625858,
+    "wof:lastmodified":1564153673,
     "wof:name":"Murvica",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

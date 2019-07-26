@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Buzeta"
+    ],
+    "name:fra_x_preferred":[
+        "Buzeta"
+    ],
+    "name:hrv_x_preferred":[
+        "Buzeta"
+    ],
+    "name:hun_x_preferred":[
+        "Buzeta"
+    ],
+    "name:nld_x_preferred":[
+        "Buzeta"
+    ],
+    "name:slv_x_preferred":[
+        "Buzeta"
+    ],
+    "name:spa_x_preferred":[
+        "Buzeta"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0437\u0435\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0437\u0435\u0442\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1260253421,
-    "wof:lastmodified":1536752611,
+    "wof:lastmodified":1564154440,
     "wof:name":"Buzeta",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

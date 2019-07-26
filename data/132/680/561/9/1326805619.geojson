@@ -27,9 +27,69 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Sestrunj"
+    ],
+    "name:deu_x_preferred":[
+        "Sestrunj"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03c3\u03c4\u03c1\u03bf\u03c5\u03bd\u03b9"
+    ],
+    "name:fra_x_preferred":[
+        "Sestrunj"
+    ],
+    "name:hrv_x_preferred":[
+        "Sestrunj"
+    ],
+    "name:ind_x_preferred":[
+        "Sestrunj"
+    ],
+    "name:ita_x_preferred":[
+        "Sestrugno"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc2a4\ud2b8\ub8ec\uc12c"
+    ],
+    "name:lat_x_preferred":[
+        "Sissa"
+    ],
+    "name:nno_x_preferred":[
+        "Sestrunj"
+    ],
+    "name:nor_x_preferred":[
+        "Sestrunj"
+    ],
+    "name:pol_x_preferred":[
+        "Sestrunj"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0441\u0442\u0440\u0443\u043d\u044c"
+    ],
+    "name:slv_x_preferred":[
+        "Sestrunj"
+    ],
+    "name:spa_x_preferred":[
+        "Sestrunj"
+    ],
+    "name:swe_x_preferred":[
+        "Sestrunj"
+    ],
+    "name:tur_x_preferred":[
+        "Sestrunj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0441\u0442\u0440\u0443\u043d\u044c"
+    ],
     "name:und_x_variant":[
         "Sestrugno",
         "Sestrunj"
+    ],
+    "name:vie_x_preferred":[
+        "Sestrunj"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u65af\u7279\u9b6f\u5c3c\u5cf6"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +114,7 @@
         }
     ],
     "wof:id":1326805619,
-    "wof:lastmodified":1537625834,
+    "wof:lastmodified":1564153557,
     "wof:name":"Sestrunj",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

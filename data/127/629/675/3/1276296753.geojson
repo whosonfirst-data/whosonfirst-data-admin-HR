@@ -27,6 +27,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gustelnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Gustelnica"
+    ],
+    "name:hun_x_preferred":[
+        "Gustelnica"
+    ],
+    "name:nld_x_preferred":[
+        "Gustelnica"
+    ],
+    "name:slv_x_preferred":[
+        "Gustelnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0443\u0441\u0442\u0435\u043b\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0441\u0442\u0435\u043b\u043d\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Gu\u0161telnica",
         "Gustelnica"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1276296753,
-    "wof:lastmodified":1537625896,
+    "wof:lastmodified":1564154094,
     "wof:name":"Gustelnica",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

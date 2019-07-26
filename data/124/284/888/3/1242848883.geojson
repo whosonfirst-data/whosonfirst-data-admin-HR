@@ -25,6 +25,96 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "\u00d3krug"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0440\u0443\u0433\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Okrug"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u043a\u0440\u044a\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "\u00d3krug"
+    ],
+    "name:ces_x_preferred":[
+        "Okruh"
+    ],
+    "name:chv_x_preferred":[
+        "\u0422\u0103\u0440\u0103\u0445"
+    ],
+    "name:deu_x_preferred":[
+        "Okrug"
+    ],
+    "name:eus_x_preferred":[
+        "Okrug"
+    ],
+    "name:fra_x_preferred":[
+        "Okroug"
+    ],
+    "name:frr_x_preferred":[
+        "Okrug"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0915\u094d\u0930\u0941\u0917"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0576\u0584\u0576\u0561\u057e\u0561\u0580 \u0585\u056f\u0580\u0578\u0582\u0563"
+    ],
+    "name:ind_x_preferred":[
+        "Okrug"
+    ],
+    "name:ita_x_preferred":[
+        "Okrug"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30af\u30eb\u30b0"
+    ],
+    "name:lij_x_preferred":[
+        "Okrug"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0419\u044b\u0440\u0432\u0435\u043b"
+    ],
+    "name:nld_x_preferred":[
+        "Okroeg"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0648\u06a9\u0631\u0648\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Okr\u0119g"
+    ],
+    "name:ron_x_preferred":[
+        "Okrug"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0440\u0443\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "\u00d3krug"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043a\u0440\u0443\u0433"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u043a\u0440\u0443\u0433"
+    ],
+    "name:tgl_x_preferred":[
+        "Okrug"
+    ],
+    "name:tur_x_preferred":[
+        "Okrug"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043a\u0440\u0443\u0433"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dd\u10da\u10e5\u10d8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +136,7 @@
         }
     ],
     "wof:id":1242848883,
-    "wof:lastmodified":1536672939,
+    "wof:lastmodified":1564154945,
     "wof:name":"Okrug",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

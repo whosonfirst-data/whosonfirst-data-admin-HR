@@ -26,6 +26,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kijani"
+    ],
+    "name:hrv_x_preferred":[
+        "Kijani"
+    ],
+    "name:hun_x_preferred":[
+        "Kijani"
+    ],
+    "name:pol_x_preferred":[
+        "Kijani"
+    ],
+    "name:slv_x_preferred":[
+        "Kijani"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0458\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u044f\u043d\u0438"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +65,7 @@
         }
     ],
     "wof:id":1209691115,
-    "wof:lastmodified":1536279237,
+    "wof:lastmodified":1564154316,
     "wof:name":"Kijani",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Be\u010dic"
+    ],
+    "name:ceb_x_preferred":[
+        "Be\u010di\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Be\u010dic"
+    ],
+    "name:nld_x_preferred":[
+        "Be\u010dic"
+    ],
+    "name:slv_x_preferred":[
+        "Be\u010dic"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0447\u0438\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Be\u010di\u0107"
     ],
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1259892733,
-    "wof:lastmodified":1537625936,
+    "wof:lastmodified":1564155117,
     "wof:name":"Becic",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

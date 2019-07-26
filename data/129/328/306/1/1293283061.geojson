@@ -27,6 +27,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Li\u010dko Petrovo Selo"
+    ],
+    "name:ceb_x_preferred":[
+        "Li\u010dko Petrovo Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Li\u010dko Petrovo Selo"
+    ],
+    "name:hun_x_preferred":[
+        "Li\u010dko Petrovo Selo"
+    ],
+    "name:pol_x_preferred":[
+        "Li\u010dko Petrovo Selo"
+    ],
+    "name:slv_x_preferred":[
+        "Li\u010dko Petrovo Selo"
+    ],
+    "name:spa_x_preferred":[
+        "Li\u010dko Petrovo Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0447\u043a\u043e \u041f\u0435\u0442\u0440\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Li\u010dko Petrovo Selo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u0446\u044c\u043a\u043e-\u041f\u0435\u0442\u0440\u043e\u0432\u043e-\u0421\u0435\u043b\u043e"
+    ],
     "name:und_x_variant":[
         "Petrovo Selo",
         "Petrovoselo-licko",
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1293283061,
-    "wof:lastmodified":1537625874,
+    "wof:lastmodified":1564154017,
     "wof:name":"Licko Petrovo Selo",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

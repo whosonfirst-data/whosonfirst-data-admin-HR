@@ -26,13 +26,52 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Netreti\u0107"
+    ],
+    "name:cat_x_preferred":[
+        "Netreti\u0107"
+    ],
+    "name:deu_x_preferred":[
+        "Netreti\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Netreti\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Netreti\u0107"
+    ],
+    "name:hun_x_preferred":[
+        "Netreti\u0107"
+    ],
+    "name:ita_x_preferred":[
+        "Netreti\u0107"
+    ],
+    "name:nld_x_preferred":[
+        "Netreti\u0107"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Netreti\u0107"
+    ],
     "name:ron_x_preferred":[
         "Comuna Netreti\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Netreti\u0107"
+    ],
+    "name:spa_x_preferred":[
+        "Netreti\u0107"
     ],
     "name:srp_x_preferred":[
         "\u041d\u0435\u0442\u0440\u0435\u0442\u0438\u045b"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0442\u0440\u0435\u0442\u0438\u0447"
+    ],
     "name:und_x_variant":[
+        "Netreti\u0107"
+    ],
+    "name:war_x_preferred":[
         "Netreti\u0107"
     ],
     "src:geom":"geonames",
@@ -57,7 +96,7 @@
         }
     ],
     "wof:id":1360308125,
-    "wof:lastmodified":1537625948,
+    "wof:lastmodified":1564154649,
     "wof:name":"Netretic",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

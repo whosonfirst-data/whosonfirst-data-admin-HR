@@ -27,6 +27,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Haganj"
+    ],
+    "name:ceb_x_preferred":[
+        "Haganj"
+    ],
+    "name:hrv_x_preferred":[
+        "Haganj"
+    ],
+    "name:hun_x_preferred":[
+        "Haganj"
+    ],
+    "name:nld_x_preferred":[
+        "Haganj"
+    ],
+    "name:slv_x_preferred":[
+        "Haganj"
+    ],
+    "name:spa_x_preferred":[
+        "Haganj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0433\u0430\u045a"
+    ],
+    "name:swe_x_preferred":[
+        "Haganj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0433\u0430\u043d\u044c"
+    ],
     "name:und_x_variant":[
         "Hagani",
         "Hagenj",
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1209376729,
-    "wof:lastmodified":1537625896,
+    "wof:lastmodified":1564154244,
     "wof:name":"Haganj",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

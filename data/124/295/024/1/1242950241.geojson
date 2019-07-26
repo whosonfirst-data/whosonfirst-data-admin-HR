@@ -26,10 +26,52 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vele Srakane"
+    ],
+    "name:hrv_x_preferred":[
+        "Vele Srakane"
+    ],
+    "name:hun_x_preferred":[
+        "Vele Srakane"
+    ],
+    "name:ind_x_preferred":[
+        "Vele Srakane"
+    ],
+    "name:ita_x_preferred":[
+        "Canidole Grande"
+    ],
+    "name:nno_x_preferred":[
+        "Vele Srakane"
+    ],
+    "name:nor_x_preferred":[
+        "Vele Srakane"
+    ],
+    "name:pol_x_preferred":[
+        "Vele Srakane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0435-\u0421\u0440\u0430\u043a\u0430\u043d\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Vele Srakane"
+    ],
+    "name:spa_x_preferred":[
+        "Vele Srakane"
+    ],
+    "name:tur_x_preferred":[
+        "Vele Srakane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0435 \u0421\u0440\u0430\u043a\u0430\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Can\u00eddole Grande",
         "Srakane Vele",
         "Velika Skrakana",
+        "Vele Srakane"
+    ],
+    "name:vie_x_preferred":[
         "Vele Srakane"
     ],
     "src:geom":"geonames",
@@ -55,7 +97,7 @@
         }
     ],
     "wof:id":1242950241,
-    "wof:lastmodified":1537625815,
+    "wof:lastmodified":1564154872,
     "wof:name":"Vele Srakane",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

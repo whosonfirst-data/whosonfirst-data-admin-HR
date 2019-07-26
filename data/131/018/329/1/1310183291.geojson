@@ -27,6 +27,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donja Obrije\u017e"
+    ],
+    "name:ceb_x_preferred":[
+        "Donja Obrije\u017e"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Obrije\u017e"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Obrije\u017e"
+    ],
+    "name:hun_x_preferred":[
+        "Donja Obrije\u017e"
+    ],
+    "name:nld_x_preferred":[
+        "Donja Obrije\u017e"
+    ],
+    "name:slv_x_preferred":[
+        "Donja Obrije\u017e"
+    ],
+    "name:spa_x_preferred":[
+        "Donja Obrije\u017e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u041e\u0431\u0440\u0438\u0458\u0435\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Donja Obrije\u017e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u044f \u041e\u0431\u0440\u0456\u0454\u0436"
+    ],
     "name:und_x_variant":[
         "Donja Obrie\u017e",
         "Donja Obrije\u017e"
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1310183291,
-    "wof:lastmodified":1537625918,
+    "wof:lastmodified":1564154568,
     "wof:name":"Donja Obrijez",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

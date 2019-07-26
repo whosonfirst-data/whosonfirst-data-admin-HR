@@ -26,6 +26,96 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u044e\u0431\u043b\u044f\u043d\u0456\u0446\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:cat_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:ceb_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:ces_x_preferred":[
+        "Lubla\u0148ka"
+    ],
+    "name:cym_x_preferred":[
+        "Afon Ljubljanica"
+    ],
+    "name:deu_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03bf\u03c5\u03bc\u03c0\u03bb\u03b9\u03ac\u03bd\u03b9\u03c4\u03c3\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:fin_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:fra_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:glg_x_preferred":[
+        "R\u00edo Ljubljanica"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d5\u05d1\u05dc\u05d9\u05d0\u05e0\u05d9\u05e6\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:hun_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:ind_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:ita_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30e5\u30d6\u30ea\u30e3\u30cb\u30c4\u30a1\u5ddd"
+    ],
+    "name:lmo_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0409\u0443\u0431\u0459\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:nno_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:nor_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:pol_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0431\u043b\u044f\u043d\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:spa_x_preferred":[
+        "Ljubljanica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0443\u0431\u0459\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044e\u0431\u043b\u044f\u043d\u0438\u0446\u044f"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u5e03\u723e\u96c5\u5c3c\u5bdf\u6cb3"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +138,7 @@
         }
     ],
     "wof:id":1259963231,
-    "wof:lastmodified":1536664350,
+    "wof:lastmodified":1564155029,
     "wof:name":"Ljubljanica",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

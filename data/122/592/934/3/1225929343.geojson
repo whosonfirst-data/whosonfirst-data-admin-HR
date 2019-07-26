@@ -27,6 +27,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jo\u0161an"
+    ],
+    "name:hrv_x_preferred":[
+        "Jo\u0161an"
+    ],
+    "name:hun_x_preferred":[
+        "Jo\u0161an"
+    ],
+    "name:pol_x_preferred":[
+        "Jo\u0161an"
+    ],
+    "name:slv_x_preferred":[
+        "Jo\u0161an"
+    ],
+    "name:spa_x_preferred":[
+        "Jo\u0161an"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u043e\u0448\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0419\u043e\u0448\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Jo\u0161ane",
         "Jo\u0161an"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1225929343,
-    "wof:lastmodified":1537625891,
+    "wof:lastmodified":1564155139,
     "wof:name":"Josan",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

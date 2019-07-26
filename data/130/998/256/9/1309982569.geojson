@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Srima"
+    ],
+    "name:ceb_x_preferred":[
+        "Srima"
+    ],
+    "name:hrv_x_preferred":[
+        "Srima"
+    ],
+    "name:hun_x_preferred":[
+        "Srima"
+    ],
+    "name:slv_x_preferred":[
+        "Srima"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0438\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Srima"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0440\u0438\u043c\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1309982569,
-    "wof:lastmodified":1537563280,
+    "wof:lastmodified":1564154711,
     "wof:name":"Srima",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

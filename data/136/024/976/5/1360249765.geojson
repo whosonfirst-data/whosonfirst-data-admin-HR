@@ -27,6 +27,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Cugovec"
+    ],
+    "name:ceb_x_preferred":[
+        "Cugovec"
+    ],
+    "name:hrv_x_preferred":[
+        "Cugovec"
+    ],
+    "name:hun_x_preferred":[
+        "Cugovec"
+    ],
+    "name:nld_x_preferred":[
+        "Cugovec"
+    ],
+    "name:slv_x_preferred":[
+        "Cugovec"
+    ],
+    "name:spa_x_preferred":[
+        "Cugovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0443\u0433\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Cugovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0443\u0433\u043e\u0432\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Cubovac",
         "Cugovac",
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1360249765,
-    "wof:lastmodified":1537625922,
+    "wof:lastmodified":1564154633,
     "wof:name":"Cugovec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

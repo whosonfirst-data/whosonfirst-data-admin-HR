@@ -26,6 +26,9 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e4\u05d5\u05d1\u05d9\u05e5'"
+    ],
     "name:und_x_variant":[
         "Popovi\u0107",
         "Popovi\u0107i"
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293401651,
-    "wof:lastmodified":1537625844,
+    "wof:lastmodified":1564153935,
     "wof:name":"Popovici",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

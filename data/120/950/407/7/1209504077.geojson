@@ -26,6 +26,9 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Ore\u0161njak"
+    ],
     "name:und_x_variant":[
         "Ore\u0161njak Pustara",
         "Ore\u0161njak"
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209504077,
-    "wof:lastmodified":1537625853,
+    "wof:lastmodified":1564154293,
     "wof:name":"Oresnjak",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

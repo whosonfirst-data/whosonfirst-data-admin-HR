@@ -26,6 +26,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornji Hrastovac"
+    ],
+    "name:ceb_x_preferred":[
+        "Gornji Hrastovac"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Hrastovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Hrastovac"
+    ],
+    "name:hun_x_preferred":[
+        "Gornji Hrastovac"
+    ],
+    "name:nld_x_preferred":[
+        "Gornji Hrastovac"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Hrastovac"
+    ],
+    "name:spa_x_preferred":[
+        "Gornji Hrastovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0425\u0440\u0430\u0441\u0442\u043e\u0432\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Gornji Hrastovac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0456\u0439 \u0425\u0440\u0430\u0441\u0442\u043e\u0432\u0430\u0446\u044c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1343931601,
-    "wof:lastmodified":1537563300,
+    "wof:lastmodified":1564153802,
     "wof:name":"Gornji Hrastovac",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

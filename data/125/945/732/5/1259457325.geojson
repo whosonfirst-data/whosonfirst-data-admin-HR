@@ -26,6 +26,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Izimje"
+    ],
+    "name:hrv_x_preferred":[
+        "Izimje"
+    ],
+    "name:hun_x_preferred":[
+        "Izimje"
+    ],
+    "name:nld_x_preferred":[
+        "Izimje"
+    ],
+    "name:slv_x_preferred":[
+        "Izimje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0437\u0438\u043c\u0458\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0437\u0438\u043c'\u0454"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1259457325,
-    "wof:lastmodified":1536896297,
+    "wof:lastmodified":1564155121,
     "wof:name":"Izimje",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

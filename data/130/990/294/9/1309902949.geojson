@@ -27,6 +27,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kri\u017epolje"
+    ],
+    "name:ceb_x_preferred":[
+        "Kri\u017epolje"
+    ],
+    "name:deu_x_preferred":[
+        "Kri\u017epolje"
+    ],
+    "name:hrv_x_preferred":[
+        "Kri\u017epolje"
+    ],
+    "name:hun_x_preferred":[
+        "Kri\u017epolje"
+    ],
+    "name:slv_x_preferred":[
+        "Kri\u017epolje"
+    ],
+    "name:spa_x_preferred":[
+        "Kri\u017epolje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0438\u0436\u043f\u043e\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kri\u017epolje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u0436\u043f\u043e\u043b\u0454"
+    ],
     "name:und_x_variant":[
         "Kri\u0161polje",
         "Kri\u017epolje"
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1309902949,
-    "wof:lastmodified":1537625879,
+    "wof:lastmodified":1564154721,
     "wof:name":"Krizpolje",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

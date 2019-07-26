@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ka\u0161tel"
+    ],
+    "name:fra_x_preferred":[
+        "Ka\u0161tel"
+    ],
+    "name:hrv_x_preferred":[
+        "Ka\u0161tel"
+    ],
+    "name:hun_x_preferred":[
+        "Ka\u0161tel"
+    ],
+    "name:ita_x_preferred":[
+        "Castelvenere"
+    ],
+    "name:nld_x_preferred":[
+        "Ka\u0161tel"
+    ],
+    "name:slv_x_preferred":[
+        "Ka\u0161tel"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b\u044c"
+    ],
     "name:und_x_variant":[
         "Castelvenere",
         "Castelvenere di Pirano",
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1225845203,
-    "wof:lastmodified":1537625887,
+    "wof:lastmodified":1564155325,
     "wof:name":"Kastel",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

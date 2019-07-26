@@ -27,6 +27,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Rovinjsko Selo"
+    ],
+    "name:ceb_x_preferred":[
+        "Rovinjsko Selo"
+    ],
+    "name:fra_x_preferred":[
+        "Rovinjsko Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Rovinjsko Selo"
+    ],
+    "name:hun_x_preferred":[
+        "Rovinjsko Selo"
+    ],
+    "name:slv_x_preferred":[
+        "Rovinjsko Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0432\u0438\u045a\u0441\u043a\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Rovinjsko Selo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0432\u0438\u043d\u044c\u0441\u044c\u043a\u043e \u0421\u0435\u043b\u043e"
+    ],
     "name:und_x_variant":[
         "Villa di Rovigno",
         "Rovinjsko",
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1260188599,
-    "wof:lastmodified":1537625838,
+    "wof:lastmodified":1564154468,
     "wof:name":"Rovinjsko Selo",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

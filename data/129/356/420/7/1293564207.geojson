@@ -26,8 +26,65 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u043b\u0431\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Silba"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03af\u03bb\u03bc\u03c0\u03b1"
+    ],
+    "name:fin_x_preferred":[
+        "Silba"
+    ],
+    "name:fra_x_preferred":[
+        "Silba"
+    ],
+    "name:hrv_x_preferred":[
+        "Silba"
+    ],
+    "name:ind_x_preferred":[
+        "Silba"
+    ],
+    "name:ita_x_preferred":[
+        "Selve"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e4\ubc14\uc12c"
+    ],
+    "name:nno_x_preferred":[
+        "Silba"
+    ],
+    "name:pol_x_preferred":[
+        "Silba"
+    ],
+    "name:por_x_preferred":[
+        "Silba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043b\u0431\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Silba"
+    ],
+    "name:spa_x_preferred":[
+        "Silba"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0438\u043b\u0431\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Silba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u043b\u0431\u0430"
+    ],
     "name:und_x_variant":[
         "Selve"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u723e\u5df4\u5cf6"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +109,7 @@
         }
     ],
     "wof:id":1293564207,
-    "wof:lastmodified":1537625833,
+    "wof:lastmodified":1564153962,
     "wof:name":"Silba",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

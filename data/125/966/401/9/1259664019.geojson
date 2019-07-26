@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Povile"
+    ],
+    "name:ceb_x_preferred":[
+        "Povile"
+    ],
+    "name:fra_x_preferred":[
+        "Povile"
+    ],
+    "name:hrv_x_preferred":[
+        "Povile"
+    ],
+    "name:hun_x_preferred":[
+        "Povile"
+    ],
+    "name:slv_x_preferred":[
+        "Povile"
+    ],
+    "name:spa_x_preferred":[
+        "Povile"
+    ],
+    "name:swe_x_preferred":[
+        "Povile"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0432\u0438\u043b\u0435"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1259664019,
-    "wof:lastmodified":1537563284,
+    "wof:lastmodified":1564155084,
     "wof:name":"Povile",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

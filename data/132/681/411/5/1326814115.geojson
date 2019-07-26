@@ -27,6 +27,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160umarina"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160umarina"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160umarina"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160umarina"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160umarina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0443\u043c\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0443\u043c\u0430\u0440\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "\u0160umarine",
         "\u0160umarina"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1326814115,
-    "wof:lastmodified":1537625824,
+    "wof:lastmodified":1564153552,
     "wof:name":"Sumarina",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

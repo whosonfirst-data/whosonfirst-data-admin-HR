@@ -26,6 +26,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bisko"
+    ],
+    "name:cat_x_preferred":[
+        "Bisko"
+    ],
+    "name:ceb_x_preferred":[
+        "Bisko"
+    ],
+    "name:hrv_x_preferred":[
+        "Bisko"
+    ],
+    "name:hun_x_preferred":[
+        "Bisko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0441\u043a\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Bisko"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0441\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Bisko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u0441\u044c\u043a\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1226732685,
-    "wof:lastmodified":1537563310,
+    "wof:lastmodified":1564155174,
     "wof:name":"Bisko",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

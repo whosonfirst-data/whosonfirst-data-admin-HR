@@ -26,8 +26,26 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u017dumberak"
+    ],
+    "name:fra_x_preferred":[
+        "\u017dumberak"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017dumberak"
+    ],
     "name:hun_x_preferred":[
         "Zsumberk"
+    ],
+    "name:ita_x_preferred":[
+        "\u017dumberak"
+    ],
+    "name:nld_x_preferred":[
+        "\u017dumberak"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u017dumberak"
     ],
     "name:ron_x_preferred":[
         "Comuna \u017dumberak"
@@ -35,10 +53,19 @@
     "name:rus_x_preferred":[
         "\u0416\u0443\u043c\u0431\u0435\u0440\u0430\u043a"
     ],
+    "name:spa_x_preferred":[
+        "\u017dumberak"
+    ],
     "name:srp_x_preferred":[
         "\u0416\u0443\u043c\u0431\u0435\u0440\u0430\u043a"
     ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0443\u043c\u0431\u0435\u0440\u0430\u043a"
+    ],
     "name:und_x_variant":[
+        "\u017dumberak"
+    ],
+    "name:war_x_preferred":[
         "\u017dumberak"
     ],
     "src:geom":"geonames",
@@ -63,7 +90,7 @@
         }
     ],
     "wof:id":1310170215,
-    "wof:lastmodified":1537625802,
+    "wof:lastmodified":1564154577,
     "wof:name":"Zumberak",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

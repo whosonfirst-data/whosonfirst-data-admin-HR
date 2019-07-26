@@ -26,6 +26,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lupinjak"
+    ],
+    "name:ceb_x_preferred":[
+        "Lupinjak"
+    ],
+    "name:fra_x_preferred":[
+        "Lupinjak"
+    ],
+    "name:hrv_x_preferred":[
+        "Lupinjak"
+    ],
+    "name:hun_x_preferred":[
+        "Lupinjak"
+    ],
+    "name:nld_x_preferred":[
+        "Lupinjak"
+    ],
+    "name:slv_x_preferred":[
+        "Lupinjak"
+    ],
+    "name:spa_x_preferred":[
+        "Lupinjak"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u043f\u0438\u045a\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Lupinjak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043f\u0438\u043d\u044f\u043a"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1310199571,
-    "wof:lastmodified":1537563292,
+    "wof:lastmodified":1564154586,
     "wof:name":"Lupinjak",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

@@ -27,6 +27,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "I\u010di\u0107i"
+    ],
+    "name:ceb_x_preferred":[
+        "I\u010di\u0107i"
+    ],
+    "name:deu_x_preferred":[
+        "I\u010di\u0107i"
+    ],
+    "name:fra_x_preferred":[
+        "I\u010di\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "I\u010di\u0107i"
+    ],
+    "name:hun_x_preferred":[
+        "I\u010di\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "I\u010di\u0107i"
+    ],
+    "name:spa_x_preferred":[
+        "I\u010di\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0447\u0438\u045b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "I\u010di\u0107i"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0447\u0438\u0447\u0456"
+    ],
     "name:und_x_variant":[
         "Ville d\u2019Icici",
         "I\u010di\u0107i"
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1260067295,
-    "wof:lastmodified":1537625894,
+    "wof:lastmodified":1564154463,
     "wof:name":"Icici",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

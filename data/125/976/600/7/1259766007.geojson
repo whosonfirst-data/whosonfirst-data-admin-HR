@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:cat_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:hun_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:ita_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:slv_x_preferred":[
+        "\u010citluk"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0438\u0442\u043b\u0443\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u0442\u043b\u0443\u043a"
+    ],
     "name:und_x_variant":[
         "\u010citluk"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1259766007,
-    "wof:lastmodified":1537625962,
+    "wof:lastmodified":1564155074,
     "wof:name":"Citluk",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

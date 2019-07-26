@@ -25,6 +25,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Horvati"
+    ],
+    "name:ceb_x_preferred":[
+        "Horvati"
+    ],
+    "name:hrv_x_preferred":[
+        "Horvati"
+    ],
+    "name:slv_x_preferred":[
+        "Horvati"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u0432\u0430\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Horvati"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0440\u0432\u0430\u0442\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633229
@@ -43,7 +64,7 @@
         }
     ],
     "wof:id":1209574393,
-    "wof:lastmodified":1537563316,
+    "wof:lastmodified":1564154294,
     "wof:name":"Horvati",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

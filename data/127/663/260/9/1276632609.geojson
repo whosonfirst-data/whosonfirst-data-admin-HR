@@ -26,6 +26,12 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Meja Gaj"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0458\u0430 \u0413\u0430\u0458"
+    ],
     "name:und_x_variant":[
         "Meja",
         "Meja Gaj"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276632609,
-    "wof:lastmodified":1537625863,
+    "wof:lastmodified":1564154181,
     "wof:name":"Meja Gaj",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

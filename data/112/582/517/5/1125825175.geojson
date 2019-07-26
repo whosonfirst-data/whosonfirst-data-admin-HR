@@ -16,6 +16,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Plitvica"
+    ],
+    "name:ceb_x_preferred":[
+        "Plitvica"
+    ],
+    "name:hrv_x_preferred":[
+        "Plitvica"
+    ],
+    "name:slv_x_preferred":[
+        "Plitvica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043b\u0438\u0442\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Plitvica"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Plitvica",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1125825175,
-    "wof:lastmodified":1509394354,
+    "wof:lastmodified":1564154808,
     "wof:name":"Plitvica",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

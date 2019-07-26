@@ -26,14 +26,53 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Cetingrad"
+    ],
+    "name:cat_x_preferred":[
+        "Cetingrad"
+    ],
+    "name:deu_x_preferred":[
+        "Cetingrad"
+    ],
+    "name:fra_x_preferred":[
+        "Cetingrad"
+    ],
+    "name:hrv_x_preferred":[
+        "Cetingrad"
+    ],
+    "name:hun_x_preferred":[
+        "Cetingrad"
+    ],
+    "name:ita_x_preferred":[
+        "Cetingrad"
+    ],
+    "name:nld_x_preferred":[
+        "Cetingrad"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Cetingrad"
+    ],
     "name:ron_x_preferred":[
         "Comuna Cetingrad"
+    ],
+    "name:slv_x_preferred":[
+        "Cetingrad"
+    ],
+    "name:spa_x_preferred":[
+        "Cetingrad"
     ],
     "name:srp_x_preferred":[
         "\u0426\u0435\u0442\u0438\u043d\u0433\u0440\u0430\u0434"
     ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u0442\u0438\u043d\u0433\u0440\u0430\u0434"
+    ],
     "name:und_x_variant":[
         "Cetin",
+        "Cetingrad"
+    ],
+    "name:war_x_preferred":[
         "Cetingrad"
     ],
     "src:geom":"geonames",
@@ -58,7 +97,7 @@
         }
     ],
     "wof:id":1243295683,
-    "wof:lastmodified":1537625924,
+    "wof:lastmodified":1564154980,
     "wof:name":"Cetingrad",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

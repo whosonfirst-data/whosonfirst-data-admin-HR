@@ -26,10 +26,52 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sveti Petar Orehovec"
+    ],
+    "name:fra_x_preferred":[
+        "Sveti Petar Orehovec"
+    ],
+    "name:hrv_x_preferred":[
+        "Sveti Petar Orehovec"
+    ],
+    "name:hun_x_preferred":[
+        "Sveti Petar Orehovec"
+    ],
+    "name:ita_x_preferred":[
+        "Sveti Petar Orehovec"
+    ],
+    "name:nld_x_preferred":[
+        "Sveti Petar Orehovec"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Sveti Petar Orehovec"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Sveti Petar Orehovec"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438-\u041f\u0435\u0442\u0430\u0440-\u041e\u0440\u0435\u0445\u043e\u0432\u0435\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Sveti Petar Orehovec"
+    ],
+    "name:spa_x_preferred":[
+        "Sveti Petar Orehovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u041f\u0435\u0442\u0430\u0440 \u041e\u0440\u0435\u0445\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0456-\u041f\u0435\u0442\u0430\u0440-\u041e\u0440\u0435\u0445\u043e\u0432\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Sveti Petar",
         "Sveti Petar Orehovec",
         "Orehovec"
+    ],
+    "name:war_x_preferred":[
+        "Sveti Petar Orehovec"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +95,7 @@
         }
     ],
     "wof:id":1343453363,
-    "wof:lastmodified":1537625853,
+    "wof:lastmodified":1564153839,
     "wof:name":"Sveti Petar Orehovec",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

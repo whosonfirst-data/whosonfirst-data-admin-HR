@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Novo Selo Palanje\u010dko"
+    ],
+    "name:fra_x_preferred":[
+        "Novo Selo Palanje\u010dko"
+    ],
+    "name:hrv_x_preferred":[
+        "Novo Selo Palanje\u010dko"
+    ],
+    "name:hun_x_preferred":[
+        "Novo Selo Palanje\u010dko"
+    ],
+    "name:nld_x_preferred":[
+        "Novo Selo Palanje\u010dko"
+    ],
+    "name:slv_x_preferred":[
+        "Novo Selo Palanje\u010dko"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e \u041f\u0430\u043b\u0430\u045a\u0435\u0447\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e-\u041f\u0430\u043b\u0430\u043d\u0454\u0446\u044c\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Novo Selo Palanje\u010dko",
         "Novo Selo",
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1209990199,
-    "wof:lastmodified":1537625854,
+    "wof:lastmodified":1564154252,
     "wof:name":"Novo Selo Moscenicko",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

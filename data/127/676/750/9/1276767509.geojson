@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Seli\u0161te Dre\u017eni\u010dko"
+    ],
+    "name:cat_x_preferred":[
+        "Seli\u0161te Dre\u017eni\u010dko"
+    ],
+    "name:hrv_x_preferred":[
+        "Seli\u0161te Dre\u017eni\u010dko"
+    ],
+    "name:hun_x_preferred":[
+        "Seli\u0161te Dre\u017eni\u010dko"
+    ],
+    "name:nld_x_preferred":[
+        "Seli\u0161te Dre\u017eni\u010dko"
+    ],
+    "name:slv_x_preferred":[
+        "Seli\u0161te Dre\u017eni\u010dko"
+    ],
+    "name:spa_x_preferred":[
+        "Seli\u0161te Dre\u017eni\u010dko"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u0448\u0442\u0435 \u0414\u0440\u0435\u0436\u043d\u0438\u0447\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u0449\u0435 \u0414\u0440\u0435\u0436\u043d\u0438\u0446\u044c\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Seli\u0161\u0107e Dre\u017eni\u010dko",
         "Seli\u0161\u0107e",
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1276767509,
-    "wof:lastmodified":1537625835,
+    "wof:lastmodified":1564154143,
     "wof:name":"Seliste",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

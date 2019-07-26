@@ -27,6 +27,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Djedina Rijeka"
+    ],
+    "name:ceb_x_preferred":[
+        "Djedina Rijeka"
+    ],
+    "name:hrv_x_preferred":[
+        "Djedina Rijeka"
+    ],
+    "name:nld_x_preferred":[
+        "Djedina Rijeka"
+    ],
+    "name:slv_x_preferred":[
+        "Djedina Rijeka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0458\u0435\u0434\u0438\u043d\u0430 \u0420\u0438\u0458\u0435\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Djedina Rijeka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0454\u0434\u0438\u043d\u0430 \u0420\u0456\u0454\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Djedika Rijeka",
         "Dijedina Rijeka",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1326808515,
-    "wof:lastmodified":1537625919,
+    "wof:lastmodified":1564153558,
     "wof:name":"Djedina Rijeka",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ploce"
+    ],
+    "name:swe_x_preferred":[
+        "Ploce"
+    ],
     "name:und_x_variant":[
         "Plo\u010da",
         "Plo\u010de"
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226504983,
-    "wof:lastmodified":1537625848,
+    "wof:lastmodified":1564155224,
     "wof:name":"Ploce",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

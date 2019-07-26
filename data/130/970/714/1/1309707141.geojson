@@ -27,6 +27,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornji Hra\u0161\u0107an"
+    ],
+    "name:ceb_x_preferred":[
+        "Gornji Hra\u0161\u0107an"
+    ],
+    "name:epo_x_preferred":[
+        "Gornji Hra\u0161\u0107an"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Hra\u0161\u0107an"
+    ],
+    "name:hun_x_preferred":[
+        "Dr\u00e1vacs\u00e1ny"
+    ],
+    "name:nld_x_preferred":[
+        "Gornji Hra\u0161\u0107an"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Hra\u0161\u0107an"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0425\u0440\u0430\u0448\u045b\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Gornji Hra\u0161\u0107an"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0456\u0439 \u0425\u0440\u0430\u0449\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Hra\u0161\u0107an",
         "Gornji Hra\u0161\u0107an"
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1309707141,
-    "wof:lastmodified":1537625901,
+    "wof:lastmodified":1564154731,
     "wof:name":"Gornji Hrascan",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

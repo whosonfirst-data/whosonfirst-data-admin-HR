@@ -27,6 +27,12 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ruca"
+    ],
+    "name:spa_x_preferred":[
+        "Ruca"
+    ],
     "name:und_x_variant":[
         "Gornja Ru\u010da",
         "Ru\u010da"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243528971,
-    "wof:lastmodified":1537625838,
+    "wof:lastmodified":1564154840,
     "wof:name":"Ruca",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

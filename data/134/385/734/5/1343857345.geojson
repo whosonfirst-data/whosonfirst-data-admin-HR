@@ -26,11 +26,50 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ribnik"
+    ],
+    "name:cat_x_preferred":[
+        "Ribnik"
+    ],
+    "name:deu_x_preferred":[
+        "Ribnik"
+    ],
+    "name:fra_x_preferred":[
+        "Ribnik"
+    ],
+    "name:hrv_x_preferred":[
+        "Ribnik"
+    ],
+    "name:hun_x_preferred":[
+        "Ribnik"
+    ],
+    "name:ita_x_preferred":[
+        "Ribnik"
+    ],
+    "name:nld_x_preferred":[
+        "Ribnik"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Ribnik"
+    ],
     "name:ron_x_preferred":[
         "Comuna Ribnik"
     ],
+    "name:slv_x_preferred":[
+        "Ribnik"
+    ],
+    "name:spa_x_preferred":[
+        "Ribnik"
+    ],
     "name:srp_x_preferred":[
         "\u0420\u0438\u0431\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u0431\u043d\u0438\u043a"
+    ],
+    "name:war_x_preferred":[
+        "Ribnik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +93,7 @@
         }
     ],
     "wof:id":1343857345,
-    "wof:lastmodified":1537625838,
+    "wof:lastmodified":1564153770,
     "wof:name":"Ribnik",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

@@ -27,6 +27,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pavlovec Zabo\u010dki"
+    ],
+    "name:ceb_x_preferred":[
+        "Pavlovec-Zabo\u010dki"
+    ],
+    "name:fra_x_preferred":[
+        "Pavlovec Zabo\u010dki"
+    ],
+    "name:hrv_x_preferred":[
+        "Pavlovec Zabo\u010dki"
+    ],
+    "name:hun_x_preferred":[
+        "Pavlovec Zabo\u010dki"
+    ],
+    "name:nld_x_preferred":[
+        "Pavlovec Zabo\u010dki"
+    ],
+    "name:slv_x_preferred":[
+        "Pavlovec Zabo\u010dki"
+    ],
+    "name:spa_x_preferred":[
+        "Pavlovec Zabo\u010dki"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u043e\u0432\u0435\u0446 \u0417\u0430\u0431\u043e\u0447\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Pavlovec-Zabo\u010dki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u043e\u0432\u0435\u0446\u044c-\u0417\u0430\u0431\u043e\u0446\u044c\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Pavlovec",
         "Pavlovec-Zabo\u010dki"
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1226137147,
-    "wof:lastmodified":1537625944,
+    "wof:lastmodified":1564155246,
     "wof:name":"Pavlovec-Zabocki",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

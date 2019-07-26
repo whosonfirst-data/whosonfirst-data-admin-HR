@@ -26,6 +26,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Slobodna Vlast"
+    ],
+    "name:ceb_x_preferred":[
+        "Slobodna Vlast"
+    ],
+    "name:hrv_x_preferred":[
+        "Slobodna Vlast"
+    ],
+    "name:slv_x_preferred":[
+        "Slobodna Vlast"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u043d\u0430 \u0412\u043b\u0430\u0441\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Slobodna Vlast"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u043d\u0430 \u0412\u043b\u0430\u0441\u0442"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1226326227,
-    "wof:lastmodified":1537563281,
+    "wof:lastmodified":1564155210,
     "wof:name":"Slobodna Vlast",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

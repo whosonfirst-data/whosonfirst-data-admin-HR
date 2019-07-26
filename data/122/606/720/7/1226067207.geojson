@@ -27,6 +27,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Miholec"
+    ],
+    "name:hrv_x_preferred":[
+        "Miholec"
+    ],
+    "name:hun_x_preferred":[
+        "Miholec"
+    ],
+    "name:slv_x_preferred":[
+        "Miholec"
+    ],
+    "name:spa_x_preferred":[
+        "Miholec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0445\u043e\u043b\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0445\u043e\u043b\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Miholjec",
         "Miholec"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1226067207,
-    "wof:lastmodified":1537625862,
+    "wof:lastmodified":1564155297,
     "wof:name":"Miholec",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

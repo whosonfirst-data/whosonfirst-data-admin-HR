@@ -20,6 +20,9 @@
     "name:bos_x_preferred":[
         "Starigrad"
     ],
+    "name:ceb_x_preferred":[
+        "Starigrad"
+    ],
     "name:fra_x_preferred":[
         "Starigrad"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101834351,
-    "wof:lastmodified":1527642934,
+    "wof:lastmodified":1564154698,
     "wof:name":"Starigrad",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

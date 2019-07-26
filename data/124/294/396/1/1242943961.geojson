@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Velika Gradusa"
+    ],
+    "name:fra_x_preferred":[
+        "Velika Gradusa"
+    ],
+    "name:hrv_x_preferred":[
+        "Velika Gradusa"
+    ],
+    "name:hun_x_preferred":[
+        "Velika Gradusa"
+    ],
+    "name:nld_x_preferred":[
+        "Velika Gradusa"
+    ],
+    "name:slv_x_preferred":[
+        "Velika Gradusa"
+    ],
+    "name:spa_x_preferred":[
+        "Velika Gradusa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u0413\u0440\u0430\u0434\u0443\u0441\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u0413\u0440\u0430\u0434\u0443\u0441\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1242943961,
-    "wof:lastmodified":1537031729,
+    "wof:lastmodified":1564154875,
     "wof:name":"Velika Gradusa",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

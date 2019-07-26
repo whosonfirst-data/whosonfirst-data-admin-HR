@@ -27,6 +27,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Biovi\u010dino Selo"
+    ],
+    "name:cat_x_preferred":[
+        "Biovi\u010dino Selo"
+    ],
+    "name:ceb_x_preferred":[
+        "Biovi\u010dino Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Biovi\u010dino Selo"
+    ],
+    "name:hun_x_preferred":[
+        "Biovi\u010dino Selo"
+    ],
+    "name:ita_x_preferred":[
+        "Biovi\u010dino Selo"
+    ],
+    "name:pol_x_preferred":[
+        "Biovi\u010dino Selo"
+    ],
+    "name:slv_x_preferred":[
+        "Biovi\u010dino Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u043e\u0432\u0438\u0447\u0438\u043d\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Biovi\u010dino Selo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043e\u0432\u0438\u0447\u0438\u043d\u043e \u0421\u0435\u043b\u043e"
+    ],
     "name:und_x_variant":[
         "Biov\u010dino Selo",
         "Biovi\u010dino Selo"
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1344233455,
-    "wof:lastmodified":1537625935,
+    "wof:lastmodified":1564153744,
     "wof:name":"Biovicino Selo",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

@@ -26,9 +26,63 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Privlaka"
+    ],
+    "name:ceb_x_preferred":[
+        "Privlaka"
+    ],
+    "name:ces_x_preferred":[
+        "Privlaka"
+    ],
+    "name:deu_x_preferred":[
+        "Privlaka"
+    ],
+    "name:fra_x_preferred":[
+        "Privlaka"
+    ],
+    "name:hrv_x_preferred":[
+        "Privlaka"
+    ],
+    "name:hun_x_preferred":[
+        "Privlaka"
+    ],
+    "name:ita_x_preferred":[
+        "Brevilacqua"
+    ],
+    "name:nld_x_preferred":[
+        "Privlaka"
+    ],
+    "name:nor_x_preferred":[
+        "Privlaka"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Privlaka"
+    ],
+    "name:por_x_preferred":[
+        "Privlaka"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Privlaka"
+    ],
+    "name:slv_x_preferred":[
+        "Privlaka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u0432\u043b\u0430\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Privlaka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u0432\u043b\u0430\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Brevilacqua",
         "Prevlaka",
+        "Privlaka"
+    ],
+    "name:war_x_preferred":[
         "Privlaka"
     ],
     "src:geom":"geonames",
@@ -54,7 +108,7 @@
         }
     ],
     "wof:id":1277142511,
-    "wof:lastmodified":1537625842,
+    "wof:lastmodified":1564154121,
     "wof:name":"Privlaka",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

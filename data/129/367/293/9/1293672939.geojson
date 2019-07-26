@@ -25,6 +25,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kravlje"
+    ],
+    "name:fra_x_preferred":[
+        "Kravlje"
+    ],
+    "name:msa_x_preferred":[
+        "Kravlje"
+    ],
+    "name:por_x_preferred":[
+        "Kravlje"
+    ],
+    "name:slv_x_preferred":[
+        "Kravlje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u0432\u0459\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1293672939,
-    "wof:lastmodified":1537016251,
+    "wof:lastmodified":1564153968,
     "wof:name":"Kravlje",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

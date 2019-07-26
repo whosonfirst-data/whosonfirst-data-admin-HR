@@ -25,6 +25,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mlini"
+    ],
+    "name:ceb_x_preferred":[
+        "Mlini"
+    ],
+    "name:fra_x_preferred":[
+        "Mlini"
+    ],
+    "name:hrv_x_preferred":[
+        "Mlini"
+    ],
+    "name:hun_x_preferred":[
+        "Mlini"
+    ],
+    "name:slv_x_preferred":[
+        "Mlini"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043b\u0438\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Mlini"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043b\u0438\u043d\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1293489447,
-    "wof:lastmodified":1536784722,
+    "wof:lastmodified":1564153921,
     "wof:name":"Mlini",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

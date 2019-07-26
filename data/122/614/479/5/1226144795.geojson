@@ -27,6 +27,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Radov\u010di\u0107i"
+    ],
+    "name:hrv_x_preferred":[
+        "Radov\u010di\u0107i"
+    ],
+    "name:hun_x_preferred":[
+        "Radov\u010di\u0107i"
+    ],
+    "name:slv_x_preferred":[
+        "Radov\u010di\u0107i"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u0432\u0447\u0438\u045b\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0434\u043e\u0432\u0447\u0438\u0447\u0456"
+    ],
     "name:und_x_variant":[
         "Radov\u010di\u0107i",
         "Srednji Radovi\u0107i",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226144795,
-    "wof:lastmodified":1537625841,
+    "wof:lastmodified":1564155241,
     "wof:name":"Srednji Radovcici",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

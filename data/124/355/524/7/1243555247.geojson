@@ -25,6 +25,117 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Opatija"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u043f\u0430\u0442\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Grad Opatija"
+    ],
+    "name:ces_x_preferred":[
+        "Opatija"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06c6\u067e\u0627\u062a\u06cc\u0627"
+    ],
+    "name:dan_x_preferred":[
+        "Opatija"
+    ],
+    "name:deu_x_preferred":[
+        "Opatija"
+    ],
+    "name:epo_x_preferred":[
+        "Opatija"
+    ],
+    "name:est_x_preferred":[
+        "Opatija"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u067e\u0627\u062a\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Opatija"
+    ],
+    "name:fra_x_preferred":[
+        "Opatija"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e4\u05d8\u05d9\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Opatija"
+    ],
+    "name:hun_x_preferred":[
+        "Abb\u00e1zia"
+    ],
+    "name:ind_x_preferred":[
+        "Opatija"
+    ],
+    "name:ita_x_preferred":[
+        "Abbazia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30d1\u30c6\u30a3\u30e4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ud30c\ud2f0\uc57c"
+    ],
+    "name:lat_x_preferred":[
+        "Abbatia"
+    ],
+    "name:nld_x_preferred":[
+        "Opatija"
+    ],
+    "name:pol_x_preferred":[
+        "Opatija"
+    ],
+    "name:por_x_preferred":[
+        "Opatija"
+    ],
+    "name:ron_x_preferred":[
+        "Opatija"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043f\u0430\u0442\u0438\u044f"
+    ],
+    "name:sah_x_preferred":[
+        "\u041e\u043f\u0430\u0442\u0438\u044f"
+    ],
+    "name:slk_x_preferred":[
+        "Opatija"
+    ],
+    "name:slv_x_preferred":[
+        "Opatija"
+    ],
+    "name:spa_x_preferred":[
+        "Opatija"
+    ],
+    "name:sqi_x_preferred":[
+        "Opatija"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0430\u0442\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Opatija"
+    ],
+    "name:tur_x_preferred":[
+        "Opatija"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043f\u0430\u0442\u0456\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Opatija"
+    ],
+    "name:war_x_preferred":[
+        "Opatija"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u5e15\u8482\u4e9e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +157,7 @@
         }
     ],
     "wof:id":1243555247,
-    "wof:lastmodified":1536648402,
+    "wof:lastmodified":1564154844,
     "wof:name":"Opatija",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

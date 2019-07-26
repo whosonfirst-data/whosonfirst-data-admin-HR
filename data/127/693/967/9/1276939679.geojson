@@ -26,6 +26,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Islam Latinski"
+    ],
+    "name:ceb_x_preferred":[
+        "Islam Latinski"
+    ],
+    "name:fra_x_preferred":[
+        "Islam Latinski"
+    ],
+    "name:hrv_x_preferred":[
+        "Islam Latinski"
+    ],
+    "name:hun_x_preferred":[
+        "Islam Latinski"
+    ],
+    "name:pol_x_preferred":[
+        "Islam Latinski"
+    ],
+    "name:slv_x_preferred":[
+        "Islam Latinski"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0441\u043b\u0430\u043c \u041b\u0430\u0442\u0438\u043d\u0441\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Islam Latinski"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0441\u043b\u0430\u043c-\u041b\u0430\u0442\u0438\u043d\u0441\u044c\u043a\u0438\u0439"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1276939679,
-    "wof:lastmodified":1537563298,
+    "wof:lastmodified":1564154109,
     "wof:name":"Islam Latinski",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bolman"
+    ],
+    "name:ceb_x_preferred":[
+        "Bolman"
+    ],
+    "name:epo_x_preferred":[
+        "Bolman"
+    ],
+    "name:hrv_x_preferred":[
+        "Bolman"
+    ],
+    "name:slv_x_preferred":[
+        "Bolman"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u043b\u043c\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Bolman"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043b\u043c\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1309695929,
-    "wof:lastmodified":1537563310,
+    "wof:lastmodified":1564154754,
     "wof:name":"Bolman",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

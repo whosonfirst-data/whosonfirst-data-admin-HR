@@ -27,6 +27,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Valbandon"
+    ],
+    "name:ces_x_preferred":[
+        "Valbandon"
+    ],
+    "name:fra_x_preferred":[
+        "Valbandon"
+    ],
+    "name:hrv_x_preferred":[
+        "Valbandon"
+    ],
+    "name:hun_x_preferred":[
+        "Valbandon"
+    ],
+    "name:pol_x_preferred":[
+        "Valbandon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u0431\u0430\u043d\u0434\u043e\u043d"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1326854463,
-    "wof:lastmodified":1537016018,
+    "wof:lastmodified":1564153629,
     "wof:name":"Valbandon",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

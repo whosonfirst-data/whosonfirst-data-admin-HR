@@ -27,6 +27,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Medinci"
+    ],
+    "name:fra_x_preferred":[
+        "Medinci"
+    ],
+    "name:hrv_x_preferred":[
+        "Medinci"
+    ],
+    "name:hun_x_preferred":[
+        "Medinci"
+    ],
+    "name:nld_x_preferred":[
+        "Medinci"
+    ],
+    "name:slv_x_preferred":[
+        "Medinci"
+    ],
+    "name:spa_x_preferred":[
+        "Medinci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0434\u0438\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0434\u0438\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Medincze",
         "Medinci"
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1259446561,
-    "wof:lastmodified":1537625863,
+    "wof:lastmodified":1564155124,
     "wof:name":"Medinci",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

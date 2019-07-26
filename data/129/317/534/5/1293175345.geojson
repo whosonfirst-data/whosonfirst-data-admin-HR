@@ -26,6 +26,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Medsave"
+    ],
+    "name:hrv_x_preferred":[
+        "Medsave"
+    ],
+    "name:hun_x_preferred":[
+        "Medsave"
+    ],
+    "name:nld_x_preferred":[
+        "Medsave"
+    ],
+    "name:slv_x_preferred":[
+        "Medsave"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0434\u0441\u0430\u0432\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0434\u0441\u0430\u0432\u0435"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1293175345,
-    "wof:lastmodified":1536740065,
+    "wof:lastmodified":1564154018,
     "wof:name":"Medsave",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

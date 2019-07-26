@@ -26,6 +26,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lukovdol"
+    ],
+    "name:ceb_x_preferred":[
+        "Lukovdol"
+    ],
+    "name:fra_x_preferred":[
+        "Lukovdol"
+    ],
+    "name:hrv_x_preferred":[
+        "Lukovdol"
+    ],
+    "name:hun_x_preferred":[
+        "Lukovdol"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0443\u043a\u043e\u0432\u0434\u043e\u043b"
+    ],
+    "name:slv_x_preferred":[
+        "Lukovdol"
+    ],
+    "name:spa_x_preferred":[
+        "Lukovdol"
+    ],
+    "name:swe_x_preferred":[
+        "Lukovdol"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043a\u043e\u0432\u0434\u043e\u043b"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1226031977,
-    "wof:lastmodified":1537563292,
+    "wof:lastmodified":1564155206,
     "wof:name":"Lukovdol",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -27,6 +27,42 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Veliko Vukovje"
+    ],
+    "name:ceb_x_preferred":[
+        "Veliko Vukovje"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u0648 \u0648\u0648\u06a9\u0648\u062c"
+    ],
+    "name:fra_x_preferred":[
+        "Veliko Vukovje"
+    ],
+    "name:hrv_x_preferred":[
+        "Veliko Vukovje"
+    ],
+    "name:hun_x_preferred":[
+        "Veliko Vukovje"
+    ],
+    "name:nld_x_preferred":[
+        "Veliko Vukovje"
+    ],
+    "name:slv_x_preferred":[
+        "Veliko Vukovje"
+    ],
+    "name:spa_x_preferred":[
+        "Veliko Vukovje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e \u0412\u0443\u043a\u043e\u0432\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Veliko Vukovje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e-\u0412\u0443\u043a\u043e\u0432\u0454"
+    ],
     "name:und_x_variant":[
         "Vukovje",
         "Veliko Vukovje"
@@ -54,7 +90,7 @@
         }
     ],
     "wof:id":1360202371,
-    "wof:lastmodified":1537625811,
+    "wof:lastmodified":1564154657,
     "wof:name":"Veliko Vukovje",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

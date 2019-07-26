@@ -25,6 +25,9 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Veliko Nabr\u0111e"
+    ],
     "name:und_x_variant":[
         "Veliko Nabr\u0111e"
     ],
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1260074095,
-    "wof:lastmodified":1537625811,
+    "wof:lastmodified":1564154443,
     "wof:name":"Veliko Nabrde",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slk_x_preferred":[
+        "Martinec"
+    ],
     "name:und_x_variant":[
         "Sveti Martin",
         "Martinec"
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209437045,
-    "wof:lastmodified":1537625864,
+    "wof:lastmodified":1564154363,
     "wof:name":"Martinec",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

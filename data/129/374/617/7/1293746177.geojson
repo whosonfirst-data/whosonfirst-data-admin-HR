@@ -27,6 +27,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Smil\u010di\u0107"
+    ],
+    "name:ceb_x_preferred":[
+        "Smil\u010di\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Smil\u010di\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Smil\u010di\u0107"
+    ],
+    "name:hun_x_preferred":[
+        "Smil\u010di\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Smil\u010di\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043c\u0438\u043b\u0447\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Smil\u010di\u0107"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043c\u0438\u043b\u0447\u0438\u0447"
+    ],
     "name:und_x_variant":[
         "Smilj\u010de",
         "Smilcich",
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1293746177,
-    "wof:lastmodified":1537625830,
+    "wof:lastmodified":1564154015,
     "wof:name":"Smilcic",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

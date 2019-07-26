@@ -25,6 +25,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gubavica"
+    ],
+    "name:ceb_x_preferred":[
+        "Gubavica"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03bc\u03c0\u03ac\u03b2\u03b9\u03c4\u03c3\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Gubavica"
+    ],
+    "name:hrv_x_preferred":[
+        "Gubavica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0443\u0431\u0430\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gubavica"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1343840717,
-    "wof:lastmodified":1536695331,
+    "wof:lastmodified":1564153757,
     "wof:name":"Gubavica",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

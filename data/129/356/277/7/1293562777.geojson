@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Staza"
+    ],
+    "name:fra_x_preferred":[
+        "Staza"
+    ],
+    "name:hrv_x_preferred":[
+        "Staza"
+    ],
+    "name:hun_x_preferred":[
+        "Szt\u00e1za"
+    ],
+    "name:nld_x_preferred":[
+        "Staza"
+    ],
+    "name:slv_x_preferred":[
+        "Staza"
+    ],
+    "name:spa_x_preferred":[
+        "Staza"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0437\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0437\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1293562777,
-    "wof:lastmodified":1536678637,
+    "wof:lastmodified":1564153961,
     "wof:name":"Staza",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

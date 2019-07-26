@@ -27,6 +27,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zaton Obrova\u010dki"
+    ],
+    "name:fra_x_preferred":[
+        "Zaton Obrova\u010dki"
+    ],
+    "name:hrv_x_preferred":[
+        "Zaton Obrova\u010dki"
+    ],
+    "name:hun_x_preferred":[
+        "Zaton Obrova\u010dki"
+    ],
+    "name:slv_x_preferred":[
+        "Zaton Obrova\u010dki"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0442\u043e\u043d \u041e\u0431\u0440\u043e\u0432\u0430\u0447\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0442\u043e\u043d-\u041e\u0431\u0440\u043e\u0432\u0430\u0446\u044c\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Zaton",
         "Zaton Obrova\u010dki"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1226505009,
-    "wof:lastmodified":1537625804,
+    "wof:lastmodified":1564155224,
     "wof:name":"Zaton Obrovacki",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

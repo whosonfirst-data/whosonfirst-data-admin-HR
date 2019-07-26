@@ -27,6 +27,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornji Grahovljani"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Grahovljani"
+    ],
+    "name:hun_x_preferred":[
+        "Gornji Grahovljani"
+    ],
+    "name:nld_x_preferred":[
+        "Gornji Grahovljani"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Grahovljani"
+    ],
+    "name:spa_x_preferred":[
+        "Gornji Grahovljani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0413\u0440\u0430\u0445\u043e\u0432\u0459\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0456 \u0413\u0440\u0430\u0445\u043e\u0432\u043b\u044f\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "Grahovljani",
         "Gornji Grahovljani"
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1209094255,
-    "wof:lastmodified":1537625901,
+    "wof:lastmodified":1564154211,
     "wof:name":"Gornji Grahovljani",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

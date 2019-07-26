@@ -26,6 +26,12 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Desinec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u0441\u0438\u043d\u0435\u0446"
+    ],
     "name:und_x_variant":[
         "Desinec",
         "Donji Desinec"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1226711747,
-    "wof:lastmodified":1537625915,
+    "wof:lastmodified":1564155260,
     "wof:name":"Donji Desinec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

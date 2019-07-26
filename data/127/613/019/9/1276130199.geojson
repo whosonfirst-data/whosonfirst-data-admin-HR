@@ -27,6 +27,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sustjepan"
+    ],
+    "name:hrv_x_preferred":[
+        "Sustjepan"
+    ],
+    "name:hun_x_preferred":[
+        "Sustjepan"
+    ],
+    "name:slv_x_preferred":[
+        "Sustjepan"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u0441\u0442\u0458\u0435\u043f\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0441\u0442\u044c\u0454\u043f\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Santo Stefano",
         "Selo Sustjepan",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276130199,
-    "wof:lastmodified":1537625823,
+    "wof:lastmodified":1564154139,
     "wof:name":"Sustjepan",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

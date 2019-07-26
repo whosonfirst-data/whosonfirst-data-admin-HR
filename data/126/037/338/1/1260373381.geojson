@@ -26,6 +26,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vu\u010devica"
+    ],
+    "name:ceb_x_preferred":[
+        "Vu\u010devica"
+    ],
+    "name:fra_x_preferred":[
+        "Vu\u010devica"
+    ],
+    "name:hun_x_preferred":[
+        "Vu\u010devica"
+    ],
+    "name:slv_x_preferred":[
+        "Vu\u010devica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0443\u0447\u0435\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vu\u010devica"
+    ],
     "name:und_x_variant":[
         "Vu\u010devica"
     ],
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1260373381,
-    "wof:lastmodified":1537625807,
+    "wof:lastmodified":1564154454,
     "wof:name":"Vucevica",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

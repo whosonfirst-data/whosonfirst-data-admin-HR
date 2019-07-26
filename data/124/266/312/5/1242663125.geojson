@@ -26,6 +26,12 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Vrbani"
+    ],
+    "name:nld_x_preferred":[
+        "Vrbani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1242663125,
-    "wof:lastmodified":1536941278,
+    "wof:lastmodified":1564154868,
     "wof:name":"Vrbani",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

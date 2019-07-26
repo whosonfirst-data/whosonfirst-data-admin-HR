@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Starigrad"
+    ],
+    "name:deu_x_preferred":[
+        "Starigrad"
+    ],
+    "name:hrv_x_preferred":[
+        "Starigrad"
+    ],
+    "name:hun_x_preferred":[
+        "Starigrad"
+    ],
+    "name:nld_x_preferred":[
+        "Starigrad"
+    ],
+    "name:slv_x_preferred":[
+        "Starigrad"
+    ],
+    "name:spa_x_preferred":[
+        "Starigrad"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u0433\u0440\u0430\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u0433\u0440\u0430\u0434"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1327219415,
-    "wof:lastmodified":1537563279,
+    "wof:lastmodified":1564153675,
     "wof:name":"Starigrad",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

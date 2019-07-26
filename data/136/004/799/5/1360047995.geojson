@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kakma"
+    ],
+    "name:ceb_x_preferred":[
+        "Kakma"
+    ],
+    "name:fra_x_preferred":[
+        "Kakma"
+    ],
+    "name:hrv_x_preferred":[
+        "Kakma"
+    ],
+    "name:hun_x_preferred":[
+        "Kakma"
+    ],
+    "name:slv_x_preferred":[
+        "Kakma"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043a\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kakma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043a\u043c\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1360047995,
-    "wof:lastmodified":1537563297,
+    "wof:lastmodified":1564154682,
     "wof:name":"Kakma",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

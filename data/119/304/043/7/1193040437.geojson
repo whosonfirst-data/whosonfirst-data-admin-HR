@@ -26,6 +26,18 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u044a\u0440\u0431\u0430\u0432\u0430"
+    ],
+    "name:fra_x_preferred":[
+        "Corbavie"
+    ],
+    "name:hrv_x_preferred":[
+        "Krbava"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0431\u0430\u0432\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1193040437,
-    "wof:lastmodified":1536376493,
+    "wof:lastmodified":1564154404,
     "wof:name":"Krbava",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

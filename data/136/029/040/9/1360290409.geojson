@@ -25,6 +25,60 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Funtana"
+    ],
+    "name:ceb_x_preferred":[
+        "Funtana"
+    ],
+    "name:ces_x_preferred":[
+        "Funtana"
+    ],
+    "name:deu_x_preferred":[
+        "Funtana"
+    ],
+    "name:fra_x_preferred":[
+        "Funtana"
+    ],
+    "name:hrv_x_preferred":[
+        "Funtana"
+    ],
+    "name:hun_x_preferred":[
+        "Funtana"
+    ],
+    "name:ita_x_preferred":[
+        "Fontane"
+    ],
+    "name:lat_x_preferred":[
+        "Fontana Georgiana"
+    ],
+    "name:nld_x_preferred":[
+        "Funtana"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Funtana"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Funtana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0443\u043d\u0442\u0430\u043d\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Funtana"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0443\u043d\u0442\u0430\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Funtana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0443\u043d\u0442\u0430\u043d\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Funtana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +100,7 @@
         }
     ],
     "wof:id":1360290409,
-    "wof:lastmodified":1536649101,
+    "wof:lastmodified":1564154668,
     "wof:name":"Funtana",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

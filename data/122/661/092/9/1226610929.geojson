@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bila Vlaka"
+    ],
+    "name:ceb_x_preferred":[
+        "Bila Vlaka"
+    ],
+    "name:fra_x_preferred":[
+        "Bila Vlaka"
+    ],
+    "name:hrv_x_preferred":[
+        "Bila Vlaka"
+    ],
+    "name:hun_x_preferred":[
+        "Bila Vlaka"
+    ],
+    "name:slv_x_preferred":[
+        "Bila Vlaka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u043b\u0430 \u0412\u043b\u0430\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bila Vlaka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u043b\u0430 \u0412\u043b\u0430\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1226610929,
-    "wof:lastmodified":1537563313,
+    "wof:lastmodified":1564155220,
     "wof:name":"Bila Vlaka",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

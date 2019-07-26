@@ -26,6 +26,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Du\u017eica"
+    ],
+    "name:ceb_x_preferred":[
+        "Du\u017eica"
+    ],
+    "name:fra_x_preferred":[
+        "Du\u017eica"
+    ],
+    "name:hrv_x_preferred":[
+        "Du\u017eica"
+    ],
+    "name:hun_x_preferred":[
+        "Du\u017eica"
+    ],
+    "name:nld_x_preferred":[
+        "Du\u017eica"
+    ],
+    "name:slv_x_preferred":[
+        "Du\u017eica"
+    ],
+    "name:spa_x_preferred":[
+        "Du\u017eica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0436\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Du\u017eica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0436\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Du\u017eica"
     ],
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1277156051,
-    "wof:lastmodified":1537625909,
+    "wof:lastmodified":1564154126,
     "wof:name":"Duzica",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

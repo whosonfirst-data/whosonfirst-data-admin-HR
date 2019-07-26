@@ -19,6 +19,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Lonjica"
+    ],
+    "name:ceb_x_preferred":[
+        "Lonjica"
+    ],
+    "name:hrv_x_preferred":[
+        "Lonjica"
+    ],
+    "name:hun_x_preferred":[
+        "Lonjica"
+    ],
+    "name:slv_x_preferred":[
+        "Lonjica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u045a\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lonjica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043d\u0456\u0446\u044f"
+    ],
     "name:unk_x_variant":[
         "Lojnica"
     ],
@@ -70,7 +94,7 @@
         }
     ],
     "wof:id":1125910117,
-    "wof:lastmodified":1509400081,
+    "wof:lastmodified":1564154803,
     "wof:name":"Lonjica",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

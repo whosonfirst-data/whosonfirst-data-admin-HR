@@ -26,6 +26,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Komolac"
+    ],
+    "name:hrv_x_preferred":[
+        "Komolac"
+    ],
+    "name:hun_x_preferred":[
+        "Komolac"
+    ],
+    "name:slv_x_preferred":[
+        "Komolac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043c\u043e\u043b\u0430\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u043e\u043b\u0430\u0446\u044c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1209523085,
-    "wof:lastmodified":1537563296,
+    "wof:lastmodified":1564154248,
     "wof:name":"Komolac",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

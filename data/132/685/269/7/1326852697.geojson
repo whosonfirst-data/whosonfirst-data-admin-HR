@@ -26,6 +26,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dropkovec"
+    ],
+    "name:hrv_x_preferred":[
+        "Dropkovec"
+    ],
+    "name:hun_x_preferred":[
+        "Dropkovec"
+    ],
+    "name:slv_x_preferred":[
+        "Dropkovec"
+    ],
+    "name:spa_x_preferred":[
+        "Dropkovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u043e\u043f\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u043e\u043f\u043a\u043e\u0432\u0435\u0446\u044c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1326852697,
-    "wof:lastmodified":1537563319,
+    "wof:lastmodified":1564153629,
     "wof:name":"Dropkovec",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

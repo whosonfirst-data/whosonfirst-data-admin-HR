@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Cetina"
+    ],
+    "name:cat_x_preferred":[
+        "Cetina"
+    ],
+    "name:fra_x_preferred":[
+        "Cetina"
+    ],
+    "name:hrv_x_preferred":[
+        "Cetina"
+    ],
+    "name:hun_x_preferred":[
+        "Cetina"
+    ],
+    "name:ita_x_preferred":[
+        "Cetina"
+    ],
+    "name:slv_x_preferred":[
+        "Cetina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u0442\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u0442\u0438\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1226828357,
-    "wof:lastmodified":1537563307,
+    "wof:lastmodified":1564155256,
     "wof:name":"Cetina",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

@@ -27,6 +27,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Uljanik"
+    ],
+    "name:epo_x_preferred":[
+        "Uljanik"
+    ],
+    "name:hrv_x_preferred":[
+        "Brodogradili\u0161te Uljanik"
+    ],
+    "name:hun_x_preferred":[
+        "Uljanik"
+    ],
+    "name:rus_x_preferred":[
+        "Uljanik"
+    ],
+    "name:slv_x_preferred":[
+        "Ladjedelnica Uljanik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u043e\u0434\u043e\u0433\u0440\u0430\u0434\u0438\u043b\u0438\u0448\u0442\u0435 \u0423\u0459\u0430\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Uljanik"
+    ],
     "name:und_x_variant":[
         "Ullinjak",
         "Ullinyak",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1293310441,
-    "wof:lastmodified":1537625816,
+    "wof:lastmodified":1564153889,
     "wof:name":"Uljanik",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

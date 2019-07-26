@@ -26,6 +26,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kalu\u0111erovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Kalu\u0111erovac"
+    ],
+    "name:hun_x_preferred":[
+        "Kalu\u0111erovac"
+    ],
+    "name:slv_x_preferred":[
+        "Kalu\u0111erovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043b\u0443\u0452\u0435\u0440\u043e\u0432\u0430\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0443\u0434\u0436\u0435\u0440\u043e\u0432\u0430\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Kaludjerovac",
         "Kalu\u0111erovac"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1344242517,
-    "wof:lastmodified":1537625889,
+    "wof:lastmodified":1564153738,
     "wof:name":"Kalugerovac",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dubranec"
+    ],
+    "name:hrv_x_preferred":[
+        "Dubranec"
+    ],
+    "name:hun_x_preferred":[
+        "Dubranec"
+    ],
+    "name:slv_x_preferred":[
+        "Dubranec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0430\u043d\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0430\u043d\u0435\u0446\u044c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1192980289,
-    "wof:lastmodified":1537563303,
+    "wof:lastmodified":1564154412,
     "wof:name":"Dubranec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

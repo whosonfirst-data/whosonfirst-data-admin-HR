@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hodilje"
+    ],
+    "name:ceb_x_preferred":[
+        "Hodilje"
+    ],
+    "name:ces_x_preferred":[
+        "Hodilje"
+    ],
+    "name:hrv_x_preferred":[
+        "Hodilje"
+    ],
+    "name:hun_x_preferred":[
+        "Hodilje"
+    ],
+    "name:slv_x_preferred":[
+        "Hodilje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0434\u0438\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Hodilje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0434\u0438\u043b\u0454"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1242789181,
-    "wof:lastmodified":1537563299,
+    "wof:lastmodified":1564154956,
     "wof:name":"Hodilje",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

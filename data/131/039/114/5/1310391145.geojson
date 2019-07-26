@@ -25,6 +25,12 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bukovci"
+    ],
+    "name:fra_x_preferred":[
+        "Bukovci"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1310391145,
-    "wof:lastmodified":1537078825,
+    "wof:lastmodified":1564154556,
     "wof:name":"Bukovci",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

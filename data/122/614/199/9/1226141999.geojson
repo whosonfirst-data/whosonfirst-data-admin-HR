@@ -27,6 +27,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pribanjci"
+    ],
+    "name:cat_x_preferred":[
+        "Pribanjci"
+    ],
+    "name:hrv_x_preferred":[
+        "Pribanjci"
+    ],
+    "name:hun_x_preferred":[
+        "Pribanjci"
+    ],
+    "name:nld_x_preferred":[
+        "Pribanjci"
+    ],
+    "name:slv_x_preferred":[
+        "Pribanjci"
+    ],
+    "name:spa_x_preferred":[
+        "Pribanjci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u0431\u0430\u045a\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u0431\u0430\u043d\u044c\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Pribanci",
         "Pribanjci"
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1226141999,
-    "wof:lastmodified":1537625843,
+    "wof:lastmodified":1564155243,
     "wof:name":"Pribanjci",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

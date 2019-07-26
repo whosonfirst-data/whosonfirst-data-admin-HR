@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Sudovec"
+    ],
+    "name:hrv_x_preferred":[
+        "Sudovec"
+    ],
+    "name:hun_x_preferred":[
+        "Sudovec"
+    ],
+    "name:nld_x_preferred":[
+        "Sudovec"
+    ],
+    "name:slv_x_preferred":[
+        "Sudovec"
+    ],
+    "name:spa_x_preferred":[
+        "Sudovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u0434\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0434\u043e\u0432\u0435\u0446\u044c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1309975739,
-    "wof:lastmodified":1537563278,
+    "wof:lastmodified":1564154719,
     "wof:name":"Sudovec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

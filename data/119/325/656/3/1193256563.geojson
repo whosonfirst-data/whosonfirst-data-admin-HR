@@ -26,6 +26,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Frkljevci"
+    ],
+    "name:ceb_x_preferred":[
+        "Frkljevci"
+    ],
+    "name:deu_x_preferred":[
+        "Frkljevci"
+    ],
+    "name:hrv_x_preferred":[
+        "Frkljevci"
+    ],
+    "name:nld_x_preferred":[
+        "Frkljevci"
+    ],
+    "name:slv_x_preferred":[
+        "Frkljevci"
+    ],
+    "name:spa_x_preferred":[
+        "Frkljevci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0440\u043a\u0459\u0435\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Frkljevci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u043a\u043b\u0454\u0432\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1193256563,
-    "wof:lastmodified":1537563317,
+    "wof:lastmodified":1564154400,
     "wof:name":"Frkljevci",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

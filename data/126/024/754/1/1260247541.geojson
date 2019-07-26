@@ -26,6 +26,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Islam Gr\u010dki"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u0441\u043b\u0430\u043c \u0413\u0440\u044a\u0447\u043a\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Islam Gr\u010dki"
+    ],
+    "name:fra_x_preferred":[
+        "Islam Gr\u010dki"
+    ],
+    "name:hrv_x_preferred":[
+        "Islam Gr\u010dki"
+    ],
+    "name:hun_x_preferred":[
+        "Islam Gr\u010dki"
+    ],
+    "name:ita_x_preferred":[
+        "Islam Gr\u010dki"
+    ],
+    "name:slv_x_preferred":[
+        "Islam Gr\u010dki"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0441\u043b\u0430\u043c \u0413\u0440\u0447\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Islam Gr\u010dki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0441\u043b\u0430\u043c \u0413\u0440\u0446\u044c\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Islam Gr\u010dki"
     ],
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1260247541,
-    "wof:lastmodified":1537625893,
+    "wof:lastmodified":1564154428,
     "wof:name":"Islam Grcki",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

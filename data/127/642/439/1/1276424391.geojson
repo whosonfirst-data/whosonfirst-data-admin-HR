@@ -26,6 +26,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Novo Seli\u0161te"
+    ],
+    "name:ceb_x_preferred":[
+        "Novo Seli\u0161te"
+    ],
+    "name:fra_x_preferred":[
+        "Novo Seli\u0161te"
+    ],
+    "name:hrv_x_preferred":[
+        "Novo Seli\u0161te"
+    ],
+    "name:hun_x_preferred":[
+        "Novo Seli\u0161te"
+    ],
+    "name:slv_x_preferred":[
+        "Novo Seli\u0161te"
+    ],
+    "name:spa_x_preferred":[
+        "Novo Seli\u0161te"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Novo Seli\u0161te"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u0438\u0448\u0435"
+    ],
     "name:und_x_variant":[
         "Novo Seli\u0161te"
     ],
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1276424391,
-    "wof:lastmodified":1537625965,
+    "wof:lastmodified":1564154071,
     "wof:name":"Novo Seliste",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",
