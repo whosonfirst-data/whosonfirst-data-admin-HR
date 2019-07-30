@@ -26,6 +26,9 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Kabalna"
+    ],
     "name:und_x_variant":[
         "Kobalno",
         "Kabalna"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260266815,
-    "wof:lastmodified":1537625890,
+    "wof:lastmodified":1564154480,
     "wof:name":"Kabalna",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

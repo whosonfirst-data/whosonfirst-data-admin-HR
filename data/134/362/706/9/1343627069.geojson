@@ -25,6 +25,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u041d\u0438\u043a\u043e\u043b\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Sveti Nikola"
+    ],
+    "name:fra_x_preferred":[
+        "Sveti Nikola"
+    ],
+    "name:hrv_x_preferred":[
+        "Sveti Nikola"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u041d\u0438\u043a\u043e\u043b\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Sveti Nikola"
+    ],
+    "name:slv_x_preferred":[
+        "Sveti Nikola"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u041d\u0438\u043a\u043e\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sveti Nikola"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1343627069,
-    "wof:lastmodified":1537002537,
+    "wof:lastmodified":1564153698,
     "wof:name":"Sveti Nikola",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

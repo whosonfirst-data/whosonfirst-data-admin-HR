@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Makov Hrib"
+    ],
+    "name:fra_x_preferred":[
+        "Makov Hrib"
+    ],
+    "name:hrv_x_preferred":[
+        "Makov Hrib"
+    ],
+    "name:hun_x_preferred":[
+        "Makov Hrib"
+    ],
+    "name:slv_x_preferred":[
+        "Makov Hrib"
+    ],
+    "name:spa_x_preferred":[
+        "Makov Hrib"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u0432 \u0425\u0440\u0438\u0431"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u0432 \u0413\u0440\u0438\u0431"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1293377091,
-    "wof:lastmodified":1537563316,
+    "wof:lastmodified":1564153894,
     "wof:name":"Makov Hrib",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

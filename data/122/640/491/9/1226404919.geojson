@@ -25,6 +25,66 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043b\u0430\u0442"
+    ],
+    "name:deu_x_preferred":[
+        "Molat"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03bb\u03b1\u03c4"
+    ],
+    "name:fra_x_preferred":[
+        "Molat"
+    ],
+    "name:hrv_x_preferred":[
+        "Molat"
+    ],
+    "name:ind_x_preferred":[
+        "Molat"
+    ],
+    "name:ita_x_preferred":[
+        "Melada"
+    ],
+    "name:kor_x_preferred":[
+        "\ubab0\ub77c\ud2b8\uc12c"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u043b\u0430\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Molat"
+    ],
+    "name:nno_x_preferred":[
+        "Molat"
+    ],
+    "name:pol_x_preferred":[
+        "Molat"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u0430\u0442"
+    ],
+    "name:slv_x_preferred":[
+        "Molat"
+    ],
+    "name:spa_x_preferred":[
+        "Molat"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043b\u0430\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Molat"
+    ],
+    "name:tur_x_preferred":[
+        "Molat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043b\u0430\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u62c9\u7279\u5cf6"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +108,7 @@
         }
     ],
     "wof:id":1226404919,
-    "wof:lastmodified":1537563315,
+    "wof:lastmodified":1564155263,
     "wof:name":"Molat",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

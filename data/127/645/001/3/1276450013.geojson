@@ -26,6 +26,15 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Brna"
+    ],
+    "name:hun_x_preferred":[
+        "Brna"
+    ],
+    "name:slv_x_preferred":[
+        "Brna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276450013,
-    "wof:lastmodified":1537563309,
+    "wof:lastmodified":1564154069,
     "wof:name":"Brna",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

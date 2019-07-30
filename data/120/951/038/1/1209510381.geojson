@@ -26,6 +26,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Maj\u0161ke Me\u0111e"
+    ],
+    "name:epo_x_preferred":[
+        "Maj\u0161ke Me\u0111e"
+    ],
+    "name:hrv_x_preferred":[
+        "Maj\u0161ke Me\u0111e"
+    ],
+    "name:slv_x_preferred":[
+        "Maj\u0161ke Me\u0111e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0458\u0448\u043a\u0435 \u041c\u0435\u0452\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0439\u0441\u044c\u043a\u0435 \u041c\u0435\u0434\u0436\u0435"
+    ],
     "name:und_x_variant":[
         "\u0160tiljanovi\u0107evo",
         "Maji\u0161ke Meate",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1209510381,
-    "wof:lastmodified":1537625869,
+    "wof:lastmodified":1564154318,
     "wof:name":"Majske Mege",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

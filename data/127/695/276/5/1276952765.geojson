@@ -26,6 +26,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Velika Rakovica"
+    ],
+    "name:hrv_x_preferred":[
+        "Velika Rakovica"
+    ],
+    "name:hun_x_preferred":[
+        "Velika Rakovica"
+    ],
+    "name:slv_x_preferred":[
+        "Velika Rakovica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u0420\u0430\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430 \u0420\u0430\u043a\u043e\u0432\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1276952765,
-    "wof:lastmodified":1536944198,
+    "wof:lastmodified":1564154118,
     "wof:name":"Velika Rakovica",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

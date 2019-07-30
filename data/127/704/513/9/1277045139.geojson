@@ -27,6 +27,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Leskovec Topli\u010dki"
+    ],
+    "name:hrv_x_preferred":[
+        "Leskovec Topli\u010dki"
+    ],
+    "name:hun_x_preferred":[
+        "Leskovec Topli\u010dki"
+    ],
+    "name:slv_x_preferred":[
+        "Leskovec Topli\u010dki"
+    ],
+    "name:spa_x_preferred":[
+        "Leskovec Topli\u010dki"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0441\u043a\u043e\u0432\u0435\u0446 \u0422\u043e\u043f\u043b\u0438\u0447\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0441\u043a\u043e\u0432\u0435\u0446\u044c-\u0422\u043e\u043f\u043b\u0438\u0446\u044c\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Topli\u010dki Leskovec",
         "Leskovec",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1277045139,
-    "wof:lastmodified":1537625875,
+    "wof:lastmodified":1564154135,
     "wof:name":"Leskovec Toplicki",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

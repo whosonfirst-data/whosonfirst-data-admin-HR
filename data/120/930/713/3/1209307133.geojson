@@ -27,6 +27,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Cirkvena"
+    ],
+    "name:hrv_x_preferred":[
+        "Cirkvena"
+    ],
+    "name:hun_x_preferred":[
+        "Cirkvena"
+    ],
+    "name:slv_x_preferred":[
+        "Cirkvena"
+    ],
+    "name:spa_x_preferred":[
+        "Cirkvena"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0438\u0440\u043a\u0432\u0435\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0438\u0440\u043a\u0432\u0435\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Crkvena",
         "Cirkvena"
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1209307133,
-    "wof:lastmodified":1537625924,
+    "wof:lastmodified":1564154239,
     "wof:name":"Cirkvena",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

@@ -27,6 +27,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mundanije"
+    ],
+    "name:ceb_x_preferred":[
+        "Mundanije"
+    ],
+    "name:fra_x_preferred":[
+        "Mundanije"
+    ],
+    "name:hrv_x_preferred":[
+        "Mundanije"
+    ],
+    "name:hun_x_preferred":[
+        "Mundanije"
+    ],
+    "name:nld_x_preferred":[
+        "Mundanije"
+    ],
+    "name:slv_x_preferred":[
+        "Mundanije"
+    ],
+    "name:spa_x_preferred":[
+        "Mundanije"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0443\u043d\u0434\u0430\u043d\u0438\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mundanije"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0434\u0430\u043d\u0456\u0454"
+    ],
     "name:und_x_variant":[
         "Mundanija",
         "Mundanije"
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1309986391,
-    "wof:lastmodified":1537625859,
+    "wof:lastmodified":1564154713,
     "wof:name":"Mundanije",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

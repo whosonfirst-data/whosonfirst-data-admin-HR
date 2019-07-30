@@ -25,6 +25,117 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0644 \u0641\u064a\u0644\u064a\u0628\u064a\u062a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u0431\u0456\u0442"
+    ],
+    "name:bos_x_preferred":[
+        "Velebit"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u0431\u0438\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Velebit Planina"
+    ],
+    "name:ces_x_preferred":[
+        "Velebit"
+    ],
+    "name:deu_x_preferred":[
+        "Velebit"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03ad\u03bb\u03b5\u03bc\u03c0\u03b9\u03c4"
+    ],
+    "name:epo_x_preferred":[
+        "Velebit"
+    ],
+    "name:eus_x_preferred":[
+        "Velebit"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0628\u06cc\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Velebit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05dc\u05d1\u05d9\u05d8"
+    ],
+    "name:hrv_x_preferred":[
+        "Velebit"
+    ],
+    "name:hun_x_preferred":[
+        "Velebit"
+    ],
+    "name:ita_x_preferred":[
+        "Alpi Bebie"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a7\u30ec\u30d3\u30c8\u5c71\u8108"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10da\u10d4\u10d1\u10d8\u10e2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca8\ub808\ube44\ud2b8\uc0b0\ub9e5"
+    ],
+    "name:lit_x_preferred":[
+        "Velebitas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u0431\u0438\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Velebit"
+    ],
+    "name:nno_x_preferred":[
+        "Velebit"
+    ],
+    "name:nor_x_preferred":[
+        "Velebit"
+    ],
+    "name:pol_x_preferred":[
+        "Welebit"
+    ],
+    "name:por_x_preferred":[
+        "Velebit"
+    ],
+    "name:ron_x_preferred":[
+        "Mun\u021bii Velebit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u0431\u0438\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Velebit"
+    ],
+    "name:slv_x_preferred":[
+        "Velebit"
+    ],
+    "name:spa_x_preferred":[
+        "Velebit"
+    ],
+    "name:sqi_x_preferred":[
+        "Velebiti"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u0431\u0438\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Velebit"
+    ],
+    "name:tur_x_preferred":[
+        "Velebit"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u0431\u0438\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u840a\u6bd4\u7279\u5c71\u8108"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +157,7 @@
         }
     ],
     "wof:id":1327496581,
-    "wof:lastmodified":1537082808,
+    "wof:lastmodified":1564153597,
     "wof:name":"Velebit",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

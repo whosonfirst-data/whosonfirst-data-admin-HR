@@ -26,6 +26,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gabonjin"
+    ],
+    "name:fra_x_preferred":[
+        "Gabonjin"
+    ],
+    "name:hrv_x_preferred":[
+        "Gabonjin"
+    ],
+    "name:hun_x_preferred":[
+        "Gabonjin"
+    ],
+    "name:slv_x_preferred":[
+        "Gabonjin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0431\u043e\u043d\u0456\u043d"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1326710455,
-    "wof:lastmodified":1537563302,
+    "wof:lastmodified":1564153633,
     "wof:name":"Gabonjin",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

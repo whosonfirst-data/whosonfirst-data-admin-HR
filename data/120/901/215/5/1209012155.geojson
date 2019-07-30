@@ -26,6 +26,21 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zoro"
+    ],
+    "name:fin_x_preferred":[
+        "Zoro"
+    ],
+    "name:ita_x_preferred":[
+        "Zoro"
+    ],
+    "name:swe_x_preferred":[
+        "Zoro"
+    ],
+    "name:tgl_x_preferred":[
+        "Zoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633229
@@ -43,7 +58,7 @@
         }
     ],
     "wof:id":1209012155,
-    "wof:lastmodified":1536300411,
+    "wof:lastmodified":1564154234,
     "wof:name":"Zoro",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zalesina"
+    ],
+    "name:fra_x_preferred":[
+        "Zalesina"
+    ],
+    "name:hrv_x_preferred":[
+        "Zalesina"
+    ],
+    "name:hun_x_preferred":[
+        "Zalesina"
+    ],
+    "name:oci_x_preferred":[
+        "Zalesina"
+    ],
+    "name:slv_x_preferred":[
+        "Zalesina"
+    ],
+    "name:spa_x_preferred":[
+        "Zalesina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043b\u0435\u0441\u0438\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1344034897,
-    "wof:lastmodified":1537563273,
+    "wof:lastmodified":1564153833,
     "wof:name":"Zalesina",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

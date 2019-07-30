@@ -27,6 +27,15 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lipice"
+    ],
+    "name:hrv_x_preferred":[
+        "Lipice"
+    ],
+    "name:slk_x_preferred":[
+        "Lipice"
+    ],
     "name:und_x_variant":[
         "Lipica",
         "Lipice"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1326627431,
-    "wof:lastmodified":1537625873,
+    "wof:lastmodified":1564153656,
     "wof:name":"Lipice",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

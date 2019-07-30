@@ -26,6 +26,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Veliko Korenovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u0648 \u06a9\u0631\u0646\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Veliko Korenovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Veliko Korenovo"
+    ],
+    "name:hun_x_preferred":[
+        "Veliko Korenovo"
+    ],
+    "name:nld_x_preferred":[
+        "Veliko Korenovo"
+    ],
+    "name:slv_x_preferred":[
+        "Veliko Korenovo"
+    ],
+    "name:spa_x_preferred":[
+        "Veliko Korenovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e \u041a\u043e\u0440\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e-\u041a\u043e\u0440\u0435\u043d\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1259894181,
-    "wof:lastmodified":1537563275,
+    "wof:lastmodified":1564155117,
     "wof:name":"Veliko Korenovo",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

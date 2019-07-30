@@ -27,6 +27,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gornji Hru\u0161evec"
+    ],
+    "name:ceb_x_preferred":[
+        "Gornji Hru\u0161evec"
+    ],
+    "name:hrv_x_preferred":[
+        "Gornji Hru\u0161evec"
+    ],
+    "name:hun_x_preferred":[
+        "Gornji Hru\u0161evec"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Hru\u0161evec"
+    ],
+    "name:spa_x_preferred":[
+        "Gornji Hru\u0161evec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0425\u0440\u0443\u0448\u0435\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Gornji Hru\u0161evec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0456\u0439 \u0425\u0440\u0443\u0448\u0435\u0432\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Gornji Hru\u0161evac",
         "Gornji Hru\u0161evec"
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1343922767,
-    "wof:lastmodified":1537625901,
+    "wof:lastmodified":1564153787,
     "wof:name":"Gornji Hrusevec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

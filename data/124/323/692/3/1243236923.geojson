@@ -25,6 +25,75 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Krka"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u044a\u0440\u043a\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Krka"
+    ],
+    "name:ceb_x_preferred":[
+        "Krka"
+    ],
+    "name:ces_x_preferred":[
+        "Krka"
+    ],
+    "name:dan_x_preferred":[
+        "Krka"
+    ],
+    "name:deu_x_preferred":[
+        "Krka"
+    ],
+    "name:fra_x_preferred":[
+        "Krka"
+    ],
+    "name:glg_x_preferred":[
+        "R\u00edo Krka"
+    ],
+    "name:hrv_x_preferred":[
+        "Krka"
+    ],
+    "name:hun_x_preferred":[
+        "Krka"
+    ],
+    "name:ita_x_preferred":[
+        "Krka"
+    ],
+    "name:lav_x_preferred":[
+        "Krka"
+    ],
+    "name:lit_x_preferred":[
+        "Krka"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0440\u043a\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Krka"
+    ],
+    "name:nno_x_preferred":[
+        "Krka"
+    ],
+    "name:pol_x_preferred":[
+        "Krka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u043a\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Krka"
+    ],
+    "name:slv_x_preferred":[
+        "Krka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Krka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +115,7 @@
         }
     ],
     "wof:id":1243236923,
-    "wof:lastmodified":1536607906,
+    "wof:lastmodified":1564154896,
     "wof:name":"Krka",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

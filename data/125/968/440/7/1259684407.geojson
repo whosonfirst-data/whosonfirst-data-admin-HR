@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Momjan"
+    ],
+    "name:fra_x_preferred":[
+        "Momjan"
+    ],
+    "name:hrv_x_preferred":[
+        "Momjan"
+    ],
+    "name:hun_x_preferred":[
+        "Momjan"
+    ],
+    "name:ita_x_preferred":[
+        "Momiano"
+    ],
+    "name:nld_x_preferred":[
+        "Momjan"
+    ],
+    "name:slv_x_preferred":[
+        "Momjan"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043c\u0458\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043c'\u044f\u043d"
+    ],
     "name:und_x_variant":[
         "Momiano",
         "Mumjan",
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1259684407,
-    "wof:lastmodified":1537625860,
+    "wof:lastmodified":1564155079,
     "wof:name":"Momjan",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

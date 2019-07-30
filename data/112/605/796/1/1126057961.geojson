@@ -19,6 +19,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Kova\u010di\u0107"
+    ],
+    "name:ces_x_preferred":[
+        "Kova\u010di\u010d"
+    ],
+    "name:deu_x_preferred":[
+        "Kova\u010di\u010d"
+    ],
+    "name:fra_x_preferred":[
+        "Kova\u010di\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Kova\u010di\u0107"
+    ],
+    "name:hun_x_preferred":[
+        "Kova\u010di\u0107"
+    ],
+    "name:ita_x_preferred":[
+        "Kova\u010di\u0107"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u0447\u0438\u0447"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u0447\u0438\u045b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u0447\u0438\u0447"
+    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +97,7 @@
         }
     ],
     "wof:id":1126057961,
-    "wof:lastmodified":1509409753,
+    "wof:lastmodified":1564154788,
     "wof:name":"Kova\u010di\u0107",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

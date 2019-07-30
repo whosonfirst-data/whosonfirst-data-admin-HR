@@ -25,6 +25,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vidonje"
+    ],
+    "name:hrv_x_preferred":[
+        "Vidonje"
+    ],
+    "name:hun_x_preferred":[
+        "Vidonje"
+    ],
+    "name:slv_x_preferred":[
+        "Vidonje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0434\u043e\u045a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0434\u043e\u043d\u0454"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1343470335,
-    "wof:lastmodified":1536732082,
+    "wof:lastmodified":1564153778,
     "wof:name":"Vidonje",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

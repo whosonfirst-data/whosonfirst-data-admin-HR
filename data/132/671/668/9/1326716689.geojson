@@ -26,6 +26,48 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Civljane"
+    ],
+    "name:cat_x_preferred":[
+        "Civljane"
+    ],
+    "name:ces_x_preferred":[
+        "Civljane"
+    ],
+    "name:fra_x_preferred":[
+        "Civljane"
+    ],
+    "name:hrv_x_preferred":[
+        "Civljane"
+    ],
+    "name:hun_x_preferred":[
+        "Civljane"
+    ],
+    "name:ita_x_preferred":[
+        "Civigliane"
+    ],
+    "name:nld_x_preferred":[
+        "Civljane"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Civljane"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Civljane"
+    ],
+    "name:slv_x_preferred":[
+        "Civljane"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0438\u0432\u0459\u0430\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0438\u0432\u043b\u044f\u043d\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Civljane"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +90,7 @@
         }
     ],
     "wof:id":1326716689,
-    "wof:lastmodified":1537563307,
+    "wof:lastmodified":1564153633,
     "wof:name":"Civljane",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

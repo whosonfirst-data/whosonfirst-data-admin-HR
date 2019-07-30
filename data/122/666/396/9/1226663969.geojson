@@ -26,6 +26,48 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Severin"
+    ],
+    "name:fra_x_preferred":[
+        "Severin"
+    ],
+    "name:hrv_x_preferred":[
+        "Severin"
+    ],
+    "name:hun_x_preferred":[
+        "Severin"
+    ],
+    "name:ita_x_preferred":[
+        "Severin"
+    ],
+    "name:nld_x_preferred":[
+        "Severin"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Severin"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Severin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u0438\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Severin"
+    ],
+    "name:spa_x_preferred":[
+        "Severin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u0438\u043d"
+    ],
+    "name:war_x_preferred":[
+        "Severin"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1226663969,
-    "wof:lastmodified":1537563281,
+    "wof:lastmodified":1564155213,
     "wof:name":"Severin",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

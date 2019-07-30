@@ -26,6 +26,21 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Radunice"
+    ],
+    "name:ceb_x_preferred":[
+        "Radunice"
+    ],
+    "name:fra_x_preferred":[
+        "Radunice"
+    ],
+    "name:hrv_x_preferred":[
+        "Radunice"
+    ],
+    "name:swe_x_preferred":[
+        "Radunice"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1293102721,
-    "wof:lastmodified":1536843677,
+    "wof:lastmodified":1564154024,
     "wof:name":"Radunice",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

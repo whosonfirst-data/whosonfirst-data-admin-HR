@@ -25,8 +25,35 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tvr\u0111a"
+    ],
+    "name:eus_x_preferred":[
+        "Tvr\u0111a"
+    ],
+    "name:hrv_x_preferred":[
+        "Tvr\u0111a"
+    ],
+    "name:ita_x_preferred":[
+        "Tvr\u0111a"
+    ],
+    "name:pol_x_preferred":[
+        "Tvr\u0111a"
+    ],
+    "name:por_x_preferred":[
+        "Tvr\u0111a"
+    ],
+    "name:spa_x_preferred":[
+        "Tvr\u0111a"
+    ],
+    "name:swe_x_preferred":[
+        "Tvr\u0111a"
+    ],
     "name:und_x_variant":[
         "Tvr\u0111a"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u592b\u723e\u9054"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1327127999,
-    "wof:lastmodified":1537625965,
+    "wof:lastmodified":1564153600,
     "wof:name":"Tvrda",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -26,6 +26,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kozarac"
+    ],
+    "name:ceb_x_preferred":[
+        "Kozarac"
+    ],
+    "name:deu_x_preferred":[
+        "Kozarac"
+    ],
+    "name:fra_x_preferred":[
+        "Kozarac"
+    ],
+    "name:hrv_x_preferred":[
+        "Kozarac"
+    ],
+    "name:nld_x_preferred":[
+        "Kozarac"
+    ],
+    "name:pol_x_preferred":[
+        "Kozarac"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u0430\u0440\u0430\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0437\u0430\u0440\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Kozarac"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1309876679,
-    "wof:lastmodified":1536828110,
+    "wof:lastmodified":1564154759,
     "wof:name":"Kozarac",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

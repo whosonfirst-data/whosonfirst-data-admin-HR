@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Varivode"
+    ],
+    "name:ceb_x_preferred":[
+        "Varivode"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u06cc\u0648\u062f"
+    ],
+    "name:hrv_x_preferred":[
+        "Varivode"
+    ],
+    "name:hun_x_preferred":[
+        "Varivode"
+    ],
+    "name:slv_x_preferred":[
+        "Varivode"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0440\u0438\u0432\u043e\u0434\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Varivode"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0440\u0438\u0432\u043e\u0434\u0435"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1260253963,
-    "wof:lastmodified":1537563276,
+    "wof:lastmodified":1564154437,
     "wof:name":"Varivode",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

@@ -27,6 +27,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mo\u0161\u0107enice"
+    ],
+    "name:hrv_x_preferred":[
+        "Mo\u0161\u0107enice"
+    ],
+    "name:hun_x_preferred":[
+        "Mo\u0161\u0107enice"
+    ],
+    "name:slv_x_preferred":[
+        "Mo\u0161\u0107enice"
+    ],
+    "name:spa_x_preferred":[
+        "Mo\u0161\u0107enice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0448\u045b\u0435\u043d\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0449\u0435\u043d\u0438\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Moschenice",
         "Moschiena",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1226319757,
-    "wof:lastmodified":1537625860,
+    "wof:lastmodified":1564155317,
     "wof:name":"Moscenice",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

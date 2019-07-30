@@ -27,6 +27,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ivanec Bistranski"
+    ],
+    "name:hrv_x_preferred":[
+        "Ivanec Bistranski"
+    ],
+    "name:hun_x_preferred":[
+        "Ivanec Bistranski"
+    ],
+    "name:nld_x_preferred":[
+        "Ivanec Bistranski"
+    ],
+    "name:slv_x_preferred":[
+        "Ivanec Bistranski"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u0435\u0446 \u0411\u0438\u0441\u0442\u0440\u0430\u043d\u0441\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0432\u0430\u043d\u0435\u0446\u044c-\u0411\u0438\u0441\u0442\u0440\u0430\u043d\u0441\u044c\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Bistranski Ivanec",
         "Ivanec Gornji",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1309970849,
-    "wof:lastmodified":1537625893,
+    "wof:lastmodified":1564154717,
     "wof:name":"Ivanec Bistranski",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

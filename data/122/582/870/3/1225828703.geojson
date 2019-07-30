@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Utolica"
+    ],
+    "name:fra_x_preferred":[
+        "Utolica"
+    ],
+    "name:hrv_x_preferred":[
+        "Utolica"
+    ],
+    "name:hun_x_preferred":[
+        "Utolica"
+    ],
+    "name:nld_x_preferred":[
+        "Utolica"
+    ],
+    "name:slv_x_preferred":[
+        "Utolica"
+    ],
+    "name:spa_x_preferred":[
+        "Utolica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0442\u043e\u043b\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0442\u043e\u043b\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1225828703,
-    "wof:lastmodified":1537563276,
+    "wof:lastmodified":1564155322,
     "wof:name":"Utolica",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

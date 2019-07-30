@@ -26,6 +26,21 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Paulin Dvor"
+    ],
+    "name:hrv_x_preferred":[
+        "Paulin Dvor"
+    ],
+    "name:slv_x_preferred":[
+        "Paulin Dvor"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0443\u043b\u0438\u043d \u0414\u0432\u043e\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0443\u043b\u0438\u043d \u0414\u0432\u043e\u0440"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1293378887,
-    "wof:lastmodified":1537563317,
+    "wof:lastmodified":1564153895,
     "wof:name":"Paulin Dvor",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

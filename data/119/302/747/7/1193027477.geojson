@@ -26,6 +26,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lozica"
+    ],
+    "name:deu_x_preferred":[
+        "Lozica"
+    ],
+    "name:hrv_x_preferred":[
+        "Lozica"
+    ],
+    "name:hun_x_preferred":[
+        "Lozica"
+    ],
+    "name:slv_x_preferred":[
+        "Lozica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0437\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0437\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1193027477,
-    "wof:lastmodified":1537563319,
+    "wof:lastmodified":1564154406,
     "wof:name":"Lozica",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

@@ -26,6 +26,48 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Veliki Bukovec"
+    ],
+    "name:fra_x_preferred":[
+        "Veliki Bukovec"
+    ],
+    "name:hrv_x_preferred":[
+        "Veliki Bukovec"
+    ],
+    "name:hun_x_preferred":[
+        "Buk\u00f3cszentp\u00e9ter"
+    ],
+    "name:ita_x_preferred":[
+        "Veliki Bukovec"
+    ],
+    "name:nld_x_preferred":[
+        "Veliki Bukovec"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Veliki Bukovec"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Veliki Bukovec"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438-\u0411\u0443\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Veliki Bukovec"
+    ],
+    "name:spa_x_preferred":[
+        "Veliki Bukovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438 \u0411\u0443\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0411\u0443\u043a\u043e\u0432\u0435\u0446\u044c"
+    ],
+    "name:war_x_preferred":[
+        "Veliki Bukovec"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +90,7 @@
         }
     ],
     "wof:id":1226312543,
-    "wof:lastmodified":1537563275,
+    "wof:lastmodified":1564155316,
     "wof:name":"Veliki Bukovec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

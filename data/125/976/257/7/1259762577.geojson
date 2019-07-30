@@ -26,6 +26,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Bobodol"
+    ],
+    "name:cat_x_preferred":[
+        "Bobodol"
+    ],
+    "name:hrv_x_preferred":[
+        "Bobodol"
+    ],
+    "name:hun_x_preferred":[
+        "Bobodol"
+    ],
+    "name:slv_x_preferred":[
+        "Bobodol"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0431\u043e\u0434\u043e\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0431\u043e\u0434\u043e\u043b"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1259762577,
-    "wof:lastmodified":1537563310,
+    "wof:lastmodified":1564155072,
     "wof:name":"Bobodol",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

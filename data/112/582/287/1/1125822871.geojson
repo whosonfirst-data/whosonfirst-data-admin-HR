@@ -19,6 +19,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Trema"
+    ],
+    "name:ceb_x_preferred":[
+        "Trema"
+    ],
+    "name:deu_x_preferred":[
+        "Trema"
+    ],
+    "name:fra_x_preferred":[
+        "Tr\u00e9ma"
+    ],
+    "name:hun_x_preferred":[
+        "Trema"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u043c\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Tr\u00e9ma"
+    ],
+    "name:slv_x_preferred":[
+        "Trema"
+    ],
+    "name:swe_x_preferred":[
+        "Trema"
+    ],
     "name:unk_x_variant":[
         "Sveti Julian"
     ],
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1125822871,
-    "wof:lastmodified":1509394187,
+    "wof:lastmodified":1564154807,
     "wof:name":"Trema",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

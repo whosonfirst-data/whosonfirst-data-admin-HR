@@ -27,6 +27,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kljake"
+    ],
+    "name:hrv_x_preferred":[
+        "Kljake"
+    ],
+    "name:hun_x_preferred":[
+        "Kljake"
+    ],
+    "name:slv_x_preferred":[
+        "Kljake"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0459\u0430\u043a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u044f\u043a\u0435"
+    ],
     "name:und_x_variant":[
         "Klji\u0107i",
         "Kljaci",
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1209695129,
-    "wof:lastmodified":1537625886,
+    "wof:lastmodified":1564154317,
     "wof:name":"Kljake",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

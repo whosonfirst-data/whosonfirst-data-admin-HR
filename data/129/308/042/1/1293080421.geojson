@@ -25,6 +25,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Visova\u00e7 adas\u0131"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u0432\u0430\u0446"
+    ],
+    "name:fin_x_preferred":[
+        "Visovac"
+    ],
+    "name:hrv_x_preferred":[
+        "Visovac"
+    ],
+    "name:ita_x_preferred":[
+        "Vissovaz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u0432\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Visovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u0432\u0430\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0441\u043e\u0432\u0430\u0446"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1293080421,
-    "wof:lastmodified":1537563313,
+    "wof:lastmodified":1564153900,
     "wof:name":"Visovac",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gomirje"
+    ],
+    "name:fra_x_preferred":[
+        "Gomirje"
+    ],
+    "name:hrv_x_preferred":[
+        "Gomirje"
+    ],
+    "name:hun_x_preferred":[
+        "Gomirje"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u043c\u0438\u0440\u0458\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Gomirje"
+    ],
+    "name:spa_x_preferred":[
+        "Gomirje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u043c\u0438\u0440\u0458\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043c\u0456\u0440'\u0454"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1326807537,
-    "wof:lastmodified":1537081295,
+    "wof:lastmodified":1564153556,
     "wof:name":"Gomirje",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

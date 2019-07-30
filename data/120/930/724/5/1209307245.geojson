@@ -25,6 +25,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dedina"
+    ],
+    "name:deu_x_preferred":[
+        "Dedina"
+    ],
+    "name:fra_x_preferred":[
+        "Dedina"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0564\u056b\u0576\u0561"
+    ],
+    "name:msa_x_preferred":[
+        "Dedina"
+    ],
+    "name:por_x_preferred":[
+        "Dedina"
+    ],
+    "name:slv_x_preferred":[
+        "Dedina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u0434\u0438\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -35,7 +59,7 @@
         "gn:id":3202119
     },
     "wof:country":"HR",
-    "wof:geomhash":"7e5e9710408259a6de543ee0e52b4a5a",
+    "wof:geomhash":"9ce66d4395954697a9c54168a0a59ece",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -43,7 +67,7 @@
         }
     ],
     "wof:id":1209307245,
-    "wof:lastmodified":1536291152,
+    "wof:lastmodified":1564154240,
     "wof:name":"Dedina",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",
@@ -55,9 +79,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.500429999999998,
+    16.50043,
     46.10038,
-    16.500429999999998,
+    16.50043,
     46.10038
 ],
   "geometry": {"coordinates":[16.50043,46.10038],"type":"Point"}

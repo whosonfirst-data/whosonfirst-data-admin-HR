@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Paukovec"
+    ],
+    "name:deu_x_preferred":[
+        "Paucovec"
+    ],
+    "name:hrv_x_preferred":[
+        "Paukovec"
+    ],
+    "name:hun_x_preferred":[
+        "Paukovec"
+    ],
+    "name:nld_x_preferred":[
+        "Paukovec"
+    ],
+    "name:slv_x_preferred":[
+        "Paukovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0443\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0443\u043a\u043e\u0432\u0435\u0446\u044c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1360149617,
-    "wof:lastmodified":1537563286,
+    "wof:lastmodified":1564154638,
     "wof:name":"Paukovec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

@@ -27,6 +27,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Samoborec"
+    ],
+    "name:hrv_x_preferred":[
+        "Samoborec"
+    ],
+    "name:hun_x_preferred":[
+        "Samoborec"
+    ],
+    "name:nld_x_preferred":[
+        "Samoborec"
+    ],
+    "name:slv_x_preferred":[
+        "Samoborec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0431\u043e\u0440\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Samborec",
         "Samoborci",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1192983405,
-    "wof:lastmodified":1537625836,
+    "wof:lastmodified":1564154410,
     "wof:name":"Samoborec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

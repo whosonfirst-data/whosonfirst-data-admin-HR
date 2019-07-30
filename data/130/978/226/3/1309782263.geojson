@@ -26,8 +26,53 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Nova Bukovica"
+    ],
+    "name:deu_x_preferred":[
+        "Nova Bukovica"
+    ],
+    "name:fra_x_preferred":[
+        "Nova Bukovica"
+    ],
+    "name:hrv_x_preferred":[
+        "Nova Bukovica"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajbak\u00f3ca"
+    ],
+    "name:ita_x_preferred":[
+        "Nova Bukovica"
+    ],
+    "name:nld_x_preferred":[
+        "Nova Bukovica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Nova Bukovica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Nova Bukovica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430-\u0411\u0443\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ob\u010dina Nova Bukovica"
+    ],
+    "name:spa_x_preferred":[
+        "Nova Bukovica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0411\u0443\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0411\u0443\u043a\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Bukovica",
+        "Nova Bukovica"
+    ],
+    "name:war_x_preferred":[
         "Nova Bukovica"
     ],
     "src:geom":"geonames",
@@ -52,7 +97,7 @@
         }
     ],
     "wof:id":1309782263,
-    "wof:lastmodified":1537625857,
+    "wof:lastmodified":1564154734,
     "wof:name":"Nova Bukovica",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

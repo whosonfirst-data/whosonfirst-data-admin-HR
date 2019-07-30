@@ -25,6 +25,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Graovo"
+    ],
+    "name:fra_x_preferred":[
+        "Graovo"
+    ],
+    "name:msa_x_preferred":[
+        "Graovo"
+    ],
+    "name:por_x_preferred":[
+        "Graovo"
+    ],
+    "name:slv_x_preferred":[
+        "Graovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1293267385,
-    "wof:lastmodified":1536604361,
+    "wof:lastmodified":1564154027,
     "wof:name":"Graovo",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

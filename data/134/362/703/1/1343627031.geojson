@@ -26,6 +26,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brotnja"
+    ],
+    "name:hrv_x_preferred":[
+        "Brotnja"
+    ],
+    "name:hun_x_preferred":[
+        "Brotnja"
+    ],
+    "name:slv_x_preferred":[
+        "Brotnja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u043e\u0442\u045a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u043e\u0442\u043d\u044f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1343627031,
-    "wof:lastmodified":1537563308,
+    "wof:lastmodified":1564153699,
     "wof:name":"Brotnja",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

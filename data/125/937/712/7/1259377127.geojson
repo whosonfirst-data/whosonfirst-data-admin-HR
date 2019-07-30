@@ -27,6 +27,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Harkanovci"
+    ],
+    "name:ceb_x_preferred":[
+        "Harkanovci"
+    ],
+    "name:fra_x_preferred":[
+        "Harkanovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Harkanovci"
+    ],
+    "name:slv_x_preferred":[
+        "Harkanovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0440\u043a\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Harkanovci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0440\u043a\u0430\u043d\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Harkanavci",
         "Harkanovci"
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1259377127,
-    "wof:lastmodified":1537625896,
+    "wof:lastmodified":1564155033,
     "wof:name":"Harkanovci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

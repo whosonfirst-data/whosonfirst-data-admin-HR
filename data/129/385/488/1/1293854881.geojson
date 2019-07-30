@@ -26,9 +26,60 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Topusko"
+    ],
+    "name:cat_x_preferred":[
+        "Topusko"
+    ],
+    "name:deu_x_preferred":[
+        "Topusko"
+    ],
+    "name:epo_x_preferred":[
+        "Topusko"
+    ],
+    "name:fra_x_preferred":[
+        "Topusko"
+    ],
+    "name:hrv_x_preferred":[
+        "Topusko"
+    ],
+    "name:hun_x_preferred":[
+        "Topuszka"
+    ],
+    "name:ita_x_preferred":[
+        "Topusko"
+    ],
+    "name:nld_x_preferred":[
+        "Topusko"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Topusko"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Topusko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043f\u0443\u0441\u043a\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Topusko"
+    ],
+    "name:spa_x_preferred":[
+        "Topusko"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u043f\u0443\u0441\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043f\u0443\u0441\u044c\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Staro Selo Topusko",
         "Topuszk\u00f3",
+        "Topusko"
+    ],
+    "name:war_x_preferred":[
         "Topusko"
     ],
     "src:geom":"geonames",
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1293854881,
-    "wof:lastmodified":1537625819,
+    "wof:lastmodified":1564153928,
     "wof:name":"Topusko",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

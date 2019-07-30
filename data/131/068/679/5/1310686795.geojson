@@ -27,6 +27,21 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vidovac"
+    ],
+    "name:msa_x_preferred":[
+        "Vidovac"
+    ],
+    "name:por_x_preferred":[
+        "Vidovac"
+    ],
+    "name:slv_x_preferred":[
+        "Vidovac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0434\u043e\u0432\u0430\u0446"
+    ],
     "name:und_x_variant":[
         "Cesari\u010dki Vidovec",
         "Vidovac Cesari\u010dki",
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1310686795,
-    "wof:lastmodified":1537625811,
+    "wof:lastmodified":1564154603,
     "wof:name":"Vidovac",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

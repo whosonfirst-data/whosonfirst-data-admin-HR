@@ -26,6 +26,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dubo\u0161evica"
+    ],
+    "name:ceb_x_preferred":[
+        "Dubo\u0161evica"
+    ],
+    "name:epo_x_preferred":[
+        "Dubo\u0161evica"
+    ],
+    "name:fra_x_preferred":[
+        "Dubo\u0161evica"
+    ],
+    "name:hrv_x_preferred":[
+        "Dubo\u0161evica"
+    ],
+    "name:hun_x_preferred":[
+        "D\u00e1lyok"
+    ],
+    "name:nld_x_preferred":[
+        "Dubo\u0161evica"
+    ],
+    "name:slv_x_preferred":[
+        "Dubo\u0161evica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0431\u043e\u0448\u0435\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dubo\u0161evica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0431\u043e\u0448\u0435\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Dubo\u0161evica"
     ],
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1276968243,
-    "wof:lastmodified":1537625910,
+    "wof:lastmodified":1564154191,
     "wof:name":"Dubosevica",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -27,6 +27,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Lukovo \u0160ugarje"
+    ],
+    "name:hrv_x_preferred":[
+        "Lukovo \u0160ugarje"
+    ],
+    "name:hun_x_preferred":[
+        "Lukovo \u0160ugarje"
+    ],
+    "name:nld_x_preferred":[
+        "Lukovo \u0160ugarje"
+    ],
+    "name:slv_x_preferred":[
+        "Lukovo \u0160ugarje"
+    ],
+    "name:spa_x_preferred":[
+        "Lukovo \u0160ugarje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u043a\u043e\u0432\u043e \u0428\u0443\u0433\u0430\u0440\u0458\u0435"
+    ],
     "name:und_x_variant":[
         "Luccovo Sugarie",
         "Lukovo",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1293509549,
-    "wof:lastmodified":1537625870,
+    "wof:lastmodified":1564153949,
     "wof:name":"Lukovo Sugarje",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

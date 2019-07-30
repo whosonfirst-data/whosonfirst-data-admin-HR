@@ -27,6 +27,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Klju\u010d Brdove\u010dki"
+    ],
+    "name:ceb_x_preferred":[
+        "Klju\u010d Brdove\u010dki"
+    ],
+    "name:hrv_x_preferred":[
+        "Klju\u010d Brdove\u010dki"
+    ],
+    "name:hun_x_preferred":[
+        "Klju\u010d Brdove\u010dki"
+    ],
+    "name:nld_x_preferred":[
+        "Klju\u010d Brdove\u010dki"
+    ],
+    "name:slv_x_preferred":[
+        "Klju\u010d Brdove\u010dki"
+    ],
+    "name:spa_x_preferred":[
+        "Klju\u010d Brdove\u010dki"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0459\u0443\u0447 \u0411\u0440\u0434\u043e\u0432\u0435\u0447\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Klju\u010d Brdove\u010dki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u044e\u0447-\u0411\u0440\u0434\u043e\u0432\u0435\u0446\u044c\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Brdove\u010dki Klju\u010d",
         "Klju\u010d",
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1209071075,
-    "wof:lastmodified":1537625886,
+    "wof:lastmodified":1564154223,
     "wof:name":"Kljuc Brdovecki",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

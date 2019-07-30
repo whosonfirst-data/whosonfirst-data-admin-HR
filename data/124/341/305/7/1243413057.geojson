@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Hra\u0161\u0107e Turopoljsko"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u0627\u0633\u06a9\u0647 \u062a\u0648\u0631\u0648\u067e\u0648\u0633\u06a9\u0648"
+    ],
+    "name:hrv_x_preferred":[
+        "Hra\u0161\u0107e Turopoljsko"
+    ],
+    "name:nld_x_preferred":[
+        "Hra\u0161\u0107e Turopoljsko"
+    ],
+    "name:pol_x_preferred":[
+        "Hra\u0161\u0107e Turopoljsko"
+    ],
+    "name:slv_x_preferred":[
+        "Hra\u0161\u0107e Turopoljsko"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0430\u0448\u045b\u0435 \u0422\u0443\u0440\u043e\u043f\u043e\u0459\u0441\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0440\u0430\u0449\u0435-\u0422\u0443\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u044c\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Turopoljsko Hra\u0161\u0107e",
         "Hra\u0161\u0107e",
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1243413057,
-    "wof:lastmodified":1537625895,
+    "wof:lastmodified":1564154890,
     "wof:name":"Hrasce Turopoljsko",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

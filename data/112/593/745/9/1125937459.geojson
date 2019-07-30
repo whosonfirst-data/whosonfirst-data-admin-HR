@@ -19,6 +19,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Trnjani"
+    ],
+    "name:ceb_x_preferred":[
+        "Trnjani"
+    ],
+    "name:fra_x_preferred":[
+        "Trnjani"
+    ],
+    "name:hrv_x_preferred":[
+        "Trnjani"
+    ],
+    "name:slv_x_preferred":[
+        "Trnjani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u045a\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Trnjani"
+    ],
     "name:unk_x_variant":[
         "Trjani"
     ],
@@ -68,7 +89,7 @@
         }
     ],
     "wof:id":1125937459,
-    "wof:lastmodified":1509401859,
+    "wof:lastmodified":1564154780,
     "wof:name":"Trnjani",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

@@ -26,6 +26,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Oklaj"
+    ],
+    "name:cat_x_preferred":[
+        "Oklaj"
+    ],
+    "name:ceb_x_preferred":[
+        "Oklaj"
+    ],
+    "name:hrv_x_preferred":[
+        "Oklaj"
+    ],
+    "name:hun_x_preferred":[
+        "Oklaj"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u043b\u0430\u0439"
+    ],
+    "name:slv_x_preferred":[
+        "Oklaj"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043a\u043b\u0430\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Oklaj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043a\u043b\u0430\u0439"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1343437429,
-    "wof:lastmodified":1537563287,
+    "wof:lastmodified":1564153867,
     "wof:name":"Oklaj",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

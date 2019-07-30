@@ -27,6 +27,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donja Budi\u010dina"
+    ],
+    "name:ceb_x_preferred":[
+        "Donja Budi\u010dina"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Budi\u010dina"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Budi\u010dina"
+    ],
+    "name:hun_x_preferred":[
+        "Donja Budi\u010dina"
+    ],
+    "name:slv_x_preferred":[
+        "Donja Budi\u010dina"
+    ],
+    "name:spa_x_preferred":[
+        "Donja Budi\u010dina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u0411\u0443\u0434\u0438\u0447\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Donja Budi\u010dina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u044f \u0411\u0443\u0434\u0438\u0447\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Budi\u010dina Donja",
         "Donja Budi\u010dina"
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1293867425,
-    "wof:lastmodified":1537625918,
+    "wof:lastmodified":1564154038,
     "wof:name":"Donja Budicina",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

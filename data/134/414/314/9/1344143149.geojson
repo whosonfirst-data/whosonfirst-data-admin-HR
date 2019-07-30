@@ -26,6 +26,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Smrdelje"
+    ],
+    "name:hrv_x_preferred":[
+        "Smrdelje"
+    ],
+    "name:hun_x_preferred":[
+        "Smrdelje"
+    ],
+    "name:slv_x_preferred":[
+        "Smrdelje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043c\u0440\u0434\u0435\u0459\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043c\u0440\u0434\u0435\u043b\u0454"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1344143149,
-    "wof:lastmodified":1537563280,
+    "wof:lastmodified":1564153730,
     "wof:name":"Smrdelje",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

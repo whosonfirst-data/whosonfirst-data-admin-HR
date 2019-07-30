@@ -25,6 +25,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Banovci"
+    ],
+    "name:deu_x_preferred":[
+        "Banovci"
+    ],
+    "name:hrv_x_preferred":[
+        "Banovci"
+    ],
+    "name:nld_x_preferred":[
+        "Banovci"
+    ],
+    "name:slv_x_preferred":[
+        "Banovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Banovci"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1343556811,
-    "wof:lastmodified":1536604164,
+    "wof:lastmodified":1564153713,
     "wof:name":"Banovci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

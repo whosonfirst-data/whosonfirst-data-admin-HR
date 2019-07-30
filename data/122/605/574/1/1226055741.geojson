@@ -25,6 +25,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vukojevci"
+    ],
+    "name:ceb_x_preferred":[
+        "Vukojevci"
+    ],
+    "name:fra_x_preferred":[
+        "Vukojevci"
+    ],
+    "name:hrv_x_preferred":[
+        "Vukojevci"
+    ],
+    "name:slv_x_preferred":[
+        "Vukojevci"
+    ],
+    "name:spa_x_preferred":[
+        "Vukojevci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0458\u0435\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vukojevci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0454\u0432\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1226055741,
-    "wof:lastmodified":1536710998,
+    "wof:lastmodified":1564155195,
     "wof:name":"Vukojevci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

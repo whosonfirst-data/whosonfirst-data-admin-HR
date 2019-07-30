@@ -27,8 +27,56 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Otok \u017dverinac"
+    ],
+    "name:deu_x_preferred":[
+        "Zverinac"
+    ],
+    "name:fra_x_preferred":[
+        "Zverinac"
+    ],
+    "name:hrv_x_preferred":[
+        "Zverinac"
+    ],
+    "name:ind_x_preferred":[
+        "Zverinac"
+    ],
+    "name:ita_x_preferred":[
+        "Sferinaz"
+    ],
+    "name:nno_x_preferred":[
+        "Zverinac"
+    ],
+    "name:nor_x_preferred":[
+        "Zverinac"
+    ],
+    "name:pol_x_preferred":[
+        "Zverinac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0432\u0435\u0440\u0438\u043d\u0430\u0446"
+    ],
+    "name:slv_x_preferred":[
+        "Zverinac"
+    ],
+    "name:spa_x_preferred":[
+        "Zverinac"
+    ],
+    "name:swe_x_preferred":[
+        "Otok \u017dverinac"
+    ],
+    "name:tur_x_preferred":[
+        "Zverinac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0432\u0435\u0440\u0438\u043d\u0430\u0446"
+    ],
     "name:und_x_variant":[
         "Zvirinac",
+        "Zverinac"
+    ],
+    "name:vie_x_preferred":[
         "Zverinac"
     ],
     "src:geom":"geonames",
@@ -53,7 +101,7 @@
         }
     ],
     "wof:id":1327109777,
-    "wof:lastmodified":1537625801,
+    "wof:lastmodified":1564153678,
     "wof:name":"Zverinac",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

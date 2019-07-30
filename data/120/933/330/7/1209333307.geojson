@@ -24,6 +24,45 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Za\u017eablje"
+    ],
+    "name:deu_x_preferred":[
+        "Za\u017eablje"
+    ],
+    "name:fra_x_preferred":[
+        "Za\u017eablje"
+    ],
+    "name:hrv_x_preferred":[
+        "Za\u017eablje"
+    ],
+    "name:hun_x_preferred":[
+        "Za\u017eablje"
+    ],
+    "name:ita_x_preferred":[
+        "Za\u017eablje"
+    ],
+    "name:nld_x_preferred":[
+        "Za\u017eablje"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Za\u017eablje"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Za\u017eablje"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0436\u0430\u0431\u043b\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0436\u0430\u0431\u0459\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0436\u0430\u0431\u043b\u0454"
+    ],
+    "name:war_x_preferred":[
+        "Za\u017eablje"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633229
@@ -42,7 +81,7 @@
         }
     ],
     "wof:id":1209333307,
-    "wof:lastmodified":1537563319,
+    "wof:lastmodified":1564154323,
     "wof:name":"Zazablje",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

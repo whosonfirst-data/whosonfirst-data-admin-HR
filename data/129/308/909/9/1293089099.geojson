@@ -27,6 +27,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kamenski Vu\u010djak"
+    ],
+    "name:hrv_x_preferred":[
+        "Kamenski Vu\u010djak"
+    ],
+    "name:hun_x_preferred":[
+        "Kamenski Vu\u010djak"
+    ],
+    "name:nld_x_preferred":[
+        "Kamenski Vu\u010djak"
+    ],
+    "name:slv_x_preferred":[
+        "Kamenski Vu\u010djak"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0441\u043a\u0438 \u0412\u0443\u0447\u0458\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0412\u0443\u0447\u044f\u043a"
+    ],
     "name:und_x_variant":[
         "Vu\u010djak Kamenski",
         "Kamenski Vu\u010djak"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1293089099,
-    "wof:lastmodified":1537625807,
+    "wof:lastmodified":1564153897,
     "wof:name":"Kamenski Vucjak",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

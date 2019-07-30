@@ -27,6 +27,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vranja"
+    ],
+    "name:fra_x_preferred":[
+        "Vranja"
+    ],
+    "name:hrv_x_preferred":[
+        "Vranja"
+    ],
+    "name:hun_x_preferred":[
+        "Vranja"
+    ],
+    "name:nld_x_preferred":[
+        "Vranja"
+    ],
+    "name:pol_x_preferred":[
+        "Vranja"
+    ],
+    "name:slv_x_preferred":[
+        "Vranja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0430\u045a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0430\u043d\u044f"
+    ],
     "name:und_x_variant":[
         "Aurania",
         "Vranje",
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1242683963,
-    "wof:lastmodified":1537625808,
+    "wof:lastmodified":1564154864,
     "wof:name":"Vranja",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

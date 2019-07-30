@@ -26,6 +26,15 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tice"
+    ],
+    "name:nld_x_preferred":[
+        "Tice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1293360679,
-    "wof:lastmodified":1536969644,
+    "wof:lastmodified":1564153886,
     "wof:name":"Tice",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

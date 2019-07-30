@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17152848.622569,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.675936,45.559276,18.675936,45.559276",
     "geom:latitude":45.559276,
     "geom:longitude":18.675936,
@@ -23,6 +23,30 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:bos_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:ceb_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:ces_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:deu_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:fra_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:nld_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:slv_x_preferred":[
+        "Gornji Grad"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u0440\u045a\u0438 \u0433\u0440\u0430\u0434"
+    ],
     "name:und_x_preferred":[
         "Gornji Grad"
     ],
@@ -83,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932516,
+    "wof:lastmodified":1564153868,
     "wof:name":"Gornji Grad",
     "wof:parent_id":101751779,
     "wof:placetype":"neighbourhood",

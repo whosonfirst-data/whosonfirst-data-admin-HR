@@ -25,6 +25,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kozara"
+    ],
+    "name:ces_x_preferred":[
+        "Kozara"
+    ],
+    "name:deu_x_preferred":[
+        "Kozara"
+    ],
+    "name:fra_x_preferred":[
+        "Kozara"
+    ],
+    "name:hrv_x_preferred":[
+        "Kozara"
+    ],
+    "name:ita_x_preferred":[
+        "Kozara"
+    ],
+    "name:nno_x_preferred":[
+        "Kozara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u0430\u0440\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0437\u0430\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1242956559,
-    "wof:lastmodified":1537014175,
+    "wof:lastmodified":1564154874,
     "wof:name":"Kozara",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kobili\u0107"
+    ],
+    "name:ceb_x_preferred":[
+        "Kobili\u0107"
+    ],
+    "name:hrv_x_preferred":[
+        "Kobili\u0107"
+    ],
+    "name:hun_x_preferred":[
+        "Kobili\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Kobili\u0107"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0431\u0438\u043b\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Kobili\u0107"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0431\u0438\u043b\u0438\u0447"
+    ],
     "name:und_x_variant":[
         "Kobili\u0107"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1226317229,
-    "wof:lastmodified":1537625885,
+    "wof:lastmodified":1564155314,
     "wof:name":"Kobilic",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

@@ -27,6 +27,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Baki\u0107"
+    ],
+    "name:ceb_x_preferred":[
+        "Baki\u0107"
+    ],
+    "name:fra_x_preferred":[
+        "Baki\u0107"
+    ],
+    "name:ita_x_preferred":[
+        "Baki\u0107"
+    ],
+    "name:slv_x_preferred":[
+        "Baki\u0107"
+    ],
+    "name:swe_x_preferred":[
+        "Baki\u0107"
+    ],
     "name:und_x_variant":[
         "Bakicsi",
         "Bakichi",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1259359349,
-    "wof:lastmodified":1537625938,
+    "wof:lastmodified":1564155089,
     "wof:name":"Bakic",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

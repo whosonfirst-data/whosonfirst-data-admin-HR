@@ -26,6 +26,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u0160tuparje"
+    ],
+    "name:ceb_x_preferred":[
+        "Stuparje"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160tuparje"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160tuparje"
+    ],
+    "name:hun_x_preferred":[
+        "\u0160tuparje"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160tuparje"
+    ],
+    "name:slv_x_preferred":[
+        "\u0160tuparje"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160tuparje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0442\u0443\u043f\u0430\u0440\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Stuparje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0442\u0443\u043f\u0430\u0440'\u0454"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1226434183,
-    "wof:lastmodified":1537563279,
+    "wof:lastmodified":1564155155,
     "wof:name":"Stuparje",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

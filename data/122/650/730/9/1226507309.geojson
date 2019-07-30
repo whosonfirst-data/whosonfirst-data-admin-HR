@@ -27,6 +27,21 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mala Ostrna"
+    ],
+    "name:hrv_x_preferred":[
+        "Mala Ostrna"
+    ],
+    "name:hun_x_preferred":[
+        "Mala Ostrna"
+    ],
+    "name:slv_x_preferred":[
+        "Mala Ostrna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u041e\u0441\u0442\u0440\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Ostrna Mala",
         "Mala Ostrna"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1226507309,
-    "wof:lastmodified":1537625868,
+    "wof:lastmodified":1564155223,
     "wof:name":"Mala Ostrna",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

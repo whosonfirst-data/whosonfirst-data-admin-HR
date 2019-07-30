@@ -26,6 +26,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Totovec"
+    ],
+    "name:ceb_x_preferred":[
+        "Totovec"
+    ],
+    "name:epo_x_preferred":[
+        "Totovec"
+    ],
+    "name:hrv_x_preferred":[
+        "Totovec"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00f3tfalu"
+    ],
+    "name:nld_x_preferred":[
+        "Totovec"
+    ],
+    "name:slv_x_preferred":[
+        "Totovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0442\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Totovec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0442\u043e\u0432\u0435\u0446\u044c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1259969407,
-    "wof:lastmodified":1537563277,
+    "wof:lastmodified":1564155030,
     "wof:name":"Totovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

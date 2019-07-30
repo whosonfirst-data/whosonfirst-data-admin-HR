@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Popova Luka"
+    ],
+    "name:ces_x_preferred":[
+        "Popova Luka"
+    ],
+    "name:hrv_x_preferred":[
+        "Popova Luka"
+    ],
+    "name:hun_x_preferred":[
+        "Popova Luka"
+    ],
+    "name:nld_x_preferred":[
+        "Popova Luka"
+    ],
+    "name:slv_x_preferred":[
+        "Popova Luka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0430 \u041b\u0443\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0430 \u041b\u0443\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1327443035,
-    "wof:lastmodified":1537563285,
+    "wof:lastmodified":1564153668,
     "wof:name":"Popova Luka",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

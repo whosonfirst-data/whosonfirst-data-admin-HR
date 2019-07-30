@@ -26,6 +26,9 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Vrbova\u010dko Brdo"
+    ],
     "name:und_x_variant":[
         "Vrbova\u010dko Brdo"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209923045,
-    "wof:lastmodified":1537625960,
+    "wof:lastmodified":1564154300,
     "wof:name":"Vrbovacko Brdo",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

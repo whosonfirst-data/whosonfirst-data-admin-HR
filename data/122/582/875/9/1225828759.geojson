@@ -26,6 +26,21 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jazvenik"
+    ],
+    "name:fra_x_preferred":[
+        "Jazvenik"
+    ],
+    "name:hrv_x_preferred":[
+        "Jazvenik"
+    ],
+    "name:hun_x_preferred":[
+        "Jazvenik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0437\u0432\u0435\u043d\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1225828759,
-    "wof:lastmodified":1537036600,
+    "wof:lastmodified":1564155320,
     "wof:name":"Jazvenik",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Vrbanovec"
+    ],
+    "name:hrv_x_preferred":[
+        "Vrbanovec"
+    ],
+    "name:hun_x_preferred":[
+        "Vrbanovec"
+    ],
+    "name:nld_x_preferred":[
+        "Vrbanovec"
+    ],
+    "name:slv_x_preferred":[
+        "Vrbanovec"
+    ],
+    "name:spa_x_preferred":[
+        "Vrbanovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0431\u0430\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0431\u0430\u043d\u043e\u0432\u0435\u0446\u044c"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1225817887,
-    "wof:lastmodified":1537563274,
+    "wof:lastmodified":1564155232,
     "wof:name":"Vrbanovec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

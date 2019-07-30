@@ -26,6 +26,9 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Jaku\u0161evec"
+    ],
     "name:und_x_variant":[
         "Jaku\u0161eveo",
         "Jaku\u0161evec"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243027193,
-    "wof:lastmodified":1537625892,
+    "wof:lastmodified":1564154942,
     "wof:name":"Jakusevec",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

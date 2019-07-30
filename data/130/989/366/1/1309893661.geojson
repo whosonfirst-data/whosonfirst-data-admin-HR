@@ -27,6 +27,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "A\u0161ikovci"
+    ],
+    "name:hrv_x_preferred":[
+        "A\u0161ikovci"
+    ],
+    "name:slv_x_preferred":[
+        "A\u0161ikovci"
+    ],
+    "name:spa_x_preferred":[
+        "A\u0161ikovci"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0448\u0438\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0448\u0438\u043a\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "A\u0161ikovac",
         "A\u0161ikovci"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1309893661,
-    "wof:lastmodified":1537625939,
+    "wof:lastmodified":1564154765,
     "wof:name":"Asikovci",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

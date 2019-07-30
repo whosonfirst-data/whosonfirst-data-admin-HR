@@ -26,6 +26,21 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tomica"
+    ],
+    "name:ita_x_preferred":[
+        "Tomica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30df\u30ab"
+    ],
+    "name:kor_x_preferred":[
+        "\ud1a0\ubbf8\uce74"
+    ],
+    "name:nld_x_preferred":[
+        "Tomica"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1276666567,
-    "wof:lastmodified":1536828210,
+    "wof:lastmodified":1564154113,
     "wof:name":"Tomica",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

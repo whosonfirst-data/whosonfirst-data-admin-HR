@@ -26,6 +26,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kupirovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Kupirovo"
+    ],
+    "name:hun_x_preferred":[
+        "Kupirovo"
+    ],
+    "name:slv_x_preferred":[
+        "Kupirovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u043f\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043f\u0438\u0440\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1243520045,
-    "wof:lastmodified":1537563294,
+    "wof:lastmodified":1564154840,
     "wof:name":"Kupirovo",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

@@ -27,6 +27,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donji \u0160ajn"
+    ],
+    "name:fra_x_preferred":[
+        "Donji \u0160ajn"
+    ],
+    "name:hrv_x_preferred":[
+        "Donji \u0160ajn"
+    ],
+    "name:hun_x_preferred":[
+        "Donji \u0160ajn"
+    ],
+    "name:slv_x_preferred":[
+        "Donji \u0160ajn"
+    ],
+    "name:spa_x_preferred":[
+        "Donji \u0160ajn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0438 \u0428\u0430\u0458\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u0456\u0439 \u0428\u0430\u0439\u043d"
+    ],
     "name:und_x_variant":[
         "Donji \u0160ain",
         "Donji \u0160ajn"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1309699459,
-    "wof:lastmodified":1537625913,
+    "wof:lastmodified":1564154757,
     "wof:name":"Donji Sajn",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

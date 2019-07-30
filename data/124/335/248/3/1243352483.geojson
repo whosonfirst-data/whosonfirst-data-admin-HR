@@ -26,6 +26,24 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Nemetin"
+    ],
+    "name:fra_x_preferred":[
+        "Nemetin"
+    ],
+    "name:hrv_x_preferred":[
+        "Nemetin"
+    ],
+    "name:slv_x_preferred":[
+        "Nemetin"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u043c\u0435\u0442\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u043c\u0435\u0442\u0438\u043d"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1243352483,
-    "wof:lastmodified":1537563319,
+    "wof:lastmodified":1564154927,
     "wof:name":"Nemetin",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

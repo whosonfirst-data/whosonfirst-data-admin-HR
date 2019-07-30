@@ -27,6 +27,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Javorje"
+    ],
+    "name:ceb_x_preferred":[
+        "Javorje"
+    ],
+    "name:fra_x_preferred":[
+        "Javorje"
+    ],
+    "name:hrv_x_preferred":[
+        "Javorje"
+    ],
+    "name:hun_x_preferred":[
+        "Javorje"
+    ],
+    "name:nld_x_preferred":[
+        "Javorje"
+    ],
+    "name:pol_x_preferred":[
+        "Javorje"
+    ],
+    "name:slv_x_preferred":[
+        "Javorje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0432\u043e\u0440\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Javorje"
+    ],
     "name:und_x_variant":[
         "Daku\u0161a",
         "Javorje Krmpotsko",
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1327311013,
-    "wof:lastmodified":1537625891,
+    "wof:lastmodified":1564153538,
     "wof:name":"Javorje",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

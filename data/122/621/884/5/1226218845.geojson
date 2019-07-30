@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mokro Polje"
+    ],
+    "name:cat_x_preferred":[
+        "Mokro Polje"
+    ],
+    "name:fra_x_preferred":[
+        "Mokro Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "Mokro Polje"
+    ],
+    "name:hun_x_preferred":[
+        "Mokro Polje"
+    ],
+    "name:pol_x_preferred":[
+        "Mokro Polje"
+    ],
+    "name:slv_x_preferred":[
+        "Mokro Polje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u043e \u041f\u043e\u0459\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u043e \u041f\u043e\u043b\u0454"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1226218845,
-    "wof:lastmodified":1537563289,
+    "wof:lastmodified":1564155162,
     "wof:name":"Mokro Polje",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

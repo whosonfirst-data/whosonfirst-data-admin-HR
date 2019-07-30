@@ -27,6 +27,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0426\u044a\u0440\u043d\u0438 \u041b\u0443\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Crni Lug"
+    ],
+    "name:fra_x_preferred":[
+        "Crni Lug"
+    ],
+    "name:msa_x_preferred":[
+        "Crni Lug"
+    ],
+    "name:por_x_preferred":[
+        "Crni Lug"
+    ],
+    "name:slv_x_preferred":[
+        "Crni Lug"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0440\u043d\u0438 \u041b\u0443\u0433"
+    ],
     "name:und_x_variant":[
         "Crui Lug",
         "Crni Lug"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1344034941,
-    "wof:lastmodified":1537625922,
+    "wof:lastmodified":1564153833,
     "wof:name":"Crni Lug",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

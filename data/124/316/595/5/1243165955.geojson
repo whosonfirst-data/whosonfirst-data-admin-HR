@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Novi Bolman"
+    ],
+    "name:ceb_x_preferred":[
+        "Novi Bolman"
+    ],
+    "name:epo_x_preferred":[
+        "Novi Bolman"
+    ],
+    "name:hrv_x_preferred":[
+        "Novi Bolman"
+    ],
+    "name:slv_x_preferred":[
+        "Novi Bolman"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u0411\u043e\u043b\u043c\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Novi Bolman"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0438\u0439 \u0411\u043e\u043b\u043c\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1243165955,
-    "wof:lastmodified":1537563319,
+    "wof:lastmodified":1564154981,
     "wof:name":"Novi Bolman",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

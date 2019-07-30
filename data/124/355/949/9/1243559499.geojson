@@ -26,7 +26,52 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u017dakanje"
+    ],
+    "name:cat_x_preferred":[
+        "\u017dakanje"
+    ],
+    "name:deu_x_preferred":[
+        "\u017dakanje"
+    ],
+    "name:fra_x_preferred":[
+        "\u017dakanje"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017dakanje"
+    ],
+    "name:hun_x_preferred":[
+        "\u017dakanje"
+    ],
+    "name:ita_x_preferred":[
+        "\u017dakanje"
+    ],
+    "name:nld_x_preferred":[
+        "\u017dakanje"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina \u017dakanje"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna \u017dakanje"
+    ],
+    "name:slv_x_preferred":[
+        "\u017dakanje"
+    ],
+    "name:spa_x_preferred":[
+        "\u017dakanje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0430\u043a\u0430\u045a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0430\u043a\u0430\u043d\u0454"
+    ],
     "name:und_x_variant":[
+        "\u017dakanje"
+    ],
+    "name:war_x_preferred":[
         "\u017dakanje"
     ],
     "src:geom":"geonames",
@@ -51,7 +96,7 @@
         }
     ],
     "wof:id":1243559499,
-    "wof:lastmodified":1537625806,
+    "wof:lastmodified":1564154842,
     "wof:name":"Zakanje",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

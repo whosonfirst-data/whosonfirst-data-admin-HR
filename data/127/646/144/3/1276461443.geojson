@@ -27,6 +27,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mali Pa\u0161ijan"
+    ],
+    "name:fra_x_preferred":[
+        "Mali Pa\u0161ijan"
+    ],
+    "name:hrv_x_preferred":[
+        "Mali Pa\u0161ijan"
+    ],
+    "name:hun_x_preferred":[
+        "Mali Pa\u0161ijan"
+    ],
+    "name:nld_x_preferred":[
+        "Mali Pa\u0161ijan"
+    ],
+    "name:slv_x_preferred":[
+        "Mali Pa\u0161ijan"
+    ],
+    "name:spa_x_preferred":[
+        "Mali Pa\u0161ijan"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u041f\u0430\u0448\u0438\u0458\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0438\u0439 \u041f\u0430\u0448\u0438\u044f\u043d"
+    ],
     "name:und_x_variant":[
         "Mali Pa\u0161jan",
         "Mali Pa\u0161ijan"
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1276461443,
-    "wof:lastmodified":1537625867,
+    "wof:lastmodified":1564154162,
     "wof:name":"Mali Pasijan",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

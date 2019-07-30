@@ -26,6 +26,51 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0628\u0646\u0627"
+    ],
+    "name:bos_x_preferred":[
+        "Sapna"
+    ],
+    "name:ces_x_preferred":[
+        "Sapna"
+    ],
+    "name:deu_x_preferred":[
+        "Sapna"
+    ],
+    "name:fra_x_preferred":[
+        "Sapna"
+    ],
+    "name:hrv_x_preferred":[
+        "Sapna"
+    ],
+    "name:ita_x_preferred":[
+        "Sapna"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043f\u043d\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Sapna"
+    ],
+    "name:pol_x_preferred":[
+        "Sapna"
+    ],
+    "name:spa_x_preferred":[
+        "Sapna"
+    ],
+    "name:sqi_x_preferred":[
+        "Sapna"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043f\u043d\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Sapna"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u067e\u0646\u0627"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1259857789,
-    "wof:lastmodified":1536815461,
+    "wof:lastmodified":1564155068,
     "wof:name":"Sapna",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

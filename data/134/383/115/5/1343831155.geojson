@@ -25,6 +25,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gomila"
+    ],
+    "name:ceb_x_preferred":[
+        "Gomila"
+    ],
+    "name:deu_x_preferred":[
+        "Gomila"
+    ],
+    "name:hrv_x_preferred":[
+        "Gomila"
+    ],
+    "name:nld_x_preferred":[
+        "Gomila"
+    ],
+    "name:slv_x_preferred":[
+        "Gomila"
+    ],
+    "name:swe_x_preferred":[
+        "Gomila"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1343831155,
-    "wof:lastmodified":1536709277,
+    "wof:lastmodified":1564153753,
     "wof:name":"Gomila",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

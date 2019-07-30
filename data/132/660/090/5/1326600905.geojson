@@ -26,6 +26,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Zrin"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0440\u0438\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Zrin"
+    ],
+    "name:fra_x_preferred":[
+        "Zrin"
+    ],
+    "name:hrv_x_preferred":[
+        "Zrin"
+    ],
+    "name:hun_x_preferred":[
+        "Zrin"
+    ],
+    "name:slv_x_preferred":[
+        "Zrin"
+    ],
+    "name:spa_x_preferred":[
+        "Zrin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0440\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Zrin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0440\u0438\u043d"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1326600905,
-    "wof:lastmodified":1537563272,
+    "wof:lastmodified":1564153571,
     "wof:name":"Zrin",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

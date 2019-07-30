@@ -26,6 +26,39 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Donja Batina"
+    ],
+    "name:ceb_x_preferred":[
+        "Donja Batina"
+    ],
+    "name:fra_x_preferred":[
+        "Donja Batina"
+    ],
+    "name:hrv_x_preferred":[
+        "Donja Batina"
+    ],
+    "name:hun_x_preferred":[
+        "Donja Batina"
+    ],
+    "name:nld_x_preferred":[
+        "Donja Batina"
+    ],
+    "name:slv_x_preferred":[
+        "Donja Batina"
+    ],
+    "name:spa_x_preferred":[
+        "Donja Batina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u0411\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Donja Batina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u044f \u0411\u0430\u0442\u0438\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1277003369,
-    "wof:lastmodified":1537563306,
+    "wof:lastmodified":1564154051,
     "wof:name":"Donja Batina",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

@@ -27,6 +27,48 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u010cavoglave"
+    ],
+    "name:cat_x_preferred":[
+        "\u010cavoglave"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010cavoglave"
+    ],
+    "name:deu_x_preferred":[
+        "\u010cavoglave"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010cavoglave"
+    ],
+    "name:hun_x_preferred":[
+        "\u010cavoglave"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30f4\u30a9\u30b0\u30e9\u30f4\u30a7"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0430\u0432\u043e\u0433\u043b\u0430\u0432\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cavoglave"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0432\u043e\u0433\u043b\u0430\u0432\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "\u010cavoglave"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0430\u0432\u043e\u0433\u043b\u0430\u0432\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cavoglave"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u0432\u043e\u0433\u043b\u0430\u0432\u0435"
+    ],
     "name:und_x_variant":[
         "\u010cavaglovi",
         "\u010cavoglave"
@@ -54,7 +96,7 @@
         }
     ],
     "wof:id":1343440307,
-    "wof:lastmodified":1537625925,
+    "wof:lastmodified":1564153860,
     "wof:name":"Cavoglave",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

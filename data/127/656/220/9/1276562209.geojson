@@ -26,6 +26,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Leti\u010dani"
+    ],
+    "name:fra_x_preferred":[
+        "Leti\u010dani"
+    ],
+    "name:hrv_x_preferred":[
+        "Leti\u010dani"
+    ],
+    "name:hun_x_preferred":[
+        "Leti\u010dani"
+    ],
+    "name:nld_x_preferred":[
+        "Leti\u010dani"
+    ],
+    "name:slv_x_preferred":[
+        "Leti\u010dani"
+    ],
+    "name:spa_x_preferred":[
+        "Leti\u010dani"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0442\u0438\u0447\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0442\u0438\u0447\u0430\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "Leti\u010dani"
     ],
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1276562209,
-    "wof:lastmodified":1537625875,
+    "wof:lastmodified":1564154105,
     "wof:name":"Leticani",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

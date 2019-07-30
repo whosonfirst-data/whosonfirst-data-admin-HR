@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jezernice"
+    ],
+    "name:ceb_x_preferred":[
+        "Jezernice"
+    ],
+    "name:fra_x_preferred":[
+        "Jezernice"
+    ],
+    "name:hrv_x_preferred":[
+        "Jezernice"
+    ],
+    "name:hun_x_preferred":[
+        "Jezernice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0437\u0435\u0440\u043d\u0438\u0446\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0435\u0437\u0435\u0440\u043d\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Jezernice"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1259658095,
-    "wof:lastmodified":1536604212,
+    "wof:lastmodified":1564155026,
     "wof:name":"Jezernice",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

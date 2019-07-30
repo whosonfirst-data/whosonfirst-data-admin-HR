@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Jasenak"
+    ],
+    "name:ceb_x_preferred":[
+        "Jasenak"
+    ],
+    "name:fra_x_preferred":[
+        "Jasenak"
+    ],
+    "name:hrv_x_preferred":[
+        "Jasenak"
+    ],
+    "name:hun_x_preferred":[
+        "Jasenak"
+    ],
+    "name:slv_x_preferred":[
+        "Jasenak"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0441\u0435\u043d\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Jasenak"
+    ],
     "name:und_x_variant":[
         "Donji Gali\u0107i",
         "Jasenak"
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1277160185,
-    "wof:lastmodified":1537625964,
+    "wof:lastmodified":1564154209,
     "wof:name":"Jasenak",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -27,6 +27,33 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gdinj"
+    ],
+    "name:cat_x_preferred":[
+        "Gdinj"
+    ],
+    "name:ceb_x_preferred":[
+        "Gdinj"
+    ],
+    "name:hrv_x_preferred":[
+        "Gdinj"
+    ],
+    "name:hun_x_preferred":[
+        "Gdinj"
+    ],
+    "name:slv_x_preferred":[
+        "Gdinj"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0434\u0438\u045a"
+    ],
+    "name:swe_x_preferred":[
+        "Gdinj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0434\u0438\u043d\u044c"
+    ],
     "name:und_x_variant":[
         "Godinj",
         "Gdinj"
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1259556725,
-    "wof:lastmodified":1537625907,
+    "wof:lastmodified":1564155043,
     "wof:name":"Gdinj",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -26,8 +26,50 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dubravica"
+    ],
+    "name:hrv_x_preferred":[
+        "Dubravica"
+    ],
+    "name:hun_x_preferred":[
+        "Dubravica"
+    ],
+    "name:ita_x_preferred":[
+        "Dubravica"
+    ],
+    "name:nld_x_preferred":[
+        "Dubravica"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Dubravica"
+    ],
+    "name:por_x_preferred":[
+        "Dubravica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Dubravica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0430\u0432\u0438\u0446\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Dubravica"
+    ],
+    "name:spa_x_preferred":[
+        "Dubravica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0430\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0430\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Dabravica",
+        "Dubravica"
+    ],
+    "name:war_x_preferred":[
         "Dubravica"
     ],
     "src:geom":"geonames",
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1310080125,
-    "wof:lastmodified":1537625910,
+    "wof:lastmodified":1564154544,
     "wof:name":"Dubravica",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

@@ -27,6 +27,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Gerovski Kraj"
+    ],
+    "name:fra_x_preferred":[
+        "Gerovski Kraj"
+    ],
+    "name:hrv_x_preferred":[
+        "Gerovski Kraj"
+    ],
+    "name:hun_x_preferred":[
+        "Gerovski Kraj"
+    ],
+    "name:slv_x_preferred":[
+        "Gerovski Kraj"
+    ],
+    "name:spa_x_preferred":[
+        "Gerovski Kraj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0440\u043e\u0432\u0435\u0446\u044c\u043a\u0438\u0439 \u041a\u0440\u0430\u0439"
+    ],
     "name:und_x_variant":[
         "Kraj",
         "Gerovski Kraj"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1242764689,
-    "wof:lastmodified":1537625906,
+    "wof:lastmodified":1564154959,
     "wof:name":"Gerovski Kraj",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

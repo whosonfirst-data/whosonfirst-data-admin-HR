@@ -27,6 +27,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "\u017dejane"
+    ],
+    "name:fra_x_preferred":[
+        "\u017dejane"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017dejane"
+    ],
+    "name:hun_x_preferred":[
+        "\u017dejane"
+    ],
+    "name:ita_x_preferred":[
+        "Seiane"
+    ],
+    "name:ron_x_preferred":[
+        "Jei\u0103n"
+    ],
+    "name:slv_x_preferred":[
+        "\u017dejane"
+    ],
+    "name:spa_x_preferred":[
+        "\u017dejane"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0435\u0458\u0430\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0435\u044f\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Seiane",
         "\u017dejane"
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1276966325,
-    "wof:lastmodified":1537625803,
+    "wof:lastmodified":1564154190,
     "wof:name":"Zejane",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

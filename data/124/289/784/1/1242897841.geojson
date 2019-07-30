@@ -26,6 +26,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Polari"
+    ],
+    "name:bre_x_preferred":[
+        "Polarieg"
+    ],
+    "name:deu_x_preferred":[
+        "Polari"
+    ],
+    "name:fra_x_preferred":[
+        "Polari"
+    ],
+    "name:hrv_x_preferred":[
+        "Polari jezik"
+    ],
+    "name:lfn_x_preferred":[
+        "Polari"
+    ],
+    "name:pms_x_preferred":[
+        "Lenga polari"
+    ],
+    "name:pol_x_preferred":[
+        "Polari"
+    ],
+    "name:spa_x_preferred":[
+        "Polari"
+    ],
+    "name:tur_x_preferred":[
+        "Polari"
+    ],
     "name:und_x_variant":[
         "Stancija Polari",
         "Polari"
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1242897841,
-    "wof:lastmodified":1537625950,
+    "wof:lastmodified":1564154853,
     "wof:name":"Polari",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

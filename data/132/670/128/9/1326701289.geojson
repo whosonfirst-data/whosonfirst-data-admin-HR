@@ -27,6 +27,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Brest Pokupski"
+    ],
+    "name:ceb_x_preferred":[
+        "Brest Pokupski"
+    ],
+    "name:fra_x_preferred":[
+        "Brest Pokupski"
+    ],
+    "name:hrv_x_preferred":[
+        "Brest Pokupski"
+    ],
+    "name:hun_x_preferred":[
+        "Breszt"
+    ],
+    "name:slv_x_preferred":[
+        "Brest Pokupski"
+    ],
+    "name:spa_x_preferred":[
+        "Brest Pokupski"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0441\u0442 \u041f\u043e\u043a\u0443\u043f\u0441\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Brest Pokupski"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0441\u0442-\u041f\u043e\u043a\u0443\u043f\u0441\u044c\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Brest",
         "Brest Pokupski"
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1326701289,
-    "wof:lastmodified":1537625931,
+    "wof:lastmodified":1564153639,
     "wof:name":"Brest Pokupski",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

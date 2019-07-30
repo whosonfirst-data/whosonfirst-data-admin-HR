@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ivanovo Selo"
+    ],
+    "name:fra_x_preferred":[
+        "Ivanovo Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Ivanovo Selo"
+    ],
+    "name:hun_x_preferred":[
+        "Ivanovo Selo"
+    ],
+    "name:slv_x_preferred":[
+        "Ivanovo Selo"
+    ],
+    "name:spa_x_preferred":[
+        "Ivanovo Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0432\u0430\u043d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1343779715,
-    "wof:lastmodified":1537563298,
+    "wof:lastmodified":1564153754,
     "wof:name":"Ivanovo Selo",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

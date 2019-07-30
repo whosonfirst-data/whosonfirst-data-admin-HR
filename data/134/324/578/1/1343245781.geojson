@@ -27,6 +27,27 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0434\u0443\u043d\u0430\u0432\u0438\u0435"
+    ],
+    "name:fra_x_preferred":[
+        "Podunavlje"
+    ],
+    "name:hrv_x_preferred":[
+        "Podunavlje"
+    ],
+    "name:ita_x_preferred":[
+        "Podunavlje"
+    ],
+    "name:nno_x_preferred":[
+        "Podunavlje"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0443\u043d\u0430\u0432\u0459\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Podunavlje"
+    ],
     "name:und_x_variant":[
         "Podunavlje Pustara",
         "Podunavlje"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1343245781,
-    "wof:lastmodified":1537625846,
+    "wof:lastmodified":1564153765,
     "wof:name":"Podunavlje",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

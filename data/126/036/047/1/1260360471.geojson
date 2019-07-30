@@ -26,6 +26,30 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Slavsko Polje"
+    ],
+    "name:fra_x_preferred":[
+        "Slavsko Polje"
+    ],
+    "name:hrv_x_preferred":[
+        "Slavsko Polje"
+    ],
+    "name:hun_x_preferred":[
+        "Slavsko Polje"
+    ],
+    "name:slv_x_preferred":[
+        "Slavsko Polje"
+    ],
+    "name:spa_x_preferred":[
+        "Slavsko Polje"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0441\u043a\u043e \u041f\u043e\u0459\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0441\u044c\u043a\u043e \u041f\u043e\u043b\u0454"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1260360471,
-    "wof:lastmodified":1536605921,
+    "wof:lastmodified":1564154447,
     "wof:name":"Slavsko Polje",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

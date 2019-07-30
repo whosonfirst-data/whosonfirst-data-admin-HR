@@ -27,6 +27,36 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Aljma\u0161"
+    ],
+    "name:deu_x_preferred":[
+        "Aljma\u0161"
+    ],
+    "name:epo_x_preferred":[
+        "Aljma\u0161"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062c\u0645\u0627\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Aljma\u0161"
+    ],
+    "name:hrv_x_preferred":[
+        "Aljma\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "Alm\u00e1s"
+    ],
+    "name:slv_x_preferred":[
+        "Aljma\u0161"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0459\u043c\u0430\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u043c\u0430\u0448"
+    ],
     "name:und_x_variant":[
         "Jabuka",
         "Apfeldorf",
@@ -59,7 +89,7 @@
         }
     ],
     "wof:id":1293772819,
-    "wof:lastmodified":1537625940,
+    "wof:lastmodified":1564153918,
     "wof:name":"Aljmas",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

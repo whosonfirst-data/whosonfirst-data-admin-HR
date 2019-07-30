@@ -26,8 +26,41 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Farini"
+    ],
+    "name:ceb_x_preferred":[
+        "Farini"
+    ],
+    "name:deu_x_preferred":[
+        "Farini"
+    ],
+    "name:fra_x_preferred":[
+        "Farini"
+    ],
     "name:hrv_x_preferred":[
         "Farini"
+    ],
+    "name:hun_x_preferred":[
+        "Farini"
+    ],
+    "name:ita_x_preferred":[
+        "Farini"
+    ],
+    "name:por_x_preferred":[
+        "Farini"
+    ],
+    "name:slv_x_preferred":[
+        "Farini"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0430\u0440\u0438\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Farini"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u0440\u0438\u043d\u0438"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -51,7 +84,7 @@
         }
     ],
     "wof:id":1193016241,
-    "wof:lastmodified":1537625908,
+    "wof:lastmodified":1564154384,
     "wof:name":"Farini",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",
