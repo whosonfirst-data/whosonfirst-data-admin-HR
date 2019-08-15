@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LS"
+    ],
     "lbl:latitude":44.678337,
     "lbl:longitude":15.409664,
     "mps:latitude":44.678337,
@@ -368,7 +371,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576621,
+    "wof:lastmodified":1565714413,
     "wof:name":"Licko-senjska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

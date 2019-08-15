@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SM"
+    ],
     "lbl:latitude":45.309058,
     "lbl:longitude":16.256312,
     "mps:latitude":45.309058,
@@ -353,7 +356,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576616,
+    "wof:lastmodified":1565714411,
     "wof:name":"Sisacko-moslavacka",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

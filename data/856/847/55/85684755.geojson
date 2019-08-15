@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SB"
+    ],
     "lbl:latitude":43.888782,
     "lbl:longitude":16.074643,
     "mps:latitude":43.888782,
@@ -350,7 +353,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576622,
+    "wof:lastmodified":1565714413,
     "wof:name":"\u0160ibensko-kninska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

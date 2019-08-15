@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ME"
+    ],
     "lbl:latitude":46.420655,
     "lbl:longitude":16.436469,
     "mps:latitude":46.420655,
@@ -355,7 +358,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576615,
+    "wof:lastmodified":1565714411,
     "wof:name":"Medimurska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

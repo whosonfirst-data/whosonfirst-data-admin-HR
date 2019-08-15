@@ -16,6 +16,9 @@
     "itu:country_code":[
         "385"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HR"
+    ],
     "lbl:latitude":45.805356,
     "lbl:longitude":16.375139,
     "mps:latitude":45.805356,
@@ -1137,9 +1140,6 @@
         }
     ],
     "wof:id":85633229,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "hrv"
     ],
@@ -1147,7 +1147,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576608,
+    "wof:lastmodified":1565714407,
     "wof:name":"Croatia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

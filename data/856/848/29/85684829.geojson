@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IS"
+    ],
     "lbl:latitude":45.223146,
     "lbl:longitude":13.917256,
     "mps:latitude":45.223146,
@@ -361,7 +364,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576614,
+    "wof:lastmodified":1565714411,
     "wof:name":"Istarska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

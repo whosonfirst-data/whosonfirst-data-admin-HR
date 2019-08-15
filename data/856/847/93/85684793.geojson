@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VP"
+    ],
     "lbl:latitude":45.675189,
     "lbl:longitude":17.683682,
     "mps:latitude":45.675189,
@@ -347,7 +350,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576617,
+    "wof:lastmodified":1565714412,
     "wof:name":"Viroviticko-podravska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

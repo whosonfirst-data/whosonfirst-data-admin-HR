@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KK"
+    ],
     "lbl:latitude":46.184315,
     "lbl:longitude":16.853622,
     "mps:latitude":46.184315,
@@ -346,7 +349,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576621,
+    "wof:lastmodified":1565714413,
     "wof:name":"Koprivnicko-kri\u017eevacka",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VA"
+    ],
     "lbl:latitude":46.227409,
     "lbl:longitude":16.341007,
     "mps:latitude":46.227409,
@@ -349,7 +352,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576612,
+    "wof:lastmodified":1565714410,
     "wof:name":"Vara\u017edinska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

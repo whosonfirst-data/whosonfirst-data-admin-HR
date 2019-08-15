@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PS"
+    ],
     "lbl:latitude":45.394228,
     "lbl:longitude":17.623208,
     "mps:latitude":45.394228,
@@ -274,7 +277,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576622,
+    "wof:lastmodified":1565714413,
     "wof:name":"Po\u017ee\u0161ko-slavonska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

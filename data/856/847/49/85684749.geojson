@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SP"
+    ],
     "lbl:latitude":45.165087,
     "lbl:longitude":17.888056,
     "mps:latitude":45.165087,
@@ -291,7 +294,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576623,
+    "wof:lastmodified":1565714414,
     "wof:name":"Brodsko-posavska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

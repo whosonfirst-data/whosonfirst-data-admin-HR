@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PG"
+    ],
     "lbl:latitude":45.334507,
     "lbl:longitude":14.734276,
     "mps:latitude":45.334507,
@@ -360,7 +363,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576618,
+    "wof:lastmodified":1565714412,
     "wof:name":"Primorsko-goranska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

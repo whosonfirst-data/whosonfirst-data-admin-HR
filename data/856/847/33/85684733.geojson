@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VS"
+    ],
     "lbl:latitude":45.189866,
     "lbl:longitude":18.876906,
     "mps:latitude":45.189866,
@@ -361,7 +364,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576617,
+    "wof:lastmodified":1565714412,
     "wof:name":"Vukovarsko-srijemska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

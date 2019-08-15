@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GZ"
+    ],
     "lbl:latitude":45.842155,
     "lbl:longitude":16.022855,
     "mps:latitude":45.842155,
@@ -362,7 +365,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576613,
+    "wof:lastmodified":1565714411,
     "wof:name":"Grad Zagreb",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

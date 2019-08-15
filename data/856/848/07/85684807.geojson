@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Zadarska County"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZD"
+    ],
     "lbl:latitude":44.006965,
     "lbl:longitude":15.599016,
     "mps:latitude":44.006965,
@@ -361,7 +364,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576615,
+    "wof:lastmodified":1565714411,
     "wof:name":"Zadarska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SD"
+    ],
     "lbl:latitude":43.593496,
     "lbl:longitude":16.742116,
     "mps:latitude":43.593496,
@@ -366,7 +369,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576619,
+    "wof:lastmodified":1565714412,
     "wof:name":"Splitsko-dalmatinska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

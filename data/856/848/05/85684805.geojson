@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OB"
+    ],
     "lbl:latitude":45.498188,
     "lbl:longitude":18.339153,
     "mps:latitude":45.498188,
@@ -359,7 +362,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576613,
+    "wof:lastmodified":1565714410,
     "wof:name":"Osjecko-baranjska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

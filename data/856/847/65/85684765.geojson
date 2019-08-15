@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZG"
+    ],
     "lbl:latitude":45.793422,
     "lbl:longitude":16.362453,
     "mps:latitude":45.793422,
@@ -374,7 +377,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576620,
+    "wof:lastmodified":1565714413,
     "wof:name":"Zagrebacka",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KA"
+    ],
     "lbl:latitude":45.249053,
     "lbl:longitude":15.508302,
     "mps:latitude":45.249053,
@@ -362,7 +365,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1563576614,
+    "wof:lastmodified":1565714411,
     "wof:name":"Karlovacka",
     "wof:parent_id":85633229,
     "wof:placetype":"region",
