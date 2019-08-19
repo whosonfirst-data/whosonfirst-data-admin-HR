@@ -92,7 +92,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":358,
     "wof:belongsto":[
@@ -125,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576601,
+    "wof:lastmodified":1566247544,
     "wof:name":"Novi Zagreb",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

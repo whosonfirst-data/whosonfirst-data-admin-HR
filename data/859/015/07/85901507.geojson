@@ -97,7 +97,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":335,
     "wof:belongsto":[
         102191581,
@@ -129,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576601,
+    "wof:lastmodified":1566247544,
     "wof:name":"Maksimir",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

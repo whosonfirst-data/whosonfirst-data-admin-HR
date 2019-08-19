@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751659,
@@ -142,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576600,
+    "wof:lastmodified":1566247543,
     "wof:name":"Gornji grad",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",
