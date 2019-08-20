@@ -86,7 +86,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":98,
     "wof:belongsto":[
         102191581,
@@ -116,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576603,
+    "wof:lastmodified":1566247583,
     "wof:name":"Podsused-Vrap\u010de",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",
