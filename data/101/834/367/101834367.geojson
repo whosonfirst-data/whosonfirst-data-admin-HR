@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.334298,
     "lbl:longitude":16.273321,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.334298,
     "mps:longitude":16.273321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sra\u010dinec"
     ],
@@ -74,9 +77,6 @@
     "name:und_x_colloquial":[
         "Sracinec"
     ],
-    "name:und_x_preferred":[
-        "Sra\u010dinec"
-    ],
     "name:war_x_preferred":[
         "Sra\u010dinec"
     ],
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":121,
     "wof:belongsto":[
@@ -109,7 +109,6 @@
         "fct:id":"115d063e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3190176,
         "gp:id":850360,
-        "qs:id":184751,
         "qs_pg:id":184751,
         "wd:id":"Q326966",
         "wk:page":"Sra\u010dinec"
@@ -128,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577466,
+    "wof:lastmodified":1566647376,
     "wof:name":"Sra\u010dinec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

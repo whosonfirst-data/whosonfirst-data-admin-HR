@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.201534,
     "lbl:longitude":16.815444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.201534,
     "mps:longitude":16.815444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Koprivni\u010dki Ivanec"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":71,
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gn:id":8505063,
         "gp:id":55855251,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q775578",
         "wk:page":"Koprivni\u010dki Ivanec"
     },
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101844813,
-    "wof:lastmodified":1563577399,
+    "wof:lastmodified":1566647357,
     "wof:name":"Koprivni\u010dki Ivanec",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

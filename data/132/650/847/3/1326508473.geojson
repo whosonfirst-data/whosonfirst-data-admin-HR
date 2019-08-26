@@ -23,8 +23,12 @@
     "gn:population":15,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.46333,45.43,17.50333,45.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1326508473,
-    "wof:lastmodified":1537017600,
+    "wof:lastmodified":1566646561,
     "wof:name":"Sazije",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

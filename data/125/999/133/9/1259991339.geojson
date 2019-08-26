@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.71028,42.81194,17.75028,42.85194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zamaslina",
         "Zamasline"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259991339,
-    "wof:lastmodified":1537625941,
+    "wof:lastmodified":1566647672,
     "wof:name":"Zamasline",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

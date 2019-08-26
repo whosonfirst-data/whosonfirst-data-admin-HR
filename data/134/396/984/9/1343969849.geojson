@@ -24,8 +24,12 @@
     "gn:population":176,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.1275,42.62611,18.1675,42.66611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343969849,
-    "wof:lastmodified":1537005670,
+    "wof:lastmodified":1566646642,
     "wof:name":"Sumet",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

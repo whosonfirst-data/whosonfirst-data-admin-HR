@@ -25,8 +25,12 @@
     "gn:population":583,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.12485,46.14687,17.16485,46.18687",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u017ddala"
     ],
@@ -56,8 +60,7 @@
     ],
     "name:und_x_variant":[
         "Zsdalla",
-        "Zdalla",
-        "\u017ddala"
+        "Zdalla"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1276648831,
-    "wof:lastmodified":1564154176,
+    "wof:lastmodified":1566646985,
     "wof:name":"Zdala",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

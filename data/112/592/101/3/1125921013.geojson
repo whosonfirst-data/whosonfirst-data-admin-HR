@@ -9,15 +9,18 @@
     "geom:bbox":"13.95694,44.82833,13.95694,44.82833",
     "geom:latitude":44.82833,
     "geom:longitude":13.95694,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":994,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
     "gn:population":994,
     "iso:country":"HR",
+    "lbl:bbox":"13.93694,44.80833,13.97694,44.84833",
     "lbl:latitude":44.82833,
     "lbl:longitude":13.95694,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Li\u017enjan"
@@ -70,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u0436\u043d\u044f\u043d"
     ],
-    "name:unk_x_variant":[
-        "Lisignano"
-    ],
     "name:war_x_preferred":[
         "Li\u017enjan"
     ],
@@ -97,7 +97,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":848843,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1125921013,
-    "wof:lastmodified":1563577720,
+    "wof:lastmodified":1566647474,
     "wof:name":"Li\u017enjan",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

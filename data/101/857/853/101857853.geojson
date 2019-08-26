@@ -11,12 +11,16 @@
     "geom:longitude":15.673801,
     "gn:population":1147,
     "iso:country":"HR",
+    "lbl:bbox":"15.653801,45.746979,15.693801,45.786979",
     "lbl:latitude":45.766979,
     "lbl:longitude":15.673801,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.766979,
     "mps:longitude":15.673801,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u0642\u0627\u062d\u0629"
     ],
@@ -91,7 +95,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1732,
     "wof:belongsto":[
@@ -103,7 +107,6 @@
     "wof:concordances":{
         "gn:id":3191470,
         "gp:id":850059,
-        "qs:id":1043948,
         "qs_pg:id":1043948,
         "wd:id":"Q4122037"
     },
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101857853,
-    "wof:lastmodified":1563577417,
+    "wof:lastmodified":1566647363,
     "wof:name":"Rude",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.61311,
     "lbl:longitude":18.535209,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.61311,
     "mps:longitude":18.535209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Petrijevci"
     ],
@@ -65,10 +68,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0456\u0454\u0432\u0446\u0456"
     ],
-    "name:und_x_preferred":[
-        "Petrijevci"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petrievcze"
     ],
     "name:war_x_preferred":[
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -103,7 +103,6 @@
         "fct:id":"115ca446-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3193424,
         "gp:id":849591,
-        "qs:id":147148,
         "qs_pg:id":147148,
         "wd:id":"Q1280634",
         "wk:page":"Petrijevci"
@@ -122,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577596,
+    "wof:lastmodified":1566647409,
     "wof:name":"Petrijevci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

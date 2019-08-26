@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.12664,45.13093,16.16664,45.17093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Donji \u017dirovac"
     ],
@@ -55,8 +59,7 @@
         "\u0414\u043e\u043d\u0456\u0439 \u0416\u0438\u0440\u043e\u0432\u0430\u0446\u044c"
     ],
     "name:und_x_variant":[
-        "\u017dirovac",
-        "Donji \u017dirovac"
+        "\u017dirovac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1309889247,
-    "wof:lastmodified":1564154767,
+    "wof:lastmodified":1566647459,
     "wof:name":"Donji Zirovac",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

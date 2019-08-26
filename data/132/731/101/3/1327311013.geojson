@@ -25,8 +25,12 @@
     "gn:population":2,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.89667,45.07306,14.93667,45.11306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Javorje"
     ],
@@ -59,8 +63,7 @@
     ],
     "name:und_x_variant":[
         "Daku\u0161a",
-        "Javorje Krmpotsko",
-        "Javorje"
+        "Javorje Krmpotsko"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1327311013,
-    "wof:lastmodified":1564153538,
+    "wof:lastmodified":1566646527,
     "wof:name":"Javorje",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

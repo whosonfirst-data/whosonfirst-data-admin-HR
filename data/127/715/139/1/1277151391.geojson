@@ -25,8 +25,12 @@
     "gn:population":409,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.18,45.89667,16.22,45.93667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Hrnjanec"
     ],
@@ -49,8 +53,7 @@
         "\u0425\u0440\u043d\u044f\u043d\u0435\u0446\u044c"
     ],
     "name:und_x_variant":[
-        "Hrnjavec",
-        "Hrnjanec"
+        "Hrnjavec"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1277151391,
-    "wof:lastmodified":1564154127,
+    "wof:lastmodified":1566646948,
     "wof:name":"Hrnjanec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

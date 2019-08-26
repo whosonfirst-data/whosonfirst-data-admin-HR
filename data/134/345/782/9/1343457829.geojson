@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.73667,45.19667,15.77667,45.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cos_x_preferred":[
         "Tomasi"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343457829,
-    "wof:lastmodified":1564153840,
+    "wof:lastmodified":1566646737,
     "wof:name":"Tomasi",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

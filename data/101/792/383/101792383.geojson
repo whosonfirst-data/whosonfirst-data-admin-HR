@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.714111,
     "lbl:longitude":16.021131,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.714111,
     "mps:longitude":16.021131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Donja Lomnica"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":68,
     "wof:belongsto":[
         102191581,
@@ -92,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3201668,
         "gp:id":847372,
-        "qs:id":1156533,
+        "qs_pg:id":1156533,
         "wd:id":"Q570752"
     },
     "wof:country":"HR",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101792383,
-    "wof:lastmodified":1563577602,
+    "wof:lastmodified":1566647411,
     "wof:name":"Donja Lomnica",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

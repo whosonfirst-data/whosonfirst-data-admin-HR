@@ -24,8 +24,12 @@
     "gn:population":33,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.61333,45.60194,17.65333,45.64194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Macute"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1226812683,
-    "wof:lastmodified":1564155151,
+    "wof:lastmodified":1566647743,
     "wof:name":"Macute",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

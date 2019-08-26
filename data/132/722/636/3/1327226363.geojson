@@ -24,8 +24,12 @@
     "gn:population":366,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.60083,46.02556,16.64083,46.06556",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Klo\u0161tar Vojakova\u010dki"
     ],
@@ -51,8 +55,7 @@
         "Vojakova\u010dki Klo\u0161tar",
         "Donji Klo\u0161tar",
         "Klo\u0161tar Vojakova\u010dki Selo",
-        "Klo\u0161tar",
-        "Klo\u0161tar Vojakova\u010dki"
+        "Klo\u0161tar"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1327226363,
-    "wof:lastmodified":1564153589,
+    "wof:lastmodified":1566646563,
     "wof:name":"Klostar Vojakovacki",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

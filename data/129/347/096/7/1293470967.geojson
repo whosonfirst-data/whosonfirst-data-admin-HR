@@ -25,8 +25,12 @@
     "gn:population":33,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.26333,45.46333,17.30333,45.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293470967,
-    "wof:lastmodified":1536810486,
+    "wof:lastmodified":1566646820,
     "wof:name":"Donji Grahovljani",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

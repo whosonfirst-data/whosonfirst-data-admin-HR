@@ -24,8 +24,12 @@
     "gn:population":696,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.33,46.24667,16.37,46.28667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Crnec",
         "Bi\u0161kupe\u010dki \u010crnec",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343631061,
-    "wof:lastmodified":1537625923,
+    "wof:lastmodified":1566646656,
     "wof:name":"Crnec Biskupecki",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

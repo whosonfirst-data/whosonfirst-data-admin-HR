@@ -24,8 +24,12 @@
     "gn:population":132,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.21667,44.68528,15.25667,44.72528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gornji Kosinj"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1259768651,
-    "wof:lastmodified":1564155074,
+    "wof:lastmodified":1566647692,
     "wof:name":"Gornji Kosinj",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

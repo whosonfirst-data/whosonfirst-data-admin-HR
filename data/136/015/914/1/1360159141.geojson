@@ -24,8 +24,12 @@
     "gn:population":174,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.54077,45.79265,16.58077,45.83265",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ba\u0111inec"
     ],
@@ -54,8 +58,7 @@
         "\u0411\u0430\u0434\u0436\u0438\u043d\u0435\u0446\u044c"
     ],
     "name:und_x_variant":[
-        "Badjinec",
-        "Ba\u0111inec"
+        "Badjinec"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1360159141,
-    "wof:lastmodified":1564154636,
+    "wof:lastmodified":1566647296,
     "wof:name":"Baginec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

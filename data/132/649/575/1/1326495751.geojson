@@ -24,8 +24,12 @@
     "gn:population":113,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.72806,44.05444,15.76806,44.09444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bru\u0161ka"
     ],
@@ -48,8 +52,7 @@
         "\u0411\u0440\u0443\u0448\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Donja Bru\u0161ka",
-        "Bru\u0161ka"
+        "Donja Bru\u0161ka"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1326495751,
-    "wof:lastmodified":1564153627,
+    "wof:lastmodified":1566646593,
     "wof:name":"Bruska",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

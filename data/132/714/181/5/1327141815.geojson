@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.48139,43.03167,17.52139,43.07167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1327141815,
-    "wof:lastmodified":1537096966,
+    "wof:lastmodified":1566646566,
     "wof:name":"Poduciji Brig",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

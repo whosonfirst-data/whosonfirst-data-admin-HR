@@ -25,8 +25,12 @@
     "gn:population":502,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.30833,45.62528,17.34833,45.66528",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Veliki Bastaji"
     ],
@@ -57,8 +61,7 @@
     "name:und_x_variant":[
         "Basztazy",
         "Gross-Bastei",
-        "Bastaji Veliki",
-        "Veliki Bastaji"
+        "Bastaji Veliki"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1344174699,
-    "wof:lastmodified":1564153822,
+    "wof:lastmodified":1566646723,
     "wof:name":"Veliki Bastaji",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

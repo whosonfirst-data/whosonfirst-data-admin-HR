@@ -25,8 +25,12 @@
     "gn:population":95,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.62194,45.48028,14.66194,45.52028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gerovski Kraj"
     ],
@@ -49,8 +53,7 @@
         "\u0413\u0435\u0440\u043e\u0432\u0435\u0446\u044c\u043a\u0438\u0439 \u041a\u0440\u0430\u0439"
     ],
     "name:und_x_variant":[
-        "Kraj",
-        "Gerovski Kraj"
+        "Kraj"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1242764689,
-    "wof:lastmodified":1564154959,
+    "wof:lastmodified":1566647623,
     "wof:name":"Gerovski Kraj",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

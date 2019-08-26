@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.39917,45.1675,17.43917,45.2075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vrbje"
     ],
@@ -57,8 +61,7 @@
         "\u0412\u0440\u0431\u0454"
     ],
     "name:und_x_variant":[
-        "Vrblje",
-        "Vrbje"
+        "Vrblje"
     ],
     "name:war_x_preferred":[
         "Vrbje"
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1309812373,
-    "wof:lastmodified":1564154772,
+    "wof:lastmodified":1566647462,
     "wof:name":"Vrbje",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

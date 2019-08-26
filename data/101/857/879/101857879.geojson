@@ -11,12 +11,16 @@
     "geom:longitude":16.325918,
     "gn:population":1547,
     "iso:country":"HR",
+    "lbl:bbox":"16.305918,46.1749,16.345918,46.2149",
     "lbl:latitude":46.1949,
     "lbl:longitude":16.325918,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.1949,
     "mps:longitude":16.325918,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Remetinec"
     ],
@@ -70,7 +74,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.772222,
     "wd:longitude":15.95,
@@ -84,7 +88,6 @@
     "wof:concordances":{
         "gn:id":3191742,
         "gp:id":850006,
-        "qs:id":407572,
         "qs_pg:id":407572,
         "wd:id":"Q847871"
     },
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101857879,
-    "wof:lastmodified":1563577413,
+    "wof:lastmodified":1566647362,
     "wof:name":"Remetinec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

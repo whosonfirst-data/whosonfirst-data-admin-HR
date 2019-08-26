@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.61389,45.42111,13.65389,45.46111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kaldanija"
     ],
@@ -59,10 +63,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0434\u0430\u043d\u0456\u044f"
     ],
-    "name:und_x_variant":[
-        "Caldania",
-        "Kaldanija"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1226576105,
-    "wof:lastmodified":1564155221,
+    "wof:lastmodified":1566647788,
     "wof:name":"Kaldanija",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

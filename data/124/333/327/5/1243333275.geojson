@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.1125,46.24722,16.1525,46.28722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maru\u0161eve\u010dki Novaki",
         "Novaki",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243333275,
-    "wof:lastmodified":1537625856,
+    "wof:lastmodified":1566647611,
     "wof:name":"Novaki Marusevecki",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

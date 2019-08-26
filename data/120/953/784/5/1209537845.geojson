@@ -24,8 +24,12 @@
     "gn:population":188,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.45972,46.02111,16.49972,46.06111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209537845,
-    "wof:lastmodified":1536284081,
+    "wof:lastmodified":1566647020,
     "wof:name":"Dijankovec",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

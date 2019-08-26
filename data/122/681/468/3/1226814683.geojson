@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.45944,44.25778,15.49944,44.29778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Seline"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1226814683,
-    "wof:lastmodified":1564155152,
+    "wof:lastmodified":1566647744,
     "wof:name":"Seline",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

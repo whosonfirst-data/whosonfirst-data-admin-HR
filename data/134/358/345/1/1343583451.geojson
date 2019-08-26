@@ -24,8 +24,12 @@
     "gn:population":141,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.57,46.16417,16.61,46.20417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Duga Rijeka"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1343583451,
-    "wof:lastmodified":1564153800,
+    "wof:lastmodified":1566646711,
     "wof:name":"Duga Rijeka",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":44.281393,
     "lbl:longitude":15.347025,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.281393,
     "mps:longitude":15.347025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ra\u017eanac"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":84,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3191800,
         "gp:id":849994,
-        "qs:id":1043955,
         "qs_pg:id":1043955,
         "wd:id":"Q1014078",
         "wk:page":"Ra\u017eanac"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101795777,
-    "wof:lastmodified":1563577576,
+    "wof:lastmodified":1566647404,
     "wof:name":"Ra\u017eanac",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

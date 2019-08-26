@@ -24,8 +24,12 @@
     "gn:population":30,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.17292,45.32334,17.21292,45.36334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bijela Stijena"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1225957277,
-    "wof:lastmodified":1564155143,
+    "wof:lastmodified":1566647737,
     "wof:name":"Bijela Stijena",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

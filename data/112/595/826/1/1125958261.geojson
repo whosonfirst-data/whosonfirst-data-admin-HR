@@ -9,15 +9,18 @@
     "geom:bbox":"14.01528,45.14167,14.01528,45.14167",
     "geom:latitude":45.14167,
     "geom:longitude":14.01528,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":900,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
     "gn:population":900,
     "iso:country":"HR",
+    "lbl:bbox":"13.99528,45.12167,14.03528,45.16167",
     "lbl:latitude":45.14167,
     "lbl:longitude":14.01528,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Gorica"
@@ -40,7 +43,7 @@
     "name:slv_x_preferred":[
         "Gorica"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorizza"
     ],
     "qs_pg:aaroncc":"HR",
@@ -60,7 +63,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":847767,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125958261,
-    "wof:lastmodified":1561749612,
+    "wof:lastmodified":1566647476,
     "wof:name":"Gorica",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

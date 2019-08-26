@@ -25,8 +25,12 @@
     "gn:population":269,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.73,46.18,15.77,46.22",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Kostelski Bregi",
         "Bregi Kostelski"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326524537,
-    "wof:lastmodified":1537625932,
+    "wof:lastmodified":1566646608,
     "wof:name":"Bregi Kostelski",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

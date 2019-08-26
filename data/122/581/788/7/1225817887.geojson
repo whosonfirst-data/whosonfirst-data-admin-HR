@@ -24,8 +24,12 @@
     "gn:population":629,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.5,46.245,16.54,46.285",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrbanovec"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1225817887,
-    "wof:lastmodified":1564155232,
+    "wof:lastmodified":1566647794,
     "wof:name":"Vrbanovec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

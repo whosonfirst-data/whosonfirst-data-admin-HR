@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.079941,
     "lbl:longitude":13.643526,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.079941,
     "mps:longitude":13.643526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0641\u064a\u0646\u062c"
     ],
@@ -188,12 +191,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0432\u0456\u043d\u044c"
     ],
-    "name:und_x_preferred":[
-        "Rovinj"
-    ],
-    "name:unk_x_variant":[
-        "Rovigno"
-    ],
     "name:vec_x_preferred":[
         "Rovigno"
     ],
@@ -219,7 +216,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.083333,
     "wd:longitude":13.633333,
@@ -237,7 +234,6 @@
         "gn:id":3191518,
         "gp:id":850045,
         "nyt:id":"88031906521429138821",
-        "qs:id":279717,
         "qs_pg:id":279717,
         "wd:id":"Q5316",
         "wk:page":"Rovinj"
@@ -256,7 +252,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577572,
+    "wof:lastmodified":1566647403,
     "wof:name":"Rovinj",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

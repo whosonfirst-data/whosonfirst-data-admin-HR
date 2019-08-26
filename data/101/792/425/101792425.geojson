@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.631215,
     "lbl:longitude":18.692647,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.631215,
     "mps:longitude":18.692647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Darda"
     ],
@@ -80,9 +83,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440\u0434\u0430"
     ],
-    "name:und_x_preferred":[
-        "Darda"
-    ],
     "name:war_x_preferred":[
         "Darda"
     ],
@@ -102,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":461,
     "wof:belongsto":[
@@ -115,7 +115,6 @@
         "fct:id":"115b85e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3202186,
         "gp:id":847260,
-        "qs:id":249962,
         "qs_pg:id":249962,
         "wd:id":"Q912592",
         "wk:page":"Darda, Croatia"
@@ -134,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577595,
+    "wof:lastmodified":1566647409,
     "wof:name":"Darda",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

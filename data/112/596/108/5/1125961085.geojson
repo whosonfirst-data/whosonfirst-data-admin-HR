@@ -9,15 +9,18 @@
     "geom:bbox":"15.68528,45.84556,15.68528,45.84556",
     "geom:latitude":45.84556,
     "geom:longitude":15.68528,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2540,
-    "gn:population":2440,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":2540,
     "iso:country":"HR",
+    "lbl:bbox":"15.66528,45.82556,15.70528,45.86556",
     "lbl:latitude":45.84556,
     "lbl:longitude":15.68528,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Bregana"
@@ -58,9 +61,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0435\u0433\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Bregana"
-    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -78,7 +78,7 @@
     "qs_pg:woe_adm0":23424945,
     "qs_pg:woe_id":55851942,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424945,
     "woe:name_adm0":"Slovenija",
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1125961085,
-    "wof:lastmodified":1563577814,
+    "wof:lastmodified":1566647509,
     "wof:name":"Bregance",
     "wof:parent_id":1108959585,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.162363,
     "lbl:longitude":14.760752,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.162363,
     "mps:longitude":14.760752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bribir"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":33,
     "wof:belongsto":[
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":3203315,
         "gp:id":847000,
-        "qs:id":147312,
         "qs_pg:id":147312,
         "wd:id":"Q343156"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101794655,
-    "wof:lastmodified":1563577538,
+    "wof:lastmodified":1566647397,
     "wof:name":"Bribir",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

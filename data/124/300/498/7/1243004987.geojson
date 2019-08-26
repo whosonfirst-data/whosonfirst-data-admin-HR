@@ -25,8 +25,12 @@
     "gn:population":80,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.35056,45.45528,15.39056,45.49528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Donje",
         "Donje Prili\u0161\u0107e"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243004987,
-    "wof:lastmodified":1537625916,
+    "wof:lastmodified":1566647536,
     "wof:name":"Donje Prilisce",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

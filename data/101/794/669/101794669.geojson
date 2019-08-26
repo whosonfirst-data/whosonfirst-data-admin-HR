@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.372395,
     "lbl:longitude":15.07625,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.372395,
     "mps:longitude":15.07625,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrbovsko"
     ],
@@ -101,9 +104,6 @@
     "name:ukr_x_variant":[
         "\u0412\u0440\u0431\u043e\u0432\u0441\u044c\u043a\u043e"
     ],
-    "name:und_x_preferred":[
-        "Vrbovsko"
-    ],
     "name:war_x_preferred":[
         "Vrbovsko"
     ],
@@ -126,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":527,
     "wof:belongsto":[
@@ -139,7 +139,6 @@
         "fct:id":"115d5efe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3187257,
         "gp:id":851040,
-        "qs:id":147069,
         "qs_pg:id":147069,
         "wd:id":"Q396637"
     },
@@ -157,7 +156,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577524,
+    "wof:lastmodified":1566647393,
     "wof:name":"Vrbovsko",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

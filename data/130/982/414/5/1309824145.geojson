@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.0175,45.38972,18.0575,45.42972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bukovac"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1309824145,
-    "wof:lastmodified":1564154742,
+    "wof:lastmodified":1566647443,
     "wof:name":"Bukovac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

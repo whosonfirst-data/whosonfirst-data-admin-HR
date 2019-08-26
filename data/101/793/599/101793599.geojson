@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.450731,
     "lbl:longitude":18.658534,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.450731,
     "mps:longitude":18.658534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ernestinovo"
     ],
@@ -71,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440\u043d\u0435\u0441\u0442\u0438\u043d\u043e\u0432\u043e"
     ],
-    "name:und_x_preferred":[
-        "Ernestinovo"
-    ],
     "name:war_x_preferred":[
         "Ernestinovo"
     ],
@@ -93,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":142,
     "wof:belongsto":[
@@ -106,7 +106,6 @@
         "fct:id":"115bb644-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3200881,
         "gp:id":847656,
-        "qs:id":262070,
         "qs_pg:id":262070,
         "wd:id":"Q978701",
         "wk:page":"Ernestinovo"
@@ -125,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577487,
+    "wof:lastmodified":1566647383,
     "wof:name":"Ernestinovo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

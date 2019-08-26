@@ -13,8 +13,10 @@
     "gn:longitude":15.98333,
     "gn:population":5000,
     "iso:country":"HR",
+    "lbl:bbox":"15.974336,45.76707,15.984336,45.77707",
     "lbl:latitude":45.77207,
     "lbl:longitude":15.979336,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.769264,
     "mps:longitude":15.987099,
     "mz:hierarchy_label":0,
@@ -56,12 +58,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0438\u0439 \u0417\u0430\u0433\u0440\u0435\u0431"
-    ],
-    "name:und_x_preferred":[
-        "Novi Zagreb"
-    ],
-    "name:unk_x_variant":[
-        "Novi Zagreb"
     ],
     "qs:gn_adm0_cc":"HR",
     "qs:gn_fcode":"PPLX",
@@ -105,7 +101,6 @@
     "wof:concordances":{
         "gn:id":3209408,
         "gp:id":849369,
-        "qs:id":235332,
         "qs_pg:id":235332,
         "wd:id":"Q1024104",
         "wk:page":"Novi Zagreb"
@@ -125,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247544,
+    "wof:lastmodified":1566646756,
     "wof:name":"Novi Zagreb",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":196,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.36333,45.09667,15.40333,45.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:abk_x_preferred":[
         "\u0410\u043b\u0430\u04ad\u044b\u043d \u0431\u044b\u0437\u0448\u04d9\u0430"
     ],
@@ -681,7 +685,7 @@
         }
     ],
     "wof:id":1243268697,
-    "wof:lastmodified":1564154998,
+    "wof:lastmodified":1566647646,
     "wof:name":"Latin",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

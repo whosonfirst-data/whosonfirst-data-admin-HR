@@ -24,8 +24,12 @@
     "gn:population":167,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.39167,44.745,15.43167,44.785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Ramljane",
         "Ramljani"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310620961,
-    "wof:lastmodified":1537625840,
+    "wof:lastmodified":1566647227,
     "wof:name":"Ramljani",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

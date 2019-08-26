@@ -24,8 +24,12 @@
     "gn:population":48,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.8775,45.28361,14.9175,45.32361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Begovo Razdolje"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1260057301,
-    "wof:lastmodified":1564154493,
+    "wof:lastmodified":1566647204,
     "wof:name":"Begovo Razdolje",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

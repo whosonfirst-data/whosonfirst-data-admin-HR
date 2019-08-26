@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.567863,
     "lbl:longitude":18.616389,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.567863,
     "mps:longitude":18.616389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vi\u0161njevac"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0448\u043d\u0454\u0432\u0430\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Adolfovac Pusta"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -73,7 +76,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":41,
     "wof:belongsto":[
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":3187657,
         "gp:id":850960,
-        "qs:id":1219376,
+        "qs_pg:id":1219376,
         "wd:id":"Q2393687",
         "wk:page":"Vi\u0161njevac, Osijek-Baranja County"
     },
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101754515,
-    "wof:lastmodified":1563577338,
+    "wof:lastmodified":1566647338,
     "wof:name":"Vi\u0161njevac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

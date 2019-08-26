@@ -24,8 +24,12 @@
     "gn:population":554,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.67667,45.86944,18.71667,45.90944",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dubo\u0161evica"
     ],
@@ -59,9 +63,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0431\u043e\u0448\u0435\u0432\u0438\u0446\u044f"
     ],
-    "name:und_x_variant":[
-        "Dubo\u0161evica"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1276968243,
-    "wof:lastmodified":1564154191,
+    "wof:lastmodified":1566646994,
     "wof:name":"Dubosevica",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

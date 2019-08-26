@@ -9,15 +9,18 @@
     "geom:bbox":"16.89694,43.46417,16.89694,43.46417",
     "geom:latitude":43.46417,
     "geom:longitude":16.89694,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":808,
-    "gn:population":562,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":808,
     "iso:country":"HR",
+    "lbl:bbox":"16.87694,43.44417,16.91694,43.48417",
     "lbl:latitude":43.46417,
     "lbl:longitude":16.89694,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Katuni"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0442\u0443\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Donji Katuni"
     ],
     "qs_pg:aaroncc":"HR",
@@ -63,7 +66,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":848385,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125937309,
-    "wof:lastmodified":1563577698,
+    "wof:lastmodified":1566647466,
     "wof:name":"Katuni",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

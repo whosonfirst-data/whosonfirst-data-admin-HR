@@ -24,8 +24,12 @@
     "gn:population":115,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.04995,45.58962,16.08995,45.62962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podvornica"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1243328425,
-    "wof:lastmodified":1564154925,
+    "wof:lastmodified":1566647601,
     "wof:name":"Podvornica",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

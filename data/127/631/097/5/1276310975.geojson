@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.09944,45.46222,17.13944,45.50222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Toranj"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1276310975,
-    "wof:lastmodified":1564154204,
+    "wof:lastmodified":1566647005,
     "wof:name":"Toranj",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

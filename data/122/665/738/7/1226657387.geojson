@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.55278,42.8525,17.59278,42.8925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0938\u0924\u093e\u0930\u093e"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1226657387,
-    "wof:lastmodified":1564155306,
+    "wof:lastmodified":1566647842,
     "wof:name":"Satara",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

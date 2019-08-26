@@ -24,8 +24,12 @@
     "gn:population":139,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.8375,42.77833,17.8775,42.81833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bani\u0107i"
     ],
@@ -59,9 +63,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0438\u0447\u0456"
     ],
-    "name:und_x_variant":[
-        "Bani\u0107i"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1209422615,
-    "wof:lastmodified":1564154346,
+    "wof:lastmodified":1566647104,
     "wof:name":"Banici",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":555,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.08,45.74667,16.12,45.78667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Obrezina"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1242739673,
-    "wof:lastmodified":1564154849,
+    "wof:lastmodified":1566647552,
     "wof:name":"Obrezina",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

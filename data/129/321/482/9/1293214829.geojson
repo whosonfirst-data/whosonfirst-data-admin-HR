@@ -23,8 +23,12 @@
     "gn:population":144,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.87182,45.93163,16.91182,45.97163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kupinovac"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1293214829,
-    "wof:lastmodified":1564154031,
+    "wof:lastmodified":1566646883,
     "wof:name":"Kupinovac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

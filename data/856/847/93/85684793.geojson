@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":45.675189,
     "lbl:longitude":17.683682,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.675189,
     "mps:longitude":17.683682,
     "mz:hierarchy_label":1,
@@ -217,7 +218,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0440\u043e\u0432\u0438\u0442\u0438\u0446\u044c\u043a\u043e-\u041f\u043e\u0434\u0440\u0430\u0432\u0441\u044c\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Viroviti\u010dk-Podravska"
     ],
     "name:urd_x_preferred":[
@@ -302,9 +303,9 @@
     "qs:type":"\u017dupanija",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-31",
+    "src:population_date":"2011-03-31",
     "statoids:area_km":"2,024",
     "statoids:area_mi":"781",
     "statoids:as_of_date":"2011-03-31",
@@ -350,11 +351,10 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1565714412,
+    "wof:lastmodified":1566646765,
     "wof:name":"Viroviticko-podravska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":84836,
     "wof:population_rank":8,

@@ -24,8 +24,12 @@
     "gn:population":97,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.43,45.93,16.47,45.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Donji Tkalec"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1243428843,
-    "wof:lastmodified":1564154984,
+    "wof:lastmodified":1566647639,
     "wof:name":"Donji Tkalec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

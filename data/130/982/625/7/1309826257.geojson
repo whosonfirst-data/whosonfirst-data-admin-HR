@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.40667,44.83639,15.44667,44.87639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1309826257,
-    "wof:lastmodified":1536901737,
+    "wof:lastmodified":1566647444,
     "wof:name":"Levnajici",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

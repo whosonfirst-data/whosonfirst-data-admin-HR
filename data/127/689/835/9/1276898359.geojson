@@ -25,8 +25,12 @@
     "gn:population":269,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.01417,45.23778,14.05417,45.27778",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Moncalvo di Pisino",
         "Moncalvo",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276898359,
-    "wof:lastmodified":1537625905,
+    "wof:lastmodified":1566646914,
     "wof:name":"Gologorica",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

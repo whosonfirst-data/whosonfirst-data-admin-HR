@@ -25,8 +25,12 @@
     "gn:population":127,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.97028,45.27778,14.01028,45.31778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Pagabizze",
         "Pagovice",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276341239,
-    "wof:lastmodified":1537625852,
+    "wof:lastmodified":1566646931,
     "wof:name":"Pagubice",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

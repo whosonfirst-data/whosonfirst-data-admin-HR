@@ -24,8 +24,12 @@
     "gn:population":47,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.89889,45.39778,13.93889,45.43778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Scuiari",
         "\u0160kuljari"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276448627,
-    "wof:lastmodified":1537625831,
+    "wof:lastmodified":1566646905,
     "wof:name":"Skuljari",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

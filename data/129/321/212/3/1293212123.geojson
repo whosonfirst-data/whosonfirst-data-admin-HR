@@ -25,8 +25,12 @@
     "gn:population":113,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.35007,42.92034,17.39007,42.96034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pijavi\u010dino"
     ],
@@ -47,9 +51,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u044f\u0432\u0438\u0447\u0438\u043d\u043e"
-    ],
-    "name:und_x_variant":[
-        "Pijavi\u010dino"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1293212123,
-    "wof:lastmodified":1564154031,
+    "wof:lastmodified":1566646884,
     "wof:name":"Pijavicino",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

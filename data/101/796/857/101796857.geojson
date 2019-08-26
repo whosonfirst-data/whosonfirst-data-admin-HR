@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":42.928207,
     "lbl:longitude":16.893465,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":42.928207,
     "mps:longitude":16.893465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Smokvica"
     ],
@@ -77,12 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043c\u043e\u043a\u0432\u0438\u0446\u044f"
     ],
-    "name:und_x_preferred":[
-        "Smokvica"
-    ],
-    "name:unk_x_variant":[
-        "Smoquizza"
-    ],
     "name:war_x_preferred":[
         "Smokvica"
     ],
@@ -102,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":734,
     "wof:belongsto":[
@@ -115,7 +112,6 @@
         "fct:id":"115d00a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3190465,
         "gp:id":850311,
-        "qs:id":262131,
         "qs_pg:id":262131,
         "wd:id":"Q609468",
         "wk:page":"Smokvica"
@@ -134,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577371,
+    "wof:lastmodified":1566647349,
     "wof:name":"Smokvica",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

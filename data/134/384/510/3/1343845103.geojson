@@ -24,8 +24,12 @@
     "gn:population":7638,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.41028,45.33,14.45028,45.37",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Drenova"
     ],
@@ -51,8 +55,7 @@
         "Drenova"
     ],
     "name:und_x_variant":[
-        "Drenovo",
-        "Drenova"
+        "Drenovo"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1343845103,
-    "wof:lastmodified":1564153757,
+    "wof:lastmodified":1566646682,
     "wof:name":"Drenova",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

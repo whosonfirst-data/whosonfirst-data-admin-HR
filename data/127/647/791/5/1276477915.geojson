@@ -24,8 +24,12 @@
     "gn:population":99,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.5725,45.24333,13.6125,45.28333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Cerveragrande",
         "\u010crvar Porat",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276477915,
-    "wof:lastmodified":1537625922,
+    "wof:lastmodified":1566646965,
     "wof:name":"Crvar",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

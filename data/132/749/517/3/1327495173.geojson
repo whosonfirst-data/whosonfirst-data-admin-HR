@@ -23,8 +23,12 @@
     "gn:population":498,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.14694,45.75911,16.18694,45.79911",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1327495173,
-    "wof:lastmodified":1537084856,
+    "wof:lastmodified":1566646569,
     "wof:name":"Svibje",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

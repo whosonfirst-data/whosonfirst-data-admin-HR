@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.7175,44.57861,15.7575,44.61861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Donji Jo\u0161ane",
         "Donji Jo\u0161an"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343259643,
-    "wof:lastmodified":1537625964,
+    "wof:lastmodified":1566646697,
     "wof:name":"Donji Josan",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

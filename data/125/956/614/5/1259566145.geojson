@@ -24,8 +24,12 @@
     "gn:population":271,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.70111,43.27639,16.74111,43.31639",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gornji Humac"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1259566145,
-    "wof:lastmodified":1564155105,
+    "wof:lastmodified":1566647712,
     "wof:name":"Gornji Humac",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

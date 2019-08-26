@@ -25,8 +25,12 @@
     "gn:population":256,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.88111,45.28222,13.92111,45.32222",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Caschierga",
         "Villa Padova",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343685905,
-    "wof:lastmodified":1537625888,
+    "wof:lastmodified":1566646704,
     "wof:name":"Kascerga",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

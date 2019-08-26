@@ -23,8 +23,12 @@
     "gn:population":366,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.24639,45.8825,16.28639,45.9225",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sveta Helena"
     ],
@@ -54,8 +58,7 @@
     ],
     "name:und_x_variant":[
         "Helena",
-        "Sveta Jelena",
-        "Sveta Helena"
+        "Sveta Jelena"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1277151305,
-    "wof:lastmodified":1564154127,
+    "wof:lastmodified":1566646949,
     "wof:name":"Sveta Helena",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

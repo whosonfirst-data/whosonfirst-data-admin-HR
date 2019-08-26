@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.08583,45.26528,18.12583,45.30528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Borojevci"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242761451,
-    "wof:lastmodified":1564154957,
+    "wof:lastmodified":1566647623,
     "wof:name":"Borojevci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

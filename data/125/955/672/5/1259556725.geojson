@@ -25,8 +25,12 @@
     "gn:population":133,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.90861,43.11194,16.94861,43.15194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gdinj"
     ],
@@ -55,8 +59,7 @@
         "\u0413\u0434\u0438\u043d\u044c"
     ],
     "name:und_x_variant":[
-        "Godinj",
-        "Gdinj"
+        "Godinj"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1259556725,
-    "wof:lastmodified":1564155043,
+    "wof:lastmodified":1566647673,
     "wof:name":"Gdinj",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

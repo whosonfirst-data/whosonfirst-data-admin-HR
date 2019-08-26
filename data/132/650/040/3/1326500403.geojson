@@ -24,8 +24,12 @@
     "gn:population":244,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.34667,43.64667,16.38667,43.68667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u0438\u0441\u043a\u043e"
     ],
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1326500403,
-    "wof:lastmodified":1564153584,
+    "wof:lastmodified":1566646559,
     "wof:name":"Nisko",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

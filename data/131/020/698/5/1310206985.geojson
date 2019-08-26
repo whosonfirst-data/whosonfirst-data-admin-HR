@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.11778,42.63944,18.15778,42.67944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Podgaj"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1310206985,
-    "wof:lastmodified":1564154561,
+    "wof:lastmodified":1566647251,
     "wof:name":"Podgaj",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

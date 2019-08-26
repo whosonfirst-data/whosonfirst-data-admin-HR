@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.358639,
     "lbl:longitude":14.310602,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.358639,
     "mps:longitude":14.310602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Matulji"
     ],
@@ -83,12 +86,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0442\u0443\u043b\u0456"
     ],
-    "name:und_x_preferred":[
-        "Matulji"
-    ],
-    "name:unk_x_variant":[
-        "Mattuglie"
-    ],
     "name:war_x_preferred":[
         "Matulji"
     ],
@@ -112,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":350,
     "wof:belongsto":[
@@ -125,7 +122,6 @@
         "fct:id":"115aebe2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3195362,
         "gp:id":849111,
-        "qs:id":1012588,
         "qs_pg:id":1012588,
         "wd:id":"Q518871",
         "wk:page":"Matulji"
@@ -144,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577508,
+    "wof:lastmodified":1566647389,
     "wof:name":"Matulji",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

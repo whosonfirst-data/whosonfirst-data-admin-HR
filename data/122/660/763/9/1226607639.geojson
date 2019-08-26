@@ -25,8 +25,12 @@
     "gn:population":170,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.5205,44.09409,15.5605,44.13409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Biljane Gornje",
         "Gonje Biljune",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226607639,
-    "wof:lastmodified":1537625903,
+    "wof:lastmodified":1566647776,
     "wof:name":"Gornje Biljane",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

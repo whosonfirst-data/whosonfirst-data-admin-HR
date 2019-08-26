@@ -24,8 +24,12 @@
     "gn:population":37,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.29667,45.34667,15.33667,45.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327156887,
-    "wof:lastmodified":1537075558,
+    "wof:lastmodified":1566646569,
     "wof:name":"Umol",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

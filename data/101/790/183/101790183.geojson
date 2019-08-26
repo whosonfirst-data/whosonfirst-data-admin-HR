@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.366566,
     "lbl:longitude":16.64812,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.366566,
     "mps:longitude":16.64812,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Donji Kraljevec"
     ],
@@ -106,7 +109,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043d\u0456\u0439 \u041a\u0440\u0430\u043b\u0454\u0432\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Donji Kraljevoc"
     ],
     "name:war_x_preferred":[
@@ -126,7 +129,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":212,
     "wof:belongsto":[
         102191581,
@@ -137,7 +140,7 @@
     "wof:concordances":{
         "gn:id":3201454,
         "gp:id":847479,
-        "qs:id":916085,
+        "qs_pg:id":916085,
         "wd:id":"Q746303",
         "wk:page":"Donji Kraljevec"
     },
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":101790183,
-    "wof:lastmodified":1563577331,
+    "wof:lastmodified":1566647336,
     "wof:name":"Donji Kraljevec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

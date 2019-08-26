@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.18417,43.35833,17.22417,43.39833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Garci"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276305599,
-    "wof:lastmodified":1564154184,
+    "wof:lastmodified":1566646991,
     "wof:name":"Garci",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

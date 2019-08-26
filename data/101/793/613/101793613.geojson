@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.591183,
     "lbl:longitude":17.221673,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.591183,
     "mps:longitude":17.221673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u0648\u0641\u0627\u0631"
     ],
@@ -119,10 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440\u0443\u0432\u0430\u0440"
     ],
-    "name:und_x_preferred":[
-        "Daruvar"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aquae Balisae"
     ],
     "name:war_x_preferred":[
@@ -147,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.6,
     "wd:longitude":17.216667,
@@ -162,7 +162,6 @@
         "fct:id":"115b8624-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3202184,
         "gp:id":847263,
-        "qs:id":1167376,
         "qs_pg:id":1167376,
         "wd:id":"Q399430",
         "wk:page":"Daruvar"
@@ -181,7 +180,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577491,
+    "wof:lastmodified":1566647384,
     "wof:name":"Daruvar",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

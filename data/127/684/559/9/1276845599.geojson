@@ -24,8 +24,12 @@
     "gn:population":336,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.15556,44.07556,15.19556,44.11556",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sutomi\u0161\u0107ica"
     ],
@@ -50,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0442\u043e\u043c\u0438\u0449\u0438\u0446\u044f"
     ],
-    "name:und_x_variant":[
-        "Sutomi\u0161\u0107ica"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1276845599,
-    "wof:lastmodified":1564154163,
+    "wof:lastmodified":1566646975,
     "wof:name":"Sutomiscica",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

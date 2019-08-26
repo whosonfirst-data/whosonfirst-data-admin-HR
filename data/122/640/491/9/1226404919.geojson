@@ -23,8 +23,12 @@
     "gn:population":107,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.85944,44.19444,14.89944,44.23444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u043b\u0430\u0442"
     ],
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1226404919,
-    "wof:lastmodified":1564155263,
+    "wof:lastmodified":1566647814,
     "wof:name":"Molat",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

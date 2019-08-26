@@ -25,8 +25,12 @@
     "gn:population":185,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.42941,45.95096,16.46941,45.99096",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gornji Tkalec"
     ],
@@ -49,8 +53,7 @@
         "\u0413\u043e\u0440\u043d\u0456\u0439 \u0422\u043a\u0430\u043b\u0435\u0446\u044c"
     ],
     "name:und_x_variant":[
-        "Tkalec Gornji",
-        "Gornji Tkalec"
+        "Tkalec Gornji"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1310563121,
-    "wof:lastmodified":1564154608,
+    "wof:lastmodified":1566647281,
     "wof:name":"Gornji Tkalec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"15.31833,44.35167,15.31833,44.35167",
     "geom:latitude":44.35167,
     "geom:longitude":15.31833,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"HR",
+    "lbl:bbox":"15.29833,44.33167,15.33833,44.37167",
     "lbl:latitude":44.35167,
     "lbl:longitude":15.31833,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Tribanj"
@@ -45,9 +49,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0438\u0431\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Tribanj"
-    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -69,7 +70,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":850699,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
     "woe:name_adm1":"Zadarsko-Kninska",
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1125991807,
-    "wof:lastmodified":1563577796,
+    "wof:lastmodified":1566647502,
     "wof:name":"Tribanj-Kru\u0161\u0107ica",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

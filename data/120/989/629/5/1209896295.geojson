@@ -25,8 +25,12 @@
     "gn:population":2,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.37722,44.84806,14.41722,44.88806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Sbissina",
         "Zbi\u0161ina"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209896295,
-    "wof:lastmodified":1537625804,
+    "wof:lastmodified":1566647101,
     "wof:name":"Zbisina",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":171,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.88,45.31333,15.92,45.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Blatu\u0161a"
     ],
@@ -58,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043b\u0430\u0442\u0443\u0448\u0430"
     ],
-    "name:und_x_variant":[
-        "Blatu\u0161a"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1343828833,
-    "wof:lastmodified":1564153775,
+    "wof:lastmodified":1566646692,
     "wof:name":"Blatusa",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.495128,
     "lbl:longitude":18.120725,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.495128,
     "mps:longitude":18.120725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Markovac Na\u0161i\u010dki"
     ],
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043a\u043e\u0432\u0430\u0446\u044c-\u041d\u0430\u0448\u0438\u0446\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Na\u0161i\u010dki Markovac"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -63,7 +66,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":80,
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3195462,
         "gp:id":849078,
-        "qs:id":407317,
+        "qs_pg:id":407317,
         "wd:id":"Q6505198",
         "wk:page":"Markovac Na\u0161i\u010dki"
     },
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101835401,
-    "wof:lastmodified":1563577431,
+    "wof:lastmodified":1566647366,
     "wof:name":"Markovac Na\u0161i\u010dki",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

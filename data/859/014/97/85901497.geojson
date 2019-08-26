@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14447491.80729,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.321108,45.353461,14.321108,45.353461",
     "geom:latitude":45.353461,
     "geom:longitude":14.321108,
     "gn:latitude":45.3625,
     "gn:longitude":14.30028,
     "iso:country":"HR",
+    "lbl:bbox":"14.316108,45.348461,14.326108,45.358461",
     "lbl:latitude":45.353461,
     "lbl:longitude":14.321108,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.359479,
     "mps:longitude":14.328757,
     "mz:hierarchy_label":0,
@@ -25,10 +27,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Donji Rukavac"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Donji Rukavac"
     ],
     "qs:gn_adm0_cc":"HR",
@@ -60,7 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101758593,
@@ -71,7 +70,6 @@
     "wof:concordances":{
         "gn:id":3201399,
         "gp:id":847506,
-        "qs:id":423445,
         "qs_pg:id":423445
     },
     "wof:country":"HR",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932516,
+    "wof:lastmodified":1566646756,
     "wof:name":"Donji Rukavac",
     "wof:parent_id":101758593,
     "wof:placetype":"neighbourhood",

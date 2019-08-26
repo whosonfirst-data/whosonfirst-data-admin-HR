@@ -25,8 +25,12 @@
     "gn:population":172,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.58389,43.33472,16.62389,43.37472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160krip"
     ],
@@ -67,8 +71,7 @@
         "\u0428\u043a\u0440\u0438\u043f"
     ],
     "name:und_x_variant":[
-        "Skriv",
-        "\u0160krip"
+        "Skriv"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1310088389,
-    "wof:lastmodified":1564154547,
+    "wof:lastmodified":1566647241,
     "wof:name":"Skrip",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.493762,
     "lbl:longitude":16.400082,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.493762,
     "mps:longitude":16.400082,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Selnica"
     ],
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043b\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Szelenczehegy"
     ],
     "name:war_x_preferred":[
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":127,
     "wof:belongsto":[
         102191581,
@@ -100,10 +103,12 @@
     "wof:concordances":{
         "gn:id":3191097,
         "gp:id":850156,
-        "qs:id":1275516,
         "qs_pg:id":1043936,
         "wd:id":"Q1194710",
         "wk:page":"Selnica, Me\u0111imurje County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1275516
     },
     "wof:country":"HR",
     "wof:geomhash":"b3ead4c1cacb9b01909d2d65136e1990",
@@ -116,7 +121,7 @@
         }
     ],
     "wof:id":101790173,
-    "wof:lastmodified":1563577327,
+    "wof:lastmodified":1566647334,
     "wof:name":"Selnica",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

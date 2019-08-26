@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.03278,45.335,16.07278,45.375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gornji Vidu\u0161evac"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1276625509,
-    "wof:lastmodified":1564154187,
+    "wof:lastmodified":1566646992,
     "wof:name":"Gornji Vidusevac",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

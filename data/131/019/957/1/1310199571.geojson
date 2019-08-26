@@ -24,8 +24,12 @@
     "gn:population":366,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.7171,46.1893,15.7571,46.2293",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lupinjak"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1310199571,
-    "wof:lastmodified":1564154586,
+    "wof:lastmodified":1566647267,
     "wof:name":"Lupinjak",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

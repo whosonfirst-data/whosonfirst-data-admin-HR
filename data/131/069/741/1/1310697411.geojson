@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.31583,44.85889,15.35583,44.89889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Donje Doljane",
         "Donji Doljani"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310697411,
-    "wof:lastmodified":1537625916,
+    "wof:lastmodified":1566647283,
     "wof:name":"Donji Doljani",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

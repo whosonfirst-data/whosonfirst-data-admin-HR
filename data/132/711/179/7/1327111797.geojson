@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.86583,45.37222,14.90583,45.41222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kupjak"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1327111797,
-    "wof:lastmodified":1564153686,
+    "wof:lastmodified":1566646633,
     "wof:name":"Kupjak",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

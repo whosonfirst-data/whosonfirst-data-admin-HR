@@ -24,8 +24,12 @@
     "gn:population":240,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.73028,45.19333,13.77028,45.23333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Baderna"
     ],
@@ -58,8 +62,7 @@
     ],
     "name:und_x_variant":[
         "Mompaderno",
-        "Monpaderno",
-        "Baderna"
+        "Monpaderno"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1293889889,
-    "wof:lastmodified":1564154042,
+    "wof:lastmodified":1566646892,
     "wof:name":"Baderna",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

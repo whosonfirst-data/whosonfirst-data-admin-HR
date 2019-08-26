@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.451301,
     "lbl:longitude":18.578826,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.451301,
     "mps:longitude":18.578826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vladislavci"
     ],
@@ -74,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432\u0446\u0456"
     ],
-    "name:und_x_preferred":[
-        "Vladislavci"
-    ],
     "name:war_x_preferred":[
         "Vladislavci"
     ],
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":55,
     "wof:belongsto":[
@@ -109,7 +109,6 @@
         "fct:id":"115d562a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3187547,
         "gp:id":850975,
-        "qs:id":1286784,
         "qs_pg:id":1286784,
         "wd:id":"Q1284718",
         "wk:page":"Vladislavci"
@@ -128,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577501,
+    "wof:lastmodified":1566647387,
     "wof:name":"Vladislavci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

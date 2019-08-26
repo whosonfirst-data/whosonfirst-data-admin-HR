@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.99222,44.24167,16.03222,44.28167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633229
@@ -34,7 +38,7 @@
         "gn:id":3277061
     },
     "wof:country":"HR",
-    "wof:geomhash":"f739e91548452b9f4a0a9ec8a41146cb",
+    "wof:geomhash":"73ad6ffe17aa1cfd06e3317b4a71b3f0",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209581153,
-    "wof:lastmodified":1536282784,
+    "wof:lastmodified":1566647081,
     "wof:name":"Grubisici",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.012220000000006,
+    16.01222000000001,
     44.26167,
-    16.012220000000006,
+    16.01222000000001,
     44.26167
 ],
   "geometry": {"coordinates":[16.01222000000001,44.26167],"type":"Point"}

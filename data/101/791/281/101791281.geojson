@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.944972,
     "lbl:longitude":16.620726,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.944972,
     "mps:longitude":16.620726,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Sveti Ivan \u017dabno"
     ],
@@ -64,10 +67,7 @@
     "name:und_x_colloquial":[
         "Zabno"
     ],
-    "name:und_x_preferred":[
-        "\u017dabno"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u017dabno"
     ],
     "name:war_x_preferred":[
@@ -88,7 +88,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":93,
     "wof:belongsto":[
         102191581,
@@ -100,7 +100,7 @@
         "fct:id":"115ad288-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3186987,
         "gp:id":850584,
-        "qs:id":1275609,
+        "qs_pg:id":1275609,
         "wd:id":"Q578697",
         "wk:page":"Sveti Ivan \u017dabno"
     },
@@ -118,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577345,
+    "wof:lastmodified":1566647340,
     "wof:name":"Sveti Ivan \u017dabno",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

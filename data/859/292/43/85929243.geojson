@@ -13,8 +13,10 @@
     "gn:longitude":16.30833,
     "gn:population":564,
     "iso:country":"HR",
+    "lbl:bbox":"15.978652,45.792376,15.988652,45.802376",
     "lbl:latitude":45.797376,
     "lbl:longitude":15.983652,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.795806,
     "mps:longitude":15.973725,
     "mz:hierarchy_label":0,
@@ -66,13 +68,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u043d\u0454"
     ],
-    "name:und_x_preferred":[
-        "Trnje"
-    ],
-    "name:unk_x_variant":[
-        "T\u00fcskeszer",
-        "Trnje"
-    ],
     "qs:gn_adm0_cc":"HR",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3186886,
@@ -114,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3188799,
         "gp:id":55855362,
-        "qs:id":1198615,
+        "qs_pg:id":1198615,
         "wd:id":"Q736837",
         "wk:page":"Trnje, \u010cren\u0161ovci"
     },
@@ -133,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247583,
+    "wof:lastmodified":1566646756,
     "wof:name":"Trnje",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

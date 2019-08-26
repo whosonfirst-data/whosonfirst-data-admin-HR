@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.357561,
     "lbl:longitude":14.400707,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.357561,
     "mps:longitude":14.400707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Marini\u0107i"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":16,
     "wof:belongsto":[
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":3195482,
         "gp:id":55853965,
-        "qs:id":223525,
+        "qs_pg:id":223525,
         "wd:id":"Q1943409"
     },
     "wof:country":"HR",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101754509,
-    "wof:lastmodified":1563577336,
+    "wof:lastmodified":1566647337,
     "wof:name":"Marini\u0107i",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

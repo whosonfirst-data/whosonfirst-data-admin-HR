@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.173203,
     "lbl:longitude":17.839964,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.173203,
     "mps:longitude":17.839964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Stari Slatinik"
     ],
@@ -46,9 +49,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0439 \u0421\u043b\u0430\u0442\u0438\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
-        "Stari Slatnik"
-    ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Brodsko-posavska \u017eupanija",
     "qs:a1r":"0",
@@ -63,7 +63,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         102191581,
@@ -74,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3189944,
         "gp:id":850438,
-        "qs:id":407665,
+        "qs_pg:id":407665,
         "wd:id":"Q3514077",
         "wk:page":"Stari Slatinik"
     },
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":101835289,
-    "wof:lastmodified":1563577430,
+    "wof:lastmodified":1566647366,
     "wof:name":"Stari Slatinik",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

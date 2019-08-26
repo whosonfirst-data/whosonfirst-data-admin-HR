@@ -11,12 +11,16 @@
     "geom:longitude":16.536883,
     "gn:population":1135,
     "iso:country":"HR",
+    "lbl:bbox":"16.516883,46.36638,16.556883,46.40638",
     "lbl:latitude":46.38638,
     "lbl:longitude":16.536883,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.38638,
     "mps:longitude":16.536883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Palovec"
     ],
@@ -69,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":104,
     "wof:belongsto":[
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":3193662,
         "gp:id":850096,
-        "qs:id":1275497,
+        "qs_pg:id":1275497,
         "wd:id":"Q768796",
         "wk:page":"Palovec"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":101874239,
-    "wof:lastmodified":1563577386,
+    "wof:lastmodified":1566647353,
     "wof:name":"Palovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

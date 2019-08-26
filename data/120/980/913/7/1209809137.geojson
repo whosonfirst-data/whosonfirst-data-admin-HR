@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.91333,45.73,17.95333,45.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kr\u010denik"
     ],
@@ -48,9 +52,7 @@
         "\u041a\u0440\u0447\u0435\u043d\u0438\u043a"
     ],
     "name:und_x_variant":[
-        "Moslava\u010dki Kr\u010denik",
-        "Kr\u010denik",
-        "Kr\u010denik Moslava\u010dki"
+        "Moslava\u010dki Kr\u010denik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1209809137,
-    "wof:lastmodified":1564154341,
+    "wof:lastmodified":1566647100,
     "wof:name":"Krcenik Moslavacki",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

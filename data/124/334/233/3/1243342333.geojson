@@ -24,8 +24,12 @@
     "gn:population":87,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.25861,45.11222,16.29861,45.15222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Donja Stupnica"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1243342333,
-    "wof:lastmodified":1564154932,
+    "wof:lastmodified":1566647606,
     "wof:name":"Donja Stupnica",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

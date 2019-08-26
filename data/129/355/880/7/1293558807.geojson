@@ -25,8 +25,12 @@
     "gn:population":268,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.3825,46.16111,16.4225,46.20111",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kapela Kalni\u010dka"
     ],
@@ -52,8 +56,7 @@
         "\u041a\u0430\u043f\u0435\u043b\u0430-\u041a\u0430\u043b\u043d\u0438\u0446\u044c\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Kalni\u010dka Kapela",
-        "Kapela Kalni\u010dka"
+        "Kalni\u010dka Kapela"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1293558807,
-    "wof:lastmodified":1564153906,
+    "wof:lastmodified":1566646798,
     "wof:name":"Kapela Kalnicka",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

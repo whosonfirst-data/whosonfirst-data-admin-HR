@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.801169,
     "lbl:longitude":17.49756,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.801169,
     "mps:longitude":17.49756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Suhopolje"
     ],
@@ -80,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0445\u043e\u043f\u043e\u043b\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Theresowatz"
     ],
     "name:war_x_preferred":[
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":3189543,
         "gp:id":850527,
-        "qs:id":940612,
         "qs_pg:id":940612,
         "wd:id":"Q1010342",
         "wk:page":"Suhopolje"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101835355,
-    "wof:lastmodified":1563577427,
+    "wof:lastmodified":1566647365,
     "wof:name":"Suhopolje",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

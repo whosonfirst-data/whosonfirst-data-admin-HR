@@ -9,15 +9,18 @@
     "geom:bbox":"16.67083,43.18222,16.67083,43.18222",
     "geom:latitude":43.18222,
     "geom:longitude":16.67083,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":526,
-    "gn:population":548,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":526,
     "iso:country":"HR",
+    "lbl:bbox":"16.65083,43.16222,16.69083,43.20222",
     "lbl:latitude":43.18222,
     "lbl:longitude":16.67083,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Vrboska"
@@ -76,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0440\u0431\u043e\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vrbovska"
     ],
     "qs_pg:aaroncc":"HR",
@@ -100,7 +103,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":851032,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1125809461,
-    "wof:lastmodified":1563577782,
+    "wof:lastmodified":1566647498,
     "wof:name":"Vrboska",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

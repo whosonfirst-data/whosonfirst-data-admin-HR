@@ -13,6 +13,8 @@
     "iso:country":"HR",
     "lbl:latitude":44.867491,
     "lbl:longitude":13.852041,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":44.867491,
     "mps:longitude":13.852041,
     "mz:hierarchy_label":1,
@@ -257,12 +259,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u043b\u0430"
     ],
-    "name:und_x_preferred":[
-        "Pula"
-    ],
-    "name:unk_x_variant":[
-        "Pola"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0644\u0627"
     ],
@@ -407,7 +403,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":30.0,
     "wd:latitude":44.866667,
@@ -424,7 +420,6 @@
         "fct:id":"115ccc00-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3192224,
         "gp:id":849901,
-        "qs:id":491971,
         "qs_pg:id":491971,
         "wd:id":"Q4656",
         "wk:page":"Pula"
@@ -443,7 +438,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577554,
+    "wof:lastmodified":1566647400,
     "wof:name":"Pula",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

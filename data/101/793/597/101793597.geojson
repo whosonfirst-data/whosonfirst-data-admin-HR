@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.2722,
     "lbl:longitude":18.442651,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.2722,
     "mps:longitude":18.442651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Budrovci"
     ],
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0434\u0440\u043e\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Budrovce"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -60,7 +63,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3203108,
         "gp:id":847062,
-        "qs:id":184621,
+        "qs_pg:id":184621,
         "wd:id":"Q3504303",
         "wk:page":"Budrovci"
     },
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101793597,
-    "wof:lastmodified":1563577488,
+    "wof:lastmodified":1566647384,
     "wof:name":"Budrovci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

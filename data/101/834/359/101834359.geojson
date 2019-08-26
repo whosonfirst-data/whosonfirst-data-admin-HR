@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.305979,
     "lbl:longitude":16.335594,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.305979,
     "mps:longitude":16.335594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u0631\u0627\u0632\u062f\u064a\u0646"
     ],
@@ -225,10 +228,7 @@
     "name:und_x_colloquial":[
         "Varazdin"
     ],
-    "name:und_x_preferred":[
-        "Vara\u017edin"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aqua Viva"
     ],
     "name:urd_x_preferred":[
@@ -259,7 +259,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":532,
     "wof:belongsto":[
@@ -272,7 +272,6 @@
         "fct:id":"115d3f96-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3188383,
         "gp:id":850802,
-        "qs:id":147088,
         "qs_pg:id":147088,
         "wd:id":"Q5420",
         "wk:page":"Vara\u017edin County (former)"
@@ -291,7 +290,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577464,
+    "wof:lastmodified":1566647376,
     "wof:name":"Vara\u017edin",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

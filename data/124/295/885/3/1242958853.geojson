@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.99028,44.55889,15.03028,44.59889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Zelenike"
     ],
@@ -46,8 +50,7 @@
         "\u0417\u0435\u043b\u0435\u043d\u0438\u043a\u0435"
     ],
     "name:und_x_variant":[
-        "Zelenikova Draga",
-        "Zelenike"
+        "Zelenikova Draga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1242958853,
-    "wof:lastmodified":1564154874,
+    "wof:lastmodified":1566647568,
     "wof:name":"Zelenike",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

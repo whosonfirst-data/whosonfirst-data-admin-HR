@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.25528,43.37861,16.29528,43.41861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Srednje Selo",
         "Srednje Selo na \u0160olti"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209488559,
-    "wof:lastmodified":1537625828,
+    "wof:lastmodified":1566647041,
     "wof:name":"Srednje Selo na Solti",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

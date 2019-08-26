@@ -9,14 +9,18 @@
     "geom:bbox":"13.75861,45.32944,13.75861,45.32944",
     "geom:latitude":45.32944,
     "geom:longitude":13.75861,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"HR",
+    "lbl:bbox":"13.73861,45.30944,13.77861,45.34944",
     "lbl:latitude":45.32944,
     "lbl:longitude":13.75861,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Vi\u017einada"
@@ -69,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0436\u0438\u043d\u0430\u0434\u0430"
     ],
-    "name:unk_x_variant":[
-        "Visinada"
-    ],
     "name:war_x_preferred":[
         "Vi\u017einada"
     ],
@@ -96,7 +97,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":850973,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
     "woe:name_adm1":"Istarska",
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1125982811,
-    "wof:lastmodified":1563577822,
+    "wof:lastmodified":1566647513,
     "wof:name":"Vi\u017einada",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

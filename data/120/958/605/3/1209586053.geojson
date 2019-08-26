@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.76389,43.70028,16.80389,43.74028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633229
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209586053,
-    "wof:lastmodified":1536282633,
+    "wof:lastmodified":1566647079,
     "wof:name":"Gornja Strazbenica",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

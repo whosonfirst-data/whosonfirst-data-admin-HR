@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.257675,
     "lbl:longitude":18.908163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":45.257675,
     "mps:longitude":18.908163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Stari Jankovci"
     ],
@@ -56,10 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0456 \u042f\u043d\u043a\u043e\u0432\u0446\u0456"
     ],
-    "name:und_x_preferred":[
-        "Stari Jankovci"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jankovci"
     ],
     "name:war_x_preferred":[
@@ -81,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":146,
     "wof:belongsto":[
@@ -94,7 +94,6 @@
         "fct:id":"115d0d46-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3189959,
         "gp:id":850430,
-        "qs:id":407657,
         "qs_pg:id":407657,
         "wd:id":"Q1293848",
         "wk:page":"Stari Jankovci"
@@ -113,7 +112,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577456,
+    "wof:lastmodified":1566647373,
     "wof:name":"Stari Jankovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

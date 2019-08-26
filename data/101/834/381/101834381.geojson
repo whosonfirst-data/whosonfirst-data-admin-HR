@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.392201,
     "lbl:longitude":16.480711,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.392201,
     "mps:longitude":16.480711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pribislavec"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":323,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3192452,
         "gp:id":849844,
-        "qs:id":262122,
         "qs_pg:id":262122,
         "wd:id":"Q1088578",
         "wk:page":"Pribislavec"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101834381,
-    "wof:lastmodified":1563577468,
+    "wof:lastmodified":1566647377,
     "wof:name":"Pribislavec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

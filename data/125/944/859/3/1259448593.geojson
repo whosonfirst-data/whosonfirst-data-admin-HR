@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.52056,44.20278,15.56056,44.24278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Maslenica"
     ],
@@ -44,8 +48,7 @@
     ],
     "name:und_x_variant":[
         "Meslenica",
-        "Maslinica",
-        "Maslenica"
+        "Maslinica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1259448593,
-    "wof:lastmodified":1564155124,
+    "wof:lastmodified":1566647725,
     "wof:name":"Maslenica",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

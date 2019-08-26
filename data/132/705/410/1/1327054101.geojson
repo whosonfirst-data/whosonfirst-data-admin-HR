@@ -24,8 +24,12 @@
     "gn:population":3,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.12444,44.96167,14.16444,45.00167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Skita\u010da"
     ],
@@ -50,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u0438\u0442\u0430\u0447\u0430"
     ],
-    "name:und_x_variant":[
-        "Skita\u010da"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1327054101,
-    "wof:lastmodified":1564153614,
+    "wof:lastmodified":1566646582,
     "wof:name":"Skitaca",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

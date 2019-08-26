@@ -23,8 +23,12 @@
     "gn:population":122,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.73528,45.46,15.77528,45.5",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kablar"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276552407,
-    "wof:lastmodified":1564154170,
+    "wof:lastmodified":1566646981,
     "wof:name":"Kablar",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

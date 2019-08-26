@@ -9,14 +9,18 @@
     "geom:bbox":"13.86833,45.18361,13.86833,45.18361",
     "geom:latitude":45.18361,
     "geom:longitude":13.86833,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"HR",
+    "lbl:bbox":"13.84833,45.16361,13.88833,45.20361",
     "lbl:latitude":45.18361,
     "lbl:longitude":13.86833,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Sveti Petar u \u0160umi"
@@ -63,7 +67,7 @@
     "name:srp_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438 \u041f\u0435\u0442\u0430\u0440 \u0443 \u0428\u0443\u043c\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petar u \u0160umi"
     ],
     "name:war_x_preferred":[
@@ -90,7 +94,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":850604,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
     "woe:name_adm1":"Istarska",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":1125913371,
-    "wof:lastmodified":1563577816,
+    "wof:lastmodified":1566647510,
     "wof:name":"Sveti Petar U \u00c5 Umi",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

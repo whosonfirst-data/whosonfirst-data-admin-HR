@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.912571,
     "lbl:longitude":15.808336,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.912571,
     "mps:longitude":15.808336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pojatno"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":129,
     "wof:belongsto":[
@@ -78,7 +81,6 @@
     "wof:concordances":{
         "gn:id":3192865,
         "gp:id":849723,
-        "qs:id":1043990,
         "qs_pg:id":1043990,
         "wd:id":"Q850485",
         "wk:page":"Pojatno"
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101792361,
-    "wof:lastmodified":1563577604,
+    "wof:lastmodified":1566647411,
     "wof:name":"Pojatno",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

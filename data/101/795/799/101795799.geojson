@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.020738,
     "lbl:longitude":14.631156,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.020738,
     "mps:longitude":14.631156,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Punat"
     ],
@@ -85,12 +88,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u043d\u0430\u0442"
     ],
-    "name:und_x_preferred":[
-        "Punat"
-    ],
-    "name:unk_x_variant":[
-        "Ponte"
-    ],
     "name:war_x_preferred":[
         "Punat"
     ],
@@ -110,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":102,
     "wof:belongsto":[
@@ -123,7 +120,6 @@
         "fct:id":"115ccc32-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3192219,
         "gp:id":849903,
-        "qs:id":491965,
         "qs_pg:id":491965,
         "wd:id":"Q1269942",
         "wk:page":"Punat"
@@ -142,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577562,
+    "wof:lastmodified":1566647401,
     "wof:name":"Punat",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

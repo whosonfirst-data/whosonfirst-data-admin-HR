@@ -25,8 +25,12 @@
     "gn:population":12,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.94611,45.47694,14.98611,45.51694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Gornji \u0160ain",
         "Gornji \u0160ajn"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310285111,
-    "wof:lastmodified":1537625899,
+    "wof:lastmodified":1566647263,
     "wof:name":"Gornji Sajn",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

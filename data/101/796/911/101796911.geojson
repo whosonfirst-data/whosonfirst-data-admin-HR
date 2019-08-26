@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.184322,
     "lbl:longitude":16.592989,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.184322,
     "mps:longitude":16.592989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0442\u0430\u0440\u044b \u0413\u0440\u0430\u0434"
     ],
@@ -131,9 +134,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0439 \u0413\u0440\u0430\u0434"
     ],
-    "name:unk_x_variant":[
-        "Cittavecchia"
-    ],
     "name:vie_x_preferred":[
         "Stari Grad"
     ],
@@ -159,7 +159,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":43.183333,
     "wd:longitude":16.583333,
@@ -173,10 +173,12 @@
     "wof:concordances":{
         "gn:id":3216885,
         "gp:id":850441,
-        "qs:id":147117,
-        "qs_pg:id":1044098,
+        "qs_pg:id":147117,
         "wd:id":"Q220383",
         "wk:page":"Stari Grad, Croatia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1044098
     },
     "wof:country":"HR",
     "wof:geomhash":"b6572dd3d34f30cc1672860df2d76878",
@@ -189,7 +191,7 @@
         }
     ],
     "wof:id":101796911,
-    "wof:lastmodified":1563577382,
+    "wof:lastmodified":1566647352,
     "wof:name":"Stari Grad",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

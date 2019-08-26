@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.441997,
     "lbl:longitude":14.3686,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.441997,
     "mps:longitude":14.3686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Klana"
     ],
@@ -80,12 +83,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0430\u043d\u0430"
     ],
-    "name:und_x_preferred":[
-        "Klana"
-    ],
-    "name:unk_x_variant":[
-        "Clana"
-    ],
     "name:war_x_preferred":[
         "Klana"
     ],
@@ -103,7 +100,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1397,
     "wof:belongsto":[
@@ -116,7 +113,7 @@
         "fct:id":"115c13fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3198111,
         "gp:id":530382,
-        "qs:id":1343018,
+        "qs_pg:id":1343018,
         "wd:id":"Q1284790",
         "wk:page":"Klana"
     },
@@ -134,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577477,
+    "wof:lastmodified":1566647380,
     "wof:name":"Klana",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

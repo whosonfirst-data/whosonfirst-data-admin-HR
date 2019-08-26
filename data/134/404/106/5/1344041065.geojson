@@ -25,8 +25,12 @@
     "gn:population":305,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.36478,45.51296,16.40478,45.55296",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Erdedska Ti\u0161ina",
         "Erdeljska Ti\u0161ina",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344041065,
-    "wof:lastmodified":1537625820,
+    "wof:lastmodified":1566646734,
     "wof:name":"Tisina Erdedska",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.288579,
     "lbl:longitude":18.55914,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.288579,
     "mps:longitude":18.55914,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Stari Mikanovci"
     ],
@@ -61,9 +64,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0456 \u041c\u0456\u043a\u0430\u043d\u043e\u0432\u0446\u0456"
     ],
-    "name:und_x_preferred":[
-        "Stari Mikanovci"
-    ],
     "name:war_x_preferred":[
         "Stari Mikanovci"
     ],
@@ -82,7 +82,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":303,
     "wof:belongsto":[
         102191581,
@@ -94,7 +94,7 @@
         "fct:id":"115d0e2c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3189951,
         "gp:id":850434,
-        "qs:id":180261,
+        "qs_pg:id":180261,
         "wd:id":"Q1284329",
         "wk:page":"Stari Mikanovci"
     },
@@ -112,7 +112,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577422,
+    "wof:lastmodified":1566647364,
     "wof:name":"Stari Mikanovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

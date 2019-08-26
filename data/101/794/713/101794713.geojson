@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":44.925849,
     "lbl:longitude":18.77664,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.925849,
     "mps:longitude":18.77664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Rajevo Selo"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3192037,
         "gp:id":849950,
-        "qs:id":1275465,
+        "qs_pg:id":1275465,
         "wd:id":"Q917733",
         "wk:page":"Rajevo Selo"
     },
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101794713,
-    "wof:lastmodified":1563577529,
+    "wof:lastmodified":1566647394,
     "wof:name":"Rajevo Selo",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"18.60972,45.27556,18.60972,45.27556",
     "geom:latitude":45.27556,
     "geom:longitude":18.60972,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2123,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
     "gn:population":2123,
     "iso:country":"HR",
+    "lbl:bbox":"18.58972,45.25556,18.62972,45.29556",
     "lbl:latitude":45.27556,
     "lbl:longitude":18.60972,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Vo\u0111inci"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0434\u0436\u0438\u043d\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vodjinci"
     ],
     "name:war_x_preferred":[
@@ -81,7 +84,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":850985,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125853743,
-    "wof:lastmodified":1563577854,
+    "wof:lastmodified":1566647526,
     "wof:name":"Vo\u00f0inci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

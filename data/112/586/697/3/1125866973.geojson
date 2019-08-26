@@ -9,15 +9,18 @@
     "geom:bbox":"17.50722,45.855,17.50722,45.855",
     "geom:latitude":45.855,
     "geom:longitude":17.50722,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":977,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
     "gn:population":977,
     "iso:country":"HR",
+    "lbl:bbox":"17.48722,45.835,17.52722,45.875",
     "lbl:latitude":45.855,
     "lbl:longitude":17.50722,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Gradina"
@@ -73,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Gradina"
-    ],
     "name:war_x_preferred":[
         "Gradina"
     ],
@@ -91,7 +91,7 @@
     "qs_pg:qs_id":94991,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1125866973,
-    "wof:lastmodified":1563577761,
+    "wof:lastmodified":1566647490,
     "wof:name":"Stara Gradina",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

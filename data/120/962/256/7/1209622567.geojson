@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.65028,42.99028,17.69028,43.03028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633229
@@ -35,7 +39,7 @@
         "gn:id":3287382
     },
     "wof:country":"HR",
-    "wof:geomhash":"7de81abcb9ec2988075974d231527faa",
+    "wof:geomhash":"6e81c7970a09463b892a0a0bc6c8ad54",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209622567,
-    "wof:lastmodified":1536281466,
+    "wof:lastmodified":1566647024,
     "wof:name":"Dangube",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.670279999999995,
+    17.67027999999999,
     43.01028,
-    17.670279999999995,
+    17.67027999999999,
     43.01028
 ],
   "geometry": {"coordinates":[17.67027999999999,43.01028],"type":"Point"}

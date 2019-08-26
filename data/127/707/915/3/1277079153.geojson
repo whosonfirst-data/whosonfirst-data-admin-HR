@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.51333,45.08,15.55333,45.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mo\u010dilski Zbjeg",
         "Zbjeg",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277079153,
-    "wof:lastmodified":1537625804,
+    "wof:lastmodified":1566646896,
     "wof:name":"Zbjeg Mocilski",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

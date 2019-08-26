@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.552349,
     "lbl:longitude":16.384125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.552349,
     "mps:longitude":16.384125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ka\u0161tel Kambelovac"
     ],
@@ -76,7 +79,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0430\u0448\u0442\u0435\u043b-\u041a\u0430\u043c\u0431\u0435\u043b\u043e\u0432\u0430\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Selo Ka\u0161tel Kambelovac"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -93,7 +96,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":221,
     "wof:belongsto":[
         102191581,
@@ -104,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3198216,
         "gp:id":848371,
-        "qs:id":894613,
+        "qs_pg:id":894613,
         "wd:id":"Q2145042",
         "wk:page":"Ka\u0161tel Kambelovac"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101758565,
-    "wof:lastmodified":1563577510,
+    "wof:lastmodified":1566647389,
     "wof:name":"Ka\u0161tel Kambelovac",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

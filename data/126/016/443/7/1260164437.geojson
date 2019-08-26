@@ -25,8 +25,12 @@
     "gn:population":14,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.63133,45.60634,16.67133,45.64634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Ludunica",
         "Ludinica"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260164437,
-    "wof:lastmodified":1537625871,
+    "wof:lastmodified":1566647189,
     "wof:name":"Ludinica",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"15.50889,43.91222,15.50889,43.91222",
     "geom:latitude":43.91222,
     "geom:longitude":15.50889,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2123,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
     "gn:population":2123,
     "iso:country":"HR",
+    "lbl:bbox":"15.48889,43.89222,15.52889,43.93222",
     "lbl:latitude":43.91222,
     "lbl:longitude":15.50889,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Pako\u0161tane"
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043a\u043e\u0448\u0442\u0430\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pacostane"
     ],
     "name:war_x_preferred":[
@@ -100,7 +103,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":849516,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1125994643,
-    "wof:lastmodified":1563577795,
+    "wof:lastmodified":1566647501,
     "wof:name":"Pako\u00b5tane",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

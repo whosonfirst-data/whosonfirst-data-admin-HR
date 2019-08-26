@@ -25,8 +25,12 @@
     "gn:population":316,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.5475,45.97056,16.5875,46.01056",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bukovje Kri\u017eeva\u010dko"
     ],
@@ -51,8 +55,7 @@
     "name:und_x_variant":[
         "Kri\u017eeva\u010dko Bukovje",
         "Bukovie",
-        "Bukovje",
-        "Bukovje Kri\u017eeva\u010dko"
+        "Bukovje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1243089615,
-    "wof:lastmodified":1564154833,
+    "wof:lastmodified":1566647543,
     "wof:name":"Bukovje Krizevacko",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

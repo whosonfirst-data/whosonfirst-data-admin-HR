@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.50265,43.35764,16.54265,43.39764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Mirca"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1226425261,
-    "wof:lastmodified":1564155168,
+    "wof:lastmodified":1566647755,
     "wof:name":"Mirce",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

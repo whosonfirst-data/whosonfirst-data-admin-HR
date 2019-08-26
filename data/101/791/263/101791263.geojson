@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.138891,
     "lbl:longitude":16.90372,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.138891,
     "mps:longitude":16.90372,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Koprivni\u010dki Bregi"
     ],
@@ -71,14 +74,8 @@
         "Bregi Koprivnicki",
         "Koprivnicki Bregi"
     ],
-    "name:und_x_preferred":[
-        "Koprivni\u010dki Bregi"
-    ],
     "name:und_x_variant":[
         "Bregi Koprivni\u010dki"
-    ],
-    "name:unk_x_variant":[
-        "Bregi"
     ],
     "name:war_x_preferred":[
         "Koprivni\u010dki Bregi"
@@ -97,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":98,
     "wof:belongsto":[
         102191581,
@@ -109,7 +106,7 @@
         "fct:id":"115c1e68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3203473,
         "gp:id":848499,
-        "qs:id":940552,
+        "qs_pg:id":940552,
         "wd:id":"Q654948",
         "wk:page":"Koprivni\u010dki Bregi"
     },
@@ -127,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577361,
+    "wof:lastmodified":1566647346,
     "wof:name":"Koprivni\u010dki Bregi",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

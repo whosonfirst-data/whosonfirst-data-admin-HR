@@ -25,8 +25,12 @@
     "gn:population":154,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.83972,45.005,13.87972,45.045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Cukri\u00e1i",
         "Cukri\u0107i"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293001075,
-    "wof:lastmodified":1537625922,
+    "wof:lastmodified":1566646780,
     "wof:name":"Cukrici",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.704317,
     "lbl:longitude":16.390078,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.704317,
     "mps:longitude":16.390078,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ivani\u0107-Grad"
     ],
@@ -100,15 +103,10 @@
         "Ivanic Var",
         "Ivani\u0107-Grad"
     ],
-    "name:und_x_preferred":[
-        "Ivanic-Grad"
-    ],
     "name:und_x_variant":[
+        "Ivanic-Grad",
         "Ivanic V\u00e1r",
         "Ivani\u0107",
-        "Ivani\u010d Tvrdjava"
-    ],
-    "name:unk_x_variant":[
         "Ivani\u010d Tvrdjava"
     ],
     "name:war_x_preferred":[
@@ -131,7 +129,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":45.708056,
     "wd:longitude":16.394722,
     "wd:wordcount":464,
@@ -145,7 +143,7 @@
         "fct:id":"115bf776-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3199069,
         "gp:id":848181,
-        "qs:id":1127185,
+        "qs_pg:id":1127185,
         "wd:id":"Q385706",
         "wk:page":"Ivani\u0107-Grad"
     },
@@ -163,7 +161,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577444,
+    "wof:lastmodified":1566647370,
     "wof:name":"Ivani\u0107-Grad",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

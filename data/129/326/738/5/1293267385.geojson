@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.94167,44.37778,15.98167,44.41778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Graovo"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1293267385,
-    "wof:lastmodified":1564154027,
+    "wof:lastmodified":1566646881,
     "wof:name":"Graovo",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

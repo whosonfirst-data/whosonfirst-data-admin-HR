@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.099596,
     "lbl:longitude":17.740434,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.099596,
     "mps:longitude":17.740434,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Slavonski Koba\u0161"
     ],
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0430\u0432\u043e\u043d\u0441\u044c\u043a\u0438\u0439 \u041a\u043e\u0431\u0430\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kobas Slavonski"
     ],
     "name:urd_x_preferred":[
@@ -66,7 +69,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3190584,
         "gp:id":940804,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q611025",
         "wk:page":"Slavonski Koba\u0161"
     },
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101794643,
-    "wof:lastmodified":1563577517,
+    "wof:lastmodified":1566647391,
     "wof:name":"Slavonski Koba\u0161",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.25371,
     "lbl:longitude":18.4022,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.25371,
     "mps:longitude":18.4022,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pi\u0161korevci"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":41,
     "wof:belongsto":[
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":3193314,
         "gp:id":849619,
-        "qs:id":1043997,
+        "qs_pg:id":1043997,
         "wd:id":"Q3503891",
         "wk:page":"Pi\u0161korevci"
     },
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101793607,
-    "wof:lastmodified":1563577495,
+    "wof:lastmodified":1566647385,
     "wof:name":"Pi\u0161korevci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

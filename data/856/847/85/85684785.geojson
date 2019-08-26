@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.49691,
-    "geom:area_square_m":31299923832.963078,
+    "geom:area_square_m":31299923832.96487,
     "geom:bbox":"13.224042,42.1758995,18.5415705,45.5030665",
     "geom:latitude":43.618249,
     "geom:longitude":15.646464,
     "iso:country":"HR",
     "lbl:latitude":43.025262,
     "lbl:longitude":15.684721,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.025262,
     "mps:longitude":15.684721,
     "mz:hierarchy_label":1,
@@ -30,7 +31,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633229
@@ -54,7 +55,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1529540823,
+    "wof:lastmodified":1566646772,
     "wof:name":"Inland waters of Croatia",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

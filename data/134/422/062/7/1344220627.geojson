@@ -25,8 +25,12 @@
     "gn:population":42,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.51333,45.71333,17.55333,45.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Cabunska Trnava",
         "Trnava",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344220627,
-    "wof:lastmodified":1537625818,
+    "wof:lastmodified":1566646658,
     "wof:name":"Trnava Cabunska",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

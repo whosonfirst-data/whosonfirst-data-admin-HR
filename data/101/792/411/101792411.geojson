@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.589123,
     "lbl:longitude":18.454449,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.589123,
     "mps:longitude":18.454449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bizovac"
     ],
@@ -65,9 +68,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0438\u0437\u043e\u0432\u0430\u0446\u044c"
     ],
-    "name:und_x_preferred":[
-        "Bizovac"
-    ],
     "name:war_x_preferred":[
         "Bizovac"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":83,
     "wof:belongsto":[
@@ -100,7 +100,6 @@
         "fct:id":"115b556e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3204022,
         "gp:id":846836,
-        "qs:id":255666,
         "qs_pg:id":255666,
         "wd:id":"Q1293830",
         "wk:page":"Bizovac"
@@ -119,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577609,
+    "wof:lastmodified":1566647413,
     "wof:name":"Bizovac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

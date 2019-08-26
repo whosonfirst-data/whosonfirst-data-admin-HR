@@ -25,8 +25,12 @@
     "gn:population":73,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.23139,45.40861,18.27139,45.44861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Bu\u010dje",
         "Bu\u010dje Gorjansko"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226531335,
-    "wof:lastmodified":1537625928,
+    "wof:lastmodified":1566647843,
     "wof:name":"Bucje Gorjansko",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

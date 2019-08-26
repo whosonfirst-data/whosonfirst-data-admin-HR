@@ -24,8 +24,12 @@
     "gn:population":189,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.39028,45.10833,16.43028,45.14833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Un\u010dani"
     ],
@@ -56,9 +60,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u043d\u0447\u0430\u043d\u0438"
     ],
-    "name:und_x_variant":[
-        "Un\u010dani"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1326913755,
-    "wof:lastmodified":1564153661,
+    "wof:lastmodified":1566646616,
     "wof:name":"Uncani",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

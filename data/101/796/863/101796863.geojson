@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":42.948496,
     "lbl:longitude":17.141764,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":42.948496,
     "mps:longitude":17.141764,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u043e\u0440\u0447\u0443\u043b\u0430"
     ],
@@ -134,12 +137,6 @@
     "name:und_x_colloquial":[
         "Korcula"
     ],
-    "name:und_x_preferred":[
-        "Kor\u010dula"
-    ],
-    "name:unk_x_variant":[
-        "Curzola"
-    ],
     "name:vec_x_preferred":[
         "Curzo\u0142a"
     ],
@@ -168,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":42.961667,
     "wd:longitude":17.135833,
@@ -186,7 +183,6 @@
         "gn:id":3197710,
         "gp:id":848503,
         "nyt:id":"N31386761826113571191",
-        "qs:id":491945,
         "qs_pg:id":491945,
         "wd:id":"Q13289",
         "wk:page":"Kor\u010dula (town)"
@@ -205,7 +201,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577380,
+    "wof:lastmodified":1566647352,
     "wof:name":"Kor\u010dula",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

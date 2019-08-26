@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.405943,
     "lbl:longitude":18.469283,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.405943,
     "mps:longitude":18.469283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u0160iroko Polje"
     ],
@@ -57,7 +60,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":31,
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3190819,
         "gp:id":850231,
-        "qs:id":255711,
+        "qs_pg:id":255711,
         "wd:id":"Q3511064",
         "wk:page":"\u0160iroko Polje"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101793585,
-    "wof:lastmodified":1563577497,
+    "wof:lastmodified":1566647386,
     "wof:name":"\u0160iroko Polje",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

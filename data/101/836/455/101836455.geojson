@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.176098,
     "lbl:longitude":14.692797,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.176098,
     "mps:longitude":14.692797,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Crikvenica"
     ],
@@ -246,10 +249,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0440\u0438\u043a\u0432\u0435\u043d\u0438\u0446\u044f"
     ],
-    "name:und_x_preferred":[
-        "Crikvenica"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Czirkvenicza"
     ],
     "name:vec_x_preferred":[
@@ -295,7 +295,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":11.0,
     "wd:latitude":45.183333,
@@ -312,7 +312,6 @@
         "fct:id":"115b8066-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3202507,
         "gp:id":847202,
-        "qs:id":147296,
         "qs_pg:id":147296,
         "wd:id":"Q397626",
         "wk:page":"Crikvenica"
@@ -331,7 +330,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577624,
+    "wof:lastmodified":1566647419,
     "wof:name":"Crikvenica",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

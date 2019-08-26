@@ -10,12 +10,16 @@
     "geom:latitude":43.348149,
     "geom:longitude":16.72126,
     "iso:country":"HR",
+    "lbl:bbox":"16.70126,43.328149,16.74126,43.368149",
     "lbl:latitude":43.348149,
     "lbl:longitude":16.72126,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.348149,
     "mps:longitude":16.72126,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pu\u010di\u0161\u0107a"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0447\u0438\u0449\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pu\u010dis\u010da"
     ],
     "name:war_x_preferred":[
@@ -98,7 +102,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":43.3475,
     "wd:longitude":16.73,
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":3192231,
         "gp:id":849897,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q769612",
         "wk:page":"Pu\u010di\u0161\u0107a"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101857803,
-    "wof:lastmodified":1563577410,
+    "wof:lastmodified":1566647361,
     "wof:name":"Pu\u010di\u0161\u0107a",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

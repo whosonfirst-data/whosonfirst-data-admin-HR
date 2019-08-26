@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.2375,44.66889,15.2775,44.70889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kru\u0161kica"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276867613,
-    "wof:lastmodified":1537625878,
+    "wof:lastmodified":1566646899,
     "wof:name":"Kruscica",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

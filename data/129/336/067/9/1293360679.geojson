@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.70679,43.39476,16.74679,43.43476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tice"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293360679,
-    "wof:lastmodified":1564153886,
+    "wof:lastmodified":1566646783,
     "wof:name":"Tice",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":148,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.22306,45.275,18.26306,45.315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:epo_x_preferred":[
         "Ma\u011daro"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1276316907,
-    "wof:lastmodified":1564154206,
+    "wof:lastmodified":1566647006,
     "wof:name":"Majar",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":176,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.84389,45.27194,15.88389,45.31194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Perna"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1293373491,
-    "wof:lastmodified":1564153896,
+    "wof:lastmodified":1566646791,
     "wof:name":"Perna",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

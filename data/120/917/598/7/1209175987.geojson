@@ -25,8 +25,12 @@
     "gn:population":605,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.75165,45.90859,15.79165,45.94859",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Pu\u0161\u0107a Gornja",
         "Gornja Pu\u0161\u0107a"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209175987,
-    "wof:lastmodified":1537625903,
+    "wof:lastmodified":1566647109,
     "wof:name":"Gornja Pusca",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

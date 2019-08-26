@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.71817,45.25905,13.75817,45.29905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hrv_x_preferred":[
         "Ben\u010dani"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326630711,
-    "wof:lastmodified":1537625968,
+    "wof:lastmodified":1566646612,
     "wof:name":"Benzani",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

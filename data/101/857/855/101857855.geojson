@@ -11,12 +11,16 @@
     "geom:longitude":15.829583,
     "gn:population":2167,
     "iso:country":"HR",
+    "lbl:bbox":"15.809583,45.773739,15.849583,45.813739",
     "lbl:latitude":45.793739,
     "lbl:longitude":15.829583,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.793739,
     "mps:longitude":15.829583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Rakitje"
     ],
@@ -70,7 +74,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
@@ -82,7 +86,6 @@
     "wof:concordances":{
         "gn:id":3192016,
         "gp:id":849956,
-        "qs:id":1083055,
         "qs_pg:id":1083055,
         "wd:id":"Q923079",
         "wk:page":"Rakitje"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101857855,
-    "wof:lastmodified":1563577419,
+    "wof:lastmodified":1566647363,
     "wof:name":"Rakitje",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

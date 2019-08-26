@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.701914,
     "lbl:longitude":16.650611,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.701914,
     "mps:longitude":16.650611,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Glavice"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":61,
     "wof:belongsto":[
         102191581,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3200622,
         "gp:id":850221,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q283262"
     },
     "wof:country":"HR",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101836425,
-    "wof:lastmodified":1563577620,
+    "wof:lastmodified":1566647417,
     "wof:name":"Glavice",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

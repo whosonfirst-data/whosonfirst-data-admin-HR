@@ -11,12 +11,16 @@
     "geom:longitude":17.534121,
     "gn:population":1309,
     "iso:country":"HR",
+    "lbl:bbox":"17.514121,43.023651,17.554121,43.063651",
     "lbl:latitude":43.043651,
     "lbl:longitude":17.534121,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.043651,
     "mps:longitude":17.534121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Komin"
     ],
@@ -76,7 +80,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -88,7 +92,6 @@
     "wof:concordances":{
         "gn:id":3197837,
         "gp:id":848475,
-        "qs:id":147225,
         "qs_pg:id":147225,
         "wd:id":"Q3071147",
         "wk:page":"Komin, Dubrovnik-Neretva County"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101857801,
-    "wof:lastmodified":1563577418,
+    "wof:lastmodified":1566647363,
     "wof:name":"Komin",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

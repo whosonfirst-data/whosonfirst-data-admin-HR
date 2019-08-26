@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":42.941165,
     "lbl:longitude":17.109515,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":42.941165,
     "mps:longitude":17.109515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u017drnovo"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":141,
     "wof:belongsto":[
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":3186331,
         "gp:id":851249,
-        "qs:id":908078,
         "qs_pg:id":908078,
         "wd:id":"Q394257",
         "wk:page":"\u017drnovo"
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101796861,
-    "wof:lastmodified":1563577371,
+    "wof:lastmodified":1566647348,
     "wof:name":"\u017drnovo",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

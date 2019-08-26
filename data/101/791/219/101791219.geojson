@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.793085,
     "lbl:longitude":18.614331,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.793085,
     "mps:longitude":18.614331,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Branjin Vrh"
     ],
@@ -55,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u043d\u0456\u043d \u0412\u0440\u0445"
     ],
-    "name:unk_x_variant":[
-        "Baranyavar"
-    ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Osjecko-baranjska \u017eupanija",
     "qs:a1r":"0",
@@ -72,7 +72,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":75,
     "wof:belongsto":[
         102191581,
@@ -83,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3203558,
         "gp:id":846928,
-        "qs:id":406621,
+        "qs_pg:id":406621,
         "wd:id":"Q790242"
     },
     "wof:country":"HR",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":101791219,
-    "wof:lastmodified":1563577343,
+    "wof:lastmodified":1566647340,
     "wof:name":"Branjin Vrh",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

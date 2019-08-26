@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":44.291642,
     "lbl:longitude":15.445215,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.291642,
     "mps:longitude":15.445215,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Starigrad"
     ],
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0433\u0440\u0430\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Velika Paklenica"
     ],
     "name:war_x_preferred":[
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":246,
     "wof:belongsto":[
@@ -124,7 +127,6 @@
     "wof:concordances":{
         "gn:id":3189964,
         "gp:id":850442,
-        "qs:id":916117,
         "qs_pg:id":916117,
         "wd:id":"Q856390",
         "wk:page":"Starigrad, Zadar County"
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":101795755,
-    "wof:lastmodified":1563577563,
+    "wof:lastmodified":1566647401,
     "wof:name":"Starigrad",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

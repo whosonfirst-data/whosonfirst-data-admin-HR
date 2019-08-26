@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.762045,
     "lbl:longitude":15.775798,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.762045,
     "mps:longitude":15.775798,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u062f\u0627\u064a\u0633"
     ],
@@ -119,9 +122,6 @@
     "name:ukr_x_variant":[
         "\u0412\u043e\u0434\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "Vodizze"
-    ],
     "name:war_x_preferred":[
         "Vodice"
     ],
@@ -144,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":43.750556,
     "wd:longitude":15.778889,
@@ -158,7 +158,6 @@
     "wof:concordances":{
         "gn:id":3187489,
         "gp:id":850983,
-        "qs:id":492011,
         "qs_pg:id":492011,
         "wd:id":"Q750427",
         "wk:page":"Vodice, Croatia"
@@ -174,7 +173,7 @@
         }
     ],
     "wof:id":101795745,
-    "wof:lastmodified":1563577588,
+    "wof:lastmodified":1566647407,
     "wof:name":"Vodice",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

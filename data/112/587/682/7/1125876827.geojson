@@ -9,14 +9,18 @@
     "geom:bbox":"13.88361,45.08806,13.88361,45.08806",
     "geom:latitude":45.08806,
     "geom:longitude":13.88361,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"HR",
+    "lbl:bbox":"13.86361,45.06806,13.90361,45.10806",
     "lbl:latitude":45.08806,
     "lbl:longitude":13.88361,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Svetvin\u010denat"
@@ -66,9 +70,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0432\u0438\u043d\u0447\u0435\u043d\u0430\u0442"
     ],
-    "name:unk_x_variant":[
-        "Sanvincenti"
-    ],
     "name:war_x_preferred":[
         "Svetvin\u010denat"
     ],
@@ -93,7 +94,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":850611,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
     "woe:name_adm1":"Istarska",
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1125876827,
-    "wof:lastmodified":1563577792,
+    "wof:lastmodified":1566647501,
     "wof:name":"Svetvin\u010denat",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

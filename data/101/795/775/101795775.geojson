@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":44.262557,
     "lbl:longitude":15.229186,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.262557,
     "mps:longitude":15.229186,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrsi"
     ],
@@ -65,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0440\u0441\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verch\u00e9"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":60,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":3187142,
         "gp:id":851069,
-        "qs:id":1286867,
         "qs_pg:id":1286867,
         "wd:id":"Q1285708",
         "wk:page":"Vrsi"
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101795775,
-    "wof:lastmodified":1563577585,
+    "wof:lastmodified":1566647406,
     "wof:name":"Vrsi",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

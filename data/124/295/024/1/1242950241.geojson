@@ -24,8 +24,12 @@
     "gn:population":3,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.29472,44.55667,14.33472,44.59667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Vele Srakane"
     ],
@@ -68,8 +72,7 @@
     "name:und_x_variant":[
         "Can\u00eddole Grande",
         "Srakane Vele",
-        "Velika Skrakana",
-        "Vele Srakane"
+        "Velika Skrakana"
     ],
     "name:vie_x_preferred":[
         "Vele Srakane"
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1242950241,
-    "wof:lastmodified":1564154872,
+    "wof:lastmodified":1566647567,
     "wof:name":"Vele Srakane",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

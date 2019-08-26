@@ -25,8 +25,12 @@
     "gn:population":129,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.93222,45.29139,17.97222,45.33139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Djedina Rijeka"
     ],
@@ -53,8 +57,7 @@
     ],
     "name:und_x_variant":[
         "Djedika Rijeka",
-        "Dijedina Rijeka",
-        "Djedina Rijeka"
+        "Dijedina Rijeka"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1326808515,
-    "wof:lastmodified":1564153558,
+    "wof:lastmodified":1566646541,
     "wof:name":"Djedina Rijeka",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

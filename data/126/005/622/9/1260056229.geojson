@@ -25,8 +25,12 @@
     "gn:population":31,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.77306,45.6775,17.81306,45.7175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Gornje Viljeva",
         "Gornje Viljevo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260056229,
-    "wof:lastmodified":1537625901,
+    "wof:lastmodified":1566647207,
     "wof:name":"Gornje Viljevo",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.51028,43.72167,16.55028,43.76167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "S\u00fanics"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1309788655,
-    "wof:lastmodified":1564154738,
+    "wof:lastmodified":1566647441,
     "wof:name":"Sunici",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

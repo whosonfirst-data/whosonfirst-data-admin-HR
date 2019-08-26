@@ -25,8 +25,12 @@
     "gn:population":79,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.75667,46.05583,16.79667,46.09583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Pe\u0161\u0107enik",
         "Pe\u0161\u010denik"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310398165,
-    "wof:lastmodified":1537625850,
+    "wof:lastmodified":1566647247,
     "wof:name":"Pescenik",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.49806,45.97778,16.53806,46.01778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:slk_x_preferred":[
         "Martinec"
     ],
     "name:und_x_variant":[
-        "Sveti Martin",
-        "Martinec"
+        "Sveti Martin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1209437045,
-    "wof:lastmodified":1564154363,
+    "wof:lastmodified":1566647115,
     "wof:name":"Martinec",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.166606,
     "lbl:longitude":17.703076,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.166606,
     "mps:longitude":17.703076,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lu\u017eani"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":6,
     "wof:belongsto":[
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":3196000,
         "gp:id":848928,
-        "qs:id":147176,
         "qs_pg:id":147176,
         "wd:id":"Q3216781",
         "wk:page":"Lu\u017eani, Brod-Posavina County"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101835283,
-    "wof:lastmodified":1563577447,
+    "wof:lastmodified":1566647371,
     "wof:name":"Lu\u017eani",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

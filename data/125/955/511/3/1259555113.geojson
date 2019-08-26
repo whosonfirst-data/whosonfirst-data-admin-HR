@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.7225,45.78111,17.7625,45.82111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Sopje"
     ],
@@ -67,8 +71,7 @@
     ],
     "name:und_x_variant":[
         "Szopje",
-        "Sorje",
-        "Sopje"
+        "Sorje"
     ],
     "name:war_x_preferred":[
         "Sopje"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1259555113,
-    "wof:lastmodified":1564155045,
+    "wof:lastmodified":1566647675,
     "wof:name":"Sopje",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

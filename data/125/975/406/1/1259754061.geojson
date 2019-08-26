@@ -23,8 +23,12 @@
     "gn:population":92,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.11333,45.43,16.15333,45.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Slana"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1259754061,
-    "wof:lastmodified":1564155130,
+    "wof:lastmodified":1566647729,
     "wof:name":"Slana",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

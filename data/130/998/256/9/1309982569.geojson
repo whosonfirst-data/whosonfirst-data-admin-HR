@@ -24,8 +24,12 @@
     "gn:population":823,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.78583,43.7275,15.82583,43.7675",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Srima"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1309982569,
-    "wof:lastmodified":1564154711,
+    "wof:lastmodified":1566647423,
     "wof:name":"Srima",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

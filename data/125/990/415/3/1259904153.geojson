@@ -25,8 +25,12 @@
     "gn:population":381,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.0575,45.14722,14.0975,45.18722",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160umber"
     ],
@@ -54,8 +58,7 @@
     "name:und_x_variant":[
         "Casali Sumberesi",
         "\u0160umbreg",
-        "\u0160umberk",
-        "\u0160umber"
+        "\u0160umberk"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1259904153,
-    "wof:lastmodified":1564155037,
+    "wof:lastmodified":1566647669,
     "wof:name":"Sumber",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

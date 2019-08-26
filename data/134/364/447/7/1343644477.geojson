@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.48,43.60278,16.52,43.64278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Prugovo"
     ],
@@ -54,8 +58,7 @@
     "name:und_x_variant":[
         "Donje Prugodo",
         "Prugovo donje",
-        "Donje Prugovo",
-        "Prugovo"
+        "Donje Prugovo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1343644477,
-    "wof:lastmodified":1564153721,
+    "wof:lastmodified":1566646657,
     "wof:name":"Prugovo",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

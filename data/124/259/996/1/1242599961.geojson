@@ -25,8 +25,12 @@
     "gn:population":205,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.53,46.11333,16.57,46.15333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Osijek",
         "Osijek Vojakova\u010dki"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242599961,
-    "wof:lastmodified":1537625853,
+    "wof:lastmodified":1566647565,
     "wof:name":"Osijek Vojakovacki",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

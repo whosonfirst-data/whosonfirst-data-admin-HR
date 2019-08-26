@@ -25,8 +25,12 @@
     "gn:population":123,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.65167,44.74806,15.69167,44.78806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrelo Koreni\u010dko"
     ],
@@ -53,8 +57,7 @@
     ],
     "name:und_x_variant":[
         "Koreni\u010dko Vrelo",
-        "Vrelo",
-        "Vrelo Koreni\u010dko"
+        "Vrelo"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1277096345,
-    "wof:lastmodified":1564154048,
+    "wof:lastmodified":1566646895,
     "wof:name":"Vrelo Korenicko",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

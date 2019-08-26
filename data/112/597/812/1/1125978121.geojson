@@ -9,15 +9,18 @@
     "geom:bbox":"16.45778,46.47806,16.45778,46.47806",
     "geom:latitude":46.47806,
     "geom:longitude":16.45778,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1531,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
     "gn:population":1531,
     "iso:country":"HR",
+    "lbl:bbox":"16.43778,46.45806,16.47778,46.49806",
     "lbl:latitude":46.47806,
     "lbl:longitude":16.45778,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Vrati\u0161inec"
@@ -67,9 +70,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0440\u0430\u0442\u0438\u0448\u0438\u043d\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
-        "Vrati\u0161inec"
-    ],
     "name:war_x_preferred":[
         "Vrati\u0161inec"
     ],
@@ -90,7 +90,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":851021,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":1125978121,
-    "wof:lastmodified":1563577808,
+    "wof:lastmodified":1566647507,
     "wof:name":"Vrati\u00b5inec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":140,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.71028,45.795,18.75028,45.835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podolje"
     ],
@@ -58,8 +62,7 @@
         "\u041f\u043e\u0434\u043e\u043b\u0454"
     ],
     "name:und_x_variant":[
-        "Podoloje",
-        "Podolje"
+        "Podoloje"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1226426245,
-    "wof:lastmodified":1564155170,
+    "wof:lastmodified":1566647756,
     "wof:name":"Podolje",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

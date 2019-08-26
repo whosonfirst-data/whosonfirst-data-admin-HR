@@ -9,15 +9,18 @@
     "geom:bbox":"16.64556,43.165,16.64556,43.165",
     "geom:latitude":43.165,
     "geom:longitude":16.64556,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":498,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"HR",
+    "lbl:bbox":"16.62556,43.145,16.66556,43.185",
     "lbl:latitude":43.165,
     "lbl:longitude":16.64556,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Vrbanj"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0440\u0431\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vrbanjske Ku\u0107e"
     ],
     "qs_pg:aaroncc":"HR",
@@ -67,7 +70,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":851023,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125913447,
-    "wof:lastmodified":1563577820,
+    "wof:lastmodified":1566647512,
     "wof:name":"Vrbanj",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

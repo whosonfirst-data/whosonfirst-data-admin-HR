@@ -12,6 +12,7 @@
     "iso:country":"HR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:bos_x_preferred":[
         "Aerodrom Vara\u017edin"
     ],
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":102541285,
-    "wof:lastmodified":1563576451,
+    "wof:lastmodified":1566646637,
     "wof:name":"Varazdin Airport",
     "wof:parent_id":85684835,
     "wof:placetype":"campus",

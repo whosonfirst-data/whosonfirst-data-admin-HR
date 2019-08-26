@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":42.937918,
     "lbl:longitude":16.789242,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.937918,
     "mps:longitude":16.789242,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Blato"
     ],
@@ -76,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043b\u0430\u0442\u043e"
     ],
-    "name:unk_x_variant":[
-        "Blatta"
-    ],
     "name:war_x_preferred":[
         "Blato"
     ],
@@ -98,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1041,
     "wof:belongsto":[
         102191581,
@@ -109,10 +109,12 @@
     "wof:concordances":{
         "gn:id":3203961,
         "gp:id":846848,
-        "qs:id":1274858,
         "qs_pg:id":57590,
         "wd:id":"Q882155",
         "wk:page":"Blato, Kor\u010dula"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1274858
     },
     "wof:country":"HR",
     "wof:geomhash":"5b4e2d6ebefdea231794917cc7a67ade",
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101796855,
-    "wof:lastmodified":1563577378,
+    "wof:lastmodified":1566647351,
     "wof:name":"Blato",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

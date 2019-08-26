@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.05935,45.8773,16.09935,45.9173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Goranec"
     ],
@@ -48,8 +52,7 @@
         "\u0413\u043e\u0440\u0430\u043d\u0435\u0446\u044c"
     ],
     "name:und_x_variant":[
-        "Goranci",
-        "Goranec"
+        "Goranci"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1310565677,
-    "wof:lastmodified":1564154607,
+    "wof:lastmodified":1566647280,
     "wof:name":"Goranec",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

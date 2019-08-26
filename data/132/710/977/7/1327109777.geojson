@@ -25,8 +25,12 @@
     "gn:population":43,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.89667,44.14389,14.93667,44.18389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Otok \u017dverinac"
     ],
@@ -73,8 +77,7 @@
         "\u0417\u0432\u0435\u0440\u0438\u043d\u0430\u0446"
     ],
     "name:und_x_variant":[
-        "Zvirinac",
-        "Zverinac"
+        "Zvirinac"
     ],
     "name:vie_x_preferred":[
         "Zverinac"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1327109777,
-    "wof:lastmodified":1564153678,
+    "wof:lastmodified":1566646627,
     "wof:name":"Zverinac",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

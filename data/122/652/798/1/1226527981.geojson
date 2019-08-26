@@ -25,8 +25,12 @@
     "gn:population":134,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.25861,44.47861,15.29861,44.51861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Bru\u0161ani",
         "Bru\u0161ane"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226527981,
-    "wof:lastmodified":1537625928,
+    "wof:lastmodified":1566647827,
     "wof:name":"Brusane",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"HR",
     "lbl:latitude":45.806026,
     "lbl:longitude":15.976218,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":45.806026,
     "mps:longitude":15.976218,
     "mz:hierarchy_label":1,
@@ -511,16 +513,8 @@
     "name:und_x_colloquial":[
         "Zagrab"
     ],
-    "name:und_x_preferred":[
-        "Zagreb"
-    ],
     "name:und_x_variant":[
-        "Agram",
-        "Zahreb",
-        "Z\u00e1gr\u00e1b"
-    ],
-    "name:unk_x_variant":[
-        "Zagrabia"
+        "Zahreb"
     ],
     "name:urd_x_preferred":[
         "\u0632\u063a\u0631\u0628"
@@ -690,7 +684,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -706,7 +700,6 @@
         "gn:id":3186886,
         "gp:id":851128,
         "nyt:id":"47319433171775369981",
-        "qs:id":908066,
         "qs_pg:id":908066,
         "wd:id":"Q1435"
     },
@@ -724,7 +717,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577552,
+    "wof:lastmodified":1566647399,
     "wof:megacity":0,
     "wof:name":"Zagreb",
     "wof:parent_id":85684811,

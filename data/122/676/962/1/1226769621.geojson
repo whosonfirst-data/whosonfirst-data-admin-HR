@@ -24,8 +24,12 @@
     "gn:population":12,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.57083,44.3675,15.61083,44.4075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Radu\u010d"
     ],
@@ -50,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u0443\u0447"
     ],
-    "name:und_x_variant":[
-        "Radu\u010d"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1226769621,
-    "wof:lastmodified":1564155253,
+    "wof:lastmodified":1566647808,
     "wof:name":"Raduc",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

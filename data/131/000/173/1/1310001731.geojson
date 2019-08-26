@@ -23,8 +23,12 @@
     "gn:population":96,
     "gn:timezone":"Europe/Ljubljana",
     "iso:country":"HR",
+    "lbl:bbox":"16.26826,46.40437,16.30826,46.44437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1310001731,
-    "wof:lastmodified":1536648437,
+    "wof:lastmodified":1566647233,
     "wof:name":"Badlican",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

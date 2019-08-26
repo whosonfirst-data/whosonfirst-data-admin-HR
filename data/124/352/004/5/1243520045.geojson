@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.08944,44.30111,16.12944,44.34111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kupirovo"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1243520045,
-    "wof:lastmodified":1564154840,
+    "wof:lastmodified":1566647547,
     "wof:name":"Kupirovo",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

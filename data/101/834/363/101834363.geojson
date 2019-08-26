@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.298723,
     "lbl:longitude":16.171281,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.298723,
     "mps:longitude":16.171281,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Donje Ladanje"
     ],
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043d\u0454 \u041b\u0430\u0434\u0430\u043d\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ladanje Dolnje"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -60,7 +63,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633229,
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3201562,
         "gp:id":847420,
-        "qs:id":406799,
+        "qs_pg:id":406799,
         "wd:id":"Q752586"
     },
     "wof:country":"HR",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101834363,
-    "wof:lastmodified":1563577460,
+    "wof:lastmodified":1566647375,
     "wof:name":"Donje Ladanje",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

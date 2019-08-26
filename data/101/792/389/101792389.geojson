@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.746951,
     "lbl:longitude":15.791924,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.746951,
     "mps:longitude":15.791924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Rakov Potok"
     ],
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043a\u043e\u0432 \u041f\u043e\u0442\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pottok"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":89,
     "wof:belongsto":[
         102191581,
@@ -73,10 +76,12 @@
     "wof:concordances":{
         "gn:id":3192646,
         "gp:id":849785,
-        "qs:id":1127266,
         "qs_pg:id":407511,
         "wd:id":"Q768580",
         "wk:page":"Rakov Potok"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1127266
     },
     "wof:country":"HR",
     "wof:geomhash":"80f5fb1c38b0178bdc835140be28e771",
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":101792389,
-    "wof:lastmodified":1563577613,
+    "wof:lastmodified":1566647415,
     "wof:name":"Rakov Potok",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

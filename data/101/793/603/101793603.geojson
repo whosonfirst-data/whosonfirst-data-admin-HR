@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.482813,
     "lbl:longitude":18.642907,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.482813,
     "mps:longitude":18.642907,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Antunovac"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":15021004,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1277283"
     },
     "wof:country":"HR",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101793603,
-    "wof:lastmodified":1563577479,
+    "wof:lastmodified":1566647381,
     "wof:name":"Ivanovac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

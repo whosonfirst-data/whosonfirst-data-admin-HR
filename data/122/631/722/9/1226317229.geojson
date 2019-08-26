@@ -24,8 +24,12 @@
     "gn:population":533,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.08,45.71333,16.12,45.75333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kobili\u0107"
     ],
@@ -50,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0431\u0438\u043b\u0438\u0447"
     ],
-    "name:und_x_variant":[
-        "Kobili\u0107"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1226317229,
-    "wof:lastmodified":1564155314,
+    "wof:lastmodified":1566647848,
     "wof:name":"Kobilic",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

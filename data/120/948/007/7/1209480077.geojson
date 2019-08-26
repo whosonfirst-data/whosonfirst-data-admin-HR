@@ -25,8 +25,12 @@
     "gn:population":69,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.94142,45.45692,15.98142,45.49692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Degoj Lijevi",
         "Degoj",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209480077,
-    "wof:lastmodified":1537625874,
+    "wof:lastmodified":1566647039,
     "wof:name":"Lijevi Degoj",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

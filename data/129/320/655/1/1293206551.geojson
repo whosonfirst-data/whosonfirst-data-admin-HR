@@ -25,8 +25,12 @@
     "gn:population":17,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.99444,45.47806,14.03444,45.51806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jelovice"
     ],
@@ -45,8 +49,7 @@
     "name:und_x_variant":[
         "Gelovizza",
         "Jelovica",
-        "Golaz",
-        "Jelovice"
+        "Golaz"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1293206551,
-    "wof:lastmodified":1564153990,
+    "wof:lastmodified":1566646858,
     "wof:name":"Jelovice",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

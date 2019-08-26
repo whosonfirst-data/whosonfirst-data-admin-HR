@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.29194,44.54639,15.33194,44.58639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rasovav\u010da",
         "Rasova\u010da"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309731969,
-    "wof:lastmodified":1537625953,
+    "wof:lastmodified":1566647456,
     "wof:name":"Rasovaca",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

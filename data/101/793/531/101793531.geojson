@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.515925,
     "lbl:longitude":16.616174,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.515925,
     "mps:longitude":16.616174,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Osekovo"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0435\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oszekovo"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":23,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":3193941,
         "gp:id":849470,
-        "qs:id":1275355,
         "qs_pg:id":1275355,
         "wd:id":"Q2331331",
         "wk:page":"Osekovo"
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101793531,
-    "wof:lastmodified":1563577489,
+    "wof:lastmodified":1566647384,
     "wof:name":"Osekovo",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

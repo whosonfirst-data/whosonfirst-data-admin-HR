@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.58694,45.38333,13.62694,45.42333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Materada"
     ],
@@ -58,8 +62,7 @@
         "\u041c\u0430\u0442\u0435\u0440\u0430\u0434\u0430"
     ],
     "name:und_x_variant":[
-        "Matterada",
-        "Materada"
+        "Matterada"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1226442995,
-    "wof:lastmodified":1564155157,
+    "wof:lastmodified":1566647747,
     "wof:name":"Materada",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

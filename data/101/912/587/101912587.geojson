@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":44.194389,
     "lbl:longitude":15.147068,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.194389,
     "mps:longitude":15.147068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Petr\u010dane"
     ],
@@ -58,9 +61,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0447\u0430\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Petr\u010dane"
-    ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Zadarska \u017eupanija",
     "qs:a1r":"7",
@@ -77,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":92,
     "wof:belongsto":[
         102191581,
@@ -88,9 +88,11 @@
     "wof:concordances":{
         "gn:id":3201547,
         "gp:id":849589,
-        "qs:id":1331646,
         "qs_pg:id":278345,
         "wd:id":"Q2451953"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1331646
     },
     "wof:country":"HR",
     "wof:geomhash":"cb1da967f80d7299a795b7f3cf92667a",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101912587,
-    "wof:lastmodified":1563577468,
+    "wof:lastmodified":1566647377,
     "wof:name":"Punta Skala",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

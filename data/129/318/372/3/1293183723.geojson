@@ -24,8 +24,12 @@
     "gn:population":885,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.64667,43.44667,16.68667,43.48667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Tugari",
         "Tugare"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293183723,
-    "wof:lastmodified":1537625817,
+    "wof:lastmodified":1566646861,
     "wof:name":"Tugare",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":17.658409,
     "gn:population":1101,
     "iso:country":"HR",
+    "lbl:bbox":"17.638409,45.16383,17.678409,45.20383",
     "lbl:latitude":45.18383,
     "lbl:longitude":17.658409,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.18383,
     "mps:longitude":17.658409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Batrina"
     ],
@@ -67,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":65,
     "wof:belongsto":[
@@ -79,7 +83,6 @@
     "wof:concordances":{
         "gn:id":3204398,
         "gp:id":846746,
-        "qs:id":1274837,
         "qs_pg:id":1274837,
         "wd:id":"Q2170112",
         "wk:page":"Batrina"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101857831,
-    "wof:lastmodified":1563577416,
+    "wof:lastmodified":1566647363,
     "wof:name":"Batrina",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

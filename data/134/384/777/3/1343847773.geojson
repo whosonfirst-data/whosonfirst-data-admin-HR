@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.355,46.50694,16.395,46.54694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Sveti Martin na Muri"
     ],
@@ -78,8 +82,7 @@
         "Orm\u00f3s",
         "Vrhovljan",
         "Sveti Martin",
-        "Vrhovoljan",
-        "Sveti Martin na Muri"
+        "Vrhovoljan"
     ],
     "name:war_x_preferred":[
         "Sveti Martin na Muri"
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1343847773,
-    "wof:lastmodified":1564153758,
+    "wof:lastmodified":1566646682,
     "wof:name":"Sveti Martin na Muri",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

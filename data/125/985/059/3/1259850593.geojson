@@ -24,8 +24,12 @@
     "gn:population":200,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.21762,45.31043,16.25762,45.35043",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Grabovac Banski"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1259850593,
-    "wof:lastmodified":1564155069,
+    "wof:lastmodified":1566647688,
     "wof:name":"Grabovac Banski",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

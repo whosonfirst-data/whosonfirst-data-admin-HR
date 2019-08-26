@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.752895,
     "lbl:longitude":18.06026,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.752895,
     "mps:longitude":18.06026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Viljevo"
     ],
@@ -65,10 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043b\u0454\u0432\u043e"
     ],
-    "name:und_x_preferred":[
-        "Viljevo"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vilyevo"
     ],
     "name:war_x_preferred":[
@@ -91,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -104,7 +104,6 @@
         "fct:id":"115d50da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3187750,
         "gp:id":850937,
-        "qs:id":255719,
         "qs_pg:id":255719,
         "wd:id":"Q428904",
         "wk:page":"Viljevo"
@@ -123,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577612,
+    "wof:lastmodified":1566647415,
     "wof:name":"Viljevo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

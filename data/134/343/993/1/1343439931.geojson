@@ -24,8 +24,12 @@
     "gn:population":506,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.40194,45.39222,16.44194,45.43222",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gornje Komarevo"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1343439931,
-    "wof:lastmodified":1564153865,
+    "wof:lastmodified":1566646754,
     "wof:name":"Gornje Komarevo",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":97,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.51333,45.71333,16.55333,45.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sovari"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1310409947,
-    "wof:lastmodified":1564154522,
+    "wof:lastmodified":1566647223,
     "wof:name":"Sovari",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

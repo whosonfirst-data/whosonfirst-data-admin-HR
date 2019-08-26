@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.74773,
     "lbl:longitude":15.890802,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.74773,
     "mps:longitude":15.890802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lu\u010dko"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.761,
     "wd:longitude":15.87,
@@ -89,10 +92,12 @@
     "wof:concordances":{
         "gn:id":3196123,
         "gp:id":848891,
-        "qs:id":901645,
-        "qs_pg:id":1087875,
+        "qs_pg:id":901645,
         "wd:id":"Q1290060",
         "wk:page":"Lu\u010dko"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1087875
     },
     "wof:country":"HR",
     "wof:geomhash":"55bef86e22549c6388aad318b42b4d64",
@@ -105,7 +110,7 @@
         }
     ],
     "wof:id":101792345,
-    "wof:lastmodified":1563577613,
+    "wof:lastmodified":1566647415,
     "wof:name":"Lu\u010dko",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

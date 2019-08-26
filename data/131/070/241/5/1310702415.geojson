@@ -25,8 +25,12 @@
     "gn:population":45,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.01639,45.08,14.05639,45.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Villa Turrini",
         "Veli Turini"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310702415,
-    "wof:lastmodified":1537625811,
+    "wof:lastmodified":1566647219,
     "wof:name":"Veli Turini",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

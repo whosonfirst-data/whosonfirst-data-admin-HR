@@ -24,8 +24,12 @@
     "gn:population":101,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.39881,46.08787,16.43881,46.12787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vukovec"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1343953439,
-    "wof:lastmodified":1564153784,
+    "wof:lastmodified":1566646699,
     "wof:name":"Vukovec",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

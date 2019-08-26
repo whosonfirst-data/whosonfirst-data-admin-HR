@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.61833,44.62722,15.65833,44.66722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u0160alamuni\u0107"
     ],
@@ -50,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043b\u0430\u043c\u0443\u043d\u0438\u0447"
     ],
-    "name:und_x_variant":[
-        "\u0160alamuni\u0107"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1276212283,
-    "wof:lastmodified":1564154064,
+    "wof:lastmodified":1566646906,
     "wof:name":"Salamunic",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

@@ -9,17 +9,20 @@
     "geom:bbox":"15.8,45.81667,15.8,45.81667",
     "geom:latitude":45.81667,
     "geom:longitude":15.8,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
     "gn:population":4,
     "iso:country":"HR",
+    "lbl:bbox":"15.78,45.79667,15.82,45.83667",
     "lbl:latitude":45.81667,
     "lbl:longitude":15.8,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Strmec"
     ],
     "qs_pg:aaroncc":"HR",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":581588,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1126015241,
-    "wof:lastmodified":1509406885,
+    "wof:lastmodified":1566647517,
     "wof:name":"Strmec Samoborski",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

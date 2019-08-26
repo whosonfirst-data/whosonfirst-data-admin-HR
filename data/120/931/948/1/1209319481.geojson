@@ -24,8 +24,12 @@
     "gn:population":14,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.47038,45.30222,15.51038,45.34222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":3201647
     },
     "wof:country":"HR",
-    "wof:geomhash":"d151de7b1e880329e1a7492c2b710345",
+    "wof:geomhash":"c591712b1d5fa3e6f58859ff9eae7545",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209319481,
-    "wof:lastmodified":1536290747,
+    "wof:lastmodified":1566647011,
     "wof:name":"Donja Perjasica",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.490379999999998,
+    15.49038,
     45.32222,
-    15.490379999999998,
+    15.49038,
     45.32222
 ],
   "geometry": {"coordinates":[15.49038,45.32222],"type":"Point"}

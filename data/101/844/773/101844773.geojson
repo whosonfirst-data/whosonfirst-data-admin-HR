@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.159831,
     "lbl:longitude":17.927515,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.159831,
     "mps:longitude":17.927515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Slobodnica"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":204,
     "wof:belongsto":[
@@ -78,7 +81,6 @@
     "wof:concordances":{
         "gn:id":3190544,
         "gp:id":850299,
-        "qs:id":1275530,
         "qs_pg:id":1275530,
         "wd:id":"Q3500416",
         "wk:page":"Slobodnica"
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101844773,
-    "wof:lastmodified":1563577401,
+    "wof:lastmodified":1566647359,
     "wof:name":"Slobodnica",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

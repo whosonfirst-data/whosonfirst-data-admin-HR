@@ -25,8 +25,12 @@
     "gn:population":232,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.515,45.32111,16.555,45.36111",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "\u010cetvrkovac",
         "\u010cetvrtkovac"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243247009,
-    "wof:lastmodified":1537625924,
+    "wof:lastmodified":1566647579,
     "wof:name":"Cetvrtkovac",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

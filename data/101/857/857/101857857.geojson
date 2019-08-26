@@ -11,12 +11,16 @@
     "geom:longitude":18.063724,
     "gn:population":1144,
     "iso:country":"HR",
+    "lbl:bbox":"18.043724,45.470493,18.083724,45.510493",
     "lbl:latitude":45.490493,
     "lbl:longitude":18.063724,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.490493,
     "mps:longitude":18.063724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Martin"
     ],
@@ -73,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +88,6 @@
     "wof:concordances":{
         "gn:id":3195440,
         "gp:id":849087,
-        "qs:id":1275279,
         "qs_pg:id":1275279,
         "wd:id":"Q6505214"
     },
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101857857,
-    "wof:lastmodified":1563577410,
+    "wof:lastmodified":1566647361,
     "wof:name":"Martin",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

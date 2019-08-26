@@ -9,14 +9,18 @@
     "geom:bbox":"14.71735,44.78154,14.71735,44.78154",
     "geom:latitude":44.78154,
     "geom:longitude":14.71735,
-    "geonames:id":"3198356,3217900",
+    "gn:id":"3198356,3217900",
     "iso:country":"HR",
+    "lbl:bbox":"14.69735,44.76154,14.73735,44.80154",
     "lbl:latitude":44.78154,
     "lbl:longitude":14.71735,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.78154,
     "mps:longitude":14.71735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Kampor"
     ],
@@ -76,7 +80,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         102191581,
@@ -87,9 +91,11 @@
     "wof:concordances":{
         "gn:id":3217900,
         "gp:id":848330,
-        "qs:id":3,
-        "qs_pg:id":1044102,
+        "qs_pg:id":3,
         "wd:id":"Q665329"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1044102
     },
     "wof:country":"HR",
     "wof:geomhash":"0a2403a97de0e5381a6cdb9470191dcb",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":101857829,
-    "wof:lastmodified":1563577404,
+    "wof:lastmodified":1566647359,
     "wof:name":"Kampor",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

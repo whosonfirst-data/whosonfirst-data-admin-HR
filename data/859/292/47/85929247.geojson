@@ -11,8 +11,10 @@
     "geom:longitude":15.886965,
     "gn:id":"",
     "iso:country":"HR",
+    "lbl:bbox":"15.881965,45.810077,15.891965,45.820077",
     "lbl:latitude":45.815077,
     "lbl:longitude":15.886965,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.808062,
     "mps:longitude":15.872102,
     "mz:hierarchy_label":0,
@@ -51,12 +53,6 @@
     ],
     "name:und_x_colloquial":[
         "Podsused-Vrapce"
-    ],
-    "name:und_x_preferred":[
-        "Podsused-Vrap\u010de"
-    ],
-    "name:unk_x_variant":[
-        "Podsused-Vrap\u010de"
     ],
     "qs:gn_adm0_cc":"HR",
     "qs:gn_id":0,
@@ -97,7 +93,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855365,
-        "qs:id":1135767,
         "qs_pg:id":1135767,
         "wd:id":"Q287296"
     },
@@ -116,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247583,
+    "wof:lastmodified":1566646756,
     "wof:name":"Podsused-Vrap\u010de",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

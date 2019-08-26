@@ -25,8 +25,12 @@
     "gn:population":317,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.59888,43.79837,16.63888,43.83837",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Biteli\u0107",
         "Donji Biteli\u0107"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259766173,
-    "wof:lastmodified":1537625915,
+    "wof:lastmodified":1566647690,
     "wof:name":"Donji Bitelic",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

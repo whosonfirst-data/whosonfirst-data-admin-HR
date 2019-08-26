@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.905709,
     "lbl:longitude":15.853789,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.905709,
     "mps:longitude":15.853789,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bistra"
     ],
@@ -67,11 +70,8 @@
     "name:ukr_x_preferred":[
         "\u0411\u0438\u0441\u0442\u0440\u0430"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Donja Bistra"
-    ],
-    "name:unk_x_variant":[
-        "Bistra"
     ],
     "name:war_x_preferred":[
         "Bistra"
@@ -90,7 +90,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":96,
     "wof:belongsto":[
         102191581,
@@ -102,7 +102,7 @@
         "fct:id":"115b90ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3201716,
         "gp:id":847352,
-        "qs:id":967003,
+        "qs_pg:id":967003,
         "wd:id":"Q804058",
         "wk:page":"Bistra, Croatia"
     },
@@ -120,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577593,
+    "wof:lastmodified":1566647409,
     "wof:name":"Donja Bistra",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

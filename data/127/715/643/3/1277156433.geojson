@@ -24,8 +24,12 @@
     "gn:population":204,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.90306,43.86028,15.94306,43.90028",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277156433,
-    "wof:lastmodified":1536661527,
+    "wof:lastmodified":1566646948,
     "wof:name":"Plastovo",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.347122,
     "lbl:longitude":16.228621,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.347122,
     "mps:longitude":16.228621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Petrijanec"
     ],
@@ -74,12 +77,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0456\u044f\u043d\u0435\u0446\u044c"
     ],
-    "name:und_x_preferred":[
-        "Petrijanec"
-    ],
-    "name:unk_x_variant":[
-        "Petriyanets"
-    ],
     "name:war_x_preferred":[
         "Petrijanec"
     ],
@@ -99,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":64,
     "wof:belongsto":[
@@ -112,7 +109,6 @@
         "fct:id":"115ca414-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3193425,
         "gp:id":849590,
-        "qs:id":1275375,
         "qs_pg:id":1275375,
         "wd:id":"Q668056",
         "wk:page":"Petrijanec"
@@ -131,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577465,
+    "wof:lastmodified":1566647376,
     "wof:name":"Petrijanec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

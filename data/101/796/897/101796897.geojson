@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.428969,
     "lbl:longitude":17.161296,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.428969,
     "mps:longitude":17.161296,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Grubine"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":3284794,
         "gp:id":55852693,
-        "qs:id":95334,
         "qs_pg:id":95334,
         "wd:id":"Q5274828"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101796897,
-    "wof:lastmodified":1563577381,
+    "wof:lastmodified":1566647352,
     "wof:name":"Grubine",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

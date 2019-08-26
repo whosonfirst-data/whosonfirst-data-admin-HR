@@ -24,8 +24,12 @@
     "gn:population":2,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.34667,45.49667,15.38667,45.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293297449,
-    "wof:lastmodified":1537058380,
+    "wof:lastmodified":1566646866,
     "wof:name":"Pavicici",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

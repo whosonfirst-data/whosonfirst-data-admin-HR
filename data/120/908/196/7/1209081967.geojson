@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.65472,45.11222,18.69472,45.15222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Berava"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209081967,
-    "wof:lastmodified":1564154241,
+    "wof:lastmodified":1566647031,
     "wof:name":"Berava",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

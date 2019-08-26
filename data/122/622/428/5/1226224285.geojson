@@ -23,8 +23,12 @@
     "gn:population":512,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.52389,46.21139,16.56389,46.25139",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Slanje"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1226224285,
-    "wof:lastmodified":1564155252,
+    "wof:lastmodified":1566647808,
     "wof:name":"Slanje",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

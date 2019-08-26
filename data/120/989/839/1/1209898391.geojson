@@ -24,8 +24,12 @@
     "gn:population":400,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.28933,46.12288,16.32933,46.16288",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209898391,
-    "wof:lastmodified":1536387561,
+    "wof:lastmodified":1566647103,
     "wof:name":"Gornje Makojisce",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

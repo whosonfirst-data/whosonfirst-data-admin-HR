@@ -25,8 +25,12 @@
     "gn:population":301,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.23083,45.1975,14.27083,45.2375",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mo\u0161\u0107enice"
     ],
@@ -50,8 +54,7 @@
     ],
     "name:und_x_variant":[
         "Moschenice",
-        "Moschiena",
-        "Mo\u0161\u0107enice"
+        "Moschiena"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1226319757,
-    "wof:lastmodified":1564155317,
+    "wof:lastmodified":1566647850,
     "wof:name":"Moscenice",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"17.80389,45.61861,17.80389,45.61861",
     "geom:latitude":45.61861,
     "geom:longitude":17.80389,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":918,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
     "gn:population":918,
     "iso:country":"HR",
+    "lbl:bbox":"17.78389,45.59861,17.82389,45.63861",
     "lbl:latitude":45.61861,
     "lbl:longitude":17.80389,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Mikleu\u0161"
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u043a\u043b\u0435\u0443\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Miklo\u0161"
     ],
     "name:war_x_preferred":[
@@ -98,7 +101,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":849156,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1126039135,
-    "wof:lastmodified":1563577754,
+    "wof:lastmodified":1566647487,
     "wof:name":"Mikleu\u00b5",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

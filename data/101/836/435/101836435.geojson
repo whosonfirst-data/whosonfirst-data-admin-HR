@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.963381,
     "lbl:longitude":15.430738,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.963381,
     "mps:longitude":15.430738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sveti Filip i Jakov"
     ],
@@ -77,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0456 \u0424\u0438\u043b\u0438\u043f-\u0456-\u042f\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
-        "Santi Filippo e Giacomo"
-    ],
     "name:war_x_preferred":[
         "Sveti Filip i Jakov"
     ],
@@ -99,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":162,
     "wof:belongsto":[
@@ -111,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3200845,
         "gp:id":850580,
-        "qs:id":314080,
         "qs_pg:id":314080,
         "wd:id":"Q1014083",
         "wk:page":"Sveti Filip i Jakov"
@@ -127,7 +126,7 @@
         }
     ],
     "wof:id":101836435,
-    "wof:lastmodified":1563577633,
+    "wof:lastmodified":1566647421,
     "wof:name":"Sveti Filip i Jakov",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

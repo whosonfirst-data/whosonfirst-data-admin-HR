@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.80806,45.92861,16.84806,45.96861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Novi Skucani"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1243077145,
-    "wof:lastmodified":1564154819,
+    "wof:lastmodified":1566647534,
     "wof:name":"Novi Skucani",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

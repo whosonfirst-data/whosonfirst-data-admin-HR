@@ -23,8 +23,12 @@
     "gn:population":5,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.87444,45.04472,14.91444,45.08472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Gal"
     ],
@@ -239,7 +243,7 @@
         }
     ],
     "wof:id":1226626359,
-    "wof:lastmodified":1564155303,
+    "wof:lastmodified":1566647840,
     "wof:name":"Bile",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

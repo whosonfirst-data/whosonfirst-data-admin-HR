@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":46.079936,
     "lbl:longitude":15.933259,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.079936,
     "mps:longitude":15.933259,
     "mz:hierarchy_label":1,
@@ -206,7 +207,7 @@
         "Krapina-Zagorjes l\u00e4n"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcd\u0bb0\u0bbe\u0baa\u0bbf\u0ba9\u0bbe - \u0b9a\u0b95\u0bcb\u0bb0\u0b9c\u0bc7    \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
+        "\u0b95\u0bcd\u0bb0\u0bbe\u0baa\u0bbf\u0ba9\u0bbe - \u0b9a\u0b95\u0bcb\u0bb0\u0b9c\u0bc7  \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c30\u0c3e\u0c2a\u0c3f\u0c28\u0c3e-\u0c1c\u0c3e\u0c17\u0c4b\u0c30\u0c4d\u0c2f\u0c47 \u0c15\u0c4c\u0c02\u0c1f\u0c40"
@@ -220,7 +221,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u043f\u0438\u043d\u0441\u044c\u043a\u043e-\u0417\u0430\u0433\u043e\u0440\u0441\u044c\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krapinsko-Zagorska"
     ],
     "name:urd_x_preferred":[
@@ -305,9 +306,9 @@
     "qs:type":"\u017dupanija",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-31",
+    "src:population_date":"2011-03-31",
     "statoids:area_km":"1,229",
     "statoids:area_mi":"475",
     "statoids:as_of_date":"2011-03-31",
@@ -353,11 +354,10 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1565714411,
+    "wof:lastmodified":1566646765,
     "wof:name":"Krapinsko-zagorska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":132892,
     "wof:population_rank":9,

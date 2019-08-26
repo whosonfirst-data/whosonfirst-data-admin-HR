@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.82944,43.52361,16.86944,43.56361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633229
@@ -34,7 +38,7 @@
         "gn:id":3283831
     },
     "wof:country":"HR",
-    "wof:geomhash":"87da23fe96a6f9fb337841af6585cc3c",
+    "wof:geomhash":"40ca36b38b011645c99e5c2d32638966",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209485701,
-    "wof:lastmodified":1536285643,
+    "wof:lastmodified":1566647041,
     "wof:name":"Pleici",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.849439999999998,
+    16.84944,
     43.54361,
-    16.849439999999998,
+    16.84944,
     43.54361
 ],
   "geometry": {"coordinates":[16.84944,43.54361],"type":"Point"}

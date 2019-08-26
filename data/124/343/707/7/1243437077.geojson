@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.68694,43.53972,16.72694,43.57972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Doija Ro\u0161ca",
         "Donja Ro\u0161ca"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243437077,
-    "wof:lastmodified":1537625947,
+    "wof:lastmodified":1566647649,
     "wof:name":"Donja Rosca",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

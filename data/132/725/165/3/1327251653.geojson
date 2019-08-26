@@ -24,8 +24,12 @@
     "gn:population":429,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.44639,45.61944,18.48639,45.65944",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160ag"
     ],
@@ -50,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0433"
     ],
-    "name:und_x_variant":[
-        "\u0160ag"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1327251653,
-    "wof:lastmodified":1564153590,
+    "wof:lastmodified":1566646564,
     "wof:name":"Sag",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.33306,43.94944,15.37306,43.98944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1343727757,
-    "wof:lastmodified":1536856898,
+    "wof:lastmodified":1566646749,
     "wof:name":"Cimera",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

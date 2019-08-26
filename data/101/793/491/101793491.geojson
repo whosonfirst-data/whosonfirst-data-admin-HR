@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.416374,
     "lbl:longitude":18.901162,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.416374,
     "mps:longitude":18.901162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Trpinja"
     ],
@@ -140,10 +143,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u043f\u0438\u043d\u044f"
     ],
-    "name:und_x_preferred":[
-        "Trpinja"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Terpinja"
     ],
     "name:vep_x_preferred":[
@@ -174,7 +174,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1520,
     "wof:belongsto":[
@@ -187,7 +187,6 @@
         "fct:id":"115d344c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3188730,
         "gp:id":850724,
-        "qs:id":255717,
         "qs_pg:id":255717,
         "wd:id":"Q208178",
         "wk:page":"Trpinja"
@@ -206,7 +205,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577480,
+    "wof:lastmodified":1566647381,
     "wof:name":"Trpinja",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

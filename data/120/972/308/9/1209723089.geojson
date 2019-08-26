@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.24139,42.9375,17.28139,42.9775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Borje"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1209723089,
-    "wof:lastmodified":1564154366,
+    "wof:lastmodified":1566647117,
     "wof:name":"Borje",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

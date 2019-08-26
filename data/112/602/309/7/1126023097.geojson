@@ -9,15 +9,18 @@
     "geom:bbox":"14.05,45.34806,14.05,45.34806",
     "geom:latitude":45.34806,
     "geom:longitude":14.05,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":17,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
     "gn:population":17,
     "iso:country":"HR",
+    "lbl:bbox":"14.03,45.32806,14.07,45.36806",
     "lbl:latitude":45.34806,
     "lbl:longitude":14.05,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aze_x_preferred":[
         "Hum"
@@ -109,9 +112,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0443\u043c"
     ],
-    "name:unk_x_variant":[
-        "Colmo"
-    ],
     "name:vie_x_preferred":[
         "Hum"
     ],
@@ -139,7 +139,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":848139,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -169,7 +169,7 @@
         }
     ],
     "wof:id":1126023097,
-    "wof:lastmodified":1563577737,
+    "wof:lastmodified":1566647481,
     "wof:name":"Hum",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

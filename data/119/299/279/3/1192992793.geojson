@@ -25,8 +25,12 @@
     "gn:population":1009,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.74667,45.64667,15.78667,45.68667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Donja Zden\u010dina"
     ],
@@ -58,8 +62,7 @@
         "\u0414\u043e\u043d\u044f \u0417\u0434\u0435\u043d\u0447\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Zden\u010dina",
-        "Donja Zden\u010dina"
+        "Zden\u010dina"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1192992793,
-    "wof:lastmodified":1564154416,
+    "wof:lastmodified":1566647150,
     "wof:name":"Donja Zdencina",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

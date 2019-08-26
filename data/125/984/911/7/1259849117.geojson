@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.96278,46.21056,16.00278,46.25056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bednja"
     ],
@@ -69,8 +73,7 @@
         "\u0411\u0435\u0434\u043d\u044f"
     ],
     "name:und_x_variant":[
-        "Bednjz",
-        "Bednja"
+        "Bednjz"
     ],
     "name:war_x_preferred":[
         "Bednja"
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1259849117,
-    "wof:lastmodified":1564155053,
+    "wof:lastmodified":1566647680,
     "wof:name":"Bednja",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

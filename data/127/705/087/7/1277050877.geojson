@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.28944,44.245,15.32944,44.285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "\u179f\u17d2\u178f\u17bc\u17a2\u17ca\u17b8\u1780"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1277050877,
-    "wof:lastmodified":1564154131,
+    "wof:lastmodified":1566646952,
     "wof:name":"Stoic",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

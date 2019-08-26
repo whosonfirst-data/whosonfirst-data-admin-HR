@@ -24,8 +24,12 @@
     "gn:population":254,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.29722,45.235,18.33722,45.275",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dragotin"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1243257809,
-    "wof:lastmodified":1564154916,
+    "wof:lastmodified":1566647595,
     "wof:name":"Dragotin",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

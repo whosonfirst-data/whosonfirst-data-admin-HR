@@ -25,8 +25,12 @@
     "gn:population":559,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.76639,45.58194,18.80639,45.62194",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kopa\u010devo"
     ],
@@ -58,9 +62,7 @@
         "\u041a\u043e\u043f\u0430\u0447\u0435\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Kop\u00e1cs",
-        "Kopa\u010d",
-        "Kopa\u010devo"
+        "Kopa\u010d"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":1209510313,
-    "wof:lastmodified":1564154319,
+    "wof:lastmodified":1566647086,
     "wof:name":"Kopacevo",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

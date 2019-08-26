@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.659493,
     "lbl:longitude":18.419046,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.659493,
     "mps:longitude":18.419046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u0628\u0648\u0641\u0648"
     ],
@@ -113,13 +116,7 @@
     "name:und_x_colloquial":[
         "Valpo"
     ],
-    "name:und_x_preferred":[
-        "Valpovo"
-    ],
     "name:und_x_variant":[
-        "Valp\u00f3"
-    ],
-    "name:unk_x_variant":[
         "Jovalium"
     ],
     "name:war_x_preferred":[
@@ -144,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":91.0,
     "wd:latitude":45.65,
@@ -160,7 +157,6 @@
         "fct:id":"115d3ef6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3188395,
         "gp:id":850798,
-        "qs:id":147089,
         "qs_pg:id":147089,
         "wd:id":"Q830300"
     },
@@ -178,7 +174,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577599,
+    "wof:lastmodified":1566647410,
     "wof:name":"Valpovo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

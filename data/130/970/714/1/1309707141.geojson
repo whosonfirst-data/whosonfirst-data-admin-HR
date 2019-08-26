@@ -25,8 +25,12 @@
     "gn:population":910,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.32861,46.35806,16.36861,46.39806",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gornji Hra\u0161\u0107an"
     ],
@@ -58,8 +62,7 @@
         "\u0413\u043e\u0440\u043d\u0456\u0439 \u0425\u0440\u0430\u0449\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Hra\u0161\u0107an",
-        "Gornji Hra\u0161\u0107an"
+        "Hra\u0161\u0107an"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1309707141,
-    "wof:lastmodified":1564154731,
+    "wof:lastmodified":1566647436,
     "wof:name":"Gornji Hrascan",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

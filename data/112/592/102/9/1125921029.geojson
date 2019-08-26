@@ -9,14 +9,18 @@
     "geom:bbox":"15.68556,44.39139,15.68556,44.39139",
     "geom:latitude":44.39139,
     "geom:longitude":15.68556,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"HR",
+    "lbl:bbox":"15.66556,44.37139,15.70556,44.41139",
     "lbl:latitude":44.39139,
     "lbl:longitude":15.68556,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Lovinac"
@@ -72,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0432\u0438\u043d\u0430\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lovinjac"
     ],
     "name:war_x_preferred":[
@@ -102,7 +106,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":848871,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
     "woe:name_adm1":"Li\u010dko-senjska",
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":1125921029,
-    "wof:lastmodified":1563577715,
+    "wof:lastmodified":1566647472,
     "wof:name":"Lovinac",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":89,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.33212,45.89509,16.37212,45.93509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343523345,
-    "wof:lastmodified":1536655665,
+    "wof:lastmodified":1566646653,
     "wof:name":"Krkac",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

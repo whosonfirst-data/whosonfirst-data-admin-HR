@@ -24,8 +24,12 @@
     "gn:population":84,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.99111,45.23611,18.03111,45.27611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":3201074
     },
     "wof:country":"HR",
-    "wof:geomhash":"f18771df1f475caafe08fcf4cae2f246",
+    "wof:geomhash":"9967111beb7a7c76c5be42a0c87baea1",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209223363,
-    "wof:lastmodified":1536293883,
+    "wof:lastmodified":1566647065,
     "wof:name":"Dubovik",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.011110000000006,
+    18.01111000000001,
     45.25611,
-    18.011110000000006,
+    18.01111000000001,
     45.25611
 ],
   "geometry": {"coordinates":[18.01111000000001,45.25611],"type":"Point"}

@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.805525,
     "lbl:longitude":16.238205,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.805525,
     "mps:longitude":16.238205,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dugo Selo"
     ],
@@ -103,9 +106,6 @@
     "name:ukr_x_variant":[
         "\u0414\u0443\u0433\u043e \u0421\u0435\u043b\u043e"
     ],
-    "name:und_x_preferred":[
-        "Dugo Selo"
-    ],
     "name:war_x_preferred":[
         "Dugo Selo"
     ],
@@ -127,7 +127,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":45.8,
     "wd:longitude":16.233333,
     "wd:wordcount":772,
@@ -141,7 +141,7 @@
         "fct:id":"115bb144-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3201009,
         "gp:id":847621,
-        "qs:id":763578,
+        "qs_pg:id":763578,
         "wd:id":"Q400041",
         "wk:page":"Dugo Selo"
     },
@@ -159,7 +159,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577457,
+    "wof:lastmodified":1566647373,
     "wof:name":"Dugo Selo",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

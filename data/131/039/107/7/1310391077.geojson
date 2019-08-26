@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.21972,44.88889,15.25972,44.92889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Novo Selo"
     ],
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":1310391077,
-    "wof:lastmodified":1564154556,
+    "wof:lastmodified":1566647247,
     "wof:name":"Novo Selo",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

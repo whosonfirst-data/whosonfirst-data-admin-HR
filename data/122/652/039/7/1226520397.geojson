@@ -24,8 +24,12 @@
     "gn:population":89,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.025,45.32639,18.065,45.36639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226520397,
-    "wof:lastmodified":1537033212,
+    "wof:lastmodified":1566647828,
     "wof:name":"Knezevac",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

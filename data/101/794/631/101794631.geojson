@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.156574,
     "lbl:longitude":18.397117,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":45.156574,
     "mps:longitude":18.397117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Velika Kopanica"
     ],
@@ -59,12 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u041a\u043e\u043f\u0430\u043d\u0438\u0446\u044f"
     ],
-    "name:und_x_preferred":[
-        "Velika Kopanica"
-    ],
-    "name:unk_x_variant":[
-        "Velica Kopanica"
-    ],
     "name:war_x_preferred":[
         "Velika Kopanica"
     ],
@@ -85,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -98,7 +95,6 @@
         "fct:id":"115d466c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3188222,
         "gp:id":850849,
-        "qs:id":262138,
         "qs_pg:id":262138,
         "wd:id":"Q569016",
         "wk:page":"Velika Kopanica"
@@ -117,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577544,
+    "wof:lastmodified":1566647398,
     "wof:name":"Velika Kopanica",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

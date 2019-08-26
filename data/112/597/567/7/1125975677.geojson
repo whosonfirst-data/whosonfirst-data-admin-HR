@@ -9,15 +9,18 @@
     "geom:bbox":"17.93083,45.18278,17.93083,45.18278",
     "geom:latitude":45.18278,
     "geom:longitude":17.93083,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":878,
-    "gn:population":737,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":878,
     "iso:country":"HR",
+    "lbl:bbox":"17.91083,45.16278,17.95083,45.20278",
     "lbl:latitude":45.18278,
     "lbl:longitude":17.93083,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Bartolovci"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0442\u043e\u043b\u043e\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bartolovcl"
     ],
     "qs_pg:aaroncc":"HR",
@@ -69,7 +72,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":55853388,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125975677,
-    "wof:lastmodified":1563577806,
+    "wof:lastmodified":1566647506,
     "wof:name":"Bartolovci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

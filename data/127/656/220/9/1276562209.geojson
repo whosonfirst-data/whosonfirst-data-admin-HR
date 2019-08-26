@@ -24,8 +24,12 @@
     "gn:population":349,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.86719,45.91038,16.90719,45.95038",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Leti\u010dani"
     ],
@@ -53,9 +57,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0442\u0438\u0447\u0430\u043d\u0438"
     ],
-    "name:und_x_variant":[
-        "Leti\u010dani"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1276562209,
-    "wof:lastmodified":1564154105,
+    "wof:lastmodified":1566646933,
     "wof:name":"Leticani",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

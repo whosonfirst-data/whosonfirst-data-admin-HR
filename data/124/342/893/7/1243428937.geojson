@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.52678,45.82608,16.56678,45.86608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Novaki"
     ],
@@ -50,8 +54,7 @@
     ],
     "name:und_x_variant":[
         "Dubravski Novaki",
-        "Novaki Dubravski",
-        "Novaki"
+        "Novaki Dubravski"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1243428937,
-    "wof:lastmodified":1564154983,
+    "wof:lastmodified":1566647638,
     "wof:name":"Novaki",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

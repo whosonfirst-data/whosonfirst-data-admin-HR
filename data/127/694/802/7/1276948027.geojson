@@ -25,8 +25,12 @@
     "gn:population":227,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.36694,43.14528,17.40694,43.18528",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Um\u010dane",
         "Um\u010dani"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276948027,
-    "wof:lastmodified":1537625816,
+    "wof:lastmodified":1566646934,
     "wof:name":"Umcani",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

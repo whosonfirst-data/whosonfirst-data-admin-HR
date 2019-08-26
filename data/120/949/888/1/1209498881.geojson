@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.49917,45.67917,18.53917,45.71917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633229
@@ -35,7 +39,7 @@
         "gn:id":3215580
     },
     "wof:country":"HR",
-    "wof:geomhash":"d598a1b23229afad2a220f9ff8e05d2e",
+    "wof:geomhash":"45dc385872ca9e6df5c9b19eb5ed1ff3",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209498881,
-    "wof:lastmodified":1536285247,
+    "wof:lastmodified":1566647061,
     "wof:name":"Dordev Dvor",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.519170000000006,
+    18.51917000000001,
     45.69917,
-    18.519170000000006,
+    18.51917000000001,
     45.69917
 ],
   "geometry": {"coordinates":[18.51917000000001,45.69917],"type":"Point"}

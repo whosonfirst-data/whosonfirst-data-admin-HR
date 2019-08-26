@@ -25,8 +25,12 @@
     "gn:population":335,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.39556,46.30833,16.43556,46.34833",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "\u0160androvec",
         "\u0160andorovec"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242864043,
-    "wof:lastmodified":1537625836,
+    "wof:lastmodified":1566647558,
     "wof:name":"Sandorovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

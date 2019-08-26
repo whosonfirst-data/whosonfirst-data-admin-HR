@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.229275,
     "lbl:longitude":14.616513,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.229275,
     "mps:longitude":14.616513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Jadranovo"
     ],
@@ -62,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0434\u0440\u0430\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sveti Jakob"
     ],
     "name:urd_x_preferred":[
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":312,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":3198964,
         "gp:id":55855366,
-        "qs:id":147246,
         "qs_pg:id":147246,
         "wd:id":"Q917220",
         "wk:page":"Jadranovo"
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101794677,
-    "wof:lastmodified":1563577537,
+    "wof:lastmodified":1566647396,
     "wof:name":"Jadranovo",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

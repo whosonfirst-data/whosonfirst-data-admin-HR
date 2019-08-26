@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.51139,44.49528,15.55139,44.53528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Pavlovac"
     ],
@@ -61,8 +65,7 @@
         "Pavlovac"
     ],
     "name:und_x_variant":[
-        "Vreba\u010dki Pavlovac",
-        "Pavlovac"
+        "Vreba\u010dki Pavlovac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1259803565,
-    "wof:lastmodified":1564155115,
+    "wof:lastmodified":1566647720,
     "wof:name":"Pavlovac",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

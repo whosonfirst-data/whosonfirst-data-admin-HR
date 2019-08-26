@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.37722,44.20028,15.41722,44.24028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293166419,
-    "wof:lastmodified":1536753062,
+    "wof:lastmodified":1566646867,
     "wof:name":"Verzic",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

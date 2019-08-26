@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.258111,
     "lbl:longitude":17.42367,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.258111,
     "mps:longitude":17.42367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Re\u0161etari"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":109,
     "wof:belongsto":[
@@ -97,7 +100,7 @@
     "wof:concordances":{
         "gn:id":3191720,
         "gp:id":850013,
-        "qs:id":1083054,
+        "qs_pg:id":1083054,
         "wd:id":"Q1269809",
         "wk:page":"Re\u0161etari"
     },
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101835299,
-    "wof:lastmodified":1563577452,
+    "wof:lastmodified":1566647372,
     "wof:name":"Re\u0161etari",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",
