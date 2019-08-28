@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.34889,44.48611,15.38889,44.52611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Po\u010du\u0107i",
         "Po\u010du\u010di\u0107i"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259669219,
-    "wof:lastmodified":1537625953,
+    "wof:lastmodified":1566647702,
     "wof:name":"Pocucici",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

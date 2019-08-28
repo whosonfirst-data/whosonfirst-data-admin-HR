@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.835,45.20667,13.875,45.24667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1259684435,
-    "wof:lastmodified":1537062850,
+    "wof:lastmodified":1566647697,
     "wof:name":"Mali Jezenj",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

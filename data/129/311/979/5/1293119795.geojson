@@ -24,8 +24,12 @@
     "gn:population":723,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.69444,46.31528,16.73444,46.35528",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Donji Mihaljevec"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1293119795,
-    "wof:lastmodified":1564154002,
+    "wof:lastmodified":1566646864,
     "wof:name":"Donji Mihaljevec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

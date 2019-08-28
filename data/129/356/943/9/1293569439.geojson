@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.87167,45.05667,14.91167,45.09667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vekuli\u0107i",
         "Vukeli\u0107-Draga"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293569439,
-    "wof:lastmodified":1537625944,
+    "wof:lastmodified":1566646840,
     "wof:name":"Vukelic-Draga",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

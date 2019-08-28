@@ -10,12 +10,16 @@
     "geom:latitude":46.214981,
     "geom:longitude":15.68944,
     "iso:country":"HR",
+    "lbl:bbox":"15.66944,46.194981,15.70944,46.234981",
     "lbl:latitude":46.214981,
     "lbl:longitude":15.68944,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.214981,
     "mps:longitude":15.68944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Hum na Sutli"
     ],
@@ -61,11 +65,8 @@
     "name:ukr_x_preferred":[
         "\u0425\u0443\u043c-\u043d\u0430-\u0421\u0443\u0442\u043b\u0456"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Hum Na Sutli"
-    ],
-    "name:unk_x_variant":[
-        "Hum"
     ],
     "name:war_x_preferred":[
         "Hum na Sutli"
@@ -86,7 +87,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":77,
     "wof:belongsto":[
         102191581,
@@ -98,7 +99,7 @@
         "fct:id":"115bf2da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3199194,
         "gp:id":848141,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q935492",
         "wk:page":"Hum na Sutli"
     },
@@ -116,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577414,
+    "wof:lastmodified":1566647362,
     "wof:name":"Hum na Sutli",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":41,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.46333,45.76333,15.50333,45.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "\u017dumbera\u010dko Mrzlo Polje",
         "Mrzlopolje",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209878065,
-    "wof:lastmodified":1537625859,
+    "wof:lastmodified":1566647099,
     "wof:name":"Mrzlo Polje Zumberacko",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

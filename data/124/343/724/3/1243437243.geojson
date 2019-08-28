@@ -25,8 +25,12 @@
     "gn:population":70,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.57004,43.1813,16.61004,43.2213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Rudina"
     ],
@@ -58,8 +62,7 @@
         "\u0420\u0443\u0434\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Rudine",
-        "Rudina"
+        "Rudine"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1243437243,
-    "wof:lastmodified":1564155004,
+    "wof:lastmodified":1566647650,
     "wof:name":"Rudina",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

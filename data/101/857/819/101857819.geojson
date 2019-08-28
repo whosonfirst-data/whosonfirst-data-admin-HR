@@ -11,12 +11,16 @@
     "geom:longitude":16.709949,
     "gn:population":1021,
     "iso:country":"HR",
+    "lbl:bbox":"16.689949,43.701711,16.729949,43.741711",
     "lbl:latitude":43.721711,
     "lbl:longitude":16.709949,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.721711,
     "mps:longitude":16.709949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gala"
     ],
@@ -121,7 +125,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":374,
     "wof:belongsto":[
@@ -133,7 +137,6 @@
     "wof:concordances":{
         "gn:id":3200745,
         "gp:id":847693,
-        "qs:id":147279,
         "qs_pg:id":147279
     },
     "wof:country":"HR",
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101857819,
-    "wof:lastmodified":1564154693,
+    "wof:lastmodified":1566647360,
     "wof:name":"Gala",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

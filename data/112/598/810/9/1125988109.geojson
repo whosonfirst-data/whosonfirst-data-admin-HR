@@ -9,15 +9,18 @@
     "geom:bbox":"15.16667,45.28333,15.16667,45.28333",
     "geom:latitude":45.28333,
     "geom:longitude":15.16667,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":249,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"HR",
+    "lbl:bbox":"15.14667,45.26333,15.18667,45.30333",
     "lbl:latitude":45.28333,
     "lbl:longitude":15.16667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Turkovi\u0107i Ogulinski"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u043a\u043e\u0432\u0438\u0447\u0456 \u041e\u0433\u0443\u043b\u0438\u043d\u0441\u044c\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ogulinski Turkovi\u0107i"
     ],
     "qs_pg:aaroncc":"HR",
@@ -67,7 +70,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":850754,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125988109,
-    "wof:lastmodified":1563577821,
+    "wof:lastmodified":1566647513,
     "wof:name":"Turkovi\u0107i Ogulinski",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

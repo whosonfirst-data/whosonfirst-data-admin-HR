@@ -25,8 +25,12 @@
     "gn:population":55,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.29667,45.24667,15.33667,45.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gerovo Tounjsko"
     ],
@@ -54,8 +58,7 @@
     "name:und_x_variant":[
         "Tounjsko Gerovo",
         "Gerovo",
-        "Gerovo Taunjsko",
-        "Gerovo Tounjsko"
+        "Gerovo Taunjsko"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1260181167,
-    "wof:lastmodified":1564154468,
+    "wof:lastmodified":1566647187,
     "wof:name":"Gerovo Tounjsko",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

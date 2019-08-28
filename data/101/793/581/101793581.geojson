@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.399758,
     "lbl:longitude":18.371514,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.399758,
     "mps:longitude":18.371514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gorjani"
     ],
@@ -68,12 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u044f\u043d\u0438"
     ],
-    "name:und_x_preferred":[
-        "Gorjani"
-    ],
-    "name:unk_x_variant":[
-        "Gorjan"
-    ],
     "name:war_x_preferred":[
         "Gorjani"
     ],
@@ -93,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":87,
     "wof:belongsto":[
@@ -106,7 +103,6 @@
         "fct:id":"115bc77e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3200304,
         "gp:id":847779,
-        "qs:id":180215,
         "qs_pg:id":180215,
         "wd:id":"Q1008108",
         "wk:page":"Gorjani"
@@ -125,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577482,
+    "wof:lastmodified":1566647382,
     "wof:name":"Gorjani",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.86167,45.99972,15.90167,46.03972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Pavlovec Zabo\u010dki"
     ],
@@ -61,8 +65,7 @@
         "\u041f\u0430\u0432\u043b\u043e\u0432\u0435\u0446\u044c-\u0417\u0430\u0431\u043e\u0446\u044c\u043a\u0438\u0439"
     ],
     "name:und_x_variant":[
-        "Pavlovec",
-        "Pavlovec-Zabo\u010dki"
+        "Pavlovec"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1226137147,
-    "wof:lastmodified":1564155246,
+    "wof:lastmodified":1566647805,
     "wof:name":"Pavlovec-Zabocki",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

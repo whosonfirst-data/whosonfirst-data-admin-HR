@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.29976,46.10679,16.33976,46.14679",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Paka"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1259653291,
-    "wof:lastmodified":1564155028,
+    "wof:lastmodified":1566647662,
     "wof:name":"Paka",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

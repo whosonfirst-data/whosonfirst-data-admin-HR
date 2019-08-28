@@ -25,8 +25,12 @@
     "gn:population":199,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.09333,43.95222,15.13333,43.99222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u017dman"
     ],
@@ -52,8 +56,7 @@
         "\u0416\u043c\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Sman",
-        "\u017dman"
+        "Sman"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1242938639,
-    "wof:lastmodified":1564154883,
+    "wof:lastmodified":1566647574,
     "wof:name":"Zman",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

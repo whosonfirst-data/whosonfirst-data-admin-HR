@@ -24,8 +24,12 @@
     "gn:population":63,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.39556,45.71389,18.43556,45.75389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Novo Nevesinje"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1276975133,
-    "wof:lastmodified":1564154179,
+    "wof:lastmodified":1566646987,
     "wof:name":"Novo Nevesinje",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

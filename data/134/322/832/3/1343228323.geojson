@@ -24,8 +24,12 @@
     "gn:population":573,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.57139,45.26722,18.61139,45.30722",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Novi Mikanovci"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1343228323,
-    "wof:lastmodified":1564153781,
+    "wof:lastmodified":1566646697,
     "wof:name":"Novi Mikanovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

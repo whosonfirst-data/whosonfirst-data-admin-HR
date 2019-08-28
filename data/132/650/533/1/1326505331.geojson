@@ -25,8 +25,12 @@
     "gn:population":174,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.60194,44.08667,15.64194,44.12667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Karin Donji",
         "Donji Karin"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326505331,
-    "wof:lastmodified":1537625915,
+    "wof:lastmodified":1566646559,
     "wof:name":"Donji Karin",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

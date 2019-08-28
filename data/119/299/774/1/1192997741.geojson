@@ -25,8 +25,12 @@
     "gn:population":336,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.85083,43.83806,15.89083,43.87806",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Somkovi\u0107",
         "Sonkovi\u0107"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1192997741,
-    "wof:lastmodified":1537625829,
+    "wof:lastmodified":1566647151,
     "wof:name":"Sonkovic",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

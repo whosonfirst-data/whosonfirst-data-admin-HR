@@ -24,8 +24,12 @@
     "gn:population":76,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.92442,45.5705,15.96442,45.6105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226416983,
-    "wof:lastmodified":1536687032,
+    "wof:lastmodified":1566647822,
     "wof:name":"Petravec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":16.78709,
     "gn:population":1302,
     "iso:country":"HR",
+    "lbl:bbox":"16.76709,45.90437,16.80709,45.94437",
     "lbl:latitude":45.92437,
     "lbl:longitude":16.78709,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.92437,
     "mps:longitude":16.78709,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Predavac"
     ],
@@ -53,7 +57,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0434\u0430\u0432\u0430\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Predavec"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -73,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":37,
     "wof:belongsto":[
@@ -85,7 +89,6 @@
     "wof:concordances":{
         "gn:id":3192563,
         "gp:id":849811,
-        "qs:id":147141,
         "qs_pg:id":147141,
         "wd:id":"Q636217",
         "wk:page":"Predavac"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101857859,
-    "wof:lastmodified":1563577408,
+    "wof:lastmodified":1566647361,
     "wof:name":"Predavac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

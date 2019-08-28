@@ -24,8 +24,12 @@
     "gn:population":816,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.33361,45.65972,16.37361,45.69972",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Posavski Bregi"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1310067473,
-    "wof:lastmodified":1564154556,
+    "wof:lastmodified":1566647248,
     "wof:name":"Posavski Bregi",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

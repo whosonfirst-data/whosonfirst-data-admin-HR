@@ -24,8 +24,12 @@
     "gn:population":340,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.37229,46.09121,16.41229,46.13121",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gornja Rijeka"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1209207273,
-    "wof:lastmodified":1564154333,
+    "wof:lastmodified":1566647096,
     "wof:name":"Gornja Rijeka",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

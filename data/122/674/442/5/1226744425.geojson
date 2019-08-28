@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.89111,46.06083,15.93111,46.10083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hrv_x_preferred":[
         "Sveti Kri\u017e Za\u010dretje"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226744425,
-    "wof:lastmodified":1537625806,
+    "wof:lastmodified":1566647757,
     "wof:name":"Sveti Kriz Zacretje",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

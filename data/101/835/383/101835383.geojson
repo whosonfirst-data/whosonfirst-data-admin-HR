@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.797344,
     "lbl:longitude":15.776963,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.797344,
     "mps:longitude":15.776963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sveta Nedelja"
     ],
@@ -107,12 +110,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0430 \u041d\u0435\u0434\u0435\u043b\u044f"
     ],
-    "name:und_x_preferred":[
-        "Sveta Nedjelja"
-    ],
-    "name:unk_x_variant":[
-        "Nedjelja"
-    ],
     "name:war_x_preferred":[
         "Sveta Nedelja"
     ],
@@ -130,7 +127,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.8,
     "wd:longitude":15.783333,
@@ -145,7 +142,7 @@
         "fct:id":"115d2146-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3189386,
         "gp:id":850571,
-        "qs:id":967177,
+        "qs_pg:id":967177,
         "wd:id":"Q856385",
         "wk:page":"Sveta Nedelja, Zagreb County"
     },
@@ -163,7 +160,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577434,
+    "wof:lastmodified":1566647367,
     "wof:name":"Sveta Nedelja",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

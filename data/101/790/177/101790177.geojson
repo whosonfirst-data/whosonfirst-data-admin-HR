@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.404916,
     "lbl:longitude":16.515007,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.404916,
     "mps:longitude":16.515007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Belica"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":225,
     "wof:belongsto":[
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3204322,
         "gp:id":55855139,
-        "qs:id":242561,
+        "qs_pg:id":242561,
         "wd:id":"Q578190",
         "wk:page":"Belica, Me\u0111imurje County"
     },
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101790177,
-    "wof:lastmodified":1563577331,
+    "wof:lastmodified":1566647335,
     "wof:name":"Belica",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

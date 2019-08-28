@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.598484,
     "lbl:longitude":15.598936,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.598484,
     "mps:longitude":15.598936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dragani\u0107"
     ],
@@ -71,13 +74,7 @@
         "Draganic",
         "Draganici"
     ],
-    "name:und_x_preferred":[
-        "Dragani\u0107i"
-    ],
     "name:und_x_variant":[
-        "Dragani\u0107"
-    ],
-    "name:unk_x_variant":[
         "Dragani\u0107i"
     ],
     "name:war_x_preferred":[
@@ -98,7 +95,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":151,
     "wof:belongsto":[
         102191581,
@@ -110,7 +107,7 @@
         "fct:id":"115ba6fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3201320,
         "gp:id":847539,
-        "qs:id":262073,
+        "qs_pg:id":262073,
         "wd:id":"Q83000",
         "wk:page":"Dragani\u0107, Karlovac County"
     },
@@ -128,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577485,
+    "wof:lastmodified":1566647383,
     "wof:name":"Dragani\u0107",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

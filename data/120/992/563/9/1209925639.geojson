@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.22167,42.54778,18.26167,42.58778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pend\u00e9"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1209925639,
-    "wof:lastmodified":1564154301,
+    "wof:lastmodified":1566647072,
     "wof:name":"Pende",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

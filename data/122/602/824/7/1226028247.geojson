@@ -24,8 +24,12 @@
     "gn:population":110,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.39306,45.33472,16.43306,45.37472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u0435 \u0421\u044f\u043b\u043e"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1226028247,
-    "wof:lastmodified":1564155194,
+    "wof:lastmodified":1566647770,
     "wof:name":"Staro Selo",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

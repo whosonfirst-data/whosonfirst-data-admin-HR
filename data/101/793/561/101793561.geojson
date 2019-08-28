@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.498697,
     "lbl:longitude":18.740934,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.498697,
     "mps:longitude":18.740934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Tenja"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sveta Ana"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":210,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":3189161,
         "gp:id":850631,
-        "qs:id":1043899,
         "qs_pg:id":1043899,
         "wd:id":"Q1280643",
         "wk:page":"Tenja"
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101793561,
-    "wof:lastmodified":1563577474,
+    "wof:lastmodified":1566647379,
     "wof:name":"Tenja",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

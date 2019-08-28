@@ -9,14 +9,18 @@
     "geom:bbox":"13.54056,45.38194,13.54056,45.38194",
     "geom:latitude":45.38194,
     "geom:longitude":13.54056,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"HR",
+    "lbl:bbox":"13.52056,45.36194,13.56056,45.40194",
     "lbl:latitude":45.38194,
     "lbl:longitude":13.54056,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Lovre\u010dica"
@@ -60,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0432\u0440\u0435\u0447\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Lorenzo in Daila"
     ],
     "qs_pg:aaroncc":"HR",
@@ -84,7 +88,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":848880,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
     "woe:name_adm1":"Istarska",
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1125817445,
-    "wof:lastmodified":1563577769,
+    "wof:lastmodified":1566647493,
     "wof:name":"Lovre\u010dica",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

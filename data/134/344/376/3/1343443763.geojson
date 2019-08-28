@@ -25,8 +25,12 @@
     "gn:population":127,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.44876,43.63135,16.48876,43.67135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Gizdavor",
         "Gizdavac"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343443763,
-    "wof:lastmodified":1537625906,
+    "wof:lastmodified":1566646751,
     "wof:name":"Gizdavac",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

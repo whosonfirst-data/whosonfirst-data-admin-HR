@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.397561,
     "lbl:longitude":16.89136,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.397561,
     "mps:longitude":16.89136,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lipovljani"
     ],
@@ -80,10 +83,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043f\u043e\u0432\u043b\u044f\u043d\u0438"
     ],
-    "name:und_x_preferred":[
-        "Lipovljani"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lipovljane"
     ],
     "name:war_x_preferred":[
@@ -105,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":133,
     "wof:belongsto":[
@@ -118,7 +118,6 @@
         "fct:id":"115dd668-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3215502,
         "gp:id":55853683,
-        "qs:id":529699,
         "qs_pg:id":529699,
         "wd:id":"Q2455431",
         "wk:page":"Lipovljani"
@@ -137,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577484,
+    "wof:lastmodified":1566647382,
     "wof:name":"Lipovljani",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

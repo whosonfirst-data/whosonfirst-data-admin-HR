@@ -25,8 +25,12 @@
     "gn:population":94,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.09139,45.34889,14.13139,45.38889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Semic"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1344063037,
-    "wof:lastmodified":1564153746,
+    "wof:lastmodified":1566646674,
     "wof:name":"Semic",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

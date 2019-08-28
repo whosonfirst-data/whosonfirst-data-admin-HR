@@ -25,8 +25,12 @@
     "gn:population":253,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.68444,45.39972,14.72444,45.43972",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0426\u044a\u0440\u043d\u0438 \u041b\u0443\u0433"
     ],
@@ -49,8 +53,7 @@
         "\u0426\u0440\u043d\u0438 \u041b\u0443\u0433"
     ],
     "name:und_x_variant":[
-        "Crui Lug",
-        "Crni Lug"
+        "Crui Lug"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1344034941,
-    "wof:lastmodified":1564153833,
+    "wof:lastmodified":1566646732,
     "wof:name":"Crni Lug",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.6875,43.51639,16.7275,43.55639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Okruglica"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1225914557,
-    "wof:lastmodified":1564155238,
+    "wof:lastmodified":1566647799,
     "wof:name":"Okruglica",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":93,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.80972,43.58417,16.84972,43.62417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrpolje"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1242760551,
-    "wof:lastmodified":1564154957,
+    "wof:lastmodified":1566647622,
     "wof:name":"Vrpolje",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

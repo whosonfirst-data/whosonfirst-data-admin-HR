@@ -24,8 +24,12 @@
     "gn:population":770,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.06081,45.74094,16.10081,45.78094",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Velika Kosnica"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1309676765,
-    "wof:lastmodified":1564154754,
+    "wof:lastmodified":1566647451,
     "wof:name":"Velika Kosnica",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

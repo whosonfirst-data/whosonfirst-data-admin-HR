@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.812339,
     "lbl:longitude":15.789186,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":45.812339,
     "mps:longitude":15.789186,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Strmec"
     ],
@@ -50,7 +53,7 @@
     "name:swe_x_preferred":[
         "Strmec"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Strmec Samoborski"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":219,
     "wof:belongsto":[
@@ -81,9 +84,11 @@
     "wof:concordances":{
         "gn:id":3189713,
         "gp:id":55854722,
-        "qs:id":581588,
         "qs_pg:id":70894,
         "wd:id":"Q413984"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":581588
     },
     "wof:country":"HR",
     "wof:geomhash":"8eabac8addbcd11a3d041939f5c6750d",
@@ -96,7 +101,7 @@
         }
     ],
     "wof:id":101835381,
-    "wof:lastmodified":1563577457,
+    "wof:lastmodified":1566647374,
     "wof:name":"Strmec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

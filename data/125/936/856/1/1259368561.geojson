@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.31222,44.94194,15.35222,44.98194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Seliste"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1259368561,
-    "wof:lastmodified":1564155010,
+    "wof:lastmodified":1566647654,
     "wof:name":"Seliste",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

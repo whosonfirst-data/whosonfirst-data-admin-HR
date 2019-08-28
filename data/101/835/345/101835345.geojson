@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.479619,
     "lbl:longitude":16.779195,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.479619,
     "mps:longitude":16.779195,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bos_x_preferred":[
         "Kutina"
     ],
@@ -119,12 +122,6 @@
     "name:ukr_x_variant":[
         "\u041a\u0443\u0442\u0438\u043d\u0430"
     ],
-    "name:und_x_preferred":[
-        "Kutina"
-    ],
-    "name:unk_x_variant":[
-        "Kutenya"
-    ],
     "name:war_x_preferred":[
         "Kutina"
     ],
@@ -147,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":149.0,
     "wd:latitude":45.47915,
@@ -163,7 +160,6 @@
         "fct:id":"115c3718-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3196864,
         "gp:id":848714,
-        "qs:id":967071,
         "qs_pg:id":967071,
         "wd:id":"Q396536"
     },
@@ -181,7 +177,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577455,
+    "wof:lastmodified":1566647373,
     "wof:name":"Kutina",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

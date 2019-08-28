@@ -11,12 +11,16 @@
     "geom:longitude":16.076423,
     "gn:population":1056,
     "iso:country":"HR",
+    "lbl:bbox":"16.056423,46.249551,16.096423,46.289551",
     "lbl:latitude":46.269551,
     "lbl:longitude":16.076423,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.269551,
     "mps:longitude":16.076423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Klenovnik"
     ],
@@ -71,9 +75,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0435\u043d\u043e\u0432\u043d\u0438\u043a"
     ],
-    "name:und_x_preferred":[
-        "Klenovnik"
-    ],
     "name:war_x_preferred":[
         "Klenovnik"
     ],
@@ -93,7 +94,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":61,
     "wof:belongsto":[
@@ -106,7 +107,7 @@
         "fct:id":"115c14fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3198078,
         "gp:id":55851790,
-        "qs:id":529395,
+        "qs_pg:id":529395,
         "wd:id":"Q581711",
         "wk:page":"Klenovnik, Croatia"
     },
@@ -124,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577408,
+    "wof:lastmodified":1566647360,
     "wof:name":"Klenovnik",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

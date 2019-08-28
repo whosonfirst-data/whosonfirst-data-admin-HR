@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":43.888782,
     "lbl:longitude":16.074643,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.888782,
     "mps:longitude":16.074643,
     "mz:hierarchy_label":1,
@@ -220,7 +221,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0438\u0431\u0435\u043d\u0438\u0446\u044c\u043a\u043e-\u041a\u043d\u0456\u043d\u0441\u044c\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0160ibensko-Kniniska"
     ],
     "name:urd_x_preferred":[
@@ -305,9 +306,9 @@
     "qs:type":"\u017dupanija",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-31",
+    "src:population_date":"2011-03-31",
     "statoids:area_km":"2,984",
     "statoids:area_mi":"1,152",
     "statoids:as_of_date":"2011-03-31",
@@ -353,11 +354,10 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1565714413,
+    "wof:lastmodified":1566646770,
     "wof:name":"\u0160ibensko-kninska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":109375,
     "wof:population_rank":9,

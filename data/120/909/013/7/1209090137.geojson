@@ -24,8 +24,12 @@
     "gn:population":1955,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.60028,45.38,18.64028,45.42",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160odolovci"
     ],
@@ -65,9 +69,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u043e\u0434\u043e\u043b\u043e\u0432\u0446\u0456"
     ],
-    "name:und_x_variant":[
-        "\u0160odolovci"
-    ],
     "name:war_x_preferred":[
         "\u0160odolovci"
     ],
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1209090137,
-    "wof:lastmodified":1564154211,
+    "wof:lastmodified":1566647010,
     "wof:name":"Sodolovci",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

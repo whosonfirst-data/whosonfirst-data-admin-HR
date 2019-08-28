@@ -24,8 +24,12 @@
     "gn:population":196,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.09832,45.32093,16.13832,45.36093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Majske Poljane"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1293179809,
-    "wof:lastmodified":1564154023,
+    "wof:lastmodified":1566646878,
     "wof:name":"Majske Poljane",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

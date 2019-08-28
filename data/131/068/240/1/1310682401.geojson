@@ -24,8 +24,12 @@
     "gn:population":82,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.67389,45.29972,17.71389,45.33972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Komu\u0161ina"
     ],
@@ -56,9 +60,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0443\u0448\u0438\u043d\u0430"
     ],
-    "name:und_x_variant":[
-        "Komu\u0161ina"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1310682401,
-    "wof:lastmodified":1564154603,
+    "wof:lastmodified":1566647277,
     "wof:name":"Komusina",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

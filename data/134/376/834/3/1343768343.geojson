@@ -25,8 +25,12 @@
     "gn:population":14,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.68583,45.24806,13.72583,45.28806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Milanesi",
         "Milanezi"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343768343,
-    "wof:lastmodified":1537625862,
+    "wof:lastmodified":1566646690,
     "wof:name":"Milanezi",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

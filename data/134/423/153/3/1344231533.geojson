@@ -25,8 +25,12 @@
     "gn:population":5,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.49667,45.71333,15.53667,45.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Gra\u010dac",
         "Gra\u010dac Slaveti\u0107ki"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344231533,
-    "wof:lastmodified":1537625898,
+    "wof:lastmodified":1566646672,
     "wof:name":"Gracac Slaveticki",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":527,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.13,45.96333,17.17,46.00333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Budan\u010devica"
     ],
@@ -46,9 +50,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0434\u0430\u043d\u0447\u0435\u0432\u0438\u0446\u044f"
-    ],
-    "name:und_x_variant":[
-        "Budan\u010devica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1360106837,
-    "wof:lastmodified":1564154677,
+    "wof:lastmodified":1566647325,
     "wof:name":"Budancevica",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

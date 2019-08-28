@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.194444,
     "lbl:longitude":14.669424,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.194444,
     "mps:longitude":14.669424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dramalj"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":718,
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,6 @@
     "wof:concordances":{
         "gn:id":7870346,
         "gp:id":15000182,
-        "qs:id":201931,
         "qs_pg:id":201931,
         "wd:id":"Q3038922",
         "wk:page":"Dramalj"
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101836457,
-    "wof:lastmodified":1563577632,
+    "wof:lastmodified":1566647421,
     "wof:name":"Dramalj",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

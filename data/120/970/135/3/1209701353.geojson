@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.59639,44.68556,15.63639,44.72556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pribi\u0107i"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209701353,
-    "wof:lastmodified":1537625961,
+    "wof:lastmodified":1566647044,
     "wof:name":"Pribici",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

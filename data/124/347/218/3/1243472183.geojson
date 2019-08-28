@@ -24,8 +24,12 @@
     "gn:population":109,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.90399,45.77151,16.94399,45.81151",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Kozarevac"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243472183,
-    "wof:lastmodified":1537625882,
+    "wof:lastmodified":1566647588,
     "wof:name":"Kozarevac Racanski",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

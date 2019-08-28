@@ -24,8 +24,12 @@
     "gn:population":387,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.31944,46.20972,16.35944,46.24972",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Seketin"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1226114851,
-    "wof:lastmodified":1564155184,
+    "wof:lastmodified":1566647764,
     "wof:name":"Seketin",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

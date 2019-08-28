@@ -25,8 +25,12 @@
     "gn:population":351,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.19861,45.61667,18.23861,45.65667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Laci\u0107",
         "Laci\u0107i"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344240601,
-    "wof:lastmodified":1537625876,
+    "wof:lastmodified":1566646670,
     "wof:name":"Lacici",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.41111,43.19861,17.45111,43.23861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Orahovlje"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1343735349,
-    "wof:lastmodified":1564153841,
+    "wof:lastmodified":1566646738,
     "wof:name":"Orahovlje",
     "wof:parent_id":1108759157,
     "wof:placetype":"locality",

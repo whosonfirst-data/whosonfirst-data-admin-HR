@@ -9,15 +9,18 @@
     "geom:bbox":"14.50479,44.51729,14.50479,44.51729",
     "geom:latitude":44.51729,
     "geom:longitude":14.50479,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":917,
-    "gn:population":901,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":917,
     "iso:country":"HR",
+    "lbl:bbox":"14.48479,44.49729,14.52479,44.53729",
     "lbl:latitude":44.51729,
     "lbl:longitude":14.50479,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Veli Lo\u0161inj"
@@ -70,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u0439 \u041b\u043e\u0448\u0438\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Lussingrande"
-    ],
     "name:zho_x_preferred":[
         "\u5927\u6d1b\u5e0c\u5c3c"
     ],
@@ -97,7 +97,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":850824,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1126003371,
-    "wof:lastmodified":1563577833,
+    "wof:lastmodified":1566647517,
     "wof:name":"Veli Lo\u00b5inj",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

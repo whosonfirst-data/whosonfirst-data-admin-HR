@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.76556,42.84833,17.80556,42.88833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Branilovi\u0107",
         "Branilovi\u0107i"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310212519,
-    "wof:lastmodified":1537625941,
+    "wof:lastmodified":1566647269,
     "wof:name":"Branilovici",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.069844,
     "lbl:longitude":16.376334,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.069844,
     "mps:longitude":16.376334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dvor"
     ],
@@ -74,10 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0432\u043e\u0440"
     ],
-    "name:und_x_preferred":[
-        "Dvor"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stepinac Grad"
     ],
     "name:war_x_preferred":[
@@ -102,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -115,7 +115,6 @@
         "fct:id":"115bb4dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3200917,
         "gp:id":847645,
-        "qs:id":218873,
         "qs_pg:id":218873,
         "wd:id":"Q1018619",
         "wk:page":"Dvor, Croatia"
@@ -140,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577402,
+    "wof:lastmodified":1566647359,
     "wof:name":"Dvor",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

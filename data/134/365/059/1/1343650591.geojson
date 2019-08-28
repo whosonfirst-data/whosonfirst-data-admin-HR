@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.12194,45.61,18.16194,45.65",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1343650591,
-    "wof:lastmodified":1536969005,
+    "wof:lastmodified":1566646641,
     "wof:name":"Tanackov",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

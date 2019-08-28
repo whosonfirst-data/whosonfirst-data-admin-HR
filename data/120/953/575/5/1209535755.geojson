@@ -25,8 +25,12 @@
     "gn:population":96,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.25722,44.50639,15.29722,44.54639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Trnovac"
     ],
@@ -58,8 +62,7 @@
         "\u0422\u0440\u043d\u043e\u0432\u0430\u0446\u044c"
     ],
     "name:und_x_variant":[
-        "Trnovdc",
-        "Trnovac"
+        "Trnovdc"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1209535755,
-    "wof:lastmodified":1564154226,
+    "wof:lastmodified":1566647020,
     "wof:name":"Trnovac",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.87306,45.68389,15.91306,45.72389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gran\u010dari"
     ],
@@ -39,9 +43,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0447\u0430\u0440\u0438"
-    ],
-    "name:und_x_variant":[
-        "Gran\u010dari"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1310565605,
-    "wof:lastmodified":1564154607,
+    "wof:lastmodified":1566647280,
     "wof:name":"Grancari",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

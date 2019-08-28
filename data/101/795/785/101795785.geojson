@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":44.872194,
     "lbl:longitude":15.234573,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.872194,
     "mps:longitude":15.234573,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Oto\u010dac"
     ],
@@ -110,9 +113,6 @@
     "name:und_x_colloquial":[
         "Otocac"
     ],
-    "name:und_x_preferred":[
-        "Oto\u010dac"
-    ],
     "name:war_x_preferred":[
         "Oto\u010dac"
     ],
@@ -135,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":856,
     "wof:belongsto":[
@@ -148,7 +148,6 @@
         "fct:id":"115c97ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3193788,
         "gp:id":849494,
-        "qs:id":313901,
         "qs_pg:id":313901,
         "wd:id":"Q399109",
         "wk:page":"Oto\u010dac"
@@ -167,7 +166,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577573,
+    "wof:lastmodified":1566647403,
     "wof:name":"Oto\u010dac",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

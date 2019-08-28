@@ -10,12 +10,16 @@
     "geom:latitude":46.097118,
     "geom:longitude":17.15637,
     "iso:country":"HR",
+    "lbl:bbox":"17.13637,46.077118,17.17637,46.117118",
     "lbl:latitude":46.097118,
     "lbl:longitude":17.15637,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.097118,
     "mps:longitude":17.15637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Novo Virje"
     ],
@@ -80,7 +84,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":75,
     "wof:belongsto":[
         102191581,
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":8505064,
         "gp:id":15000168,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1088590",
         "wk:page":"Novo Virje"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":101857873,
-    "wof:lastmodified":1563577406,
+    "wof:lastmodified":1566647360,
     "wof:name":"Novo Virje",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

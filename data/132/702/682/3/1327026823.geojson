@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.65556,46.0575,15.69556,46.0975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0631\u0648\u0641\u064a\u062a\u0634"
     ],
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":1327026823,
-    "wof:lastmodified":1564153617,
+    "wof:lastmodified":1566646584,
     "wof:name":"Kumrovec",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

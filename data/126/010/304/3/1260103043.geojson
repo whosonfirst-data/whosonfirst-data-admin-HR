@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.59639,45.14056,15.63639,45.18056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Obro\u010dev Most",
         "Obrovci"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260103043,
-    "wof:lastmodified":1537625964,
+    "wof:lastmodified":1566647194,
     "wof:name":"Obrovci",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

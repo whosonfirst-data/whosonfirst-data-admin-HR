@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.79111,45.40889,17.83111,45.44889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Luka\u010d",
         "Luka\u010d Po\u017ee\u0161ki"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1192999539,
-    "wof:lastmodified":1537625871,
+    "wof:lastmodified":1566647148,
     "wof:name":"Lukac Pozeski",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

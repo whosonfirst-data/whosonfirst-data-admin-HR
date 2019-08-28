@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.96186,45.73782,17.00186,45.77782",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Slovinska Kova\u010dica"
     ],
@@ -51,9 +55,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u043e\u0432\u0438\u043d\u0441\u044c\u043a\u0430 \u041a\u043e\u0432\u0430\u0447\u0438\u0446\u044f"
     ],
-    "name:und_x_variant":[
-        "Slovinska Kova\u010dica"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1309729789,
-    "wof:lastmodified":1564154774,
+    "wof:lastmodified":1566647463,
     "wof:name":"Kovacica Slovinska",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

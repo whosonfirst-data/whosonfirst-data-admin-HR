@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.970973,
     "lbl:longitude":15.407673,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.970973,
     "mps:longitude":15.407673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Turanj"
     ],
@@ -29,7 +32,7 @@
     "name:hun_x_preferred":[
         "Turanj"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Torrette"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":21,
     "wof:belongsto":[
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":3188635,
         "gp:id":850747,
-        "qs:id":147101,
         "qs_pg:id":147101
     },
     "wof:country":"HR",
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101836433,
-    "wof:lastmodified":1527715158,
+    "wof:lastmodified":1566647421,
     "wof:name":"Turanj",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

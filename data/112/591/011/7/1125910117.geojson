@@ -9,15 +9,18 @@
     "geom:bbox":"16.33,45.855,16.33,45.855",
     "geom:latitude":45.855,
     "geom:longitude":16.33,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":990,
-    "gn:population":1020,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":990,
     "iso:country":"HR",
+    "lbl:bbox":"16.31,45.835,16.35,45.875",
     "lbl:latitude":45.855,
     "lbl:longitude":16.33,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Lonjica"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u043d\u0456\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lojnica"
     ],
     "qs_pg:aaroncc":"HR",
@@ -65,7 +68,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":848863,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125910117,
-    "wof:lastmodified":1564154803,
+    "wof:lastmodified":1566647512,
     "wof:name":"Lonjica",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

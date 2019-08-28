@@ -10,12 +10,16 @@
     "geom:latitude":43.734619,
     "geom:longitude":15.940641,
     "iso:country":"HR",
+    "lbl:bbox":"15.920641,43.714619,15.960641,43.754619",
     "lbl:latitude":43.734619,
     "lbl:longitude":15.940641,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.734619,
     "mps:longitude":15.940641,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0628\u064a\u0646\u064a\u0643"
     ],
@@ -187,7 +191,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0438\u0431\u0435\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dubrava kod \u0160benika"
     ],
     "name:urd_x_preferred":[
@@ -218,7 +222,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1734,
     "wof:belongsto":[
         102191581,
@@ -229,7 +233,7 @@
     "wof:concordances":{
         "gn:id":3201066,
         "gp:id":850191,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q3549"
     },
     "wof:country":"HR",
@@ -243,7 +247,7 @@
         }
     ],
     "wof:id":101857823,
-    "wof:lastmodified":1563577413,
+    "wof:lastmodified":1566647362,
     "wof:name":"Dubrava kod \u0160ibenika",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

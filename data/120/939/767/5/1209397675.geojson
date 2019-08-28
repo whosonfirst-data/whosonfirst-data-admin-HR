@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.01778,43.5225,17.05778,43.5625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633229
@@ -34,7 +38,7 @@
         "gn:id":3284865
     },
     "wof:country":"HR",
-    "wof:geomhash":"a5a4c50e23682378d3340c4d4243529a",
+    "wof:geomhash":"d90f55b6fea21889ecf19e890e8a16bd",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209397675,
-    "wof:lastmodified":1536288246,
+    "wof:lastmodified":1566647027,
     "wof:name":"Podgreda",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.037779999999998,
+    17.03778,
     43.5425,
-    17.037779999999998,
+    17.03778,
     43.5425
 ],
   "geometry": {"coordinates":[17.03778,43.5425],"type":"Point"}

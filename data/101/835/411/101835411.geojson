@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.888869,
     "lbl:longitude":16.865707,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.888869,
     "mps:longitude":16.865707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u017ddralovi"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":23,
     "wof:belongsto":[
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":3186662,
         "gp:id":851195,
-        "qs:id":1275751,
         "qs_pg:id":1275751,
         "wd:id":"Q685701",
         "wk:page":"\u017ddralovi"
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101835411,
-    "wof:lastmodified":1563577449,
+    "wof:lastmodified":1566647371,
     "wof:name":"\u017ddralovi",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

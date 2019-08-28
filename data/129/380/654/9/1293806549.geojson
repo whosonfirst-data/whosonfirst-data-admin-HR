@@ -24,8 +24,12 @@
     "gn:population":43,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.58972,45.13361,15.62972,45.17361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Glinsko Vrelo"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1293806549,
-    "wof:lastmodified":1564154014,
+    "wof:lastmodified":1566646872,
     "wof:name":"Glinsko Vrelo",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

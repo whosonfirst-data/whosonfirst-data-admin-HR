@@ -25,8 +25,12 @@
     "gn:population":183,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.17778,45.67778,18.21778,45.71778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Miholja\u010dki Pore\u010d"
     ],
@@ -47,8 +51,7 @@
     ],
     "name:und_x_variant":[
         "Pore\u010d",
-        "Pore\u010d Miholja\u010dki",
-        "Miholja\u010dki Pore\u010d"
+        "Pore\u010d Miholja\u010dki"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1209410279,
-    "wof:lastmodified":1564154270,
+    "wof:lastmodified":1566647050,
     "wof:name":"Miholjacki Porec",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

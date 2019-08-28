@@ -24,8 +24,12 @@
     "gn:population":349,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.61361,45.78639,17.65361,45.82639",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Novaki"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1327210185,
-    "wof:lastmodified":1564153675,
+    "wof:lastmodified":1566646625,
     "wof:name":"Novaki",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

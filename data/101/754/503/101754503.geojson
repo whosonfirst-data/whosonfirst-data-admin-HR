@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.188038,
     "lbl:longitude":18.02375,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.188038,
     "mps:longitude":18.02375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podvinje"
     ],
@@ -65,7 +68,7 @@
     "name:ukr_x_variant":[
         "\u041f\u043e\u0434\u0432\u0438\u043d\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Podvinj"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":30,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":3192892,
         "gp:id":849716,
-        "qs:id":1275396,
         "qs_pg:id":1275396,
         "wd:id":"Q3304419"
     },
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101754503,
-    "wof:lastmodified":1563577333,
+    "wof:lastmodified":1566647336,
     "wof:name":"Podvinje",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.63194,44.43639,15.67194,44.47639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1327050151,
-    "wof:lastmodified":1536734972,
+    "wof:lastmodified":1566646581,
     "wof:name":"Donja Ploca",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

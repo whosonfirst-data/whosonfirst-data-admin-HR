@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.800282,
     "lbl:longitude":16.12021,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.800282,
     "mps:longitude":16.12021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ivanja Reka"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":113,
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3199065,
         "gp:id":848183,
-        "qs:id":1127186,
+        "qs_pg:id":1127186,
         "wd:id":"Q3442699",
         "wk:page":"Ivanja Reka"
     },
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101758595,
-    "wof:lastmodified":1563577505,
+    "wof:lastmodified":1566647388,
     "wof:name":"Ivanja Reka",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":11,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.48,45.23,15.52,45.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Donji Poloj"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1327430685,
-    "wof:lastmodified":1564153671,
+    "wof:lastmodified":1566646622,
     "wof:name":"Donji Poloj",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

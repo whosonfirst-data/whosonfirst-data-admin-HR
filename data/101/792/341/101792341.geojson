@@ -9,15 +9,18 @@
     "geom:bbox":"15.1164563292,44.9924193605,15.1403631364,45.0064312942",
     "geom:latitude":44.998463,
     "geom:longitude":15.128347,
-    "geonames:id":"3203298,3273977",
+    "gn:id":"3203298,3273977",
     "gn:population":1715,
     "iso:country":"HR",
     "lbl:latitude":44.998062,
     "lbl:longitude":15.128166,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.998062,
     "mps:longitude":15.128166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brinje"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":226,
     "wof:belongsto":[
@@ -121,7 +124,6 @@
     "wof:concordances":{
         "gn:id":3203298,
         "gp:id":847005,
-        "qs:id":147311,
         "qs_pg:id":147311,
         "wd:id":"Q283566",
         "wk:page":"Brinje"
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101792341,
-    "wof:lastmodified":1563577602,
+    "wof:lastmodified":1566647411,
     "wof:name":"Brinje",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

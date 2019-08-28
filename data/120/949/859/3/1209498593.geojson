@@ -24,8 +24,12 @@
     "gn:population":82,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.80778,45.24722,16.84778,45.28722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Drenov Bok"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1209498593,
-    "wof:lastmodified":1564154284,
+    "wof:lastmodified":1566647061,
     "wof:name":"Drenov Bok",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

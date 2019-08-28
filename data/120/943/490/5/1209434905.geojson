@@ -24,8 +24,12 @@
     "gn:population":216,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.79472,44.28556,15.83472,44.32556",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u0160tikada"
     ],
@@ -59,9 +63,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0442\u0438\u043a\u0430\u0434\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0160tikada"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1209434905,
-    "wof:lastmodified":1564154362,
+    "wof:lastmodified":1566647115,
     "wof:name":"Stikada",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

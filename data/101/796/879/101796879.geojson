@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.044742,
     "lbl:longitude":17.434494,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.044742,
     "mps:longitude":17.434494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Plo\u010de"
     ],
@@ -127,15 +130,9 @@
         "Ploce",
         "Ploce-Luka"
     ],
-    "name:und_x_preferred":[
-        "Plo\u010de"
-    ],
     "name:und_x_variant":[
         "Plo\u010da",
         "Plo\u010de-Luka"
-    ],
-    "name:unk_x_variant":[
-        "Kardeljevo"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0644\u0648\u0686\u06d2"
@@ -162,7 +159,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":560,
     "wof:belongsto":[
         102191581,
@@ -174,7 +171,6 @@
         "fct:id":"115caac2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3193150,
         "gp:id":849650,
-        "qs:id":1167425,
         "qs_pg:id":1167425,
         "wd:id":"Q115117"
     },
@@ -192,7 +188,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577374,
+    "wof:lastmodified":1566647350,
     "wof:name":"Plo\u010de",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

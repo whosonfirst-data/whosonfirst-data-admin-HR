@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.77612,42.88659,16.81612,42.92659",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:slv_x_preferred":[
         "Pri\u017eba"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276119701,
-    "wof:lastmodified":1564154096,
+    "wof:lastmodified":1566646928,
     "wof:name":"Prizba",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

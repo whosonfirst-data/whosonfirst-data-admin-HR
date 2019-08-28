@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.74083,45.34472,13.78083,45.38472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Castagna",
         "Kostanjevica",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225850867,
-    "wof:lastmodified":1537625883,
+    "wof:lastmodified":1566647855,
     "wof:name":"Kostanjica",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

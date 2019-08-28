@@ -24,8 +24,12 @@
     "gn:population":53,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.2766,45.53649,17.3166,45.57649",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bijela"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1260197195,
-    "wof:lastmodified":1564154488,
+    "wof:lastmodified":1566647200,
     "wof:name":"Bijela",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

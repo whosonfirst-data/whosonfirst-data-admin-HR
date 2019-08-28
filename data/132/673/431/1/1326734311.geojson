@@ -25,8 +25,12 @@
     "gn:population":358,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.95861,45.79583,16.99861,45.83583",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bulinac"
     ],
@@ -49,8 +53,7 @@
         "\u0411\u0443\u043b\u0438\u043d\u0430\u0446\u044c"
     ],
     "name:und_x_variant":[
-        "Bullnac",
-        "Bulinac"
+        "Bullnac"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1326734311,
-    "wof:lastmodified":1564153563,
+    "wof:lastmodified":1566646544,
     "wof:name":"Bulinac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

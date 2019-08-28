@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.13056,44.80333,15.17056,44.84333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sepci"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1226668357,
-    "wof:lastmodified":1564155214,
+    "wof:lastmodified":1566647784,
     "wof:name":"Sepci",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":164,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.69472,43.9,15.73472,43.94",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bila Vlaka"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1226610929,
-    "wof:lastmodified":1564155220,
+    "wof:lastmodified":1566647787,
     "wof:name":"Bila Vlaka",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

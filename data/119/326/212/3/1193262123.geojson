@@ -25,8 +25,12 @@
     "gn:population":335,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.30111,45.48917,18.34111,45.52917",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Suboti\u010dki Lug",
         "Lug Suboti\u010dki"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193262123,
-    "wof:lastmodified":1537625871,
+    "wof:lastmodified":1566647157,
     "wof:name":"Lug Suboticki",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"14.71556,45.30528,14.71556,45.30528",
     "geom:latitude":45.30528,
     "geom:longitude":14.71556,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":818,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
     "gn:population":818,
     "iso:country":"HR",
+    "lbl:bbox":"14.69556,45.28528,14.73556,45.32528",
     "lbl:latitude":45.30528,
     "lbl:longitude":14.71556,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Fu\u017eine"
@@ -76,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u0436\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fusine"
     ],
     "name:war_x_preferred":[
@@ -103,7 +106,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":847680,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1125921907,
-    "wof:lastmodified":1563577719,
+    "wof:lastmodified":1566647474,
     "wof:name":"Fu\u017eine",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

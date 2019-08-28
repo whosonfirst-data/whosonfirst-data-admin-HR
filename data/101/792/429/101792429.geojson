@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.517792,
     "lbl:longitude":18.870436,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":45.517792,
     "mps:longitude":18.870436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bijelo Brdo"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0454\u043b\u043e \u0411\u0440\u0434\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bielo Brdo"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":35,
     "wof:belongsto":[
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":3204182,
         "gp:id":846807,
-        "qs:id":966973,
         "qs_pg:id":966973,
         "wd:id":"Q794862"
     },
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101792429,
-    "wof:lastmodified":1563577609,
+    "wof:lastmodified":1566647413,
     "wof:name":"Bijelo Brdo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

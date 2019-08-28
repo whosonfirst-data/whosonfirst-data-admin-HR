@@ -25,8 +25,12 @@
     "gn:population":92,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.40472,44.86222,14.44472,44.90222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Orlec"
     ],
@@ -53,8 +57,7 @@
     ],
     "name:und_x_variant":[
         "Aquil\u00f3nia",
-        "Orle\u017e",
-        "Orlec"
+        "Orle\u017e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1293676313,
-    "wof:lastmodified":1564153971,
+    "wof:lastmodified":1566646843,
     "wof:name":"Orlec",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

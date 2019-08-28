@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":44.132563,
     "lbl:longitude":15.102843,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.132563,
     "mps:longitude":15.102843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ugljan"
     ],
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0433\u043b\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uljan"
     ],
     "name:zho_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":337,
     "wof:belongsto":[
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":3188538,
         "gp:id":850771,
-        "qs:id":1349883,
         "qs_pg:id":1349883,
         "wd:id":"Q478792",
         "wk:page":"Ugljan"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101795735,
-    "wof:lastmodified":1561749605,
+    "wof:lastmodified":1566647405,
     "wof:name":"Ugljan",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

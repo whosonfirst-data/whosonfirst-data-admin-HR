@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.96444,44.85389,15.00444,44.89389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1226227561,
-    "wof:lastmodified":1536959852,
+    "wof:lastmodified":1566647807,
     "wof:name":"Oltari",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

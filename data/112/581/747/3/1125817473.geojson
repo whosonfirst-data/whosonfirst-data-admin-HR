@@ -9,14 +9,18 @@
     "geom:bbox":"14.74861,45.35889,14.74861,45.35889",
     "geom:latitude":45.35889,
     "geom:longitude":14.74861,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"HR",
+    "lbl:bbox":"14.72861,45.33889,14.76861,45.37889",
     "lbl:latitude":45.35889,
     "lbl:longitude":14.74861,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Lokve"
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Lokve"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Loque"
     ],
     "qs_pg:aaroncc":"HR",
@@ -72,7 +76,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":848858,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
     "woe:name_adm1":"Primorsko-Goranska",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1125817473,
-    "wof:lastmodified":1564154792,
+    "wof:lastmodified":1566647492,
     "wof:name":"Lokve",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

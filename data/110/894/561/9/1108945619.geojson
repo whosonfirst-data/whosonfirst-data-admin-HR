@@ -10,8 +10,10 @@
     "geom:latitude":45.841981,
     "geom:longitude":16.056938,
     "iso:country":"HR",
+    "lbl:bbox":"16.0519375728,45.8369809722,16.0619375728,45.8469809722",
     "lbl:latitude":45.841981,
     "lbl:longitude":16.056938,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -39,7 +41,7 @@
     "name:swe_x_preferred":[
         "Gornja Dubrava"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751659,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1108945619,
-    "wof:lastmodified":1564154501,
+    "wof:lastmodified":1566647209,
     "wof:name":"Gornja Dubrava",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

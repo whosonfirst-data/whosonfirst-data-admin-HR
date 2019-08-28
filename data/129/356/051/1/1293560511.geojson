@@ -24,8 +24,12 @@
     "gn:population":317,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.25778,43.80167,16.29778,43.84167",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gradac"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1293560511,
-    "wof:lastmodified":1564153964,
+    "wof:lastmodified":1566646840,
     "wof:name":"Gradac",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.388132,
     "lbl:longitude":16.440827,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.388132,
     "mps:longitude":16.440827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0643\u0648\u0641\u064a\u062a\u0634"
     ],
@@ -170,9 +173,6 @@
     "name:ukr_x_variant":[
         "\u0427\u0430\u043a\u043e\u0432\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
-        "Cs\u00e1ktornya"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u0627\u06a9\u0648\u0648\u062a\u0633"
     ],
@@ -202,7 +202,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":164.0,
     "wd:latitude":46.383333,
@@ -218,7 +218,6 @@
     "wof:concordances":{
         "gn:id":3202888,
         "gp:id":847109,
-        "qs:id":1044065,
         "qs_pg:id":1044065,
         "wd:id":"Q167839",
         "wk:page":"\u010cakovec"
@@ -234,7 +233,7 @@
         }
     ],
     "wof:id":101834371,
-    "wof:lastmodified":1563577463,
+    "wof:lastmodified":1566647375,
     "wof:name":"\u010cakovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

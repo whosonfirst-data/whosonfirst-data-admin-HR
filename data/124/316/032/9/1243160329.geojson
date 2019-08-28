@@ -24,8 +24,12 @@
     "gn:population":224,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.70056,45.20917,17.74056,45.24917",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ratkovica"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1243160329,
-    "wof:lastmodified":1564154982,
+    "wof:lastmodified":1566647637,
     "wof:name":"Ratkovica",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

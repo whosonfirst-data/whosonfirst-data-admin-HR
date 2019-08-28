@@ -25,8 +25,12 @@
     "gn:population":369,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.51333,45.66333,16.55333,45.70333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Gornji Prnjarovac",
         "Gornji Prnjarovec"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226724433,
-    "wof:lastmodified":1537625900,
+    "wof:lastmodified":1566647739,
     "wof:name":"Gornji Prnjarovec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

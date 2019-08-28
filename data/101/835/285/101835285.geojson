@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.16383,
     "lbl:longitude":17.753016,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.16383,
     "mps:longitude":17.753016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Oriovac"
     ],
@@ -62,10 +65,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0456\u043e\u0432\u0430\u0446\u044c"
     ],
-    "name:und_x_preferred":[
-        "Oriovac"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oriovaci"
     ],
     "name:war_x_preferred":[
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":135,
     "wof:belongsto":[
@@ -100,7 +100,6 @@
         "fct:id":"115c9334-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3194010,
         "gp:id":849459,
-        "qs:id":407441,
         "qs_pg:id":407441,
         "wd:id":"Q1272312",
         "wk:page":"Oriovac"
@@ -119,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577450,
+    "wof:lastmodified":1566647372,
     "wof:name":"Oriovac",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

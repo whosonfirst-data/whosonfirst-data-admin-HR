@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.62,45.33222,18.66,45.37222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Banovci"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1343556811,
-    "wof:lastmodified":1564153713,
+    "wof:lastmodified":1566646653,
     "wof:name":"Banovci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

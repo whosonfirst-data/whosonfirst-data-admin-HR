@@ -10,8 +10,10 @@
     "geom:latitude":45.829224,
     "geom:longitude":16.122913,
     "iso:country":"HR",
+    "lbl:bbox":"16.1179127952,45.8242236509,16.1279127952,45.8342236509",
     "lbl:latitude":45.829224,
     "lbl:longitude":16.122913,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -72,7 +74,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0441\u0432\u0435\u0442\u0435"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633229,
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":1108945633,
-    "wof:lastmodified":1564154502,
+    "wof:lastmodified":1566647210,
     "wof:name":"Sesvete",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

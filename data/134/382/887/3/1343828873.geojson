@@ -25,8 +25,12 @@
     "gn:population":259,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.35577,45.50677,16.39577,45.54677",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Kaptolska Ti\u0161ina",
         "Ti\u0161ina",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343828873,
-    "wof:lastmodified":1537625820,
+    "wof:lastmodified":1566646691,
     "wof:name":"Tisina Kaptolska",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

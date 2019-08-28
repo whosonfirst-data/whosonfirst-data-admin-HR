@@ -25,8 +25,12 @@
     "gn:population":3,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.50109,45.07259,14.54109,45.11259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Stril\u010di\u0107",
         "Strilcich"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326910629,
-    "wof:lastmodified":1537625825,
+    "wof:lastmodified":1566646614,
     "wof:name":"Strilcici",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

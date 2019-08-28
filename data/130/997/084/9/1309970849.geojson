@@ -25,8 +25,12 @@
     "gn:population":937,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.81139,45.82694,15.85139,45.86694",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ivanec Bistranski"
     ],
@@ -51,8 +55,7 @@
     "name:und_x_variant":[
         "Bistranski Ivanec",
         "Ivanec Gornji",
-        "Ivanec",
-        "Ivanec Bistranski"
+        "Ivanec"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1309970849,
-    "wof:lastmodified":1564154717,
+    "wof:lastmodified":1566647428,
     "wof:name":"Ivanec Bistranski",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

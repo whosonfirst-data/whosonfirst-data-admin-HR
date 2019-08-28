@@ -24,8 +24,12 @@
     "gn:population":87,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.38028,45.65528,15.42028,45.69528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vivodina"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1193136539,
-    "wof:lastmodified":1564154397,
+    "wof:lastmodified":1566647138,
     "wof:name":"Vivodina",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

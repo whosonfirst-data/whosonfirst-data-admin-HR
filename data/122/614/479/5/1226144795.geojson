@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.32528,42.4925,18.36528,42.5325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Radov\u010di\u0107i"
     ],
@@ -46,7 +50,6 @@
         "\u0420\u0430\u0434\u043e\u0432\u0447\u0438\u0447\u0456"
     ],
     "name:und_x_variant":[
-        "Radov\u010di\u0107i",
         "Srednji Radovi\u0107i",
         "Radov\u010di\u0107",
         "Srednji Radov\u010di\u0107i"
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1226144795,
-    "wof:lastmodified":1564155241,
+    "wof:lastmodified":1566647801,
     "wof:name":"Srednji Radovcici",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.758277,
     "lbl:longitude":15.900202,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.758277,
     "mps:longitude":15.900202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bilice"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,6 @@
     "wof:concordances":{
         "gn:id":3204158,
         "gp:id":846813,
-        "qs:id":1167380,
         "qs_pg:id":1167380,
         "wd:id":"Q2175713",
         "wk:page":"Bilice, \u0160ibenik-Knin County"
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101836429,
-    "wof:lastmodified":1563577629,
+    "wof:lastmodified":1566647420,
     "wof:name":"Bilice",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":115,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.75167,45.28722,13.79167,45.32722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Brik"
     ],
@@ -161,8 +165,7 @@
         "Brigi",
         "Monteritossa",
         "Bilosa",
-        "Sveti Vital",
-        "Brig"
+        "Sveti Vital"
     ],
     "name:zho_x_preferred":[
         "\u96d9\u6845\u6a6b\u5e06\u8239"
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":1327232265,
-    "wof:lastmodified":1564153604,
+    "wof:lastmodified":1566646574,
     "wof:name":"Brig",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

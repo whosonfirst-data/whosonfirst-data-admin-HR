@@ -24,8 +24,12 @@
     "gn:population":173,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.14667,45.29667,15.18667,45.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -36,7 +40,7 @@
         "gn:id":3196336
     },
     "wof:country":"HR",
-    "wof:geomhash":"e48895cd66f397fb0ee18c5e80615648",
+    "wof:geomhash":"7fd939856bc007c94075cdf5c0cb5077",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209291595,
-    "wof:lastmodified":1536291675,
+    "wof:lastmodified":1566647092,
     "wof:name":"Ljubosina",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.166670000000002,
+    15.16667,
     45.31667,
-    15.166670000000002,
+    15.16667,
     45.31667
 ],
   "geometry": {"coordinates":[15.16667,45.31667],"type":"Point"}

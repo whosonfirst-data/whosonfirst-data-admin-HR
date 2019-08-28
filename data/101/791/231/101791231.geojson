@@ -9,15 +9,18 @@
     "geom:bbox":"16.0715211279,46.0851656362,16.0859952817,46.0974189715",
     "geom:latitude":46.091799,
     "geom:longitude":16.077774,
-    "geonames:id":"3186406,3215734",
+    "gn:id":"3186406,3215734",
     "gn:population":2903,
     "iso:country":"HR",
     "lbl:latitude":46.091879,
     "lbl:longitude":16.077665,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.091879,
     "mps:longitude":16.077665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0417\u043b\u0430\u0442\u0430\u0440"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":46.15,
     "wd:longitude":16.116667,
@@ -123,7 +126,6 @@
     "wof:concordances":{
         "gn:id":3186406,
         "gp:id":851229,
-        "qs:id":219792,
         "qs_pg:id":219792,
         "wd:id":"Q396550",
         "wk:page":"Zlatar, Croatia"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101791231,
-    "wof:lastmodified":1563577357,
+    "wof:lastmodified":1566647344,
     "wof:name":"Zlatar",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

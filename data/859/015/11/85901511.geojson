@@ -12,8 +12,10 @@
     "gn:latitude":44.51,
     "gn:longitude":14.30278,
     "iso:country":"HR",
+    "lbl:bbox":"14.434673,45.324569,14.444673,45.334569",
     "lbl:latitude":45.329569,
     "lbl:longitude":14.439673,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.334725,
     "mps:longitude":14.431296,
     "mz:hierarchy_label":0,
@@ -97,11 +99,7 @@
     "name:und_x_colloquial":[
         "Susak"
     ],
-    "name:und_x_preferred":[
-        "Su\u00b5ak"
-    ],
-    "name:unk_x_variant":[
-        "Sansego",
+    "name:und_x_variant":[
         "Su\u00b5ak"
     ],
     "name:zho_x_preferred":[
@@ -137,7 +135,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2666,
     "wof:belongsto":[
         102191581,
@@ -149,7 +147,6 @@
     "wof:concordances":{
         "gn:id":3189471,
         "gp:id":850547,
-        "qs:id":898552,
         "qs_pg:id":898552,
         "wd:id":"Q994174",
         "wk:page":"Susak"
@@ -169,7 +166,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563576600,
+    "wof:lastmodified":1566646755,
     "wof:name":"Su\u00b5ak",
     "wof:parent_id":101751775,
     "wof:placetype":"neighbourhood",

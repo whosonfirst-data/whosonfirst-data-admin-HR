@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.3482,
     "lbl:longitude":18.457371,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.3482,
     "mps:longitude":18.457371,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vi\u0161kovci"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":51,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":3187666,
         "gp:id":850957,
-        "qs:id":1043884,
         "qs_pg:id":1043884,
         "wd:id":"Q1277410",
         "wk:page":"Vi\u0161kovci"
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101793587,
-    "wof:lastmodified":1563577486,
+    "wof:lastmodified":1566647383,
     "wof:name":"Vi\u0161kovci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

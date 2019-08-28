@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.76757,
     "lbl:longitude":15.853728,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.76757,
     "mps:longitude":15.853728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Je\u017edovec"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":3198635,
         "gp:id":848269,
-        "qs:id":255679,
         "qs_pg:id":255679,
         "wd:id":"Q1936120",
         "wk:page":"Je\u017edovec"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101792351,
-    "wof:lastmodified":1563577606,
+    "wof:lastmodified":1566647412,
     "wof:name":"Je\u017edovec",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

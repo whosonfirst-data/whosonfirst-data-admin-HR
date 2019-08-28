@@ -9,15 +9,18 @@
     "geom:bbox":"16.40167,46.33028,16.40167,46.33028",
     "geom:latitude":46.33028,
     "geom:longitude":16.40167,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1320,
-    "gn:population":1584,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":1320,
     "iso:country":"HR",
+    "lbl:bbox":"16.38167,46.31028,16.42167,46.35028",
     "lbl:latitude":46.33028,
     "lbl:longitude":16.40167,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aze_x_preferred":[
         "Kur\u015fane\u00e7"
@@ -61,9 +64,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0448\u0430\u043d\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
-        "Kur\u0161anec"
-    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -83,7 +83,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":848707,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1125880027,
-    "wof:lastmodified":1563577776,
+    "wof:lastmodified":1566647495,
     "wof:name":"Kur\u00b5anec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

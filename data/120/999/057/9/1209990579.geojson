@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.94039,45.71942,15.98039,45.75942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Donji \u010cehi"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043d\u0456 \u0427\u0435\u0445\u0438"
-    ],
-    "name:und_x_variant":[
-        "Donji \u010cehi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1209990579,
-    "wof:lastmodified":1564154252,
+    "wof:lastmodified":1566647038,
     "wof:name":"Donji Cehi",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

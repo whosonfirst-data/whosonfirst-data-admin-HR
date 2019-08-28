@@ -9,15 +9,18 @@
     "geom:bbox":"14.88333,44.71667,14.88333,44.71667",
     "geom:latitude":44.71667,
     "geom:longitude":14.88333,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":83,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"HR",
+    "lbl:bbox":"14.86333,44.69667,14.90333,44.73667",
     "lbl:latitude":44.71667,
     "lbl:longitude":14.88333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Jablanac"
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u0431\u043b\u0430\u043d\u0430\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jablanaz"
     ],
     "qs_pg:aaroncc":"HR",
@@ -85,7 +88,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":848200,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125903203,
-    "wof:lastmodified":1563577805,
+    "wof:lastmodified":1566647505,
     "wof:name":"Jablanac",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

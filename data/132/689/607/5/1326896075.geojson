@@ -24,8 +24,12 @@
     "gn:population":67,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.75167,44.03167,15.79167,44.07167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326896075,
-    "wof:lastmodified":1536956970,
+    "wof:lastmodified":1566646539,
     "wof:name":"Rodaljice",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

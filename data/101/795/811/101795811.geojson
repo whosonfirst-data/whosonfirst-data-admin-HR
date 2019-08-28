@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":44.821323,
     "lbl:longitude":13.936337,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.821323,
     "mps:longitude":13.936337,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Medulin"
     ],
@@ -92,12 +95,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0434\u0443\u043b\u0438\u043d"
     ],
-    "name:und_x_preferred":[
-        "Medulin"
-    ],
-    "name:unk_x_variant":[
-        "Medolino"
-    ],
     "name:war_x_preferred":[
         "Medulin"
     ],
@@ -121,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":98,
     "wof:belongsto":[
@@ -134,7 +131,6 @@
         "fct:id":"115c68a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3195307,
         "gp:id":849122,
-        "qs:id":491964,
         "qs_pg:id":491964,
         "wd:id":"Q1007517",
         "wk:page":"Medulin"
@@ -153,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577571,
+    "wof:lastmodified":1566647403,
     "wof:name":"Medulin",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

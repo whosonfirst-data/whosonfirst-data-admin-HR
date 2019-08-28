@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.702239,
     "lbl:longitude":16.638596,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":43.702239,
     "mps:longitude":16.638596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bos_x_preferred":[
         "Sinj"
     ],
@@ -131,12 +134,6 @@
     "name:ukr_x_variant":[
         "\u0421\u0438\u043d\u044c"
     ],
-    "name:und_x_preferred":[
-        "Sinj"
-    ],
-    "name:unk_x_variant":[
-        "Signo"
-    ],
     "name:war_x_preferred":[
         "Sinj"
     ],
@@ -159,7 +156,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":424,
     "wof:belongsto":[
@@ -172,7 +169,6 @@
         "fct:id":"115cf450-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3190865,
         "gp:id":850221,
-        "qs:id":491981,
         "qs_pg:id":491981,
         "wd:id":"Q216978",
         "wk:page":"Sinj"
@@ -191,7 +187,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577622,
+    "wof:lastmodified":1566647418,
     "wof:name":"Sinj",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

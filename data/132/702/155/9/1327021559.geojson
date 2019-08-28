@@ -24,8 +24,12 @@
     "gn:population":271,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.71333,46.08,15.75333,46.12",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Velika Horvatska"
     ],
@@ -64,8 +68,7 @@
     ],
     "name:und_x_variant":[
         "Horvatska Velika",
-        "Horvatska",
-        "Velika Horvatska"
+        "Horvatska"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1327021559,
-    "wof:lastmodified":1564153616,
+    "wof:lastmodified":1566646584,
     "wof:name":"Velika Horvatska",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

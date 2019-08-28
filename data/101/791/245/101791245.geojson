@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.297125,
     "lbl:longitude":16.853357,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.297125,
     "mps:longitude":16.853357,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Legrad"
     ],
@@ -86,9 +89,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0433\u0440\u0430\u0434"
     ],
-    "name:und_x_preferred":[
-        "Legrad"
-    ],
     "name:war_x_preferred":[
         "Legrad"
     ],
@@ -108,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":222,
     "wof:belongsto":[
@@ -121,7 +121,6 @@
         "fct:id":"115c3c7c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3196699,
         "gp:id":848770,
-        "qs:id":967089,
         "qs_pg:id":967089,
         "wd:id":"Q1014822",
         "wk:page":"Legrad"
@@ -140,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577341,
+    "wof:lastmodified":1566647339,
     "wof:name":"Legrad",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

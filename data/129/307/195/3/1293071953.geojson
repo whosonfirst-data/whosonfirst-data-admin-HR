@@ -24,8 +24,12 @@
     "gn:population":42,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.19111,45.11806,16.23111,45.15806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bak_x_preferred":[
         "\u0413\u0432\u043e\u0437\u0434\u0430\u043d\u0441\u043a\u043e"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1293071953,
-    "wof:lastmodified":1564153872,
+    "wof:lastmodified":1566646775,
     "wof:name":"Gvozdansko",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

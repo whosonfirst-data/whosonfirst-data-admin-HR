@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.686381,
     "lbl:longitude":18.667752,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.686381,
     "mps:longitude":18.667752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010ceminac"
     ],
@@ -68,9 +71,6 @@
     "name:und_x_colloquial":[
         "Ceminac"
     ],
-    "name:und_x_preferred":[
-        "\u010ceminac"
-    ],
     "name:war_x_preferred":[
         "\u010ceminac"
     ],
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":189,
     "wof:belongsto":[
@@ -103,7 +103,6 @@
         "fct:id":"115b77f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3202763,
         "gp:id":847129,
-        "qs:id":1274903,
         "qs_pg:id":1274903,
         "wd:id":"Q537594",
         "wk:page":"\u010ceminac"
@@ -122,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577608,
+    "wof:lastmodified":1566647413,
     "wof:name":"\u010ceminac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

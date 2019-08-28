@@ -25,8 +25,12 @@
     "gn:population":83,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.82306,45.08444,13.86306,45.12444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Morosini",
         "Maru\u017eini"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209516353,
-    "wof:lastmodified":1537625947,
+    "wof:lastmodified":1566647086,
     "wof:name":"Maruzini",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

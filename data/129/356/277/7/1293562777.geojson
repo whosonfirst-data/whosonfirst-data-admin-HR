@@ -24,8 +24,12 @@
     "gn:population":220,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.57417,45.305,16.61417,45.345",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Staza"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1293562777,
-    "wof:lastmodified":1564153961,
+    "wof:lastmodified":1566646839,
     "wof:name":"Staza",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":631,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.59667,45.37694,15.63667,45.41694",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Tu\u0161ilovi\u0107"
     ],
@@ -49,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0448\u0438\u043b\u043e\u0432\u0438\u0447"
     ],
-    "name:und_x_variant":[
-        "Tu\u0161ilovi\u0107"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1243176923,
-    "wof:lastmodified":1564154989,
+    "wof:lastmodified":1566647642,
     "wof:name":"Tusilovic",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":93,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.93861,45.15194,13.97861,45.19194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Milotski Breg"
     ],
@@ -59,8 +63,7 @@
     ],
     "name:und_x_variant":[
         "Miloti\u0107-Breg",
-        "Montemillotti",
-        "Milotski Breg"
+        "Montemillotti"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1259980165,
-    "wof:lastmodified":1564155021,
+    "wof:lastmodified":1566647659,
     "wof:name":"Milotski Breg",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

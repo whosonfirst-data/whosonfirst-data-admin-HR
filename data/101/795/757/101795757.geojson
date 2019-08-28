@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":44.105642,
     "lbl:longitude":15.375776,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.105642,
     "mps:longitude":15.375776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Zemunik Donji"
     ],
@@ -87,7 +90,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":71,
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":847525,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q189412"
     },
     "wof:country":"HR",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101795757,
-    "wof:lastmodified":1563577580,
+    "wof:lastmodified":1566647405,
     "wof:name":"Zemunik Donji",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

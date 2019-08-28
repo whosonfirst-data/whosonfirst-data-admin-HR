@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.67278,45.38444,13.71278,45.42444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Triban"
     ],
@@ -52,8 +56,7 @@
     ],
     "name:und_x_variant":[
         "Tribano di Buie",
-        "Tribano",
-        "Triban"
+        "Tribano"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1243073779,
-    "wof:lastmodified":1564154819,
+    "wof:lastmodified":1566647533,
     "wof:name":"Triban",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

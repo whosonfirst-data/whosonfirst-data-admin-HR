@@ -22,8 +22,12 @@
     "gn:population":85,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.68759,45.43131,15.72759,45.47131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1226261433,
-    "wof:lastmodified":1536911370,
+    "wof:lastmodified":1566647752,
     "wof:name":"Slunjski Moravci",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

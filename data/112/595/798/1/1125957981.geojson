@@ -9,15 +9,18 @@
     "geom:bbox":"17.35556,45.89694,17.35556,45.89694",
     "geom:latitude":45.89694,
     "geom:longitude":17.35556,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":895,
-    "gn:population":815,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":895,
     "iso:country":"HR",
+    "lbl:bbox":"17.33556,45.87694,17.37556,45.91694",
     "lbl:latitude":45.89694,
     "lbl:longitude":17.35556,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Bu\u0161etina"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0448\u0435\u0442\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bussetina"
     ],
     "qs_pg:aaroncc":"HR",
@@ -75,7 +78,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":847085,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125957981,
-    "wof:lastmodified":1563577723,
+    "wof:lastmodified":1566647476,
     "wof:name":"Bu\u00b5etina",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

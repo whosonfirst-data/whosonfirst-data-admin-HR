@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.332308,
     "lbl:longitude":16.50597,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.332308,
     "mps:longitude":16.50597,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Orehovica"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":180,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":3194020,
         "gp:id":849454,
-        "qs:id":407442,
         "qs_pg:id":407442,
         "wd:id":"Q910218",
         "wk:page":"Orehovica, Croatia"
@@ -115,7 +117,7 @@
         }
     ],
     "wof:id":101790167,
-    "wof:lastmodified":1563577325,
+    "wof:lastmodified":1566647334,
     "wof:name":"Orehovica",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

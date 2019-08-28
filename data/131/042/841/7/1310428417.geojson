@@ -24,8 +24,12 @@
     "gn:population":237,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.28,45.14667,15.32,45.18667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Munjava"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1310428417,
-    "wof:lastmodified":1564154558,
+    "wof:lastmodified":1566647249,
     "wof:name":"Munjava",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

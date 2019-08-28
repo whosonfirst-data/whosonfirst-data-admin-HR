@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.309548,
     "lbl:longitude":18.413282,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":45.309548,
     "mps:longitude":18.413282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0414\u0436\u0430\u043a\u0430\u0432\u0430"
     ],
@@ -141,14 +144,9 @@
         "Dakovo",
         "Djakovar"
     ],
-    "name:und_x_preferred":[
-        "\u00d0akovo"
-    ],
     "name:und_x_variant":[
+        "\u00d0akovo",
         "Djakov\u00e1r"
-    ],
-    "name:unk_x_variant":[
-        "Djakovo"
     ],
     "name:vie_x_preferred":[
         "\u0110akovo"
@@ -175,7 +173,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":111.0,
     "wd:latitude":45.3,
@@ -191,7 +189,6 @@
         "fct:id":"115b8502-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3202220,
         "gp:id":847253,
-        "qs:id":892236,
         "qs_pg:id":892236,
         "wd:id":"Q318961",
         "wk:page":"\u0110akovo"
@@ -210,7 +207,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577471,
+    "wof:lastmodified":1566647378,
     "wof:name":"\u0110akovo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

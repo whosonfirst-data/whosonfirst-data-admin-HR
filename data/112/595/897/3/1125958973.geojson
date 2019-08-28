@@ -9,15 +9,18 @@
     "geom:bbox":"18.22278,45.45861,18.22278,45.45861",
     "geom:latitude":45.45861,
     "geom:longitude":18.22278,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":961,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
     "gn:population":961,
     "iso:country":"HR",
+    "lbl:bbox":"18.20278,45.43861,18.24278,45.47861",
     "lbl:latitude":45.45861,
     "lbl:longitude":18.22278,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Podgora\u010d"
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0433\u043e\u0440\u0430\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Podgor\u00e1cs"
     ],
     "name:war_x_preferred":[
@@ -93,7 +96,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":849675,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1125958973,
-    "wof:lastmodified":1563577734,
+    "wof:lastmodified":1566647479,
     "wof:name":"Podgora\u010d",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

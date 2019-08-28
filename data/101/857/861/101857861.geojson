@@ -11,12 +11,16 @@
     "geom:longitude":17.12249,
     "gn:population":1058,
     "iso:country":"HR",
+    "lbl:bbox":"17.10249,45.562561,17.14249,45.602561",
     "lbl:latitude":45.582561,
     "lbl:longitude":17.12249,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.582561,
     "mps:longitude":17.12249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "De\u017eanovac"
     ],
@@ -73,14 +77,8 @@
         "Donji Dezanovac",
         "Donji Drezanovac"
     ],
-    "name:und_x_preferred":[
-        "De\u017eanovac"
-    ],
     "name:und_x_variant":[
         "Donji De\u017eanovac",
-        "Donji Dre\u017eanovac"
-    ],
-    "name:unk_x_variant":[
         "Donji Dre\u017eanovac"
     ],
     "name:war_x_preferred":[
@@ -103,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":64,
     "wof:belongsto":[
@@ -116,7 +114,6 @@
         "fct:id":"115b89ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3202046,
         "gp:id":847292,
-        "qs:id":1274941,
         "qs_pg:id":1274941,
         "wd:id":"Q1284363",
         "wk:page":"De\u017eanovac"
@@ -135,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577409,
+    "wof:lastmodified":1566647361,
     "wof:name":"De\u017eanovac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

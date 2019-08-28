@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":44.173743,
     "lbl:longitude":15.375441,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.173743,
     "mps:longitude":15.375441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Poli\u010dnik"
     ],
@@ -68,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u0438\u0447\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Polisseno"
     ],
     "name:war_x_preferred":[
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":43,
     "wof:belongsto":[
@@ -105,7 +108,6 @@
     "wof:concordances":{
         "gn:id":3192830,
         "gp:id":849731,
-        "qs:id":255700,
         "qs_pg:id":255700,
         "wd:id":"Q664872",
         "wk:page":"Poli\u010dnik"
@@ -121,7 +123,7 @@
         }
     ],
     "wof:id":101795763,
-    "wof:lastmodified":1563577562,
+    "wof:lastmodified":1566647401,
     "wof:name":"Poli\u010dnik",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

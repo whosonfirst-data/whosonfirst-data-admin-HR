@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.790834,
     "lbl:longitude":15.786,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.790834,
     "mps:longitude":15.786,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Brezje"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":329,
     "wof:belongsto":[
         102191581,
@@ -85,9 +88,11 @@
     "wof:concordances":{
         "gn:id":3203394,
         "gp:id":846978,
-        "qs:id":6,
-        "qs_pg:id":147314,
+        "qs_pg:id":6,
         "wd:id":"Q411300"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":147314
     },
     "wof:country":"HR",
     "wof:geomhash":"62bf2b04731ee6a8b47c5974e956fcf4",
@@ -100,7 +105,7 @@
         }
     ],
     "wof:id":101835391,
-    "wof:lastmodified":1563577423,
+    "wof:lastmodified":1566647364,
     "wof:name":"Brezje",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

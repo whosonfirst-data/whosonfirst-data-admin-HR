@@ -24,8 +24,12 @@
     "gn:population":58,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.51528,42.88611,17.55528,42.92611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brijesta"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1276125925,
-    "wof:lastmodified":1564154156,
+    "wof:lastmodified":1566646970,
     "wof:name":"Brijesta",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

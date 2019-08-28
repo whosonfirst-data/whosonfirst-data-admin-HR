@@ -25,8 +25,12 @@
     "gn:population":235,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.11333,45.46333,17.15333,45.50333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Donja Obrije\u017e"
     ],
@@ -61,8 +65,7 @@
         "\u0414\u043e\u043d\u044f \u041e\u0431\u0440\u0456\u0454\u0436"
     ],
     "name:und_x_variant":[
-        "Donja Obrie\u017e",
-        "Donja Obrije\u017e"
+        "Donja Obrie\u017e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1310183291,
-    "wof:lastmodified":1564154568,
+    "wof:lastmodified":1566647255,
     "wof:name":"Donja Obrijez",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

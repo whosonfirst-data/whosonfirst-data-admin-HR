@@ -24,8 +24,12 @@
     "gn:population":189,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.11889,45.28333,18.15889,45.32333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Slobodna Vlast"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1226326227,
-    "wof:lastmodified":1564155210,
+    "wof:lastmodified":1566647782,
     "wof:name":"Slobodna Vlast",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

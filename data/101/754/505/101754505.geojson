@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.18047,
     "lbl:longitude":17.977642,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.18047,
     "mps:longitude":17.977642,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Brodski Varo\u0161"
     ],
@@ -34,7 +37,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u043e\u0434\u0441\u044c\u043a\u0438\u0439 \u0412\u0430\u0440\u043e\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Varo\u0161"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -51,7 +54,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633229,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":3203231,
         "gp:id":847027,
-        "qs:id":406657
+        "qs_pg:id":406657
     },
     "wof:country":"HR",
     "wof:geomhash":"4add88a3a21312d7695a75463d316cd2",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101754505,
-    "wof:lastmodified":1564154687,
+    "wof:lastmodified":1566647336,
     "wof:name":"Brodski Varo\u0161",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

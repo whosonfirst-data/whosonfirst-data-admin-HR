@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.860732,
     "lbl:longitude":16.154499,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.860732,
     "mps:longitude":16.154499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0414\u0440\u043d\u0456\u0448"
     ],
@@ -116,9 +119,6 @@
     "name:ukr_x_variant":[
         "\u0414\u0440\u043d\u0438\u0448"
     ],
-    "name:unk_x_variant":[
-        "Dernis"
-    ],
     "name:war_x_preferred":[
         "Drni\u0161"
     ],
@@ -141,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":43.85,
     "wd:longitude":16.15,
@@ -155,10 +155,12 @@
     "wof:concordances":{
         "gn:id":3201162,
         "gp:id":847580,
-        "qs:id":196143,
-        "qs_pg:id":279726,
+        "qs_pg:id":196143,
         "wd:id":"Q398131",
         "wk:page":"Drni\u0161"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":279726
     },
     "wof:country":"HR",
     "wof:geomhash":"b5bc20780c6ab7d0d3364649a81c46ef",
@@ -171,7 +173,7 @@
         }
     ],
     "wof:id":101795739,
-    "wof:lastmodified":1563577565,
+    "wof:lastmodified":1566647401,
     "wof:name":"Drni\u0161",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

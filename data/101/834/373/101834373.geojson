@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.378736,
     "lbl:longitude":16.426463,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.378736,
     "mps:longitude":16.426463,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Savska Ves"
     ],
@@ -63,7 +66,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":335,
     "wof:belongsto":[
         102191581,
@@ -73,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855315,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q919562"
     },
     "wof:country":"HR",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101834373,
-    "wof:lastmodified":1563577466,
+    "wof:lastmodified":1566647376,
     "wof:name":"Savska Ves",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

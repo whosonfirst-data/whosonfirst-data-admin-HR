@@ -24,8 +24,12 @@
     "gn:population":116,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.86333,45.61333,15.90333,45.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Jamni\u010dka Gorica",
         "Gorica",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343626441,
-    "wof:lastmodified":1537625905,
+    "wof:lastmodified":1566646641,
     "wof:name":"Gorica Jamnicka",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

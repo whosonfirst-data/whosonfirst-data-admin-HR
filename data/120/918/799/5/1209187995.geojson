@@ -25,8 +25,12 @@
     "gn:population":20,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.03,45.44667,16.07,45.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zaloj"
     ],
@@ -55,8 +59,7 @@
         "\u0417\u0430\u043b\u043e\u0439"
     ],
     "name:und_x_variant":[
-        "Seli\u0161te",
-        "Zaloj"
+        "Seli\u0161te"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1209187995,
-    "wof:lastmodified":1564154334,
+    "wof:lastmodified":1566647096,
     "wof:name":"Zaloj",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

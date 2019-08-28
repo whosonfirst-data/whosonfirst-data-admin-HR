@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.092245,
     "lbl:longitude":15.833324,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.092245,
     "mps:longitude":15.833324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Krapinske Toplice"
     ],
@@ -64,9 +67,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u043f\u0438\u043d\u0441\u044c\u043a\u0435 \u0422\u043e\u043f\u043b\u0438\u0446\u0435"
     ],
-    "name:und_x_preferred":[
-        "Krapinske Toplice"
-    ],
     "name:war_x_preferred":[
         "Krapinske Toplice"
     ],
@@ -84,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":142,
     "wof:belongsto":[
         102191581,
@@ -96,7 +96,7 @@
         "fct:id":"115c287c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3197364,
         "gp:id":848589,
-        "qs:id":940556,
+        "qs_pg:id":940556,
         "wd:id":"Q943679",
         "wk:page":"Krapinske Toplice"
     },
@@ -114,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577359,
+    "wof:lastmodified":1566647345,
     "wof:name":"Krapinske Toplice",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

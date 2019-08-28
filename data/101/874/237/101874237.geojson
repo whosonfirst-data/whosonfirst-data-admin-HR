@@ -11,12 +11,16 @@
     "geom:longitude":16.422522,
     "gn:population":1366,
     "iso:country":"HR",
+    "lbl:bbox":"16.402522,46.402657,16.442522,46.442657",
     "lbl:latitude":46.422657,
     "lbl:longitude":16.422522,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.422657,
     "mps:longitude":16.422522,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ma\u010dkovec"
     ],
@@ -73,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":104,
     "wof:belongsto":[
@@ -85,7 +89,6 @@
     "wof:concordances":{
         "gn:id":3195971,
         "gp:id":848934,
-        "qs:id":1275257,
         "qs_pg:id":1275257,
         "wd:id":"Q843762",
         "wk:page":"Ma\u010dkovec, Croatia"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101874237,
-    "wof:lastmodified":1563577386,
+    "wof:lastmodified":1566647353,
     "wof:name":"Ma\u010dkovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

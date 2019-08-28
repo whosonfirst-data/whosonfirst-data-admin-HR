@@ -25,8 +25,12 @@
     "gn:population":223,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.33,42.94667,17.37,42.98667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Cunna",
         "Kuna",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259881729,
-    "wof:lastmodified":1537625877,
+    "wof:lastmodified":1566647727,
     "wof:name":"Kuna Peljeska",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

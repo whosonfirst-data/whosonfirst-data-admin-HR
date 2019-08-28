@@ -24,8 +24,12 @@
     "gn:population":208,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.92472,44.63944,15.96472,44.67944",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Nebljusi"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1310487227,
-    "wof:lastmodified":1564154511,
+    "wof:lastmodified":1566647216,
     "wof:name":"Nebljusi",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":292,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.19667,45.67389,18.23667,45.71389",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Radikovci"
     ],
@@ -46,8 +50,7 @@
         "\u0420\u0430\u0434\u0438\u043a\u043e\u0432\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Badikovci",
-        "Radikovci"
+        "Badikovci"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1226635015,
-    "wof:lastmodified":1564155290,
+    "wof:lastmodified":1566647833,
     "wof:name":"Radikovci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

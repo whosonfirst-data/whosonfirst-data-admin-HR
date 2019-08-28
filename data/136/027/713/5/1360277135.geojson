@@ -24,8 +24,12 @@
     "gn:population":579,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.04667,45.94667,16.08667,45.98667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sveti Matej"
     ],
@@ -60,8 +64,7 @@
         "\u0421\u0432\u0435\u0442\u0438\u0439 \u041c\u0430\u0442\u0435\u0439"
     ],
     "name:und_x_variant":[
-        "Sveti Mate",
-        "Sveti Matej"
+        "Sveti Mate"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1360277135,
-    "wof:lastmodified":1564154659,
+    "wof:lastmodified":1566647312,
     "wof:name":"Sveti Matej",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

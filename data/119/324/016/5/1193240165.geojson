@@ -25,8 +25,12 @@
     "gn:population":250,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.31056,45.99861,16.35056,46.03861",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Radoji\u0161\u0107e",
         "Radoi\u0161\u0107e"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193240165,
-    "wof:lastmodified":1537625841,
+    "wof:lastmodified":1566647131,
     "wof:name":"Radoisce",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":20,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.18361,44.3175,16.22361,44.3575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dugopolje"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1226504981,
-    "wof:lastmodified":1564155224,
+    "wof:lastmodified":1566647789,
     "wof:name":"Dugopolje",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

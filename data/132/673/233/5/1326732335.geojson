@@ -25,8 +25,12 @@
     "gn:population":292,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.63472,42.99139,17.67472,43.03139",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bijeli Vir"
     ],
@@ -46,8 +50,7 @@
         "\u0411\u0456\u0454\u043b\u0438\u0439 \u0412\u0438\u0440"
     ],
     "name:und_x_variant":[
-        "Bili Vir",
-        "Bijeli Vir"
+        "Bili Vir"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1326732335,
-    "wof:lastmodified":1564153563,
+    "wof:lastmodified":1566646544,
     "wof:name":"Bijeli Vir",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

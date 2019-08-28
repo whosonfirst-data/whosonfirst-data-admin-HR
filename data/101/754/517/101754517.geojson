@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.539456,
     "lbl:longitude":18.642524,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.539456,
     "mps:longitude":18.642524,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Klisa"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":118,
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q3435474"
     },
     "wof:country":"HR",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101754517,
-    "wof:lastmodified":1563577334,
+    "wof:lastmodified":1566647337,
     "wof:name":"Brije\u0161\u0107e",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

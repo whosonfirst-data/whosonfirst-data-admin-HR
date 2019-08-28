@@ -25,8 +25,12 @@
     "gn:population":143,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.19968,45.24873,16.23968,45.28873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Mali Gradac"
     ],
@@ -61,8 +65,7 @@
         "\u041c\u0430\u043b\u0438\u0439 \u0413\u0440\u0430\u0434\u0430\u0446\u044c"
     ],
     "name:und_x_variant":[
-        "Gradac Mali",
-        "Mali Gradac"
+        "Gradac Mali"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1209285415,
-    "wof:lastmodified":1564154357,
+    "wof:lastmodified":1566647111,
     "wof:name":"Mali Gradac",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

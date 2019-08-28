@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":42.519509,
     "lbl:longitude":18.363461,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.519509,
     "mps:longitude":18.363461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Konavle"
     ],
@@ -101,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633229,
@@ -110,7 +113,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55852601,
-        "qs:id":393530,
         "qs_pg:id":393530,
         "wd:id":"Q1781214"
     },
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101912585,
-    "wof:lastmodified":1563577469,
+    "wof:lastmodified":1566647377,
     "wof:name":"Konavle",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

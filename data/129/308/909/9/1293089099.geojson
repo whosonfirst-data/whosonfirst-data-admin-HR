@@ -25,8 +25,12 @@
     "gn:population":6,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.51278,45.47139,17.55278,45.51139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Kamenski Vu\u010djak"
     ],
@@ -49,8 +53,7 @@
         "\u041a\u0430\u043c\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0412\u0443\u0447\u044f\u043a"
     ],
     "name:und_x_variant":[
-        "Vu\u010djak Kamenski",
-        "Kamenski Vu\u010djak"
+        "Vu\u010djak Kamenski"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1293089099,
-    "wof:lastmodified":1564153897,
+    "wof:lastmodified":1566646792,
     "wof:name":"Kamenski Vucjak",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

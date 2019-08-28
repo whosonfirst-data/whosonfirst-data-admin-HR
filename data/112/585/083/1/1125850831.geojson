@@ -9,14 +9,18 @@
     "geom:bbox":"16.83972,43.33361,16.83972,43.33361",
     "geom:latitude":43.33361,
     "geom:longitude":16.83972,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"HR",
+    "lbl:bbox":"16.81972,43.31361,16.85972,43.35361",
     "lbl:latitude":43.33361,
     "lbl:longitude":16.83972,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Povlja"
@@ -54,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0432\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Povia"
     ],
     "qs_pg:aaroncc":"HR",
@@ -78,7 +82,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":849791,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
     "woe:name_adm1":"Splitsko-Dalmatinska",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1125850831,
-    "wof:lastmodified":1563577848,
+    "wof:lastmodified":1566647524,
     "wof:name":"Povlja",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

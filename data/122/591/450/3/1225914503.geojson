@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.23139,43.23028,17.27139,43.27028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1225914503,
-    "wof:lastmodified":1536915133,
+    "wof:lastmodified":1566647801,
     "wof:name":"Kurdum",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.210849,
     "lbl:longitude":14.542224,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.210849,
     "mps:longitude":14.542224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0645\u0633\u0644\u0627\u062c"
     ],
@@ -80,9 +83,6 @@
     "name:ukr_x_variant":[
         "\u041e\u043c\u0438\u0448\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Castelmuschio"
-    ],
     "name:war_x_preferred":[
         "Omi\u0161alj"
     ],
@@ -104,7 +104,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":219,
     "wof:belongsto":[
@@ -116,7 +116,7 @@
     "wof:concordances":{
         "gn:id":3194112,
         "gp:id":849432,
-        "qs:id":219466,
+        "qs_pg:id":219466,
         "wd:id":"Q382602",
         "wk:page":"Omi\u0161alj"
     },
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":101794605,
-    "wof:lastmodified":1563577523,
+    "wof:lastmodified":1566647392,
     "wof:name":"Omi\u0161alj",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

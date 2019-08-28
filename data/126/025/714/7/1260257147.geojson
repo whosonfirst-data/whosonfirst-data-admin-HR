@@ -24,8 +24,12 @@
     "gn:population":826,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.69268,45.86409,15.73268,45.90409",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gornji Ladu\u010d"
     ],
@@ -56,9 +60,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0456\u0439 \u041b\u0430\u0434\u0443\u0447"
     ],
-    "name:und_x_variant":[
-        "Gornji Ladu\u010d"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1260257147,
-    "wof:lastmodified":1564154438,
+    "wof:lastmodified":1566647166,
     "wof:name":"Gornji Laduc",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

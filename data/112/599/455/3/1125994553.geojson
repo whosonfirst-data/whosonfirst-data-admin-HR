@@ -9,14 +9,18 @@
     "geom:bbox":"13.50559,45.50009,13.50559,45.50009",
     "geom:latitude":45.50009,
     "geom:longitude":13.50559,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"HR",
+    "lbl:bbox":"13.48559,45.48009,13.52559,45.52009",
     "lbl:latitude":45.50009,
     "lbl:longitude":13.50559,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Savudrija"
@@ -60,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0432\u0443\u0434\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mjesto Savudrija"
     ],
     "qs_pg:aaroncc":"HR",
@@ -84,7 +88,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":850124,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
     "woe:name_adm1":"Istarska",
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1125994553,
-    "wof:lastmodified":1563577795,
+    "wof:lastmodified":1566647502,
     "wof:name":"Savudrija",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

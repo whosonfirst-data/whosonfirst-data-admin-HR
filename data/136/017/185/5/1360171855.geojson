@@ -24,8 +24,12 @@
     "gn:population":2,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.71222,45.49833,14.75222,45.53833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Turkovski Zakrajc",
         "Zakrajc",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360171855,
-    "wof:lastmodified":1537625806,
+    "wof:lastmodified":1566647322,
     "wof:name":"Zakrajc Turkovski",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

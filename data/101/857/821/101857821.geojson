@@ -11,12 +11,16 @@
     "geom:longitude":16.577739,
     "gn:population":7377,
     "iso:country":"HR",
+    "lbl:bbox":"16.557739,43.466264,16.597739,43.506264",
     "lbl:latitude":43.486264,
     "lbl:longitude":16.577739,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.486264,
     "mps:longitude":16.577739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Podstrana"
     ],
@@ -83,12 +87,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0441\u0442\u0440\u0430\u043d\u0430"
     ],
-    "name:und_x_preferred":[
-        "Podstrana"
-    ],
-    "name:unk_x_variant":[
-        "Postrana"
-    ],
     "name:war_x_preferred":[
         "Podstrana"
     ],
@@ -112,7 +110,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":202,
     "wof:belongsto":[
@@ -125,7 +123,6 @@
         "fct:id":"115cb1b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3192910,
         "gp:id":849708,
-        "qs:id":147145,
         "qs_pg:id":147145,
         "wd:id":"Q941734",
         "wk:page":"Podstrana"
@@ -144,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577407,
+    "wof:lastmodified":1566647360,
     "wof:name":"Podstrana",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

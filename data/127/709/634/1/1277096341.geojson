@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.42528,44.65583,15.46528,44.69583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alivojvodi\u0107",
         "Alivojvodi\u0107i"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277096341,
-    "wof:lastmodified":1537625955,
+    "wof:lastmodified":1566646895,
     "wof:name":"Alivojvodici",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

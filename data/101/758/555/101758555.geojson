@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.554544,
     "lbl:longitude":16.326397,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.554544,
     "mps:longitude":16.326397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ka\u0161tel \u0160tafili\u0107"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0448\u0442\u0435\u043b-\u0428\u0442\u0430\u0444\u0438\u043b\u0438\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0160tafili\u0107"
     ],
     "name:zho_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":128,
     "wof:belongsto":[
         102191581,
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":3198213,
         "gp:id":848374,
-        "qs:id":478130,
         "qs_pg:id":478130,
         "wd:id":"Q2630250",
         "wk:page":"Ka\u0161tel \u0160tafili\u0107"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":101758555,
-    "wof:lastmodified":1563577509,
+    "wof:lastmodified":1566647389,
     "wof:name":"Ka\u0161tel \u0160tafili\u0107",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

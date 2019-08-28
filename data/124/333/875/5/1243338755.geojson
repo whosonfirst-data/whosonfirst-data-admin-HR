@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.14972,44.23778,16.18972,44.27778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vagan",
         "Torbi\u010dki Vagan"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243338755,
-    "wof:lastmodified":1537625942,
+    "wof:lastmodified":1566647608,
     "wof:name":"Torbicki Vagan",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

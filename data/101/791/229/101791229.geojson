@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.042631,
     "lbl:longitude":15.994938,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.042631,
     "mps:longitude":15.994938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bedekov\u010dina"
     ],
@@ -80,10 +83,7 @@
     "name:und_x_colloquial":[
         "Bedekovcina"
     ],
-    "name:und_x_preferred":[
-        "Bedekov\u010dina"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Donja Bedekov\u010dina"
     ],
     "name:war_x_preferred":[
@@ -105,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":153,
     "wof:belongsto":[
@@ -118,7 +118,6 @@
         "fct:id":"115b4916-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3204387,
         "gp:id":846749,
-        "qs:id":966977,
         "qs_pg:id":966977,
         "wd:id":"Q791827",
         "wk:page":"Bedekov\u010dina"
@@ -137,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577340,
+    "wof:lastmodified":1566647338,
     "wof:name":"Bedekov\u010dina",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

@@ -22,8 +22,12 @@
     "gn:population":68,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.73811,45.44335,15.77811,45.48335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1276782509,
-    "wof:lastmodified":1536674024,
+    "wof:lastmodified":1566646966,
     "wof:name":"Banski Moravci",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

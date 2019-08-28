@@ -24,8 +24,12 @@
     "gn:population":267,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.08,45.94667,16.12,45.98667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Laz Stubi\u010dki"
     ],
@@ -55,8 +59,7 @@
     ],
     "name:und_x_variant":[
         "Stubi\u010dki Laz",
-        "Laz",
-        "Laz Stubi\u010dki"
+        "Laz"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1293511015,
-    "wof:lastmodified":1564153965,
+    "wof:lastmodified":1566646840,
     "wof:name":"Laz Stubicki",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

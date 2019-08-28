@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.11139,45.66306,17.15139,45.70306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Mali Zdenci"
     ],
@@ -56,8 +60,7 @@
     ],
     "name:und_x_variant":[
         "Izdenc",
-        "Zdenczi",
-        "Mali Zdenci"
+        "Zdenczi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1260197371,
-    "wof:lastmodified":1564154487,
+    "wof:lastmodified":1566647199,
     "wof:name":"Mali Zdenci",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

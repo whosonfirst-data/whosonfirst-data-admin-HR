@@ -25,8 +25,12 @@
     "gn:population":45,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.12861,44.99889,14.16861,45.03889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Drenje"
     ],
@@ -58,8 +62,7 @@
         "\u0414\u0440\u0435\u043d\u0454"
     ],
     "name:und_x_variant":[
-        "Dregne",
-        "Drenje"
+        "Dregne"
     ],
     "name:war_x_preferred":[
         "Drenje"
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1360091069,
-    "wof:lastmodified":1564154646,
+    "wof:lastmodified":1566647303,
     "wof:name":"Drenje",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

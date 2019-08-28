@@ -10,8 +10,10 @@
     "geom:latitude":45.808666,
     "geom:longitude":15.97989,
     "iso:country":"HR",
+    "lbl:bbox":"15.974890186,45.803666253,15.984890186,45.813666253",
     "lbl:latitude":45.808666,
     "lbl:longitude":15.97989,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -30,7 +32,7 @@
     "name:srp_x_preferred":[
         "\u0414\u043e\u045a\u0438 \u0433\u0440\u0430\u0434"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751659,
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1108945601,
-    "wof:lastmodified":1564154500,
+    "wof:lastmodified":1566647209,
     "wof:name":"Donji grad",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

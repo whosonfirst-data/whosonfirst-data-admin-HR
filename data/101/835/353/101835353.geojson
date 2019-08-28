@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.829249,
     "lbl:longitude":17.388344,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.829249,
     "mps:longitude":17.388344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u0648\u0641\u064a\u062a\u064a\u0643\u0627"
     ],
@@ -137,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0440\u043e\u0432\u0438\u0442\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Werowititz"
     ],
     "name:urd_x_preferred":[
@@ -165,7 +168,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.833333,
     "wd:longitude":17.383333,
@@ -179,7 +182,6 @@
     "wof:concordances":{
         "gn:id":3187694,
         "gp:id":850954,
-        "qs:id":1335815,
         "qs_pg:id":1335815,
         "wd:id":"Q266168"
     },
@@ -194,7 +196,7 @@
         }
     ],
     "wof:id":101835353,
-    "wof:lastmodified":1563577424,
+    "wof:lastmodified":1566647364,
     "wof:name":"Virovitica",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

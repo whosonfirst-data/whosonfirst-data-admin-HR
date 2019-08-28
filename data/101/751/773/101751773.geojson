@@ -13,6 +13,8 @@
     "iso:country":"HR",
     "lbl:latitude":45.165918,
     "lbl:longitude":18.010168,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":45.165918,
     "mps:longitude":18.010168,
     "mz:hierarchy_label":1,
@@ -222,12 +224,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0430\u0432\u043e\u043d\u0441\u044c\u043a\u0438\u0439 \u0411\u0440\u043e\u0434"
     ],
-    "name:und_x_preferred":[
-        "Slavonski Brod"
-    ],
-    "name:unk_x_variant":[
-        "Brod"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0644\u0627\u0648\u0646\u0633\u06a9\u06cc \u0628\u0631\u0648\u062f"
     ],
@@ -348,7 +344,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1716,
     "wof:belongsto":[
@@ -361,7 +357,6 @@
         "fct:id":"115cfdd8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3190586,
         "gp:id":850288,
-        "qs:id":274277,
         "qs_pg:id":274277,
         "wd:id":"Q4686"
     },
@@ -379,7 +374,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577560,
+    "wof:lastmodified":1566647401,
     "wof:name":"Slavonski Brod",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

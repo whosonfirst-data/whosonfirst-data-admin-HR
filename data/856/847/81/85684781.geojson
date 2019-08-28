@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":43.593496,
     "lbl:longitude":16.742116,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.593496,
     "mps:longitude":16.742116,
     "mz:hierarchy_label":1,
@@ -216,7 +217,7 @@
         "Split-Dalmatien"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0baa\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd -\u0b9f\u0bbe\u0bb2\u0bcd\u0bae\u0ba4\u0bbf\u0b86  \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
+        "\u0bb8\u0bcd\u0baa\u0bcd\u0bb3\u0bbf\u0b9f\u0bcd -\u0b9f\u0bbe\u0bb2\u0bcd\u0bae\u0ba4\u0bbf\u0b86 \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c2a\u0c4d\u0c32\u0c3f\u0c1f\u0c4d-\u0c21\u0c3e\u0c32\u0c4d\u0c2e\u0c3e\u0c1f\u0c3f\u0c2f\u0c3e \u0c15\u0c4c\u0c02\u0c1f\u0c40"
@@ -233,7 +234,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043f\u043b\u0456\u0442\u0441\u044c\u043a\u043e-\u0414\u0430\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u044c\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Splitsko-Dalmatinska"
     ],
     "name:urd_x_preferred":[
@@ -321,9 +322,9 @@
     "qs:type":"\u017dupanija",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-31",
+    "src:population_date":"2011-03-31",
     "statoids:area_km":"4,540",
     "statoids:area_mi":"1,753",
     "statoids:as_of_date":"2011-03-31",
@@ -369,11 +370,10 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1565714412,
+    "wof:lastmodified":1566646768,
     "wof:name":"Splitsko-dalmatinska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":454798,
     "wof:population_rank":10,

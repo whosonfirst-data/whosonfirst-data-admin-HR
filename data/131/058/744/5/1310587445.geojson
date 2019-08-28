@@ -25,8 +25,12 @@
     "gn:population":70,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.21111,43.86028,16.25111,43.90028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Mio\u010di\u0107a",
         "Mio\u010dic",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310587445,
-    "wof:lastmodified":1537625861,
+    "wof:lastmodified":1566647291,
     "wof:name":"Miocic",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

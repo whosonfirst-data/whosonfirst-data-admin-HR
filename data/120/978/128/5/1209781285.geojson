@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.17111,44.24778,16.21111,44.28778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209781285,
-    "wof:lastmodified":1536373402,
+    "wof:lastmodified":1566647056,
     "wof:name":"Dumici",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

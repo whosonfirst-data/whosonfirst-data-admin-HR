@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.26111,45.08806,16.30111,45.12806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Trgovi"
     ],
@@ -58,8 +62,7 @@
         "\u0422\u0440\u0433\u043e\u0432\u0438"
     ],
     "name:und_x_variant":[
-        "Trgove",
-        "Trgovi"
+        "Trgove"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1309989469,
-    "wof:lastmodified":1564154712,
+    "wof:lastmodified":1566647424,
     "wof:name":"Trgovi",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

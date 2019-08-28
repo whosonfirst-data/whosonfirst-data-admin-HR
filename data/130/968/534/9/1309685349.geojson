@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.17556,43.16194,17.21556,43.20194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kolovrat"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1309685349,
-    "wof:lastmodified":1564154745,
+    "wof:lastmodified":1566647445,
     "wof:name":"Kolovrat",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

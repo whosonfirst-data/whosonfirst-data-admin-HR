@@ -25,8 +25,12 @@
     "gn:population":89,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.58,45.81333,15.62,45.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Podvr\u0161ki Kostanjevec",
         "Kostanjevac",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209175949,
-    "wof:lastmodified":1537625883,
+    "wof:lastmodified":1566647108,
     "wof:name":"Kostanjevec Podvrski",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

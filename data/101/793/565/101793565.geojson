@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.226642,
     "lbl:longitude":18.412235,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.226642,
     "mps:longitude":18.412235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrpolje"
     ],
@@ -74,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0440\u043f\u043e\u043b\u0454"
     ],
-    "name:und_x_preferred":[
-        "Vrpolje"
-    ],
     "name:war_x_preferred":[
         "Vrpolje"
     ],
@@ -97,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":202,
     "wof:belongsto":[
@@ -110,7 +110,6 @@
         "fct:id":"115d61a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3187153,
         "gp:id":851066,
-        "qs:id":967196,
         "qs_pg:id":967196,
         "wd:id":"Q1284383",
         "wk:page":"Vrpolje"
@@ -129,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577490,
+    "wof:lastmodified":1566647384,
     "wof:name":"Vrpolje",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

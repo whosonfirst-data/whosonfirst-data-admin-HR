@@ -10,8 +10,10 @@
     "geom:latitude":45.828267,
     "geom:longitude":16.059684,
     "iso:country":"HR",
+    "lbl:bbox":"16.0546841562,45.8232667339,16.0646841562,45.8332667339",
     "lbl:latitude":45.828267,
     "lbl:longitude":16.059684,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -48,10 +50,10 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0431\u0440\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zagreba\u010dka Dubrava"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751659,
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1108945623,
-    "wof:lastmodified":1563577166,
+    "wof:lastmodified":1566647210,
     "wof:name":"Dubrava",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

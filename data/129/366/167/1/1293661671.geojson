@@ -24,8 +24,12 @@
     "gn:population":257,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.63306,46.23611,16.67306,46.27611",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Slokovec"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1293661671,
-    "wof:lastmodified":1564153946,
+    "wof:lastmodified":1566646827,
     "wof:name":"Slokovec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.14917,42.99833,17.18917,43.03833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Duba"
     ],
@@ -73,8 +77,7 @@
         "\u0414\u0443\u0431\u0430"
     ],
     "name:und_x_variant":[
-        "Duba Pelje\u0161ka",
-        "Duba"
+        "Duba Pelje\u0161ka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1293495261,
-    "wof:lastmodified":1564153933,
+    "wof:lastmodified":1566646817,
     "wof:name":"Duba",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

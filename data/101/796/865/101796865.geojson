@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.044325,
     "lbl:longitude":16.091119,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.044325,
     "mps:longitude":16.091119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u043e\u043c\u0456\u0436\u0430"
     ],
@@ -131,12 +134,6 @@
     "name:und_x_colloquial":[
         "Komiza"
     ],
-    "name:und_x_preferred":[
-        "Komi\u017ea"
-    ],
-    "name:unk_x_variant":[
-        "Comisa"
-    ],
     "name:war_x_preferred":[
         "Komi\u017ea"
     ],
@@ -159,7 +156,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":43.043611,
     "wd:longitude":16.089444,
@@ -174,7 +171,6 @@
         "fct:id":"115c1b98-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3197834,
         "gp:id":848477,
-        "qs:id":491946,
         "qs_pg:id":491946,
         "wd:id":"Q396590",
         "wk:page":"Komi\u017ea"
@@ -193,7 +189,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577377,
+    "wof:lastmodified":1566647351,
     "wof:name":"Komi\u017ea",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":621,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.86472,46.20333,16.90472,46.24333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Tor\u010dec"
     ],
@@ -50,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0440\u0447\u0435\u0446\u044c"
     ],
-    "name:und_x_variant":[
-        "Tor\u010dec"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1259778955,
-    "wof:lastmodified":1564155049,
+    "wof:lastmodified":1566647678,
     "wof:name":"Torcec",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":763,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.84228,45.86484,15.88228,45.90484",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Novaki Bistranski"
     ],
@@ -59,8 +63,7 @@
     ],
     "name:und_x_variant":[
         "Bistranski Novaki",
-        "Novaki",
-        "Novaki Bistranski"
+        "Novaki"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1243337941,
-    "wof:lastmodified":1564154936,
+    "wof:lastmodified":1566647609,
     "wof:name":"Novaki Bistranski",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.94667,45.46833,14.98667,45.50833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Donji \u0160ajn"
     ],
@@ -52,8 +56,7 @@
         "\u0414\u043e\u043d\u0456\u0439 \u0428\u0430\u0439\u043d"
     ],
     "name:und_x_variant":[
-        "Donji \u0160ain",
-        "Donji \u0160ajn"
+        "Donji \u0160ain"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1309699459,
-    "wof:lastmodified":1564154757,
+    "wof:lastmodified":1566647454,
     "wof:name":"Donji Sajn",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":424,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.44639,45.25556,17.48639,45.29556",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Gunjevc",
         "Gunjevci",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243181127,
-    "wof:lastmodified":1537625896,
+    "wof:lastmodified":1566647635,
     "wof:name":"Gunjavci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

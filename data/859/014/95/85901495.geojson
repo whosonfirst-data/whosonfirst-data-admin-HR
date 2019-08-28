@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15023969.623789,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.702919,45.559906,18.702919,45.559906",
     "geom:latitude":45.559906,
     "geom:longitude":18.702919,
     "gn:latitude":45.5575,
     "gn:longitude":18.73472,
     "iso:country":"HR",
+    "lbl:bbox":"18.697919,45.554906,18.707919,45.564906",
     "lbl:latitude":45.559906,
     "lbl:longitude":18.702919,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.559435,
     "mps:longitude":18.718095,
     "mz:hierarchy_label":0,
@@ -61,13 +63,6 @@
     "name:swe_x_preferred":[
         "Donji grad"
     ],
-    "name:und_x_preferred":[
-        "Donji Grad"
-    ],
-    "name:unk_x_variant":[
-        "Osijek-Donji Grad",
-        "Donji Grad"
-    ],
     "qs:gn_adm0_cc":"HR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3193935,
@@ -98,7 +93,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":143,
     "wof:belongsto":[
         102191581,
@@ -110,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3201475,
         "gp:id":847465,
-        "qs:id":1349626,
         "qs_pg:id":1349626
     },
     "wof:country":"HR",
@@ -128,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531932515,
+    "wof:lastmodified":1566646756,
     "wof:name":"Donji Grad",
     "wof:parent_id":101751779,
     "wof:placetype":"neighbourhood",

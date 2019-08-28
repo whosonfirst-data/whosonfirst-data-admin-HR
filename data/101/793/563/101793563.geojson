@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.486642,
     "lbl:longitude":18.671335,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.486642,
     "mps:longitude":18.671335,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Antunovac"
     ],
@@ -65,10 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0442\u0443\u043d\u043e\u0432\u0430\u0446\u044c"
     ],
-    "name:und_x_preferred":[
-        "Antunovac"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tenjski Antunovac"
     ],
     "name:war_x_preferred":[
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
     "wof:belongsto":[
@@ -103,7 +103,6 @@
         "fct:id":"115d7e3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3204799,
         "gp:id":15000179,
-        "qs:id":259337,
         "qs_pg:id":259337,
         "wd:id":"Q1277283",
         "wk:page":"Antunovac"
@@ -122,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577488,
+    "wof:lastmodified":1566647383,
     "wof:name":"Antunovac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

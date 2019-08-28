@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.1225,44.84806,15.1625,44.88806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0443\u043a"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1226064867,
-    "wof:lastmodified":1564155297,
+    "wof:lastmodified":1566647837,
     "wof:name":"Buk",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

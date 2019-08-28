@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.253073,
     "lbl:longitude":16.238501,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.253073,
     "mps:longitude":16.238501,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Tu\u017eno"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0436\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cerje Tu\u017eno"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":23,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":3188581,
         "gp:id":850762,
-        "qs:id":1286694,
         "qs_pg:id":1286694,
         "wd:id":"Q753456",
         "wk:page":"Tu\u017eno"
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101791291,
-    "wof:lastmodified":1563577358,
+    "wof:lastmodified":1566647345,
     "wof:name":"Tu\u017eno",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

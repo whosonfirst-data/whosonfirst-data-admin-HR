@@ -25,8 +25,12 @@
     "gn:population":12,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.42221,44.803,14.46221,44.843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vrana"
     ],
@@ -70,8 +74,7 @@
         "Vrana"
     ],
     "name:und_x_variant":[
-        "Villa Vrana",
-        "Vrana"
+        "Villa Vrana"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1225924181,
-    "wof:lastmodified":1564155140,
+    "wof:lastmodified":1566647736,
     "wof:name":"Vrana",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

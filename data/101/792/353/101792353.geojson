@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.804531,
     "lbl:longitude":17.417716,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.804531,
     "mps:longitude":17.417716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Rezovac"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0437\u043e\u0432\u0430\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rezovac-Kr\u010devina"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":25,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":3191701,
         "gp:id":55855372,
-        "qs:id":1043953,
         "qs_pg:id":1043953,
         "wd:id":"Q1989817",
         "wk:page":"Rezovac"
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101792353,
-    "wof:lastmodified":1563577590,
+    "wof:lastmodified":1566647408,
     "wof:name":"Rezovac",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

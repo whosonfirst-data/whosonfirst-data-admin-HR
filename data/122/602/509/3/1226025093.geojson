@@ -25,8 +25,12 @@
     "gn:population":4,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.85125,45.16308,14.89125,45.20308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Breze"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1226025093,
-    "wof:lastmodified":1564155193,
+    "wof:lastmodified":1566647769,
     "wof:name":"Breze",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

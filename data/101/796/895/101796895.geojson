@@ -9,14 +9,17 @@
     "geom:bbox":"17.1383021861,43.4651110243,17.1561772565,43.4761024319",
     "geom:latitude":43.470627,
     "geom:longitude":17.148555,
-    "geonames:id":"3201412,3214736",
+    "gn:id":"3201412,3214736",
     "iso:country":"HR",
     "lbl:latitude":43.469085,
     "lbl:longitude":17.150925,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.469085,
     "mps:longitude":17.150925,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Donji Prolo\u017eac"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043d\u0456\u0439 \u041f\u0440\u043e\u043b\u043e\u0436\u0430\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Prolo\u017eac Donji"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -65,7 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":62,
     "wof:belongsto":[
         102191581,
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":3201412,
         "gp:id":847502,
-        "qs:id":1144955,
+        "qs_pg:id":1144955,
         "wd:id":"Q3503931",
         "wk:page":"Donji Prolo\u017eac"
     },
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101796895,
-    "wof:lastmodified":1563577370,
+    "wof:lastmodified":1566647348,
     "wof:name":"Donji Prolo\u017eac",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

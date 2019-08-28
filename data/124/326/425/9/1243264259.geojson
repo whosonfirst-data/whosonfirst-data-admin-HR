@@ -25,8 +25,12 @@
     "gn:population":28,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.69972,45.29667,13.73972,45.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Baldassi",
         "Balda\u0161i"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243264259,
-    "wof:lastmodified":1537625938,
+    "wof:lastmodified":1566647646,
     "wof:name":"Baldasi",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

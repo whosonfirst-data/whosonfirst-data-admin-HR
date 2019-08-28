@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.523216,
     "lbl:longitude":17.975768,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.523216,
     "mps:longitude":17.975768,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Feri\u010danci"
     ],
@@ -65,10 +68,7 @@
     "name:und_x_colloquial":[
         "Fericanci"
     ],
-    "name:und_x_preferred":[
-        "Feri\u010danci"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ferichancze"
     ],
     "name:war_x_preferred":[
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -103,7 +103,6 @@
         "fct:id":"115bb806-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3200855,
         "gp:id":847664,
-        "qs:id":147282,
         "qs_pg:id":147282,
         "wd:id":"Q654011",
         "wk:page":"Feri\u010danci"
@@ -122,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577472,
+    "wof:lastmodified":1566647378,
     "wof:name":"Feri\u010danci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

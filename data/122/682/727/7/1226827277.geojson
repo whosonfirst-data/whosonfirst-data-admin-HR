@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.28,45.44667,17.32,45.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u0160panovica"
     ],
@@ -48,7 +52,6 @@
         "\u0428\u043f\u0430\u043d\u043e\u0432\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
-        "\u0160panovica",
         "Novo Selo-\u0160panovica",
         "Novo Selo"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1226827277,
-    "wof:lastmodified":1564155258,
+    "wof:lastmodified":1566647811,
     "wof:name":"Novo Selo",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

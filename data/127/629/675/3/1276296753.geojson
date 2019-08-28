@@ -25,8 +25,12 @@
     "gn:population":118,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.95361,45.58306,15.99361,45.62306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gustelnica"
     ],
@@ -49,8 +53,7 @@
         "\u0413\u0443\u0441\u0442\u0435\u043b\u043d\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
-        "Gu\u0161telnica",
-        "Gustelnica"
+        "Gu\u0161telnica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1276296753,
-    "wof:lastmodified":1564154094,
+    "wof:lastmodified":1566646926,
     "wof:name":"Gustelnica",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

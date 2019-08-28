@@ -25,8 +25,12 @@
     "gn:population":25,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.94667,46.26333,15.98667,46.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Vi\u0161nji\u010dka Jazbina",
         "Jazbina",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260372585,
-    "wof:lastmodified":1537625891,
+    "wof:lastmodified":1566647179,
     "wof:name":"Jazbina Visnjicka",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

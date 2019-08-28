@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.866275,
     "lbl:longitude":15.797564,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.866275,
     "mps:longitude":15.797564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0632\u0627\u0628\u0631\u0634\u064a\u062a\u0634"
     ],
@@ -122,9 +125,6 @@
     "name:und_x_colloquial":[
         "Zapresic"
     ],
-    "name:und_x_preferred":[
-        "Zapre\u0161i\u0107"
-    ],
     "name:urd_x_preferred":[
         "\u0632\u0627\u067e\u0631\u06cc\u0634\u06cc\u0686"
     ],
@@ -153,7 +153,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.85,
     "wd:longitude":15.8,
@@ -168,7 +168,6 @@
         "fct:id":"115d6cfa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3186781,
         "gp:id":851159,
-        "qs:id":314157,
         "qs_pg:id":314157,
         "wd:id":"Q5408",
         "wk:page":"Zapre\u0161i\u0107"
@@ -187,7 +186,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577442,
+    "wof:lastmodified":1566647370,
     "wof:name":"Zapre\u0161i\u0107",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

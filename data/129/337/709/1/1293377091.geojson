@@ -24,8 +24,12 @@
     "gn:population":103,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.60409,45.56107,14.64409,45.60107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Makov Hrib"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1293377091,
-    "wof:lastmodified":1564153894,
+    "wof:lastmodified":1566646790,
     "wof:name":"Makov Hrib",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

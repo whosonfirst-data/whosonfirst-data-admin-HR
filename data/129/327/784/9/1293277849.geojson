@@ -24,8 +24,12 @@
     "gn:population":69,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.08,45.03,15.12,45.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293277849,
-    "wof:lastmodified":1537086095,
+    "wof:lastmodified":1566646862,
     "wof:name":"Vodotec",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

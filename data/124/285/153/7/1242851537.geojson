@@ -25,8 +25,12 @@
     "gn:population":207,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.83778,45.43722,14.87778,45.47722",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Brod na Kupi"
     ],
@@ -58,8 +62,7 @@
         "\u0411\u0440\u043e\u0434-\u043d\u0430-\u041a\u0443\u043f\u0456"
     ],
     "name:und_x_variant":[
-        "Brod",
-        "Brod na Kupi"
+        "Brod"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1242851537,
-    "wof:lastmodified":1564154962,
+    "wof:lastmodified":1566647625,
     "wof:name":"Brod na Kupi",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.79472,45.39667,13.83472,45.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "\u010cepi\u0107"
     ],
@@ -53,8 +57,7 @@
     ],
     "name:und_x_variant":[
         "\u010cepich",
-        "Ceppi",
-        "\u010cepi\u0107"
+        "Ceppi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1276657547,
-    "wof:lastmodified":1564154192,
+    "wof:lastmodified":1566646996,
     "wof:name":"Cepic",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

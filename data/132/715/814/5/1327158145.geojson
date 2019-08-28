@@ -24,8 +24,12 @@
     "gn:population":179,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.99944,45.00889,14.03944,45.04889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327158145,
-    "wof:lastmodified":1537073755,
+    "wof:lastmodified":1566646570,
     "wof:name":"Hrboki",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

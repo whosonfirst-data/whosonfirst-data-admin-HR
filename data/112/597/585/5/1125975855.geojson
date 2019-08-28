@@ -9,15 +9,18 @@
     "geom:bbox":"16.30583,46.16778,16.30583,46.16778",
     "geom:latitude":46.16778,
     "geom:longitude":16.30583,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":935,
-    "gn:population":910,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":935,
     "iso:country":"HR",
+    "lbl:bbox":"16.28583,46.14778,16.32583,46.18778",
     "lbl:latitude":46.16778,
     "lbl:longitude":16.30583,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Mad\u017earevo"
@@ -52,9 +55,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0434\u0436\u0430\u0440\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Mad\u017earevo"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0688\u0698\u0627\u0631\u06cc\u0648\u0648"
     ],
@@ -75,7 +75,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":55869168,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1125975855,
-    "wof:lastmodified":1563577810,
+    "wof:lastmodified":1566647507,
     "wof:name":"Madzarevo",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

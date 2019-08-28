@@ -23,8 +23,12 @@
     "gn:population":5000,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.88,45.77167,15.92,45.81167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jankomir"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276736665,
-    "wof:lastmodified":1564154081,
+    "wof:lastmodified":1566646919,
     "wof:name":"Jankomir",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

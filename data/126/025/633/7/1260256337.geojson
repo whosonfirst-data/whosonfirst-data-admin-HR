@@ -25,8 +25,12 @@
     "gn:population":4,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.13,45.31333,17.17,45.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Gole\u0161i-Raji\u010di\u0107i",
         "Raj\u010di\u0107i"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260256337,
-    "wof:lastmodified":1537625840,
+    "wof:lastmodified":1566647166,
     "wof:name":"Rajcici",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

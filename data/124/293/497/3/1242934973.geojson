@@ -24,8 +24,12 @@
     "gn:population":158,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.93,45.59667,15.97,45.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Vukomeri\u0107"
     ],
@@ -46,9 +50,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0443\u043a\u043e\u043c\u0435\u0440\u0438\u0447"
-    ],
-    "name:und_x_variant":[
-        "Vukomeri\u0107"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1242934973,
-    "wof:lastmodified":1564154882,
+    "wof:lastmodified":1566647573,
     "wof:name":"Vukomeric",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.49444,45.465,17.53444,45.505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mrkoplje",
         "Mrkopolje"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242961437,
-    "wof:lastmodified":1537625859,
+    "wof:lastmodified":1566647627,
     "wof:name":"Mrkopolje",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

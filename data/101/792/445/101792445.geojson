@@ -14,10 +14,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.754138,
     "lbl:longitude":17.049153,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.754138,
     "mps:longitude":17.049153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Veliki Gr\u0111evac"
     ],
@@ -72,7 +75,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0490\u0440\u0434\u0436\u0435\u0432\u0430\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Velika Gr\u0111evas"
     ],
     "name:war_x_preferred":[
@@ -92,7 +95,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":389,
     "wof:belongsto":[
@@ -104,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3188075,
         "gp:id":15022034,
-        "qs:id":49280,
+        "qs_pg:id":49280,
         "wd:id":"Q744840",
         "wk:page":"Veliki Gr\u0111evac"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101792445,
-    "wof:lastmodified":1563577610,
+    "wof:lastmodified":1566647414,
     "wof:name":"Veliki Gr\u0111evac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

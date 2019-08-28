@@ -24,8 +24,12 @@
     "gn:population":264,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.23222,45.65222,17.27222,45.69222",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ivanovo Selo"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1343779715,
-    "wof:lastmodified":1564153754,
+    "wof:lastmodified":1566646680,
     "wof:name":"Ivanovo Selo",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

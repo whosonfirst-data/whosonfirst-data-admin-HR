@@ -25,8 +25,12 @@
     "gn:population":709,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.30472,44.78472,15.34472,44.82472",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Li\u010dko Le\u0161\u0107e"
     ],
@@ -52,8 +56,7 @@
         "\u041b\u0438\u0446\u044c\u043a\u043e \u041b\u0435\u0449\u0435"
     ],
     "name:und_x_variant":[
-        "Le\u0161\u0107e",
-        "Li\u010dko Le\u0161\u0107e"
+        "Le\u0161\u0107e"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1226665995,
-    "wof:lastmodified":1564155215,
+    "wof:lastmodified":1566647784,
     "wof:name":"Licko Lesce",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

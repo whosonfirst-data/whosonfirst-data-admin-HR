@@ -9,14 +9,17 @@
     "geom:bbox":"16.3868342411,46.2857838599,16.4153749504,46.3069974321",
     "geom:latitude":46.295945,
     "geom:longitude":16.401309,
-    "geonames:id":"3188785,3188786",
+    "gn:id":"3188785,3188786",
     "iso:country":"HR",
     "lbl:latitude":46.293621,
     "lbl:longitude":16.400336,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.293621,
     "mps:longitude":16.400336,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Trnovec Bartolove\u010dki"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u043d\u043e\u0432\u0435\u0446\u044c \u0411\u0430\u0440\u0442\u043e\u043b\u043e\u0432\u0435\u0446\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bartolove\u010dki Trnovec"
     ],
     "name:war_x_preferred":[
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":157,
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":3188785,
         "gp:id":850715,
-        "qs:id":1001175,
         "qs_pg:id":1001175,
         "wd:id":"Q1194821",
         "wk:page":"Trnovec Bartolove\u010dki"
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101791315,
-    "wof:lastmodified":1563577349,
+    "wof:lastmodified":1566647342,
     "wof:name":"Trnovec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

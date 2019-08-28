@@ -9,15 +9,18 @@
     "geom:bbox":"18.72056,45.61889,18.72056,45.61889",
     "geom:latitude":45.61889,
     "geom:longitude":18.72056,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":844,
-    "gn:population":882,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":844,
     "iso:country":"HR",
+    "lbl:bbox":"18.70056,45.59889,18.74056,45.63889",
     "lbl:latitude":45.61889,
     "lbl:longitude":18.72056,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Mece"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mece Pustara"
     ],
     "qs_pg:aaroncc":"HR",
@@ -72,7 +75,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":849114,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125937363,
-    "wof:lastmodified":1563577699,
+    "wof:lastmodified":1566647466,
     "wof:name":"Mece",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

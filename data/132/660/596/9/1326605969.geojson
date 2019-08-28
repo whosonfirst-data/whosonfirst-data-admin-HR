@@ -24,8 +24,12 @@
     "gn:population":367,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"19.03861,45.21611,19.07861,45.25611",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010cakovci"
     ],
@@ -53,9 +57,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u043a\u043e\u0432\u0446\u0456"
     ],
-    "name:und_x_variant":[
-        "\u010cakovci"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1326605969,
-    "wof:lastmodified":1564153572,
+    "wof:lastmodified":1566646550,
     "wof:name":"Cakovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

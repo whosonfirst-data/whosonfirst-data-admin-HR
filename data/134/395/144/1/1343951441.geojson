@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.19833,44.58361,15.23833,44.62361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u010ca\u010di\u0107 Drago",
         "\u010ca\u010di\u0107-Draga"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343951441,
-    "wof:lastmodified":1537625954,
+    "wof:lastmodified":1566646699,
     "wof:name":"Cacic-Draga",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

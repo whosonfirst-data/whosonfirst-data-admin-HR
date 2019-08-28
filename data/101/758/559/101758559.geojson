@@ -12,10 +12,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.554469,
     "lbl:longitude":16.344498,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.554469,
     "mps:longitude":16.344498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ka\u0161tel Stari"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0430\u0448\u0442\u0435\u043b-\u0421\u0442\u0430\u0440\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Castel Vecchio"
     ],
     "qs:a0":"Republika Hrvatska",
@@ -90,7 +93,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":74,
     "wof:belongsto":[
         102191581,
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3198212,
         "gp:id":848375,
-        "qs:id":1034493,
+        "qs_pg:id":1034493,
         "wd:id":"Q1290124",
         "wk:page":"Ka\u0161tel Stari"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101758559,
-    "wof:lastmodified":1563577505,
+    "wof:lastmodified":1566647388,
     "wof:name":"Ka\u0161tel Stari",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

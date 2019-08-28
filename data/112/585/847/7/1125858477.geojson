@@ -9,15 +9,18 @@
     "geom:bbox":"18.42889,45.34778,18.42889,45.34778",
     "geom:latitude":45.34778,
     "geom:longitude":18.42889,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":958,
-    "gn:population":1028,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
+    "gn:population":958,
     "iso:country":"HR",
+    "lbl:bbox":"18.40889,45.32778,18.44889,45.36778",
     "lbl:latitude":45.34778,
     "lbl:longitude":18.42889,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Ku\u0161evac"
@@ -49,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0448\u0435\u0432\u0430\u0446\u044c"
     ],
-    "name:unk_x_variant":[
-        "Ku\u0161evac"
-    ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
     "qs_pg:gn_fcode":"PPL",
@@ -69,7 +69,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":848709,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1125858477,
-    "wof:lastmodified":1563577853,
+    "wof:lastmodified":1566647525,
     "wof:name":"Ku\u00b5evac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

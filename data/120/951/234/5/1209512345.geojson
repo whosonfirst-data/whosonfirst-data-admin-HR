@@ -24,8 +24,12 @@
     "gn:population":144,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.04611,46.09111,16.08611,46.13111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Ladislavec"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1209512345,
-    "wof:lastmodified":1564154320,
+    "wof:lastmodified":1566647086,
     "wof:name":"Ladislavec",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

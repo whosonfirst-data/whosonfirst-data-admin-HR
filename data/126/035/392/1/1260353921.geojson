@@ -25,8 +25,12 @@
     "gn:population":104,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.3574,45.95779,16.3974,45.99779",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Kru\u0161ljevac",
         "Kru\u0161ljevec"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260353921,
-    "wof:lastmodified":1537625878,
+    "wof:lastmodified":1566647203,
     "wof:name":"Krusljevec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

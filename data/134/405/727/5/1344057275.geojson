@@ -24,8 +24,12 @@
     "gn:population":107,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.63306,45.20944,13.67306,45.24944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Veleniki"
     ],
@@ -61,8 +65,7 @@
     ],
     "name:und_x_variant":[
         "Veleni\u0107i",
-        "Velenichi",
-        "Veleniki"
+        "Velenichi"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1344057275,
-    "wof:lastmodified":1564153827,
+    "wof:lastmodified":1566646727,
     "wof:name":"Veleniki",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

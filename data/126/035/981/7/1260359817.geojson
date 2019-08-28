@@ -24,8 +24,12 @@
     "gn:population":2,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.51722,43.83167,16.55722,43.87167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Laktac"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1260359817,
-    "wof:lastmodified":1564154493,
+    "wof:lastmodified":1566647204,
     "wof:name":"Laktac",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

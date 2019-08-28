@@ -24,8 +24,12 @@
     "gn:population":349,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.94667,45.59667,15.98667,45.63667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Dubranec"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1192980289,
-    "wof:lastmodified":1564154412,
+    "wof:lastmodified":1566647148,
     "wof:name":"Dubranec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

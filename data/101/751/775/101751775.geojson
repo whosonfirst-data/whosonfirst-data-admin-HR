@@ -9,11 +9,13 @@
     "geom:bbox":"14.36675,45.3038409289,14.5059360613,45.3549195",
     "geom:latitude":45.331505,
     "geom:longitude":14.43901,
-    "geonames:id":"3189469,3191648",
+    "gn:id":"3189469,3191648",
     "gn:population":141172,
     "iso:country":"HR",
     "lbl:latitude":45.333666,
     "lbl:longitude":14.437921,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":45.333666,
     "mps:longitude":14.437921,
     "mz:hierarchy_label":1,
@@ -291,7 +293,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0454\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vitipolis"
     ],
     "name:urd_x_preferred":[
@@ -430,7 +432,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":5676,
     "wof:belongsto":[
@@ -442,7 +444,6 @@
     "wof:concordances":{
         "gn:id":3191648,
         "gp:id":850030,
-        "qs:id":274278,
         "qs_pg:id":274278,
         "wd:id":"Q1647"
     },
@@ -457,7 +458,7 @@
         }
     ],
     "wof:id":101751775,
-    "wof:lastmodified":1563577559,
+    "wof:lastmodified":1566647401,
     "wof:name":"Rijeka",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

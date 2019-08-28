@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.686539,
     "lbl:longitude":18.398185,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.686539,
     "mps:longitude":18.398185,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Beli\u0161\u0107e"
     ],
@@ -113,9 +116,6 @@
     "name:und_x_colloquial":[
         "Belisce"
     ],
-    "name:und_x_preferred":[
-        "Beli\u0161\u0107e"
-    ],
     "name:war_x_preferred":[
         "Beli\u0161\u0107e"
     ],
@@ -138,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.683333,
     "wd:longitude":18.4,
@@ -153,7 +153,6 @@
         "fct:id":"115b4cb8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3204317,
         "gp:id":846774,
-        "qs:id":180165,
         "qs_pg:id":180165,
         "wd:id":"Q399038",
         "wk:page":"Beli\u0161\u0107e"
@@ -172,7 +171,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577441,
+    "wof:lastmodified":1566647369,
     "wof:name":"Beli\u0161\u0107e",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

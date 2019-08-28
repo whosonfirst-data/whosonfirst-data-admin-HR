@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000033,
+    "geom:area_square_m":289410.91665,
     "geom:bbox":"14.9539501793,44.4633947066,14.9620139375,44.4716094451",
     "geom:latitude":44.467748,
     "geom:longitude":14.958244,
     "iso:country":"HR",
     "lbl:latitude":44.468075,
     "lbl:longitude":14.958916,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.468075,
     "mps:longitude":14.958916,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Zadarska \u017eupanija",
     "qs:a1r":"9",
@@ -30,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633229,
@@ -39,7 +44,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":850219,
-        "qs:id":1088228,
         "qs_pg:id":1088228
     },
     "wof:country":"HR",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101910957,
-    "wof:lastmodified":1497292249,
+    "wof:lastmodified":1566647422,
     "wof:name":"\u00c5 Imuni",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

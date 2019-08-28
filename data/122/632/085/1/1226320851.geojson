@@ -25,8 +25,12 @@
     "gn:population":3,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.36167,45.41444,17.40167,45.45444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Zabrdske Rogulje",
         "Rogulje Zabrdske",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226320851,
-    "wof:lastmodified":1537625838,
+    "wof:lastmodified":1566647781,
     "wof:name":"Rogulje",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

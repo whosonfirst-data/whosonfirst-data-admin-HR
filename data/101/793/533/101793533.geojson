@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.368642,
     "lbl:longitude":16.565923,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.368642,
     "mps:longitude":16.565923,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Sunja"
     ],
@@ -68,10 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043d\u044f"
     ],
-    "name:und_x_preferred":[
-        "Sunja"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sunjska Greda"
     ],
     "name:war_x_preferred":[
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":37,
     "wof:belongsto":[
@@ -109,9 +109,11 @@
         "fct:id":"115d1db8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3189498,
         "gp:id":850542,
-        "qs:id":967048,
-        "qs_pg:id":1083092,
+        "qs_pg:id":967048,
         "wd:id":"Q1091348"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1083092
     },
     "wof:country":"HR",
     "wof:geomhash":"a3782521ac83f53e35a04bcc6329b7cd",
@@ -127,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577472,
+    "wof:lastmodified":1566647379,
     "wof:name":"Sunja",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

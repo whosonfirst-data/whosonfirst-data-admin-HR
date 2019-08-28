@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":44.140848,
     "lbl:longitude":15.584563,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.140848,
     "mps:longitude":15.584563,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Pridraga"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":49,
     "wof:belongsto":[
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":3192438,
         "gp:id":849847,
-        "qs:id":262121,
         "qs_pg:id":262121,
         "wd:id":"Q7936388",
         "wk:page":"Pridraga"
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101844761,
-    "wof:lastmodified":1563577397,
+    "wof:lastmodified":1566647357,
     "wof:name":"Pridraga",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

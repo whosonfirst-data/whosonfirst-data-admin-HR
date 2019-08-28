@@ -13,6 +13,8 @@
     "iso:country":"HR",
     "lbl:latitude":43.723315,
     "lbl:longitude":15.906166,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":43.723315,
     "mps:longitude":15.906166,
     "mz:hierarchy_label":1,
@@ -201,9 +203,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0438\u0431\u0435\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
-        "Sebenico"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u0628\u06cc\u0646\u06a9"
     ],
@@ -325,7 +324,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1734,
     "wof:belongsto":[
@@ -337,7 +336,6 @@
     "wof:concordances":{
         "gn:id":3190941,
         "gp:id":850191,
-        "qs:id":1043921,
         "qs_pg:id":1043921,
         "wd:id":"Q3549"
     },
@@ -352,7 +350,7 @@
         }
     ],
     "wof:id":101836427,
-    "wof:lastmodified":1563577630,
+    "wof:lastmodified":1566647420,
     "wof:name":"\u0160ibenik",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

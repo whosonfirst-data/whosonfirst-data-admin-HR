@@ -23,8 +23,12 @@
     "gn:population":196,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.86333,45.51333,15.90333,45.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lijevo Sredi\u010dko"
     ],
@@ -55,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0454\u0432\u043e-\u0421\u0440\u0435\u0434\u0438\u0446\u044c\u043a\u043e"
     ],
-    "name:und_x_variant":[
-        "Lijevo Sredi\u010dko"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1209479975,
-    "wof:lastmodified":1564154280,
+    "wof:lastmodified":1566647057,
     "wof:name":"Lijevo Sredicko",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

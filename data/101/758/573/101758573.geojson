@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.527601,
     "lbl:longitude":16.497112,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.527601,
     "mps:longitude":16.497112,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Kamen"
     ],
@@ -297,7 +300,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":197,
     "wof:belongsto":[
@@ -309,7 +312,6 @@
     "wof:concordances":{
         "gn:id":3281054,
         "gp:id":55852718,
-        "qs:id":70788,
         "qs_pg:id":70788,
         "wd:id":"Q7028"
     },
@@ -324,7 +326,7 @@
         }
     ],
     "wof:id":101758573,
-    "wof:lastmodified":1563577508,
+    "wof:lastmodified":1566647389,
     "wof:name":"Kamen",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

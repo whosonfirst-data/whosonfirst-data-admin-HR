@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":43.786476,
     "lbl:longitude":15.823612,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.786476,
     "mps:longitude":15.823612,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Zaton"
     ],
@@ -218,7 +221,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0442\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zatton"
     ],
     "name:vec_x_preferred":[
@@ -258,7 +261,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":99,
     "wof:belongsto":[
@@ -270,7 +273,6 @@
     "wof:concordances":{
         "gn:id":3186737,
         "gp:id":851170,
-        "qs:id":147068,
         "qs_pg:id":147068,
         "wd:id":"Q148333"
     },
@@ -285,7 +287,7 @@
         }
     ],
     "wof:id":101795747,
-    "wof:lastmodified":1563577573,
+    "wof:lastmodified":1566647403,
     "wof:name":"Zaton",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

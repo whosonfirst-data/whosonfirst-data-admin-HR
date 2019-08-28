@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.21333,45.68,16.25333,45.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Oborovska Preseka",
         "Preseka",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226620607,
-    "wof:lastmodified":1537625843,
+    "wof:lastmodified":1566647842,
     "wof:name":"Preseka Oborovska",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

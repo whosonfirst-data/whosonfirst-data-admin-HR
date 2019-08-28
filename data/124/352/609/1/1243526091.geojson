@@ -24,8 +24,12 @@
     "gn:population":165,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.59556,45.71361,17.63556,45.75361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bistrica"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1243526091,
-    "wof:lastmodified":1564154840,
+    "wof:lastmodified":1566647547,
     "wof:name":"Bistrica",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

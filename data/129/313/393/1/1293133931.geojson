@@ -25,8 +25,12 @@
     "gn:population":97,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"13.93361,44.97667,13.97361,45.01667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Filippano",
         "Filipana"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293133931,
-    "wof:lastmodified":1537625908,
+    "wof:lastmodified":1566646823,
     "wof:name":"Filipana",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

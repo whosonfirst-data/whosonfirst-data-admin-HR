@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":46.433465,
     "lbl:longitude":16.59629,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.433465,
     "mps:longitude":16.59629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Doma\u0161inec"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":114,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3201734,
         "gp:id":847345,
-        "qs:id":1044057,
         "qs_pg:id":1044057,
         "wd:id":"Q202586",
         "wk:page":"Doma\u0161inec"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101790185,
-    "wof:lastmodified":1563577332,
+    "wof:lastmodified":1566647336,
     "wof:name":"Doma\u0161inec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":343,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.11333,45.31333,15.15333,45.35333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gomirje"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1326807537,
-    "wof:lastmodified":1564153556,
+    "wof:lastmodified":1566646540,
     "wof:name":"Gomirje",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

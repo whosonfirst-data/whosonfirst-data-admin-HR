@@ -25,8 +25,12 @@
     "gn:population":189,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.69167,43.67139,15.73167,43.71139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Kaprije"
     ],
@@ -85,9 +89,7 @@
         "\u041a\u0430\u043f\u0440\u0456\u0454"
     ],
     "name:und_x_variant":[
-        "Capri",
-        "Kairije",
-        "Kaprije"
+        "Kairije"
     ],
     "name:vie_x_preferred":[
         "Kaprije"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1293568609,
-    "wof:lastmodified":1564153960,
+    "wof:lastmodified":1566646838,
     "wof:name":"Kaprije",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

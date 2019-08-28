@@ -24,8 +24,12 @@
     "gn:population":283,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.47134,43.57494,16.51134,43.61494",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Konjsko"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1226018083,
-    "wof:lastmodified":1564155300,
+    "wof:lastmodified":1566647839,
     "wof:name":"Konjsko",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

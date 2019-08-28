@@ -23,8 +23,12 @@
     "gn:population":105,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.15056,43.3075,17.19056,43.3475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Prgomet"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1276410467,
-    "wof:lastmodified":1564154159,
+    "wof:lastmodified":1566646972,
     "wof:name":"Prgomet",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

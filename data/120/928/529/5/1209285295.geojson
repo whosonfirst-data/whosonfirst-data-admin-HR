@@ -25,8 +25,12 @@
     "gn:population":954,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.67583,45.49278,16.71583,45.53278",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Gornja Gra\u010denica"
     ],
@@ -61,8 +65,7 @@
         "\u0413\u043e\u0440\u043d\u044f \u0413\u0440\u0430\u0447\u0435\u043d\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
-        "Gra\u010denica",
-        "Gornja Gra\u010denica"
+        "Gra\u010denica"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1209285295,
-    "wof:lastmodified":1564154355,
+    "wof:lastmodified":1566647110,
     "wof:name":"Gornja Gracenica",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

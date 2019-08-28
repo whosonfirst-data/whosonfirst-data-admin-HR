@@ -25,8 +25,12 @@
     "gn:population":15,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.70389,44.68361,15.74389,44.72361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Bjelopoljski Tuk",
         "Tuk Bjelopolski",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259899917,
-    "wof:lastmodified":1537625817,
+    "wof:lastmodified":1566647720,
     "wof:name":"Tuk Bjelopoljski",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

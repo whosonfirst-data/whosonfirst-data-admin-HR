@@ -25,8 +25,12 @@
     "gn:population":37,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.88,45.54667,17.92,45.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Bijeljevina Orahovi\u010dka"
     ],
@@ -56,8 +60,7 @@
     ],
     "name:und_x_variant":[
         "Orahovi\u010dka Bijeljevina",
-        "Beljevina",
-        "Bijeljevina Orahovi\u010dka"
+        "Beljevina"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1277140549,
-    "wof:lastmodified":1564154121,
+    "wof:lastmodified":1566646945,
     "wof:name":"Bijeljevina Orahovicka",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

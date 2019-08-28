@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.372286,
     "lbl:longitude":18.705931,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.372286,
     "mps:longitude":18.705931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Marku\u0161ica"
     ],
@@ -92,7 +95,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":502,
     "wof:belongsto":[
@@ -104,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3195447,
         "gp:id":849084,
-        "qs:id":407330,
+        "qs_pg:id":407330,
         "wd:id":"Q1281139",
         "wk:page":"Marku\u0161ica"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101793511,
-    "wof:lastmodified":1563577485,
+    "wof:lastmodified":1566647382,
     "wof:name":"Marku\u0161ica",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

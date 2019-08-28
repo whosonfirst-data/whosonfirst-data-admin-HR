@@ -9,15 +9,18 @@
     "geom:bbox":"14.76083,44.75694,14.76083,44.75694",
     "geom:latitude":44.75694,
     "geom:longitude":14.76083,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":557,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
     "gn:population":557,
     "iso:country":"HR",
+    "lbl:bbox":"14.74083,44.73694,14.78083,44.77694",
     "lbl:latitude":44.75694,
     "lbl:longitude":14.76083,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0631\u0627\u0628"
@@ -127,9 +130,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0431"
     ],
-    "name:unk_x_variant":[
-        "Arbe"
-    ],
     "name:war_x_preferred":[
         "Rab"
     ],
@@ -160,7 +160,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":849919,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -190,7 +190,7 @@
         }
     ],
     "wof:id":1125809449,
-    "wof:lastmodified":1563577786,
+    "wof:lastmodified":1566647499,
     "wof:name":"Rab",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

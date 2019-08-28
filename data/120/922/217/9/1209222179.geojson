@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.65111,43.00361,17.69111,43.04361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633229
@@ -34,7 +38,7 @@
         "gn:id":3287366
     },
     "wof:country":"HR",
-    "wof:geomhash":"0bd3ce1db3477087edb7422df03eacc6",
+    "wof:geomhash":"5228176e4a1e5faad94a22af5eda801d",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209222179,
-    "wof:lastmodified":1536293924,
+    "wof:lastmodified":1566647065,
     "wof:name":"Veraje",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.671110000000006,
+    17.67111000000001,
     43.02361,
-    17.671110000000006,
+    17.67111000000001,
     43.02361
 ],
   "geometry": {"coordinates":[17.67111000000001,43.02361],"type":"Point"}

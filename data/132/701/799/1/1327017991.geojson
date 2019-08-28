@@ -24,8 +24,12 @@
     "gn:population":10,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.68306,45.26583,17.72306,45.30583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Laze Prnjavor"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1327017991,
-    "wof:lastmodified":1564153525,
+    "wof:lastmodified":1566646516,
     "wof:name":"Laze Prnjavor",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

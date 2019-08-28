@@ -25,8 +25,12 @@
     "gn:population":168,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.31722,43.76361,16.35722,43.80361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "\u010cavoglave"
     ],
@@ -70,8 +74,7 @@
         "\u0427\u0430\u0432\u043e\u0433\u043b\u0430\u0432\u0435"
     ],
     "name:und_x_variant":[
-        "\u010cavaglovi",
-        "\u010cavoglave"
+        "\u010cavaglovi"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1343440307,
-    "wof:lastmodified":1564153860,
+    "wof:lastmodified":1566646750,
     "wof:name":"Cavoglave",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

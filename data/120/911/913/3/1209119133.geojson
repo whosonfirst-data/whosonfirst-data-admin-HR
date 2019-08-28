@@ -24,8 +24,12 @@
     "gn:population":296,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.32111,45.13722,18.36111,45.17722",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209119133,
-    "wof:lastmodified":1536297160,
+    "wof:lastmodified":1566647090,
     "wof:name":"Divosevci",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

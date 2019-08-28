@@ -25,8 +25,12 @@
     "gn:population":151,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.36333,46.03,16.40333,46.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Mihole\u010dko Brezje",
         "Brezje",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293482371,
-    "wof:lastmodified":1537625931,
+    "wof:lastmodified":1566646809,
     "wof:name":"Brezje Miholecko",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

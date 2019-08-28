@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.51972,44.40028,15.55972,44.44028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Zapoljak"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1226562233,
-    "wof:lastmodified":1564155201,
+    "wof:lastmodified":1566647775,
     "wof:name":"Zapoljak",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":27,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"17.40833,42.89333,17.44833,42.93333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Popova Luka"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1327443035,
-    "wof:lastmodified":1564153668,
+    "wof:lastmodified":1566646620,
     "wof:name":"Popova Luka",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

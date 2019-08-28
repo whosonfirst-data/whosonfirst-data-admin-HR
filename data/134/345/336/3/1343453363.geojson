@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.43167,46.05556,16.47167,46.09556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Sveti Petar Orehovec"
     ],
@@ -67,7 +71,6 @@
     ],
     "name:und_x_variant":[
         "Sveti Petar",
-        "Sveti Petar Orehovec",
         "Orehovec"
     ],
     "name:war_x_preferred":[
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1343453363,
-    "wof:lastmodified":1564153839,
+    "wof:lastmodified":1566646737,
     "wof:name":"Sveti Petar Orehovec",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

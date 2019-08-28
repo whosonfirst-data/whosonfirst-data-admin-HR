@@ -13,6 +13,8 @@
     "iso:country":"HR",
     "lbl:latitude":45.553981,
     "lbl:longitude":18.697227,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":45.553981,
     "mps:longitude":18.697227,
     "mz:hierarchy_label":1,
@@ -270,10 +272,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0456\u0454\u043a"
     ],
-    "name:und_x_preferred":[
-        "Osijek"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Osik"
     ],
     "name:urd_x_preferred":[
@@ -405,7 +404,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3632,
     "wof:belongsto":[
@@ -418,7 +417,6 @@
         "fct:id":"115c953c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3193935,
         "gp:id":849471,
-        "qs:id":894618,
         "qs_pg:id":894618,
         "wd:id":"Q1640"
     },
@@ -436,7 +434,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577555,
+    "wof:lastmodified":1566647400,
     "wof:name":"Osijek",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

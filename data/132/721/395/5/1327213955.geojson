@@ -25,8 +25,12 @@
     "gn:population":33,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.6575,45.28639,14.6975,45.32639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Fu\u017einski Benkovac",
         "Benkovac",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327213955,
-    "wof:lastmodified":1537625936,
+    "wof:lastmodified":1566646625,
     "wof:name":"Benkovac Fuzinski",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

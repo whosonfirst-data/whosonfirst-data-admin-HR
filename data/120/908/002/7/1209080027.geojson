@@ -25,8 +25,12 @@
     "gn:population":81,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.13351,45.45217,16.17351,45.49217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Novi Farka\u0161i\u0107"
     ],
@@ -55,8 +59,7 @@
         "\u041d\u043e\u0432\u0438\u0439 \u0424\u0430\u0440\u043a\u0430\u0448\u0438\u0447"
     ],
     "name:und_x_variant":[
-        "Novi Farka\u0161i\u0107i",
-        "Novi Farka\u0161i\u0107"
+        "Novi Farka\u0161i\u0107i"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1209080027,
-    "wof:lastmodified":1564154242,
+    "wof:lastmodified":1566647031,
     "wof:name":"Novi Farkasic",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

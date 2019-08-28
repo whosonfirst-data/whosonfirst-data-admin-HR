@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.71389,43.74556,16.75389,43.78556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1243050935,
-    "wof:lastmodified":1536877910,
+    "wof:lastmodified":1566647613,
     "wof:name":"Bili Brig",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

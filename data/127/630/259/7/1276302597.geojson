@@ -24,8 +24,12 @@
     "gn:population":222,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.72196,43.39127,16.76196,43.43127",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0426\u0435\u043b\u0438\u043d\u0430"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1276302597,
-    "wof:lastmodified":1564154185,
+    "wof:lastmodified":1566646991,
     "wof:name":"Celina",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

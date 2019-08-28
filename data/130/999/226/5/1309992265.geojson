@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.74722,43.87611,15.78722,43.91611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u010cista Velika",
         "\u010cista",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309992265,
-    "wof:lastmodified":1537625814,
+    "wof:lastmodified":1566647431,
     "wof:name":"Velika Cista",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

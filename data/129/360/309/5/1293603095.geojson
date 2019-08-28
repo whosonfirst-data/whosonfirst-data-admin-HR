@@ -25,8 +25,12 @@
     "gn:population":143,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.86889,45.64667,16.90889,45.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Bere\u010dki Kostanjevac",
         "Kostanjevac Bere\u010dki",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293603095,
-    "wof:lastmodified":1537625883,
+    "wof:lastmodified":1566646844,
     "wof:name":"Kostanjevac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

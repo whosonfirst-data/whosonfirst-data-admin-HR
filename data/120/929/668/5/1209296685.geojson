@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.98944,46.27611,16.02944,46.31611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633229
@@ -34,7 +38,7 @@
         "gn:id":3215596
     },
     "wof:country":"HR",
-    "wof:geomhash":"78b0b8d5fb2115f3f94d3a97e44c14ad",
+    "wof:geomhash":"0306c9f943a65d60cfc80e6f3456bf59",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209296685,
-    "wof:lastmodified":1536291501,
+    "wof:lastmodified":1566647092,
     "wof:name":"Galinec",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.009439999999998,
+    16.00944,
     46.29611,
-    16.009439999999998,
+    16.00944,
     46.29611
 ],
   "geometry": {"coordinates":[16.00944,46.29611],"type":"Point"}

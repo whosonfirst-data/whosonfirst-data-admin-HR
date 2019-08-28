@@ -13,10 +13,13 @@
     "iso:country":"HR",
     "lbl:latitude":45.74801,
     "lbl:longitude":16.6129,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.74801,
     "mps:longitude":16.6129,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0632\u0645\u0627"
     ],
@@ -125,12 +128,6 @@
     "name:und_x_colloquial":[
         "Cazma"
     ],
-    "name:und_x_preferred":[
-        "\u010cazma"
-    ],
-    "name:unk_x_variant":[
-        "Cs\u00e1zma"
-    ],
     "name:war_x_preferred":[
         "\u010cazma"
     ],
@@ -151,7 +148,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.749167,
     "wd:longitude":16.614444,
@@ -166,7 +163,7 @@
         "fct:id":"115b7724-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3202820,
         "gp:id":15022019,
-        "qs:id":49277,
+        "qs_pg:id":49277,
         "wd:id":"Q337888",
         "wk:page":"\u010cazma"
     },
@@ -184,7 +181,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563577599,
+    "wof:lastmodified":1566647410,
     "wof:name":"\u010cazma",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

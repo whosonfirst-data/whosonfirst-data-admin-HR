@@ -25,8 +25,12 @@
     "gn:population":248,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.48389,44.105,15.52389,44.145",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Smil\u010di\u0107"
     ],
@@ -56,8 +60,7 @@
     ],
     "name:und_x_variant":[
         "Smilj\u010de",
-        "Smilcich",
-        "Smil\u010di\u0107"
+        "Smilcich"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1293746177,
-    "wof:lastmodified":1564154015,
+    "wof:lastmodified":1566646873,
     "wof:name":"Smilcic",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

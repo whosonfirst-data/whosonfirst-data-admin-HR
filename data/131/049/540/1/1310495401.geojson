@@ -24,8 +24,12 @@
     "gn:population":109,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"18.16698,45.64233,18.20698,45.68233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Magadenovac"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1310495401,
-    "wof:lastmodified":1564154520,
+    "wof:lastmodified":1566647222,
     "wof:name":"Magadenovac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

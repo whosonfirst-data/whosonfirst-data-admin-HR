@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.02028,45.17944,16.06028,45.21944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bojna"
     ],
@@ -51,8 +55,7 @@
         "Bojna"
     ],
     "name:und_x_variant":[
-        "Gornja Bojna",
-        "Bojna"
+        "Gornja Bojna"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1209077141,
-    "wof:lastmodified":1564154222,
+    "wof:lastmodified":1566647018,
     "wof:name":"Bojna",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

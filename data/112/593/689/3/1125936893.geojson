@@ -9,15 +9,18 @@
     "geom:bbox":"19.06028,45.52639,19.06028,45.52639",
     "geom:latitude":45.52639,
     "geom:longitude":19.06028,
-    "gn:gn_country":"HR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":969,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
     "gn:population":969,
     "iso:country":"HR",
+    "lbl:bbox":"19.04028,45.50639,19.08028,45.54639",
     "lbl:latitude":45.52639,
     "lbl:longitude":19.06028,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Erdut"
@@ -79,9 +82,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0434\u0443\u0442"
     ],
-    "name:unk_x_variant":[
-        "Erd\u0151d"
-    ],
     "name:war_x_preferred":[
         "Erdut"
     ],
@@ -104,7 +104,7 @@
     "qs_pg:woe_adm0":23424843,
     "qs_pg:woe_id":847654,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424843,
     "woe:name_adm0":"Hrvatska",
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":1125936893,
-    "wof:lastmodified":1563577701,
+    "wof:lastmodified":1566647466,
     "wof:name":"Erdut",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

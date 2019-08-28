@@ -10,12 +10,16 @@
     "geom:latitude":43.48051,
     "geom:longitude":17.12718,
     "iso:country":"HR",
+    "lbl:bbox":"17.10718,43.46051,17.14718,43.50051",
     "lbl:latitude":43.48051,
     "lbl:longitude":17.12718,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.48051,
     "mps:longitude":17.12718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Prolo\u017eac"
     ],
@@ -80,7 +84,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":96,
     "wof:belongsto":[
         102191581,
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3283373,
         "gp:id":847502,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1277230"
     },
     "wof:country":"HR",
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":101857813,
-    "wof:lastmodified":1563577415,
+    "wof:lastmodified":1566647362,
     "wof:name":"Postranje",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

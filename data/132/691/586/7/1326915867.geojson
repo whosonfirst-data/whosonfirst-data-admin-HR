@@ -25,8 +25,12 @@
     "gn:population":12,
     "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.65583,44.82083,15.69583,44.86083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Prijeboj"
     ],
@@ -52,8 +56,7 @@
         "\u041f\u0440\u0456\u0454\u0431\u043e\u0439"
     ],
     "name:und_x_variant":[
-        "Priboj",
-        "Prijeboj"
+        "Priboj"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1326915867,
-    "wof:lastmodified":1564153658,
+    "wof:lastmodified":1566646614,
     "wof:name":"Prijeboj",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",
