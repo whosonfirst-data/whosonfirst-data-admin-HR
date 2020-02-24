@@ -170,6 +170,9 @@
         "wk:page":"Biograd na Moru"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d688ac4fa48e2668093fff24f250d4d6",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":101795765,
-    "wof:lastmodified":1566647402,
+    "wof:lastmodified":1582318750,
     "wof:name":"Biograd na moru",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

@@ -114,6 +114,9 @@
         "wk:page":"Trnje, \u010cren\u0161ovci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"59aa81f83ea50663303ae89b81add003",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566646756,
+    "wof:lastmodified":1582318728,
     "wof:name":"Trnje",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

@@ -99,6 +99,9 @@
         "wd:id":"Q1277230"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d813bbbf984edd1a613785c7d12f4bd6",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101857813,
-    "wof:lastmodified":1566647362,
+    "wof:lastmodified":1582318743,
     "wof:name":"Postranje",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -123,6 +123,9 @@
         "wk:page":"Bedekov\u010dina"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2738c813ca2b91960e7405d49f04bdce",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647338,
+    "wof:lastmodified":1582318740,
     "wof:name":"Bedekov\u010dina",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

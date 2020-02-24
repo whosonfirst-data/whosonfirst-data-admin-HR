@@ -132,6 +132,9 @@
         "wk:page":"Gvozd"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9daa2b6dca09e85b5dd380e92909b82d",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647359,
+    "wof:lastmodified":1582318743,
     "wof:name":"Gvozd",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

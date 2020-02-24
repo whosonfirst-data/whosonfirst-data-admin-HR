@@ -96,6 +96,9 @@
         "wk:page":"Dramalj"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dfd5e04e2c1b65e9da05e3f9907bbbd0",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101836457,
-    "wof:lastmodified":1566647421,
+    "wof:lastmodified":1582318753,
     "wof:name":"Dramalj",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

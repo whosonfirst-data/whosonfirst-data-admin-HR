@@ -128,6 +128,9 @@
         "wk:page":"Pitoma\u010da"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"80c0620803a48c13fd26a8e04395afd6",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101791213,
-    "wof:lastmodified":1566647344,
+    "wof:lastmodified":1582318741,
     "wof:name":"Pitoma\u010da",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

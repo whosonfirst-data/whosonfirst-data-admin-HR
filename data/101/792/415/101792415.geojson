@@ -105,6 +105,9 @@
         "wk:page":"Kne\u017eevi Vinogradi"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"905d210957b263c39bd603b70d0a4f30",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647410,
+    "wof:lastmodified":1582318751,
     "wof:name":"Kne\u017eevi Vinogradi",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

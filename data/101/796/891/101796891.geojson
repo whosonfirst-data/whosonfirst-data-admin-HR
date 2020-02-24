@@ -118,6 +118,9 @@
         "wk:page":"Zmijavci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7f12c5b9c4b180d5084b97ced8460eed",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647351,
+    "wof:lastmodified":1582318742,
     "wof:name":"Zmijavci",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

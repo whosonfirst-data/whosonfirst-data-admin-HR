@@ -95,6 +95,9 @@
         "wk:page":"Rezovac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"39a7c37dbfd861560810023d962090c1",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101792353,
-    "wof:lastmodified":1566647408,
+    "wof:lastmodified":1582318751,
     "wof:name":"Rezovac",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

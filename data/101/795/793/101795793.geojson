@@ -196,6 +196,9 @@
         "wk:page":"Senj"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"faafff8f5f814af51c15d951547ecfdb",
     "wof:hierarchy":[
         {
@@ -209,7 +212,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647404,
+    "wof:lastmodified":1582318750,
     "wof:name":"Senj",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

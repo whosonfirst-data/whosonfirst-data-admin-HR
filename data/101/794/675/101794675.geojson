@@ -149,6 +149,9 @@
         "wk:page":"Delnice"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d9d4de46dc2de6b690f93b382640afbc",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647390,
+    "wof:lastmodified":1582318748,
     "wof:name":"Delnice",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -184,6 +184,9 @@
         "wk:page":"Solin"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0da72406b57ec9c55e2fdfca37f3ff87",
     "wof:hierarchy":[
         {
@@ -197,7 +200,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647388,
+    "wof:lastmodified":1582318747,
     "wof:name":"Solin",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

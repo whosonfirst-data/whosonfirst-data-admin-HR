@@ -138,6 +138,9 @@
         "wk:page":"Klis"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"335407f25c46cea89e567975e9016fd0",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647399,
+    "wof:lastmodified":1582318749,
     "wof:name":"Klis",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

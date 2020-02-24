@@ -206,6 +206,9 @@
         "wk:page":"Pazin"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1737ef5e4efc883bd888f792425e43f3",
     "wof:hierarchy":[
         {
@@ -219,7 +222,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647392,
+    "wof:lastmodified":1582318748,
     "wof:name":"Pazin",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

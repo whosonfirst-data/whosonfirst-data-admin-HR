@@ -157,6 +157,9 @@
         "wk:page":"Novi Vinodolski"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c067bd3b9ef965381380c5dc225baed8",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647394,
+    "wof:lastmodified":1582318748,
     "wof:name":"Novi Vinodolski",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

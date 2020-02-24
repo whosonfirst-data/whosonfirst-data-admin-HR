@@ -103,6 +103,9 @@
         "wd:id":"Q3304419"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9ecd2c73aef7b6b8ee5acac7f48e0bc1",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101754503,
-    "wof:lastmodified":1566647336,
+    "wof:lastmodified":1582318740,
     "wof:name":"Podvinje",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

@@ -158,6 +158,9 @@
         "wk:page":"Beli\u0161\u0107e"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"34fef295da7daf9f071095cdd0cdba33",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647369,
+    "wof:lastmodified":1582318745,
     "wof:name":"Beli\u0161\u0107e",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

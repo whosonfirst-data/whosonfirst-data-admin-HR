@@ -141,6 +141,9 @@
         "wk:page":"Tu\u010depi"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"df9b0948cddc063bcdc9a5fdf7ba7ea3",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647408,
+    "wof:lastmodified":1582318751,
     "wof:name":"Tu\u010depi",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

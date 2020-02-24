@@ -104,6 +104,9 @@
         "wk:page":"Podhum, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25128fe1c632dd9d94d80f7da0b13fb0",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101794665,
-    "wof:lastmodified":1566647398,
+    "wof:lastmodified":1582318749,
     "wof:name":"Podhum",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

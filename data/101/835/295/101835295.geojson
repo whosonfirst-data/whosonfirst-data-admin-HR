@@ -150,6 +150,9 @@
         "wd:id":"Q58342"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0a3dbc93082cccf9d369ca4ba5276bb9",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101835295,
-    "wof:lastmodified":1566647367,
+    "wof:lastmodified":1582318744,
     "wof:name":"Ljupina",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

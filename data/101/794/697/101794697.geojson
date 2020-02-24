@@ -102,6 +102,9 @@
         "wk:page":"Babina Greda"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"915ccdc8f1693d72591536220ee91811",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647397,
+    "wof:lastmodified":1582318749,
     "wof:name":"Babina Greda",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

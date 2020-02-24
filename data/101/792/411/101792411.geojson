@@ -105,6 +105,9 @@
         "wk:page":"Bizovac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"50297eaddbc02775778e8cf95ab25fc1",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647413,
+    "wof:lastmodified":1582318752,
     "wof:name":"Bizovac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

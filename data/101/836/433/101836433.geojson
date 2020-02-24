@@ -66,6 +66,9 @@
         "qs_pg:id":147101
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cadc7c3ccfdd2d17f2e668cb32fb1b09",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101836433,
-    "wof:lastmodified":1566647421,
+    "wof:lastmodified":1582318753,
     "wof:name":"Turanj",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

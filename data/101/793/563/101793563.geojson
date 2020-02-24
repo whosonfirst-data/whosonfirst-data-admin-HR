@@ -108,6 +108,9 @@
         "wk:page":"Antunovac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d5c9fd355f1a7f1a4de4f5671f6e5116",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647383,
+    "wof:lastmodified":1582318747,
     "wof:name":"Antunovac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

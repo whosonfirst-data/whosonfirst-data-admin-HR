@@ -113,6 +113,9 @@
         "wk:page":"Poli\u010dnik"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7fccd9f3efea1e281b89229f8caa5d7b",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101795763,
-    "wof:lastmodified":1566647401,
+    "wof:lastmodified":1582318750,
     "wof:name":"Poli\u010dnik",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

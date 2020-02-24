@@ -130,6 +130,9 @@
         "wk:page":"Orebi\u0107"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ee1a27003f5cf0cd8e7119b23c4eed63",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647350,
+    "wof:lastmodified":1582318741,
     "wof:name":"Orebi\u0107",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

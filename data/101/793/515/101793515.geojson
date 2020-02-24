@@ -98,6 +98,9 @@
         "wk:page":"Bobota, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f79e38ff164b64e54e52488f721cc7a8",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101793515,
-    "wof:lastmodified":1566647387,
+    "wof:lastmodified":1582318747,
     "wof:name":"Bobota",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

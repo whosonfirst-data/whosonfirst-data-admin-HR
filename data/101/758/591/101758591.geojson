@@ -135,6 +135,9 @@
         "wd:id":"Q399425"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f1034a9d64d31275faa608336fb3f9e",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101758591,
-    "wof:lastmodified":1566647390,
+    "wof:lastmodified":1582318748,
     "wof:name":"Rube\u0161i",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

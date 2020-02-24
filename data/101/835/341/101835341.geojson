@@ -60,6 +60,9 @@
         "qs_pg:id":1275100
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8f1e7327a2640ab4ddf4a02ed176329",
     "wof:hierarchy":[
         {
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101835341,
-    "wof:lastmodified":1566647367,
+    "wof:lastmodified":1582318744,
     "wof:name":"Husain",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

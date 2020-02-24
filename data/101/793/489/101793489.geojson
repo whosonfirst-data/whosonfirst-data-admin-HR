@@ -94,6 +94,9 @@
         "wk:page":"Br\u0161adin"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"233b2664dab587ab14ee844a1338d70c",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101793489,
-    "wof:lastmodified":1566647385,
+    "wof:lastmodified":1582318747,
     "wof:name":"Br\u0161adin",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

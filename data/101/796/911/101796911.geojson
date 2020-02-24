@@ -181,6 +181,9 @@
         "qs_pg:id":1044098
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b6572dd3d34f30cc1672860df2d76878",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":101796911,
-    "wof:lastmodified":1566647352,
+    "wof:lastmodified":1582318742,
     "wof:name":"Stari Grad",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -164,6 +164,9 @@
         "wd:id":"Q396536"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"52cddd19ea03aba7fd027e1885e5ae79",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647373,
+    "wof:lastmodified":1582318745,
     "wof:name":"Kutina",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

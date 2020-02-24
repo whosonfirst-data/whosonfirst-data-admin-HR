@@ -76,6 +76,9 @@
         "wd:id":"Q12641904"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6a8e761c83435accc84ca10c5c299da0",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101836409,
-    "wof:lastmodified":1566647419,
+    "wof:lastmodified":1582318752,
     "wof:name":"Seget Vranjica",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

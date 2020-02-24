@@ -316,6 +316,9 @@
         "wd:id":"Q7028"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2a11c5bb1fa5a828f8aa2d072116f01b",
     "wof:hierarchy":[
         {
@@ -326,7 +329,7 @@
         }
     ],
     "wof:id":101758573,
-    "wof:lastmodified":1566647389,
+    "wof:lastmodified":1582318748,
     "wof:name":"Kamen",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

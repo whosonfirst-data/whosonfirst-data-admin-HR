@@ -186,6 +186,9 @@
         "wd:id":"Q266168"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6361fb7e95d95322d39e47c445115ea8",
     "wof:hierarchy":[
         {
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":101835353,
-    "wof:lastmodified":1566647364,
+    "wof:lastmodified":1582318744,
     "wof:name":"Virovitica",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

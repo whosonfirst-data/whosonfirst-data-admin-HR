@@ -110,6 +110,10 @@
         "wk:page":"Maksimir"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"dfa8c188e4430b2887271699870cca16",
     "wof:hierarchy":[
         {
@@ -124,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566646756,
+    "wof:lastmodified":1582318727,
     "wof:name":"Maksimir",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

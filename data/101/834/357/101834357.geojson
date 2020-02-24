@@ -111,6 +111,9 @@
         "wk:page":"Vinica, Vara\u017edin County"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3be813cb01d247ddf500c8ea575770bd",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647376,
+    "wof:lastmodified":1582318745,
     "wof:name":"Vinica",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

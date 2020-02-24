@@ -144,6 +144,9 @@
         "wk:page":"Otok, Vukovar-Srijem County"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e177ce2ece69fce066b47e4f4b39568e",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647396,
+    "wof:lastmodified":1582318749,
     "wof:name":"Otok",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

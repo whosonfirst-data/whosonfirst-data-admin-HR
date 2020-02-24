@@ -155,6 +155,9 @@
         "wd:id":"Q139018"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2341eed3691b4ab416f5e6724e933ca1",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647339,
+    "wof:lastmodified":1582318740,
     "wof:name":"Zabok",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

@@ -108,6 +108,9 @@
         "wk:page":"Feri\u010danci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7eaa3f692660488a3f5529e0b413df32",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647378,
+    "wof:lastmodified":1582318746,
     "wof:name":"Feri\u010danci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

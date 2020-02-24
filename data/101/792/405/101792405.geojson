@@ -112,6 +112,9 @@
         "wd:id":"Q387618"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ff775225d57e1e1005c2af5ea63cb99d",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101792405,
-    "wof:lastmodified":1566647414,
+    "wof:lastmodified":1582318752,
     "wof:name":"Lupoglav",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

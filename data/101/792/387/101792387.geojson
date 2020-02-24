@@ -89,6 +89,9 @@
         "wk:page":"Mi\u010devec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f957950663382d2c326ef341579e621d",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101792387,
-    "wof:lastmodified":1566647415,
+    "wof:lastmodified":1582318752,
     "wof:name":"Mi\u010devec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

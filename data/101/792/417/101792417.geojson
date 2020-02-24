@@ -108,6 +108,9 @@
         "wk:page":"\u010ceminac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3c684a632cc42c63f0fac5c425380611",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647413,
+    "wof:lastmodified":1582318752,
     "wof:name":"\u010ceminac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

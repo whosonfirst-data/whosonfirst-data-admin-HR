@@ -111,6 +111,9 @@
         "wk:page":"Ernestinovo"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"668244a0c7a7414948f2db9db2324148",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647383,
+    "wof:lastmodified":1582318747,
     "wof:name":"Ernestinovo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

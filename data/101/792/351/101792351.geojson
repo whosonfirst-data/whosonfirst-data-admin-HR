@@ -83,6 +83,9 @@
         "wk:page":"Je\u017edovec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8845f084d95c1c1c0fb94a2af4ea6d3",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101792351,
-    "wof:lastmodified":1566647412,
+    "wof:lastmodified":1582318752,
     "wof:name":"Je\u017edovec",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

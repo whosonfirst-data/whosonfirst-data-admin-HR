@@ -128,6 +128,9 @@
         "wk:page":"Fa\u017eana"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba1b3fbacda9ea237e463b63cba06656",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647405,
+    "wof:lastmodified":1582318750,
     "wof:name":"Fa\u017eana",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

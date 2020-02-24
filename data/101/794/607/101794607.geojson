@@ -113,6 +113,9 @@
         "wk:page":"Ra\u0161a, Istria County"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b45e7e4825426ae5c72e3f5021c3f8b3",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101794607,
-    "wof:lastmodified":1566647398,
+    "wof:lastmodified":1582318749,
     "wof:name":"Ra\u0161a",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

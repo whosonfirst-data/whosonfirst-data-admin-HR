@@ -76,6 +76,9 @@
         "wd:id":"Q772586"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e14b87d450e96b01b46c4421ce21d262",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101844809,
-    "wof:lastmodified":1566647358,
+    "wof:lastmodified":1582318743,
     "wof:name":"Brijest",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

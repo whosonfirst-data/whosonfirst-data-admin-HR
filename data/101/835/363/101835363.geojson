@@ -93,6 +93,9 @@
         "wk:page":"Novoselec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5631dd8c7a979d148106e23572d1b7a5",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101835363,
-    "wof:lastmodified":1566647365,
+    "wof:lastmodified":1582318744,
     "wof:name":"Novoselec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

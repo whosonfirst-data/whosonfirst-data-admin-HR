@@ -97,6 +97,9 @@
         "wk:page":"Trnovec Bartolove\u010dki"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a04a5edbca459e858147906cfaba8815",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101791315,
-    "wof:lastmodified":1566647342,
+    "wof:lastmodified":1582318741,
     "wof:name":"Trnovec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

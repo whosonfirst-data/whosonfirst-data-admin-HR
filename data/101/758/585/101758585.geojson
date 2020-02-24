@@ -92,6 +92,9 @@
         "wk:page":"Mar\u010delji"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"acb8c6dc2eafc79b898e0e327e23fc32",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101758585,
-    "wof:lastmodified":1566647390,
+    "wof:lastmodified":1582318748,
     "wof:name":"Mar\u010delji",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

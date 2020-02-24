@@ -89,6 +89,9 @@
         "gp:id":847911
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e72b3e746fccbbca717ce38d6d5848c6",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566646756,
+    "wof:lastmodified":1582318728,
     "wof:name":"Gornji Grad",
     "wof:parent_id":101751779,
     "wof:placetype":"neighbourhood",

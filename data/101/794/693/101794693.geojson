@@ -154,6 +154,9 @@
         "wd:id":"Q394310"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"630b62fa522576a954c02e053389d96b",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647393,
+    "wof:lastmodified":1582318748,
     "wof:name":"\u017dupanja",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

@@ -91,6 +91,9 @@
         "wd:id":"Q343156"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"21a58e5e33c0c81e287220e4d6eead9a",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101794655,
-    "wof:lastmodified":1566647397,
+    "wof:lastmodified":1582318749,
     "wof:name":"Bribir",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

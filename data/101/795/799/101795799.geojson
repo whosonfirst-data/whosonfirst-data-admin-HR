@@ -125,6 +125,9 @@
         "wk:page":"Punat"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"05740a9f5daf5dd71cd2399c3e4a1454",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647401,
+    "wof:lastmodified":1582318750,
     "wof:name":"Punat",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

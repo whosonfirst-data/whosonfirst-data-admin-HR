@@ -76,6 +76,9 @@
         "wd:id":"Q12756427"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"96305e76ef5b50b0e2ba35141f71c36f",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101835399,
-    "wof:lastmodified":1566647365,
+    "wof:lastmodified":1582318744,
     "wof:name":"Ov\u010dara",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

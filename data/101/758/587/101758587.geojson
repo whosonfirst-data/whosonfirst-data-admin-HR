@@ -127,6 +127,9 @@
         "wk:page":"Matulji"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e2816d2a229e71a682d446befcd91735",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647389,
+    "wof:lastmodified":1582318748,
     "wof:name":"Matulji",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

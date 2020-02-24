@@ -81,6 +81,9 @@
         "wd:id":"Q5274828"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c6ce775426968da6de5b0f72a36c7d00",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101796897,
-    "wof:lastmodified":1566647352,
+    "wof:lastmodified":1582318742,
     "wof:name":"Grubine",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

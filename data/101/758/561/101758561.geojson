@@ -112,6 +112,9 @@
         "wk:page":"Ka\u0161tel Luk\u0161i\u0107"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6928f618a096390a56f011c1fdbb0d7d",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101758561,
-    "wof:lastmodified":1566647388,
+    "wof:lastmodified":1582318747,
     "wof:name":"Ka\u0161tel Luk\u0161i\u0107",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

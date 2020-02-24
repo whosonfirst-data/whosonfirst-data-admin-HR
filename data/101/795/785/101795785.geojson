@@ -153,6 +153,9 @@
         "wk:page":"Oto\u010dac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b8a396be6fd82c5099c0a336e7f3fc6f",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647403,
+    "wof:lastmodified":1582318750,
     "wof:name":"Oto\u010dac",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

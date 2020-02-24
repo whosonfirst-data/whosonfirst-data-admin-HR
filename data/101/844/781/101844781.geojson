@@ -113,6 +113,9 @@
         "wd:id":"Q1272324"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"892fbf1983daa658e54b9f5bc13aa781",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647358,
+    "wof:lastmodified":1582318743,
     "wof:name":"Jak\u0161i\u0107",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

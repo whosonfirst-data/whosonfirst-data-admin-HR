@@ -175,6 +175,9 @@
         "wd:id":"Q115117"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c2dc27a43bc6dcedb15fee34a370dc41",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647350,
+    "wof:lastmodified":1582318741,
     "wof:name":"Plo\u010de",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

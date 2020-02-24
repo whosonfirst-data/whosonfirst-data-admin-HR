@@ -166,6 +166,9 @@
         "wd:id":"Q398115"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f3d8ce9a3229710c17d00b87426792c6",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":101857839,
-    "wof:lastmodified":1566647363,
+    "wof:lastmodified":1582318744,
     "wof:name":"Prekopakra",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

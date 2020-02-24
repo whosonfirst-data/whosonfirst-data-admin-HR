@@ -704,6 +704,9 @@
         "wd:id":"Q1435"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"94a86a1dcadec0478dcd17c1835654bd",
     "wof:hierarchy":[
         {
@@ -717,7 +720,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647399,
+    "wof:lastmodified":1582318749,
     "wof:megacity":0,
     "wof:name":"Zagreb",
     "wof:parent_id":85684811,

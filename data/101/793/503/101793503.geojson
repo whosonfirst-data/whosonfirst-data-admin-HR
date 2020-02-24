@@ -83,6 +83,9 @@
         "wk:page":"Slakovci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd6d6879fa80171b67abea631574fb30",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101793503,
-    "wof:lastmodified":1566647379,
+    "wof:lastmodified":1582318746,
     "wof:name":"Slakovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

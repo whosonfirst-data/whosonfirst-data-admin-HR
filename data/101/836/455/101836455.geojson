@@ -317,6 +317,9 @@
         "wk:page":"Crikvenica"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0130a1cff55b3cb43bc22da417e52eef",
     "wof:hierarchy":[
         {
@@ -330,7 +333,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647419,
+    "wof:lastmodified":1582318752,
     "wof:name":"Crikvenica",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

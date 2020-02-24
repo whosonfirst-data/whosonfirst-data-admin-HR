@@ -99,6 +99,9 @@
         "wk:page":"\u017divogo\u0161\u0107e"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"96f6478f1ece3efaceb5968372ac4276",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101911597,
-    "wof:lastmodified":1566647422,
+    "wof:lastmodified":1582318753,
     "wof:name":"\u017divogo\u0161\u0107e",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

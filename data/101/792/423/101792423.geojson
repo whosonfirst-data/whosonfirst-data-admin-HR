@@ -123,6 +123,9 @@
         "wk:page":"Bilje"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f937283efbc910fc532be3a530112f8a",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647410,
+    "wof:lastmodified":1582318751,
     "wof:name":"Bilje",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

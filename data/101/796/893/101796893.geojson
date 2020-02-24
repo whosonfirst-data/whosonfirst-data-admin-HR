@@ -104,6 +104,9 @@
         "qs_pg:id":1275501
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fbd3d48843b7f3789abf2998d6b03917",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101796893,
-    "wof:lastmodified":1566647349,
+    "wof:lastmodified":1582318741,
     "wof:name":"Runovi\u0107",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

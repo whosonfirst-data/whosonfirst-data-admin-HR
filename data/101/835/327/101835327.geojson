@@ -86,6 +86,9 @@
         "wk:page":"Rokovci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cddd9b504d8ea3abc51983d988dde37c",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101835327,
-    "wof:lastmodified":1566647373,
+    "wof:lastmodified":1582318745,
     "wof:name":"Rokovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

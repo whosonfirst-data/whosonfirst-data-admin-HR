@@ -181,6 +181,9 @@
         "wk:page":"Novigrad, Istria County"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3087455e6cbe2a2711f33c238097fbd8",
     "wof:hierarchy":[
         {
@@ -194,7 +197,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647395,
+    "wof:lastmodified":1582318748,
     "wof:name":"Novigrad",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

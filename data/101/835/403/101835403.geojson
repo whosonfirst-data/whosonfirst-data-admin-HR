@@ -162,6 +162,9 @@
         "wd:id":"Q397652"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7c9bbb1d76af0a3cfa7dde26581dd197",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101835403,
-    "wof:lastmodified":1566647372,
+    "wof:lastmodified":1582318745,
     "wof:name":"Na\u0161ice",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

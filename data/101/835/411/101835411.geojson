@@ -92,6 +92,9 @@
         "wk:page":"\u017ddralovi"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"13158ab759949cc015ef5328ccd93ade",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101835411,
-    "wof:lastmodified":1566647371,
+    "wof:lastmodified":1582318745,
     "wof:name":"\u017ddralovi",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

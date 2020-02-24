@@ -91,6 +91,9 @@
         "wd:id":"Q2150596"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"668bfaaf047c22a31b09cbc67d16aa92",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101836445,
-    "wof:lastmodified":1566647420,
+    "wof:lastmodified":1582318753,
     "wof:name":"Vine\u017e",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

@@ -81,6 +81,9 @@
         "wk:page":"Gornji Stupnik"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5504046ddf34e26108ffdd79c4397a2c",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101792371,
-    "wof:lastmodified":1566647411,
+    "wof:lastmodified":1582318751,
     "wof:name":"Gornji Stupnik",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

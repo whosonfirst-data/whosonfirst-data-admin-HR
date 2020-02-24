@@ -134,6 +134,9 @@
         "wd:id":"Q326970"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"38fd84ce590243de9b138162c7a013a5",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101857877,
-    "wof:lastmodified":1566647362,
+    "wof:lastmodified":1582318743,
     "wof:name":"Vara\u017edin Breg",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

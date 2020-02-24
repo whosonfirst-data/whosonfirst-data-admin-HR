@@ -277,6 +277,9 @@
         "wk:page":"Vara\u017edin County (former)"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dc5fc84b6019bbf57eee8d79820d8728",
     "wof:hierarchy":[
         {
@@ -290,7 +293,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647376,
+    "wof:lastmodified":1582318745,
     "wof:name":"Vara\u017edin",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

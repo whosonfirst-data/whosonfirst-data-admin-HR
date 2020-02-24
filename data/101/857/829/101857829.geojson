@@ -98,6 +98,10 @@
         "qs_pg:id":1044102
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"0a2403a97de0e5381a6cdb9470191dcb",
     "wof:hierarchy":[
         {
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":101857829,
-    "wof:lastmodified":1566647359,
+    "wof:lastmodified":1582318743,
     "wof:name":"Kampor",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

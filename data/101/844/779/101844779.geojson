@@ -95,6 +95,9 @@
         "wk:page":"Vetovo, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f1ec9df26c8ea909d3562f33a518cd0",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101844779,
-    "wof:lastmodified":1566647356,
+    "wof:lastmodified":1582318742,
     "wof:name":"Vetovo",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

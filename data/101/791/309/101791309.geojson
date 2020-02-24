@@ -114,6 +114,9 @@
         "wk:page":"Ljube\u0161\u0107ica"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"264dea59dd3e0419c9b47b58b2748094",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101791309,
-    "wof:lastmodified":1566647338,
+    "wof:lastmodified":1582318740,
     "wof:name":"Ljube\u0161\u0107ica",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

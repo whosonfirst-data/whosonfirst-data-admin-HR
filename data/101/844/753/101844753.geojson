@@ -110,6 +110,9 @@
         "wk:page":"Kistanje"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d69d08053c908c1480a4a906238413dd",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101844753,
-    "wof:lastmodified":1566647354,
+    "wof:lastmodified":1582318742,
     "wof:name":"Kistanje",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

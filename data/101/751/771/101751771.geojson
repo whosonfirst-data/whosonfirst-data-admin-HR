@@ -425,6 +425,9 @@
         "wk:page":"Pula"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8b5dcae107d5ae9963fb3ecae0b3e89a",
     "wof:hierarchy":[
         {
@@ -438,7 +441,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647400,
+    "wof:lastmodified":1582318749,
     "wof:name":"Pula",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

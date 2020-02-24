@@ -194,6 +194,9 @@
         "wk:page":"\u0110akovo"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6350073cc0f32e7207f980892be4beb6",
     "wof:hierarchy":[
         {
@@ -207,7 +210,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647378,
+    "wof:lastmodified":1582318746,
     "wof:name":"\u0110akovo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

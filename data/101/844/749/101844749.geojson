@@ -89,6 +89,9 @@
         "wk:page":"\u017drnovnica"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3545532ed24060a481e2393423fa2e03",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101844749,
-    "wof:lastmodified":1566647355,
+    "wof:lastmodified":1582318742,
     "wof:name":"\u017drnovnica",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

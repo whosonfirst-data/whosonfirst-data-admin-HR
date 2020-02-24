@@ -166,6 +166,9 @@
         "wd:id":"Q390587"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d00a4f566493d235c71bcdf21ede5895",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647408,
+    "wof:lastmodified":1582318751,
     "wof:name":"Samobor",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

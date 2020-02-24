@@ -229,6 +229,9 @@
         "wk:page":"Bjelovar"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ad28d19c4163c6b5138390009843721f",
     "wof:hierarchy":[
         {
@@ -242,7 +245,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647371,
+    "wof:lastmodified":1582318745,
     "wof:name":"Bjelovar",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

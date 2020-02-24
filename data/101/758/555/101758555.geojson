@@ -115,6 +115,9 @@
         "wk:page":"Ka\u0161tel \u0160tafili\u0107"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1a94d950ec753be2f88f3a3b49c149c",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101758555,
-    "wof:lastmodified":1566647389,
+    "wof:lastmodified":1582318748,
     "wof:name":"Ka\u0161tel \u0160tafili\u0107",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

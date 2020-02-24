@@ -103,6 +103,9 @@
         "wd:id":"Q6458033"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"29e315cec6d0c67d44d725b1141ac7a3",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101836415,
-    "wof:lastmodified":1566647418,
+    "wof:lastmodified":1582318752,
     "wof:name":"Jesenice",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

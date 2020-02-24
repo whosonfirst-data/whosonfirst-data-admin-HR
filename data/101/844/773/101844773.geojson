@@ -86,6 +86,9 @@
         "wk:page":"Slobodnica"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae488e2f425e224d18fe73c1b8194a87",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101844773,
-    "wof:lastmodified":1566647359,
+    "wof:lastmodified":1582318743,
     "wof:name":"Slobodnica",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

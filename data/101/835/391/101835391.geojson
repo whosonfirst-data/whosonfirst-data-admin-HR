@@ -95,6 +95,9 @@
         "qs_pg:id":147314
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"62bf2b04731ee6a8b47c5974e956fcf4",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101835391,
-    "wof:lastmodified":1566647364,
+    "wof:lastmodified":1582318744,
     "wof:name":"Brezje",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

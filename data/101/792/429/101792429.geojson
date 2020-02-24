@@ -88,6 +88,9 @@
         "wd:id":"Q794862"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8a11ac85ec5174ec1df8c7c8b4b85223",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101792429,
-    "wof:lastmodified":1566647413,
+    "wof:lastmodified":1582318752,
     "wof:name":"Bijelo Brdo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

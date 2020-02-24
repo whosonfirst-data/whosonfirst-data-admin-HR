@@ -137,6 +137,9 @@
         "wk:page":"Podturen"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"39e6f49d8b6ff0bf10cab07f139da08b",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101790165,
-    "wof:lastmodified":1566647335,
+    "wof:lastmodified":1582318740,
     "wof:name":"Podturen",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

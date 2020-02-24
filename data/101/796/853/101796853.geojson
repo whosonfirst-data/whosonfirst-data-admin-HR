@@ -133,6 +133,9 @@
         "wk:page":"Vela Luka"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0beb602d017a7260a579fc499a286d07",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647351,
+    "wof:lastmodified":1582318742,
     "wof:name":"Vela Luka",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

@@ -138,6 +138,9 @@
         "wk:page":"Pa\u0161man"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0a1da7e8da1d8f82bc8734bfac08c9f5",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101911001,
-    "wof:lastmodified":1566647422,
+    "wof:lastmodified":1582318753,
     "wof:name":"Pa\u00b5man",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

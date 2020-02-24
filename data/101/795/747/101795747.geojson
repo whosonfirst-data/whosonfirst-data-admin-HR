@@ -277,6 +277,9 @@
         "wd:id":"Q148333"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bbbf0e530d47bca55798fb9cc60bdbf6",
     "wof:hierarchy":[
         {
@@ -287,7 +290,7 @@
         }
     ],
     "wof:id":101795747,
-    "wof:lastmodified":1566647403,
+    "wof:lastmodified":1582318750,
     "wof:name":"Zaton",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

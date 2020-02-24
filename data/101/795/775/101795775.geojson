@@ -104,6 +104,9 @@
         "wk:page":"Vrsi"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"07e61b5043cb941af4248d558b4a8e80",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101795775,
-    "wof:lastmodified":1566647406,
+    "wof:lastmodified":1582318751,
     "wof:name":"Vrsi",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

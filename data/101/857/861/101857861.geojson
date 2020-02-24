@@ -119,6 +119,10 @@
         "wk:page":"De\u017eanovac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"2072d6d1259f787a76f42ad8e1b92aef",
     "wof:hierarchy":[
         {
@@ -132,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647361,
+    "wof:lastmodified":1582318743,
     "wof:name":"De\u017eanovac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

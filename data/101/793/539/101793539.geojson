@@ -147,6 +147,9 @@
         "wk:page":"Duga Resa"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65723f37cd5cbb31cf806289e11739d0",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647383,
+    "wof:lastmodified":1582318747,
     "wof:name":"Duga Resa",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

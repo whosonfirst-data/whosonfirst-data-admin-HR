@@ -108,6 +108,9 @@
         "wk:page":"Petrijevci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0c9753cd3a543c29d3f0d580380dd3d1",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647409,
+    "wof:lastmodified":1582318751,
     "wof:name":"Petrijevci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

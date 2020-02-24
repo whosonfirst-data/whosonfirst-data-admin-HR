@@ -89,6 +89,9 @@
         "wk:page":"Nedeljanec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"20bdb55d6c7a83ca938f34033bffb372",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101791297,
-    "wof:lastmodified":1566647345,
+    "wof:lastmodified":1582318741,
     "wof:name":"Nedeljanec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

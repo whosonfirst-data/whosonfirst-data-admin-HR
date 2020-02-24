@@ -120,6 +120,9 @@
         "wk:page":"Nedeli\u0161\u0107e"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1e4c60f1e5d69e1e10c0cd12fa6fba39",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101834383,
-    "wof:lastmodified":1566647375,
+    "wof:lastmodified":1582318745,
     "wof:name":"Nedeli\u0161\u0107e",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

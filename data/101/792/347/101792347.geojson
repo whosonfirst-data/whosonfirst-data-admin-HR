@@ -87,6 +87,9 @@
         "wk:page":"Velika Mlaka"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a29c6cecc439af9885b1d4487ac6ad81",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101792347,
-    "wof:lastmodified":1566647411,
+    "wof:lastmodified":1582318751,
     "wof:name":"Velika Mlaka",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

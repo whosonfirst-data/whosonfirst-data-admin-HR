@@ -92,6 +92,9 @@
         "wk:page":"Ladimirevci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a114f0db16e6590e7625a1e2254c022",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101792407,
-    "wof:lastmodified":1566647411,
+    "wof:lastmodified":1582318751,
     "wof:name":"Ladimirevci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

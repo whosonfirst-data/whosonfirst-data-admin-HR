@@ -92,6 +92,9 @@
         "wk:page":"Krasica"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4f10617b380bc6ce81c896253d88205d",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101794659,
-    "wof:lastmodified":1566647393,
+    "wof:lastmodified":1582318748,
     "wof:name":"Krasica",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

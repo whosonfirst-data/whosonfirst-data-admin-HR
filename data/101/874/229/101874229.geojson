@@ -182,6 +182,10 @@
         "wd:id":"Q397600"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd936f56a11d176b92fba98b51351322",
     "wof:hierarchy":[
         {
@@ -192,7 +196,7 @@
         }
     ],
     "wof:id":101874229,
-    "wof:lastmodified":1566647352,
+    "wof:lastmodified":1582318742,
     "wof:name":"Omi\u0161",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

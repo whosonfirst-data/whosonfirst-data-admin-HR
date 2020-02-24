@@ -117,6 +117,9 @@
         "wd:id":"Q1781214"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"774d1b2551c2137ee3f413c426a82686",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101912585,
-    "wof:lastmodified":1566647377,
+    "wof:lastmodified":1582318746,
     "wof:name":"Konavle",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

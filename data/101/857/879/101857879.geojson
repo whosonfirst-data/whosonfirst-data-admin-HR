@@ -92,6 +92,10 @@
         "wd:id":"Q847871"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"d55c59b49cac62727a1002f85038f7f6",
     "wof:hierarchy":[
         {
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":101857879,
-    "wof:lastmodified":1566647362,
+    "wof:lastmodified":1582318743,
     "wof:name":"Remetinec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

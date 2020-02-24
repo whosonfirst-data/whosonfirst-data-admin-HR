@@ -47,6 +47,9 @@
         "qs_pg:id":1088228
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"58a5a4f07c3b87596fb7bb4a22afca25",
     "wof:hierarchy":[
         {
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101910957,
-    "wof:lastmodified":1566647422,
+    "wof:lastmodified":1582318753,
     "wof:name":"\u00c5 Imuni",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

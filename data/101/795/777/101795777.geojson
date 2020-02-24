@@ -110,6 +110,9 @@
         "wk:page":"Ra\u017eanac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b342178141d9ba662ce4425ad7830b20",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101795777,
-    "wof:lastmodified":1566647404,
+    "wof:lastmodified":1582318750,
     "wof:name":"Ra\u017eanac",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

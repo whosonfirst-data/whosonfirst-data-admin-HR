@@ -89,6 +89,9 @@
         "wk:page":"Bestovje"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"af8792d55e6d65d6296058c378388a00",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101835385,
-    "wof:lastmodified":1566647368,
+    "wof:lastmodified":1582318745,
     "wof:name":"Bestovje",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

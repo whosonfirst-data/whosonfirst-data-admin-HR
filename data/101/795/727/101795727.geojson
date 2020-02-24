@@ -157,6 +157,9 @@
         "wd:id":"Q1151485"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ef7b15273caec7e98c2c7c4c19000ad3",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101795727,
-    "wof:lastmodified":1566647407,
+    "wof:lastmodified":1582318751,
     "wof:name":"Murter",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

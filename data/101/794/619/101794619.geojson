@@ -174,6 +174,9 @@
         "wk:page":"Buje"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"499bbbab86005a78f11044fee28a2535",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647391,
+    "wof:lastmodified":1582318748,
     "wof:name":"Buje",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

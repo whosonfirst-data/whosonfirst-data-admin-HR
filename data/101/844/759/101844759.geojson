@@ -108,6 +108,9 @@
         "wk:page":"Galovac, Zadar County"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"640496e8a87f0e92cd98d67fed96f04f",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101844759,
-    "wof:lastmodified":1566647357,
+    "wof:lastmodified":1582318743,
     "wof:name":"Galovac",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

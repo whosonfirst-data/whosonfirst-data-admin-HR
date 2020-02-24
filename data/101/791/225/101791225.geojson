@@ -147,6 +147,9 @@
         "qs_pg:id":1286779
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"656b0ae1bee80358d799528016d89305",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647344,
+    "wof:lastmodified":1582318741,
     "wof:name":"Veliko Trgovi\u0161\u0107e",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

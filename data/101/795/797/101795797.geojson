@@ -237,6 +237,9 @@
         "wk:page":"Cres"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"222c8964b440122ec172eeafbc69dddf",
     "wof:hierarchy":[
         {
@@ -250,7 +253,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647401,
+    "wof:lastmodified":1582318750,
     "wof:name":"Cres",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

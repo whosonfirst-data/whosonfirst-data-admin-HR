@@ -1125,6 +1125,11 @@
     },
     "wof:country":"HR",
     "wof:country_alpha3":"HRV",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"977231104ed313da365d47c371ed12da",
     "wof:hierarchy":[
         {
@@ -1140,7 +1145,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1566646757,
+    "wof:lastmodified":1582318729,
     "wof:name":"Croatia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

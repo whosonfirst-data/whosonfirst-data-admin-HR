@@ -114,6 +114,9 @@
         "wk:page":"Sra\u010dinec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"11539c51285643cd2e91ff72cfa8a155",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647376,
+    "wof:lastmodified":1582318746,
     "wof:name":"Sra\u010dinec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

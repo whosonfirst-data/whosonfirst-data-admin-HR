@@ -176,6 +176,9 @@
         "wk:page":"Komi\u017ea"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"959e9dade030a3900f9d942a078cb9ce",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647351,
+    "wof:lastmodified":1582318742,
     "wof:name":"Komi\u017ea",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

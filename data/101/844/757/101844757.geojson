@@ -125,6 +125,9 @@
         "wk:page":"Gra\u010dac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"76ca85bdc91636a31340b7fae34e18f1",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101844757,
-    "wof:lastmodified":1566647357,
+    "wof:lastmodified":1582318742,
     "wof:name":"Gra\u010dac",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

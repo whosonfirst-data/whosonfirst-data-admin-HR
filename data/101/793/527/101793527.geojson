@@ -153,6 +153,9 @@
         "wd:id":"Q397639"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"80bc3519e2f22ee8320ce4416c3a4924",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647382,
+    "wof:lastmodified":1582318746,
     "wof:name":"Novska",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

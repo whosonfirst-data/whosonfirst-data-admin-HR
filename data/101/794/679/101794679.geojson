@@ -143,6 +143,9 @@
         "wk:page":"Lovran"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"365fe0e8e9db4acad717e30c318336ad",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101794679,
-    "wof:lastmodified":1566647396,
+    "wof:lastmodified":1582318749,
     "wof:name":"Lovran",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

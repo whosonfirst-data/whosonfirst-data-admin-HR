@@ -120,6 +120,9 @@
         "wk:page":"Jagodnjak"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"afb0933ff44ac5872e831b64fe06ea48",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647355,
+    "wof:lastmodified":1582318742,
     "wof:name":"Jagodnjak",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

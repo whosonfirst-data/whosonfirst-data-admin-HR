@@ -123,6 +123,9 @@
         "qs_pg:id":1284858
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0392c88d3c709659eef694391e048526",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647390,
+    "wof:lastmodified":1582318748,
     "wof:name":"\u010cavle",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

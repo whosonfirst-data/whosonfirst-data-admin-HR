@@ -81,6 +81,9 @@
         "wd:id":"Q403246"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0eb01311e4e97663b45fea1ba7f25bd0",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101857847,
-    "wof:lastmodified":1566647362,
+    "wof:lastmodified":1582318743,
     "wof:name":"Milanovac",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

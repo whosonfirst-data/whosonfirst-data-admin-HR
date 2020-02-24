@@ -218,6 +218,9 @@
         "wk:page":"Pore\u010d"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c42d0a6e18800059556812f35c65e511",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647395,
+    "wof:lastmodified":1582318749,
     "wof:name":"Pore\u010d",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

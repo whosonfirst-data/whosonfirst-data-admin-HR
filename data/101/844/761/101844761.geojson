@@ -92,6 +92,9 @@
         "wk:page":"Pridraga"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"96c2c901b6fcea5f5d06b312b2d9bff8",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101844761,
-    "wof:lastmodified":1566647357,
+    "wof:lastmodified":1582318742,
     "wof:name":"Pridraga",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

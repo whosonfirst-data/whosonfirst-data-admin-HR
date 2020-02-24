@@ -98,6 +98,9 @@
         "wk:page":"Ora\u0161ac, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e9fab33a8ebf3575edce24cedf7c2648",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101911595,
-    "wof:lastmodified":1566647422,
+    "wof:lastmodified":1582318753,
     "wof:name":"Ora\u00b5ac",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

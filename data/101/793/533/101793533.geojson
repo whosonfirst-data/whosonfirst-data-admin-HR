@@ -116,6 +116,9 @@
         "qs_pg:id":1083092
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a3782521ac83f53e35a04bcc6329b7cd",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647379,
+    "wof:lastmodified":1582318746,
     "wof:name":"Sunja",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

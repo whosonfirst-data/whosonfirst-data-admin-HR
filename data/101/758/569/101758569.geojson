@@ -114,6 +114,9 @@
         "wk:page":"Ka\u0161tel Su\u0107urac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3ab0f968bdc7c9f707d9951ba51bcd94",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101758569,
-    "wof:lastmodified":1566647387,
+    "wof:lastmodified":1582318747,
     "wof:name":"Ka\u0161tel Su\u0107urac",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

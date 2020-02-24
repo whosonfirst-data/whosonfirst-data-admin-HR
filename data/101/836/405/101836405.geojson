@@ -215,6 +215,9 @@
         "wd:id":"Q189161"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"17bbf2d7f057b5695083bc97fb680654",
     "wof:hierarchy":[
         {
@@ -228,7 +231,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647421,
+    "wof:lastmodified":1582318753,
     "wof:name":"Trogir",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -136,6 +136,9 @@
         "wk:page":"Medulin"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eb90c1d65452dbe337922fdfb78a7a73",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647403,
+    "wof:lastmodified":1582318750,
     "wof:name":"Medulin",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

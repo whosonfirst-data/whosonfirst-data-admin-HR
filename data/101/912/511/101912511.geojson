@@ -76,6 +76,9 @@
         "wd:id":"Q792190"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6883b2f5261106cdd8b93dc793582411",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101912511,
-    "wof:lastmodified":1566647377,
+    "wof:lastmodified":1582318746,
     "wof:name":"Belajske Poljice",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

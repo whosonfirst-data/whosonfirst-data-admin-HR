@@ -110,6 +110,9 @@
         "wk:page":"Nu\u0161tar"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"024431d893f5e6a0c87ce1e79b0d8ae6",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101793485,
-    "wof:lastmodified":1566647380,
+    "wof:lastmodified":1582318746,
     "wof:name":"Nu\u0161tar",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

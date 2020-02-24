@@ -86,6 +86,9 @@
         "wk:page":"Komletinci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2571ebd09e24f6e3cc82d2e839f78ae",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101794685,
-    "wof:lastmodified":1566647395,
+    "wof:lastmodified":1582318749,
     "wof:name":"Komletinci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

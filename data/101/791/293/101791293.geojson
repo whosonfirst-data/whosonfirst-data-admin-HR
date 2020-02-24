@@ -114,6 +114,9 @@
         "wk:page":"Beretinec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"295d1443e5cb4fa22ca3b1f99001d090",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647341,
+    "wof:lastmodified":1582318741,
     "wof:name":"Beretinec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

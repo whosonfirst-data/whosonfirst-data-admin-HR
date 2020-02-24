@@ -108,6 +108,9 @@
         "wk:page":"Privlaka, Vukovar-Srijem County"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"471c438876f9b85df63887745dc3a9b6",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647381,
+    "wof:lastmodified":1582318746,
     "wof:name":"Privlaka",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

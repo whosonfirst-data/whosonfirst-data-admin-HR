@@ -173,6 +173,9 @@
         "wd:id":"Q5718"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9fc698f206f716a23ae2cd8bc3f105f7",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647342,
+    "wof:lastmodified":1582318741,
     "wof:name":"Kri\u017eevci",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

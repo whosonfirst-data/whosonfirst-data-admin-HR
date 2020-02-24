@@ -130,6 +130,9 @@
         "wk:page":"Borovo, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e8d1ca6b3c16911d5c97931220145bd0",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647368,
+    "wof:lastmodified":1582318745,
     "wof:name":"Borovo",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

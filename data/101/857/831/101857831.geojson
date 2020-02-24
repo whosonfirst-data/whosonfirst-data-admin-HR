@@ -88,6 +88,10 @@
         "wk:page":"Batrina"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"0dcf3b267a69d38ec6a9f3fff5fba983",
     "wof:hierarchy":[
         {
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":101857831,
-    "wof:lastmodified":1566647363,
+    "wof:lastmodified":1582318744,
     "wof:name":"Batrina",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wk:page":"Turopolje"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"02ff34f2942c1ef25f89af7a693f4b99",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101793557,
-    "wof:lastmodified":1566647379,
+    "wof:lastmodified":1582318746,
     "wof:name":"Turopolje",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

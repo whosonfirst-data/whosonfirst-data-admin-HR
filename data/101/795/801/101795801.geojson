@@ -95,6 +95,9 @@
         "wk:page":"Gali\u017eana"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3cbcfe3af2244c77c2e47ea76ce27f55",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101795801,
-    "wof:lastmodified":1566647406,
+    "wof:lastmodified":1582318751,
     "wof:name":"Gali\u017eana",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
         "wk:page":"Doma\u0161inec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bf6082e94802462bcddfeb51066cdd18",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101790185,
-    "wof:lastmodified":1566647336,
+    "wof:lastmodified":1582318740,
     "wof:name":"Doma\u0161inec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

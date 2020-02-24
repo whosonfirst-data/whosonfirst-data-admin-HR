@@ -95,6 +95,9 @@
         "wk:page":"Gudovac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"da1c0d31a3d51c8860d5b5145930a11c",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101835415,
-    "wof:lastmodified":1566647366,
+    "wof:lastmodified":1582318744,
     "wof:name":"Gudovac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

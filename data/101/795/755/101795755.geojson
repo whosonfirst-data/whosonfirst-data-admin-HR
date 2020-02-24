@@ -132,6 +132,9 @@
         "wk:page":"Starigrad, Zadar County"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c0f32a92199a822dc58c1cc6c8ee24fd",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101795755,
-    "wof:lastmodified":1566647401,
+    "wof:lastmodified":1582318750,
     "wof:name":"Starigrad",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

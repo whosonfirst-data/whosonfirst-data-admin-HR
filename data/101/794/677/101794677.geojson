@@ -104,6 +104,9 @@
         "wk:page":"Jadranovo"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba38198ce937f8014f44d9f5480ba627",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101794677,
-    "wof:lastmodified":1566647396,
+    "wof:lastmodified":1582318749,
     "wof:name":"Jadranovo",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

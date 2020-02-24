@@ -482,6 +482,9 @@
         "wk:page":"Dubrovnik"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8f23701eaad0d328bcdb81f8d9d0f6f",
     "wof:hierarchy":[
         {
@@ -495,7 +498,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647333,
+    "wof:lastmodified":1582318740,
     "wof:name":"Dubrovnik",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

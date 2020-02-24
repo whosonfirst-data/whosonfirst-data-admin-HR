@@ -244,6 +244,9 @@
         "wd:id":"Q5867"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8d0dec4b7960885956caa22a9dfe1398",
     "wof:hierarchy":[
         {
@@ -257,7 +260,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647369,
+    "wof:lastmodified":1582318745,
     "wof:name":"Vukovar",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

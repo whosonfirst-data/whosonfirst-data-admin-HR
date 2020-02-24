@@ -116,6 +116,9 @@
         "wk:page":"Sveti Filip i Jakov"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c13dbd357a128c2b8b80350b6b529528",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101836435,
-    "wof:lastmodified":1566647421,
+    "wof:lastmodified":1582318753,
     "wof:name":"Sveti Filip i Jakov",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

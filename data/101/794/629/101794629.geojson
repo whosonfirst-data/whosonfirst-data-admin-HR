@@ -108,6 +108,9 @@
         "wk:page":"Sikirevci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6995b0dc97f17c1005ea3f570cfe5fa1",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647392,
+    "wof:lastmodified":1582318748,
     "wof:name":"Sikirevci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

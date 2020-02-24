@@ -110,6 +110,10 @@
         "wk:page":"Jasenice, Zadar County"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b26c43dd6a63d2e42ed45206c406eee1",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":101857825,
-    "wof:lastmodified":1566647363,
+    "wof:lastmodified":1582318744,
     "wof:name":"Jasenice",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

@@ -96,6 +96,9 @@
         "wk:page":"Barbat, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9d94564f37389812b835ca1e5f1cc0b5",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101836441,
-    "wof:lastmodified":1566647417,
+    "wof:lastmodified":1582318752,
     "wof:name":"Barbat na Rabu",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -90,6 +90,9 @@
         "wk:page":"Palovec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b1d0fb521e61e68f026bb43d5a3ef32c",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101874239,
-    "wof:lastmodified":1566647353,
+    "wof:lastmodified":1582318742,
     "wof:name":"Palovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

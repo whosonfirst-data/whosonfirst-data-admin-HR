@@ -126,6 +126,9 @@
         "wk:page":"Marija Bistrica"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0e4aacfba42875003bae7cbcf6bbbdf5",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647340,
+    "wof:lastmodified":1582318740,
     "wof:name":"Marija Bistrica",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

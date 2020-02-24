@@ -114,6 +114,9 @@
         "wk:page":"Tribunj"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b743a743742ccadd11463efb171c1458",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101795743,
-    "wof:lastmodified":1566647406,
+    "wof:lastmodified":1582318751,
     "wof:name":"Tribunj",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

@@ -116,6 +116,9 @@
         "wk:page":"Rabac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"771d39221f702651dbe914597c7e124b",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101794609,
-    "wof:lastmodified":1566647398,
+    "wof:lastmodified":1582318749,
     "wof:name":"Rabac",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

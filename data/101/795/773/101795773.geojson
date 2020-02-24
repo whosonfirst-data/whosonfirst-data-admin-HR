@@ -165,6 +165,9 @@
         "wk:page":"Nin, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"84279b245add6552225e525f1a3113c7",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":101795773,
-    "wof:lastmodified":1566647406,
+    "wof:lastmodified":1582318751,
     "wof:name":"Nin",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

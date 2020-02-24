@@ -92,6 +92,9 @@
         "wk:page":"Banjol"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"80a89faf34bfa0d0e879e23e673438f1",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101836439,
-    "wof:lastmodified":1566647418,
+    "wof:lastmodified":1582318752,
     "wof:name":"Banjol",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

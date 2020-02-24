@@ -84,6 +84,9 @@
         "wk:page":"Donji Vinjani"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"deda35a0954d033f0c0f42b91aeac09f",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101857811,
-    "wof:lastmodified":1566647360,
+    "wof:lastmodified":1582318743,
     "wof:name":"Donji Vinjani",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

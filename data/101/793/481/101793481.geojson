@@ -118,6 +118,9 @@
         "wk:page":"Kaptol, Po\u017eega-Slavonia County"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e427a0d88d77e4d9c372ef794837eae",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647385,
+    "wof:lastmodified":1582318747,
     "wof:name":"Kaptol",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

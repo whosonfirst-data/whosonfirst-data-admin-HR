@@ -116,6 +116,9 @@
         "wk:page":"Du\u0107e"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b0b1056afea7643367e471eb7c4e0ee0",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101874225,
-    "wof:lastmodified":1566647353,
+    "wof:lastmodified":1582318742,
     "wof:name":"Du\u0107e",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

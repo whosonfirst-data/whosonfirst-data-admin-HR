@@ -124,6 +124,10 @@
         "wk:page":"Vo\u0107in"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f2564413eaab9dbf8ef58bb8e13458fb",
     "wof:hierarchy":[
         {
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":101857845,
-    "wof:lastmodified":1566647360,
+    "wof:lastmodified":1582318743,
     "wof:name":"Vo\u0107in",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

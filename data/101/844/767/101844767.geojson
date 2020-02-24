@@ -119,6 +119,9 @@
         "wk:page":"Lopar, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"55f2caf7ade4e5be14be646f6951ee0d",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101844767,
-    "wof:lastmodified":1566647356,
+    "wof:lastmodified":1582318742,
     "wof:name":"Lopar",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

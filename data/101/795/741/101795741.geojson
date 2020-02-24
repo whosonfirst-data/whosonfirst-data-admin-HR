@@ -122,6 +122,9 @@
         "wk:page":"Pirovac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"15fa8d45a8a574a1700a2dc3f064d54a",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101795741,
-    "wof:lastmodified":1566647404,
+    "wof:lastmodified":1582318750,
     "wof:name":"Pirovac",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

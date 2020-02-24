@@ -132,6 +132,9 @@
         "wk:page":"Oroslavje"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"362d8b44d24e52b6a048aac499ba17e9",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647366,
+    "wof:lastmodified":1582318744,
     "wof:name":"Oroslavje",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

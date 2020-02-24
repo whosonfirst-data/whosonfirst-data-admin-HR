@@ -143,6 +143,9 @@
         "wk:page":"Kastav"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"764b6f1b59ddb9acfa8dabbfb4980ae0",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647399,
+    "wof:lastmodified":1582318749,
     "wof:name":"Kastav",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

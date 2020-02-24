@@ -84,6 +84,9 @@
         "qs_pg:id":1127266
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"80f5fb1c38b0178bdc835140be28e771",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101792389,
-    "wof:lastmodified":1566647415,
+    "wof:lastmodified":1582318752,
     "wof:name":"Rakov Potok",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

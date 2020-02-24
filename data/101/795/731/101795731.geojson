@@ -134,6 +134,9 @@
         "wk:page":"Trilj"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"77a7a42b0f9187d16a16d2e55fa944b8",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647402,
+    "wof:lastmodified":1582318750,
     "wof:name":"Trilj",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

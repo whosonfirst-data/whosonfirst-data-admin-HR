@@ -154,6 +154,9 @@
         "wk:page":"Hrvatska Kostajnica"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4beadf9633b69d551da0d02726452041",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647394,
+    "wof:lastmodified":1582318748,
     "wof:name":"Hrvatska Kostajnica",
     "wof:parent_id":1108759139,
     "wof:placetype":"locality",

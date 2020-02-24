@@ -143,6 +143,9 @@
         "wd:id":"Q396637"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f6f99e3c0adafe456aaa08363def2847",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647393,
+    "wof:lastmodified":1582318748,
     "wof:name":"Vrbovsko",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -86,6 +86,9 @@
         "wk:page":"Jablanovec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e3d50a114de9fd382003741e9050f820",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101792365,
-    "wof:lastmodified":1566647408,
+    "wof:lastmodified":1582318751,
     "wof:name":"Jablanovec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",
