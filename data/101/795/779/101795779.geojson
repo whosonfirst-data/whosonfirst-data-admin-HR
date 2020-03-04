@@ -145,6 +145,9 @@
         "wk:page":"Obrovac, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"beaa646c4ad5bb9e3c1bd4fb99fe22b9",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101795779,
-    "wof:lastmodified":1566647404,
+    "wof:lastmodified":1582318750,
     "wof:name":"Obrovac",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

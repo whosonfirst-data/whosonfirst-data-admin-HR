@@ -208,6 +208,9 @@
         "wk:page":"Knin"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38bf5ca695816763e0790d53e332a5bc",
     "wof:hierarchy":[
         {
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":101795737,
-    "wof:lastmodified":1566647402,
+    "wof:lastmodified":1582318750,
     "wof:name":"Knin",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

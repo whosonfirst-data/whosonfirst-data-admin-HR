@@ -161,6 +161,9 @@
         "wd:id":"Q830300"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"568e196187c6b498759114ac1682ddb3",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647410,
+    "wof:lastmodified":1582318751,
     "wof:name":"Valpovo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

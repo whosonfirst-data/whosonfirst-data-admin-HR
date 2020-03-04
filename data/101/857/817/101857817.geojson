@@ -126,6 +126,10 @@
         "wk:page":"Hrvace"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d63c05684dccf81f92bc5938607b6f93",
     "wof:hierarchy":[
         {
@@ -139,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647360,
+    "wof:lastmodified":1582318743,
     "wof:name":"Hrvace",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

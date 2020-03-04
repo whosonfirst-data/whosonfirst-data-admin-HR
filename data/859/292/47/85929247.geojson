@@ -97,6 +97,10 @@
         "wd:id":"Q287296"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf07d62fc72577ba4d7bf480868f7177",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566646756,
+    "wof:lastmodified":1582318728,
     "wof:name":"Podsused-Vrap\u010de",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

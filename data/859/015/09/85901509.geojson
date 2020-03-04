@@ -106,6 +106,10 @@
         "wk:page":"Novi Zagreb"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"672631901e5799ad777902e4c93eaa80",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566646756,
+    "wof:lastmodified":1582318728,
     "wof:name":"Novi Zagreb",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

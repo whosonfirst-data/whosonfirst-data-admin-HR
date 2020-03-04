@@ -175,6 +175,9 @@
         "wd:id":"Q398115"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"569ceb426c889db4f07cf1b992b21979",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647364,
+    "wof:lastmodified":1582318744,
     "wof:name":"Pakrac",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

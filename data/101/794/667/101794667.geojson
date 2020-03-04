@@ -107,6 +107,9 @@
         "wk:page":"Hreljin"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f40537ef62d339af123ede87a331f956",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101794667,
-    "wof:lastmodified":1566647393,
+    "wof:lastmodified":1582318748,
     "wof:name":"Hreljin",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

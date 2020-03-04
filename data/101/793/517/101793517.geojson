@@ -95,6 +95,9 @@
         "wk:page":"Bapska"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"05ac6afde0e7eaa0875a75b2fc8c52b7",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101793517,
-    "wof:lastmodified":1566647381,
+    "wof:lastmodified":1582318746,
     "wof:name":"Bapska",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

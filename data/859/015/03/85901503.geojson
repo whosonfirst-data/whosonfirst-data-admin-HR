@@ -124,6 +124,9 @@
         "wd:id":"Q1278569"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4d252f2fca667dc7aa98561078936235",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566646755,
+    "wof:lastmodified":1582318727,
     "wof:name":"Gornji grad",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

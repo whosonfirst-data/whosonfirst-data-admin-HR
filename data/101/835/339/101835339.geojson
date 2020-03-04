@@ -92,6 +92,9 @@
         "wk:page":"Buda\u0161evo"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d0bc8620a7b9b9a42768974ba2766032",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101835339,
-    "wof:lastmodified":1566647365,
+    "wof:lastmodified":1582318744,
     "wof:name":"Buda\u0161evo",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

@@ -182,6 +182,9 @@
         "wk:page":"Hvar (city)"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"914766bc8c84b2bf57022139dd7325ee",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647347,
+    "wof:lastmodified":1582318741,
     "wof:name":"Hvar",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

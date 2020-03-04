@@ -86,6 +86,9 @@
         "wk:page":"Mraclin"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d91aeace09a85ce40fb8f649973a39ec",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101793559,
-    "wof:lastmodified":1566647379,
+    "wof:lastmodified":1582318746,
     "wof:name":"Mraclin",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

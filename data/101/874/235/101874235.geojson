@@ -110,6 +110,10 @@
         "wk:page":"Strizivojna"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"032b13bcb5ca3feb7135eabbf81abb73",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647352,
+    "wof:lastmodified":1582318742,
     "wof:name":"Strizivojna",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

@@ -104,6 +104,9 @@
         "wk:page":"Hum na Sutli"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"37b5e948fb790c7db675a89e685adb1c",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647362,
+    "wof:lastmodified":1582318743,
     "wof:name":"Hum na Sutli",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

@@ -329,6 +329,9 @@
         "wk:page":"Umag"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4fd5216f36c0241d24cfbe8e84158abd",
     "wof:hierarchy":[
         {
@@ -342,7 +345,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647391,
+    "wof:lastmodified":1582318748,
     "wof:name":"Umag",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

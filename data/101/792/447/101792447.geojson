@@ -114,6 +114,9 @@
         "wk:page":"Hercegovac, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b3dda1c8e0235f4c9dce74bf994900db",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647409,
+    "wof:lastmodified":1582318751,
     "wof:name":"Hercegovac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

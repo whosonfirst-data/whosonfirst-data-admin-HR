@@ -114,6 +114,9 @@
         "wk:page":"Petrijanec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"14d33a2e86d750bba46c0d88be31d8fe",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647376,
+    "wof:lastmodified":1582318746,
     "wof:name":"Petrijanec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

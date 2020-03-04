@@ -143,6 +143,9 @@
         "wk:page":"Ivanec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"de7af861102e32654f2b3ce96834f2b7",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647343,
+    "wof:lastmodified":1582318741,
     "wof:name":"Ivanec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

@@ -87,6 +87,10 @@
         "wd:id":"Q3442392"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4bf4b43653711c5169fbd2c310b50453",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101857843,
-    "wof:lastmodified":1566647361,
+    "wof:lastmodified":1582318743,
     "wof:name":"Horvati",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

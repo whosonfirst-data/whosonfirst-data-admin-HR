@@ -157,6 +157,9 @@
         "wd:id":"Q754781"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"23635d6012b421ade73b2f4361bc12ad",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647412,
+    "wof:lastmodified":1582318751,
     "wof:name":"Vrbovec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

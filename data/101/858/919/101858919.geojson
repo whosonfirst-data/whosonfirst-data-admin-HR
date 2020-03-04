@@ -104,6 +104,9 @@
         "wk:page":"Donja Vo\u0107a"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"73420914e75e0233015b6eb31548dc5e",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647374,
+    "wof:lastmodified":1582318745,
     "wof:name":"Donja Vo\u0107a",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

@@ -163,6 +163,9 @@
         "wk:page":"Vodice, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a3ba97cbffa415b944b5f32a4a35ff9b",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101795745,
-    "wof:lastmodified":1566647407,
+    "wof:lastmodified":1582318751,
     "wof:name":"Vodice",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

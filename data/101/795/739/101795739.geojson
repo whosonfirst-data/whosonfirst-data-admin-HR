@@ -163,6 +163,9 @@
         "qs_pg:id":279726
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b5bc20780c6ab7d0d3364649a81c46ef",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101795739,
-    "wof:lastmodified":1566647401,
+    "wof:lastmodified":1582318750,
     "wof:name":"Drni\u0161",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

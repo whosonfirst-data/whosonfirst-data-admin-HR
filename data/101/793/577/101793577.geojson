@@ -92,6 +92,9 @@
         "wk:page":"Jelisavac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"60bcaed87bc73d6e6e38b33ec33b2d35",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101793577,
-    "wof:lastmodified":1566647387,
+    "wof:lastmodified":1582318747,
     "wof:name":"Jelisavac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

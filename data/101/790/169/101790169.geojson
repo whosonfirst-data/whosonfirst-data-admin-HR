@@ -95,6 +95,9 @@
         "wk:page":"Peklenica"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2982d0ee45cee7aa0ed116528468d9df",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101790169,
-    "wof:lastmodified":1566647334,
+    "wof:lastmodified":1582318740,
     "wof:name":"Peklenica",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

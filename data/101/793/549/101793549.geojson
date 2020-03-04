@@ -153,6 +153,9 @@
         "wk:page":"Jastrebarsko"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8abfacc5f666c1e4dd22817e53933d90",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647386,
+    "wof:lastmodified":1582318747,
     "wof:name":"Jastrebarsko",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

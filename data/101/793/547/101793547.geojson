@@ -163,6 +163,9 @@
         "wd:id":"Q397692"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b4b3a5743ba07661753a630ac56ed07",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101793547,
-    "wof:lastmodified":1566647386,
+    "wof:lastmodified":1582318747,
     "wof:name":"Orahovica",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

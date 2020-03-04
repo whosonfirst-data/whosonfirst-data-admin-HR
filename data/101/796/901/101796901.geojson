@@ -139,6 +139,9 @@
         "wk:page":"Podgora, Split-Dalmatia County"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8611b2dac9400482668dabb76315908f",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647347,
+    "wof:lastmodified":1582318741,
     "wof:name":"Podgora",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

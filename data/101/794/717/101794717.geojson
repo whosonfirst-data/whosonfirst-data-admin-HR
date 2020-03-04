@@ -158,6 +158,9 @@
         "wk:page":"Glina, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65782989d16536bf2ece27c73400b08b",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647399,
+    "wof:lastmodified":1582318749,
     "wof:name":"Glina",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

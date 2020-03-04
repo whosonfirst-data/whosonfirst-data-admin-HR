@@ -143,6 +143,9 @@
         "wk:page":"Bol, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c6f2785a0f3a4faaa7e67fc08ca83c68",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647348,
+    "wof:lastmodified":1582318741,
     "wof:name":"Bol",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

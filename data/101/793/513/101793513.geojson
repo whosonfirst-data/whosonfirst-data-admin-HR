@@ -111,6 +111,9 @@
         "wk:page":"Ivankovo, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"434c742d853ff594cedf581893bacb10",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647386,
+    "wof:lastmodified":1582318747,
     "wof:name":"Ivankovo",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

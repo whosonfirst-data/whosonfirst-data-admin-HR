@@ -453,6 +453,9 @@
         "wd:id":"Q1663"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5de10070e3d1e82c7be6bd7d5763478b",
     "wof:hierarchy":[
         {
@@ -466,7 +469,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647400,
+    "wof:lastmodified":1582318750,
     "wof:name":"Split",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

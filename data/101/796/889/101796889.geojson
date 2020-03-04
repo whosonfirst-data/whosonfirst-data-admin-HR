@@ -126,6 +126,9 @@
         "wk:page":"Dugopolje"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea78451c484cba4e2173812df881decb",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647347,
+    "wof:lastmodified":1582318741,
     "wof:name":"Dugopolje",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

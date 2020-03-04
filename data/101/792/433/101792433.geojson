@@ -109,6 +109,9 @@
         "wk:page":"Viljevo"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d21949f71f76ee6bbef7fbb207c5452f",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647415,
+    "wof:lastmodified":1582318752,
     "wof:name":"Viljevo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

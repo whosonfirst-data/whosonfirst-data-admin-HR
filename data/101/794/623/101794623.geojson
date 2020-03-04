@@ -158,6 +158,9 @@
         "wk:page":"Buzet"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"26fbe15c1d4abfae328d4271262edb04",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647396,
+    "wof:lastmodified":1582318749,
     "wof:name":"Buzet",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

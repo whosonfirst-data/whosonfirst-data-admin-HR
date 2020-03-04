@@ -111,6 +111,9 @@
         "wk:page":"Peteranec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a40db65d10d5c6e19adafb8c649953b7",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647343,
+    "wof:lastmodified":1582318741,
     "wof:name":"Peteranec",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

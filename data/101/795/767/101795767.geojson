@@ -145,6 +145,9 @@
         "wk:page":"Benkovac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0e0a69ac718469dde4fdee6a92ea27bc",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101795767,
-    "wof:lastmodified":1566647404,
+    "wof:lastmodified":1582318750,
     "wof:name":"Benkovac",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

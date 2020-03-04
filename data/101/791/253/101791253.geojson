@@ -97,6 +97,9 @@
         "wd:id":"Q1247234"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7eee406ad3f98d898cffb0bf78ead515",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101791253,
-    "wof:lastmodified":1566647344,
+    "wof:lastmodified":1582318741,
     "wof:name":"Reka",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

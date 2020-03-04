@@ -120,6 +120,9 @@
         "wk:page":"Dvor, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e259d730e9e5b8d7b37747a6fd167f62",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647359,
+    "wof:lastmodified":1582318743,
     "wof:name":"Dvor",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

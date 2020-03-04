@@ -105,6 +105,9 @@
         "wk:page":"Sibinj"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"34f38a5b7bd85a5da2bc1440d0301540",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647390,
+    "wof:lastmodified":1582318748,
     "wof:name":"Sibinj",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

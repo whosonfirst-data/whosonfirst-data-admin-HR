@@ -101,6 +101,9 @@
         "wk:page":"Njivice, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1c5affb97a809edaa716980a7e2c85f0",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101794603,
-    "wof:lastmodified":1566647393,
+    "wof:lastmodified":1582318748,
     "wof:name":"Njivice",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

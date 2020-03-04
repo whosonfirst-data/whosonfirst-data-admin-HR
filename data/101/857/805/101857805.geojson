@@ -88,6 +88,10 @@
         "wk:page":"Ko\u0161ute"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6c29451be2f39285a3e81e7bea666fb3",
     "wof:hierarchy":[
         {
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":101857805,
-    "wof:lastmodified":1566647362,
+    "wof:lastmodified":1582318743,
     "wof:name":"Ko\u0161ute",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

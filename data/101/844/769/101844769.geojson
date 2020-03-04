@@ -104,6 +104,9 @@
         "wk:page":"Supetarska Draga"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b6e234ec2b66461d09387753e4b5299",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101844769,
-    "wof:lastmodified":1566647356,
+    "wof:lastmodified":1582318742,
     "wof:name":"Supetarska Draga",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

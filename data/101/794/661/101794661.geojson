@@ -144,6 +144,9 @@
         "wk:page":"Kraljevica"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc6cf91a81cd5003d55ee50effd710f2",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647393,
+    "wof:lastmodified":1582318748,
     "wof:name":"Kraljevica",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

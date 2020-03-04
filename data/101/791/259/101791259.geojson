@@ -117,6 +117,9 @@
         "wk:page":"Hlebine"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fa1a7857f21c95f6c693f9958c22250b",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647340,
+    "wof:lastmodified":1582318740,
     "wof:name":"Hlebine",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

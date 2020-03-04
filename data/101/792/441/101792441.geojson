@@ -108,6 +108,9 @@
         "wk:page":"Rovi\u0161\u0107e"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04e9f150834e3d91bca66f0326e7b2a7",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647409,
+    "wof:lastmodified":1582318751,
     "wof:name":"Rovi\u0161\u0107e",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

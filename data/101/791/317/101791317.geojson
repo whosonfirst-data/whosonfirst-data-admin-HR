@@ -151,6 +151,9 @@
         "wd:id":"Q396474"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f6bbd37266f9aafaaf541ce44e20c71b",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647346,
+    "wof:lastmodified":1582318741,
     "wof:name":"Ludbreg",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

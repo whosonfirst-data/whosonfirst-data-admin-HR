@@ -68,6 +68,9 @@
         "gp:id":847951
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7111ba9d05e6c1fe394b93d1493da973",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566646755,
+    "wof:lastmodified":1582318727,
     "wof:name":"Gornji Rukavac",
     "wof:parent_id":101758587,
     "wof:placetype":"neighbourhood",

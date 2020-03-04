@@ -111,6 +111,9 @@
         "wk:page":"Molve"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ef122bd9da931b8f21aae5ad31c8a75d",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647345,
+    "wof:lastmodified":1582318741,
     "wof:name":"Molve",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

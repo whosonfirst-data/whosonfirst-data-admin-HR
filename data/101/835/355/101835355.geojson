@@ -122,6 +122,9 @@
         "wk:page":"Suhopolje"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f4401dd46e5a0835514f1379f1c2fb7",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101835355,
-    "wof:lastmodified":1566647365,
+    "wof:lastmodified":1582318744,
     "wof:name":"Suhopolje",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

@@ -121,6 +121,9 @@
         "wd:id":"Q1017892"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d53594d4053b5e4c6f45c81495d6fd7",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101754511,
-    "wof:lastmodified":1566647337,
+    "wof:lastmodified":1582318740,
     "wof:name":"Sesvete",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

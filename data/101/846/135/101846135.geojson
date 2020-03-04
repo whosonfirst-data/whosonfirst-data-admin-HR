@@ -146,6 +146,9 @@
         "wk:page":"Cavtat"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b50d3af2bc29d94c17cec9eee5cd77b",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101846135,
-    "wof:lastmodified":1566647416,
+    "wof:lastmodified":1582318752,
     "wof:name":"Cavtat",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

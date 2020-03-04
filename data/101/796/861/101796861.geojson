@@ -92,6 +92,9 @@
         "wk:page":"\u017drnovo"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5f3d4c25580a2167d5c218829ac71844",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101796861,
-    "wof:lastmodified":1566647348,
+    "wof:lastmodified":1582318741,
     "wof:name":"\u017drnovo",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

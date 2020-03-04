@@ -86,6 +86,9 @@
         "wk:page":"Kerestinec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2909584bebadf538e572edc10da88c6a",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101844799,
-    "wof:lastmodified":1566647354,
+    "wof:lastmodified":1582318742,
     "wof:name":"Kerestinec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

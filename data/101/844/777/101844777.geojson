@@ -114,6 +114,9 @@
         "wk:page":"Velika, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f43bd62a3c245139c807563b1063daa2",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647355,
+    "wof:lastmodified":1582318742,
     "wof:name":"Velika",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

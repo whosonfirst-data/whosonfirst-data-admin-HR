@@ -304,6 +304,9 @@
         "wk:page":"Novalja"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"145afa60f3e529237039d43ed1f77b93",
     "wof:hierarchy":[
         {
@@ -317,7 +320,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647353,
+    "wof:lastmodified":1582318742,
     "wof:name":"Novalja",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

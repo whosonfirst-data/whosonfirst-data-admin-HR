@@ -117,6 +117,9 @@
         "wk:page":"Nijemci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b9e474ae04184fee200cef0b685cc21",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647391,
+    "wof:lastmodified":1582318748,
     "wof:name":"Nijemci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

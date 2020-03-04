@@ -337,6 +337,9 @@
         "wd:id":"Q272009"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6a26f0787f59158303fd2c012336b55b",
     "wof:hierarchy":[
         {
@@ -350,7 +353,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647351,
+    "wof:lastmodified":1582318742,
     "wof:name":"Makarska",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -116,6 +116,9 @@
         "wk:page":"Gori\u010dan"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"70871f5b0053f208c47e1dcad2e59db9",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101790191,
-    "wof:lastmodified":1566647335,
+    "wof:lastmodified":1582318740,
     "wof:name":"Gori\u010dan",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

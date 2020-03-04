@@ -114,6 +114,9 @@
         "wk:page":"Brckovljani"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea5c4bac90a6ae7e8c9b7eab2941cc2c",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647410,
+    "wof:lastmodified":1582318751,
     "wof:name":"Brckovljani",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

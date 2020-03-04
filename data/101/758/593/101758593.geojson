@@ -200,6 +200,9 @@
         "wd:id":"Q223353"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"db86fb139b87c6d7943627ddc6dd772c",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647388,
+    "wof:lastmodified":1582318747,
     "wof:name":"Opatija",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

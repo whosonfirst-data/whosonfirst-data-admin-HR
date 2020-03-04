@@ -178,6 +178,9 @@
         "wk:page":"Labin"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"21d37db96d87ab9f765ba3ebda1606e7",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647420,
+    "wof:lastmodified":1582318752,
     "wof:name":"Labin",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

@@ -108,6 +108,9 @@
         "wk:page":"Cernik, Brod-Posavina County"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d1f76c1dba137b4b2bf72df8168cdbd",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647372,
+    "wof:lastmodified":1582318745,
     "wof:name":"Cernik",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

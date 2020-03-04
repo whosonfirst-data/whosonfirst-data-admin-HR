@@ -149,6 +149,9 @@
         "wd:id":"Q396512"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fca82eda4a2bdbbca6a61a406c9e4436",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647386,
+    "wof:lastmodified":1582318747,
     "wof:name":"Petrinja",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

@@ -154,6 +154,9 @@
         "wk:page":"Donji Miholjac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8d494a6265db4f9690bfc8c7646657a1",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647415,
+    "wof:lastmodified":1582318752,
     "wof:name":"Donji Miholjac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

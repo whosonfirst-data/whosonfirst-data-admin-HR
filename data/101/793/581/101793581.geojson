@@ -108,6 +108,9 @@
         "wk:page":"Gorjani"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"51f92671b0bcc9467759630f5127fdf2",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647382,
+    "wof:lastmodified":1582318746,
     "wof:name":"Gorjani",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

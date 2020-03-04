@@ -111,6 +111,9 @@
         "wk:page":"\u0160enkovec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3692e9d54ab5131c34c6676bb2e401d9",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101834375,
-    "wof:lastmodified":1566647377,
+    "wof:lastmodified":1582318746,
     "wof:name":"\u0160enkovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

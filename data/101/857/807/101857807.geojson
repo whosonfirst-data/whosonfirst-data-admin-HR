@@ -52,6 +52,9 @@
         "qs_pg:id":4
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"74b4c1bad38fe09d62a894c3dfa55e45",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101857807,
-    "wof:lastmodified":1566647363,
+    "wof:lastmodified":1582318744,
     "wof:name":"Cista Velika",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

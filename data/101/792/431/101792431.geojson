@@ -104,6 +104,9 @@
         "wk:page":"Ko\u0161ka"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"03011c2baf5debd83cb8288afe9db7bb",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101792431,
-    "wof:lastmodified":1566647410,
+    "wof:lastmodified":1582318751,
     "wof:name":"Ko\u0161ka",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

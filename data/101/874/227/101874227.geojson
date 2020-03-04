@@ -97,6 +97,10 @@
         "wk:page":"Brnaze"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9d1d47fa0e9a06466d083ba75f4e39e8",
     "wof:hierarchy":[
         {
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":101874227,
-    "wof:lastmodified":1566647352,
+    "wof:lastmodified":1582318742,
     "wof:name":"Brnaze",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

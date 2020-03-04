@@ -111,6 +111,9 @@
         "wk:page":"Ferdinandovac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec77283eefd00cef98b62b75648de24d",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647340,
+    "wof:lastmodified":1582318740,
     "wof:name":"Ferdinandovac",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

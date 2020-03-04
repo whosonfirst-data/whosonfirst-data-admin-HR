@@ -102,6 +102,9 @@
         "wk:page":"Bilice, \u0160ibenik-Knin County"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c0288e404d4c9be33287b8b35d686bcb",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101836429,
-    "wof:lastmodified":1566647420,
+    "wof:lastmodified":1582318752,
     "wof:name":"Bilice",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

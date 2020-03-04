@@ -86,6 +86,9 @@
         "qs_pg:id":1044039
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f3b614cabeedabed9e16fab71e029e7",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101835349,
-    "wof:lastmodified":1566647368,
+    "wof:lastmodified":1582318745,
     "wof:name":"Ka\u0161ina",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

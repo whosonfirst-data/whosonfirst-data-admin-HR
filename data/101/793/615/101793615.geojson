@@ -111,6 +111,9 @@
         "wk:page":"Sira\u010d"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4cb718b54441674f867de3c40a427b05",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647385,
+    "wof:lastmodified":1582318747,
     "wof:name":"Sira\u010d",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

@@ -91,6 +91,9 @@
         "qs_pg:id":581588
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8eabac8addbcd11a3d041939f5c6750d",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101835381,
-    "wof:lastmodified":1566647374,
+    "wof:lastmodified":1582318745,
     "wof:name":"Strmec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

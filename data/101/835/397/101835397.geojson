@@ -120,6 +120,9 @@
         "wk:page":"\u010cepin"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74909c200a91f01c52d6704b8d6666d4",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647365,
+    "wof:lastmodified":1582318744,
     "wof:name":"\u010cepin",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

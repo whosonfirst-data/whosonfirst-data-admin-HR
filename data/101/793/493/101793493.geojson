@@ -117,6 +117,9 @@
         "wk:page":"Negoslavci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae07a06a9190202d38ec5538249295fc",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647385,
+    "wof:lastmodified":1582318747,
     "wof:name":"Negoslavci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

@@ -108,6 +108,9 @@
         "wk:page":"Jarmina"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"259f2751cd7d569dbc820aafd9fb4dcc",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647384,
+    "wof:lastmodified":1582318747,
     "wof:name":"Jarmina",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

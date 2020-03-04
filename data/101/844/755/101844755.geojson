@@ -107,6 +107,9 @@
         "wk:page":"Pola\u010da"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"17dca95d339f4d23d9751f96435f53ce",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101844755,
-    "wof:lastmodified":1566647354,
+    "wof:lastmodified":1582318742,
     "wof:name":"Pola\u010da",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

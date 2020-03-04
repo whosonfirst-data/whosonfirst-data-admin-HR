@@ -129,6 +129,9 @@
         "wk:page":"Brinje"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"136e0733b09dd90ec25164da4391bb68",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101792341,
-    "wof:lastmodified":1566647411,
+    "wof:lastmodified":1582318751,
     "wof:name":"Brinje",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

@@ -95,6 +95,9 @@
         "wk:page":"Osekovo"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb79794267fd86243bd77e504a036f68",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101793531,
-    "wof:lastmodified":1566647384,
+    "wof:lastmodified":1582318747,
     "wof:name":"Osekovo",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

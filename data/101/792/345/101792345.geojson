@@ -100,6 +100,9 @@
         "qs_pg:id":1087875
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"55bef86e22549c6388aad318b42b4d64",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101792345,
-    "wof:lastmodified":1566647415,
+    "wof:lastmodified":1582318752,
     "wof:name":"Lu\u010dko",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

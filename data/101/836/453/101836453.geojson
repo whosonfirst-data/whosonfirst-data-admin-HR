@@ -104,6 +104,9 @@
         "wk:page":"Selce, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"42c1be790eccd8a392bf93a30e9aebee",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101836453,
-    "wof:lastmodified":1566647419,
+    "wof:lastmodified":1582318752,
     "wof:name":"Selce",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

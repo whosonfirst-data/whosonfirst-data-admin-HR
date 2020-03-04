@@ -282,6 +282,9 @@
         "qs_pg:id":1174971
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9775b1b6f0ea10904470e1768636ba30",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647364,
+    "wof:lastmodified":1582318744,
     "wof:name":"Po\u017eega",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

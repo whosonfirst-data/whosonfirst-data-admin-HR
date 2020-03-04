@@ -107,6 +107,9 @@
         "wk:page":"Orehovica, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"44dcdde62d5c74f240a23b0f3c5a0110",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101790167,
-    "wof:lastmodified":1566647334,
+    "wof:lastmodified":1582318740,
     "wof:name":"Orehovica",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

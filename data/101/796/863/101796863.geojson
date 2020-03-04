@@ -188,6 +188,9 @@
         "wk:page":"Kor\u010dula (town)"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e1040eba34586ebc855ccb6654d4ef73",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647352,
+    "wof:lastmodified":1582318742,
     "wof:name":"Kor\u010dula",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

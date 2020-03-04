@@ -122,6 +122,9 @@
         "wk:page":"Posedarje"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7e71db52a4da1e14d02480b454811857",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101795761,
-    "wof:lastmodified":1566647405,
+    "wof:lastmodified":1582318750,
     "wof:name":"Posedarje",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

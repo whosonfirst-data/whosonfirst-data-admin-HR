@@ -169,6 +169,9 @@
         "wk:page":"Beli Manastir"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"31f681cd5752a75ffdf333c39d5b2ca3",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647377,
+    "wof:lastmodified":1582318746,
     "wof:name":"Beli Manastir",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

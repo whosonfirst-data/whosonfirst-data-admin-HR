@@ -202,6 +202,9 @@
         "wd:id":"Q331141"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9567532a9f16947677d042bcda8d290a",
     "wof:hierarchy":[
         {
@@ -215,7 +218,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647368,
+    "wof:lastmodified":1582318745,
     "wof:name":"Velika Gorica",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

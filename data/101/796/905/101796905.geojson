@@ -86,6 +86,9 @@
         "wk:page":"Mravince"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"08df79548672864f4757166e4da2a999",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101796905,
-    "wof:lastmodified":1566647350,
+    "wof:lastmodified":1582318741,
     "wof:name":"Mravince",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

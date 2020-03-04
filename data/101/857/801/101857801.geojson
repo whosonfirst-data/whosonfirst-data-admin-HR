@@ -97,6 +97,10 @@
         "wk:page":"Komin, Dubrovnik-Neretva County"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"feabce157ade8da004dc36f418d85cb4",
     "wof:hierarchy":[
         {
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":101857801,
-    "wof:lastmodified":1566647363,
+    "wof:lastmodified":1582318744,
     "wof:name":"Komin",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

@@ -231,6 +231,9 @@
         "wk:page":"Koprivnica"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5990769e55cce762a92d357f81cab91f",
     "wof:hierarchy":[
         {
@@ -244,7 +247,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647375,
+    "wof:lastmodified":1582318745,
     "wof:name":"Koprivnica",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

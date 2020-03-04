@@ -237,6 +237,9 @@
         "wd:id":"Q3549"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2b946ed20cb18dc03eb4f518d9665e41",
     "wof:hierarchy":[
         {
@@ -247,7 +250,7 @@
         }
     ],
     "wof:id":101857823,
-    "wof:lastmodified":1566647362,
+    "wof:lastmodified":1582318743,
     "wof:name":"Dubrava kod \u0160ibenika",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

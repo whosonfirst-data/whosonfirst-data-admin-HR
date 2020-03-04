@@ -272,6 +272,9 @@
         "wk:page":"Sarva\u0161"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"87c5a8509af8a6f089cdee36b1313a72",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":101792427,
-    "wof:lastmodified":1566647413,
+    "wof:lastmodified":1582318752,
     "wof:name":"Sarva\u0161",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

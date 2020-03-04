@@ -340,6 +340,9 @@
         "wd:id":"Q3549"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eec40489040b73b9f64f7ebc3052d660",
     "wof:hierarchy":[
         {
@@ -350,7 +353,7 @@
         }
     ],
     "wof:id":101836427,
-    "wof:lastmodified":1566647420,
+    "wof:lastmodified":1582318752,
     "wof:name":"\u0160ibenik",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

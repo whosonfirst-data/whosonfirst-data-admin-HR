@@ -223,6 +223,9 @@
         "wk:page":"\u010cakovec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b226d50b4be93a41b0bb15c9c6eb7c5",
     "wof:hierarchy":[
         {
@@ -233,7 +236,7 @@
         }
     ],
     "wof:id":101834371,
-    "wof:lastmodified":1566647375,
+    "wof:lastmodified":1582318745,
     "wof:name":"\u010cakovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

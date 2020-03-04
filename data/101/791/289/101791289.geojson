@@ -148,6 +148,9 @@
         "wk:page":"Lepoglava"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa2af172e3930a2d522c4520d936f2ce",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647339,
+    "wof:lastmodified":1582318740,
     "wof:name":"Lepoglava",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

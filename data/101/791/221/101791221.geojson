@@ -113,6 +113,9 @@
         "wk:page":"Batina"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"29440ec4d73a33697e4bec6786e4c1f8",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101791221,
-    "wof:lastmodified":1566647339,
+    "wof:lastmodified":1582318740,
     "wof:name":"Batina",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

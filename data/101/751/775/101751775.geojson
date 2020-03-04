@@ -448,6 +448,9 @@
         "wd:id":"Q1647"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"641d417616fa22459e27ed86aa0d8254",
     "wof:hierarchy":[
         {
@@ -458,7 +461,7 @@
         }
     ],
     "wof:id":101751775,
-    "wof:lastmodified":1566647401,
+    "wof:lastmodified":1582318750,
     "wof:name":"Rijeka",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -86,6 +86,9 @@
         "wk:page":"Pojatno"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8187038cc35a6d56c4eb8881a018b3c4",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101792361,
-    "wof:lastmodified":1566647411,
+    "wof:lastmodified":1582318751,
     "wof:name":"Pojatno",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

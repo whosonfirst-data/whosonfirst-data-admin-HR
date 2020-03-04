@@ -50,6 +50,9 @@
         "qs_pg:id":1275689
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"67ca4631e67971e8e0cc1972f289fcd1",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101793575,
-    "wof:lastmodified":1566647382,
+    "wof:lastmodified":1582318746,
     "wof:name":"Velimirovac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

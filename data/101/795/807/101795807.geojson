@@ -121,6 +121,9 @@
         "wk:page":"Mar\u010dana"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"10d516bcfdabc3b844012a6b400433c2",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647406,
+    "wof:lastmodified":1582318750,
     "wof:name":"Mar\u010dana",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

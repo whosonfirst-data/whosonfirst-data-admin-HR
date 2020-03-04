@@ -126,6 +126,9 @@
         "wk:page":"Legrad"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"215673d278af027909a2d41dc7b4a036",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647339,
+    "wof:lastmodified":1582318740,
     "wof:name":"Legrad",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

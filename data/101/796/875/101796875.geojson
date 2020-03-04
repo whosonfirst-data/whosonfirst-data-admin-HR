@@ -185,6 +185,9 @@
         "wk:page":"Metkovi\u0107"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9e1376390fa390194cf7cb0ae84082d8",
     "wof:hierarchy":[
         {
@@ -198,7 +201,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647348,
+    "wof:lastmodified":1582318741,
     "wof:name":"Metkovi\u0107",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

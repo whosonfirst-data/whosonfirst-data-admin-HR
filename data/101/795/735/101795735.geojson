@@ -131,6 +131,9 @@
         "wk:page":"Ugljan"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ccc733a3247feadb68557cc85190b400",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101795735,
-    "wof:lastmodified":1566647405,
+    "wof:lastmodified":1582318750,
     "wof:name":"Ugljan",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

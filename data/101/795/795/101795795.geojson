@@ -210,6 +210,9 @@
         "wk:page":"Gospi\u0107"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"246e71195c1445a10c92071337b6bf16",
     "wof:hierarchy":[
         {
@@ -223,7 +226,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647405,
+    "wof:lastmodified":1582318750,
     "wof:name":"Gospi\u0107",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

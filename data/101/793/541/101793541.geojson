@@ -330,7 +330,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1915,
@@ -351,6 +352,10 @@
         "qs_pg:id":528878
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"8b2a8b28de0d9aa42ea25148b73761f3",
     "wof:hierarchy":[
         {
@@ -361,7 +366,7 @@
         }
     ],
     "wof:id":101793541,
-    "wof:lastmodified":1566647386,
+    "wof:lastmodified":1582318747,
     "wof:name":"Karlovac",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

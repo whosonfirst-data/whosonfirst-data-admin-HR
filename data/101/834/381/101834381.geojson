@@ -110,6 +110,9 @@
         "wk:page":"Pribislavec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6367ad25b9792aad27a292ed2c37b062",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101834381,
-    "wof:lastmodified":1566647377,
+    "wof:lastmodified":1582318746,
     "wof:name":"Pribislavec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

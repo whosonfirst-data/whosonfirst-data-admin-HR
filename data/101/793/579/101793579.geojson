@@ -114,6 +114,9 @@
         "wk:page":"Vladislavci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7675454b0b7fa3572085874fe182b610",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647387,
+    "wof:lastmodified":1582318747,
     "wof:name":"Vladislavci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

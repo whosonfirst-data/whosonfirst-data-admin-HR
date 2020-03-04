@@ -110,6 +110,10 @@
         "wk:page":"Radoboj"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e3ace85d255f049289b2674a27956735",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647361,
+    "wof:lastmodified":1582318743,
     "wof:name":"Radoboj",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

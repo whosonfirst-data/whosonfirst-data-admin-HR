@@ -107,6 +107,10 @@
         "wk:page":"\u010crnomerec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fbb0284ec3dda1744672efb66002f334",
     "wof:hierarchy":[
         {
@@ -121,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566646756,
+    "wof:lastmodified":1582318728,
     "wof:name":"Crnomerec",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

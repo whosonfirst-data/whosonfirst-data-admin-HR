@@ -113,6 +113,9 @@
         "wk:page":"Kali, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2e30f176d0101a0025e5ec96cc18e3a1",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101844751,
-    "wof:lastmodified":1566647356,
+    "wof:lastmodified":1582318742,
     "wof:name":"Kali",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

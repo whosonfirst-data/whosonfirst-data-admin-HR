@@ -89,6 +89,9 @@
         "wk:page":"Bistrinci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d21c23eb86fbbb7f84a3345158d15a61",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101835407,
-    "wof:lastmodified":1566647367,
+    "wof:lastmodified":1582318744,
     "wof:name":"Bistrinci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

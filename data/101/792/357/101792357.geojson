@@ -149,6 +149,9 @@
         "wd:id":"Q991263"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e384c6a6452f12c192f938fcd4a3f70b",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101792357,
-    "wof:lastmodified":1566647412,
+    "wof:lastmodified":1582318751,
     "wof:name":"Slatina",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

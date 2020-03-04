@@ -89,6 +89,9 @@
         "wk:page":"Gradi\u0107i"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fac6ca8fe7f99df811736303724d680a",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101835379,
-    "wof:lastmodified":1566647367,
+    "wof:lastmodified":1582318744,
     "wof:name":"Gradi\u0107i",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

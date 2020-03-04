@@ -148,6 +148,9 @@
         "wd:id":"Q396518"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2c283f58ad33973911eef169292b995e",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647382,
+    "wof:lastmodified":1582318746,
     "wof:name":"Ozalj",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

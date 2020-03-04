@@ -119,6 +119,9 @@
         "wk:page":"Kotoriba"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9633f77cff0241201865fc5af44c96a7",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101790193,
-    "wof:lastmodified":1566647334,
+    "wof:lastmodified":1582318740,
     "wof:name":"Kotoriba",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

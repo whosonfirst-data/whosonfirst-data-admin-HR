@@ -167,6 +167,9 @@
         "wk:page":"Bakar"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"29af15c9af89538f7865f1d957f17954",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647397,
+    "wof:lastmodified":1582318749,
     "wof:name":"Bakar",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

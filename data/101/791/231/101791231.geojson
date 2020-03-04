@@ -131,6 +131,9 @@
         "wk:page":"Zlatar, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f3844e3062333a886f2d56a3753d02a2",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101791231,
-    "wof:lastmodified":1566647344,
+    "wof:lastmodified":1582318741,
     "wof:name":"Zlatar",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

@@ -101,6 +101,9 @@
         "wk:page":"Vi\u0161kovci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e1f29688f1d5ad5bf0cda4e9c8970395",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101793587,
-    "wof:lastmodified":1566647383,
+    "wof:lastmodified":1582318747,
     "wof:name":"Vi\u0161kovci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

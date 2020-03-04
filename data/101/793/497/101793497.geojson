@@ -83,6 +83,9 @@
         "wk:page":"Ila\u010da"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8da04e085bfcc24635821d94ab996b6b",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101793497,
-    "wof:lastmodified":1566647381,
+    "wof:lastmodified":1582318746,
     "wof:name":"Ila\u010da",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

@@ -239,6 +239,9 @@
         "wk:page":"Rovinj"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0ef7c343a74cd53e2a67ffcd815f9c85",
     "wof:hierarchy":[
         {
@@ -252,7 +255,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647403,
+    "wof:lastmodified":1582318750,
     "wof:name":"Rovinj",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

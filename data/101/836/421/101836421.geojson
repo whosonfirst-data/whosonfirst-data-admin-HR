@@ -170,6 +170,9 @@
         "wk:page":"Imotski"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e003ea17f439df45194e18d8afb40272",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647419,
+    "wof:lastmodified":1582318752,
     "wof:name":"Imotski",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

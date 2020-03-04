@@ -79,6 +79,9 @@
         "wk:page":"Kupine\u010dki Kraljevec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b38fdb3e62d4a1a2f444cc77f0a1b1e",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101857841,
-    "wof:lastmodified":1566647362,
+    "wof:lastmodified":1582318743,
     "wof:name":"Kupine\u010dki Kraljevec",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

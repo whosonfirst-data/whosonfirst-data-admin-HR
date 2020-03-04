@@ -83,6 +83,9 @@
         "wk:page":"Lu\u017eani, Brod-Posavina County"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4426addd873e6303522d18229c6303cc",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101835283,
-    "wof:lastmodified":1566647371,
+    "wof:lastmodified":1582318745,
     "wof:name":"Lu\u017eani",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

@@ -82,6 +82,9 @@
         "wd:id":"Q2061992"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2b412feaa503e966fce1c3c83325847b",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101857849,
-    "wof:lastmodified":1566647362,
+    "wof:lastmodified":1582318743,
     "wof:name":"Veliko Polje",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

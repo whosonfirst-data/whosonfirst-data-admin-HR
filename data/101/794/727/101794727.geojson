@@ -122,6 +122,9 @@
         "wd:id":"Q615197"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f03f9cec69f63ebbcda37f8ac34c6d85",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647399,
+    "wof:lastmodified":1582318749,
     "wof:name":"Vojni\u0107",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

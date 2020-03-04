@@ -120,6 +120,9 @@
         "wk:page":"Darda, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7b9118f17f5cdf1a10a13e329ef02403",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647409,
+    "wof:lastmodified":1582318751,
     "wof:name":"Darda",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

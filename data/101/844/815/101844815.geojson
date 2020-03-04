@@ -92,6 +92,9 @@
         "wk:page":"Ivanovec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c9b71def020ffff93136faf3a19b42a3",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101844815,
-    "wof:lastmodified":1566647357,
+    "wof:lastmodified":1582318743,
     "wof:name":"Ivanovec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

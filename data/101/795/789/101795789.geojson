@@ -112,6 +112,9 @@
         "qs_pg:id":983679
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"894e5c36166865ea4457a82043fcd7fd",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101795789,
-    "wof:lastmodified":1566647407,
+    "wof:lastmodified":1582318751,
     "wof:name":"Korenica",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

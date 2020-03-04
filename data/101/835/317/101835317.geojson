@@ -100,6 +100,9 @@
         "wd:id":"Q1061110"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d91811e71db20c7dd6f253bc1a21d60c",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101835317,
-    "wof:lastmodified":1566647373,
+    "wof:lastmodified":1582318745,
     "wof:name":"Mirkovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

@@ -152,6 +152,10 @@
         "wk:page":"Susak"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"78d85afd806ed14ded5f5189e7be013e",
     "wof:hierarchy":[
         {
@@ -166,7 +170,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566646755,
+    "wof:lastmodified":1582318727,
     "wof:name":"Su\u00b5ak",
     "wof:parent_id":101751775,
     "wof:placetype":"neighbourhood",

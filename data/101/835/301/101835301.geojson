@@ -89,6 +89,9 @@
         "wk:page":"Vidovci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7a5c3fc3ba89e552ce2155e1ef5b2a1a",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101835301,
-    "wof:lastmodified":1566647365,
+    "wof:lastmodified":1582318744,
     "wof:name":"Vidovci",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

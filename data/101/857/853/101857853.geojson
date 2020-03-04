@@ -111,6 +111,10 @@
         "wd:id":"Q4122037"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8846458a8468931f52cf1ee68207b11",
     "wof:hierarchy":[
         {
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":101857853,
-    "wof:lastmodified":1566647363,
+    "wof:lastmodified":1582318744,
     "wof:name":"Rude",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

@@ -105,6 +105,9 @@
         "wk:page":"Donji Andrijevci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a3e25309f5988ac549a2bd87d5b2b86e",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647398,
+    "wof:lastmodified":1582318749,
     "wof:name":"Donji Andrijevci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

@@ -107,6 +107,9 @@
         "wk:page":"\u010ca\u010dinci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"abfc9d8c6d0608adc9ced3831ae681b8",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101792359,
-    "wof:lastmodified":1566647412,
+    "wof:lastmodified":1582318751,
     "wof:name":"\u010ca\u010dinci",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

@@ -83,6 +83,9 @@
         "wk:page":"Retkovci"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f57a1b5b367cfc069d24f44e4dcec79f",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101793507,
-    "wof:lastmodified":1566647384,
+    "wof:lastmodified":1582318747,
     "wof:name":"Retkovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

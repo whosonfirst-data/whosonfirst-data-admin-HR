@@ -150,6 +150,9 @@
         "wk:page":"Vodnjan"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b781fa8c97b4846eefcddc55e41277ec",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647406,
+    "wof:lastmodified":1582318751,
     "wof:name":"Vodnjan",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

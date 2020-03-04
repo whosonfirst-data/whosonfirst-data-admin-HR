@@ -96,6 +96,9 @@
         "wk:page":"Ceri\u0107"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6837c5df699a00269710ff2dff2f4648",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101793487,
-    "wof:lastmodified":1566647385,
+    "wof:lastmodified":1582318747,
     "wof:name":"Ceri\u0107",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

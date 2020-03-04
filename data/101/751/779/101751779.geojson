@@ -421,6 +421,9 @@
         "wd:id":"Q1640"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"98e97a03d987e8bb49831095f65ebb31",
     "wof:hierarchy":[
         {
@@ -434,7 +437,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647400,
+    "wof:lastmodified":1582318749,
     "wof:name":"Osijek",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

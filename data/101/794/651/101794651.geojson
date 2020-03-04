@@ -123,6 +123,9 @@
         "wk:page":"Oku\u010dani"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5c19bbdbefd9594160d756594a6accc8",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647392,
+    "wof:lastmodified":1582318748,
     "wof:name":"Oku\u010dani",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

@@ -89,6 +89,9 @@
         "wk:page":"Karanac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6b522da057117791d58926e8aefaff8",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101792419,
-    "wof:lastmodified":1566647413,
+    "wof:lastmodified":1582318752,
     "wof:name":"Karanac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

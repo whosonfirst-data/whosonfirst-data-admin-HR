@@ -112,6 +112,9 @@
         "wk:page":"Klenovnik, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9f4c6bab37d8e175a24f36e70973d2fe",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647360,
+    "wof:lastmodified":1582318743,
     "wof:name":"Klenovnik",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

@@ -92,6 +92,9 @@
         "wk:page":"\u0160titar, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2303509fe0297e9d29225078d88a4d91",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101794691,
-    "wof:lastmodified":1566647398,
+    "wof:lastmodified":1582318749,
     "wof:name":"\u0160titar",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

@@ -151,6 +151,9 @@
         "wk:page":"Prelog, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fad0b1e9afafe587f914ee2f19d66da7",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101790187,
-    "wof:lastmodified":1566647334,
+    "wof:lastmodified":1582318740,
     "wof:name":"Prelog",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

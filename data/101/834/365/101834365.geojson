@@ -93,6 +93,9 @@
         "wk:page":"Jalkovec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c749bf59ea2ed38a70cb17ed2ec49b8f",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647374,
+    "wof:lastmodified":1582318745,
     "wof:name":"Jalkovec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

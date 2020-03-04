@@ -95,6 +95,9 @@
         "wk:page":"Tu\u017eno"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8a362523c4d67b65fdd62f07727d2d5",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101791291,
-    "wof:lastmodified":1566647345,
+    "wof:lastmodified":1582318741,
     "wof:name":"Tu\u017eno",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

@@ -79,6 +79,9 @@
         "wd:id":"Q846195"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d4936b538eef5287907a1af3b57ef9c8",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101857865,
-    "wof:lastmodified":1566647363,
+    "wof:lastmodified":1582318744,
     "wof:name":"Donja \u0160emnica",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

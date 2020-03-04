@@ -89,6 +89,9 @@
         "wk:page":"Josipovac"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"94f73f7970938b3fb19db9382e37ef34",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101758597,
-    "wof:lastmodified":1566647389,
+    "wof:lastmodified":1582318748,
     "wof:name":"Josipovac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

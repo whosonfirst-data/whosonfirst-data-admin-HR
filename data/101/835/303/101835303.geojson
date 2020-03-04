@@ -140,6 +140,9 @@
         "wk:page":"Pleternica"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"417baf92c9db7eec6ead8421f6fd81fb",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647370,
+    "wof:lastmodified":1582318745,
     "wof:name":"Pleternica",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

@@ -114,6 +114,9 @@
         "wk:page":"Lovas, Croatia"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a2106b4b58e776eb400d1a1bdcd1e128",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647355,
+    "wof:lastmodified":1582318742,
     "wof:name":"Lovas",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

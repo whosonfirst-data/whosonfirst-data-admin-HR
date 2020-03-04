@@ -134,6 +134,9 @@
         "wk:page":"Vir"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8c3c5d4aaf215669bab56cf25062910a",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101795749,
-    "wof:lastmodified":1566647403,
+    "wof:lastmodified":1582318750,
     "wof:name":"Vir",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

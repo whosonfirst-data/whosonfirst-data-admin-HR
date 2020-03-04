@@ -207,6 +207,9 @@
         "wd:id":"Q189161"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43e564c0c897bc7a0b2e5c560da01cda",
     "wof:hierarchy":[
         {
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":101836411,
-    "wof:lastmodified":1566647420,
+    "wof:lastmodified":1582318752,
     "wof:name":"Seget Donji",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -99,6 +99,9 @@
         "wk:page":"Kur\u0161anec"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"db2635c379af9c75b8e18ff4d742e011",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101858921,
-    "wof:lastmodified":1566647374,
+    "wof:lastmodified":1582318745,
     "wof:name":"Kur\u0161anec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

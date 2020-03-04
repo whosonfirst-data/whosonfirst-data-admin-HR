@@ -122,6 +122,9 @@
         "wk:page":"Pu\u010di\u0161\u0107a"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"25dc61d9c1267285f9c5ee26aa2dd476",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101857803,
-    "wof:lastmodified":1566647361,
+    "wof:lastmodified":1582318743,
     "wof:name":"Pu\u010di\u0161\u0107a",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

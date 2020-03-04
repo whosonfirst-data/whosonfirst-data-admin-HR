@@ -194,6 +194,9 @@
         "wk:page":"Supetar"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e01fa43e39f76942d82d7bb910c62f8f",
     "wof:hierarchy":[
         {
@@ -207,7 +210,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566647417,
+    "wof:lastmodified":1582318752,
     "wof:name":"Supetar",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

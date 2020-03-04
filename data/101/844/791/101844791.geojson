@@ -91,6 +91,9 @@
         "wd:id":"Q3442570"
     },
     "wof:country":"HR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f67bbc20211e46a99763c2f8882b2f9b",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101844791,
-    "wof:lastmodified":1566647354,
+    "wof:lastmodified":1582318742,
     "wof:name":"Voloder",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",
