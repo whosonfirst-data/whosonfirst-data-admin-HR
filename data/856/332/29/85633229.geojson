@@ -1101,9 +1101,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Croatia",
-        "digitalenvoy:country_code":[
-            191
-        ],
+        "digitalenvoy:country_code":191,
         "fb:id":"en.croatia",
         "fifa:id":"CRO",
         "fips:code":"HR",
@@ -1148,7 +1146,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1583529143,
+    "wof:lastmodified":1583797348,
     "wof:name":"Croatia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
