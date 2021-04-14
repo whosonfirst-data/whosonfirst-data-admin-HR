@@ -1191,7 +1191,8 @@
     "src:geom_alt":[
         "quattroshapes",
         "naturalearth",
-        "us-dshiu"
+        "us-dshiu",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -1253,7 +1254,8 @@
         "naturalearth",
         "quattroshapes",
         "naturalearth-display-terrestrial-zoom6",
-        "us-dshiu"
+        "us-dshiu",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"7c2a3d4a052bba3e54268708599f09ea",
     "wof:hierarchy":[
@@ -1270,7 +1272,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1617827766,
+    "wof:lastmodified":1618362161,
     "wof:name":"Croatia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
