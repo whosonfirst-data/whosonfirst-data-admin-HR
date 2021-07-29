@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Disputed areas of Croatia"
     ],
+    "name:fra_x_preferred":[
+        "Conflit des fronti\u00e8res slov\u00e9no-croates"
+    ],
     "qs:a0_lc":"N_A",
     "qs:a1_lc":"N_A",
     "qs:adm0":"Croatia",
@@ -63,7 +66,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1614893681,
+    "wof:lastmodified":1627522188,
     "wof:name":"Disputed areas of Croatia",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

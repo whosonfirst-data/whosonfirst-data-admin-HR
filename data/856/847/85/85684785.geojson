@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Inland waters of Croatia"
     ],
+    "name:fra_x_preferred":[
+        "Inland waters of Croatia"
+    ],
     "qs:a0":"Republika Hrvatska",
     "qs:a0_lc":"HR0000000",
     "qs:a1_lc":"N_A",
@@ -58,7 +61,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1614893681,
+    "wof:lastmodified":1627522189,
     "wof:name":"Inland waters of Croatia",
     "wof:parent_id":85633229,
     "wof:placetype":"region",
