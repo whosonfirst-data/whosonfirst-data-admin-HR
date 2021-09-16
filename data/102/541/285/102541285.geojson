@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.38333333,46.29416667,16.38333333,46.29416667",
+    "geom:bbox":"16.383333,46.294167,16.383333,46.294167",
     "geom:latitude":46.294167,
     "geom:longitude":16.383333,
     "iso:country":"HR",
@@ -24,6 +24,9 @@
     ],
     "name:eng_x_preferred":[
         "Vara\u017edin Airport"
+    ],
+    "name:eng_x_variant":[
+        "LDVA"
     ],
     "name:hrv_x_preferred":[
         "Zra\u010dna luka Vara\u017edin"
@@ -62,7 +65,7 @@
         "wd:id":"Q1433166"
     },
     "wof:country":"HR",
-    "wof:geomhash":"63a2e98bd7c636e049d37ce606645edf",
+    "wof:geomhash":"d2354394ab2bec6bb30cc23dfd0ed761",
     "wof:hierarchy":[
         {
             "campus_id":102541285,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102541285,
-    "wof:lastmodified":1566646637,
+    "wof:lastmodified":1631745213,
     "wof:name":"Varazdin Airport",
     "wof:parent_id":85684835,
     "wof:placetype":"campus",
@@ -83,10 +86,10 @@
     ]
 },
   "bbox": [
-    16.38333333,
-    46.29416667,
-    16.38333333,
-    46.29416667
+    16.383333,
+    46.294167,
+    16.383333,
+    46.294167
 ],
-  "geometry": {"coordinates":[16.38333333,46.29416667],"type":"Point"}
+  "geometry": {"coordinates":[16.383333,46.294167],"type":"Point"}
 }
