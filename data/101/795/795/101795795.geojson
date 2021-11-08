@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000777,
     "geom:area_square_m":6845942.690662,
-    "geom:bbox":"15.3386194921,44.5239760268,15.4018912878,44.5905675521",
+    "geom:bbox":"15.33861949209256,44.52397602676103,15.4018912878139,44.5905675520724",
     "geom:latitude":44.549465,
     "geom:longitude":15.373443,
     "gn:population":6118,
@@ -57,10 +57,10 @@
         "\u0393\u03ba\u03cc\u03c3\u03c0\u03b9\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
-        "Gosnidj"
+        "Gospi\u0107"
     ],
     "name:eng_x_variant":[
-        "Gospi\u0107"
+        "Gosnidj"
     ],
     "name:epo_x_preferred":[
         "Gospi\u0107"
@@ -226,7 +226,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582318750,
+    "wof:lastmodified":1636392704,
     "wof:name":"Gospi\u0107",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",
