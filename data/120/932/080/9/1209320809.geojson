@@ -46,8 +46,14 @@
     "name:deu_x_preferred":[
         "Vodice"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u062f\u06cc\u0633"
+    ],
     "name:fra_x_preferred":[
         "Vodice"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d3\u05d9\u05e1"
     ],
     "name:hrv_x_preferred":[
         "Vodice"
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1209320809,
-    "wof:lastmodified":1566647076,
+    "wof:lastmodified":1636495647,
     "wof:name":"Vodice",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

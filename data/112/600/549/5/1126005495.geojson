@@ -47,6 +47,9 @@
         "Klana"
     ],
     "name:hun_x_preferred":[
+        "Kanal"
+    ],
+    "name:hun_x_variant":[
         "Klana"
     ],
     "name:hye_x_preferred":[
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1126005495,
-    "wof:lastmodified":1566647519,
+    "wof:lastmodified":1636495651,
     "wof:name":"Kanal",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

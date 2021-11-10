@@ -36,6 +36,12 @@
     "name:ceb_x_preferred":[
         "Sveta Ana"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062a\u0627 \u0622\u0646\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d1\u05d8\u05d4 \u05d0\u05e0\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Sveta Ana"
     ],
@@ -53,6 +59,12 @@
     ],
     "name:swe_x_preferred":[
         "Sveta Ana"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u5b89\u5a1c"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u65af\u7dad\u5854\u5b89\u90a3"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -76,7 +88,7 @@
         }
     ],
     "wof:id":1343950549,
-    "wof:lastmodified":1566646699,
+    "wof:lastmodified":1636495643,
     "wof:name":"Sveta Ana",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

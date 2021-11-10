@@ -37,6 +37,9 @@
         "\u0160panovica"
     ],
     "name:hun_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:hun_x_variant":[
         "\u0160panovica"
     ],
     "name:slv_x_preferred":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1226827277,
-    "wof:lastmodified":1566647811,
+    "wof:lastmodified":1636495652,
     "wof:name":"Novo Selo",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

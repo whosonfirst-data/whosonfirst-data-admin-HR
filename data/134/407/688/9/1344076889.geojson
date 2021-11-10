@@ -195,6 +195,9 @@
         "\u0426\u0456\u043d\u0430"
     ],
     "name:vie_x_preferred":[
+        "Price"
+    ],
+    "name:vie_x_variant":[
         "Gi\u00e1 c\u1ea3"
     ],
     "src:geom":"geonames",
@@ -208,7 +211,7 @@
         "gn:id":3220539
     },
     "wof:country":"HR",
-    "wof:geomhash":"e7a514f67d6057d8bf4cf14f20684282",
+    "wof:geomhash":"9dfdd7568e9d25cc0e375bbbc4a9220e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":1344076889,
-    "wof:lastmodified":1566646675,
+    "wof:lastmodified":1636495643,
     "wof:name":"Price",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",
@@ -229,9 +232,9 @@
 },
   "bbox": [
     15.17389,
-    44.94889000000001,
+    44.94889,
     15.17389,
-    44.94889000000001
+    44.94889
 ],
-  "geometry": {"coordinates":[15.17389,44.94889000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.17389,44.94889],"type":"Point"}
 }

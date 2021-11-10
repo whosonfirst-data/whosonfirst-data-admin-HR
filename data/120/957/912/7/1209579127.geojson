@@ -45,6 +45,9 @@
     "name:fra_x_preferred":[
         "Kuzma"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d6\u05de\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Kuzma"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1209579127,
-    "wof:lastmodified":1566647068,
+    "wof:lastmodified":1636495646,
     "wof:name":"Kuzma",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",

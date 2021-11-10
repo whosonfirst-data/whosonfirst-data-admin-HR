@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Ribnica"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d1\u05e0\u05d9\u05e7\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Ribnica"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1125887989,
-    "wof:lastmodified":1566647494,
+    "wof:lastmodified":1636495650,
     "wof:name":"Ribnica",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",
