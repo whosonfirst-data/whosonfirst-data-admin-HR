@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000444,
     "geom:area_square_m":3831065.13038,
-    "geom:bbox":"18.1372332994,45.7495174265,18.1901540683,45.767813319",
+    "geom:bbox":"18.13723329935084,45.74951742651359,18.19015406832335,45.76781331899747",
     "geom:latitude":45.758756,
     "geom:longitude":18.167054,
     "gn:population":4,
@@ -36,10 +36,10 @@
         "Donji Miholjac"
     ],
     "name:eng_x_preferred":[
-        "Donja Miholjac"
+        "Donji Miholjac"
     ],
     "name:eng_x_variant":[
-        "Donji Miholjac"
+        "Donja Miholjac"
     ],
     "name:epo_x_preferred":[
         "Donji Miholjac"
@@ -170,7 +170,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582318752,
+    "wof:lastmodified":1641246902,
     "wof:name":"Donji Miholjac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",
