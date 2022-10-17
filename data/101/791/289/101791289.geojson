@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
     "geom:area_square_m":997563.047211,
-    "geom:bbox":"16.0327622792,46.2037063467,16.063847426,46.2133371909",
+    "geom:bbox":"16.03276227923965,46.20370634665045,16.06384742603103,46.21333719090177",
     "geom:latitude":46.208889,
     "geom:longitude":16.046562,
     "gn:population":4104,
@@ -39,11 +39,11 @@
         "Lepoglava"
     ],
     "name:eng_x_preferred":[
-        "Lepoglav"
+        "Lepoglava"
     ],
     "name:eng_x_variant":[
         "Lepoglov",
-        "Lepoglava"
+        "Lepoglav"
     ],
     "name:epo_x_preferred":[
         "Lepoglava"
@@ -164,7 +164,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582318740,
+    "wof:lastmodified":1666045080,
     "wof:name":"Lepoglava",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",
