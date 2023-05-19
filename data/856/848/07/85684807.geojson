@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"HR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Zadarska \u017eupanija",
+    "eurostat:name_local":"Zadarska \u017eupanija",
+    "eurostat:nuts_2021_id":"HR033",
+    "eurostat:nuts_2021_level_0":"",
+    "eurostat:nuts_2021_level_1":"",
+    "eurostat:nuts_2021_level_2":"",
+    "eurostat:nuts_2021_level_3":"HR033",
+    "eurostat:population":159725,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"3",
     "geom:area":0.408031,
-    "geom:area_square_m":3617621421.630149,
+    "geom:area_square_m":3617621544.537098,
     "geom:bbox":"14.58277,43.848182,16.2194,44.53847",
     "geom:latitude":44.191141,
     "geom:longitude":15.590486,
@@ -331,6 +345,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "unlc:subdivision":"HR-13",
     "wd:wordcount":809,
     "wof:belongsto":[
@@ -341,6 +357,7 @@
         85684785
     ],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"HR033",
         "fips:code":"HR19",
         "gn:id":3337530,
         "gp:id":12577989,
@@ -349,7 +366,7 @@
         "wd:id":"Q58146"
     },
     "wof:country":"HR",
-    "wof:geomhash":"c11cae7ed369044b1445a97c0275992e",
+    "wof:geomhash":"64843a9fefdfa316ddf3223cca0b5129",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -365,10 +382,12 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1614893679,
+    "wof:lastmodified":1684351628,
     "wof:name":"Zadarska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",
+    "wof:population":159725,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-hr",
     "wof:shortcode":"ZD",
     "wof:subdivision":"HR-13",
