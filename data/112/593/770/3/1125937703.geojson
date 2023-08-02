@@ -23,7 +23,19 @@
     "name:bos_x_preferred":[
         "Crna Mlaka"
     ],
+    "name:cat_x_preferred":[
+        "Crna Mlaka"
+    ],
+    "name:ces_x_preferred":[
+        "Crna Mlaka"
+    ],
+    "name:deu_x_preferred":[
+        "Crna Mlaka"
+    ],
     "name:eng_x_preferred":[
+        "Crna Mlaka"
+    ],
+    "name:fra_x_preferred":[
         "Crna Mlaka"
     ],
     "name:hrv_x_preferred":[
@@ -33,6 +45,12 @@
         "Crna Mlaka"
     ],
     "name:nld_x_preferred":[
+        "Crna Mlaka"
+    ],
+    "name:pol_x_preferred":[
+        "Crna Mlaka"
+    ],
+    "name:slk_x_preferred":[
         "Crna Mlaka"
     ],
     "name:slv_x_preferred":[
@@ -90,7 +108,7 @@
         }
     ],
     "wof:id":1125937703,
-    "wof:lastmodified":1566647468,
+    "wof:lastmodified":1690930513,
     "wof:name":"Crna Mlaka",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

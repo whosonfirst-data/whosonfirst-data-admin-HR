@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Brela"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0644\u0627"
+    ],
     "name:fra_x_preferred":[
         "Brela"
     ],
@@ -90,6 +93,9 @@
     ],
     "name:und_x_variant":[
         "Brela Donja"
+    ],
+    "name:vec_x_preferred":[
+        "Brella"
     ],
     "name:war_x_preferred":[
         "Brela"
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1125862671,
-    "wof:lastmodified":1566647490,
+    "wof:lastmodified":1690930538,
     "wof:name":"Brela",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

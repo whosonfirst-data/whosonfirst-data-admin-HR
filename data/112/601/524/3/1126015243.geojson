@@ -40,7 +40,13 @@
     "name:nld_x_preferred":[
         "Golubi\u0107"
     ],
+    "name:pol_x_preferred":[
+        "Golubi\u0107"
+    ],
     "name:slv_x_preferred":[
+        "Golubi\u0107"
+    ],
+    "name:spa_x_preferred":[
         "Golubi\u0107"
     ],
     "name:srp_x_preferred":[
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1126015243,
-    "wof:lastmodified":1566647517,
+    "wof:lastmodified":1690930571,
     "wof:name":"Golubi\u0107",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

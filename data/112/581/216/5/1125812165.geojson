@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Pro\u017eura"
     ],
+    "name:pol_x_preferred":[
+        "Pro\u017eura"
+    ],
     "name:slv_x_preferred":[
         "Pro\u017eura"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125812165,
-    "wof:lastmodified":1566647491,
+    "wof:lastmodified":1690930540,
     "wof:name":"Pro\u017eura",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

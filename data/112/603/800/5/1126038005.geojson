@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "\u0160emovec"
     ],
+    "name:pol_x_preferred":[
+        "\u0160emovec"
+    ],
     "name:slv_x_preferred":[
         "\u0160emovec"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1126038005,
-    "wof:lastmodified":1566647488,
+    "wof:lastmodified":1690930536,
     "wof:name":"\u0160emovec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

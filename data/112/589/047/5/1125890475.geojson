@@ -73,6 +73,9 @@
     "name:pol_x_preferred":[
         "Vrsar"
     ],
+    "name:por_x_preferred":[
+        "Vrsar"
+    ],
     "name:ron_x_preferred":[
         "Comuna Vrsar"
     ],
@@ -105,6 +108,9 @@
     ],
     "name:war_x_preferred":[
         "Vrsar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u5c14\u8428\u5c14"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":1125890475,
-    "wof:lastmodified":1566647496,
+    "wof:lastmodified":1690930546,
     "wof:name":"Vrsar",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

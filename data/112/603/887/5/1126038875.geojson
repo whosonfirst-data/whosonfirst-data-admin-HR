@@ -28,10 +28,16 @@
     "name:ceb_x_preferred":[
         "Lu\u010dko"
     ],
+    "name:ces_x_preferred":[
+        "Lu\u010dko"
+    ],
     "name:eng_x_preferred":[
         "Lu\u010dko"
     ],
     "name:hrv_x_preferred":[
+        "Lu\u010dko"
+    ],
+    "name:hun_x_preferred":[
         "Lu\u010dko"
     ],
     "name:ita_x_preferred":[
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1126038875,
-    "wof:lastmodified":1566647486,
+    "wof:lastmodified":1690930533,
     "wof:name":"La\u00b5ko",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

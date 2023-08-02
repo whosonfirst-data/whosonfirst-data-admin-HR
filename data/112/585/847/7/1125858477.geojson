@@ -37,10 +37,19 @@
     "name:hrv_x_preferred":[
         "Ku\u0161evac"
     ],
+    "name:hun_x_preferred":[
+        "Ku\u0161evac"
+    ],
     "name:nld_x_preferred":[
         "Ku\u0161evac"
     ],
+    "name:pol_x_preferred":[
+        "Ku\u0161evac"
+    ],
     "name:slv_x_preferred":[
+        "Ku\u0161evac"
+    ],
+    "name:spa_x_preferred":[
         "Ku\u0161evac"
     ],
     "name:srp_x_preferred":[
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1125858477,
-    "wof:lastmodified":1566647525,
+    "wof:lastmodified":1690930580,
     "wof:name":"Ku\u00b5evac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

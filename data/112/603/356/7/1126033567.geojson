@@ -34,6 +34,9 @@
     "name:ces_x_preferred":[
         "Tisno"
     ],
+    "name:deu_x_preferred":[
+        "Tisno"
+    ],
     "name:eng_x_preferred":[
         "Tisno"
     ],
@@ -75,6 +78,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0438\u0441\u043d\u043e"
+    ],
+    "name:vec_x_preferred":[
+        "Stretto"
     ],
     "name:war_x_preferred":[
         "Tisno"
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1126033567,
-    "wof:lastmodified":1566647487,
+    "wof:lastmodified":1690930535,
     "wof:name":"Tijesno",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

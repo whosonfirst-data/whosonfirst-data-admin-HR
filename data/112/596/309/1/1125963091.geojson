@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Podstra\u017eje"
     ],
+    "name:pol_x_preferred":[
+        "Podstra\u017eje"
+    ],
     "name:slv_x_preferred":[
         "Podstra\u017eje"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125963091,
-    "wof:lastmodified":1566647508,
+    "wof:lastmodified":1690930562,
     "wof:name":"Podstra\u017eje",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

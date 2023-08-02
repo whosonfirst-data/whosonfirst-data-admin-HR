@@ -43,6 +43,9 @@
     "name:nld_x_preferred":[
         "Dra\u010devica"
     ],
+    "name:pol_x_preferred":[
+        "Dra\u010devica"
+    ],
     "name:slk_x_preferred":[
         "Dra\u010devica"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125938275,
-    "wof:lastmodified":1566647466,
+    "wof:lastmodified":1690930510,
     "wof:name":"Dra\u010devica",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

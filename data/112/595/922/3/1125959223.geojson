@@ -34,6 +34,9 @@
     "name:hun_x_preferred":[
         "Ku\u010di\u0107e"
     ],
+    "name:pol_x_preferred":[
+        "Ku\u010di\u0107e"
+    ],
     "name:slv_x_preferred":[
         "Ku\u010di\u0107e"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125959223,
-    "wof:lastmodified":1566647477,
+    "wof:lastmodified":1690930523,
     "wof:name":"Ku\u010di\u0107e",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

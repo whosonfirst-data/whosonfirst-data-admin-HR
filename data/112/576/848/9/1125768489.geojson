@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Pupnat"
     ],
+    "name:pol_x_preferred":[
+        "Pupnat"
+    ],
     "name:slv_x_preferred":[
         "Pupnat"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125768489,
-    "wof:lastmodified":1566647521,
+    "wof:lastmodified":1690930575,
     "wof:name":"Pupnat",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

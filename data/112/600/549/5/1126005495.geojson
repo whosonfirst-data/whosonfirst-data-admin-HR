@@ -34,6 +34,9 @@
     "name:ceb_x_preferred":[
         "Klana"
     ],
+    "name:ces_x_preferred":[
+        "Klana"
+    ],
     "name:deu_x_preferred":[
         "Klana"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0430\u043d\u0430"
+    ],
+    "name:vec_x_preferred":[
+        "Clana"
     ],
     "name:war_x_preferred":[
         "Klana"
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1126005495,
-    "wof:lastmodified":1636495651,
+    "wof:lastmodified":1690930573,
     "wof:name":"Kanal",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

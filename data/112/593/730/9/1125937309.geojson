@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Katuni"
     ],
+    "name:ceb_x_preferred":[
+        "Katuni"
+    ],
     "name:eng_x_preferred":[
         "Katuni"
     ],
@@ -32,6 +35,9 @@
         "Katuni"
     ],
     "name:hun_x_preferred":[
+        "Katuni"
+    ],
+    "name:pol_x_preferred":[
         "Katuni"
     ],
     "name:slv_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0442\u0443\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Katuni"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0442\u0443\u043d\u0438"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1125937309,
-    "wof:lastmodified":1566647466,
+    "wof:lastmodified":1690930509,
     "wof:name":"Katuni",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

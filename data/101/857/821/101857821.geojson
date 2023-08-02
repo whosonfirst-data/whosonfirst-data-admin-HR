@@ -60,6 +60,9 @@
     "name:ita_x_preferred":[
         "Podstrana"
     ],
+    "name:lat_x_preferred":[
+        "Pituntium"
+    ],
     "name:nld_x_preferred":[
         "Podstrana"
     ],
@@ -86,6 +89,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0441\u0442\u0440\u0430\u043d\u0430"
+    ],
+    "name:vec_x_preferred":[
+        "Podstrana"
     ],
     "name:war_x_preferred":[
         "Podstrana"
@@ -145,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582318743,
+    "wof:lastmodified":1690930412,
     "wof:name":"Podstrana",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

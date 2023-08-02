@@ -24,17 +24,35 @@
     "name:ara_x_preferred":[
         "\u0648\u0642\u0627\u062d\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0641\u0638\u0627\u0638\u0629"
+    ],
     "name:arz_x_preferred":[
         "\u0648\u0642\u0627\u062d\u0629"
     ],
     "name:arz_x_variant":[
         "\u0642\u0644\u0629 \u0627\u062f\u0628"
     ],
+    "name:cat_x_preferred":[
+        "grolleria"
+    ],
+    "name:ces_x_preferred":[
+        "hrubost"
+    ],
+    "name:dan_x_preferred":[
+        "uforskammethed"
+    ],
+    "name:deu_x_preferred":[
+        "Unh\u00f6flichkeit"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "rudeness"
+    ],
+    "name:est_x_preferred":[
+        "Ebaviisakus"
     ],
     "name:eus_x_preferred":[
         "Zakarkeria"
@@ -44,6 +62,9 @@
     ],
     "name:fra_x_preferred":[
         "impolitesse"
+    ],
+    "name:gle_x_preferred":[
+        "d\u00edmh\u00faineadh"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05e1\u05d5\u05ea \u05e8\u05d5\u05d7"
@@ -56,6 +77,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0cb8\u0cad\u0ccd\u0caf\u0ca4\u0cc6"
+    ],
+    "name:nld_x_preferred":[
+        "onbeleefdheid"
     ],
     "name:pol_x_preferred":[
         "Chamstwo"
@@ -72,11 +96,15 @@
     "name:srp_x_preferred":[
         "\u0433\u0440\u0443\u0431\u043e\u0441\u0442"
     ],
+    "name:swe_x_preferred":[
+        "of\u00f6rsk\u00e4mdhet"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043c\u0441\u0442\u0432\u043e"
     ],
     "name:ukr_x_variant":[
-        "\u0414\u043e\u043d\u044f \u0428\u0435\u043c\u043d\u0438\u0446\u044f"
+        "\u0414\u043e\u043d\u044f \u0428\u0435\u043c\u043d\u0438\u0446\u044f",
+        "\u0445\u0430\u043c\u0441\u0442\u0432\u043e"
     ],
     "qs:a0":"Republika Hrvatska",
     "qs:a1":"*Zagrebacka \u017eupanija",
@@ -125,7 +153,7 @@
         }
     ],
     "wof:id":101857853,
-    "wof:lastmodified":1582318744,
+    "wof:lastmodified":1690930417,
     "wof:name":"Rude",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

@@ -45,6 +45,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u064a\u0633\u0627\u0643-\u0645\u0648\u0633\u0644\u0627\u0641\u064a\u0646\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Sisak-Moslavina jupaniyas\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0456\u0441\u0430\u0446\u043a\u0430-\u041c\u0430\u0441\u043b\u0430\u0432\u0456\u043d\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09b8\u09be\u0995-\u09ae\u09b8\u09cd\u09b2\u09be\u09ad\u09bf\u09a8\u09be \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
@@ -65,6 +71,9 @@
     ],
     "name:cor_x_preferred":[
         "Konteth Sisak-Moslavina"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Sisak-Moslavina"
     ],
     "name:dan_x_preferred":[
         "Sisak-Moslavina County"
@@ -105,6 +114,12 @@
     "name:fra_x_variant":[
         "Sisak-Moslavina"
     ],
+    "name:frr_x_preferred":[
+        "Sisak-Moslavina"
+    ],
+    "name:gle_x_preferred":[
+        "Contae Sisak-Moslavina"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0ab8\u0ac7\u0a95-\u0aae\u0acb\u0ab8\u0acd\u0ab2\u0abe\u0ab5\u0abf\u0aa8\u0abe \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
     ],
@@ -122,6 +137,9 @@
     ],
     "name:hun_x_preferred":[
         "Sziszek-Monoszl\u00f3 megye"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054d\u056b\u057d\u0561\u0584- \u0544\u0578\u057d\u056c\u0561\u057e\u056b\u0576\u0561"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Sisak-Moslavina"
@@ -205,6 +223,9 @@
     "name:slv_x_preferred":[
         "Sisa\u0161ko-moslava\u0161ka \u017eupanija"
     ],
+    "name:slv_x_variant":[
+        "Si\u0161ko-moslav\u0161ka \u017eupanija"
+    ],
     "name:sme_x_preferred":[
         "Sisak-Moslavina guovlu"
     ],
@@ -235,11 +256,17 @@
     "name:tha_x_preferred":[
         "\u0e34\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e44\u0e0b\u0e0b\u0e31\u0e01-\u0e21\u0e2d\u0e2a\u0e25\u0e32\u0e27\u0e34\u0e19\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e0b\u0e35\u0e0b\u0e31\u0e01-\u0e21\u0e47\u0e2d\u0e2a\u0e25\u0e32\u0e27\u0e34\u0e19\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Sisak-Moslavina"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0441\u0430\u0446\u044c\u043a\u043e-\u041c\u043e\u0441\u043b\u0430\u0432\u0456\u043d\u0441\u044c\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0438\u0441\u0430\u0446\u044c\u043a\u043e-\u041c\u043e\u0441\u043b\u0430\u0432\u0438\u043d\u0441\u044c\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
     ],
     "name:und_x_variant":[
         "Sisa\u010dko-Moslava\u010dka"
@@ -359,7 +386,7 @@
         "wd:id":"Q57060"
     },
     "wof:country":"HR",
-    "wof:geomhash":"78e72f6f3dc90ed169c2bf1457c20cfd",
+    "wof:geomhash":"01f641adfe8a723f25464293fe1a4f23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -375,7 +402,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1684351627,
+    "wof:lastmodified":1690930368,
     "wof:name":"Sisacko-moslavacka",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

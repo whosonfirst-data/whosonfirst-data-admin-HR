@@ -46,6 +46,9 @@
     "name:nld_x_preferred":[
         "Velika Barna"
     ],
+    "name:pol_x_preferred":[
+        "Velika Barna"
+    ],
     "name:slv_x_preferred":[
         "Velika Barna"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1126022861,
-    "wof:lastmodified":1566647482,
+    "wof:lastmodified":1690930528,
     "wof:name":"Velika Barna",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

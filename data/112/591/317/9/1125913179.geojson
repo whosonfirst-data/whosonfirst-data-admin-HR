@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Korni\u0107"
     ],
+    "name:ces_x_preferred":[
+        "Korni\u0107"
+    ],
     "name:eng_x_preferred":[
         "Korni\u0107"
     ],
@@ -44,6 +47,9 @@
         "Korni\u0107"
     ],
     "name:nld_x_preferred":[
+        "Korni\u0107"
+    ],
+    "name:pol_x_preferred":[
         "Korni\u0107"
     ],
     "name:slv_x_preferred":[
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1125913179,
-    "wof:lastmodified":1566647512,
+    "wof:lastmodified":1690930565,
     "wof:name":"Korni\u0107",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

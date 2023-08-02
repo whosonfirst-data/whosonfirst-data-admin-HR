@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Poljanec"
     ],
+    "name:pol_x_preferred":[
+        "Poljanec"
+    ],
     "name:slv_x_preferred":[
         "Poljanec"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125806531,
-    "wof:lastmodified":1566647499,
+    "wof:lastmodified":1690930549,
     "wof:name":"Polj\u010dane",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

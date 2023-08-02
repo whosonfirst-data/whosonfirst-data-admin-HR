@@ -49,6 +49,9 @@
     "name:ita_x_preferred":[
         "Lovinac"
     ],
+    "name:ita_x_variant":[
+        "Lovinaz"
+    ],
     "name:mkd_x_preferred":[
         "\u041b\u043e\u0432\u0438\u043d\u0430\u0446"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:und_x_variant":[
         "Lovinjac"
+    ],
+    "name:vec_x_preferred":[
+        "Lovinac"
     ],
     "name:war_x_preferred":[
         "Lovinac"
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":1125921029,
-    "wof:lastmodified":1566647472,
+    "wof:lastmodified":1690930516,
     "wof:name":"Lovinac",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

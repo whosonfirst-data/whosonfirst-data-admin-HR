@@ -34,6 +34,9 @@
     "name:ces_x_preferred":[
         "Kon\u010denice"
     ],
+    "name:ces_x_variant":[
+        "Kon\u010danica"
+    ],
     "name:eng_x_preferred":[
         "Kon\u010danica"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:und_x_variant":[
         "Konchanicza"
+    ],
+    "name:vec_x_preferred":[
+        "Kon\u010danica"
     ],
     "name:war_x_preferred":[
         "Kon\u010danica"
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":1126038055,
-    "wof:lastmodified":1566647487,
+    "wof:lastmodified":1690930534,
     "wof:name":"Kon\u010danica",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

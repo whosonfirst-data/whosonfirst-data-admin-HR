@@ -27,6 +27,9 @@
     "name:bos_x_preferred":[
         "Kur\u0161anec"
     ],
+    "name:cat_x_preferred":[
+        "Kur\u0161anec"
+    ],
     "name:ceb_x_preferred":[
         "Kur\u0161anec"
     ],
@@ -42,6 +45,9 @@
     "name:hbs_x_preferred":[
         "Kur\u0161anec"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05e9\u05e0\u05e5"
+    ],
     "name:hrv_x_preferred":[
         "Kur\u0161anec"
     ],
@@ -49,6 +55,9 @@
         "Zr\u00ednyifalva"
     ],
     "name:nld_x_preferred":[
+        "Kur\u0161anec"
+    ],
+    "name:pol_x_preferred":[
         "Kur\u0161anec"
     ],
     "name:rus_x_preferred":[
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":101858921,
-    "wof:lastmodified":1582318745,
+    "wof:lastmodified":1690930434,
     "wof:name":"Kur\u0161anec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

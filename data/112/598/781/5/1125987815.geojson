@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Kupari"
     ],
+    "name:ces_x_preferred":[
+        "Kupari"
+    ],
     "name:deu_x_preferred":[
         "Kupari"
     ],
@@ -44,6 +47,9 @@
         "Kupari"
     ],
     "name:nld_x_preferred":[
+        "Kupari"
+    ],
+    "name:pol_x_preferred":[
         "Kupari"
     ],
     "name:slv_x_preferred":[
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1125987815,
-    "wof:lastmodified":1566647515,
+    "wof:lastmodified":1690930569,
     "wof:name":"Kupari",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

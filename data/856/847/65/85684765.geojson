@@ -45,6 +45,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0632\u063a\u0631\u0628"
     ],
+    "name:aze_x_preferred":[
+        "Zaqreb jupaniyas\u0131"
+    ],
     "name:bar_x_preferred":[
         "Gspanschoft Zagreb"
     ],
@@ -71,6 +74,9 @@
     ],
     "name:cor_x_preferred":[
         "Konteth Zagreb"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Zagreb"
     ],
     "name:dan_x_preferred":[
         "Zagreb County"
@@ -141,6 +147,9 @@
     "name:hun_x_preferred":[
         "Z\u00e1gr\u00e1b megye"
     ],
+    "name:hyw_x_preferred":[
+        "\u0536\u0561\u0572\u0580\u0567\u057a"
+    ],
     "name:ind_x_preferred":[
         "Kabupaten Zagreb"
     ],
@@ -196,6 +205,9 @@
     "name:nor_x_preferred":[
         "Zagreb"
     ],
+    "name:oss_x_preferred":[
+        "\u0417\u0430\u0433\u0440\u0435\u0431\u044b \u0436\u0443\u043f\u0430\u043d\u0438"
+    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0632\u0627\u063a\u0631\u0628"
     ],
@@ -207,6 +219,9 @@
     ],
     "name:ron_x_preferred":[
         "Cantonul Zagreb"
+    ],
+    "name:ron_x_variant":[
+        "cantonul Zagreb"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u0433\u0440\u0435\u0431\u0430\u0447\u043a\u0430"
@@ -228,6 +243,12 @@
     ],
     "name:sme_x_preferred":[
         "Zagreb guovlu"
+    ],
+    "name:smn_x_preferred":[
+        "Zagreb pirr\u00e2d\u00e2hkodde"
+    ],
+    "name:sms_x_preferred":[
+        "Zagreb"
     ],
     "name:spa_x_preferred":[
         "Condado de Zagreb"
@@ -256,6 +277,9 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e40\u0e01\u0e23\u0e47\u0e1a"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e0b\u0e32\u0e40\u0e01\u0e23\u0e47\u0e1a"
+    ],
     "name:tur_x_preferred":[
         "Zagreb B\u00f6lgesi"
     ],
@@ -276,6 +300,9 @@
     ],
     "name:war_x_preferred":[
         "Zagreb"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8428\u683c\u52d2\u5e03\u53bf"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u683c\u52d2\u5e03\u7e23"
@@ -383,7 +410,7 @@
         "wd:id":"Q27038"
     },
     "wof:country":"HR",
-    "wof:geomhash":"c1bde506fd29399cd362e70288a5c753",
+    "wof:geomhash":"d3ec333815f1045667efade5e9395fc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -399,7 +426,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1684351627,
+    "wof:lastmodified":1690930370,
     "wof:name":"Zagrebacka",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

@@ -46,10 +46,16 @@
     "name:hun_x_preferred":[
         "Savudrija"
     ],
+    "name:ita_x_preferred":[
+        "Salvore"
+    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f4\u30c9\u30ea\u30a2"
     ],
     "name:nld_x_preferred":[
+        "Savudrija"
+    ],
+    "name:pol_x_preferred":[
         "Savudrija"
     ],
     "name:slv_x_preferred":[
@@ -66,6 +72,9 @@
     ],
     "name:und_x_variant":[
         "Mjesto Savudrija"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u543e\u5f97\u5229\u4e9e\u6d77\u5cac"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125994553,
-    "wof:lastmodified":1566647502,
+    "wof:lastmodified":1690930554,
     "wof:name":"Savudrija",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

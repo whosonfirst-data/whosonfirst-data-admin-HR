@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Lozovac"
     ],
+    "name:fra_x_preferred":[
+        "Lozovac"
+    ],
     "name:hrv_x_preferred":[
         "Lozovac"
     ],
@@ -40,7 +43,13 @@
     "name:nld_x_preferred":[
         "Lozovac"
     ],
+    "name:pol_x_preferred":[
+        "Lozovac"
+    ],
     "name:slv_x_preferred":[
+        "Lozovac"
+    ],
+    "name:spa_x_preferred":[
         "Lozovac"
     ],
     "name:srp_x_preferred":[
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1125995351,
-    "wof:lastmodified":1566647501,
+    "wof:lastmodified":1690930553,
     "wof:name":"Lozovac",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

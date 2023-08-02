@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Veli I\u017e"
     ],
+    "name:ces_x_preferred":[
+        "Veli I\u017e"
+    ],
     "name:deu_x_preferred":[
         "Veli I\u017e"
     ],
@@ -40,10 +43,19 @@
     "name:hun_x_preferred":[
         "Veli I\u017e"
     ],
+    "name:ita_x_preferred":[
+        "Eso Grande"
+    ],
     "name:nld_x_preferred":[
         "Veli I\u017e"
     ],
+    "name:pol_x_preferred":[
+        "Veli I\u017e"
+    ],
     "name:slv_x_preferred":[
+        "Veli I\u017e"
+    ],
+    "name:spa_x_preferred":[
         "Veli I\u017e"
     ],
     "name:srp_x_preferred":[
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":1125922079,
-    "wof:lastmodified":1566647475,
+    "wof:lastmodified":1690930520,
     "wof:name":"Veli I\u017e",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

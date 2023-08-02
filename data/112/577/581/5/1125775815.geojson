@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Gra\u010dec"
     ],
+    "name:ces_x_preferred":[
+        "Gra\u010dec"
+    ],
     "name:eng_x_preferred":[
         "Gra\u010dec"
     ],
@@ -38,6 +41,9 @@
         "Gra\u010dec"
     ],
     "name:nld_x_preferred":[
+        "Gra\u010dec"
+    ],
+    "name:pol_x_preferred":[
         "Gra\u010dec"
     ],
     "name:slv_x_preferred":[
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1125775815,
-    "wof:lastmodified":1566647530,
+    "wof:lastmodified":1690930585,
     "wof:name":"Gra\u010dec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

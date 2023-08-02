@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Brusje"
     ],
+    "name:deu_x_preferred":[
+        "Brusje"
+    ],
     "name:eng_x_preferred":[
         "Brusje"
     ],
@@ -43,7 +46,13 @@
     "name:nld_x_preferred":[
         "Brusje"
     ],
+    "name:pol_x_preferred":[
+        "Brusje"
+    ],
     "name:slv_x_preferred":[
+        "Brusje"
+    ],
+    "name:spa_x_preferred":[
         "Brusje"
     ],
     "name:srp_x_preferred":[
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1126048265,
-    "wof:lastmodified":1566647485,
+    "wof:lastmodified":1690930532,
     "wof:name":"Brusje",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Veli Rat"
     ],
+    "name:ces_x_preferred":[
+        "Veli Rat"
+    ],
     "name:deu_x_preferred":[
         "Veli Rat"
     ],
@@ -46,7 +49,16 @@
     "name:nld_x_preferred":[
         "Veli Rat"
     ],
+    "name:pol_x_preferred":[
+        "Veli Rat"
+    ],
+    "name:slk_x_preferred":[
+        "Veli Rat"
+    ],
     "name:slv_x_preferred":[
+        "Veli Rat"
+    ],
+    "name:spa_x_preferred":[
         "Veli Rat"
     ],
     "name:srp_x_preferred":[
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":1125987955,
-    "wof:lastmodified":1566647514,
+    "wof:lastmodified":1690930567,
     "wof:name":"Veli Rat",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

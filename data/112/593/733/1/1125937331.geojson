@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Kne\u017eevo"
     ],
+    "name:ceb_x_preferred":[
+        "Kne\u017eevo"
+    ],
     "name:eng_x_preferred":[
         "Kne\u017eevo"
     ],
@@ -40,11 +43,20 @@
     "name:nld_x_preferred":[
         "Kne\u017eevo"
     ],
+    "name:pol_x_preferred":[
+        "Kne\u017eevo"
+    ],
     "name:slv_x_preferred":[
+        "Kne\u017eevo"
+    ],
+    "name:spa_x_preferred":[
         "Kne\u017eevo"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043d\u0435\u0436\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kne\u017eevo"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043d\u0435\u0436\u0435\u0432\u043e"
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":1125937331,
-    "wof:lastmodified":1566647469,
+    "wof:lastmodified":1690930513,
     "wof:name":"Kne\u017eevo",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

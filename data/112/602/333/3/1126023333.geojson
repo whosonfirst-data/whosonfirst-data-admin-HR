@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Trsteno"
     ],
+    "name:ces_x_preferred":[
+        "Trsteno"
+    ],
     "name:deu_x_preferred":[
         "Trsteno"
     ],
@@ -43,10 +46,16 @@
     "name:ita_x_preferred":[
         "Trsteno"
     ],
+    "name:ita_x_variant":[
+        "Cannosa"
+    ],
     "name:nld_x_preferred":[
         "Trsteno"
     ],
     "name:pol_x_preferred":[
+        "Trsteno"
+    ],
+    "name:slk_x_preferred":[
         "Trsteno"
     ],
     "name:slv_x_preferred":[
@@ -54,6 +63,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u0441\u0442\u0435\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Trsteno"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0441\u0442\u0435\u043d\u043e"
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1126023333,
-    "wof:lastmodified":1566647483,
+    "wof:lastmodified":1690930529,
     "wof:name":"Trsteno",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

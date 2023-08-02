@@ -30,6 +30,9 @@
     "name:ceb_x_preferred":[
         "De\u017eanovac"
     ],
+    "name:ces_x_preferred":[
+        "De\u017eanovac"
+    ],
     "name:deu_x_preferred":[
         "Op\u0107ina De\u017eanovac"
     ],
@@ -80,6 +83,9 @@
     "name:und_x_variant":[
         "Donji De\u017eanovac",
         "Donji Dre\u017eanovac"
+    ],
+    "name:vec_x_preferred":[
+        "De\u017eanovac"
     ],
     "name:war_x_preferred":[
         "De\u017eanovac"
@@ -136,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582318743,
+    "wof:lastmodified":1690930413,
     "wof:name":"De\u017eanovac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

@@ -43,7 +43,13 @@
     "name:hun_x_preferred":[
         "Vinkuran"
     ],
+    "name:ind_x_preferred":[
+        "Vinkuran"
+    ],
     "name:nld_x_preferred":[
+        "Vinkuran"
+    ],
+    "name:pol_x_preferred":[
         "Vinkuran"
     ],
     "name:slk_x_preferred":[
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1125959255,
-    "wof:lastmodified":1566647477,
+    "wof:lastmodified":1690930523,
     "wof:name":"Vinkuran",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

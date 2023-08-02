@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Preko"
     ],
+    "name:ces_x_preferred":[
+        "Preko"
+    ],
     "name:deu_x_preferred":[
         "Preko"
     ],
@@ -52,6 +55,9 @@
     "name:nld_x_preferred":[
         "Preko"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Preko"
+    ],
     "name:por_x_preferred":[
         "Preko"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0435\u043a\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Preko"
     ],
     "name:slv_x_preferred":[
         "Preko"
@@ -76,8 +85,14 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u043a\u043e"
     ],
+    "name:vec_x_preferred":[
+        "Oltre"
+    ],
     "name:war_x_preferred":[
         "Preko"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u52d2\u79d1"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":1125972403,
-    "wof:lastmodified":1566647507,
+    "wof:lastmodified":1690930560,
     "wof:name":"Preko",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

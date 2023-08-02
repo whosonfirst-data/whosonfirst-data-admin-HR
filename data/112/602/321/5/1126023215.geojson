@@ -28,6 +28,12 @@
     "name:ceb_x_preferred":[
         "Medveja"
     ],
+    "name:ces_x_preferred":[
+        "Medveja"
+    ],
+    "name:deu_x_preferred":[
+        "Medveja"
+    ],
     "name:eng_x_preferred":[
         "Medveja"
     ],
@@ -40,7 +46,13 @@
     "name:hun_x_preferred":[
         "Medveja"
     ],
+    "name:ita_x_preferred":[
+        "Medea"
+    ],
     "name:nld_x_preferred":[
+        "Medveja"
+    ],
+    "name:pol_x_preferred":[
         "Medveja"
     ],
     "name:slv_x_preferred":[
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":1126023215,
-    "wof:lastmodified":1566647485,
+    "wof:lastmodified":1690930532,
     "wof:name":"Medveja",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

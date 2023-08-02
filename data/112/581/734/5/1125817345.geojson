@@ -37,6 +37,9 @@
     "name:ces_x_preferred":[
         "Igrane"
     ],
+    "name:deu_x_preferred":[
+        "Igrane"
+    ],
     "name:eng_x_preferred":[
         "Igrane"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1125817345,
-    "wof:lastmodified":1566647492,
+    "wof:lastmodified":1690930541,
     "wof:name":"Igrane",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

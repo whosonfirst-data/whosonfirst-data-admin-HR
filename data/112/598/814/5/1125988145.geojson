@@ -55,6 +55,9 @@
     "name:nld_x_preferred":[
         "Zaostrog"
     ],
+    "name:pol_x_preferred":[
+        "Zaostrog"
+    ],
     "name:slv_x_preferred":[
         "Zaostrog"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1125988145,
-    "wof:lastmodified":1566647514,
+    "wof:lastmodified":1690930569,
     "wof:name":"Zaostrog",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

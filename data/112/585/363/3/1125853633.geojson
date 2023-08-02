@@ -28,16 +28,31 @@
     "name:ceb_x_preferred":[
         "Odra"
     ],
+    "name:ces_x_preferred":[
+        "Odra"
+    ],
+    "name:deu_x_preferred":[
+        "Odra"
+    ],
     "name:eng_x_preferred":[
         "Odra"
     ],
+    "name:fra_x_preferred":[
+        "Odra"
+    ],
     "name:hrv_x_preferred":[
+        "Odra"
+    ],
+    "name:hun_x_preferred":[
         "Odra"
     ],
     "name:nld_x_preferred":[
         "Odra"
     ],
     "name:pol_x_preferred":[
+        "Odra"
+    ],
+    "name:slk_x_preferred":[
         "Odra"
     ],
     "name:slv_x_preferred":[
@@ -99,7 +114,7 @@
         }
     ],
     "wof:id":1125853633,
-    "wof:lastmodified":1566647523,
+    "wof:lastmodified":1690930577,
     "wof:name":"Odra",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

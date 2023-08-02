@@ -28,7 +28,13 @@
     "name:ceb_x_preferred":[
         "Marku\u0161ica"
     ],
+    "name:ces_x_preferred":[
+        "Marku\u0161ica"
+    ],
     "name:cym_x_preferred":[
+        "Marku\u0161ica"
+    ],
+    "name:deu_x_preferred":[
         "Marku\u0161ica"
     ],
     "name:eng_x_preferred":[
@@ -39,6 +45,9 @@
     ],
     "name:hrv_x_preferred":[
         "Marku\u0161ica"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00e1rkusfalva"
     ],
     "name:ita_x_preferred":[
         "Marku\u0161ica"
@@ -58,6 +67,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u043a\u0443\u0448\u0438\u0446\u0430"
     ],
+    "name:slk_x_preferred":[
+        "Marku\u0161ica"
+    ],
     "name:slv_x_preferred":[
         "Marku\u0161ica"
     ],
@@ -75,6 +87,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043a\u0443\u0448\u0438\u0446\u044f"
+    ],
+    "name:vec_x_preferred":[
+        "Marku\u0161ica"
     ],
     "name:war_x_preferred":[
         "Marku\u0161ica"
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1125958679,
-    "wof:lastmodified":1566647477,
+    "wof:lastmodified":1690930522,
     "wof:name":"Marku\u00b5ica",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

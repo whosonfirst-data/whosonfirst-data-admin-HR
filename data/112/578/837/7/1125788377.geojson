@@ -31,6 +31,9 @@
     "name:hrv_x_preferred":[
         "Goli Breg"
     ],
+    "name:hun_x_preferred":[
+        "Goli Breg"
+    ],
     "name:nld_x_preferred":[
         "Goli Breg"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125788377,
-    "wof:lastmodified":1566647528,
+    "wof:lastmodified":1690930583,
     "wof:name":"Goli Breg",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

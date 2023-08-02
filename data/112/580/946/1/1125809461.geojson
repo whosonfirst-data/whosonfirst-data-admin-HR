@@ -52,6 +52,9 @@
     "name:hun_x_preferred":[
         "Vrboska"
     ],
+    "name:ind_x_preferred":[
+        "Vrboska"
+    ],
     "name:ita_x_preferred":[
         "Verbosca"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:und_x_variant":[
         "Vrbovska"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u723e\u535a\u65af\u5361"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1125809461,
-    "wof:lastmodified":1566647498,
+    "wof:lastmodified":1690930548,
     "wof:name":"Vrboska",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

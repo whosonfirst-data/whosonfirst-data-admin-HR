@@ -28,6 +28,12 @@
     "name:ceb_x_preferred":[
         "Ika"
     ],
+    "name:ces_x_preferred":[
+        "Ika"
+    ],
+    "name:deu_x_preferred":[
+        "Ika"
+    ],
     "name:eng_x_preferred":[
         "Ika"
     ],
@@ -40,7 +46,13 @@
     "name:hun_x_preferred":[
         "Ika"
     ],
+    "name:ita_x_preferred":[
+        "Ica"
+    ],
     "name:nld_x_preferred":[
+        "Ika"
+    ],
+    "name:pol_x_preferred":[
         "Ika"
     ],
     "name:slv_x_preferred":[
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":1126023137,
-    "wof:lastmodified":1566647482,
+    "wof:lastmodified":1690930528,
     "wof:name":"Ika",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

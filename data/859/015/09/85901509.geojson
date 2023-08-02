@@ -32,10 +32,16 @@
     "name:ceb_x_preferred":[
         "Novi Zagreb"
     ],
+    "name:ces_x_preferred":[
+        "Nov\u00fd Z\u00e1h\u0159eb"
+    ],
     "name:deu_x_preferred":[
         "Novi Zagreb"
     ],
     "name:eng_x_preferred":[
+        "Novi Zagreb"
+    ],
+    "name:fra_x_preferred":[
         "Novi Zagreb"
     ],
     "name:hbs_x_preferred":[
@@ -124,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582318728,
+    "wof:lastmodified":1690930363,
     "wof:name":"Novi Zagreb",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Kupinec"
     ],
+    "name:pol_x_preferred":[
+        "Kupinec"
+    ],
     "name:slv_x_preferred":[
         "Kupinec"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125958499,
-    "wof:lastmodified":1566647479,
+    "wof:lastmodified":1690930524,
     "wof:name":"Kupinec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

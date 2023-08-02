@@ -31,11 +31,17 @@
     "name:ceb_x_preferred":[
         "Bale"
     ],
+    "name:ces_x_preferred":[
+        "Bale"
+    ],
     "name:deu_x_preferred":[
         "Bale"
     ],
     "name:eng_x_preferred":[
         "Bale"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0644"
     ],
     "name:fra_x_preferred":[
         "Bale"
@@ -64,6 +70,9 @@
     "name:pol_x_variant":[
         "Bale"
     ],
+    "name:por_x_preferred":[
+        "Bale"
+    ],
     "name:ron_x_preferred":[
         "Comuna Bale"
     ],
@@ -79,6 +88,9 @@
     "name:spa_x_preferred":[
         "Bale"
     ],
+    "name:sqi_x_preferred":[
+        "Bale"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u043b\u0435"
     ],
@@ -87,6 +99,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0435"
+    ],
+    "name:vec_x_preferred":[
+        "Va\u0142e d'Istria"
     ],
     "name:war_x_preferred":[
         "Bale"
@@ -131,7 +146,7 @@
         }
     ],
     "wof:id":1125853577,
-    "wof:lastmodified":1566647525,
+    "wof:lastmodified":1690930578,
     "wof:name":"Bale",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

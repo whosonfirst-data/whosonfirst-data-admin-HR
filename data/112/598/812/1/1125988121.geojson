@@ -28,11 +28,20 @@
     "name:ceb_x_preferred":[
         "Ubli"
     ],
+    "name:ces_x_preferred":[
+        "Uble"
+    ],
+    "name:deu_x_preferred":[
+        "Uble"
+    ],
     "name:eng_x_preferred":[
         "Uble"
     ],
     "name:fas_x_preferred":[
         "\u06cc\u0648\u0628\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Uble"
     ],
     "name:hrv_x_preferred":[
         "Uble"
@@ -44,6 +53,12 @@
         "Ubli"
     ],
     "name:nld_x_preferred":[
+        "Uble"
+    ],
+    "name:pol_x_preferred":[
+        "Uble"
+    ],
+    "name:slk_x_preferred":[
         "Uble"
     ],
     "name:slv_x_preferred":[
@@ -111,7 +126,7 @@
         }
     ],
     "wof:id":1125988121,
-    "wof:lastmodified":1566647514,
+    "wof:lastmodified":1690930568,
     "wof:name":"Ubli",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

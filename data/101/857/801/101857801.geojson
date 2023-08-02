@@ -48,6 +48,12 @@
     "name:nld_x_preferred":[
         "Komin"
     ],
+    "name:pol_x_preferred":[
+        "Komin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0438\u043d"
+    ],
     "name:slv_x_preferred":[
         "Komin"
     ],
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":101857801,
-    "wof:lastmodified":1582318744,
+    "wof:lastmodified":1690930418,
     "wof:name":"Komin",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Domaslovec"
     ],
+    "name:cat_x_preferred":[
+        "Domaslovec"
+    ],
     "name:ceb_x_preferred":[
         "Domaslovec"
     ],
@@ -38,6 +41,9 @@
         "Domaslovec"
     ],
     "name:nld_x_preferred":[
+        "Domaslovec"
+    ],
+    "name:pol_x_preferred":[
         "Domaslovec"
     ],
     "name:slv_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1125958123,
-    "wof:lastmodified":1566647479,
+    "wof:lastmodified":1690930524,
     "wof:name":"Domaslovec",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

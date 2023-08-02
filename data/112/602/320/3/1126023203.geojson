@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Nerezine"
     ],
+    "name:ces_x_preferred":[
+        "Nerezine"
+    ],
     "name:deu_x_preferred":[
         "Nerezine"
     ],
@@ -49,8 +52,14 @@
     "name:nld_x_preferred":[
         "Nerezine"
     ],
+    "name:pol_x_preferred":[
+        "Nerezine"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0435\u0440\u0435\u0437\u0438\u043d\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Nerezine"
     ],
     "name:slv_x_preferred":[
         "Nerezine"
@@ -66,6 +75,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0440\u0435\u0437\u0438\u043d\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u96f7\u9f50\u5185"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":1126023203,
-    "wof:lastmodified":1566647484,
+    "wof:lastmodified":1690930530,
     "wof:name":"Nerezine",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Mlini"
     ],
+    "name:ces_x_preferred":[
+        "Mlini"
+    ],
     "name:dan_x_preferred":[
         "Mlini"
     ],
@@ -65,6 +68,9 @@
         "Mlini"
     ],
     "name:nob_x_preferred":[
+        "Mlini"
+    ],
+    "name:pol_x_preferred":[
         "Mlini"
     ],
     "name:slv_x_preferred":[
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1126003177,
-    "wof:lastmodified":1566647519,
+    "wof:lastmodified":1690930573,
     "wof:name":"Mlini",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

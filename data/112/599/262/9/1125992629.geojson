@@ -25,6 +25,12 @@
     "name:bos_x_preferred":[
         "Debeljak"
     ],
+    "name:cat_x_preferred":[
+        "Debeljak"
+    ],
+    "name:ceb_x_preferred":[
+        "Debeljak"
+    ],
     "name:eng_x_preferred":[
         "Debeljak"
     ],
@@ -37,11 +43,20 @@
     "name:hun_x_preferred":[
         "Debeljak"
     ],
+    "name:pol_x_preferred":[
+        "Debeljak"
+    ],
     "name:slv_x_preferred":[
+        "Debeljak"
+    ],
+    "name:spa_x_preferred":[
         "Debeljak"
     ],
     "name:srp_x_preferred":[
         "\u0414\u0435\u0431\u0435\u0459\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Debeljak"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0431\u0435\u043b\u044f\u043a"
@@ -95,7 +110,7 @@
         }
     ],
     "wof:id":1125992629,
-    "wof:lastmodified":1566647503,
+    "wof:lastmodified":1690930556,
     "wof:name":"Debeljak",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

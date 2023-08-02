@@ -43,6 +43,9 @@
     "name:nld_x_preferred":[
         "Vukovina"
     ],
+    "name:pol_x_preferred":[
+        "Vukovina"
+    ],
     "name:slv_x_preferred":[
         "Vukovina"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125913565,
-    "wof:lastmodified":1566647511,
+    "wof:lastmodified":1690930565,
     "wof:name":"Vukovina",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",

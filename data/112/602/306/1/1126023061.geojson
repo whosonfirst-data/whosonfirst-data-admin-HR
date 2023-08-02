@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Banjole"
     ],
+    "name:cat_x_preferred":[
+        "Banjole"
+    ],
     "name:ceb_x_preferred":[
         "Banjole"
     ],
@@ -44,6 +47,9 @@
         "Banjole"
     ],
     "name:nld_x_preferred":[
+        "Banjole"
+    ],
+    "name:pol_x_preferred":[
         "Banjole"
     ],
     "name:slv_x_preferred":[
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1126023061,
-    "wof:lastmodified":1566647481,
+    "wof:lastmodified":1690930527,
     "wof:name":"Banjole",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

@@ -46,13 +46,25 @@
     "name:nld_x_preferred":[
         "Zmajevac"
     ],
+    "name:pol_x_preferred":[
+        "Zmajevac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043c\u0430\u0435\u0432\u0430\u0446"
+    ],
     "name:slv_x_preferred":[
+        "Zmajevac"
+    ],
+    "name:spa_x_preferred":[
         "Zmajevac"
     ],
     "name:srp_x_preferred":[
         "\u0417\u043c\u0430\u0458\u0435\u0432\u0430\u0446"
     ],
     "name:swe_x_preferred":[
+        "Zmajevac"
+    ],
+    "name:tur_x_preferred":[
         "Zmajevac"
     ],
     "name:ukr_x_preferred":[
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1125853185,
-    "wof:lastmodified":1566647526,
+    "wof:lastmodified":1690930580,
     "wof:name":"Zmajevac",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

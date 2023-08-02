@@ -64,6 +64,9 @@
     "name:ita_x_preferred":[
         "Peru\u0161i\u0107"
     ],
+    "name:ita_x_variant":[
+        "Perusizzo"
+    ],
     "name:lit_x_preferred":[
         "Peru\u0161i\u010dius"
     ],
@@ -105,6 +108,9 @@
     ],
     "name:und_x_variant":[
         "Perrussich"
+    ],
+    "name:vec_x_preferred":[
+        "Peru\u0161i\u0107"
     ],
     "name:war_x_preferred":[
         "Peru\u0161i\u0107"
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1125992653,
-    "wof:lastmodified":1566647503,
+    "wof:lastmodified":1690930556,
     "wof:name":"Peru\u0161i\u0107",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

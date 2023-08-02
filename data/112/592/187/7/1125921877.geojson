@@ -40,7 +40,13 @@
     "name:hun_x_preferred":[
         "Draga Ba\u0161\u0107anska"
     ],
+    "name:ita_x_preferred":[
+        "Bescavalle"
+    ],
     "name:nld_x_preferred":[
+        "Draga Ba\u0161\u0107anska"
+    ],
+    "name:pol_x_preferred":[
         "Draga Ba\u0161\u0107anska"
     ],
     "name:slv_x_preferred":[
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1125921877,
-    "wof:lastmodified":1566647473,
+    "wof:lastmodified":1690930518,
     "wof:name":"Draga Ba\u0161\u0107anska",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

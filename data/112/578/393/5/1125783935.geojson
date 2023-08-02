@@ -25,6 +25,15 @@
     "name:bos_x_preferred":[
         "Brbinj"
     ],
+    "name:cat_x_preferred":[
+        "Brbinj"
+    ],
+    "name:ces_x_preferred":[
+        "Brbinj"
+    ],
+    "name:deu_x_preferred":[
+        "Brbinj"
+    ],
     "name:eng_x_preferred":[
         "Brbinj"
     ],
@@ -40,7 +49,16 @@
     "name:nld_x_preferred":[
         "Brbinj"
     ],
+    "name:pol_x_preferred":[
+        "Brbinj"
+    ],
+    "name:slk_x_preferred":[
+        "Brbinj"
+    ],
     "name:slv_x_preferred":[
+        "Brbinj"
+    ],
+    "name:spa_x_preferred":[
         "Brbinj"
     ],
     "name:srp_x_preferred":[
@@ -106,7 +124,7 @@
         }
     ],
     "wof:id":1125783935,
-    "wof:lastmodified":1566647527,
+    "wof:lastmodified":1690930582,
     "wof:name":"Brbinj",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

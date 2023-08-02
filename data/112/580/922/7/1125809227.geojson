@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Cirkovljan"
     ],
+    "name:cat_x_preferred":[
+        "Cirkovljan"
+    ],
     "name:ceb_x_preferred":[
         "Cirkovljan"
     ],
@@ -41,6 +44,9 @@
         "Dr\u00e1vaegyh\u00e1z"
     ],
     "name:nld_x_preferred":[
+        "Cirkovljan"
+    ],
+    "name:pol_x_preferred":[
         "Cirkovljan"
     ],
     "name:slv_x_preferred":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125809227,
-    "wof:lastmodified":1566647498,
+    "wof:lastmodified":1690930548,
     "wof:name":"Cirkovljan",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

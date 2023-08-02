@@ -23,7 +23,16 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u062f\u0627\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0648\u062f\u0627\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Vodice"
+    ],
     "name:bos_x_preferred":[
+        "Vodice"
+    ],
+    "name:bre_x_preferred":[
         "Vodice"
     ],
     "name:bul_x_preferred":[
@@ -47,6 +56,12 @@
     "name:eng_x_preferred":[
         "Vodice"
     ],
+    "name:epo_x_preferred":[
+        "Vodice"
+    ],
+    "name:est_x_preferred":[
+        "Vodice"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0648\u062f\u06cc\u0633"
     ],
@@ -62,6 +77,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d5\u05d3\u05d9\u05e1"
+    ],
+    "name:heb_x_variant":[
+        "\u05d5\u05d5\u05d3\u05d9\u05e6\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Vodice"
@@ -108,6 +126,9 @@
     "name:slv_x_preferred":[
         "Vodice"
     ],
+    "name:spa_x_preferred":[
+        "Vodice"
+    ],
     "name:srp_x_preferred":[
         "\u0412\u043e\u0434\u0438\u0446\u0435"
     ],
@@ -125,6 +146,9 @@
     ],
     "name:ukr_x_variant":[
         "\u0412\u043e\u0434\u0438\u0446\u0435"
+    ],
+    "name:vec_x_preferred":[
+        "Vodizze"
     ],
     "name:war_x_preferred":[
         "Vodice"
@@ -180,7 +204,7 @@
         }
     ],
     "wof:id":101795745,
-    "wof:lastmodified":1636495649,
+    "wof:lastmodified":1690930488,
     "wof:name":"Vodice",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

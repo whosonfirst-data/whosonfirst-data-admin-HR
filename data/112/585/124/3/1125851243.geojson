@@ -25,7 +25,13 @@
     "name:bos_x_preferred":[
         "Plitvi\u010dka Jezera"
     ],
+    "name:cat_x_preferred":[
+        "Plitvicka Jezera"
+    ],
     "name:ceb_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
+    "name:ces_x_preferred":[
         "Plitvi\u010dka Jezera"
     ],
     "name:deu_x_preferred":[
@@ -34,11 +40,17 @@
     "name:eng_x_preferred":[
         "Plitvi\u010dka Jezera"
     ],
+    "name:eng_x_variant":[
+        "Plitvi\u010dka Jezera Municipality"
+    ],
     "name:fra_x_preferred":[
         "Plitvi\u010dka Jezera"
     ],
     "name:hrv_x_preferred":[
         "Plitvi\u010dka jezera"
+    ],
+    "name:hrv_x_variant":[
+        "Plitvi\u010dka Jezera"
     ],
     "name:hun_x_preferred":[
         "Plitvi\u010dka Jezera"
@@ -57,6 +69,9 @@
     ],
     "name:por_x_preferred":[
         "Plitvi\u010dka Jezera"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Plitvi\u010dka Jezera"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043b\u0438\u0442\u0432\u0438\u0446\u043a\u0438\u0435 \u041e\u0437\u0451\u0440\u0430"
@@ -82,8 +97,14 @@
     "name:und_x_variant":[
         "Plitvice Seen"
     ],
+    "name:vec_x_preferred":[
+        "Plitvi\u010dka Jezera"
+    ],
     "name:war_x_preferred":[
         "Plitvi\u010dka Jezera"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5229\u7279\u7dad\u91c7"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -136,7 +157,7 @@
         }
     ],
     "wof:id":1125851243,
-    "wof:lastmodified":1566647526,
+    "wof:lastmodified":1690930580,
     "wof:name":"Plitvi\u010dka Jezera",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

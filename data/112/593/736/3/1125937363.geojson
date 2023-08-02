@@ -40,10 +40,19 @@
     "name:hrv_x_preferred":[
         "Mece"
     ],
+    "name:hun_x_preferred":[
+        "Mecepuszta"
+    ],
     "name:nld_x_preferred":[
         "Mece"
     ],
+    "name:pol_x_preferred":[
+        "Mece"
+    ],
     "name:slv_x_preferred":[
+        "Mece"
+    ],
+    "name:spa_x_preferred":[
         "Mece"
     ],
     "name:srp_x_preferred":[
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1125937363,
-    "wof:lastmodified":1566647466,
+    "wof:lastmodified":1690930509,
     "wof:name":"Mece",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

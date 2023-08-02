@@ -37,7 +37,13 @@
     "name:nld_x_preferred":[
         "Plavno"
     ],
+    "name:pol_x_preferred":[
+        "Plavno"
+    ],
     "name:slv_x_preferred":[
+        "Plavno"
+    ],
+    "name:spa_x_preferred":[
         "Plavno"
     ],
     "name:srp_x_preferred":[
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125863281,
-    "wof:lastmodified":1566647490,
+    "wof:lastmodified":1690930538,
     "wof:name":"Plavno",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

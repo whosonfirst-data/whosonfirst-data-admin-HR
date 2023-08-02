@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Zastra\u017ei\u0161\u0107e"
     ],
+    "name:pol_x_preferred":[
+        "Zastra\u017ei\u0161\u0107e"
+    ],
     "name:slv_x_preferred":[
         "Zastra\u017ei\u0161\u0107e"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125922097,
-    "wof:lastmodified":1566647475,
+    "wof:lastmodified":1690930519,
     "wof:name":"Zastra\u017ei\u0161\u0107e",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

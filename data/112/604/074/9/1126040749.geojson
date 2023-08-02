@@ -46,6 +46,9 @@
     "name:nld_x_preferred":[
         "\u017duljana"
     ],
+    "name:pol_x_preferred":[
+        "\u017duljana"
+    ],
     "name:slv_x_preferred":[
         "\u017duljana"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1126040749,
-    "wof:lastmodified":1566647486,
+    "wof:lastmodified":1690930533,
     "wof:name":"\u017duljana",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

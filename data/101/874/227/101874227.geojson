@@ -48,6 +48,9 @@
     "name:nld_x_preferred":[
         "Brnaze"
     ],
+    "name:pol_x_preferred":[
+        "Brnaze"
+    ],
     "name:slv_x_preferred":[
         "Brnaze"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101874227,
-    "wof:lastmodified":1582318742,
+    "wof:lastmodified":1690930401,
     "wof:name":"Brnaze",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

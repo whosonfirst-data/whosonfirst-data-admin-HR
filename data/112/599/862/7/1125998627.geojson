@@ -23,8 +23,23 @@
     "name:ces_x_preferred":[
         "Barbariga"
     ],
+    "name:deu_x_preferred":[
+        "Barbariga"
+    ],
     "name:eng_x_preferred":[
         "Barbariga"
+    ],
+    "name:hrv_x_preferred":[
+        "Barbariga"
+    ],
+    "name:hun_x_preferred":[
+        "Barbariga-fok"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0431\u0430\u0440\u0438\u0433\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0440\u0431\u0430\u0440\u0438\u0433\u0430"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -72,7 +87,7 @@
         }
     ],
     "wof:id":1125998627,
-    "wof:lastmodified":1566647503,
+    "wof:lastmodified":1690930556,
     "wof:name":"Barbariga",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

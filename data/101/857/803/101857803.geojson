@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u067e\u0648\u0633\u064a\u0633\u0643\u0627"
+    ],
     "name:bos_x_preferred":[
         "Pu\u010di\u0161\u0107a"
     ],
@@ -27,6 +30,9 @@
         "Pu\u010di\u0161\u0107a"
     ],
     "name:ceb_x_preferred":[
+        "Pu\u010di\u0161\u0107a"
+    ],
+    "name:ces_x_preferred":[
         "Pu\u010di\u0161\u0107a"
     ],
     "name:deu_x_preferred":[
@@ -50,6 +56,9 @@
     "name:ita_x_preferred":[
         "Pucischie"
     ],
+    "name:lat_x_preferred":[
+        "Pucischia"
+    ],
     "name:nld_x_preferred":[
         "Pu\u010di\u0161\u0107a"
     ],
@@ -58,6 +67,12 @@
     ],
     "name:ron_x_preferred":[
         "Comuna Pu\u010di\u0161\u0107a"
+    ],
+    "name:ron_x_variant":[
+        "Pu\u010di\u0161\u0107a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0447\u0438\u0449\u0430"
     ],
     "name:slk_x_preferred":[
         "Pu\u010di\u0161\u0107a"
@@ -79,6 +94,9 @@
     ],
     "name:und_x_variant":[
         "Pu\u010dis\u010da"
+    ],
+    "name:vec_x_preferred":[
+        "Pucischie"
     ],
     "name:war_x_preferred":[
         "Pu\u010di\u0161\u0107a"
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":101857803,
-    "wof:lastmodified":1582318743,
+    "wof:lastmodified":1690930414,
     "wof:name":"Pu\u010di\u0161\u0107a",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

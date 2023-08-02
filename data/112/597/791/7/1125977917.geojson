@@ -25,6 +25,12 @@
     "name:bos_x_preferred":[
         "Punta Kri\u017ea"
     ],
+    "name:ces_x_preferred":[
+        "Punta Kri\u017ea"
+    ],
+    "name:deu_x_preferred":[
+        "Punta Kri\u017ea"
+    ],
     "name:eng_x_preferred":[
         "Punta Kri\u017ea"
     ],
@@ -37,7 +43,16 @@
     "name:hun_x_preferred":[
         "Punta Kri\u017ea"
     ],
+    "name:ita_x_preferred":[
+        "Punta Croce"
+    ],
     "name:nld_x_preferred":[
+        "Punta Kri\u017ea"
+    ],
+    "name:pol_x_preferred":[
+        "Punta Kri\u017ea"
+    ],
+    "name:slk_x_preferred":[
         "Punta Kri\u017ea"
     ],
     "name:slv_x_preferred":[
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":1125977917,
-    "wof:lastmodified":1566647506,
+    "wof:lastmodified":1690930559,
     "wof:name":"Punta Kri\u017ea",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

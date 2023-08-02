@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Ka\u0161tel Stari"
     ],
+    "name:ces_x_preferred":[
+        "Ka\u0161tel Stari"
+    ],
     "name:deu_x_preferred":[
         "Ka\u0161tel Stari"
     ],
@@ -49,10 +52,16 @@
     "name:nld_x_preferred":[
         "Ka\u0161tel Stari"
     ],
+    "name:pol_x_preferred":[
+        "Ka\u0161tel Stari"
+    ],
     "name:por_x_preferred":[
         "Ka\u0161tel Stari"
     ],
     "name:sco_x_preferred":[
+        "Ka\u0161tel Stari"
+    ],
+    "name:slk_x_preferred":[
         "Ka\u0161tel Stari"
     ],
     "name:slv_x_preferred":[
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":1125956177,
-    "wof:lastmodified":1566647476,
+    "wof:lastmodified":1690930521,
     "wof:name":"Ka\u00b5tel Stari",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

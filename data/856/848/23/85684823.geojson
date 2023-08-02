@@ -48,6 +48,9 @@
     "name:aze_x_preferred":[
         "Medjumur"
     ],
+    "name:aze_x_variant":[
+        "Medjumur jupaniyas\u0131"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09a1\u09bf\u09ae\u09c1\u09b0\u099c\u09c7 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
@@ -71,6 +74,9 @@
     ],
     "name:cor_x_preferred":[
         "Konteth Me\u0111imurje"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Me\u0111imurje"
     ],
     "name:dan_x_preferred":[
         "Me\u0111imurje County"
@@ -135,6 +141,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u057b\u056b\u0574\u0578\u0582\u0580\u057d\u056f\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0565\u0573\u056b\u0574\u0578\u0582\u0580\u056b\u0567"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Me\u0111imurje"
@@ -237,6 +246,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e14\u0e34\u0e40\u0e21\u0e2d\u0e40\u0e08"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e40\u0e21\u0e08\u0e34\u0e21\u0e39\u0e23\u0e34\u0e40\u0e22"
     ],
     "name:tur_x_preferred":[
         "Me\u0111imurje"
@@ -362,7 +374,7 @@
         "wd:id":"Q58330"
     },
     "wof:country":"HR",
-    "wof:geomhash":"0d0a7d90b5b9574469908bc8eb0db5c1",
+    "wof:geomhash":"bd51dd4abdeda1e760ed93c93d2ad4d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -378,7 +390,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1684351629,
+    "wof:lastmodified":1690930367,
     "wof:name":"Medimurska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

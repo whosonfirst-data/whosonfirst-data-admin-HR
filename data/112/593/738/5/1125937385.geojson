@@ -34,6 +34,12 @@
     "name:hun_x_preferred":[
         "Mr\u010devo"
     ],
+    "name:ita_x_preferred":[
+        "Marcevo"
+    ],
+    "name:pol_x_preferred":[
+        "Mr\u010devo"
+    ],
     "name:slv_x_preferred":[
         "Mr\u010devo"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125937385,
-    "wof:lastmodified":1566647466,
+    "wof:lastmodified":1690930509,
     "wof:name":"Mr\u010devo",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

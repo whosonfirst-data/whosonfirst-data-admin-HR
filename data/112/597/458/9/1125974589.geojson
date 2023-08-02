@@ -28,6 +28,12 @@
     "name:ceb_x_preferred":[
         "Zdenci"
     ],
+    "name:ces_x_preferred":[
+        "Zdenci"
+    ],
+    "name:deu_x_preferred":[
+        "Zdenci"
+    ],
     "name:eng_x_preferred":[
         "Zdenci"
     ],
@@ -55,6 +61,9 @@
     "name:rus_x_preferred":[
         "\u0417\u0434\u0435\u043d\u0446\u0438"
     ],
+    "name:slk_x_preferred":[
+        "Zdenci"
+    ],
     "name:slv_x_preferred":[
         "Zdenci"
     ],
@@ -72,6 +81,9 @@
     ],
     "name:und_x_variant":[
         "Zdencze"
+    ],
+    "name:vec_x_preferred":[
+        "Zdenci"
     ],
     "name:war_x_preferred":[
         "Zdenci"
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":1125974589,
-    "wof:lastmodified":1566647507,
+    "wof:lastmodified":1690930561,
     "wof:name":"Zdenci Brodski",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

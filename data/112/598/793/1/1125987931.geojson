@@ -31,8 +31,14 @@
     "name:ceb_x_preferred":[
         "Selca"
     ],
+    "name:ces_x_preferred":[
+        "Selca"
+    ],
     "name:deu_x_preferred":[
         "Selca"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03bb\u03c4\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Selca"
@@ -53,6 +59,9 @@
         "Selca"
     ],
     "name:pol_x_preferred":[
+        "Selca"
+    ],
+    "name:por_x_preferred":[
         "Selca"
     ],
     "name:ron_x_preferred":[
@@ -78,6 +87,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043b\u0446\u044f"
+    ],
+    "name:vec_x_preferred":[
+        "Selza"
     ],
     "name:war_x_preferred":[
         "Selca"
@@ -133,7 +145,7 @@
         }
     ],
     "wof:id":1125987931,
-    "wof:lastmodified":1566647513,
+    "wof:lastmodified":1690930567,
     "wof:name":"Selca",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

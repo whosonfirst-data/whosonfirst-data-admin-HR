@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Mio\u010dinovi\u0107i"
     ],
+    "name:pol_x_preferred":[
+        "Mio\u010dinovi\u0107i"
+    ],
     "name:slv_x_preferred":[
         "Mio\u010dinovi\u0107i"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125784585,
-    "wof:lastmodified":1566647528,
+    "wof:lastmodified":1690930583,
     "wof:name":"Mio\u010dinovi\u0107i",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

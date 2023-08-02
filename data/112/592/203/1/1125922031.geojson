@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Potomje"
     ],
+    "name:pol_x_preferred":[
+        "Potomje"
+    ],
     "name:slv_x_preferred":[
         "Potomje"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125922031,
-    "wof:lastmodified":1566647473,
+    "wof:lastmodified":1690930517,
     "wof:name":"Potomje",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

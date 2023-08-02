@@ -25,6 +25,12 @@
     "name:bos_x_preferred":[
         "Brse\u010d"
     ],
+    "name:cat_x_preferred":[
+        "Brse\u010d"
+    ],
+    "name:ces_x_preferred":[
+        "Brse\u010d"
+    ],
     "name:deu_x_preferred":[
         "Brse\u010d"
     ],
@@ -41,6 +47,9 @@
         "Bersezio"
     ],
     "name:nld_x_preferred":[
+        "Brse\u010d"
+    ],
+    "name:pol_x_preferred":[
         "Brse\u010d"
     ],
     "name:rus_x_preferred":[
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":1125817197,
-    "wof:lastmodified":1566647493,
+    "wof:lastmodified":1690930542,
     "wof:name":"Brse\u010d",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

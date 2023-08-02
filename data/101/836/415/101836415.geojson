@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Jesenice"
     ],
+    "name:ceb_x_preferred":[
+        "Jesenice"
+    ],
     "name:ces_x_preferred":[
         "Jesenice"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0408\u0435\u0441\u0435\u043d\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Jesenice"
     ],
     "name:ukr_x_preferred":[
         "\u0404\u0441\u0435\u043d\u0438\u0446\u0435"
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":101836415,
-    "wof:lastmodified":1636495650,
+    "wof:lastmodified":1690930502,
     "wof:name":"Jesenice",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

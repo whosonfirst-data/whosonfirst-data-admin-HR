@@ -79,6 +79,9 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0437\u043d\u0438\u0446\u044f"
     ],
+    "name:vec_x_preferred":[
+        "Rogosnizza"
+    ],
     "name:war_x_preferred":[
         "Rogoznica"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1125920965,
-    "wof:lastmodified":1566647473,
+    "wof:lastmodified":1690930517,
     "wof:name":"Rogoznica",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

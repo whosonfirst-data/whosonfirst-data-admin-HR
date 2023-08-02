@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Bartolovci"
     ],
+    "name:cat_x_preferred":[
+        "Bartolovci"
+    ],
     "name:ceb_x_preferred":[
         "Bartolovci"
     ],
@@ -37,10 +40,19 @@
     "name:hrv_x_preferred":[
         "Bartolovci"
     ],
+    "name:hun_x_preferred":[
+        "Bartolovci"
+    ],
     "name:nld_x_preferred":[
         "Bartolovci"
     ],
+    "name:pol_x_preferred":[
+        "Bartolovci"
+    ],
     "name:slv_x_preferred":[
+        "Bartolovci"
+    ],
+    "name:spa_x_preferred":[
         "Bartolovci"
     ],
     "name:srp_x_preferred":[
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":1125975677,
-    "wof:lastmodified":1566647506,
+    "wof:lastmodified":1690930559,
     "wof:name":"Bartolovci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

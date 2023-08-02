@@ -24,6 +24,15 @@
     "name:bos_x_preferred":[
         "Mihovljan"
     ],
+    "name:ces_x_preferred":[
+        "Mihovljan"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Mihovljan"
+    ],
+    "name:deu_x_preferred":[
+        "Mihovljan"
+    ],
     "name:eng_x_preferred":[
         "Mihovlan"
     ],
@@ -48,11 +57,17 @@
     "name:nld_x_preferred":[
         "Mihovljan"
     ],
+    "name:pol_x_preferred":[
+        "Gmina Mihovljan"
+    ],
     "name:ron_x_preferred":[
         "Comuna Mihovljan"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0445\u043e\u0432\u043b\u044f\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Mihovljan"
     ],
     "name:slv_x_preferred":[
         "Mihovljan"
@@ -68,6 +83,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0445\u043e\u0432\u043b\u044f\u043d"
+    ],
+    "name:vec_x_preferred":[
+        "Mihovljan"
     ],
     "name:war_x_preferred":[
         "Mihovljan"
@@ -125,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582318744,
+    "wof:lastmodified":1690930418,
     "wof:name":"Mihovljan",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

@@ -52,6 +52,9 @@
     "name:nld_x_preferred":[
         "Ka\u0161tel Gomilica"
     ],
+    "name:pol_x_preferred":[
+        "Ka\u0161tel Gomilica"
+    ],
     "name:por_x_preferred":[
         "Ka\u0161tel Gomilica"
     ],
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1125850757,
-    "wof:lastmodified":1566647525,
+    "wof:lastmodified":1690930579,
     "wof:name":"Ka\u00b5tel Gomilica",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

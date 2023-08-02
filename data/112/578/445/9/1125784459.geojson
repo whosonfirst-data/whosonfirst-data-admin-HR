@@ -37,6 +37,9 @@
     "name:hun_x_preferred":[
         "Neori\u0107"
     ],
+    "name:pol_x_preferred":[
+        "Neori\u0107"
+    ],
     "name:slv_x_preferred":[
         "Neori\u0107"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125784459,
-    "wof:lastmodified":1566647528,
+    "wof:lastmodified":1690930582,
     "wof:name":"Neori\u0107",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

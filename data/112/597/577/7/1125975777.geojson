@@ -46,6 +46,9 @@
     "name:nld_x_preferred":[
         "Hrastelnica"
     ],
+    "name:pol_x_preferred":[
+        "Hrastelnica"
+    ],
     "name:slv_x_preferred":[
         "Hrastelnica"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1125975777,
-    "wof:lastmodified":1566647507,
+    "wof:lastmodified":1690930561,
     "wof:name":"Hrastelnica",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

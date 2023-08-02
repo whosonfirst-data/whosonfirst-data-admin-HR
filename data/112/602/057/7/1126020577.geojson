@@ -34,10 +34,19 @@
     "name:hrv_x_preferred":[
         "Ke\u0161inci"
     ],
+    "name:hun_x_preferred":[
+        "Kese"
+    ],
     "name:nld_x_preferred":[
         "Ke\u0161inci"
     ],
+    "name:pol_x_preferred":[
+        "Ke\u0161inci"
+    ],
     "name:slv_x_preferred":[
+        "Ke\u0161inci"
+    ],
+    "name:spa_x_preferred":[
         "Ke\u0161inci"
     ],
     "name:srp_x_preferred":[
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":1126020577,
-    "wof:lastmodified":1566647484,
+    "wof:lastmodified":1690930530,
     "wof:name":"Ke\u0161inci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

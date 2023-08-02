@@ -22,11 +22,23 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0645"
+    ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0645"
+    ],
+    "name:ast_x_preferred":[
+        "Hum"
+    ],
     "name:aze_x_preferred":[
         "Hum"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0443\u043c"
+    ],
+    "name:bel_x_variant":[
+        "\u0425\u0443\u043c"
     ],
     "name:bos_x_preferred":[
         "Hum"
@@ -44,6 +56,9 @@
         "Hum"
     ],
     "name:est_x_preferred":[
+        "Hum"
+    ],
+    "name:fin_x_preferred":[
         "Hum"
     ],
     "name:fra_x_preferred":[
@@ -109,6 +124,9 @@
     "name:swe_x_preferred":[
         "Hum"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e39\u0e21"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u0443\u043c"
     ],
@@ -169,7 +187,7 @@
         }
     ],
     "wof:id":1126023097,
-    "wof:lastmodified":1566647481,
+    "wof:lastmodified":1690930526,
     "wof:name":"Hum",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

@@ -46,6 +46,9 @@
     "name:nld_x_preferred":[
         "Sta\u0161evica"
     ],
+    "name:pol_x_preferred":[
+        "Sta\u0161evica"
+    ],
     "name:por_x_preferred":[
         "Sta\u0161evica"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1125975593,
-    "wof:lastmodified":1566647506,
+    "wof:lastmodified":1690930559,
     "wof:name":"Sta\u0161evica",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

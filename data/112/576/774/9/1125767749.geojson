@@ -25,6 +25,12 @@
     "name:bos_x_preferred":[
         "Beli"
     ],
+    "name:cat_x_preferred":[
+        "Beli"
+    ],
+    "name:ces_x_preferred":[
+        "Beli"
+    ],
     "name:deu_x_preferred":[
         "Beli"
     ],
@@ -50,6 +56,12 @@
         "\u30d9\u30ea"
     ],
     "name:nld_x_preferred":[
+        "Beli"
+    ],
+    "name:pol_x_preferred":[
+        "Beli"
+    ],
+    "name:slk_x_preferred":[
         "Beli"
     ],
     "name:slv_x_preferred":[
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":1125767749,
-    "wof:lastmodified":1566647522,
+    "wof:lastmodified":1690930576,
     "wof:name":"Beli",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

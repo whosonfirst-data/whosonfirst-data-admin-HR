@@ -37,10 +37,19 @@
     "name:hrv_x_preferred":[
         "Pi\u0161korevci"
     ],
+    "name:hun_x_preferred":[
+        "Piskorevce"
+    ],
     "name:nld_x_preferred":[
         "Pi\u0161korevci"
     ],
+    "name:pol_x_preferred":[
+        "Pi\u0161korevci"
+    ],
     "name:slv_x_preferred":[
+        "Pi\u0161korevci"
+    ],
+    "name:spa_x_preferred":[
         "Pi\u0161korevci"
     ],
     "name:srp_x_preferred":[
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1125960207,
-    "wof:lastmodified":1566647510,
+    "wof:lastmodified":1690930563,
     "wof:name":"Pi\u00b5korevci",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

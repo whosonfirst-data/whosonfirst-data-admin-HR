@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Podgora\u010d"
     ],
+    "name:ces_x_preferred":[
+        "Podgora\u010d"
+    ],
     "name:deu_x_preferred":[
         "Podgora\u010d"
     ],
@@ -43,6 +46,9 @@
     "name:hun_x_preferred":[
         "Podgora\u010d"
     ],
+    "name:hun_x_variant":[
+        "Pogor\u00e1cs"
+    ],
     "name:ita_x_preferred":[
         "Podgora\u010d"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:pol_x_preferred":[
         "Podgora\u010d"
+    ],
+    "name:pol_x_variant":[
+        "Gmina Podgora\u010d"
     ],
     "name:ron_x_preferred":[
         "Comuna Podgora\u010d"
@@ -75,6 +84,9 @@
     ],
     "name:und_x_variant":[
         "Podgor\u00e1cs"
+    ],
+    "name:vec_x_preferred":[
+        "Podgora\u010d"
     ],
     "name:war_x_preferred":[
         "Podgora\u010d"
@@ -126,7 +138,7 @@
         }
     ],
     "wof:id":1125958973,
-    "wof:lastmodified":1566647479,
+    "wof:lastmodified":1690930525,
     "wof:name":"Podgora\u010d",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

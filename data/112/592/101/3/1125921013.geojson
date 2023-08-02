@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Li\u017enjan"
     ],
+    "name:ces_x_preferred":[
+        "Li\u017enjan"
+    ],
     "name:deu_x_preferred":[
         "Li\u017enjan"
     ],
@@ -55,6 +58,9 @@
     "name:pol_x_preferred":[
         "Li\u017enjan"
     ],
+    "name:por_x_preferred":[
+        "Li\u017enjan"
+    ],
     "name:ron_x_preferred":[
         "Comuna Li\u017enjan"
     ],
@@ -72,6 +78,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0438\u0436\u043d\u044f\u043d"
+    ],
+    "name:vec_x_preferred":[
+        "Lixignan"
     ],
     "name:war_x_preferred":[
         "Li\u017enjan"
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":1125921013,
-    "wof:lastmodified":1566647474,
+    "wof:lastmodified":1690930519,
     "wof:name":"Li\u017enjan",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

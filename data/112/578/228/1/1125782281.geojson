@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "\u010cervar-Porat"
     ],
+    "name:cat_x_preferred":[
+        "\u010cervar-Porat"
+    ],
     "name:ces_x_preferred":[
         "\u010cervar Porat"
     ],
@@ -40,11 +43,17 @@
     "name:hun_x_preferred":[
         "\u010cervar-Porat"
     ],
+    "name:ita_x_preferred":[
+        "Porto Cervara"
+    ],
     "name:nld_x_preferred":[
         "\u010cervar-Porat"
     ],
     "name:nob_x_preferred":[
         "\u010cervar Porat"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cervar-Porat"
     ],
     "name:slv_x_preferred":[
         "\u010cervar-Porat"
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":1125782281,
-    "wof:lastmodified":1566647527,
+    "wof:lastmodified":1690930582,
     "wof:name":"\u010cervar-Porat",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",
