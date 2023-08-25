@@ -46,7 +46,13 @@
     "name:hun_x_preferred":[
         "Kukuljanovo"
     ],
+    "name:ita_x_preferred":[
+        "Cuccuglianovo"
+    ],
     "name:nld_x_preferred":[
+        "Kukuljanovo"
+    ],
+    "name:pol_x_preferred":[
         "Kukuljanovo"
     ],
     "name:slv_x_preferred":[
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1125937345,
-    "wof:lastmodified":1566647468,
+    "wof:lastmodified":1690930513,
     "wof:name":"Kukuljanovo",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

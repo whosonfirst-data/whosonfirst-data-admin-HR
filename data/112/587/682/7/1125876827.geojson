@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Svetvin\u010denat"
     ],
+    "name:ces_x_preferred":[
+        "Svetvin\u010denat"
+    ],
     "name:deu_x_preferred":[
         "Svetvin\u010denat"
     ],
@@ -52,6 +55,9 @@
     "name:pol_x_preferred":[
         "Gmina Svetvin\u010denat"
     ],
+    "name:por_x_preferred":[
+        "Svetvin\u010denat"
+    ],
     "name:ron_x_preferred":[
         "Comuna Svetvin\u010denat"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0432\u0438\u043d\u0447\u0435\u043d\u0430\u0442"
+    ],
+    "name:vec_x_preferred":[
+        "Sanvin\u00e7enti"
     ],
     "name:war_x_preferred":[
         "Svetvin\u010denat"
@@ -123,7 +132,7 @@
         }
     ],
     "wof:id":1125876827,
-    "wof:lastmodified":1566647501,
+    "wof:lastmodified":1690930552,
     "wof:name":"Svetvin\u010denat",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

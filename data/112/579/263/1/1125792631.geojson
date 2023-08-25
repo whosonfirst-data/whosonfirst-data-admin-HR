@@ -46,6 +46,9 @@
     "name:nld_x_preferred":[
         "Gornje Selo"
     ],
+    "name:pol_x_preferred":[
+        "Gornje Selo"
+    ],
     "name:slv_x_preferred":[
         "Gornje Selo"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125792631,
-    "wof:lastmodified":1566647529,
+    "wof:lastmodified":1690930583,
     "wof:name":"Gornje Selo",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

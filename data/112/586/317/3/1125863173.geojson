@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "Skrivena Luka"
     ],
+    "name:deu_x_preferred":[
+        "Skrivena Luka"
+    ],
     "name:eng_x_preferred":[
         "Skrivena Luka"
     ],
@@ -41,6 +44,9 @@
         "Skrivena Luka"
     ],
     "name:nld_x_preferred":[
+        "Skrivena Luka"
+    ],
+    "name:pol_x_preferred":[
         "Skrivena Luka"
     ],
     "name:slv_x_preferred":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1125863173,
-    "wof:lastmodified":1566647491,
+    "wof:lastmodified":1690930539,
     "wof:name":"Skrivena Luka",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

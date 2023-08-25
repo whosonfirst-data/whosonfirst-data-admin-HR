@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Loznati"
     ],
+    "name:pol_x_preferred":[
+        "Loznati"
+    ],
     "name:slv_x_preferred":[
         "Loznati"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125921039,
-    "wof:lastmodified":1566647472,
+    "wof:lastmodified":1690930515,
     "wof:name":"Loznati",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

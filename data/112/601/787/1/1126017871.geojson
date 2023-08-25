@@ -88,6 +88,9 @@
     "name:und_x_variant":[
         "Zagost"
     ],
+    "name:vec_x_preferred":[
+        "Zagvozd"
+    ],
     "name:war_x_preferred":[
         "Zagvozd"
     ],
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1126017871,
-    "wof:lastmodified":1566647517,
+    "wof:lastmodified":1690930571,
     "wof:name":"Zagvozd",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

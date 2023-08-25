@@ -28,6 +28,12 @@
     "name:ceb_x_preferred":[
         "Vo\u0111inci"
     ],
+    "name:ces_x_preferred":[
+        "Vo\u0111inci"
+    ],
+    "name:deu_x_preferred":[
+        "Vo\u0111inci"
+    ],
     "name:eng_x_preferred":[
         "Vo\u0111inci"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:hrv_x_preferred":[
         "Vo\u0111inci"
+    ],
+    "name:hun_x_preferred":[
+        "Vogyince"
     ],
     "name:ita_x_preferred":[
         "Vo\u0111inci"
@@ -48,6 +57,9 @@
     ],
     "name:ron_x_preferred":[
         "Comuna Vo\u0111inci"
+    ],
+    "name:slv_x_preferred":[
+        "Vo\u0111inci"
     ],
     "name:spa_x_preferred":[
         "Vo\u0111inci"
@@ -63,6 +75,9 @@
     ],
     "name:und_x_variant":[
         "Vodjinci"
+    ],
+    "name:vec_x_preferred":[
+        "Vo\u0111inci"
     ],
     "name:war_x_preferred":[
         "Vo\u0111inci"
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":1125853743,
-    "wof:lastmodified":1566647526,
+    "wof:lastmodified":1690930580,
     "wof:name":"Vo\u00f0inci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

@@ -73,6 +73,9 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0441\u0456\u043d\u044f"
     ],
+    "name:vec_x_preferred":[
+        "Rasinja"
+    ],
     "name:war_x_preferred":[
         "Rasinja"
     ],
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1125937263,
-    "wof:lastmodified":1566647471,
+    "wof:lastmodified":1690930515,
     "wof:name":"Rasinja",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

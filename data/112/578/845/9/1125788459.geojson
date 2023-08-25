@@ -25,6 +25,12 @@
     "name:bos_x_preferred":[
         "Klenovica"
     ],
+    "name:ceb_x_preferred":[
+        "Klenovica"
+    ],
+    "name:ces_x_preferred":[
+        "Klenovica"
+    ],
     "name:deu_x_preferred":[
         "Klenovica"
     ],
@@ -43,6 +49,12 @@
     "name:nld_x_preferred":[
         "Klenovica"
     ],
+    "name:pol_x_preferred":[
+        "Klenovica"
+    ],
+    "name:slk_x_preferred":[
+        "Klenovica"
+    ],
     "name:slv_x_preferred":[
         "Klenovica"
     ],
@@ -51,6 +63,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u043b\u0435\u043d\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Klenovica"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0435\u0439\u043d\u043e\u0432\u0438\u0446\u044f"
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":1125788459,
-    "wof:lastmodified":1566647527,
+    "wof:lastmodified":1690930581,
     "wof:name":"Klenovica-\u017drnovnica",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

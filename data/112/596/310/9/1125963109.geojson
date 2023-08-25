@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Porat"
     ],
+    "name:ces_x_preferred":[
+        "Porat"
+    ],
     "name:eng_x_preferred":[
         "Porat"
     ],
@@ -38,6 +41,9 @@
         "Porat"
     ],
     "name:nld_x_preferred":[
+        "Porat"
+    ],
+    "name:pol_x_preferred":[
         "Porat"
     ],
     "name:slv_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125963109,
-    "wof:lastmodified":1566647510,
+    "wof:lastmodified":1690930564,
     "wof:name":"Porat",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

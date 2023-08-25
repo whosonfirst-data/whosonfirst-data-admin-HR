@@ -37,6 +37,9 @@
     "name:hun_x_preferred":[
         "Lopud"
     ],
+    "name:ita_x_preferred":[
+        "Mezzo"
+    ],
     "name:nld_x_preferred":[
         "Lopud"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125882921,
-    "wof:lastmodified":1566647495,
+    "wof:lastmodified":1690930543,
     "wof:name":"Lopud",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Ro\u017eat"
     ],
+    "name:pol_x_preferred":[
+        "Ro\u017eat"
+    ],
     "name:slv_x_preferred":[
         "Ro\u017eat"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125982779,
-    "wof:lastmodified":1566647514,
+    "wof:lastmodified":1690930568,
     "wof:name":"Ro\u017eat",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

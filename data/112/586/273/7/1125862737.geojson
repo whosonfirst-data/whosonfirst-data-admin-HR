@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Lepajci"
     ],
+    "name:pol_x_preferred":[
+        "Lepajci"
+    ],
     "name:slv_x_preferred":[
         "Lepajci"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125862737,
-    "wof:lastmodified":1566647489,
+    "wof:lastmodified":1690930537,
     "wof:name":"Lepajci",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

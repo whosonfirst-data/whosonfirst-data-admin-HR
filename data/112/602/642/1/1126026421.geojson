@@ -23,7 +23,16 @@
     "name:bos_x_preferred":[
         "Zaklopatica"
     ],
+    "name:ces_x_preferred":[
+        "Zaklopatica"
+    ],
+    "name:deu_x_preferred":[
+        "Zaklopatica"
+    ],
     "name:eng_x_preferred":[
+        "Zaklopatica"
+    ],
+    "name:fra_x_preferred":[
         "Zaklopatica"
     ],
     "name:hrv_x_preferred":[
@@ -33,6 +42,12 @@
         "Zaklopatica"
     ],
     "name:nld_x_preferred":[
+        "Zaklopatica"
+    ],
+    "name:pol_x_preferred":[
+        "Zaklopatica"
+    ],
+    "name:slk_x_preferred":[
         "Zaklopatica"
     ],
     "name:slv_x_preferred":[
@@ -90,7 +105,7 @@
         }
     ],
     "wof:id":1126026421,
-    "wof:lastmodified":1566647481,
+    "wof:lastmodified":1690930527,
     "wof:name":"Zaklopatica",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

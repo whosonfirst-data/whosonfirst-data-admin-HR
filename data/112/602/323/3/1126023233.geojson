@@ -37,6 +37,9 @@
     "name:hun_x_preferred":[
         "Podobu\u010de"
     ],
+    "name:pol_x_preferred":[
+        "Podobu\u010de"
+    ],
     "name:slv_x_preferred":[
         "Podobu\u010de"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1126023233,
-    "wof:lastmodified":1566647482,
+    "wof:lastmodified":1690930528,
     "wof:name":"Podobu\u010de",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

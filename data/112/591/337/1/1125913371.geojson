@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Sveti Petar u \u0160umi"
     ],
+    "name:ces_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
     "name:deu_x_preferred":[
         "Sveti Petar u \u0160umi"
     ],
@@ -52,6 +55,9 @@
     "name:pol_x_preferred":[
         "Gmina Sveti Petar u \u0160umi"
     ],
+    "name:por_x_preferred":[
+        "Sveti Petar u \u0160umi"
+    ],
     "name:ron_x_preferred":[
         "Comuna Sveti Petar u \u0160umi"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:und_x_variant":[
         "Petar u \u0160umi"
+    ],
+    "name:vec_x_preferred":[
+        "San Piero in Selve"
     ],
     "name:war_x_preferred":[
         "Sveti Petar u \u0160umi"
@@ -123,7 +132,7 @@
         }
     ],
     "wof:id":1125913371,
-    "wof:lastmodified":1566647510,
+    "wof:lastmodified":1690930564,
     "wof:name":"Sveti Petar U \u00c5 Umi",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

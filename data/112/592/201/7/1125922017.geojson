@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Pomer"
     ],
+    "name:ces_x_preferred":[
+        "Pomer"
+    ],
     "name:deu_x_preferred":[
         "Pomer"
     ],
@@ -46,7 +49,16 @@
     "name:nld_x_preferred":[
         "Pomer"
     ],
+    "name:pol_x_preferred":[
+        "Pomer"
+    ],
+    "name:slk_x_preferred":[
+        "Pomer"
+    ],
     "name:slv_x_preferred":[
+        "Pomer"
+    ],
+    "name:spa_x_preferred":[
         "Pomer"
     ],
     "name:srp_x_preferred":[
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":1125922017,
-    "wof:lastmodified":1566647475,
+    "wof:lastmodified":1690930520,
     "wof:name":"Pomer",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

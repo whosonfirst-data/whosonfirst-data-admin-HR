@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Kula Norinska"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u043b\u0430 \u041d\u043e\u0440\u0438\u043d\u0441\u043a\u0430"
+    ],
     "name:ces_x_preferred":[
         "Kula Norinska"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:ita_x_preferred":[
         "Torre di Norino"
+    ],
+    "name:lat_x_preferred":[
+        "Turris Norina"
     ],
     "name:nld_x_preferred":[
         "Kula Norinska"
@@ -72,6 +78,9 @@
     ],
     "name:und_x_variant":[
         "Norinska Kula"
+    ],
+    "name:vec_x_preferred":[
+        "Kula Norinska"
     ],
     "name:war_x_preferred":[
         "Kula Norinska"
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":1126027527,
-    "wof:lastmodified":1566647481,
+    "wof:lastmodified":1690930526,
     "wof:name":"Kula Norinska",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

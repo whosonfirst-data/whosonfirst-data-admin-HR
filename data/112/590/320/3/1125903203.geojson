@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Jablanac"
     ],
+    "name:ces_x_preferred":[
+        "Jablanac"
+    ],
     "name:deu_x_preferred":[
         "Jablanac"
     ],
@@ -50,6 +53,9 @@
         "Jablanac"
     ],
     "name:pol_x_preferred":[
+        "Jablanac"
+    ],
+    "name:slk_x_preferred":[
         "Jablanac"
     ],
     "name:slv_x_preferred":[
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1125903203,
-    "wof:lastmodified":1566647505,
+    "wof:lastmodified":1690930558,
     "wof:name":"Jablanac",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

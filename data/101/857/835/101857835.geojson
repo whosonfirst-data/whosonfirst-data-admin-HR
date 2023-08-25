@@ -24,11 +24,17 @@
     "name:azb_x_preferred":[
         "\u0648\u0631\u0628\u0648\u0648\u0627 \u0644\u0647\u0648\u062a\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Vrbov\u00e1 Lhota"
+    ],
     "name:ceb_x_preferred":[
         "Vrbov\u00e1 Lhota"
     ],
     "name:ces_x_preferred":[
         "Vrbov\u00e1 Lhota"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0440\u0431\u043e\u0432\u0430 \u041b\u0433\u043e\u0442\u0430"
     ],
     "name:deu_x_preferred":[
         "Vrbov\u00e1 Lhota"
@@ -45,10 +51,16 @@
     "name:fra_x_preferred":[
         "Vrbov\u00e1 Lhota"
     ],
+    "name:gle_x_preferred":[
+        "Vrbov\u00e1 Lhota"
+    ],
     "name:hun_x_preferred":[
         "Vrbov\u00e1 Lhota"
     ],
     "name:ita_x_preferred":[
+        "Vrbov\u00e1 Lhota"
+    ],
+    "name:lmo_x_preferred":[
         "Vrbov\u00e1 Lhota"
     ],
     "name:msa_x_preferred":[
@@ -80,6 +92,9 @@
     ],
     "name:swe_x_preferred":[
         "Vrbov\u00e1 Lhota"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0440\u0431\u043e\u0432\u0430 \u041b\u0433\u043e\u0442\u0430"
     ],
     "name:und_x_variant":[
         "Orbova"
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":101857835,
-    "wof:lastmodified":1582318743,
+    "wof:lastmodified":1690930414,
     "wof:name":"Vrbova",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

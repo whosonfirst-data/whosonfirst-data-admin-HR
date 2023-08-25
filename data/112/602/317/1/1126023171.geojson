@@ -25,11 +25,17 @@
     "name:bos_x_preferred":[
         "Kolan"
     ],
+    "name:ces_x_preferred":[
+        "Kolan"
+    ],
     "name:deu_x_preferred":[
         "Kolan"
     ],
     "name:eng_x_preferred":[
         "Kolan"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "Kolan"
@@ -43,8 +49,14 @@
     "name:ita_x_preferred":[
         "Colane"
     ],
+    "name:lat_x_preferred":[
+        "Colan"
+    ],
     "name:nld_x_preferred":[
         "Kolan"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Kolan"
     ],
     "name:ron_x_preferred":[
         "Comuna Kolan"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1126023171,
-    "wof:lastmodified":1566647484,
+    "wof:lastmodified":1690930531,
     "wof:name":"Kolan",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

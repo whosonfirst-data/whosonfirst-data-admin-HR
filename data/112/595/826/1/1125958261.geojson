@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Gorica"
     ],
+    "name:ceb_x_preferred":[
+        "Gorica"
+    ],
     "name:eng_x_preferred":[
         "Gorica"
     ],
@@ -41,6 +44,9 @@
         "Gorica"
     ],
     "name:slv_x_preferred":[
+        "Gorica"
+    ],
+    "name:swe_x_preferred":[
         "Gorica"
     ],
     "name:und_x_variant":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125958261,
-    "wof:lastmodified":1566647476,
+    "wof:lastmodified":1690930521,
     "wof:name":"Gorica",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

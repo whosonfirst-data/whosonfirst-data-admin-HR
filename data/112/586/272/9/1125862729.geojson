@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Vanta\u010di\u0107i"
     ],
+    "name:ces_x_preferred":[
+        "Vanta\u010di\u0107i"
+    ],
     "name:eng_x_preferred":[
         "Vanta\u010di\u0107i"
     ],
@@ -41,6 +44,9 @@
         "Vanta\u010di\u0107i"
     ],
     "name:nld_x_preferred":[
+        "Vanta\u010di\u0107i"
+    ],
+    "name:pol_x_preferred":[
         "Vanta\u010di\u0107i"
     ],
     "name:slv_x_preferred":[
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1125862729,
-    "wof:lastmodified":1566647489,
+    "wof:lastmodified":1690930537,
     "wof:name":"Vanta\u010di\u0107i",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

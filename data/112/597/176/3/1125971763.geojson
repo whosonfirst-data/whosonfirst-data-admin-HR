@@ -28,8 +28,14 @@
     "name:ceb_x_preferred":[
         "Bre\u017enica"
     ],
+    "name:ces_x_preferred":[
+        "Breznica"
+    ],
     "name:eng_x_preferred":[
         "Breznica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0632\u0646\u06cc\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "Breznica"
@@ -48,6 +54,9 @@
     ],
     "name:pol_x_preferred":[
         "Gmina Breznica"
+    ],
+    "name:pol_x_variant":[
+        "Breznica"
     ],
     "name:ron_x_preferred":[
         "Comuna Breznica"
@@ -69,6 +78,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0435\u0437\u043d\u0438\u0446\u044f"
+    ],
+    "name:vec_x_preferred":[
+        "Breznica"
     ],
     "name:war_x_preferred":[
         "Breznica"
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":1125971763,
-    "wof:lastmodified":1566647508,
+    "wof:lastmodified":1690930561,
     "wof:name":"Bre\u017enica",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

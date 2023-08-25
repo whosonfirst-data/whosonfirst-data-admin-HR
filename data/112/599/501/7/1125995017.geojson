@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Velo Grablje"
     ],
+    "name:deu_x_preferred":[
+        "Velo Grablje"
+    ],
     "name:eng_x_preferred":[
         "Velo Grablje"
     ],
@@ -34,7 +37,13 @@
     "name:hun_x_preferred":[
         "Velo Grablje"
     ],
+    "name:pol_x_preferred":[
+        "Velo Grablje"
+    ],
     "name:slv_x_preferred":[
+        "Velo Grablje"
+    ],
+    "name:spa_x_preferred":[
         "Velo Grablje"
     ],
     "name:srp_x_preferred":[
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1125995017,
-    "wof:lastmodified":1566647502,
+    "wof:lastmodified":1690930555,
     "wof:name":"Velo Grablje",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

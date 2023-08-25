@@ -43,6 +43,9 @@
     "name:cat_x_preferred":[
         "Tar"
     ],
+    "name:ceb_x_preferred":[
+        "Tar"
+    ],
     "name:ces_x_preferred":[
         "Tar"
     ],
@@ -117,6 +120,9 @@
     ],
     "name:ita_x_preferred":[
         "Tar"
+    ],
+    "name:ita_x_variant":[
+        "Torre"
     ],
     "name:kon_x_preferred":[
         "Tar"
@@ -283,7 +289,7 @@
         }
     ],
     "wof:id":1125938413,
-    "wof:lastmodified":1566647469,
+    "wof:lastmodified":1690930514,
     "wof:name":"Tar",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

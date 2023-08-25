@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Lug"
     ],
+    "name:ceb_x_preferred":[
+        "Lug"
+    ],
     "name:eng_x_preferred":[
         "Lug"
     ],
@@ -43,11 +46,20 @@
     "name:nld_x_preferred":[
         "Lug"
     ],
+    "name:pol_x_preferred":[
+        "Lug"
+    ],
     "name:slv_x_preferred":[
+        "Lug"
+    ],
+    "name:spa_x_preferred":[
         "Lug"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0443\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Lug"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0433"
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":1125995317,
-    "wof:lastmodified":1566647503,
+    "wof:lastmodified":1690930555,
     "wof:name":"Lug",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

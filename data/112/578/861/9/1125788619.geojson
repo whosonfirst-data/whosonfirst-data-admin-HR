@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Sevid"
     ],
+    "name:pol_x_preferred":[
+        "Sevid"
+    ],
     "name:slv_x_preferred":[
         "Sevid"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125788619,
-    "wof:lastmodified":1566647527,
+    "wof:lastmodified":1690930582,
     "wof:name":"Sevid",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -34,7 +34,13 @@
     "name:hun_x_preferred":[
         "Krapanj"
     ],
+    "name:pol_x_preferred":[
+        "Krapanj"
+    ],
     "name:slv_x_preferred":[
+        "Krapanj"
+    ],
+    "name:spa_x_preferred":[
         "Krapanj"
     ],
     "name:srp_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125817427,
-    "wof:lastmodified":1566647493,
+    "wof:lastmodified":1690930542,
     "wof:name":"Krapanj",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

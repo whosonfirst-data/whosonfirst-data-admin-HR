@@ -25,6 +25,12 @@
     "name:bos_x_preferred":[
         "Ivan Dolac"
     ],
+    "name:ces_x_preferred":[
+        "Ivan Dolac"
+    ],
+    "name:deu_x_preferred":[
+        "Ivan Dolac"
+    ],
     "name:eng_x_preferred":[
         "Ivan Dolac"
     ],
@@ -34,7 +40,13 @@
     "name:hun_x_preferred":[
         "Ivan Dolac"
     ],
+    "name:pol_x_preferred":[
+        "Ivan Dolac"
+    ],
     "name:slv_x_preferred":[
+        "Ivan Dolac"
+    ],
+    "name:spa_x_preferred":[
         "Ivan Dolac"
     ],
     "name:srp_x_preferred":[
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":1125922709,
-    "wof:lastmodified":1566647474,
+    "wof:lastmodified":1690930519,
     "wof:name":"Ivan Dolac",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

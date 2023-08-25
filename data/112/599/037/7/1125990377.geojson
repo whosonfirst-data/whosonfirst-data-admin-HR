@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Ba\u0161ka Voda"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0634\u06a9\u0627 \u0648\u0648\u062f\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ba\u0161ka Voda"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30b7\u30e5\u30ab\u30fb\u30f4\u30a9\u30c0"
+    ],
+    "name:lat_x_preferred":[
+        "Bestonium"
     ],
     "name:nld_x_preferred":[
         "Ba\u0161ka Voda"
@@ -93,6 +99,9 @@
     ],
     "name:und_x_variant":[
         "Bestonio"
+    ],
+    "name:vec_x_preferred":[
+        "Bascavoda"
     ],
     "name:war_x_preferred":[
         "Ba\u0161ka Voda"
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":1125990377,
-    "wof:lastmodified":1566647502,
+    "wof:lastmodified":1690930554,
     "wof:name":"Ba\u00b5ka Voda",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

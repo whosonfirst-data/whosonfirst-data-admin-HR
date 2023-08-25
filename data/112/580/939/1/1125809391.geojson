@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Lubenice"
     ],
+    "name:deu_x_preferred":[
+        "Lubenice"
+    ],
     "name:eng_x_preferred":[
         "Lubenice"
     ],
@@ -44,6 +47,9 @@
         "Lubenice"
     ],
     "name:nld_x_preferred":[
+        "Lubenice"
+    ],
+    "name:pol_x_preferred":[
         "Lubenice"
     ],
     "name:slv_x_preferred":[
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1125809391,
-    "wof:lastmodified":1566647497,
+    "wof:lastmodified":1690930547,
     "wof:name":"Lubenice",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

@@ -52,6 +52,9 @@
     "name:nld_x_preferred":[
         "\u0160kari\u0107evo"
     ],
+    "name:pol_x_preferred":[
+        "\u0160kari\u0107evo"
+    ],
     "name:por_x_preferred":[
         "\u0160kari\u0107evo"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1125959127,
-    "wof:lastmodified":1566647477,
+    "wof:lastmodified":1690930523,
     "wof:name":"\u0160kari\u0107evo",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

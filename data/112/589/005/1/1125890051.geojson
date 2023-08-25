@@ -25,14 +25,23 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0645\u0633\u0644\u0627\u062c"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0645\u0633\u0644\u0627\u062c"
+    ],
     "name:bos_x_preferred":[
         "Omi\u0161alj"
     ],
     "name:ceb_x_preferred":[
         "Omi\u0161alj"
     ],
+    "name:ces_x_preferred":[
+        "Omi\u0161alj"
+    ],
     "name:deu_x_preferred":[
         "Omi\u0161alj"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03bc\u03af\u03c3\u03b1\u03bb\u03b9"
     ],
     "name:eng_x_preferred":[
         "Omi\u0161alj"
@@ -42,6 +51,9 @@
     ],
     "name:fra_x_preferred":[
         "Omi\u0161alj"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05de\u05d9\u05e9\u05dc\u05d9\u05d9"
     ],
     "name:hrv_x_preferred":[
         "Omi\u0161alj"
@@ -55,7 +67,16 @@
     "name:lat_x_preferred":[
         "Castri Musculi"
     ],
+    "name:lav_x_preferred":[
+        "Omi\u0161a\u013ci"
+    ],
     "name:nld_x_preferred":[
+        "Omi\u0161alj"
+    ],
+    "name:nno_x_preferred":[
+        "Omi\u0161alj"
+    ],
+    "name:nob_x_preferred":[
         "Omi\u0161alj"
     ],
     "name:pol_x_preferred":[
@@ -67,7 +88,13 @@
     "name:rus_x_preferred":[
         "\u041e\u043c\u0438\u0448\u0430\u043b\u044c"
     ],
+    "name:slk_x_preferred":[
+        "Omi\u0161alj"
+    ],
     "name:slv_x_preferred":[
+        "Omi\u0161alj"
+    ],
+    "name:sme_x_preferred":[
         "Omi\u0161alj"
     ],
     "name:spa_x_preferred":[
@@ -84,6 +111,9 @@
     ],
     "name:ukr_x_variant":[
         "\u041e\u043c\u0438\u0448\u0430\u043b\u044c"
+    ],
+    "name:vec_x_preferred":[
+        "Castelmuschio"
     ],
     "name:war_x_preferred":[
         "Omi\u0161alj"
@@ -142,7 +172,7 @@
         }
     ],
     "wof:id":1125890051,
-    "wof:lastmodified":1566647497,
+    "wof:lastmodified":1690930547,
     "wof:name":"Omi\u00b5alj",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

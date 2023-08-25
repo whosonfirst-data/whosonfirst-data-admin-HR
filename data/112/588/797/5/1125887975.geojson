@@ -25,13 +25,25 @@
     "name:bos_x_preferred":[
         "Li\u010dka Jesenica"
     ],
+    "name:deu_x_preferred":[
+        "Li\u010dka Jesenica"
+    ],
     "name:eng_x_preferred":[
+        "Li\u010dka Jesenica"
+    ],
+    "name:fra_x_preferred":[
         "Li\u010dka Jesenica"
     ],
     "name:hrv_x_preferred":[
         "Li\u010dka Jesenica"
     ],
     "name:hun_x_preferred":[
+        "Li\u010dka Jesenica"
+    ],
+    "name:hun_x_variant":[
+        "Licska Jeszenica"
+    ],
+    "name:pol_x_preferred":[
         "Li\u010dka Jesenica"
     ],
     "name:slv_x_preferred":[
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":1125887975,
-    "wof:lastmodified":1566647494,
+    "wof:lastmodified":1690930543,
     "wof:name":"Li\u010dka Jesenica",
     "wof:parent_id":85684819,
     "wof:placetype":"locality",

@@ -23,7 +23,16 @@
     "name:bos_x_preferred":[
         "Kolanjski Gajac"
     ],
+    "name:ces_x_preferred":[
+        "Kolanjski Gajac"
+    ],
+    "name:deu_x_preferred":[
+        "Kolanjski Gajac"
+    ],
     "name:eng_x_preferred":[
+        "Kolanjski Gajac"
+    ],
+    "name:fra_x_preferred":[
         "Kolanjski Gajac"
     ],
     "name:hrv_x_preferred":[
@@ -32,7 +41,16 @@
     "name:hun_x_preferred":[
         "Kolanjski Gajac"
     ],
+    "name:pol_x_preferred":[
+        "Kolanjski Gajac"
+    ],
+    "name:slk_x_preferred":[
+        "Kolanjski Gajac"
+    ],
     "name:slv_x_preferred":[
+        "Kolanjski Gajac"
+    ],
+    "name:spa_x_preferred":[
         "Kolanjski Gajac"
     ],
     "name:srp_x_preferred":[
@@ -87,7 +105,7 @@
         }
     ],
     "wof:id":1125905689,
-    "wof:lastmodified":1566647504,
+    "wof:lastmodified":1690930557,
     "wof:name":"Kolanjski Gajac",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

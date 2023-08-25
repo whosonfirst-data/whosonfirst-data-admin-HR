@@ -40,6 +40,9 @@
     "name:ang_x_preferred":[
         "Sumartin"
     ],
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0645\u0627\u0631\u062a\u064a\u0646"
+    ],
     "name:arg_x_preferred":[
         "Sumartin"
     ],
@@ -451,6 +454,9 @@
     "name:ruq_x_preferred":[
         "Sumartin"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043c\u0430\u0440\u0442\u0438\u043d"
+    ],
     "name:sag_x_preferred":[
         "Sumartin"
     ],
@@ -652,7 +658,7 @@
         }
     ],
     "wof:id":1125994567,
-    "wof:lastmodified":1566647503,
+    "wof:lastmodified":1690930555,
     "wof:name":"Sumartin",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

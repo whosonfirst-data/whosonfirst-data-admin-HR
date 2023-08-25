@@ -25,7 +25,13 @@
     "name:bos_x_preferred":[
         "Oprisavci"
     ],
+    "name:bul_x_preferred":[
+        "\u041e\u043f\u0440\u0438\u0441\u0430\u0432\u0446\u0438"
+    ],
     "name:ceb_x_preferred":[
+        "Oprisavci"
+    ],
+    "name:ces_x_preferred":[
         "Oprisavci"
     ],
     "name:eng_x_preferred":[
@@ -35,6 +41,9 @@
         "Oprisavci"
     ],
     "name:hrv_x_preferred":[
+        "Oprisavci"
+    ],
+    "name:hun_x_preferred":[
         "Oprisavci"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +57,9 @@
     ],
     "name:ron_x_preferred":[
         "Comuna Oprisavci"
+    ],
+    "name:slv_x_preferred":[
+        "Oprisavci"
     ],
     "name:spa_x_preferred":[
         "Oprisavci"
@@ -63,6 +75,9 @@
     ],
     "name:und_x_variant":[
         "Oprisovci"
+    ],
+    "name:vec_x_preferred":[
+        "Oprisavci"
     ],
     "name:war_x_preferred":[
         "Oprisavci"
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":1125958837,
-    "wof:lastmodified":1566647478,
+    "wof:lastmodified":1690930523,
     "wof:name":"Oprisavci",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

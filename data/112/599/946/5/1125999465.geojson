@@ -25,7 +25,13 @@
     "name:bos_x_preferred":[
         "Dinji\u0161ka"
     ],
+    "name:cat_x_preferred":[
+        "Dinji\u0161ka"
+    ],
     "name:ceb_x_preferred":[
+        "Dinji\u0161ka"
+    ],
+    "name:ces_x_preferred":[
         "Dinji\u0161ka"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +46,19 @@
     "name:hun_x_preferred":[
         "Dinji\u0161ka"
     ],
+    "name:ita_x_preferred":[
+        "Dignisca"
+    ],
     "name:nld_x_preferred":[
         "Dinji\u0161ka"
     ],
+    "name:pol_x_preferred":[
+        "Dinji\u0161ka"
+    ],
     "name:slv_x_preferred":[
+        "Dinji\u0161ka"
+    ],
+    "name:spa_x_preferred":[
         "Dinji\u0161ka"
     ],
     "name:srp_x_preferred":[
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":1125999465,
-    "wof:lastmodified":1566647502,
+    "wof:lastmodified":1690930555,
     "wof:name":"Dinji\u00b5ka",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

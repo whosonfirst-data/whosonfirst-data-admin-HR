@@ -82,8 +82,14 @@
     "name:swe_x_preferred":[
         "Hrvace"
     ],
+    "name:szl_x_preferred":[
+        "Hrvace"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u0440\u0432\u0430\u0446\u0435"
+    ],
+    "name:vec_x_preferred":[
+        "Ervazza"
     ],
     "name:war_x_preferred":[
         "Hrvace"
@@ -143,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582318743,
+    "wof:lastmodified":1690930412,
     "wof:name":"Hrvace",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -22,10 +22,22 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Klanjec"
+    ],
+    "name:aze_x_preferred":[
+        "Klanets"
+    ],
     "name:bos_x_preferred":[
         "Klanjec"
     ],
+    "name:bre_x_preferred":[
+        "Klanjec"
+    ],
     "name:ceb_x_preferred":[
+        "Klanjec"
+    ],
+    "name:ces_x_preferred":[
         "Klanjec"
     ],
     "name:ckb_x_preferred":[
@@ -94,8 +106,14 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0430\u043d\u0454\u0446"
     ],
+    "name:ukr_x_variant":[
+        "\u041a\u043b\u0430\u043d\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Klanyecz"
+    ],
+    "name:vec_x_preferred":[
+        "Klanjec"
     ],
     "name:war_x_preferred":[
         "Klanjec"
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":1126017849,
-    "wof:lastmodified":1566647516,
+    "wof:lastmodified":1690930571,
     "wof:name":"Klanjec",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

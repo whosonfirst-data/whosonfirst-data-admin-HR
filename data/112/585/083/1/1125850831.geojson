@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Povlja"
     ],
+    "name:ces_x_preferred":[
+        "Povlja"
+    ],
     "name:deu_x_preferred":[
         "Povlja"
     ],
@@ -40,7 +43,13 @@
     "name:hun_x_preferred":[
         "Povlja"
     ],
+    "name:ita_x_preferred":[
+        "Povia"
+    ],
     "name:nld_x_preferred":[
+        "Povlja"
+    ],
+    "name:pol_x_preferred":[
         "Povlja"
     ],
     "name:rus_x_preferred":[
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1125850831,
-    "wof:lastmodified":1566647524,
+    "wof:lastmodified":1690930578,
     "wof:name":"Povlja",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

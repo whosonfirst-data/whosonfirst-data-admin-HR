@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Bo\u0161njaci"
     ],
+    "name:ces_x_preferred":[
+        "Bo\u0161njaci"
+    ],
     "name:deu_x_preferred":[
         "Bo\u0161njaci"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:hrv_x_preferred":[
         "Bo\u0161njaci"
+    ],
+    "name:hun_x_preferred":[
+        "Bosnyaci"
     ],
     "name:ita_x_preferred":[
         "Bo\u0161njaci"
@@ -69,6 +75,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0448\u043d\u044f\u0446\u0456"
+    ],
+    "name:vec_x_preferred":[
+        "Bo\u0161njaci"
     ],
     "name:war_x_preferred":[
         "Bo\u0161njaci"
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":1126033765,
-    "wof:lastmodified":1566647487,
+    "wof:lastmodified":1690930534,
     "wof:name":"Bo\u00b5njaci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Fu\u017eine"
     ],
+    "name:ces_x_preferred":[
+        "Fu\u017eine"
+    ],
     "name:deu_x_preferred":[
         "Fu\u017eine"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:ita_x_preferred":[
         "Fu\u017eine"
+    ],
+    "name:ita_x_variant":[
+        "Fusine"
     ],
     "name:nld_x_preferred":[
         "Fu\u017eine"
@@ -81,6 +87,9 @@
     ],
     "name:und_x_variant":[
         "Fusine"
+    ],
+    "name:vec_x_preferred":[
+        "Fu\u017eine"
     ],
     "name:war_x_preferred":[
         "Fu\u017eine"
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":1125921907,
-    "wof:lastmodified":1566647474,
+    "wof:lastmodified":1690930518,
     "wof:name":"Fu\u017eine",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

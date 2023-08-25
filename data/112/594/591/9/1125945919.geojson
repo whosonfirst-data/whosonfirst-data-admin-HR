@@ -25,20 +25,38 @@
     "name:bos_x_preferred":[
         "Koritna"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0440\u0438\u0442\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Koritna"
+    ],
     "name:eng_x_preferred":[
         "Koritna"
     ],
     "name:hrv_x_preferred":[
         "Koritna"
     ],
+    "name:hun_x_preferred":[
+        "Karatna"
+    ],
     "name:nld_x_preferred":[
+        "Koritna"
+    ],
+    "name:pol_x_preferred":[
         "Koritna"
     ],
     "name:slv_x_preferred":[
         "Koritna"
     ],
+    "name:spa_x_preferred":[
+        "Koritna"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0440\u0438\u0442\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Koritna"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u0438\u0442\u043d\u0430"
@@ -92,7 +110,7 @@
         }
     ],
     "wof:id":1125945919,
-    "wof:lastmodified":1566647465,
+    "wof:lastmodified":1690930508,
     "wof:name":"Koritna",
     "wof:parent_id":85684805,
     "wof:placetype":"locality",

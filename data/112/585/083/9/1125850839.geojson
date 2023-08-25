@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Rogotin"
     ],
+    "name:fra_x_preferred":[
+        "Rogotin"
+    ],
     "name:hrv_x_preferred":[
         "Rogotin"
     ],
@@ -38,6 +41,9 @@
         "Rogotin"
     ],
     "name:nld_x_preferred":[
+        "Rogotin"
+    ],
+    "name:pol_x_preferred":[
         "Rogotin"
     ],
     "name:slv_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125850839,
-    "wof:lastmodified":1566647524,
+    "wof:lastmodified":1690930577,
     "wof:name":"Rogotin",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

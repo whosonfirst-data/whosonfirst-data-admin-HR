@@ -34,6 +34,9 @@
     "name:hrv_x_preferred":[
         "\u0160i\u0161kovci"
     ],
+    "name:hun_x_preferred":[
+        "Sisk\u00f3c"
+    ],
     "name:nld_x_preferred":[
         "\u0160i\u0161kovci"
     ],
@@ -41,6 +44,9 @@
         "\u0160i\u0161kovci"
     ],
     "name:slv_x_preferred":[
+        "\u0160i\u0161kovci"
+    ],
+    "name:spa_x_preferred":[
         "\u0160i\u0161kovci"
     ],
     "name:srp_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1125805655,
-    "wof:lastmodified":1566647498,
+    "wof:lastmodified":1690930549,
     "wof:name":"\u0160i\u0161kovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

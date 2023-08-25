@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Lukoran"
     ],
+    "name:ces_x_preferred":[
+        "Lukoran"
+    ],
     "name:deu_x_preferred":[
         "Lukoran"
     ],
@@ -40,10 +43,22 @@
     "name:hun_x_preferred":[
         "Lukoran"
     ],
+    "name:ita_x_preferred":[
+        "Lucorano"
+    ],
     "name:nld_x_preferred":[
         "Lukoran"
     ],
+    "name:pol_x_preferred":[
+        "Lukoran"
+    ],
+    "name:slk_x_preferred":[
+        "Lukoran"
+    ],
     "name:slv_x_preferred":[
+        "Lukoran"
+    ],
+    "name:spa_x_preferred":[
         "Lukoran"
     ],
     "name:srp_x_preferred":[
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":1125987839,
-    "wof:lastmodified":1566647513,
+    "wof:lastmodified":1690930567,
     "wof:name":"Lukoran",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",

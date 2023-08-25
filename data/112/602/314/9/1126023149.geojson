@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Jasenovac"
     ],
+    "name:ces_x_preferred":[
+        "Jasenovac"
+    ],
     "name:deu_x_preferred":[
         "Jasenovac"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:epo_x_preferred":[
         "Jasenovac"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0698\u0627\u0633\u0646\u0648\u0648\u0627\u0686"
     ],
     "name:fra_x_preferred":[
         "Jasenovac"
@@ -73,6 +79,9 @@
     "name:rus_x_preferred":[
         "\u042f\u0441\u0435\u043d\u043e\u0432\u0430\u0446"
     ],
+    "name:slk_x_preferred":[
+        "Jasenovac"
+    ],
     "name:slv_x_preferred":[
         "Jasenovac"
     ],
@@ -99,6 +108,9 @@
     ],
     "name:urd_x_variant":[
         "\u062c\u0633\u0646\u0648\u0648\u0627\u06a9"
+    ],
+    "name:vec_x_preferred":[
+        "Jasenovac"
     ],
     "name:war_x_preferred":[
         "Jasenovac"
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":1126023149,
-    "wof:lastmodified":1566647482,
+    "wof:lastmodified":1690930529,
     "wof:name":"Jasenovac",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",

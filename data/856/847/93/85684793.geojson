@@ -45,6 +45,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u064a\u0631\u0648\u0641\u064a\u062a\u064a\u0643\u0627-\u0628\u0648\u062f\u0631\u0627\u0641\u064a\u0646\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Viroviti\u00e7a-Podravina jupaniyas\u0131"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u0440\u0430\u0432\u0456\u0446\u0456\u0446\u043a\u0430-\u041f\u0430\u0434\u0440\u0430\u045e\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:cor_x_preferred":[
         "Konteth Virovitica-Podravina"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Virovitica-Podravina"
     ],
     "name:dan_x_preferred":[
         "Virovitica-Podravina County"
@@ -108,6 +114,9 @@
     "name:fra_x_variant":[
         "Virovitica-Podravina"
     ],
+    "name:gle_x_preferred":[
+        "Contae Virovitica-Podravina"
+    ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0ab0\u0acb\u0ab5\u0abf\u0a9f\u0abf\u0a95\u0abe-\u0aaa\u0acb\u0aa1\u0acd\u0ab0\u0abe\u0ab5\u0ac0\u0aa8\u0abe \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
     ],
@@ -122,6 +131,9 @@
     ],
     "name:hun_x_preferred":[
         "Ver\u0151ce-Dr\u00e1vamente megye"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054e\u056b\u0580\u0578\u057e\u056b\u0569\u056b\u0584\u0561-\u0553\u0578\u057f\u0580\u0561\u057e\u056b\u0576\u0561"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Virovitica-Podravina"
@@ -228,6 +240,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e27\u0e34\u0e42\u0e23\u0e27\u0e34\u0e15\u0e34\u0e01\u0e49\u0e32-\u0e42\u0e1e\u0e14\u0e23\u0e32\u0e27\u0e34\u0e19\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e27\u0e34\u0e23\u0e2d\u0e27\u0e34\u0e15\u0e34\u0e15\u0e0b\u0e32-\u0e1b\u0e2d\u0e14\u0e23\u0e32\u0e27\u0e34\u0e19\u0e32"
     ],
     "name:tur_x_preferred":[
         "Virovitica-Podravina"
@@ -353,7 +368,7 @@
         "wd:id":"Q58092"
     },
     "wof:country":"HR",
-    "wof:geomhash":"076717254c02c3ca8d55aca0db822689",
+    "wof:geomhash":"c45ed0839b5fa66bcbdb45e62d7224fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -369,7 +384,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1684351628,
+    "wof:lastmodified":1690930368,
     "wof:name":"Viroviticko-podravska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

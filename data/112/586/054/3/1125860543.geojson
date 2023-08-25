@@ -25,23 +25,41 @@
     "name:bos_x_preferred":[
         "Petrovci"
     ],
+    "name:ceb_x_preferred":[
+        "Petrovci"
+    ],
     "name:eng_x_preferred":[
         "Petrovci"
     ],
     "name:hrv_x_preferred":[
         "Petrovci"
     ],
+    "name:hun_x_preferred":[
+        "Petr\u00f3c"
+    ],
     "name:nld_x_preferred":[
+        "Petrovci"
+    ],
+    "name:pol_x_preferred":[
         "Petrovci"
     ],
     "name:rue_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0446\u0438"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0446\u044b"
+    ],
     "name:slv_x_preferred":[
+        "Petrovci"
+    ],
+    "name:spa_x_preferred":[
         "Petrovci"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Petrovci"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0456\u0432\u0446\u0456"
@@ -98,7 +116,7 @@
         }
     ],
     "wof:id":1125860543,
-    "wof:lastmodified":1566647489,
+    "wof:lastmodified":1690930537,
     "wof:name":"Petrovci",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

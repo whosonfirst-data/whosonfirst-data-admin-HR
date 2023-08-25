@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Vratnik"
     ],
+    "name:pol_x_preferred":[
+        "Vratnik"
+    ],
     "name:slv_x_preferred":[
         "Vratnik"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125935903,
-    "wof:lastmodified":1566647469,
+    "wof:lastmodified":1690930514,
     "wof:name":"Vratnik",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

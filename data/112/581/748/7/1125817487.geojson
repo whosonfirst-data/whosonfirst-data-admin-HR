@@ -31,6 +31,9 @@
     "name:hrv_x_preferred":[
         "Mala U\u010dka"
     ],
+    "name:pol_x_preferred":[
+        "Mala U\u010dka"
+    ],
     "name:slv_x_preferred":[
         "Mala U\u010dka"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125817487,
-    "wof:lastmodified":1566647492,
+    "wof:lastmodified":1690930540,
     "wof:name":"Mala U\u010dka",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

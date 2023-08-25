@@ -42,6 +42,9 @@
     "name:nld_x_preferred":[
         "Predavac"
     ],
+    "name:pol_x_preferred":[
+        "Predavac"
+    ],
     "name:slv_x_preferred":[
         "Predavac"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101857859,
-    "wof:lastmodified":1582318743,
+    "wof:lastmodified":1690930413,
     "wof:name":"Predavac",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

@@ -23,7 +23,16 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0641\u0627\u0646\u064a\u062a\u0634"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u0641\u0627\u0646\u064a\u062a\u0634"
+    ],
+    "name:ast_x_preferred":[
+        "Ivanec"
+    ],
     "name:bos_x_preferred":[
+        "Ivanec"
+    ],
+    "name:bre_x_preferred":[
         "Ivanec"
     ],
     "name:ceb_x_preferred":[
@@ -95,6 +104,9 @@
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0430\u043d\u0435\u0446\u044c"
     ],
+    "name:vec_x_preferred":[
+        "Ivanec"
+    ],
     "name:war_x_preferred":[
         "Ivanec"
     ],
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":101857877,
-    "wof:lastmodified":1582318743,
+    "wof:lastmodified":1690930415,
     "wof:name":"Vara\u017edin Breg",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:bul_x_preferred":[
         "\u0428\u0430\u0440\u0435\u043d\u0433\u0440\u0430\u0434"
     ],
+    "name:cat_x_preferred":[
+        "\u0160arengrad"
+    ],
     "name:ceb_x_preferred":[
         "\u0160arengrad"
     ],
@@ -46,13 +49,22 @@
     "name:hun_x_preferred":[
         "Sarengr\u00e1d"
     ],
+    "name:hun_x_variant":[
+        "Atya"
+    ],
     "name:nld_x_preferred":[
+        "\u0160arengrad"
+    ],
+    "name:pol_x_preferred":[
         "\u0160arengrad"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u0440\u0435\u043d\u0433\u0440\u0430\u0434"
     ],
     "name:slv_x_preferred":[
+        "\u0160arengrad"
+    ],
+    "name:spa_x_preferred":[
         "\u0160arengrad"
     ],
     "name:srp_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":1126029947,
-    "wof:lastmodified":1566647482,
+    "wof:lastmodified":1690930529,
     "wof:name":"\u00c5 Arengrad",
     "wof:parent_id":85684733,
     "wof:placetype":"locality",

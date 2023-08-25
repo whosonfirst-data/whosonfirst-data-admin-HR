@@ -45,6 +45,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0628\u0631\u064a\u0641\u0646\u064a\u0643\u0627-\u0643\u0631\u064a\u0632\u0641\u062a\u0633\u064a"
     ],
+    "name:aze_x_preferred":[
+        "Koprivni\u00e7a-Krijev\u00e7i jupaniyas\u0131"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09aa\u09cd\u09b0\u09bf\u09ad\u09a8\u09bf\u0995\u09be-\u0995\u09cd\u09b0\u09bf\u099c\u09c7\u09ad\u099a\u09bf \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
@@ -108,6 +111,12 @@
     "name:fra_x_variant":[
         "Koprivnica-Kri\u017eevci"
     ],
+    "name:frr_x_preferred":[
+        "Koprivnica-Kri\u017eevci"
+    ],
+    "name:gle_x_preferred":[
+        "Contae Koprivnica-Kri\u017eevci"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aaa\u0acd\u0ab0\u0ac0\u0ab5\u0acd\u0aa8\u0abf\u0a95\u0abe-\u0a95\u0acd\u0ab0\u0abf\u0a9d\u0ac7\u0ab5\u0acd\u0a95\u0ac0 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
     ],
@@ -122,6 +131,9 @@
     ],
     "name:hun_x_variant":[
         "Kapronca-K\u0151r\u00f6s megye"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0554\u0578\u0583\u0580\u056b\u057e\u0576\u056b\u0584\u0561"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Koprivnica-Kri\u017eevci"
@@ -227,6 +239,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e2d\u0e1e\u0e23\u0e35\u0e1f\u0e19\u0e35\u0e15\u0e0b\u0e32-\u0e04\u0e23\u0e35\u0e40\u0e0a\u0e1f\u0e15\u0e4c\u0e0b\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e01\u0e2d\u0e1b\u0e23\u0e35\u0e1f\u0e19\u0e34\u0e15\u0e0b\u0e32-\u0e01\u0e23\u0e35\u0e40\u0e0c\u0e1f\u0e15\u0e4c\u0e0b\u0e35"
     ],
     "name:tur_x_preferred":[
         "Koprivnica-Kri\u017eevci"
@@ -352,7 +367,7 @@
         "wd:id":"Q58026"
     },
     "wof:country":"HR",
-    "wof:geomhash":"b99cbf19976d5cc29665015e7bdcb4bc",
+    "wof:geomhash":"55a14dfcc40488ca1f279c29331a63a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -368,7 +383,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1684351628,
+    "wof:lastmodified":1690930371,
     "wof:name":"Koprivnicko-kri\u017eevacka",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

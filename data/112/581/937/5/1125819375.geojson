@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "O\u0161trice"
     ],
+    "name:pol_x_preferred":[
+        "O\u0161trice"
+    ],
     "name:slv_x_preferred":[
         "O\u0161trice"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125819375,
-    "wof:lastmodified":1566647491,
+    "wof:lastmodified":1690930540,
     "wof:name":"O\u00b5trice",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

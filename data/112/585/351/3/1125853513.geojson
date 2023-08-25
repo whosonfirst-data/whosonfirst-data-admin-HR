@@ -25,7 +25,16 @@
     "name:bos_x_preferred":[
         "Sobra"
     ],
+    "name:ces_x_preferred":[
+        "Sobra"
+    ],
+    "name:deu_x_preferred":[
+        "Sobra"
+    ],
     "name:eng_x_preferred":[
+        "Sobra"
+    ],
+    "name:fra_x_preferred":[
         "Sobra"
     ],
     "name:hrv_x_preferred":[
@@ -42,6 +51,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u0431\u0440\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Sobra"
     ],
     "name:slv_x_preferred":[
         "Sobra"
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1125853513,
-    "wof:lastmodified":1566647525,
+    "wof:lastmodified":1690930579,
     "wof:name":"Sovra",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

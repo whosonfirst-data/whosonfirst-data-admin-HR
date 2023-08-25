@@ -25,7 +25,13 @@
     "name:bos_x_preferred":[
         "\u017dminj"
     ],
+    "name:cat_x_preferred":[
+        "\u017dminj"
+    ],
     "name:ceb_x_preferred":[
+        "\u017dminj"
+    ],
+    "name:ces_x_preferred":[
         "\u017dminj"
     ],
     "name:deu_x_preferred":[
@@ -58,6 +64,9 @@
     "name:pol_x_preferred":[
         "Gmina \u017dminj"
     ],
+    "name:por_x_preferred":[
+        "\u017dminj"
+    ],
     "name:ron_x_preferred":[
         "Comuna \u017dminj"
     ],
@@ -81,6 +90,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u043c\u0438\u043d\u044c"
+    ],
+    "name:vec_x_preferred":[
+        "Gimin"
     ],
     "name:war_x_preferred":[
         "\u017dminj"
@@ -136,7 +148,7 @@
         }
     ],
     "wof:id":1125817621,
-    "wof:lastmodified":1566647491,
+    "wof:lastmodified":1690930539,
     "wof:name":"\u017dminj",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

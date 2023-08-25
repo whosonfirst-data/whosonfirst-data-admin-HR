@@ -25,6 +25,12 @@
     "name:bos_x_preferred":[
         "\u010cilipi"
     ],
+    "name:bul_x_preferred":[
+        "\u0427\u0438\u043b\u0438\u043f\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "\u010cilipi"
+    ],
     "name:ceb_x_preferred":[
         "\u010cilipi"
     ],
@@ -44,6 +50,9 @@
         "Cilippi"
     ],
     "name:nld_x_preferred":[
+        "\u010cilipi"
+    ],
+    "name:pol_x_preferred":[
         "\u010cilipi"
     ],
     "name:rus_x_preferred":[
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1125778717,
-    "wof:lastmodified":1566647531,
+    "wof:lastmodified":1690930585,
     "wof:name":"\u010cilipi",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

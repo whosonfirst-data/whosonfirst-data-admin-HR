@@ -43,6 +43,9 @@
     "name:nld_x_preferred":[
         "Dubrov\u010dan"
     ],
+    "name:pol_x_preferred":[
+        "Dubrov\u010dan"
+    ],
     "name:slv_x_preferred":[
         "Dubrov\u010dan"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125937235,
-    "wof:lastmodified":1566647468,
+    "wof:lastmodified":1690930512,
     "wof:name":"Dubrov\u010dan",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",

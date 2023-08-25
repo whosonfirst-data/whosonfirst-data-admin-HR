@@ -46,6 +46,12 @@
     "name:hrv_x_preferred":[
         "Maksimir"
     ],
+    "name:hun_x_preferred":[
+        "Maksimir"
+    ],
+    "name:ita_x_preferred":[
+        "Maksimir"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30af\u30b9\u30df\u30eb"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:pol_x_preferred":[
         "Maksimir"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0441\u0438\u043c\u0438\u0440"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u043a\u0441\u0438\u043c\u0438\u0440"
@@ -128,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582318727,
+    "wof:lastmodified":1690930363,
     "wof:name":"Maksimir",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

@@ -34,7 +34,13 @@
     "name:hun_x_preferred":[
         "Malo Grablje"
     ],
+    "name:pol_x_preferred":[
+        "Malo Grablje"
+    ],
     "name:slv_x_preferred":[
+        "Malo Grablje"
+    ],
+    "name:spa_x_preferred":[
         "Malo Grablje"
     ],
     "name:srp_x_preferred":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125921957,
-    "wof:lastmodified":1566647472,
+    "wof:lastmodified":1690930516,
     "wof:name":"Malo Grablje",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

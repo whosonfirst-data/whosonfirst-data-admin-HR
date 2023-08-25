@@ -25,7 +25,16 @@
     "name:bos_x_preferred":[
         "Pola\u010de"
     ],
+    "name:ces_x_preferred":[
+        "Pola\u010de"
+    ],
+    "name:deu_x_preferred":[
+        "Pola\u010de"
+    ],
     "name:eng_x_preferred":[
+        "Pola\u010de"
+    ],
+    "name:fra_x_preferred":[
         "Pola\u010de"
     ],
     "name:hrv_x_preferred":[
@@ -37,8 +46,14 @@
     "name:nld_x_preferred":[
         "Pola\u010de"
     ],
+    "name:pol_x_preferred":[
+        "Pola\u010de"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u043b\u0430\u0447"
+    ],
+    "name:slk_x_preferred":[
+        "Pola\u010de"
     ],
     "name:slv_x_preferred":[
         "Pola\u010de"
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":1125921989,
-    "wof:lastmodified":1566647474,
+    "wof:lastmodified":1690930518,
     "wof:name":"Pola\u010de",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

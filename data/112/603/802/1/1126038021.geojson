@@ -28,6 +28,12 @@
     "name:ceb_x_preferred":[
         "Gola"
     ],
+    "name:ces_x_preferred":[
+        "Gola"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Gola"
+    ],
     "name:eng_x_preferred":[
         "Gola"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:hun_x_preferred":[
         "Gola"
+    ],
+    "name:hun_x_variant":[
+        "G\u00f3la"
     ],
     "name:ita_x_preferred":[
         "Gola"
@@ -69,6 +78,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u0430"
+    ],
+    "name:vec_x_preferred":[
+        "Gola"
     ],
     "name:war_x_preferred":[
         "Gola"
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":1126038021,
-    "wof:lastmodified":1566647486,
+    "wof:lastmodified":1690930534,
     "wof:name":"Gola",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

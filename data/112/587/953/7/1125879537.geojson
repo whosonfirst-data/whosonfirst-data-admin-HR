@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Pobre\u017eje"
     ],
+    "name:deu_x_preferred":[
+        "Pobre\u017eje"
+    ],
     "name:eng_x_preferred":[
         "Pobre\u017eje"
     ],
@@ -32,6 +35,9 @@
         "Pobre\u017eje"
     ],
     "name:hun_x_preferred":[
+        "Pobre\u017eje"
+    ],
+    "name:pol_x_preferred":[
         "Pobre\u017eje"
     ],
     "name:slv_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125879537,
-    "wof:lastmodified":1566647499,
+    "wof:lastmodified":1690930550,
     "wof:name":"Pobre\u017eje",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

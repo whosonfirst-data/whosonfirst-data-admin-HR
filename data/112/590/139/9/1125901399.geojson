@@ -34,6 +34,9 @@
     "name:hun_x_preferred":[
         "Veliko Brdo"
     ],
+    "name:pol_x_preferred":[
+        "Veliko Brdo"
+    ],
     "name:slv_x_preferred":[
         "Veliko Brdo"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125901399,
-    "wof:lastmodified":1566647505,
+    "wof:lastmodified":1690930558,
     "wof:name":"Veliko Brdo",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

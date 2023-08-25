@@ -25,6 +25,12 @@
     "name:bos_x_preferred":[
         "\u017ddrelac"
     ],
+    "name:ces_x_preferred":[
+        "\u017ddrelac"
+    ],
+    "name:deu_x_preferred":[
+        "\u017ddrelac"
+    ],
     "name:eng_x_preferred":[
         "\u017ddrelac"
     ],
@@ -40,7 +46,16 @@
     "name:nld_x_preferred":[
         "\u017ddrelac"
     ],
+    "name:pol_x_preferred":[
+        "\u017ddrelac"
+    ],
+    "name:slk_x_preferred":[
+        "\u017ddrelac"
+    ],
     "name:slv_x_preferred":[
+        "\u017ddrelac"
+    ],
+    "name:spa_x_preferred":[
         "\u017ddrelac"
     ],
     "name:srp_x_preferred":[
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":1125922115,
-    "wof:lastmodified":1566647473,
+    "wof:lastmodified":1690930517,
     "wof:name":"\u017ddrelac",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",

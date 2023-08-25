@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Lupoglav"
     ],
+    "name:ces_x_preferred":[
+        "Lupoglav"
+    ],
     "name:deu_x_preferred":[
         "Lupoglav"
     ],
@@ -55,6 +58,9 @@
     "name:pol_x_preferred":[
         "Lupoglav"
     ],
+    "name:por_x_preferred":[
+        "Lupoglav"
+    ],
     "name:ron_x_preferred":[
         "Comuna Lupoglav"
     ],
@@ -78,6 +84,9 @@
     ],
     "name:und_x_variant":[
         "Castel Lupogliano"
+    ],
+    "name:vec_x_preferred":[
+        "Lupojan"
     ],
     "name:war_x_preferred":[
         "Lupoglav"
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":1125963053,
-    "wof:lastmodified":1566647509,
+    "wof:lastmodified":1690930563,
     "wof:name":"Lupoglav",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

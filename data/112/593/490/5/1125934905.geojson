@@ -46,6 +46,9 @@
     "name:fra_x_preferred":[
         "Primo\u0161ten"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d9\u05de\u05d5\u05e9\u05d8\u05df"
+    ],
     "name:hrv_x_preferred":[
         "Primo\u0161ten"
     ],
@@ -76,6 +79,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u043c\u043e\u0448\u0442\u0435\u043d"
     ],
+    "name:slk_x_preferred":[
+        "Primo\u0161ten"
+    ],
     "name:slv_x_preferred":[
         "Primo\u0161ten"
     ],
@@ -94,8 +100,14 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u043c\u043e\u0448\u0442\u0435\u043d"
     ],
+    "name:vec_x_preferred":[
+        "Capocesto"
+    ],
     "name:war_x_preferred":[
         "Primo\u0161ten"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u83ab\u65af\u7279"
     ],
     "qs_pg:aaroncc":"HR",
     "qs_pg:gn_country":"HR",
@@ -148,7 +160,7 @@
         }
     ],
     "wof:id":1125934905,
-    "wof:lastmodified":1566647467,
+    "wof:lastmodified":1690930511,
     "wof:name":"Primo\u00b5ten",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

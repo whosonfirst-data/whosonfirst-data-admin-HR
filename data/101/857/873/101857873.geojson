@@ -23,6 +23,9 @@
     "name:bos_x_preferred":[
         "Novo Virje"
     ],
+    "name:ces_x_preferred":[
+        "Novo Virje"
+    ],
     "name:eng_x_preferred":[
         "Novo Virje"
     ],
@@ -47,6 +50,9 @@
     "name:pol_x_preferred":[
         "Gmina Novo Virje"
     ],
+    "name:pol_x_variant":[
+        "Novo Virje"
+    ],
     "name:ron_x_preferred":[
         "Comuna Novo Virje"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e \u0412\u0456\u0440'\u0454"
+    ],
+    "name:vec_x_preferred":[
+        "Novo Virje"
     ],
     "name:war_x_preferred":[
         "Novo Virje"
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":101857873,
-    "wof:lastmodified":1582318743,
+    "wof:lastmodified":1690930412,
     "wof:name":"Novo Virje",
     "wof:parent_id":85684799,
     "wof:placetype":"locality",

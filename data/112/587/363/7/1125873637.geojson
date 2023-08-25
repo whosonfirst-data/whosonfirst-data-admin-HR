@@ -55,6 +55,9 @@
     "name:nld_x_preferred":[
         "Stomorska"
     ],
+    "name:pol_x_preferred":[
+        "Stomorska"
+    ],
     "name:slv_x_preferred":[
         "Stomorska"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1125873637,
-    "wof:lastmodified":1566647500,
+    "wof:lastmodified":1690930551,
     "wof:name":"Stomorska",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ceb_x_preferred":[
         "Vrati\u0161inec"
     ],
+    "name:ces_x_preferred":[
+        "Vrati\u0161inec"
+    ],
+    "name:deu_x_preferred":[
+        "Vrati\u0161inec"
+    ],
     "name:eng_x_preferred":[
         "Vrati\u0161inec"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0440\u0430\u0442\u0438\u0448\u0438\u043d\u0435\u0446\u044c"
+    ],
+    "name:vec_x_preferred":[
+        "Vrati\u0161inec"
     ],
     "name:war_x_preferred":[
         "Vrati\u0161inec"
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":1125978121,
-    "wof:lastmodified":1566647507,
+    "wof:lastmodified":1690930560,
     "wof:name":"Vrati\u00b5inec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

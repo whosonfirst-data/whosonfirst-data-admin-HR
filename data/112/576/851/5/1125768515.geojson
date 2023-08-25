@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Bosanka"
     ],
+    "name:cat_x_preferred":[
+        "Bosanka"
+    ],
     "name:eng_x_preferred":[
         "Bosanka"
     ],
@@ -34,7 +37,13 @@
     "name:hun_x_preferred":[
         "Bosanka"
     ],
+    "name:ita_x_preferred":[
+        "Forte Imperiale"
+    ],
     "name:nld_x_preferred":[
+        "Bosanka"
+    ],
+    "name:pol_x_preferred":[
         "Bosanka"
     ],
     "name:slv_x_preferred":[
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1125768515,
-    "wof:lastmodified":1566647521,
+    "wof:lastmodified":1690930575,
     "wof:name":"Bosanka",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

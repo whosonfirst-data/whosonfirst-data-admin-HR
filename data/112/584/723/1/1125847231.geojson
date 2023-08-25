@@ -34,7 +34,16 @@
     "name:ceb_x_preferred":[
         "Brodarica"
     ],
+    "name:ces_x_preferred":[
+        "Brodarica"
+    ],
+    "name:deu_x_preferred":[
+        "Brodarica"
+    ],
     "name:eng_x_preferred":[
+        "Brodarica"
+    ],
+    "name:fra_x_preferred":[
         "Brodarica"
     ],
     "name:hrv_x_preferred":[
@@ -46,7 +55,16 @@
     "name:nld_x_preferred":[
         "Brodarica"
     ],
+    "name:pol_x_preferred":[
+        "Brodarica"
+    ],
+    "name:slk_x_preferred":[
+        "Brodarica"
+    ],
     "name:slv_x_preferred":[
+        "Brodarica"
+    ],
+    "name:spa_x_preferred":[
         "Brodarica"
     ],
     "name:sqi_x_preferred":[
@@ -115,7 +133,7 @@
         }
     ],
     "wof:id":1125847231,
-    "wof:lastmodified":1566647529,
+    "wof:lastmodified":1690930583,
     "wof:name":"Brodarica",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Bu\u0161etina"
     ],
+    "name:cat_x_preferred":[
+        "Bu\u0161etina"
+    ],
     "name:ceb_x_preferred":[
         "Bu\u0161etina"
     ],
@@ -41,6 +44,9 @@
         "Bu\u0161etina"
     ],
     "name:nld_x_preferred":[
+        "Bu\u0161etina"
+    ],
+    "name:pol_x_preferred":[
         "Bu\u0161etina"
     ],
     "name:slv_x_preferred":[
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1125957981,
-    "wof:lastmodified":1566647476,
+    "wof:lastmodified":1690930520,
     "wof:name":"Bu\u00b5etina",
     "wof:parent_id":85684793,
     "wof:placetype":"locality",

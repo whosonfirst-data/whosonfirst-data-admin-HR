@@ -43,7 +43,13 @@
     "name:hun_x_preferred":[
         "\u0160mrika"
     ],
+    "name:ita_x_preferred":[
+        "Smericca"
+    ],
     "name:nld_x_preferred":[
+        "\u0160mrika"
+    ],
+    "name:pol_x_preferred":[
         "\u0160mrika"
     ],
     "name:slv_x_preferred":[
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1125853527,
-    "wof:lastmodified":1566647523,
+    "wof:lastmodified":1690930576,
     "wof:name":"\u0160mrika",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

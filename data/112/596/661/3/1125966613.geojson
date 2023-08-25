@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Bubani"
     ],
+    "name:cat_x_preferred":[
+        "Bubani"
+    ],
     "name:eng_x_preferred":[
         "Bubani"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:hun_x_preferred":[
         "Bubani"
+    ],
+    "name:ita_x_preferred":[
+        "Babani"
     ],
     "name:nld_x_preferred":[
         "Bubani"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1125966613,
-    "wof:lastmodified":1566647509,
+    "wof:lastmodified":1690930563,
     "wof:name":"Bubani",
     "wof:parent_id":85684829,
     "wof:placetype":"locality",

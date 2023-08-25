@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Prozor"
     ],
+    "name:pol_x_preferred":[
+        "Prozor"
+    ],
     "name:slv_x_preferred":[
         "Prozor"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125867013,
-    "wof:lastmodified":1566647489,
+    "wof:lastmodified":1690930537,
     "wof:name":"Gornji Prozor",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",

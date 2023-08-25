@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Drivenik"
     ],
+    "name:pol_x_preferred":[
+        "Drivenik"
+    ],
     "name:slv_x_preferred":[
         "Drivenik"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125954907,
-    "wof:lastmodified":1566647477,
+    "wof:lastmodified":1690930522,
     "wof:name":"Drivenik",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

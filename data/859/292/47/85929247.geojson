@@ -27,6 +27,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:bos_x_preferred":[
+        "Podsused\u2013Vrap\u010de"
+    ],
     "name:hbs_x_preferred":[
         "Podsused - Vrap\u010de"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:swe_x_preferred":[
         "Podsused-Vrap\u010de"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0441\u0443\u0441\u0435\u0434-\u0412\u0440\u0430\u043f\u0447\u0435"
     ],
     "name:und_x_colloquial":[
         "Podsused-Vrapce"
@@ -115,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582318728,
+    "wof:lastmodified":1690930364,
     "wof:name":"Podsused-Vrap\u010de",
     "wof:parent_id":101751659,
     "wof:placetype":"neighbourhood",

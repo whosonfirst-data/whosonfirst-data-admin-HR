@@ -49,6 +49,9 @@
     "name:nld_x_preferred":[
         "Grohote"
     ],
+    "name:pol_x_preferred":[
+        "Grohote"
+    ],
     "name:slv_x_preferred":[
         "Grohote"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125817279,
-    "wof:lastmodified":1566647494,
+    "wof:lastmodified":1690930543,
     "wof:name":"Grohote",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

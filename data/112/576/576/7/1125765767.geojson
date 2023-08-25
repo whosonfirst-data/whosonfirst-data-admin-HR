@@ -43,6 +43,9 @@
     "name:nld_x_preferred":[
         "Lopatinec"
     ],
+    "name:pol_x_preferred":[
+        "Lopatinec"
+    ],
     "name:slv_x_preferred":[
         "Lopatinec"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125765767,
-    "wof:lastmodified":1566647522,
+    "wof:lastmodified":1690930575,
     "wof:name":"Lopatinec",
     "wof:parent_id":85684823,
     "wof:placetype":"locality",

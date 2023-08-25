@@ -64,6 +64,9 @@
     "name:pol_x_preferred":[
         "Sutivan"
     ],
+    "name:por_x_preferred":[
+        "Sutivan"
+    ],
     "name:ron_x_preferred":[
         "Comuna Sutivan"
     ],
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1125876817,
-    "wof:lastmodified":1566647500,
+    "wof:lastmodified":1690930551,
     "wof:name":"Sutivan",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

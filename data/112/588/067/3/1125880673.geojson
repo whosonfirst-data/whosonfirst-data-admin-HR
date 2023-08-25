@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Gare\u0161nica"
+    ],
     "name:bos_x_preferred":[
+        "Gare\u0161nica"
+    ],
+    "name:bre_x_preferred":[
         "Gare\u0161nica"
     ],
     "name:cat_x_preferred":[
@@ -100,6 +106,9 @@
     "name:und_x_variant":[
         "Gareshnitsa"
     ],
+    "name:vec_x_preferred":[
+        "Gare\u0161nica"
+    ],
     "name:war_x_preferred":[
         "Gare\u0161nica"
     ],
@@ -155,7 +164,7 @@
         }
     ],
     "wof:id":1125880673,
-    "wof:lastmodified":1566647496,
+    "wof:lastmodified":1690930545,
     "wof:name":"Gare\u00b5nica",
     "wof:parent_id":85684753,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Beletinec"
     ],
+    "name:cat_x_preferred":[
+        "Beletinec"
+    ],
     "name:ceb_x_preferred":[
         "Beletinec"
     ],
@@ -38,6 +41,9 @@
         "Beletinec"
     ],
     "name:nld_x_preferred":[
+        "Beletinec"
+    ],
+    "name:pol_x_preferred":[
         "Beletinec"
     ],
     "name:slv_x_preferred":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125978083,
-    "wof:lastmodified":1566647507,
+    "wof:lastmodified":1690930561,
     "wof:name":"Be\u00b5linec",
     "wof:parent_id":85684835,
     "wof:placetype":"locality",

@@ -34,10 +34,19 @@
     "name:hrv_x_preferred":[
         "Zadubravlje"
     ],
+    "name:hun_x_preferred":[
+        "Zadubravlje"
+    ],
     "name:nld_x_preferred":[
         "Zadubravlje"
     ],
+    "name:pol_x_preferred":[
+        "Zadubravlje"
+    ],
     "name:slv_x_preferred":[
+        "Zadubravlje"
+    ],
+    "name:spa_x_preferred":[
         "Zadubravlje"
     ],
     "name:srp_x_preferred":[
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1125937477,
-    "wof:lastmodified":1566647468,
+    "wof:lastmodified":1690930512,
     "wof:name":"Zadubravlje",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

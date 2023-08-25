@@ -25,7 +25,13 @@
     "name:bos_x_preferred":[
         "Re\u0161etari"
     ],
+    "name:bul_x_preferred":[
+        "\u0420\u0435\u0448\u0435\u0442\u0430\u0440\u0438"
+    ],
     "name:ceb_x_preferred":[
+        "Re\u0161etari"
+    ],
+    "name:ces_x_preferred":[
         "Re\u0161etari"
     ],
     "name:deu_x_preferred":[
@@ -34,11 +40,17 @@
     "name:eng_x_preferred":[
         "Re\u0161etari"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0634\u062a\u0627\u0631\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Re\u0161etari"
     ],
     "name:hrv_x_preferred":[
         "Re\u0161etari"
+    ],
+    "name:hun_x_preferred":[
+        "Reset\u00e1r"
     ],
     "name:ita_x_preferred":[
         "Re\u0161etari"
@@ -69,6 +81,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0448\u0435\u0442\u0430\u0440\u0456"
+    ],
+    "name:vec_x_preferred":[
+        "Re\u0161etari"
     ],
     "name:war_x_preferred":[
         "Re\u0161etari"
@@ -122,7 +137,7 @@
         }
     ],
     "wof:id":1125929029,
-    "wof:lastmodified":1566647474,
+    "wof:lastmodified":1690930519,
     "wof:name":"Re\u00b5etari",
     "wof:parent_id":85684749,
     "wof:placetype":"locality",

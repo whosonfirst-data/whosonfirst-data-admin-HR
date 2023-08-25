@@ -37,6 +37,9 @@
     "name:hun_x_preferred":[
         "Trstenik"
     ],
+    "name:pol_x_preferred":[
+        "Trstenik"
+    ],
     "name:slv_x_preferred":[
         "Trstenik"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125837013,
-    "wof:lastmodified":1566647531,
+    "wof:lastmodified":1690930585,
     "wof:name":"Trstenik",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

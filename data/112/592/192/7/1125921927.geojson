@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "Gata"
     ],
+    "name:pol_x_preferred":[
+        "Gata"
+    ],
     "name:slv_x_preferred":[
         "Gata"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125921927,
-    "wof:lastmodified":1566647472,
+    "wof:lastmodified":1690930516,
     "wof:name":"Gata",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

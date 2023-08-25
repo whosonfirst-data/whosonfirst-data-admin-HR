@@ -43,6 +43,9 @@
     "name:nld_x_preferred":[
         "Nakovanj"
     ],
+    "name:pol_x_preferred":[
+        "Nakovanj"
+    ],
     "name:slv_x_preferred":[
         "Nakovanj"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125768507,
-    "wof:lastmodified":1566647521,
+    "wof:lastmodified":1690930575,
     "wof:name":"Nakovanj",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

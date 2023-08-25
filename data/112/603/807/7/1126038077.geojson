@@ -22,10 +22,22 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kutjevo"
+    ],
     "name:bos_x_preferred":[
         "Kutjevo"
     ],
+    "name:bre_x_preferred":[
+        "Kutjevo"
+    ],
+    "name:cat_x_preferred":[
+        "Kutjevo"
+    ],
     "name:ceb_x_preferred":[
+        "Kutjevo"
+    ],
+    "name:ces_x_preferred":[
         "Kutjevo"
     ],
     "name:ckb_x_preferred":[
@@ -52,6 +64,9 @@
     "name:hrv_x_preferred":[
         "Kutjevo"
     ],
+    "name:hun_x_preferred":[
+        "Kutjevo"
+    ],
     "name:ita_x_preferred":[
         "Kutjevo"
     ],
@@ -69,6 +84,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0442\u044c\u0435\u0432\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Kutjevo"
     ],
     "name:slv_x_preferred":[
         "Kutjevo"
@@ -93,6 +111,9 @@
     ],
     "name:und_x_variant":[
         "Got\u00f3"
+    ],
+    "name:vec_x_preferred":[
+        "Kutjevo"
     ],
     "name:war_x_preferred":[
         "Kutjevo"
@@ -149,7 +170,7 @@
         }
     ],
     "wof:id":1126038077,
-    "wof:lastmodified":1566647488,
+    "wof:lastmodified":1690930536,
     "wof:name":"Kutjevo",
     "wof:parent_id":85684763,
     "wof:placetype":"locality",

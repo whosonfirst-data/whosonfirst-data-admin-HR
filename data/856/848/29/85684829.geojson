@@ -48,6 +48,12 @@
     "name:arg_x_preferred":[
         "Condato d'Istria"
     ],
+    "name:aze_x_preferred":[
+        "\u0130striya jupaniyas\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u0406\u0441\u0442\u0440\u044b\u0439\u0441\u043a\u0430\u044f \u0436\u0443\u043f\u0430\u043d\u0456\u044f"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09cd\u09a4\u09cd\u09b0\u09bf\u09af\u09bc\u09be \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
@@ -69,6 +75,9 @@
     "name:cor_x_preferred":[
         "Konteth Istri"
     ],
+    "name:cym_x_preferred":[
+        "Sir Istria"
+    ],
     "name:dan_x_preferred":[
         "Istria County"
     ],
@@ -80,6 +89,9 @@
     ],
     "name:ell_x_preferred":[
         "\u038a\u03c3\u03c4\u03c1\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03bf\u03c5\u03c0\u03b1\u03bd\u03af\u03b3\u03b9\u03b1 \u038a\u03c3\u03c4\u03c1\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Istarska"
@@ -111,6 +123,9 @@
     "name:frr_x_preferred":[
         "Istrien"
     ],
+    "name:gle_x_preferred":[
+        "Contae Istria"
+    ],
     "name:guj_x_preferred":[
         "\u0a86\u0a87\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0abf\u0aaf\u0abe \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
     ],
@@ -128,6 +143,12 @@
     ],
     "name:hye_x_preferred":[
         "\u053b\u057d\u057f\u0580\u056b\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053b\u057d\u0569\u0580\u056b\u0561"
+    ],
+    "name:ina_x_preferred":[
+        "Provincia histrian"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Istria"
@@ -186,6 +207,9 @@
     "name:oci_x_preferred":[
         "Comtat d'Istria"
     ],
+    "name:oss_x_preferred":[
+        "\u0418\u0441\u0442\u0440\u0438\u0439\u044b \u0436\u0443\u043f\u0430\u043d\u0438"
+    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0627\u0633\u062a\u0631\u06cc\u0627"
     ],
@@ -237,8 +261,14 @@
     "name:tam_x_preferred":[
         "\u0b87\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0baf\u0bbe \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
+    "name:tat_x_preferred":[
+        "\u0418\u0441\u0442\u0430\u0440\u0441\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0438\u044f\u0441\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c07\u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c3f\u0c2f\u0c3e \u0c15\u0c4c\u0c02\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0418\u0441\u0442\u0440\u0438\u0451"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e2d\u0e34\u0e2a\u0e40\u0e15\u0e23\u0e35\u0e22"
@@ -260,6 +290,9 @@
     ],
     "name:war_x_preferred":[
         "Istria"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f0a\u65af\u7279\u62c9\u53bf"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u65af\u7279\u62c9\u7e23"
@@ -367,7 +400,7 @@
         "wd:id":"Q58268"
     },
     "wof:country":"HR",
-    "wof:geomhash":"e2b391eda3900bd9795f5feeeb6db62a",
+    "wof:geomhash":"6ea6c77395c5d3348db6097b22e0dbe5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -383,7 +416,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1684351629,
+    "wof:lastmodified":1690930366,
     "wof:name":"Istarska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

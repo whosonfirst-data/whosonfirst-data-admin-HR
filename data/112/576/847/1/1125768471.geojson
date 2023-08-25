@@ -25,6 +25,9 @@
     "name:bos_x_preferred":[
         "Doli"
     ],
+    "name:cat_x_preferred":[
+        "Doli"
+    ],
     "name:deu_x_preferred":[
         "Doli"
     ],
@@ -38,6 +41,9 @@
         "Doli"
     ],
     "name:nld_x_preferred":[
+        "Doli"
+    ],
+    "name:pol_x_preferred":[
         "Doli"
     ],
     "name:slk_x_preferred":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125768471,
-    "wof:lastmodified":1566647521,
+    "wof:lastmodified":1690930575,
     "wof:name":"\u00d0onta Doli",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

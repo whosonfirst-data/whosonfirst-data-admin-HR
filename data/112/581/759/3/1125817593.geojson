@@ -37,7 +37,13 @@
     "name:hun_x_preferred":[
         "\u017dedno"
     ],
+    "name:ita_x_preferred":[
+        "Zedno"
+    ],
     "name:nld_x_preferred":[
+        "\u017dedno"
+    ],
+    "name:pol_x_preferred":[
         "\u017dedno"
     ],
     "name:slv_x_preferred":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125817593,
-    "wof:lastmodified":1566647493,
+    "wof:lastmodified":1690930541,
     "wof:name":"\u017dedno",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

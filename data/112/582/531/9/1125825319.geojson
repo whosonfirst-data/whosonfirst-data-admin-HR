@@ -38,6 +38,9 @@
     "name:nld_x_preferred":[
         "Sljeme"
     ],
+    "name:pol_x_preferred":[
+        "Sljeme"
+    ],
     "name:slv_x_preferred":[
         "Sljeme"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125825319,
-    "wof:lastmodified":1566647520,
+    "wof:lastmodified":1690930574,
     "wof:name":"Sljeme",
     "wof:parent_id":85684811,
     "wof:placetype":"locality",

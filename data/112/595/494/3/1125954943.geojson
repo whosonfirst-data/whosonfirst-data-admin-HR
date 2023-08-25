@@ -46,6 +46,9 @@
     "name:slv_x_preferred":[
         "Radu\u010di\u0107"
     ],
+    "name:spa_x_preferred":[
+        "Radu\u010di\u0107"
+    ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u0434\u0443\u0447\u0438\u045b"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125954943,
-    "wof:lastmodified":1566647479,
+    "wof:lastmodified":1690930524,
     "wof:name":"Radu\u010di\u0107",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

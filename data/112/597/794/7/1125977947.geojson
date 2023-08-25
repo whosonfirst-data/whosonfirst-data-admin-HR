@@ -25,6 +25,12 @@
     "name:bos_x_preferred":[
         "Stara Ba\u0161ka"
     ],
+    "name:ces_x_preferred":[
+        "Stara Ba\u0161ka"
+    ],
+    "name:deu_x_preferred":[
+        "Stara Ba\u0161ka"
+    ],
     "name:eng_x_preferred":[
         "Stara Ba\u0161ka"
     ],
@@ -35,6 +41,9 @@
         "Stara Ba\u0161ka"
     ],
     "name:nld_x_preferred":[
+        "Stara Ba\u0161ka"
+    ],
+    "name:pol_x_preferred":[
         "Stara Ba\u0161ka"
     ],
     "name:slv_x_preferred":[
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":1125977947,
-    "wof:lastmodified":1566647507,
+    "wof:lastmodified":1690930560,
     "wof:name":"Stara Ba\u00b5ka",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",

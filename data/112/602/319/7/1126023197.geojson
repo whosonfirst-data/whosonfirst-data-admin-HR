@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Maranovi\u0107i"
     ],
+    "name:pol_x_preferred":[
+        "Maranovi\u0107i"
+    ],
     "name:slv_x_preferred":[
         "Maranovi\u0107i"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1126023197,
-    "wof:lastmodified":1566647484,
+    "wof:lastmodified":1690930531,
     "wof:name":"Maranovi\u0107i",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",

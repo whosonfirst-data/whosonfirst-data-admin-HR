@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Stobre\u010d"
     ],
+    "name:ces_x_preferred":[
+        "Stobre\u010d"
+    ],
     "name:deu_x_preferred":[
         "Stobre\u010d"
     ],
@@ -52,10 +55,16 @@
     "name:nld_x_preferred":[
         "Stobre\u010d"
     ],
+    "name:pol_x_preferred":[
+        "Stobre\u010d"
+    ],
     "name:por_x_preferred":[
         "Stobre\u010d"
     ],
     "name:sco_x_preferred":[
+        "Stobre\u010d"
+    ],
+    "name:slk_x_preferred":[
         "Stobre\u010d"
     ],
     "name:slv_x_preferred":[
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":1126009479,
-    "wof:lastmodified":1566647518,
+    "wof:lastmodified":1690930572,
     "wof:name":"Stobre\u0107",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

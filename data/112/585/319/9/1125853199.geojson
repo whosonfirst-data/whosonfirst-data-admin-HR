@@ -25,8 +25,14 @@
     "name:bos_x_preferred":[
         "Zlarin"
     ],
+    "name:ceb_x_preferred":[
+        "Zlarin"
+    ],
     "name:eng_x_preferred":[
         "Zlarin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05dc\u05d0\u05e8\u05d9\u05df"
     ],
     "name:hrv_x_preferred":[
         "Zlarino"
@@ -43,8 +49,14 @@
     "name:slv_x_preferred":[
         "Zlarin"
     ],
+    "name:spa_x_preferred":[
+        "Zlarin"
+    ],
     "name:srp_x_preferred":[
         "\u0417\u043b\u0430\u0440\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Zlarin"
     ],
     "name:ukr_x_preferred":[
         "\u0417\u043b\u0430\u0440\u0438\u043d"
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1125853199,
-    "wof:lastmodified":1566647526,
+    "wof:lastmodified":1690930581,
     "wof:name":"Zlarin",
     "wof:parent_id":85684755,
     "wof:placetype":"locality",

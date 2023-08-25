@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Zaku\u010dac"
     ],
+    "name:pol_x_preferred":[
+        "Zaku\u010dac"
+    ],
     "name:slv_x_preferred":[
         "Zaku\u010dac"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1126023349,
-    "wof:lastmodified":1566647483,
+    "wof:lastmodified":1690930529,
     "wof:name":"Zaku\u010dac",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",
