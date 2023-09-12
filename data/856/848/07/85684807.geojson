@@ -27,6 +27,9 @@
     "label:eng_x_preferred_longname":[
         "Zadarska County"
     ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "label:eng_x_preferred_shortcode":[
         "ZD"
     ],
@@ -384,7 +387,7 @@
         "wd:id":"Q58146"
     },
     "wof:country":"HR",
-    "wof:geomhash":"c11cae7ed369044b1445a97c0275992e",
+    "wof:geomhash":"64843a9fefdfa316ddf3223cca0b5129",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -400,7 +403,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930367,
+    "wof:lastmodified":1694493292,
     "wof:name":"Zadarska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

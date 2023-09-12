@@ -25,6 +25,9 @@
     "itu:country_code":[
         "385"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "HR"
     ],
@@ -1334,7 +1337,7 @@
         "us-dshiu",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"7c2a3d4a052bba3e54268708599f09ea",
+    "wof:geomhash":"47bd37ee956dfc66de5f7888b1c9aaf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1349,7 +1352,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930365,
+    "wof:lastmodified":1694492253,
     "wof:name":"Croatia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
