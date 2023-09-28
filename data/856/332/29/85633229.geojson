@@ -1313,6 +1313,7 @@
         "hasc:id":"HR",
         "icao:code":"9A",
         "ioc:id":"CRO",
+        "iso:code":"HR",
         "itu:id":"HRV",
         "loc:id":"n81035140",
         "m49:code":"191",
@@ -1327,6 +1328,7 @@
         "wk:page":"Croatia",
         "wmo:id":"RH"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HR",
     "wof:country_alpha3":"HRV",
     "wof:created":1652212669,
@@ -1352,7 +1354,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1694492253,
+    "wof:lastmodified":1695881366,
     "wof:name":"Croatia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
