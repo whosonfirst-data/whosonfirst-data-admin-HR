@@ -377,12 +377,18 @@
         "gn:id":3337524,
         "gp:id":12577982,
         "hasc:id":"HR.PG",
+        "iso:code":"HR-08",
         "iso:id":"HR-08",
+        "qs:local_id":"08",
         "unlc:id":"HR-08",
         "wd:id":"Q58071"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"fad4309c59e31977616d29fb4e0a1029",
+    "wof:geomhash":"9f082557f7b3a6440aa9ff457c25b864",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -398,7 +404,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930369,
+    "wof:lastmodified":1695885270,
     "wof:name":"Primorsko-goranska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

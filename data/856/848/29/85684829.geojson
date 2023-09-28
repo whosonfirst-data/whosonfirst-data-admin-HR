@@ -395,12 +395,18 @@
         "gn:id":3337514,
         "gp:id":12577974,
         "hasc:id":"HR.IS",
+        "iso:code":"HR-18",
         "iso:id":"HR-18",
+        "qs:local_id":"18",
         "unlc:id":"HR-18",
         "wd:id":"Q58268"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"6ea6c77395c5d3348db6097b22e0dbe5",
+    "wof:geomhash":"e2b391eda3900bd9795f5feeeb6db62a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -416,7 +422,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930366,
+    "wof:lastmodified":1695885270,
     "wof:name":"Istarska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

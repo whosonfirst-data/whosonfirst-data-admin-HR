@@ -394,12 +394,18 @@
         "gn:id":3337513,
         "gp:id":12577973,
         "hasc:id":"HR.DN",
+        "iso:code":"HR-19",
         "iso:id":"HR-19",
+        "qs:local_id":"19",
         "unlc:id":"HR-19",
         "wd:id":"Q58289"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"c60996469655c4c22e71e1527b08b299",
+    "wof:geomhash":"4288c141a695b726a8973823d94ec23d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -415,7 +421,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930369,
+    "wof:lastmodified":1695885269,
     "wof:name":"Dubrovacko-neretvanska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

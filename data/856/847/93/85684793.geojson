@@ -363,12 +363,18 @@
         "gn:id":3337533,
         "gp:id":12577987,
         "hasc:id":"HR.VP",
+        "iso:code":"HR-10",
         "iso:id":"HR-10",
+        "qs:local_id":"10",
         "unlc:id":"HR-10",
         "wd:id":"Q58092"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"c45ed0839b5fa66bcbdb45e62d7224fe",
+    "wof:geomhash":"076717254c02c3ca8d55aca0db822689",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -384,7 +390,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930368,
+    "wof:lastmodified":1695885270,
     "wof:name":"Viroviticko-podravska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

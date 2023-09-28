@@ -388,12 +388,18 @@
         "gn:id":3337532,
         "gp:id":20070170,
         "hasc:id":"HR.GZ",
+        "iso:code":"HR-21",
         "iso:id":"HR-21",
+        "qs:local_id":"21",
         "unlc:id":"HR-21",
         "wd:id":"Q27038"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"58ac2e9b56149cd95ae5eb6a9e37309a",
+    "wof:geomhash":"7baf51b7d445f6f4cf42421d31e58151",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -409,7 +415,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930366,
+    "wof:lastmodified":1695885270,
     "wof:name":"Grad Zagreb",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

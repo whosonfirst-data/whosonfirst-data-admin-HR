@@ -383,9 +383,15 @@
         "gn:id":3337530,
         "gp:id":12577989,
         "hasc:id":"HR.ZD",
+        "iso:code":"HR-13",
+        "qs:local_id":"13",
         "unlc:id":"HR-13",
         "wd:id":"Q58146"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
     "wof:geomhash":"64843a9fefdfa316ddf3223cca0b5129",
     "wof:hierarchy":[
@@ -403,7 +409,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1694493292,
+    "wof:lastmodified":1695885270,
     "wof:name":"Zadarska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

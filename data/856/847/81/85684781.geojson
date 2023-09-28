@@ -385,12 +385,18 @@
         "gn:id":3337527,
         "gp:id":12577985,
         "hasc:id":"HR.SD",
+        "iso:code":"HR-17",
         "iso:id":"HR-17",
+        "qs:local_id":"17",
         "unlc:id":"HR-17",
         "wd:id":"Q58253"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"2cd7db383393f940227895c42322817c",
+    "wof:geomhash":"93a7cdf80f170acc058961c9754c6d73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -406,7 +412,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930370,
+    "wof:lastmodified":1695885269,
     "wof:name":"Splitsko-dalmatinska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

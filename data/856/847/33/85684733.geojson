@@ -381,12 +381,18 @@
         "gn:id":3337529,
         "gp:id":12577988,
         "hasc:id":"HR.VS",
+        "iso:code":"HR-16",
         "iso:id":"HR-16",
+        "qs:local_id":"16",
         "unlc:id":"HR-16",
         "wd:id":"Q58225"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"18f13c737b38bd2ebb65d3660cb15cab",
+    "wof:geomhash":"f1c917c0ecd17a9f56ccc7efe8f8cd50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -402,7 +408,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930369,
+    "wof:lastmodified":1695885269,
     "wof:name":"Vukovarsko-srijemska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

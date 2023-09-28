@@ -390,12 +390,18 @@
         "gn:id":3337520,
         "gp:id":12577978,
         "hasc:id":"HR.LS",
+        "iso:code":"HR-09",
         "iso:id":"HR-09",
+        "qs:local_id":"09",
         "unlc:id":"HR-09",
         "wd:id":"Q58081"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"1e558e35a2c0428b5e5f5320d890002f",
+    "wof:geomhash":"287db54bcb05ca4087d7cc32a6b79954",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -411,7 +417,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930371,
+    "wof:lastmodified":1695885269,
     "wof:name":"Licko-senjska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

@@ -46,7 +46,14 @@
         85633229
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iso:code_pseudo":"HR-XX2",
+        "qs:a1_lc_pseudo":"X2"
+    },
+    "wof:concordances_official":"qs:a1_lc_pseudo",
+    "wof:concordances_official_alt":[
+        "iso:code_pseudo"
+    ],
     "wof:country":"HR",
     "wof:geomhash":"f2bf1461cf16feb023305a91632fe2db",
     "wof:hierarchy":[
@@ -64,7 +71,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1694493126,
+    "wof:lastmodified":1695884283,
     "wof:name":"Inland waters of Croatia",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

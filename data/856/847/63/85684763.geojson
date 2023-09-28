@@ -290,12 +290,18 @@
         "eurostat:nuts_2021_id":"HR023",
         "fips:code":"HR11",
         "hasc:id":"HR.PS",
+        "iso:code":"HR-11",
         "iso:id":"HR-11",
+        "qs:local_id":"11",
         "unlc:id":"HR-11",
         "wd:id":"Q58111"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"efecd2b4874952ba7c500d0766cb31de",
+    "wof:geomhash":"8ad1afba8bcaec209f048b58cd3902cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -311,7 +317,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930372,
+    "wof:lastmodified":1695885269,
     "wof:name":"Po\u017ee\u0161ko-slavonska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

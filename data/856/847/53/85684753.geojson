@@ -394,12 +394,18 @@
         "gn:id":3337511,
         "gp:id":12577991,
         "hasc:id":"HR.BB",
+        "iso:code":"HR-07",
         "iso:id":"HR-07",
+        "qs:local_id":"07",
         "unlc:id":"HR-07",
         "wd:id":"Q58060"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"6e506d88ef0cbc1c0817cb2be8cbd242",
+    "wof:geomhash":"b31c2879b404f668e98a7c6ee7be1865",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -415,7 +421,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930371,
+    "wof:lastmodified":1695885269,
     "wof:name":"Bjelovarsko-bilogorska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

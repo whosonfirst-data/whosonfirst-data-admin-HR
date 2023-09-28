@@ -381,12 +381,18 @@
         "gn:id":3337525,
         "gp:id":12577983,
         "hasc:id":"HR.SB",
+        "iso:code":"HR-15",
         "iso:id":"HR-15",
+        "qs:local_id":"15",
         "unlc:id":"HR-15",
         "wd:id":"Q58194"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"4c39bac0e64d75a1825769f5ba1508b1",
+    "wof:geomhash":"96f0dd40d1f3b820f731cac5ee545eeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -402,7 +408,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930372,
+    "wof:lastmodified":1695885269,
     "wof:name":"\u0160ibensko-kninska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",
