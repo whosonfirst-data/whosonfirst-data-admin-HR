@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040846,
-    "geom:area_square_m":353650446.831525,
+    "geom:area_square_m":353651656.372956,
     "geom:bbox":"13.210449,44.901058,19.443134,45.921398",
     "geom:latitude":45.555456,
     "geom:longitude":15.287663,
     "iso:country":"HR",
+    "label:eng_x_preferred_placetype":[
+        "disputed"
+    ],
     "lbl:latitude":45.513265,
     "lbl:longitude":13.374041,
     "lbl:min_zoom":8.0,
     "mps:latitude":45.513265,
     "mps:longitude":13.374041,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
@@ -43,9 +46,16 @@
         85633229
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iso:code_pseudo":"HR-XX1",
+        "qs:a1_lc_pseudo":"X1"
+    },
+    "wof:concordances_official":"qs:a1_lc_pseudo",
+    "wof:concordances_official_alt":[
+        "iso:code_pseudo"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"837c84feace95d37580e63ec838b5a83",
+    "wof:geomhash":"93a8c491729dc03337c66c851d78fe4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +76,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1627522188,
+    "wof:lastmodified":1695884283,
     "wof:name":"Disputed areas of Croatia",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

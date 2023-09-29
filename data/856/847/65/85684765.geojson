@@ -405,12 +405,18 @@
         "gn:id":3337531,
         "gp:id":12577990,
         "hasc:id":"HR.ZG",
+        "iso:code":"HR-01",
         "iso:id":"HR-01",
+        "qs:local_id":"01",
         "unlc:id":"HR-01",
         "wd:id":"Q27038"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"d3ec333815f1045667efade5e9395fc4",
+    "wof:geomhash":"c1bde506fd29399cd362e70288a5c753",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -426,7 +432,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930370,
+    "wof:lastmodified":1695885269,
     "wof:name":"Zagrebacka",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

@@ -365,12 +365,18 @@
         "gn:id":3337528,
         "gp:id":12577986,
         "hasc:id":"HR.VA",
+        "iso:code":"HR-05",
         "iso:id":"HR-05",
+        "qs:local_id":"05",
         "unlc:id":"HR-05",
         "wd:id":"Q57967"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"f0e6935a839d4e23e3489cc126b3bd4e",
+    "wof:geomhash":"dba5df1d71c95f2161b617bdbee6c449",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -386,7 +392,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930365,
+    "wof:lastmodified":1695885271,
     "wof:name":"Vara\u017edinska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

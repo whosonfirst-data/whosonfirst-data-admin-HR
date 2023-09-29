@@ -316,12 +316,18 @@
         "eurostat:nuts_2021_id":"HR024",
         "fips:code":"HR02",
         "hasc:id":"HR.SP",
+        "iso:code":"HR-12",
         "iso:id":"HR-12",
+        "qs:local_id":"12",
         "unlc:id":"HR-12",
         "wd:id":"Q58129"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"efaf1384c8f24b8f84d736a20adbe580",
+    "wof:geomhash":"2aef50ee73a68af487231e558b247d6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -337,7 +343,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930372,
+    "wof:lastmodified":1695885269,
     "wof:name":"Brodsko-posavska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

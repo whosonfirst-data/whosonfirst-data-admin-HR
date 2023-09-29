@@ -381,12 +381,18 @@
         "gn:id":3337522,
         "gp:id":12577980,
         "hasc:id":"HR.OB",
+        "iso:code":"HR-14",
         "iso:id":"HR-14",
+        "qs:local_id":"14",
         "unlc:id":"HR-14",
         "wd:id":"Q58159"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"45c6969ccd0dffcc84215dd7377ec8a8",
+    "wof:geomhash":"52636e31fe52fa07f881dae75509f620",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -402,7 +408,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930366,
+    "wof:lastmodified":1695885270,
     "wof:name":"Osjecko-baranjska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

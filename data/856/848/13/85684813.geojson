@@ -372,12 +372,18 @@
         "gn:id":3337519,
         "gp:id":12577977,
         "hasc:id":"HR.KZ",
+        "iso:code":"HR-02",
         "iso:id":"HR-02",
+        "qs:local_id":"02",
         "unlc:id":"HR-02",
         "wd:id":"Q57056"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"b8d19a6810f46d034af26baca54e746a",
+    "wof:geomhash":"5e52c42fbd4a272215ca312bc0548684",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -393,7 +399,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930368,
+    "wof:lastmodified":1695885270,
     "wof:name":"Krapinsko-zagorska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

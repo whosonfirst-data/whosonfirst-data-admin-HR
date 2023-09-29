@@ -369,12 +369,18 @@
         "gn:id":3337521,
         "gp:id":12577979,
         "hasc:id":"HR.ME",
+        "iso:code":"HR-20",
         "iso:id":"HR-20",
+        "qs:local_id":"20",
         "unlc:id":"HR-20",
         "wd:id":"Q58330"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"bd51dd4abdeda1e760ed93c93d2ad4d0",
+    "wof:geomhash":"0d0a7d90b5b9574469908bc8eb0db5c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -390,7 +396,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930367,
+    "wof:lastmodified":1695885270,
     "wof:name":"Medimurska",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

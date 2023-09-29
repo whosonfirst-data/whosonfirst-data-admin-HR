@@ -399,12 +399,18 @@
         "gn:id":3337515,
         "gp:id":12577975,
         "hasc:id":"HR.KA",
+        "iso:code":"HR-04",
         "iso:id":"HR-04",
+        "qs:local_id":"04",
         "unlc:id":"HR-04",
         "wd:id":"Q57071"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"951c6f3c12189e53108513809910ee2a",
+    "wof:geomhash":"530404387b0ed91ed5fc3a4945746e86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -420,7 +426,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930367,
+    "wof:lastmodified":1695885270,
     "wof:name":"Karlovacka",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

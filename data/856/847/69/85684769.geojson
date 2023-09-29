@@ -381,12 +381,18 @@
         "gn:id":3337526,
         "gp:id":12577984,
         "hasc:id":"HR.SM",
+        "iso:code":"HR-03",
         "iso:id":"HR-03",
+        "qs:local_id":"03",
         "unlc:id":"HR-03",
         "wd:id":"Q57060"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"01f641adfe8a723f25464293fe1a4f23",
+    "wof:geomhash":"78e72f6f3dc90ed169c2bf1457c20cfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -402,7 +408,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930368,
+    "wof:lastmodified":1695885269,
     "wof:name":"Sisacko-moslavacka",
     "wof:parent_id":85633229,
     "wof:placetype":"region",

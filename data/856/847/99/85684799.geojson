@@ -362,12 +362,18 @@
         "gn:id":3337518,
         "gp:id":12577976,
         "hasc:id":"HR.KK",
+        "iso:code":"HR-06",
         "iso:id":"HR-06",
+        "qs:local_id":"06",
         "unlc:id":"HR-06",
         "wd:id":"Q58026"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"HR",
-    "wof:geomhash":"55a14dfcc40488ca1f279c29331a63a8",
+    "wof:geomhash":"b99cbf19976d5cc29665015e7bdcb4bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -383,7 +389,7 @@
         "hrv",
         "ita"
     ],
-    "wof:lastmodified":1690930371,
+    "wof:lastmodified":1695885270,
     "wof:name":"Koprivnicko-kri\u017eevacka",
     "wof:parent_id":85633229,
     "wof:placetype":"region",
