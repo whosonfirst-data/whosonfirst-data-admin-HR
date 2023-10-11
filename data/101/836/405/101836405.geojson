@@ -63,10 +63,10 @@
         "\u03a4\u03c1\u03bf\u03b3\u03ba\u03af\u03c1"
     ],
     "name:eng_x_preferred":[
-        "Trau"
+        "Trogir"
     ],
     "name:eng_x_variant":[
-        "Trogir"
+        "Trau"
     ],
     "name:epo_x_preferred":[
         "Trogir"
@@ -252,7 +252,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690930506,
+    "wof:lastmodified":1697052017,
     "wof:name":"Trogir",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",
