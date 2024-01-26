@@ -12,6 +12,7 @@
     "gn:admin1_code":"5.0",
     "gn:admin2_code":"11049278.0",
     "gn:asciiname":"Seliste",
+    "gn:cc2":"HR",
     "gn:country_code":"HR",
     "gn:dem":419,
     "gn:feature_class":"P",
@@ -30,20 +31,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:bos_x_preferred":[
+        "Seli\u0161te Dre\u017eni\u010dko"
+    ],
+    "name:cat_x_preferred":[
+        "Seli\u0161te Dre\u017eni\u010dko"
+    ],
     "name:ceb_x_preferred":[
         "Seliste"
     ],
     "name:est_x_preferred":[
         "Seliste"
     ],
+    "name:hrv_x_preferred":[
+        "Seli\u0161te Dre\u017eni\u010dko"
+    ],
+    "name:hun_x_preferred":[
+        "Seli\u0161te Dre\u017eni\u010dko"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0565\u056c\u056b\u057d\u057f\u0565"
+    ],
+    "name:nld_x_preferred":[
+        "Seli\u0161te Dre\u017eni\u010dko"
     ],
     "name:pol_x_preferred":[
         "Seliste"
     ],
+    "name:slv_x_preferred":[
+        "Seli\u0161te Dre\u017eni\u010dko"
+    ],
+    "name:spa_x_preferred":[
+        "Seli\u0161te Dre\u017eni\u010dko"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u0448\u0442\u0435 \u0414\u0440\u0435\u0436\u043d\u0438\u0447\u043a\u043e"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043b\u0456\u0441\u0442\u0435"
+    ],
+    "name:und_x_variant":[
+        "Seli\u0161\u0107e Dre\u017eni\u010dko",
+        "Seli\u0161\u0107e"
     ],
     "name:vol_x_preferred":[
         "Seliste"
@@ -54,7 +83,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":3275383
+        "gn:id":3275383,
+        "wk:page":"Seli%C5%A1te_Dre%C5%BEni%C4%8Dko"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3191106
+        ]
     },
     "wof:country":"HR",
     "wof:geomhash":"350beb39c502701cb734192a3df96209",
@@ -65,13 +100,15 @@
         }
     ],
     "wof:id":1209313695,
-    "wof:lastmodified":1566647012,
+    "wof:lastmodified":1706239762,
     "wof:name":"Seliste",
     "wof:parent_id":85633229,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276767509
+    ],
     "wof:tags":[]
 },
   "bbox": [

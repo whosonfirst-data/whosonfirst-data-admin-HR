@@ -66,6 +66,11 @@
         "gn:id":3201457,
         "wk:page":"Donji_Kosinj"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3275478
+        ]
+    },
     "wof:country":"HR",
     "wof:geomhash":"622ffc50ebd28590db52e9549f036ec8",
     "wof:hierarchy":[
@@ -77,13 +82,15 @@
         }
     ],
     "wof:id":1259872921,
-    "wof:lastmodified":1566647716,
+    "wof:lastmodified":1706239762,
     "wof:name":"Donji Kosinj",
     "wof:parent_id":85684737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293191527
+    ],
     "wof:tags":[]
 },
   "bbox": [

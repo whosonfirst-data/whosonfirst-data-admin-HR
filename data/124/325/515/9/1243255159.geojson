@@ -10,6 +10,7 @@
     "geom:latitude":46.00084,
     "geom:longitude":15.72727,
     "gn:admin1_code":"7.0",
+    "gn:admin2_code":"11049188.0",
     "gn:asciiname":"Lukavec Klanjecki",
     "gn:cc2":"HR",
     "gn:country_code":"HR",
@@ -45,6 +46,11 @@
     "wof:concordances":{
         "gn:id":3222271
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3213517
+        ]
+    },
     "wof:country":"HR",
     "wof:geomhash":"4fda32b71166b0ab666804143afc4378",
     "wof:hierarchy":[
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1243255159,
-    "wof:lastmodified":1566647595,
+    "wof:lastmodified":1706239762,
     "wof:name":"Lukavec Klanjecki",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",
@@ -64,7 +70,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-hr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293880397
+    ],
     "wof:tags":[]
 },
   "bbox": [

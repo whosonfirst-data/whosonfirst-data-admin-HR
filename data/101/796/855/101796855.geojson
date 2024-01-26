@@ -9,7 +9,22 @@
     "geom:bbox":"16.776732,42.933287,16.801297,42.943254",
     "geom:latitude":42.938337,
     "geom:longitude":16.789008,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"11054489.0",
+    "gn:asciiname":"Blato",
+    "gn:country_code":"HR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3203943,
+    "gn:latitude":42.94083,
+    "gn:longitude":16.79167,
+    "gn:modification_date":"2016-12-21",
+    "gn:name":"Blato",
+    "gn:population":0,
+    "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"16.77167,42.92083,16.81167,42.96083",
     "lbl:latitude":42.937918,
     "lbl:longitude":16.789242,
     "lbl:max_zoom":18.0,
@@ -135,7 +150,15 @@
         "wk:page":"Blato, Kor\u010dula"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1274858
+        "gn:id":[
+            3203943
+        ],
+        "qs_pg:id":[
+            1274858
+        ],
+        "wk:page":[
+            "Blato%2C_Kor%C4%8Dula"
+        ]
     },
     "wof:country":"HR",
     "wof:geom_alt":[
@@ -151,13 +174,15 @@
         }
     ],
     "wof:id":101796855,
-    "wof:lastmodified":1690930400,
+    "wof:lastmodified":1706239761,
     "wof:name":"Blato",
     "wof:parent_id":85684775,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293294417
+    ],
     "wof:tags":[]
 },
   "bbox": [

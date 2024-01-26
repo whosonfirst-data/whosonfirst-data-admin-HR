@@ -9,8 +9,11 @@
     "geom:bbox":"13.58823,45.146099,13.617334,45.178893",
     "geom:latitude":45.163398,
     "geom:longitude":13.603656,
+    "gn:country":"HR",
+    "gn:fcode":"PPL",
     "gn:population":1881,
     "iso:country":"HR",
+    "lbl:bbox":"13.58528,45.12917,13.62528,45.16917",
     "lbl:latitude":45.173187,
     "lbl:longitude":13.604724,
     "lbl:max_zoom":16.0,
@@ -20,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
         "Vrsar"
     ],
@@ -128,11 +132,35 @@
     "qs:pop":0,
     "qs:source":"VCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"HR",
+    "qs_pg:gn_country":"HR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3187145,
+    "qs_pg:gn_pop":1881,
+    "qs_pg:name":"Vrsar",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Istarska",
+    "qs_pg:photos":805,
+    "qs_pg:photos_1k":163,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":805,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":241089,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":851068,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Istarska",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         85633229,
@@ -146,6 +174,20 @@
         "qs_pg:id":241089,
         "wd:id":"Q838612",
         "wk:page":"Vrsar"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3187145
+        ],
+        "gp:id":[
+            851068
+        ],
+        "qs_pg:id":[
+            241089
+        ],
+        "wd:id":[
+            "Q838612"
+        ]
     },
     "wof:country":"HR",
     "wof:geomhash":"a3e86f7e8bf732405502cc2fea46ec9f",
@@ -161,7 +203,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690930463,
+    "wof:lastmodified":1706239761,
     "wof:name":"Vrsar",
     "wof:parent_id":85684785,
     "wof:placetype":"locality",
@@ -169,7 +211,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-hr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125890475
+    ],
     "wof:tags":[]
 },
   "bbox": [

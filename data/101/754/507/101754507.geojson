@@ -9,8 +9,22 @@
     "geom:bbox":"14.461041,45.341635,14.493407,45.35785",
     "geom:latitude":45.349928,
     "geom:longitude":14.478672,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"11049432.0",
+    "gn:asciiname":"Buzdohanj",
+    "gn:country_code":"HR",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3214494,
+    "gn:latitude":45.34528,
+    "gn:longitude":14.48833,
+    "gn:modification_date":"2016-12-26",
+    "gn:name":"Buzdohanj",
     "gn:population":1254,
+    "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"14.46833,45.32528,14.50833,45.36528",
     "lbl:latitude":45.348538,
     "lbl:longitude":14.482963,
     "lbl:max_zoom":16.0,
@@ -119,6 +133,11 @@
         "wd:id":"Q337798",
         "wk:page":"\u010cavle"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3214494
+        ]
+    },
     "wof:country":"HR",
     "wof:geomhash":"c6dd0604c77a98a8a8547b29ef285132",
     "wof:hierarchy":[
@@ -130,7 +149,7 @@
         }
     ],
     "wof:id":101754507,
-    "wof:lastmodified":1690930381,
+    "wof:lastmodified":1706239761,
     "wof:name":"Buzdohanj",
     "wof:parent_id":85684789,
     "wof:placetype":"locality",
@@ -138,7 +157,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-hr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243048233
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -10,6 +10,7 @@
     "geom:latitude":46.11389,
     "geom:longitude":15.87667,
     "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3197366.0",
     "gn:asciiname":"Gornja Pacetina",
     "gn:cc2":"HR",
     "gn:country_code":"HR",
@@ -58,6 +59,7 @@
         "Zemli\u010devo"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633229,
@@ -68,8 +70,13 @@
         "gn:id":3213506,
         "wk:page":"Gornja_Pa%C4%8Detina"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3200214
+        ]
+    },
     "wof:country":"HR",
-    "wof:geomhash":"58bfef3f55dc149d481978cd5201d3c0",
+    "wof:geomhash":"f3f797b84bf9040e916b6c915c5bb1bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,20 +86,24 @@
         }
     ],
     "wof:id":1242599033,
-    "wof:lastmodified":1566647566,
+    "wof:lastmodified":1706239762,
     "wof:name":"Gornja Pacetina",
     "wof:parent_id":85684813,
     "wof:placetype":"locality",
+    "wof:population":404,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-hr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277071413
+    ],
     "wof:tags":[]
 },
   "bbox": [
     15.87667,
-    46.11389000000001,
+    46.11389,
     15.87667,
-    46.11389000000001
+    46.11389
 ],
-  "geometry": {"coordinates":[15.87667,46.11389000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.87667,46.11389],"type":"Point"}
 }
