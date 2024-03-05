@@ -9,7 +9,22 @@
     "geom:bbox":"15.782367,45.737982,15.800235,45.755881",
     "geom:latitude":45.747257,
     "geom:longitude":15.791044,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"3191315.0",
+    "gn:asciiname":"Rakov Potok",
+    "gn:country_code":"HR",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3191985,
+    "gn:latitude":45.73806,
+    "gn:longitude":15.79722,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Rakov Potok",
+    "gn:population":1134,
+    "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.77722,45.71806,15.81722,45.75806",
     "lbl:latitude":45.746951,
     "lbl:longitude":15.791924,
     "lbl:max_zoom":18.0,
@@ -72,6 +87,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":89,
     "wof:belongsto":[
         102191581,
@@ -87,7 +103,15 @@
         "wk:page":"Rakov Potok"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1127266
+        "gn:id":[
+            3191985
+        ],
+        "qs_pg:id":[
+            1127266
+        ],
+        "wk:page":[
+            "Rakov_Potok"
+        ]
     },
     "wof:country":"HR",
     "wof:geom_alt":[
@@ -103,13 +127,17 @@
         }
     ],
     "wof:id":101792389,
-    "wof:lastmodified":1690930499,
+    "wof:lastmodified":1706239761,
     "wof:name":"Rakov Potok",
     "wof:parent_id":85684765,
     "wof:placetype":"locality",
+    "wof:population":1134,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-hr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243519277
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,23 @@
     "geom:bbox":"15.111606,44.247876,15.137152,44.269957",
     "geom:latitude":44.258916,
     "geom:longitude":15.12587,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Privlaka",
+    "gn:cc2":"HR",
+    "gn:country_code":"HR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3192346,
     "gn:id":"3192346,3216549",
+    "gn:latitude":44.26667,
+    "gn:longitude":15.13333,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Privlaka",
+    "gn:population":2253,
+    "gn:timezone":"Europe/Zagreb",
     "iso:country":"HR",
+    "lbl:bbox":"15.11333,44.24667,15.15333,44.28667",
     "lbl:latitude":44.252934,
     "lbl:longitude":15.129935,
     "lbl:max_zoom":18.0,
@@ -59,6 +74,9 @@
     "name:nob_x_preferred":[
         "Privlaka"
     ],
+    "name:nor_x_preferred":[
+        "Privlaka"
+    ],
     "name:pol_x_preferred":[
         "Gmina Privlaka"
     ],
@@ -86,6 +104,9 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u0432\u043b\u0430\u043a\u0430"
     ],
+    "name:und_x_variant":[
+        "Prevlaka"
+    ],
     "name:vec_x_preferred":[
         "Privlaka"
     ],
@@ -112,6 +133,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":14,
     "wof:belongsto":[
         102191581,
@@ -123,10 +145,16 @@
         "gn:id":3216549,
         "gp:id":849869,
         "qs_pg:id":9,
-        "wd:id":"Q1018714"
+        "wd:id":"Q1018714",
+        "wk:page":"Privlaka%2C_Zadar_County"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1044097
+        "gn:id":[
+            3192346
+        ],
+        "qs_pg:id":[
+            1044097
+        ]
     },
     "wof:country":"HR",
     "wof:geom_alt":[
@@ -142,13 +170,17 @@
         }
     ],
     "wof:id":101795771,
-    "wof:lastmodified":1690930482,
+    "wof:lastmodified":1706239761,
     "wof:name":"Privlaka",
     "wof:parent_id":85684807,
     "wof:placetype":"locality",
+    "wof:population":2253,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-hr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277142511
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,7 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633229,
@@ -38,6 +39,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3215142
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3187322
+        ]
     },
     "wof:country":"HR",
     "wof:geomhash":"8b0737e965fdd5110c3967534715bd00",
@@ -50,13 +56,17 @@
         }
     ],
     "wof:id":1243425389,
-    "wof:lastmodified":1566647639,
+    "wof:lastmodified":1706239762,
     "wof:name":"Vratecko",
     "wof:parent_id":85684769,
     "wof:placetype":"locality",
+    "wof:population":60,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-hr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276849673
+    ],
     "wof:tags":[]
 },
   "bbox": [
